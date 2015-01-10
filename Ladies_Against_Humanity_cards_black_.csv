@@ -2,6 +2,9 @@ text,blanks
 """Baby, what's wrong?""",1
 """Daddy? What are you doing?""",1
 """Whatever Peeta. You'll never understand my struggle with ______.""",1
+"&acirc;&euro;&oelig;Baby, what's wrong?&acirc;&euro;ù",1
+"&acirc;&euro;&oelig;Daddy? What are you doing?&acirc;&euro;ù",1
+"&acirc;&euro;&oelig;Whatever Peeta. You'll never understand my struggle with ______.&acirc;&euro;ù",1
 "50 Shades of ______.",1
 "All I want for Pi day is ______ and 3.14 actual pies.",1
 "Are you there, God? It's me, ______.",1
@@ -19,15 +22,18 @@ text,blanks
 "I thought I'd win her heart by ______, but sadly McKayla was not impressed.",1
 "I'm not a smoker at all, just sometimes I need a cigarette to deal with ______.",1
 "I'm not even thinking about having a baby because I'm extremely busy ______.",1
+"I'm so excited! I'm so excited! I'm so&acirc;&euro;&brvbar; so&acirc;&euro;&brvbar; ______.",1
 "I'm so excited! I'm so excited! I'm so... so... ______.",1
 "If you don't mind my asking, how *do* lesbians have sex?",1
 "In ""A Time to Kill,"" Matthew McConaughey hated racism more than ______.",1
+"In ""A Time to Kill,&acirc;&euro;ù Matthew McConaughey hated racism more than ______.",1
 "In her next romcom, Katherine Heigl plays a woman who falls in love with her boss's ______",1
 "Instead of a diamond ring, I want my partner to spend two months' salary on ______.",1
 "It's not cheating if I'm ______.",1
 "It's not length it's ______.",1
 "It's not that I think we should break up, it's just lately I've been thinking a lot about ______.",1
 "It's poker night with Beyonc&#233;. You pull ______ out of your bra and slam it on the table.",1
+"It's poker night with Beyonc&Atilde;&copy;. You pull ______ out of your bra and slam it on the table.",1
 "Letting a white bro think he understands ______ better than you do.",1
 "MASH: Mansion Apartment, Shack, ______.",1
 "Math is hard. Let's go ______!",1
@@ -52,6 +58,7 @@ text,blanks
 "The Pantone color of the year is inspired by ______.",1
 "The secrets to John Boehner's smooth, even tan are a cream made from aborted fetuses and ______.",1
 "The thing I want most for Valentine's Day is my set of ""Ladies Against Humanity"" cards, but the thing I want second-most is ______.",1
+"The thing I want most for Valentine's Day is my set of &acirc;&euro;&oelig;Ladies Against Humanity&acirc;&euro;ù cards, but the thing I want second-most is ______.",1
 "This month in Cosmo; How to give your man ______ at the expense of ______.",2
 "This year's top Super Bowl commercial will use ______ to advertise Budweiser beer.",1
 "We are never. Ever. Ever. Ever ______.",1
@@ -67,17 +74,20 @@ text,blanks
 "What's my preferred method of contraception?",1
 "What's my preferred way of celebrating International Women's Day?",1
 "What's my weapon of choice in the ""War on Women""?",1
+"What's my weapon of choice in the &acirc;&euro;&oelig;War on Women&acirc;&euro;ù?",1
 "What's one thing straight white guys like even better than feeling oppressed?",1
 "What's Seth MacFarlane's problem?",1
 "What's the most privileged thing I do on the regs?",1
 "What's the one thing that worried Russia's anti-gay police even more than the entire sport of figure skating?",1
 "What's the one totally unexpected thing that helps Emeril stay hard?",1
 "What's the real reason there's no Wonder Woman movie?",1
+"What's the secret ingredient in Proactive&Acirc;&reg;?",1
 "What's the secret ingredient in Proactive&reg;?",1
 "What's the weirdest thing that's been in my vagina?",1
 "When I found out PARKS & REC was renewed for a seventh season, I celebrated by ______.",1
 "When Queen Elizabeth has to keep smiling, she just thinks of ______.",1
 "When they finally convince Chris Harrison to be The Bachelor, I'll win his heart by ______.",1
+"Why can't we have nice things?",1
 "Why do men on the internet send me pictures of ______?",1
 "Why does the Komen Foundation hate Planned Parenthood?",1
 "Why exactly was Alains so mad at uncle Joey?",1
