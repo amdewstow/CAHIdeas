@@ -38,9 +38,11 @@ text,blanks
 "If you were sent to hell right now and one moment of your life was on loop, what would it be?",1
 "If you were the main story on the 6 o'clock news tonight, what would your 5 second headline be?",1
 "In 4 words, can you describe the city you live in? ______, ______, ______, ______.",4
+"In the year 2020, what will be on the front page of reddit?",1
 "It’s easier for kids to get away with ______ than adults.",1
 "I’m getting real tired of explaining the ______ card.",1
 "I’ve really struggled with ______ all my life, but it’s hard to complain about it to others.",1
+"Just got an android phone, what is the first thing. I should do to optimize it?",1
 "Man, I’m glad I’m over my teenage ""______"" phase.",1
 "Men who have learned to last longer in bed, what's your secret?",1
 "My college roommate was completely mad at me for having ______ in the dorm. I mean, come on, man, lighten up.",1
@@ -126,6 +128,7 @@ text,blanks
 "What is one activity/fad that everyone in your elementary school was obsessed with?",1
 "What is one thing that receives an unnecessary amount of hate?",1
 "What is one thing you can do everyday and not get tired of?",1
+"What is some kinky shit you're into?",1
 "What is some minor thing your SO does that just drives you insane?",1
 "What is something awesome you've created that needs publicity?",1
 "What is something from your generation that no longer exists or is obsolete?",1
@@ -164,6 +167,7 @@ text,blanks
 "What is the tl;dr of your job description?",1
 "What is the worst (or best) thing you have ever encountered on the internet?",1
 "What is the worst meal you've ever had?",1
+"What is the worst video game you ever played?",1
 "What is your ""Plan B"" when a conversation you start becomes awkward?",1
 "What is your biggest pet peeve?",1
 "What is your biggest regret?",1
@@ -181,6 +185,7 @@ text,blanks
 "What is your phobia?",1
 "What is your secret shame?",1
 "What is your special ability?",1
+"What is your superhero name?",1
 "What is your toilet paper plan B?",1
 "What is your uncool talent?",1
 "What little actions done by others instantly improve your day?",1
@@ -190,6 +195,7 @@ text,blanks
 "What makes you nervous that no one else seems to acknowledge?",1
 "What makes you uncomfortable?",1
 "What minor noise bothers you the most?",1
+"What movie fucked you up as a child?",1
 "What movie sends the worst message?",1
 "What non-sexual thing makes you happiest?",1
 "What object do you think has never been used to kill another person?",1
@@ -265,6 +271,7 @@ text,blanks
 "What's the greatest non-sexual pleasure?",1
 "What's the most inappropriate song for a funeral?",1
 "Whats one thing you can do as a Kid but not as an adult?",1
+"whats the one thing that you miss doing from your childhood?",1
 "Whats the weirdest thing you've walked in on in a public bathroom?",1
 "When did your childhood end?",1
 "When I met my girlfriend’s parents, I made the mistake of mentioning my ______ hobby.",1
@@ -289,6 +296,10 @@ text,blanks
 "You know what I really need? A &ldquo;Honk if you like ______&rdquo; bumper sticker.",1
 "You're on Death Row, what is your last meal?",1
 "Your mother was a ______ and your father smelled of ______",2
+"______ has  happened to everybody at least once.",1
+"______ is the funniest phrase in the English language.",1
+"______ is the worst kind of employee.",1
 "______ sounds dirty but is not.",1
+"______ was my greatest achievement of 2014.",1
 "______. Scarier at night that during the day.",1
 "______. That’s when my childhood officially ended.",1

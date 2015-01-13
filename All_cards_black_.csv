@@ -41,9 +41,11 @@ text,blanks,Pack
 "If you were sent to hell right now and one moment of your life was on loop, what would it be?",1,/r/AskReddit
 "If you were the main story on the 6 o'clock news tonight, what would your 5 second headline be?",1,/r/AskReddit
 "In 4 words, can you describe the city you live in? ______, ______, ______, ______.",4,/r/AskReddit
+"In the year 2020, what will be on the front page of reddit?",1,/r/AskReddit
 "It’s easier for kids to get away with ______ than adults.",1,/r/AskReddit
 "I’m getting real tired of explaining the ______ card.",1,/r/AskReddit
 "I’ve really struggled with ______ all my life, but it’s hard to complain about it to others.",1,/r/AskReddit
+"Just got an android phone, what is the first thing. I should do to optimize it?",1,/r/AskReddit
 "Man, I’m glad I’m over my teenage ""______"" phase.",1,/r/AskReddit
 "Men who have learned to last longer in bed, what's your secret?",1,/r/AskReddit
 "My college roommate was completely mad at me for having ______ in the dorm. I mean, come on, man, lighten up.",1,/r/AskReddit
@@ -129,6 +131,7 @@ text,blanks,Pack
 "What is one activity/fad that everyone in your elementary school was obsessed with?",1,/r/AskReddit
 "What is one thing that receives an unnecessary amount of hate?",1,/r/AskReddit
 "What is one thing you can do everyday and not get tired of?",1,/r/AskReddit
+"What is some kinky shit you're into?",1,/r/AskReddit
 "What is some minor thing your SO does that just drives you insane?",1,/r/AskReddit
 "What is something awesome you've created that needs publicity?",1,/r/AskReddit
 "What is something from your generation that no longer exists or is obsolete?",1,/r/AskReddit
@@ -167,6 +170,7 @@ text,blanks,Pack
 "What is the tl;dr of your job description?",1,/r/AskReddit
 "What is the worst (or best) thing you have ever encountered on the internet?",1,/r/AskReddit
 "What is the worst meal you've ever had?",1,/r/AskReddit
+"What is the worst video game you ever played?",1,/r/AskReddit
 "What is your ""Plan B"" when a conversation you start becomes awkward?",1,/r/AskReddit
 "What is your biggest pet peeve?",1,/r/AskReddit
 "What is your biggest regret?",1,/r/AskReddit
@@ -184,6 +188,7 @@ text,blanks,Pack
 "What is your phobia?",1,/r/AskReddit
 "What is your secret shame?",1,/r/AskReddit
 "What is your special ability?",1,/r/AskReddit
+"What is your superhero name?",1,/r/AskReddit
 "What is your toilet paper plan B?",1,/r/AskReddit
 "What is your uncool talent?",1,/r/AskReddit
 "What little actions done by others instantly improve your day?",1,/r/AskReddit
@@ -193,6 +198,7 @@ text,blanks,Pack
 "What makes you nervous that no one else seems to acknowledge?",1,/r/AskReddit
 "What makes you uncomfortable?",1,/r/AskReddit
 "What minor noise bothers you the most?",1,/r/AskReddit
+"What movie fucked you up as a child?",1,/r/AskReddit
 "What movie sends the worst message?",1,/r/AskReddit
 "What non-sexual thing makes you happiest?",1,/r/AskReddit
 "What object do you think has never been used to kill another person?",1,/r/AskReddit
@@ -268,6 +274,7 @@ text,blanks,Pack
 "What's the greatest non-sexual pleasure?",1,/r/AskReddit
 "What's the most inappropriate song for a funeral?",1,/r/AskReddit
 "Whats one thing you can do as a Kid but not as an adult?",1,/r/AskReddit
+"whats the one thing that you miss doing from your childhood?",1,/r/AskReddit
 "Whats the weirdest thing you've walked in on in a public bathroom?",1,/r/AskReddit
 "When did your childhood end?",1,/r/AskReddit
 "When I met my girlfriend’s parents, I made the mistake of mentioning my ______ hobby.",1,/r/AskReddit
@@ -292,7 +299,11 @@ text,blanks,Pack
 "You know what I really need? A &ldquo;Honk if you like ______&rdquo; bumper sticker.",1,/r/AskReddit
 "You're on Death Row, what is your last meal?",1,/r/AskReddit
 "Your mother was a ______ and your father smelled of ______",2,/r/AskReddit
+"______ has  happened to everybody at least once.",1,/r/AskReddit
+"______ is the funniest phrase in the English language.",1,/r/AskReddit
+"______ is the worst kind of employee.",1,/r/AskReddit
 "______ sounds dirty but is not.",1,/r/AskReddit
+"______ was my greatest achievement of 2014.",1,/r/AskReddit
 "______. Scarier at night that during the day.",1,/r/AskReddit
 "______. That’s when my childhood officially ended.",1,/r/AskReddit
 """Are you afraid of God, Booker?"" ""No. But I'm afraid of ______.""",1,/r/cahideas/
@@ -512,6 +523,7 @@ text,blanks,Pack
 "French scientists have been here for weeks studying ______",1,/r/cahideas/
 "From the award winning novel comes the movie about one man and ______.",1,/r/cahideas/
 "From the creators of /r/spacedicks, there is a new subreddit, about ______!!!!!!!!!",1,/r/cahideas/
+"Fun Fact: Jerry Lewis filmed a movie about ______ working in a concentration camp, but never showed it publicly.",1,/r/cahideas/
 "Genius is 10% inspiration and 90% ______.",1,Assortment
 "Genius: * 10% inspiration * 90% ______.",1,/r/cahideas/
 "Getting someone started on ______ even after they specifically ask you not to.",1,/r/cahideas/
@@ -532,6 +544,7 @@ text,blanks,Pack
 "Grocery List: Eggs, bread, butter, ______, milk.",1,/r/cahideas/
 "Groundbreaking research provides convincing evidence that ______ killed the dinosaurs.",1,Assortment
 "Guess who I just saw on COPS?",1,/r/cahideas/
+"Guess you guys aren't ready for ______ yet. But ______ is/are gonna love it.",2,/r/cahideas/
 "Guys, you have to check out my new ringtone! It's ______ singing about ______ for 45 seconds!",2,/r/cahideas/
 "Hakuna Matata, it means ______.",1,/r/cahideas/
 "Hannukkah was ruined last year due to ______.",1,Assortment
@@ -1491,6 +1504,7 @@ ______.com.,1,Assortment
 "______? Oh, is that what you want? Because that's how you get ants!",1,/r/cahideas/
 "______? That's a paddlin'.",1,/r/cahideas/
 "______? There's a subreddit for that!",1,/r/cahideas/
+"______? Where we're going we don't need... ______.",2,/r/cahideas/
 "______and______ star in an all new naked and afraid.",2,/r/cahideas/
 "An insider has revealed that the secret ingredient in Coca Cola is ______.",1,/u/BandAidBandit
 "At the beginning of my Pok&#233;mon journey, Professor Oak let me choose between Charmander, Squirtle, and ______.",1,/u/BandAidBandit
