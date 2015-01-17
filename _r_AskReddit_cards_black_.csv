@@ -2,6 +2,7 @@ text,blanks
 "A chip and dip combo. ______ dipped in ______.",2
 "After I moved in with my significant other I learned they had a secret obsession with ______?",1
 "At my job I’m basically ______",1
+"Besides a god or deity, what do you worship?",1
 "Do to the rapid advancement of technology, I fear the children of the next generation will never get to experience ______.",1
 "Explorers of the deep-web, what have you found?",1
 "Finals week is weird, one time I actually saw someone have a complete mental breakdown because of ______",1
@@ -20,6 +21,7 @@ text,blanks
 "I only pretend to enjoy ______, but everyone else seems to really like it.",1
 "I simply cannot bring myself to give a fuck about ______",1
 "I would never get ______ for myself, but would love to give it as a gift.",1
+"I would NOT want a lifetime supply of ______.",1
 "If cats had their own internet, what would be on it?",1
 "If I had to sum-up the city of [your hometown] in one phrase it would have to be &ldquo;______&rdquo;",1
 "If I were a superhero, what would my secret yet ultimate weakness be?",1
@@ -27,17 +29,20 @@ text,blanks
 "If life was an RPG and you died what loot would you drop?",1
 "If there was a book called 'How To Be That Person Everybody Hates', what would be in it? ______, ______, and ______.",3
 "If you could choose your last words, what would they be?",1
+"If you could have one thing for free, real or fictitious, what would it be?",1
 "If you could open a sex toy shop, what would you name it?",1
 "If you had a one way ticket to the middle ages, what modern item would you bring with you?",1
 "If you had one wish, what would you wish for?",1
 "If you had three months paid leave from work, what would you do?",1
 "If you had to 'fish' for humans, what kind of bait would you use?",1
+"If you had unlimited funds in your bank and you and your friends were bored, what would you do?",1
 "If you were a present, what would be the reason everyone returned/regifted you?",1
 "If you were able to send Kim Jong Un one thing, what would it be?",1
 "If you were homeless, what would your cardboard sign say?",1
 "If you were sent to hell right now and one moment of your life was on loop, what would it be?",1
 "If you were the main story on the 6 o'clock news tonight, what would your 5 second headline be?",1
 "In 4 words, can you describe the city you live in? ______, ______, ______, ______.",4
+"In high school I was know for ______.",1
 "In the year 2020, what will be on the front page of reddit?",1
 "It’s easier for kids to get away with ______ than adults.",1
 "I’m getting real tired of explaining the ______ card.",1
@@ -91,9 +96,11 @@ text,blanks
 "What defunct company or product do you miss the most?",1
 "What did the""weird kid"" in your class do?",1
 "What did you think was completely normal until shown otherwise?",1
+"What did your SO say or do that made you realize they were a 'keeper' ?",1
 "What do movies always get wrong?",1
 "What do people often mistake you for when you meet for the first time?",1
 "What do you do right before you go to sleep?",1
+"What do you do to relax?",1
 "What do you find unattractive?",1
 "What do you hate with a burning passion?",1
 "What do you look like right now?",1
@@ -152,6 +159,7 @@ text,blanks
 "What is the best argument *against* handicapped parking spaces?",1
 "What is the best bad smell?",1
 "What is the best insult you can come up with without using a curse word?",1
+"What is the best way to set a first great impression?",1
 "What is the creepiest thing you've found or experienced outside that you can't explain?",1
 "What is the first memory you have of using the Internet?",1
 "What is the greatest non-sexual pleasure?",1
@@ -173,6 +181,7 @@ text,blanks
 "What is your biggest regret?",1
 "What is your bold prediction for 2015?",1
 "what is your catchphrase ?",1
+"What is your city known for?",1
 "What is your favorite nonsensical insult?",1
 "What is your favorite one-line insult?",1
 "What is your favorite thing to do while stuck at home?",1
@@ -208,6 +217,7 @@ text,blanks
 "What puts you in the mood?",1
 "What ruins sex for you?",1
 "What ruins sex instantly?",1
+"What should have never been invented?",1
 "What smell do you like that most people don't?",1
 "What smells better than it tastes?",1
 "What song do you want played at your funeral?",1
@@ -239,6 +249,7 @@ text,blanks
 "What's a hobby you want to get into but don't you know where to start?",1
 "What's a must see movie on Netflix?",1
 "What's about to become popular?",1
+"What's currently open in your other tabs?",1
 "What's going through your mind right now?",1
 "What's hot right now?",1
 "What's in your fridge that people would think is weird?",1
@@ -255,8 +266,11 @@ text,blanks
 "What's the best thing that happened to you in 2014?",1
 "What's the biggest prize you've won?",1
 "What's the dumbest thing you did as a child?",1
+"What's the greatest non-sexual pleasure?",1
 "What's the most astounding fact you know about the world?",1
 "What's the most dangerous thing you did as a child that you didn't realize was dangerous until you got older?",1
+"What's the most immoral thing you can do that is 100% legal?",1
+"What's the most inappropriate song for a funeral?",1
 "What's the most ridiculous thing spotted during an X-ray?",1
 "What's the worst possible thing you could say when meeting your boyfriend/girlfriend's parents for the first time?",1
 "What's the worst super power you could have?",1
@@ -267,9 +281,6 @@ text,blanks
 "What's your go to comfort food that you can make in 5 minutes?",1
 "What's your life's biography? Using only 6 words.",1
 "What's your most disgusting habit?",1
-"What's currently open in your other tabs?",1
-"What's the greatest non-sexual pleasure?",1
-"What's the most inappropriate song for a funeral?",1
 "Whats one thing you can do as a Kid but not as an adult?",1
 "whats the one thing that you miss doing from your childhood?",1
 "Whats the weirdest thing you've walked in on in a public bathroom?",1
@@ -281,6 +292,7 @@ text,blanks
 "Which band has the best lyrical content?",1
 "Which bear is best?",1
 "Which new trends do you hope disappear in 2015?",1
+"Which topic could you make a 3-hour lecture about, off the top of your head?",1
 "Who are the worst kinds of people?",1
 "Who is the most Hateable character in a T.V. or movie series?",1
 "Who is the most influential person that no one knows about?",1
@@ -297,7 +309,10 @@ text,blanks
 "You're on Death Row, what is your last meal?",1
 "Your mother was a ______ and your father smelled of ______",2
 "______ has  happened to everybody at least once.",1
+"______ is a must-have that costs $25 or less.",1
+"______ is my earliest memory?",1
 "______ is the funniest phrase in the English language.",1
+"______ is the most revolting sexual experience!",1
 "______ is the worst kind of employee.",1
 "______ sounds dirty but is not.",1
 "______ was my greatest achievement of 2014.",1
