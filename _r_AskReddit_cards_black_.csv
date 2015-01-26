@@ -14,12 +14,14 @@ text,blanks
 "How should one approach a cute girl in public?",1
 "I am afraid of ______.",1
 "I am temporarily obsessed with ______.",1
+"I don't want to live in a world without______",1
 "I have ______ as a &ldquo;plan B&rdquo; topic for when a conversation starts becoming awkward.",1
 "I know it’s a perfectly legitimate hobby, but I still cannot help but judge someone negatively for enjoying ______",1
 "I know it’s minor, but when I when I catch my boyfriend with ______ it just irritates the hell out of me.",1
 "I like my ______ like I like ______",2
 "I only pretend to enjoy ______, but everyone else seems to really like it.",1
 "I simply cannot bring myself to give a fuck about ______",1
+"I would love a lifetime supply of ______.",1
 "I would never get ______ for myself, but would love to give it as a gift.",1
 "I would NOT want a lifetime supply of ______.",1
 "If cats had their own internet, what would be on it?",1
@@ -126,6 +128,7 @@ text,blanks
 "What is a confession you want to make?",1
 "What is a cover song that you like better than the original?",1
 "What is a food item that you judge people for eating?",1
+"What is a good phrase to say to someone after they sneeze other than a form of ""bless you""?",1
 "What is a minor annoyance that sends you into an absolute rage?",1
 "What is a perfectly legitimate belief or hobby that you still judge someone negatively for?",1
 "What is a thing you only need to buy once, provided it is of proper quality?",1
@@ -139,6 +142,7 @@ text,blanks
 "What is some minor thing your SO does that just drives you insane?",1
 "What is something awesome you've created that needs publicity?",1
 "What is something from your generation that no longer exists or is obsolete?",1
+"What is something nobody can look cool doing?",1
 "What is something or someone that EVERYONE loves?",1
 "What is something stupid that makes you really emotional?",1
 "What is something that bothers you when others do it, but not when you do?",1
@@ -161,6 +165,7 @@ text,blanks
 "What is the best insult you can come up with without using a curse word?",1
 "What is the best way to set a first great impression?",1
 "What is the creepiest thing you've found or experienced outside that you can't explain?",1
+"What is the darkest thought that you have ever had?",1
 "What is the first memory you have of using the Internet?",1
 "What is the greatest non-sexual pleasure?",1
 "What is the luckiest thing that has ever happened to you?",1
@@ -264,6 +269,7 @@ text,blanks
 "What's that thing you struggle with but feel like you aren't allowed to complain about?",1
 "What's the best fake name you can make up right now?",1
 "What's the best thing that happened to you in 2014?",1
+"What's the best way to ruin your day?",1
 "What's the biggest prize you've won?",1
 "What's the dumbest thing you did as a child?",1
 "What's the greatest non-sexual pleasure?",1
@@ -302,6 +308,7 @@ text,blanks
 "Why do you consider your life ruined?",1
 "Why do you not believe in God?",1
 "You are sent 15 years into the future. You can bring one object to prove you are from the past. What do you bring?",1
+"You are walking down the street and a stranger slaps you with ______.",1
 "You can never be too old for ______",1
 "You have 10 min control of all TV broadcasts in North Korea what do you display?",1
 "You have a box labeled ""Emergency Kit."" Five items are inside. What are they? ______, ______, ______, ______, ______.",5
@@ -314,7 +321,10 @@ text,blanks
 "______ is the funniest phrase in the English language.",1
 "______ is the most revolting sexual experience!",1
 "______ is the worst kind of employee.",1
+"______ never fails to make me smile.",1
+"______ scared me as a child.",1
 "______ sounds dirty but is not.",1
 "______ was my greatest achievement of 2014.",1
+"______ would cause the  lamest possible apocalypse.",1
 "______. Scarier at night that during the day.",1
 "______. That’s when my childhood officially ended.",1
