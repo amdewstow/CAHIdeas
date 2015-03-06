@@ -19,6 +19,7 @@ text,blanks,Pack
 "I am afraid of ______.",1,/r/AskReddit
 "I am temporarily obsessed with ______.",1,/r/AskReddit
 "I don't want to live in a world without______",1,/r/AskReddit
+"I draw the line at ______.",1,/r/AskReddit
 "I HATE the word ""Vagina"" what word do you hate?",1,/r/AskReddit
 "I have ______ as a &ldquo;plan B&rdquo; topic for when a conversation starts becoming awkward.",1,/r/AskReddit
 "I intentionally mispronounce ______?",1,/r/AskReddit
@@ -73,12 +74,14 @@ text,blanks,Pack
 "The strangest thing you've ever seen on public transport is ______.",1,/r/AskReddit
 "The world is ending in 1 hour. What do you do?",1,/r/AskReddit
 "Throughout your life, what video game has stolen most of your time?",1,/r/AskReddit
+"What ""acquired taste"" do you think is hardest to acquire?",1,/r/AskReddit
 "What actually DID live up to its hype?",1,/r/AskReddit
 "What advice do you tell somebody who is going to have sex for the first time?",1,/r/AskReddit
 "What are common practices in porn that you find disgusting?",1,/r/AskReddit
 "What are health myths most people believe in?",1,/r/AskReddit
 "What are some fun things to do with about four people?",1,/r/AskReddit
 "What are some of the activities that you love and will never get tired of doing?",1,/r/AskReddit
+"What are some parenting ""cheat codes""?",1,/r/AskReddit
 "What are some things that you are tired of explaining ?",1,/r/AskReddit
 "What are some things you grew up doing that you're afraid your children will never be able to experience due to the rapid advancement of technology?",1,/r/AskReddit
 "What are the best books to read when trying to ""find yourself""?",1,/r/AskReddit
@@ -101,6 +104,7 @@ text,blanks,Pack
 "What cliche movie scene do you wish Hollywood would stop putting in Movies/TV Shows?",1,/r/AskReddit
 "What common food have you never tried before?",1,/r/AskReddit
 "What concept are you just completely unable to wrap your head around?",1,/r/AskReddit
+"What conspiracy theory do you believe in?",1,/r/AskReddit
 "What could actually put McDonald's out of business?",1,/r/AskReddit
 "What defunct company or product do you miss the most?",1,/r/AskReddit
 "What did the""weird kid"" in your class do?",1,/r/AskReddit
@@ -120,6 +124,7 @@ text,blanks,Pack
 "What do you think everyone does, but never talks about?",1,/r/AskReddit
 "What do you think should be in the average school curriculum but isn't?",1,/r/AskReddit
 "What do you think should be taught at schools, but isn't?",1,/r/AskReddit
+"What do you think when you watch COPS?",1,/r/AskReddit
 "What do you want for Christmas?",1,/r/AskReddit
 "What documentary really changed your views on ______?",1,/r/AskReddit
 "What food do you judge people for eating?",1,/r/AskReddit
@@ -146,6 +151,8 @@ text,blanks,Pack
 "What is one activity/fad that everyone in your elementary school was obsessed with?",1,/r/AskReddit
 "What is one thing that receives an unnecessary amount of hate?",1,/r/AskReddit
 "What is one thing you can do everyday and not get tired of?",1,/r/AskReddit
+"What is one thing you could eat everyday without getting sick of it?",1,/r/AskReddit
+"What is one thing you have always wanted but haven't been able to justify spending money on?",1,/r/AskReddit
 "What is some kinky shit you're into?",1,/r/AskReddit
 "What is some minor thing your SO does that just drives you insane?",1,/r/AskReddit
 "What is something awesome you've created that needs publicity?",1,/r/AskReddit
@@ -167,6 +174,7 @@ text,blanks,Pack
 "What is something you hated as a kid but now that your older, cannot live without?",1,/r/AskReddit
 "What is something you hated doing as a kid, but like doing as an adult?",1,/r/AskReddit
 "What is something you pretend to enjoy for the sake of your social life?",1,/r/AskReddit
+"what is something you thought was impressive as a child, but now think it really isn't?",1,/r/AskReddit
 "What is something your teachers were wrong about?",1,/r/AskReddit
 "What is the best argument *against* handicapped parking spaces?",1,/r/AskReddit
 "What is the best bad smell?",1,/r/AskReddit
@@ -188,8 +196,10 @@ text,blanks,Pack
 "What is the stupidest thing a US politician has ever said?",1,/r/AskReddit
 "What is the tl;dr of your job description?",1,/r/AskReddit
 "What is the worst (or best) thing you have ever encountered on the internet?",1,/r/AskReddit
+"What is the worst dish you have ever been served at a restaurant?",1,/r/AskReddit
 "What is the worst meal you've ever had?",1,/r/AskReddit
 "What is the worst video game you ever played?",1,/r/AskReddit
+"What is totally normal to you but just can't explain to other people?",1,/r/AskReddit
 "What is your ""Plan B"" when a conversation you start becomes awkward?",1,/r/AskReddit
 "What is your biggest pet peeve?",1,/r/AskReddit
 "What is your biggest regret?",1,/r/AskReddit
@@ -240,6 +250,7 @@ text,blanks,Pack
 "What sound do you hate?",1,/r/AskReddit
 "What stereotype do you have to deal with the most?",1,/r/AskReddit
 "What technology is perfect as it is and doesn't need to be improved?",1,/r/AskReddit
+"What thankless job have you quietly performed?",1,/r/AskReddit
 "What three items do I have in my box labeled &ldquo;in case of emergency&rdquo;? ______, ______, and ______.",3,/r/AskReddit
 "What torture technique would break you the fastest?",1,/r/AskReddit
 "What trend surprised you the most when it became popular?",1,/r/AskReddit
@@ -277,6 +288,7 @@ text,blanks,Pack
 "What's some obscure thing that comes up a lot in movies?",1,/r/AskReddit
 "What's something I can buy that will be illegal either soon or eventually?",1,/r/AskReddit
 "What's something that you did better as a child?",1,/r/AskReddit
+"What's something you didn't regret in the end?",1,/r/AskReddit
 "What's something you just can't understand or get excited about?",1,/r/AskReddit
 "What's something you know is wrong but do anyway?",1,/r/AskReddit
 "What's that one incident that you witnessed which you will never forget?",1,/r/AskReddit
@@ -288,10 +300,12 @@ text,blanks,Pack
 "What's the dumbest thing you did as a child?",1,/r/AskReddit
 "What's the greatest non-sexual pleasure?",1,/r/AskReddit
 "What's the most astounding fact you know about the world?",1,/r/AskReddit
+"What's the most convincing evidence that aliens have visited Earth?",1,/r/AskReddit
 "What's the most dangerous thing you did as a child that you didn't realize was dangerous until you got older?",1,/r/AskReddit
 "What's the most immoral thing you can do that is 100% legal?",1,/r/AskReddit
 "What's the most inappropriate song for a funeral?",1,/r/AskReddit
 "What's the most ridiculous thing spotted during an X-ray?",1,/r/AskReddit
+"What's the simplest thing that makes you happy?",1,/r/AskReddit
 "What's the worst possible thing you could say when meeting your boyfriend/girlfriend's parents for the first time?",1,/r/AskReddit
 "What's the worst super power you could have?",1,/r/AskReddit
 "What's the worst thing your SO has done?",1,/r/AskReddit
@@ -335,6 +349,7 @@ text,blanks,Pack
 "______ is the funniest phrase in the English language.",1,/r/AskReddit
 "______ is the most revolting sexual experience!",1,/r/AskReddit
 "______ is the worst kind of employee.",1,/r/AskReddit
+"______ makes me cringe.",1,/r/AskReddit
 "______ never fails to make me smile.",1,/r/AskReddit
 "______ scared me as a child.",1,/r/AskReddit
 "______ sounds dirty but is not.",1,/r/AskReddit
@@ -612,7 +627,9 @@ text,blanks,Pack
 "Hello, this is Onstar&reg;, it seems like you are having a problem with ______",1,/r/cahideas/
 "Here I go, here I go, here I go again. Girls, what's my weakness?",1,/r/cahideas/
 "Here's the mail, it never fails. It makes me want to wag my tail. When it comes I wanna wail: ______!",1,/r/cahideas/
+"Hey babe, are you _____? 'Cause your body is _____.",1,/r/cahideas/
 "Hey Farva, what's the name of that restaurant you like with all the goofy shit on the walls and the mozzarella sticks?",1,/r/cahideas/
+"Hey kids, try some ______-O's! It makes the milk taste like ______!",2,/r/cahideas/
 "Hey McFly you bojo! Those boards don't work on water! Unless you've got ______!",1,/r/cahideas/
 "Hey Rocky, watch me pull ______ out of my ______!",2,Assortment
 "Hey there you with ______ come back to my place, and live it up.",1,/r/cahideas/
@@ -765,6 +782,7 @@ text,blanks,Pack
 "I used to be ______ like you, until I took ______ in the ______.",3,/r/cahideas/
 "I wanted my kids to see some goats and maybe a lamb at the petting zoo, but instead all we saw was ______.",1,/r/cahideas/
 "I was a bit embarrassed when the ER staff pulled ______ out of my ass.",1,/r/cahideas/
+"I was accused of being involved with ______, but ______ proved my innocence",2,/r/cahideas/
 "I was driving ______ way before I got paid to do it.",1,carderator
 "I was embarrassed when the EMT's pulled ______ out of my ass.",1,/r/cahideas/
 "I was going down the shore, when ______ was causing traffic on the Parkway.",1,/r/cahideas/
@@ -784,6 +802,7 @@ text,blanks,Pack
 "I would do anything for ______, but I won't do ______.",2,/r/cahideas/
 "I would gladly eat ______ off of ______.",2,/r/cahideas/
 "I would have gotten away with it if it wasn't for ______.",1,/r/cahideas/
+"I would like to dedicate this award to ______, which helped me through so many hard times.",1,/r/cahideas/
 "I would not pay for ______ but I would enjoy it if I got t for free.",1,/r/cahideas/
 "I wouldn't have nothin' if I didn't have ______.",1,/r/cahideas/
 "I ______ my Pringles.",1,/r/cahideas/
@@ -1049,6 +1068,7 @@ text,blanks,Pack
 "Now witness the firepower of this fully armed and operational ______!",1,Assortment
 "Oh no! ______! My only weakness!",1,"Cards Against Equestria - Creator's Pack"
 "Oh, it sounds like she totally wants it! Who's gonna give it to her, my man? ______. That's who.",1,/r/cahideas/
+"Oh, look at me! I'm CAH______BLACK______BOT, and I love ______!",3,/r/cahideas/
 "Oh, you suffer from ______? There's a support group for that here at the church, y'know.",1,/r/cahideas/
 "Ohh, I've been very bad. I should be punished with ______.",1,/r/cahideas/
 "Okay, that is the LAST time I have ______ before bed!",1,/r/cahideas/
@@ -1056,6 +1076,7 @@ text,blanks,Pack
 "OMG this day literally couldn't get any worse... #______",1,/r/cahideas/
 "On a dark desert highway, ______ in my hair, warm smell of ______ rising up through the air.",2,/r/cahideas/
 "On a rainy day, I prefer to cuddle up with ______.",1,/r/cahideas/
+"On a scale from ______ to ______, how would you rate your pain?",2,/r/cahideas/
 "On Reddit, the most upvoted post is of ______.",1,/r/cahideas/
 "On second thought, I probably shouldn't mention my award for ______ on my resume...",1,/r/cahideas/
 "On the 8th day, God created ______, and saw that it was good.",1,Assortment
@@ -1064,10 +1085,12 @@ text,blanks,Pack
 "On the next episode of My Strange Addiction, ""I'm addicted to ______"".",1,Assortment
 "On the next Voyager mission, they're putting ______ in the capsule, so aliens could potentially find it one day and learn about our world.",1,/r/cahideas/
 "Once ______ hits your lips, it's so good.",1,/r/cahideas/
+"One nation under ______, indivisible, with ______ and ______ for all.",3,/r/cahideas/
 "One of the least understood Nostradamus predictions is 'Through a frightful flood upon the sand, ______ from other seas found: Near the place will be made a refuge, ______ ' .",2,/r/cahideas/
 "One small ______ for man, one giant ______ for Mankind.",2,/r/cahideas/
 "Originally, George A. Romero's hit zombie flick was to be titled ""Dawn of ______.""",1,/r/cahideas/
 "Originally, if the groundhog saw its shadow it meant six more weeks of ______.",1,/r/cahideas/
+"Our extended warranty covers everything from ______ to ______. However, we do not cover______.",3,/r/cahideas/
 "Our most powerful weapon on the day of the zombie apocalypse will be ______.",1,Assortment
 "Over the years I've learned my significant other loves it when I ______, but hates it when I ______.",2,/r/cahideas/
 "People say durian tastes like many things, but I think it tastes like ______.",1,/r/cahideas/
@@ -1096,6 +1119,7 @@ text,blanks,Pack
 "Red Alert! Transfer all auxiliary power to ______!",1,/r/cahideas/
 "Remember, ______ is never funny. Unless it involves ______.",2,Assortment
 "Research has begun into technology which harnesses the awesome power of ______.",1,/r/cahideas/
+"Rick from Pawn Stars called me in because I am an expert in ______. He needs me to examine ______.",2,/r/cahideas/
 "Roads were closed today due to ______.",1,/r/cahideas/
 "Rob Schneider is in a brand new movie, with everything going for him. Only problem is, he's about to become ______! Rated PG-13.",1,/r/cahideas/
 "Rules to raising a mogwai: never feed it after midnight, never get it wet, and never give it ______.",1,Assortment
@@ -1248,6 +1272,7 @@ text,blanks,Pack
 "The Yelp reviews for ______ were especially scathing.",1,/r/cahideas/
 "The ______ expansion pack for Carcassonne",1,/r/cahideas/
 "The ______ is actually a distraction from the real issue: ______!",2,/r/cahideas/
+"There are people out there RIGHT NOW who enjoy _____!",1,/r/cahideas/
 "There are some things money can't buy. For everything else there's ______.",1,Assortment
 "There are two things you need to succeed in life: ______, and ______. It also doesn't hurt to have ______.",3,/r/cahideas/
 "There are two types of people: Those who like ______, and fucking liars.",1,Assortment
@@ -1328,13 +1353,16 @@ text,blanks,Pack
 "We're off to see the wizard, the wonderful wizard of ______.",1,/r/cahideas/
 "Welcome to *Whose Line is it Anyway?* The show where everything's made up and the points don't matter! That's right, the points are just like ______!",1,/r/cahideas/
 "Well if you must______, do it quietly.",1,/r/cahideas/
+"Well ______ is a lot more fun when drunk.",1,/r/cahideas/
 "Well, in Whoville they say that the Grinch's ______ grew three sizes that day.",1,/r/cahideas/
 "What 8 grams of protein looks like when you're ______.",1,/r/cahideas/
 "What absolutely disgusts me?",1,/r/cahideas/
+"What am I looking forward when I get older?",1,/r/cahideas/
 "What are little girls made of? Sugar and Spice, and ______.",1,/r/cahideas/
 "What caused my brovorce?",1,/r/cahideas/
 "What confuses all men?",1,carderator
 "What describes the person sitting in front of you?",1,/r/cahideas/
+"What did Comcast change the name on my account to?",1,/r/cahideas/
 "What did grandpa get for his birthday?",1,/r/cahideas/
 "What did the blind orphan boy get for Christmas?",1,/r/cahideas/
 "What do I remind my parents of?",1,/r/cahideas/
@@ -1342,6 +1370,7 @@ text,blanks,Pack
 "What do the Amish really need?",1,Assortment
 "What do you keep in the box under your bed that you don't tell anyone about?",1,/r/cahideas/
 "What does the fox say?",1,"Cards Against Equestria - Creator's Pack"
+"What has four legs in the morning, two legs in the afternoon, and three legs in the evening?",1,/r/cahideas/
 "What I wouldn't give for ten minutes alone with ______&acirc;&euro;&brvbar;",1,Assortment
 "What I wouldn't give for ten minutes alone with ______...",1,/r/cahideas/
 "What is 1000 times scarier in reverse?",1,/r/cahideas/
@@ -1352,6 +1381,8 @@ text,blanks,Pack
 "What is the worst card in your hand?",1,/r/cahideas/
 "WHAT IS THIS?! A ______ FOR ANTS?!",1,/r/cahideas/
 "What is tonight's presidential speech about?",1,/r/cahideas/
+"What is your biggest fear?",1,/r/cahideas/
+"What is your desktop or phone background right now?",1,/r/cahideas/
 "What Made Milwaukee Famous?",1,/r/cahideas/
 "What new thing are Conservative Christians claiming to be indoctrinating Children into Homosexuality?",1,/r/cahideas/
 "What nickname have my friends been using so they can talk about me in front of me?",1,/r/cahideas/
@@ -1373,6 +1404,7 @@ text,blanks,Pack
 "What's inside my white, windowless van?",1,Assortment
 "What's my morning motivation?",1,/r/cahideas/
 "What's next for Malaysia Airlines?",1,/r/cahideas/
+"What's something you're never going to do again?",1,/r/cahideas/
 "What's that in my mouth?",1,/r/cahideas/
 "What's the best reason to stay single?",1,/r/cahideas/
 "What's the best twist to a game of Hide and Seek?",1,/r/cahideas/
@@ -1405,6 +1437,7 @@ text,blanks,Pack
 "When ______ and ______ joined the Expendables, the team knew it could conquer anything.",2,/r/cahideas/
 "Whenever I'm feeling down, I think about ______, and all my worries disappear.",1,/r/cahideas/
 "Whenever Josef Stalin woke up with a messed-up mustache, he would always fix it with ______.",1,/r/cahideas/
+"Where I'm from, ______ is just how you say ""hello.""",1,/r/cahideas/
 "While alone in the server room I ______.",1,/r/cahideas/
 "While robbing the convenience store, Michael Brown used a ______, before getting out his ______.",2,/r/cahideas/
 "While standing in line for the new iPhone, the guy camped out in front of me passed the time with ______.",1,/r/cahideas/
@@ -1414,10 +1447,12 @@ text,blanks,Pack
 "Who shot ______?",1,/r/cahideas/
 "Why are we currently standing waiting for signal clearance ahead?",1,/r/cahideas/
 "Why ban gay marriage when you can ban ______",1,/r/cahideas/
+"Why can't I find a job where I can use my ______ skills?",1,/r/cahideas/
 "Why can't we have nice things?",1,"Ladies Against Humanity"
 "Why did I decide to move?",1,/r/cahideas/
 "Why did I get kicked out of the house?",1,/r/cahideas/
 "Why did you tag me in this Facebook photo? This is a photo of ______.",1,/r/cahideas/
+"Why do I have a boner?",1,/r/cahideas/
 "Why does Batman sound like he has a frog in his throat?",1,/r/cahideas/
 "Why does r/conspiracy hate Jews?",1,/r/cahideas/
 "Why don't we take all the ______ and push it on (to) (the) ______?",2,/r/cahideas/
@@ -1450,6 +1485,7 @@ text,blanks,Pack
 "You bob for apples in ______, and you like it!",1,/r/cahideas/
 "You call it ______, but I say it's ______.",2,/r/cahideas/
 "You can dance, you can jive, having the time of your life. See that girl, watch that scene, diggin' ______.",1,/r/cahideas/
+"You don't even imagine how good is ______ as a pizza topping.",1,/r/cahideas/
 "You don't have to be lonely, at ______-only.com.",1,/r/cahideas/
 "You got your ______ on my ______! You got your ______ in my ______!",4,/r/cahideas/
 "You have 72 hours to deliver the gold, or you face ______.",1,/r/cahideas/
@@ -1509,6 +1545,7 @@ text,blanks,Pack
 "______ goes in, ______ comes out. Can't explain that.",2,/r/cahideas/
 "______ got us into this mess and______ is going to get us out of it.",2,/r/cahideas/
 "______ has gone missing. Suspect Dr. Claw. Your mission is to investigate ______. This message will self-destruct.",2,/r/cahideas/
+"______ her right in the ______!",2,/r/cahideas/
 "______ in the morning, sailors take warning.",1,carderator
 "______ invented for kids. Approved by mums.",1,/r/cahideas/
 "______ is a classic case of ______.",2,Assortment
@@ -1528,6 +1565,7 @@ text,blanks,Pack
 "______ is pretty bad, but it's not as bad as______.",2,/r/cahideas/
 "______ is probably the best band name ever.",1,Assortment
 "______ is terrorizing our city and the only hero that could save us is ______.",2,/r/cahideas/
+"______ is the essence of wetness, and wetness is the essence of ______",2,/r/cahideas/
 "______ is the glue that keeps us together.",1,"Cards of Mass Destruction"
 "______ is the name of my new indie black metal emo jazz post-dubstep funk band.",1,Assortment
 "______ is the new black.",1,Assortment
@@ -1578,6 +1616,7 @@ text,blanks,Pack
 "______. And you can't explain that.",1,/r/cahideas/
 "______. Apply directly to the head.",1,/r/cahideas/
 "______. Catch the fever!",1,/r/cahideas/
+"______. Eh, still better than working at Walmart.",1,/r/cahideas/
 "______. GODDAMN IT JAPAN!",1,/r/cahideas/
 "______. How hard can it be?",1,/r/cahideas/
 "______. How it feels to chew 5 gum.",1,/r/cahideas/
@@ -1607,10 +1646,12 @@ ______.com.,1,Assortment
 "______? More like ______, amirite?",2,/r/cahideas/
 "______? Not in my neighborhood!",1,/r/cahideas/
 "______? Oh, is that what you want? Because that's how you get ants!",1,/r/cahideas/
+"______? Okay.",1,/r/cahideas/
 "______? That's a paddlin'.",1,/r/cahideas/
 "______? There's a subreddit for that!",1,/r/cahideas/
 "______? Where we're going we don't need... ______.",2,/r/cahideas/
 "______and______ star in an all new naked and afraid.",2,/r/cahideas/
+"_________? Dianetics can help with that.",1,/r/cahideas/
 "An insider has revealed that the secret ingredient in Coca Cola is ______.",1,/u/BandAidBandit
 "At the beginning of my Pok&#233;mon journey, Professor Oak let me choose between Charmander, Squirtle, and ______.",1,/u/BandAidBandit
 "Breaking from what she normally writes about, Taylor Swift's new album features songs about ______.",1,/u/BandAidBandit
@@ -1690,6 +1731,14 @@ ______.com.,1,Assortment
 "______ killed ______ in the study with ______.",3,/u/L1ghtsh0w
 "______ was filmed in front of a live studio audience.",1,/u/L1ghtsh0w
 "______. A family product.",1,/u/L1ghtsh0w
+"""Dr. ______: or How I Learned to Stop Worrying and Love ______.""",2,/u/misterjake96
+"9 out of 10 dentists agree that ______ helps fight plaque the best!",1,/u/misterjake96
+"And on the eighth day, God planned to create ______, but then though ""Nah, better not.""",1,/u/misterjake96
+"Dammit Marie, they're ______!",1,/u/misterjake96
+"Say my name!",1,/u/misterjake96
+"The Lord is my shepherd; I shall not want / He maketh me to lie down in ______.",1,/u/misterjake96
+"What's always kinky the first time?",1,/u/misterjake96
+"Your mother was ______ and your father smelt of ______!",2,/u/misterjake96
 "(picture of an ink blot) What do you see?",1,/u/Sage24601
 "Cosplay just isn't cosplay if it doesn't involve ______.",1,/u/Sage24601
 "How did I lose all my Facebook friends?",1,"Nerds Against Humanity"
@@ -6145,22 +6194,27 @@ A______meteor.,1,"Sporks Against Humanity"
 """I'm The Miz, and I'm ______!""",1,"WWE: Cards against the Reality Era"
 """Welcome to '______ is Jericho'!""",1,"WWE: Cards against the Reality Era"
 "#______ is now trending worldwide on Twitter, King!",1,"WWE: Cards against the Reality Era"
+", Because I'm The Miz, and I'm ______!",1,"WWE: Cards against the Reality Era"
 "And if you're not down with that, we've got two words for ya! ______!",1,"WWE: Cards against the Reality Era"
 "Chris Jericho's newest catchphrase is ""______"".",1,"WWE: Cards against the Reality Era"
 "From ______, weighing 220 lbs, ______!",2,"WWE: Cards against the Reality Era"
 "I didn't screw Bret, ______ screwed Bret!",1,"WWE: Cards against the Reality Era"
 "If ______ is the Shawn Michaels, then ______ is the Marty Jannetty.",2,"WWE: Cards against the Reality Era"
+"In the event Hulkamania should run wild on you, what are you planning to do?",1,"WWE: Cards against the Reality Era"
+"It was ______, Austin! It was ______ all along! (A play 2 or not)",2,"WWE: Cards against the Reality Era"
 "John Cena, while you're lying there, hopefully ______, I want you to listen to me...",1,"WWE: Cards against the Reality Era"
 "Look in my eyes, what do you see?",1,"WWE: Cards against the Reality Era"
 "LOOK OUT MAGGLE, IT'S A FLYING ______! I LOVE IT!",1,"WWE: Cards against the Reality Era"
 "May I have your attention, please. I have just received ______ from the Anonymous Raw General Manager",1,"WWE: Cards against the Reality Era"
 "Mike, you ______, what is ______ doing in the Impact Zone?",2,"WWE: Cards against the Reality Era"
 "MY CLIENT, ______, CONQUERED THE UNDERTAKER'S STREAK AT WRESTLEMANIA!",1,"WWE: Cards against the Reality Era"
+"My client, ______.",1,"WWE: Cards against the Reality Era"
 "My name is ______, but 'chu already knew that!",1,"WWE: Cards against the Reality Era"
 "On the next Total Divas, Brie gets in a fight with ______ about ______.",2,"WWE: Cards against the Reality Era"
 "Quote the Raven, ______.",1,"WWE: Cards against the Reality Era"
 "Randy Orton will go to ______ if he has to.",1,"WWE: Cards against the Reality Era"
 "Someone in NXT has debuted with a ______ gimmick.",1,"WWE: Cards against the Reality Era"
+"The best there is, the best there was, the best there ever will be, but at ______.",1,"WWE: Cards against the Reality Era"
 "The newest indie star: Mike ""______"" Michaels.",1,"WWE: Cards against the Reality Era"
 "The second most prestigious titles in the indies is the ______ Championship.",1,"WWE: Cards against the Reality Era"
 "This is vintage ______!",1,"WWE: Cards against the Reality Era"
@@ -6172,6 +6226,7 @@ A______meteor.,1,"Sporks Against Humanity"
 "What has Vince McMahon only just discovered?",1,"WWE: Cards against the Reality Era"
 "What is Damian Sandow's latest gimmick?",1,"WWE: Cards against the Reality Era"
 "What is Dolph Ziggler here to show the world?",1,"WWE: Cards against the Reality Era"
+"What is The Rock cooking?",1,"WWE: Cards against the Reality Era"
 "What is TNA now doing in the hope of gaining viewers?",1,"WWE: Cards against the Reality Era"
 "What is Wade Barrett's bad news for Vince McMahon?",1,"WWE: Cards against the Reality Era"
 "Who is the tag team champion?",1,"WWE: Cards against the Reality Era"

@@ -16,6 +16,7 @@ text,blanks
 "I am afraid of ______.",1
 "I am temporarily obsessed with ______.",1
 "I don't want to live in a world without______",1
+"I draw the line at ______.",1
 "I HATE the word ""Vagina"" what word do you hate?",1
 "I have ______ as a &ldquo;plan B&rdquo; topic for when a conversation starts becoming awkward.",1
 "I intentionally mispronounce ______?",1
@@ -70,12 +71,14 @@ text,blanks
 "The strangest thing you've ever seen on public transport is ______.",1
 "The world is ending in 1 hour. What do you do?",1
 "Throughout your life, what video game has stolen most of your time?",1
+"What ""acquired taste"" do you think is hardest to acquire?",1
 "What actually DID live up to its hype?",1
 "What advice do you tell somebody who is going to have sex for the first time?",1
 "What are common practices in porn that you find disgusting?",1
 "What are health myths most people believe in?",1
 "What are some fun things to do with about four people?",1
 "What are some of the activities that you love and will never get tired of doing?",1
+"What are some parenting ""cheat codes""?",1
 "What are some things that you are tired of explaining ?",1
 "What are some things you grew up doing that you're afraid your children will never be able to experience due to the rapid advancement of technology?",1
 "What are the best books to read when trying to ""find yourself""?",1
@@ -98,6 +101,7 @@ text,blanks
 "What cliche movie scene do you wish Hollywood would stop putting in Movies/TV Shows?",1
 "What common food have you never tried before?",1
 "What concept are you just completely unable to wrap your head around?",1
+"What conspiracy theory do you believe in?",1
 "What could actually put McDonald's out of business?",1
 "What defunct company or product do you miss the most?",1
 "What did the""weird kid"" in your class do?",1
@@ -117,6 +121,7 @@ text,blanks
 "What do you think everyone does, but never talks about?",1
 "What do you think should be in the average school curriculum but isn't?",1
 "What do you think should be taught at schools, but isn't?",1
+"What do you think when you watch COPS?",1
 "What do you want for Christmas?",1
 "What documentary really changed your views on ______?",1
 "What food do you judge people for eating?",1
@@ -143,6 +148,8 @@ text,blanks
 "What is one activity/fad that everyone in your elementary school was obsessed with?",1
 "What is one thing that receives an unnecessary amount of hate?",1
 "What is one thing you can do everyday and not get tired of?",1
+"What is one thing you could eat everyday without getting sick of it?",1
+"What is one thing you have always wanted but haven't been able to justify spending money on?",1
 "What is some kinky shit you're into?",1
 "What is some minor thing your SO does that just drives you insane?",1
 "What is something awesome you've created that needs publicity?",1
@@ -164,6 +171,7 @@ text,blanks
 "What is something you hated as a kid but now that your older, cannot live without?",1
 "What is something you hated doing as a kid, but like doing as an adult?",1
 "What is something you pretend to enjoy for the sake of your social life?",1
+"what is something you thought was impressive as a child, but now think it really isn't?",1
 "What is something your teachers were wrong about?",1
 "What is the best argument *against* handicapped parking spaces?",1
 "What is the best bad smell?",1
@@ -185,8 +193,10 @@ text,blanks
 "What is the stupidest thing a US politician has ever said?",1
 "What is the tl;dr of your job description?",1
 "What is the worst (or best) thing you have ever encountered on the internet?",1
+"What is the worst dish you have ever been served at a restaurant?",1
 "What is the worst meal you've ever had?",1
 "What is the worst video game you ever played?",1
+"What is totally normal to you but just can't explain to other people?",1
 "What is your ""Plan B"" when a conversation you start becomes awkward?",1
 "What is your biggest pet peeve?",1
 "What is your biggest regret?",1
@@ -237,6 +247,7 @@ text,blanks
 "What sound do you hate?",1
 "What stereotype do you have to deal with the most?",1
 "What technology is perfect as it is and doesn't need to be improved?",1
+"What thankless job have you quietly performed?",1
 "What three items do I have in my box labeled &ldquo;in case of emergency&rdquo;? ______, ______, and ______.",3
 "What torture technique would break you the fastest?",1
 "What trend surprised you the most when it became popular?",1
@@ -274,6 +285,7 @@ text,blanks
 "What's some obscure thing that comes up a lot in movies?",1
 "What's something I can buy that will be illegal either soon or eventually?",1
 "What's something that you did better as a child?",1
+"What's something you didn't regret in the end?",1
 "What's something you just can't understand or get excited about?",1
 "What's something you know is wrong but do anyway?",1
 "What's that one incident that you witnessed which you will never forget?",1
@@ -285,10 +297,12 @@ text,blanks
 "What's the dumbest thing you did as a child?",1
 "What's the greatest non-sexual pleasure?",1
 "What's the most astounding fact you know about the world?",1
+"What's the most convincing evidence that aliens have visited Earth?",1
 "What's the most dangerous thing you did as a child that you didn't realize was dangerous until you got older?",1
 "What's the most immoral thing you can do that is 100% legal?",1
 "What's the most inappropriate song for a funeral?",1
 "What's the most ridiculous thing spotted during an X-ray?",1
+"What's the simplest thing that makes you happy?",1
 "What's the worst possible thing you could say when meeting your boyfriend/girlfriend's parents for the first time?",1
 "What's the worst super power you could have?",1
 "What's the worst thing your SO has done?",1
@@ -332,6 +346,7 @@ text,blanks
 "______ is the funniest phrase in the English language.",1
 "______ is the most revolting sexual experience!",1
 "______ is the worst kind of employee.",1
+"______ makes me cringe.",1
 "______ never fails to make me smile.",1
 "______ scared me as a child.",1
 "______ sounds dirty but is not.",1

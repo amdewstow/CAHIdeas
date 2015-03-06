@@ -269,7 +269,9 @@ text,blanks
 "Hello, this is Onstar&reg;, it seems like you are having a problem with ______",1
 "Here I go, here I go, here I go again. Girls, what's my weakness?",1
 "Here's the mail, it never fails. It makes me want to wag my tail. When it comes I wanna wail: ______!",1
+"Hey babe, are you _____? 'Cause your body is _____.",1
 "Hey Farva, what's the name of that restaurant you like with all the goofy shit on the walls and the mozzarella sticks?",1
+"Hey kids, try some ______-O's! It makes the milk taste like ______!",2
 "Hey McFly you bojo! Those boards don't work on water! Unless you've got ______!",1
 "Hey Rocky, watch me pull ______ out of my ______!",2
 "Hey there you with ______ come back to my place, and live it up.",1
@@ -422,6 +424,7 @@ text,blanks
 "I used to be ______ like you, until I took ______ in the ______.",3
 "I wanted my kids to see some goats and maybe a lamb at the petting zoo, but instead all we saw was ______.",1
 "I was a bit embarrassed when the ER staff pulled ______ out of my ass.",1
+"I was accused of being involved with ______, but ______ proved my innocence",2
 "I was driving ______ way before I got paid to do it.",1
 "I was embarrassed when the EMT's pulled ______ out of my ass.",1
 "I was going down the shore, when ______ was causing traffic on the Parkway.",1
@@ -441,6 +444,7 @@ text,blanks
 "I would do anything for ______, but I won't do ______.",2
 "I would gladly eat ______ off of ______.",2
 "I would have gotten away with it if it wasn't for ______.",1
+"I would like to dedicate this award to ______, which helped me through so many hard times.",1
 "I would not pay for ______ but I would enjoy it if I got t for free.",1
 "I wouldn't have nothin' if I didn't have ______.",1
 "I ______ my Pringles.",1
@@ -706,6 +710,7 @@ text,blanks
 "Now witness the firepower of this fully armed and operational ______!",1
 "Oh no! ______! My only weakness!",1
 "Oh, it sounds like she totally wants it! Who's gonna give it to her, my man? ______. That's who.",1
+"Oh, look at me! I'm CAH______BLACK______BOT, and I love ______!",3
 "Oh, you suffer from ______? There's a support group for that here at the church, y'know.",1
 "Ohh, I've been very bad. I should be punished with ______.",1
 "Okay, that is the LAST time I have ______ before bed!",1
@@ -713,6 +718,7 @@ text,blanks
 "OMG this day literally couldn't get any worse... #______",1
 "On a dark desert highway, ______ in my hair, warm smell of ______ rising up through the air.",2
 "On a rainy day, I prefer to cuddle up with ______.",1
+"On a scale from ______ to ______, how would you rate your pain?",2
 "On Reddit, the most upvoted post is of ______.",1
 "On second thought, I probably shouldn't mention my award for ______ on my resume...",1
 "On the 8th day, God created ______, and saw that it was good.",1
@@ -721,10 +727,12 @@ text,blanks
 "On the next episode of My Strange Addiction, ""I'm addicted to ______"".",1
 "On the next Voyager mission, they're putting ______ in the capsule, so aliens could potentially find it one day and learn about our world.",1
 "Once ______ hits your lips, it's so good.",1
+"One nation under ______, indivisible, with ______ and ______ for all.",3
 "One of the least understood Nostradamus predictions is 'Through a frightful flood upon the sand, ______ from other seas found: Near the place will be made a refuge, ______ ' .",2
 "One small ______ for man, one giant ______ for Mankind.",2
 "Originally, George A. Romero's hit zombie flick was to be titled ""Dawn of ______.""",1
 "Originally, if the groundhog saw its shadow it meant six more weeks of ______.",1
+"Our extended warranty covers everything from ______ to ______. However, we do not cover______.",3
 "Our most powerful weapon on the day of the zombie apocalypse will be ______.",1
 "Over the years I've learned my significant other loves it when I ______, but hates it when I ______.",2
 "People say durian tastes like many things, but I think it tastes like ______.",1
@@ -753,6 +761,7 @@ text,blanks
 "Red Alert! Transfer all auxiliary power to ______!",1
 "Remember, ______ is never funny. Unless it involves ______.",2
 "Research has begun into technology which harnesses the awesome power of ______.",1
+"Rick from Pawn Stars called me in because I am an expert in ______. He needs me to examine ______.",2
 "Roads were closed today due to ______.",1
 "Rob Schneider is in a brand new movie, with everything going for him. Only problem is, he's about to become ______! Rated PG-13.",1
 "Rules to raising a mogwai: never feed it after midnight, never get it wet, and never give it ______.",1
@@ -905,6 +914,7 @@ text,blanks
 "The Yelp reviews for ______ were especially scathing.",1
 "The ______ expansion pack for Carcassonne",1
 "The ______ is actually a distraction from the real issue: ______!",2
+"There are people out there RIGHT NOW who enjoy _____!",1
 "There are some things money can't buy. For everything else there's ______.",1
 "There are two things you need to succeed in life: ______, and ______. It also doesn't hurt to have ______.",3
 "There are two types of people: Those who like ______, and fucking liars.",1
@@ -985,13 +995,16 @@ text,blanks
 "We're off to see the wizard, the wonderful wizard of ______.",1
 "Welcome to *Whose Line is it Anyway?* The show where everything's made up and the points don't matter! That's right, the points are just like ______!",1
 "Well if you must______, do it quietly.",1
+"Well ______ is a lot more fun when drunk.",1
 "Well, in Whoville they say that the Grinch's ______ grew three sizes that day.",1
 "What 8 grams of protein looks like when you're ______.",1
 "What absolutely disgusts me?",1
+"What am I looking forward when I get older?",1
 "What are little girls made of? Sugar and Spice, and ______.",1
 "What caused my brovorce?",1
 "What confuses all men?",1
 "What describes the person sitting in front of you?",1
+"What did Comcast change the name on my account to?",1
 "What did grandpa get for his birthday?",1
 "What did the blind orphan boy get for Christmas?",1
 "What do I remind my parents of?",1
@@ -999,6 +1012,7 @@ text,blanks
 "What do the Amish really need?",1
 "What do you keep in the box under your bed that you don't tell anyone about?",1
 "What does the fox say?",1
+"What has four legs in the morning, two legs in the afternoon, and three legs in the evening?",1
 "What I wouldn't give for ten minutes alone with ______&acirc;&euro;&brvbar;",1
 "What I wouldn't give for ten minutes alone with ______...",1
 "What is 1000 times scarier in reverse?",1
@@ -1009,6 +1023,8 @@ text,blanks
 "What is the worst card in your hand?",1
 "WHAT IS THIS?! A ______ FOR ANTS?!",1
 "What is tonight's presidential speech about?",1
+"What is your biggest fear?",1
+"What is your desktop or phone background right now?",1
 "What Made Milwaukee Famous?",1
 "What new thing are Conservative Christians claiming to be indoctrinating Children into Homosexuality?",1
 "What nickname have my friends been using so they can talk about me in front of me?",1
@@ -1030,6 +1046,7 @@ text,blanks
 "What's inside my white, windowless van?",1
 "What's my morning motivation?",1
 "What's next for Malaysia Airlines?",1
+"What's something you're never going to do again?",1
 "What's that in my mouth?",1
 "What's the best reason to stay single?",1
 "What's the best twist to a game of Hide and Seek?",1
@@ -1062,6 +1079,7 @@ text,blanks
 "When ______ and ______ joined the Expendables, the team knew it could conquer anything.",2
 "Whenever I'm feeling down, I think about ______, and all my worries disappear.",1
 "Whenever Josef Stalin woke up with a messed-up mustache, he would always fix it with ______.",1
+"Where I'm from, ______ is just how you say ""hello.""",1
 "While alone in the server room I ______.",1
 "While robbing the convenience store, Michael Brown used a ______, before getting out his ______.",2
 "While standing in line for the new iPhone, the guy camped out in front of me passed the time with ______.",1
@@ -1071,10 +1089,12 @@ text,blanks
 "Who shot ______?",1
 "Why are we currently standing waiting for signal clearance ahead?",1
 "Why ban gay marriage when you can ban ______",1
+"Why can't I find a job where I can use my ______ skills?",1
 "Why can't we have nice things?",1
 "Why did I decide to move?",1
 "Why did I get kicked out of the house?",1
 "Why did you tag me in this Facebook photo? This is a photo of ______.",1
+"Why do I have a boner?",1
 "Why does Batman sound like he has a frog in his throat?",1
 "Why does r/conspiracy hate Jews?",1
 "Why don't we take all the ______ and push it on (to) (the) ______?",2
@@ -1107,6 +1127,7 @@ text,blanks
 "You bob for apples in ______, and you like it!",1
 "You call it ______, but I say it's ______.",2
 "You can dance, you can jive, having the time of your life. See that girl, watch that scene, diggin' ______.",1
+"You don't even imagine how good is ______ as a pizza topping.",1
 "You don't have to be lonely, at ______-only.com.",1
 "You got your ______ on my ______! You got your ______ in my ______!",4
 "You have 72 hours to deliver the gold, or you face ______.",1
@@ -1166,6 +1187,7 @@ text,blanks
 "______ goes in, ______ comes out. Can't explain that.",2
 "______ got us into this mess and______ is going to get us out of it.",2
 "______ has gone missing. Suspect Dr. Claw. Your mission is to investigate ______. This message will self-destruct.",2
+"______ her right in the ______!",2
 "______ in the morning, sailors take warning.",1
 "______ invented for kids. Approved by mums.",1
 "______ is a classic case of ______.",2
@@ -1185,6 +1207,7 @@ text,blanks
 "______ is pretty bad, but it's not as bad as______.",2
 "______ is probably the best band name ever.",1
 "______ is terrorizing our city and the only hero that could save us is ______.",2
+"______ is the essence of wetness, and wetness is the essence of ______",2
 "______ is the glue that keeps us together.",1
 "______ is the name of my new indie black metal emo jazz post-dubstep funk band.",1
 "______ is the new black.",1
@@ -1235,6 +1258,7 @@ text,blanks
 "______. And you can't explain that.",1
 "______. Apply directly to the head.",1
 "______. Catch the fever!",1
+"______. Eh, still better than working at Walmart.",1
 "______. GODDAMN IT JAPAN!",1
 "______. How hard can it be?",1
 "______. How it feels to chew 5 gum.",1
@@ -1264,7 +1288,9 @@ ______.com.,1
 "______? More like ______, amirite?",2
 "______? Not in my neighborhood!",1
 "______? Oh, is that what you want? Because that's how you get ants!",1
+"______? Okay.",1
 "______? That's a paddlin'.",1
 "______? There's a subreddit for that!",1
 "______? Where we're going we don't need... ______.",2
 "______and______ star in an all new naked and afraid.",2
+"_________? Dianetics can help with that.",1
