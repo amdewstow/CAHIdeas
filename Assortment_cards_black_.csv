@@ -40,8 +40,8 @@ text,blanks
 "Hey Rocky, watch me pull ______ out of my ______!",2
 "I am the genie of the lamp. I will grant you three wishes. What will they be?",1
 "I can drive and ______ at the same time.",1
-"I feel the need&acirc;&euro;&rdquo;the need for ______.",1
-"I feel the need&acirc;&euro;&rdquo;the need for&Acirc; ______.",1
+"I feel the need""&rdquo;the need for ______.",1
+"I feel the need""&rdquo;the need for&Acirc;Â ______.",1
 "I got ______! Ain't nobody got time fo dat!",1
 "I like to keep ______ as a souvenir of my sexual encounters.",1
 "I live my life according to the teachings of ______.",1
@@ -69,7 +69,7 @@ text,blanks
 "Instead of the Jews, Hitler should have worried more about ______.",1
 "Iron Chef: Today's secret ingredient is ______.",1
 "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to ______.",1
-"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to&Acirc; ______.",1
+"It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to&Acirc;Â ______.",1
 "It is often argued that our ancestors would have never evolved without the aid of ______.",1
 "It rubs ______ on its skin or else it gets ______ again.",2
 "It sucks when you look in the fridge, and all you have to eat is ______.",1
@@ -158,7 +158,7 @@ text,blanks
 "Watson! Holmes exclaimed, ""This man was obviously killed by ______!""",1
 "We're off to see the Wizard! The wonderful wizard of ______!",1
 "What do the Amish really need?",1
-"What I wouldn't give for ten minutes alone with ______&acirc;&euro;&brvbar;",1
+"What I wouldn't give for ten minutes alone with ______""&brvbar;",1
 "What was Abraham Lincoln's deep, dark secret?",1
 "What was in my birthday pi&Atilde;&plusmn;ata?",1
 "What will be our last chance for salvation when our new robot overlords take over?",1

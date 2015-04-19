@@ -1,5 +1,5 @@
 text,blanks
-"&acirc;&euro;&oelig;It's trivial!&acirc;&euro;ù said the Professor. &acirc;&euro;&oelig;It's obviously just a ______.&acirc;&euro;ù",1
+"""It's trivial!""  said the Professor. ""It's obviously just a ______.""",1
 "A hurricane named ______.",1
 "A parasite is an organism that takes ______ away from another organism while it is still living.",1
 "After getting tenure the professor celebrated by ______.",1
@@ -27,7 +27,7 @@ text,blanks
 "Dinosaur bones are really a test of our faith in ______.",1
 "Don't forget to include ______ in your dissertation acknowledgments.",1
 "Drinking in the lab on a Friday night is usually not a good idea, because ______ tends to be the result.",1
-"Einstein described ______ as &acirc;&euro;&oelig;his biggest blunder.&acirc;&euro;ù",1
+"Einstein described ______ as ""his biggest blunder.""",1
 "Einstein was also well respected in the academic community for his studies on ______.",1
 "Elon Musk's next company to tackle ______.",1
 "Epigenetics: As easy to understand as ______.",1

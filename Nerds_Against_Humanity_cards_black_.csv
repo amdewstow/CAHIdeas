@@ -1,5 +1,5 @@
 text,blanks
-"&acirc;&euro;&oelig;Are you classified as human?&acirc;&euro;ù &acirc;&euro;&oelig;Negative, I am ______.&acirc;&euro;ù",1
+"""Are you classified as human?""  ""Negative, I am ______.""",1
 "An online quiz told me I am ______.",1
 "As social outcasts, we're accepting of everyone, unless you're into ______.",1
 "Band camp? Psh! I went to ______ camp!",1
@@ -48,7 +48,7 @@ Hodor?,1
 "Mangalores won't fight without ______.",1
 "My new LARP character is as smart as ______ and as charming as ______.",2
 "My next project will be a 1/6 scale model of ______.",1
-"My senior year, I wrote &acirc;&euro;&oelig;______&acirc;&euro;ù in everybody else's yearbooks.",1
+"My senior year, I wrote ""______""  in everybody else's yearbooks.",1
 "No one believes I'm really allergic to ______.",1
 "Now its' time for Korben to say the word of the day.",1
 "Oh my God, Karen, you can't just ask people why they're ______.",1
@@ -84,7 +84,7 @@ Hodor?,1
 "What did MacGuyver use to defuse the bomb?",1
 "What did you do, Ray?",1
 "What do you get when you multiply six by nine?",1
-"What does &acirc;&euro;&oelig;ecto gammat&acirc;&euro;ù mean?",1
+"What does ""ecto gammat""  mean?",1
 "What is thy bidding, my master?",1
 "What is your biggest nerd pet peeve?",1
 "What is your quest?",1

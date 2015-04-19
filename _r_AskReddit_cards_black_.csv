@@ -1,7 +1,7 @@
 text,blanks
 "A chip and dip combo. ______ dipped in ______.",2
 "After I moved in with my significant other I learned they had a secret obsession with ______?",1
-"At my job I’m basically ______",1
+"At my job Iâ€™m basically ______",1
 "Besides a god or deity, what do you worship?",1
 "Do to the rapid advancement of technology, I fear the children of the next generation will never get to experience ______.",1
 "Explorers of the deep-web, what have you found?",1
@@ -15,16 +15,18 @@ text,blanks
 "How should one approach a cute girl in public?",1
 "I am afraid of ______.",1
 "I am temporarily obsessed with ______.",1
+"I ate ______ for breakfast.",1
 "I don't want to live in a world without______",1
 "I draw the line at ______.",1
 "I HATE the word ""Vagina"" what word do you hate?",1
 "I have ______ as a &ldquo;plan B&rdquo; topic for when a conversation starts becoming awkward.",1
 "I intentionally mispronounce ______?",1
-"I know it’s a perfectly legitimate hobby, but I still cannot help but judge someone negatively for enjoying ______",1
-"I know it’s minor, but when I when I catch my boyfriend with ______ it just irritates the hell out of me.",1
+"I know itâ€™s a perfectly legitimate hobby, but I still cannot help but judge someone negatively for enjoying ______",1
+"I know itâ€™s minor, but when I when I catch my boyfriend with ______ it just irritates the hell out of me.",1
 "I like my ______ like I like ______",2
 "I only pretend to enjoy ______, but everyone else seems to really like it.",1
 "I simply cannot bring myself to give a fuck about ______",1
+"I want ______ for my birthday!",1
 "I would love a lifetime supply of ______.",1
 "I would never get ______ for myself, but would love to give it as a gift.",1
 "I would NOT want a lifetime supply of ______.",1
@@ -38,6 +40,7 @@ text,blanks
 "If you could have one thing for free, real or fictitious, what would it be?",1
 "If you could make cars run on anything, what would it be?",1
 "If you could open a sex toy shop, what would you name it?",1
+"If you had a boat what would you name it?",1
 "If you had a one way ticket to the middle ages, what modern item would you bring with you?",1
 "If you had one wish, what would you wish for?",1
 "If you had three months paid leave from work, what would you do?",1
@@ -51,22 +54,22 @@ text,blanks
 "In 4 words, can you describe the city you live in? ______, ______, ______, ______.",4
 "In high school I was know for ______.",1
 "In the year 2020, what will be on the front page of reddit?",1
-"It’s easier for kids to get away with ______ than adults.",1
-"I’m getting real tired of explaining the ______ card.",1
-"I’ve really struggled with ______ all my life, but it’s hard to complain about it to others.",1
+"Itâ€™s easier for kids to get away with ______ than adults.",1
+"Iâ€™m getting real tired of explaining the ______ card.",1
+"Iâ€™ve really struggled with ______ all my life, but itâ€™s hard to complain about it to others.",1
 "Just got an android phone, what is the first thing. I should do to optimize it?",1
-"Man, I’m glad I’m over my teenage ""______"" phase.",1
+"Man, Iâ€™m glad Iâ€™m over my teenage ""______"" phase.",1
 "Men who have learned to last longer in bed, what's your secret?",1
 "My college roommate was completely mad at me for having ______ in the dorm. I mean, come on, man, lighten up.",1
 "My parents had a hard time explaining to all their friends why my favorite childhood toy was ______",1
-"Provided it’s of proper quality, you only need to buy ______ once.",1
+"Provided itâ€™s of proper quality, you only need to buy ______ once.",1
 "Reddit, what are movies that you enjoyed but would be too embarrassed to admit to people IRL?",1
 "School textbooks have completely left out the role of ______ in the founding of this country.",1
 "So, what is your irrational fear?",1
 "Surgeons of reddit: what's the strangest thing you've found when you opened someone up?",1
 "Taylor Swift dumps you and writes a new song based on the breakup. What is the title?",1
 "The aliens were able to understand and assimilate to all aspects of human life, except for the concept of ______, that was totally lost on them.",1
-"The last time I got punched in the face? Well, that’s a long story, but it had to do with ______",1
+"The last time I got punched in the face? Well, thatâ€™s a long story, but it had to do with ______",1
 "The person to your immediate right just announced they were an assassin who was there to kill you. What do you use to defend yourself?",1
 "The strangest thing you've ever seen on public transport is ______.",1
 "The world is ending in 1 hour. What do you do?",1
@@ -76,6 +79,7 @@ text,blanks
 "What advice do you tell somebody who is going to have sex for the first time?",1
 "What are common practices in porn that you find disgusting?",1
 "What are health myths most people believe in?",1
+"What are some college dorm essentials?",1
 "What are some fun things to do with about four people?",1
 "What are some of the activities that you love and will never get tired of doing?",1
 "What are some parenting ""cheat codes""?",1
@@ -97,21 +101,27 @@ text,blanks
 "What can turn something useful into something totally useless or funny?",1
 "What can you never be too old for?",1
 "What car decal or bumper sticker makes you immediately dislike the person driving?",1
+"What changed you?",1
 "What childhood toy are you not at all ashamed to be seen playing with in adulthood?",1
 "What cliche movie scene do you wish Hollywood would stop putting in Movies/TV Shows?",1
 "What common food have you never tried before?",1
 "What concept are you just completely unable to wrap your head around?",1
 "What conspiracy theory do you believe in?",1
 "What could actually put McDonald's out of business?",1
+"What could you eat literally everyday if there was no health consequences?",1
 "What defunct company or product do you miss the most?",1
 "What did the""weird kid"" in your class do?",1
 "What did you think was completely normal until shown otherwise?",1
+"What did you want to be when you grew up?",1
 "What did your SO say or do that made you realize they were a 'keeper' ?",1
 "What do movies always get wrong?",1
 "What do people often mistake you for when you meet for the first time?",1
 "What do you do right before you go to sleep?",1
+"What do you do to cure a case of the Mondays?",1
+"What do you do to make extra money on the side?",1
 "What do you do to relax?",1
 "What do you find unattractive?",1
+"What do you find very rude?",1
 "What do you hate with a burning passion?",1
 "What do you look like right now?",1
 "What do you love most about your country?",1
@@ -141,6 +151,7 @@ text,blanks
 "What is a good phrase to say to someone after they sneeze other than a form of ""bless you""?",1
 "What is a minor annoyance that sends you into an absolute rage?",1
 "What is a perfectly legitimate belief or hobby that you still judge someone negatively for?",1
+"What is a popular food that you don't like?",1
 "What is a thing you only need to buy once, provided it is of proper quality?",1
 "What is an absolute ""must watch"" TV show that has ended?",1
 "What is an off smell that you enjoy?",1
@@ -156,6 +167,7 @@ text,blanks
 "What is something from your generation that no longer exists or is obsolete?",1
 "What is something nobody can look cool doing?",1
 "What is something or someone that EVERYONE loves?",1
+"What is something people trust but shouldn't?",1
 "What is something stupid that makes you really emotional?",1
 "What is something that bothers you when others do it, but not when you do?",1
 "What is something that everybody does that nobody knows is completely illegal?",1
@@ -170,6 +182,7 @@ text,blanks
 "What is something you hate, but everyone else loves?",1
 "What is something you hated as a kid but now that your older, cannot live without?",1
 "What is something you hated doing as a kid, but like doing as an adult?",1
+"What is something you never understood?",1
 "What is something you pretend to enjoy for the sake of your social life?",1
 "what is something you thought was impressive as a child, but now think it really isn't?",1
 "What is something your teachers were wrong about?",1
@@ -184,6 +197,7 @@ text,blanks
 "What is the luckiest thing that has ever happened to you?",1
 "What is the manliest sandwich you can make? Bread ______ meat ______ topped with ______ and ______",4
 "What is the meanest thing a stranger has said to you on the internet?",1
+"What is the most absurd thing you've ever been accused of?",1
 "What is the most irrational thing you have ever been angry about?",1
 "What is the most rewarding thing you've ever done?",1
 "What is the one food you absolutely will not eat?",1
@@ -192,6 +206,7 @@ text,blanks
 "What is the strangest thing you have seen during finals week?",1
 "What is the stupidest thing a US politician has ever said?",1
 "What is the tl;dr of your job description?",1
+"What is the weirdest thing you have masturbated to?",1
 "What is the worst (or best) thing you have ever encountered on the internet?",1
 "What is the worst dish you have ever been served at a restaurant?",1
 "What is the worst meal you've ever had?",1
@@ -222,6 +237,7 @@ text,blanks
 "What lives up to the hype?",1
 "What loses its coolness once you become an adult?",1
 "What makes a girl attractive?",1
+"What makes you envious of the opposite gender?",1
 "What makes you get out of bed in the morning?",1
 "What makes you irrationally angry?",1
 "What makes you nervous that no one else seems to acknowledge?",1
@@ -229,6 +245,7 @@ text,blanks
 "What minor noise bothers you the most?",1
 "What movie fucked you up as a child?",1
 "What movie sends the worst message?",1
+"What name would you give to your child?",1
 "What non-sexual thing makes you happiest?",1
 "What object do you think has never been used to kill another person?",1
 "What personality traits do you hope your kids won't inherent from you?",1
@@ -246,6 +263,7 @@ text,blanks
 "What song do you want played at your funeral?",1
 "What sound do you hate?",1
 "What stereotype do you have to deal with the most?",1
+"What takes the most effort yet yields the least reward?",1
 "What technology is perfect as it is and doesn't need to be improved?",1
 "What thankless job have you quietly performed?",1
 "What three items do I have in my box labeled &ldquo;in case of emergency&rdquo;? ______, ______, and ______.",3
@@ -260,6 +278,7 @@ text,blanks
 "What was your last dream about?",1
 "What Was Your Worst Roommate Experience?",1
 "What weird smell do you enjoy?",1
+"What white noise do you sleep to?",1
 "What will always be uncool?",1
 "What will be something difficult to cope with?",1
 "What will you never go back to, because you found a better alternative?",1
@@ -285,6 +304,8 @@ text,blanks
 "What's some obscure thing that comes up a lot in movies?",1
 "What's something I can buy that will be illegal either soon or eventually?",1
 "What's something that you did better as a child?",1
+"What's something you absolutely wouldn't do for one billion dollars?",1
+"What's something you can ruin for everyone?",1
 "What's something you didn't regret in the end?",1
 "What's something you just can't understand or get excited about?",1
 "What's something you know is wrong but do anyway?",1
@@ -295,6 +316,7 @@ text,blanks
 "What's the best way to ruin your day?",1
 "What's the biggest prize you've won?",1
 "What's the dumbest thing you did as a child?",1
+"What's the first thing that comes to your mind when someone says ""comfort food""?",1
 "What's the greatest non-sexual pleasure?",1
 "What's the most astounding fact you know about the world?",1
 "What's the most convincing evidence that aliens have visited Earth?",1
@@ -307,6 +329,9 @@ text,blanks
 "What's the worst super power you could have?",1
 "What's the worst thing your SO has done?",1
 "What's your biggest internet accomplishment?",1
+"What's your biggest regret in life so far?",1
+"What's your favorite color?",1
+"What's your favorite flower?",1
 "What's your feel good song?",1
 "What's your fun wi-fi name?",1
 "What's your go to comfort food that you can make in 5 minutes?",1
@@ -316,7 +341,8 @@ text,blanks
 "whats the one thing that you miss doing from your childhood?",1
 "Whats the weirdest thing you've walked in on in a public bathroom?",1
 "When did your childhood end?",1
-"When I met my girlfriend’s parents, I made the mistake of mentioning my ______ hobby.",1
+"When I met my girlfriendâ€™s parents, I made the mistake of mentioning my ______ hobby.",1
+"When in doubt, ______?",1
 "When you were growing up, what was a popular ""fad"" that you never got into?",1
 "Whenever I have guests over, they always remark how strange it is that I keep ______ in the refrigerator.",1
 "Where did you get 'that' scar from?",1
@@ -329,6 +355,7 @@ text,blanks
 "Who is the most influential person that no one knows about?",1
 "Who pisses you off the most?",1
 "Who would be the most inappropriate celebrity guest on Sesame Street?",1
+"Why did you cry last time?",1
 "Why did you last get punched in the face?",1
 "Why do you consider your life ruined?",1
 "Why do you not believe in God?",1
@@ -340,17 +367,21 @@ text,blanks
 "You know what I really need? A &ldquo;Honk if you like ______&rdquo; bumper sticker.",1
 "You're on Death Row, what is your last meal?",1
 "Your mother was a ______ and your father smelled of ______",2
+"______ gives me hope!",1
 "______ has  happened to everybody at least once.",1
 "______ is a must-have that costs $25 or less.",1
+"______ is a truly dying art nowadays.",1
 "______ is my earliest memory?",1
 "______ is the funniest phrase in the English language.",1
 "______ is the most revolting sexual experience!",1
 "______ is the worst kind of employee.",1
+"______ looks delicious but actually tastes like shit.",1
 "______ makes me cringe.",1
 "______ never fails to make me smile.",1
 "______ scared me as a child.",1
+"______ scares me",1
 "______ sounds dirty but is not.",1
 "______ was my greatest achievement of 2014.",1
 "______ would cause the  lamest possible apocalypse.",1
 "______. Scarier at night that during the day.",1
-"______. That’s when my childhood officially ended.",1
+"______. Thatâ€™s when my childhood officially ended.",1
