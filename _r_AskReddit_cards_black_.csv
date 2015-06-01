@@ -26,6 +26,8 @@ text,blanks
 "I like my ______ like I like ______",2
 "I only pretend to enjoy ______, but everyone else seems to really like it.",1
 "I simply cannot bring myself to give a fuck about ______",1
+"I use ______ to deal with grief.",1
+"I use ______ to deal with regret.",1
 "I want ______ for my birthday!",1
 "I would love a lifetime supply of ______.",1
 "I would never get ______ for myself, but would love to give it as a gift.",1
@@ -35,6 +37,7 @@ text,blanks
 "If I were a superhero, what would my secret yet ultimate weakness be?",1
 "If it weren't for modern medicine, how would you have died?",1
 "If life was an RPG and you died what loot would you drop?",1
+"If people found ______attractive, I would have a date in minutes",1
 "If there was a book called 'How To Be That Person Everybody Hates', what would be in it? ______, ______, and ______.",3
 "If you could choose your last words, what would they be?",1
 "If you could have one thing for free, real or fictitious, what would it be?",1
@@ -61,6 +64,7 @@ text,blanks
 "Man, I’m glad I’m over my teenage ""______"" phase.",1
 "Men who have learned to last longer in bed, what's your secret?",1
 "My college roommate was completely mad at me for having ______ in the dorm. I mean, come on, man, lighten up.",1
+"My hometown known for ______.",1
 "My parents had a hard time explaining to all their friends why my favorite childhood toy was ______",1
 "Provided it’s of proper quality, you only need to buy ______ once.",1
 "Reddit, what are movies that you enjoyed but would be too embarrassed to admit to people IRL?",1
@@ -69,6 +73,7 @@ text,blanks
 "Surgeons of reddit: what's the strangest thing you've found when you opened someone up?",1
 "Taylor Swift dumps you and writes a new song based on the breakup. What is the title?",1
 "The aliens were able to understand and assimilate to all aspects of human life, except for the concept of ______, that was totally lost on them.",1
+"The last time I cried it was over ______.",1
 "The last time I got punched in the face? Well, that’s a long story, but it had to do with ______",1
 "The person to your immediate right just announced they were an assassin who was there to kill you. What do you use to defend yourself?",1
 "The strangest thing you've ever seen on public transport is ______.",1
@@ -89,6 +94,7 @@ text,blanks
 "What are the most fucked uped original fairy tail that were rewritten by disney?",1
 "What are you in love with right now?",1
 "What are you looking forward to in 2015?",1
+"What are you passionate about?",1
 "What are you sick of hearing?",1
 "What are you superstitious about despite the fact that you don't consider yourself superstitious?",1
 "What are you, in ONE WORD?",1
@@ -369,9 +375,12 @@ text,blanks
 "Your mother was a ______ and your father smelled of ______",2
 "______ gives me hope!",1
 "______ has  happened to everybody at least once.",1
+"______ is a good cologne.",1
 "______ is a must-have that costs $25 or less.",1
 "______ is a truly dying art nowadays.",1
+"______ is how did you beat depression.",1
 "______ is my earliest memory?",1
+"______ is my goal in life.",1
 "______ is the funniest phrase in the English language.",1
 "______ is the most revolting sexual experience!",1
 "______ is the worst kind of employee.",1
