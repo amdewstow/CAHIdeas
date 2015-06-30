@@ -2,6 +2,7 @@ text,blanks
 """Are you afraid of God, Booker?"" ""No. But I'm afraid of ______.""",1
 """Call the hottest sex-line in America."" 1-900-______ ""Don't wait.""",1
 """Fe-Fi-Fo-Fum! I smell the blood of ______.""",1
+"""How dare you say ______, that's my trigger word!""",1
 """My divorce was only more complicated by the presence of ______""",1
 """Next time on Epic Meal Time, we eat ______ """,1
 """Pinky, are you pondering what I'm pondering?"" ""I think so Brain, but why do we need ______ to get ______?""",2
@@ -43,6 +44,7 @@ text,blanks
 "A picture is worth a thousand words. So is ______.",1
 "A true patriot would never take part in the act of ______, you damn commie.",1
 "A V8 powered ______.",1
+"A year without ______.",1
 "A ______ themed Reddit novelty account",1
 "A&E'&trade;s newest docuseries deals with people coping with ______.",1
 "According to Tumblr, even ______ promotes rape culture.",1
@@ -127,6 +129,7 @@ text,blanks
 "Bloody immigrants, coming over here and ______",1
 "Bob Ross didn't just paint landscapes, he sometimes painted ______.",1
 "Bobby and Susie sitting in a tree, K-I-S-S-I-N-G. First comes love, then comes marriage, then comes ______.",1
+"Breakfast of champions: ______ with rice.",1
 "Breaking News! A cult has been discovered in the deep south that used ______ as a rite of initiation.",1
 "Breathe if you hate ______.",1
 "Brendan Shanahan has suspended Scott Thornton 15 games for ______.",1
@@ -478,6 +481,7 @@ text,blanks
 "I think these oysters are bad, because they smell like ______.",1
 "I used to be an adventurer like you, but then I took a ______ to the knee.",1
 "I used to be ______ like you, until I took ______ in the ______.",3
+"I want to reboot Mystery Science Theater 3000, only instead of robots, the human will be joined by ______ and ______.",2
 "I want ______ for my Birthday.",1
 "I wanted my kids to see some goats and maybe a lamb at the petting zoo, but instead all we saw was ______.",1
 "I was a bit embarrassed when the ER staff pulled ______ out of my ass.",1
@@ -502,6 +506,7 @@ text,blanks
 "I work out so I can look good when I'm ______.",1
 "I worship the god of ______.",1
 "I would do anything for ______, but I won't do ______.",2
+"I would do anything to lose weight, except ______.",1
 "I would gladly eat ______ off of ______.",2
 "I would have gotten away with it if it wasn't for ______.",1
 "I would like to dedicate this award to ______, which helped me through so many hard times.",1
@@ -570,6 +575,7 @@ text,blanks
 "If you could remove the stigma around one thing, what would it be?",1
 "If you don't understand ______, then you don't understand rock 'n' roll!",1
 "If you give a mouse ______, he will always ask for ______.",2
+"If you like it then you shoulda put __________ on it.",1
 "If you like ______, you'll love ______",2
 "If you look up in the night sky and search the stars, you can make out a constellation that kind of looks like ______.",1
 "If you want to say sorry, say it with ______.",1
@@ -630,6 +636,7 @@ text,blanks
 "Instead of candy, our neighbour gives out ______ to children on Halloween.",1
 "Instead of endorsing Jell-O Pudding Pops, Bill Cosby should have endorsed ______.",1
 "Instead of the Jews, Hitler should have worried more about ______.",1
+"Instead of ______ we'll use ______!",2
 "Instructions unclear. Dick stuck in ______.",1
 "Introducing the new spokespeople for Pep Boys ______, ______, and ______",3
 "Introducing the newest Care Bear. ______ Bear.",1
@@ -807,6 +814,7 @@ text,blanks
 "Nothing feels better than ______ on ______.",2
 "Now in cinemas, ______ 2: Electric Boogaloo.",1
 "Now witness the firepower of this fully armed and operational ______!",1
+"Now, how do I turn ______ into cold, hard cash?",1
 "Nutted but she still _______",1
 "Of course I'm not a lizardman in disguise. Look at me! I'm always ______, just like any other normal human-mammal.",1
 "Oh no! ______! My only weakness!",1
@@ -941,6 +949,7 @@ text,blanks
 "That's not a ______; that's my wife!",1
 "That's one small step for ______, one giant leap for ______-kind.",2
 "The 1030s were a much simpler time, before ______.",1
+"The activists that started 'Kony 2012' are now campaigning against ______.",1
 "The answer to life, the universe and everything is ______.",1
 "The answer to life, the universe, and ______ is ______.",2
 "The autopsy came in. The cause of death was ______.",1
@@ -982,12 +991,14 @@ text,blanks
 "The new version of Dungeons and Dragons makes ______ a playable race.",1
 "The newest Olympic sport is ______",1
 "The next episode of Epic Meal Time will feature cooking ______. And bacon. Lots and lots of bacon.",1
+"The next First Ladies' big cause will be ______",1
 "The next Hollywood movie sends an ex-con to rescue the President's Daughter from a ______.",1
 "The next ice cream flavour from Ben & Jerry's.",1
 "The next mega-hit boy band album is called ______",1
 "The old man at the flea market handed me a mirror, and told me in it's reflection I would see what I desired most. And in it, I saw ______.",1
 "The Onion totally crossed a line when they called that 9-year old ______.",1
 "The only problem with ______ is that there isn't enough ______ in it.",2
+"The only thing more creepy than those ""Old Spice"" commercials is ______.",1
 "The only thing that makes me cum anymore is ______.",1
 "The only thing The Lego Movie was missing was a lego rendition of ______.",1
 "The only things you need to survive a zombie apocalypse are ______ and ______.",2
@@ -1020,6 +1031,7 @@ text,blanks
 "The sex party ended up at the hospital when Bob had to have ______ surgically removed from his colon.",1
 "The snozberries taste like ______.",1
 "The star is almost okay because it's in your logo; ______, however, is quite offensive.",1
+"The Supreme Court recently ruled that being denied access to ______ is not a violation of your rights.",1
 "The surgery was a success. However, you may notice some discomfort when ______.",1
 "The theme for our senior prom will be ______.",1
 "The theme for this year's Halloween party is ______.",1
@@ -1144,6 +1156,7 @@ text,blanks
 "What do the Amish really need?",1
 "What do you keep in the box under your bed that you don't tell anyone about?",1
 "What do you think ET smells like?",1
+"What does Pepperidge Farm remember?",1
 "What does the fox say?",1
 "What feels illegal, but isn't?",1
 "What has four legs in the morning, two legs in the afternoon, and three legs in the evening?",1
@@ -1246,6 +1259,7 @@ text,blanks
 "Why do I have a boner?",1
 "Why do my farts smell like ______?",1
 "Why does Batman sound like he has a frog in his throat?",1
+"Why does David Cameron have an Erection?",1
 "Why does r/conspiracy hate Jews?",1
 "Why don't we take all the ______ and push it on (to) (the) ______?",2
 "Why is ______ bad? What kind of sick society do we live in where it's bad?",1
