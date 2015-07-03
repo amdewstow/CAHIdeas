@@ -26,8 +26,29 @@ text,blanks
 "I like my ______ like I like ______",2
 "I only pretend to enjoy ______, but everyone else seems to really like it.",1
 "I simply cannot bring myself to give a fuck about ______",1
+"I use ______ to deal with amusement.",1
+"I use ______ to deal with appreciation.",1
+"I use ______ to deal with caution.",1
+"I use ______ to deal with closeness.",1
+"I use ______ to deal with complaint/pain.",1
+"I use ______ to deal with confusion.",1
+"I use ______ to deal with courage.",1
+"I use ______ to deal with discovery.",1
+"I use ______ to deal with envy.",1
+"I use ______ to deal with fear.",1
 "I use ______ to deal with grief.",1
+"I use ______ to deal with happiness.",1
+"I use ______ to deal with hate.",1
+"I use ______ to deal with hope.",1
+"I use ______ to deal with love.",1
+"I use ______ to deal with patience.",1
+"I use ______ to deal with pity.",1
+"I use ______ to deal with pride.",1
 "I use ______ to deal with regret.",1
+"I use ______ to deal with relaxation.",1
+"I use ______ to deal with respect.",1
+"I use ______ to deal with togetherness.",1
+"I use ______ to deal with wonder.",1
 "I want ______ for my birthday!",1
 "I would love a lifetime supply of ______.",1
 "I would never get ______ for myself, but would love to give it as a gift.",1
@@ -62,6 +83,7 @@ text,blanks
 "I’m getting real tired of explaining the ______ card.",1
 "I’ve really struggled with ______ all my life, but it’s hard to complain about it to others.",1
 "Just got an android phone, what is the first thing. I should do to optimize it?",1
+"Man, its completely bonkers that ______ hasn't been invented yet.",1
 "Man, I’m glad I’m over my teenage ""______"" phase.",1
 "Men who have learned to last longer in bed, what's your secret?",1
 "My college roommate was completely mad at me for having ______ in the dorm. I mean, come on, man, lighten up.",1
@@ -366,6 +388,7 @@ text,blanks
 "Why did you last get punched in the face?",1
 "Why do you consider your life ruined?",1
 "Why do you not believe in God?",1
+"Would you vote for a ______ president?",1
 "You are sent 15 years into the future. You can bring one object to prove you are from the past. What do you bring?",1
 "You are walking down the street and a stranger slaps you with ______.",1
 "You can never be too old for ______",1
