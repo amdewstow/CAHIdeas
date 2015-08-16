@@ -19,6 +19,7 @@ text,blanks,Pack
 "I am afraid of ______.",1,/r/AskReddit
 "I am temporarily obsessed with ______.",1,/r/AskReddit
 "I ate ______ for breakfast.",1,/r/AskReddit
+"I collect ______ of all kinds.",1,/r/AskReddit
 "I don't want to live in a world without______",1,/r/AskReddit
 "I draw the line at ______.",1,/r/AskReddit
 "I HATE the word ""Vagina"" what word do you hate?",1,/r/AskReddit
@@ -29,6 +30,7 @@ text,blanks,Pack
 "I like my ______ like I like ______",2,/r/AskReddit
 "I only pretend to enjoy ______, but everyone else seems to really like it.",1,/r/AskReddit
 "I simply cannot bring myself to give a fuck about ______",1,/r/AskReddit
+"I think about ______ about to keep from cumming while having sex.",1,/r/AskReddit
 "I use ______ to deal with amusement.",1,/r/AskReddit
 "I use ______ to deal with appreciation.",1,/r/AskReddit
 "I use ______ to deal with caution.",1,/r/AskReddit
@@ -392,6 +394,7 @@ text,blanks,Pack
 "Why do you consider your life ruined?",1,/r/AskReddit
 "Why do you not believe in God?",1,/r/AskReddit
 "Would you vote for a ______ president?",1,/r/AskReddit
+"You are given the power to transform into ______!",1,/r/AskReddit
 "You are sent 15 years into the future. You can bring one object to prove you are from the past. What do you bring?",1,/r/AskReddit
 "You are walking down the street and a stranger slaps you with ______.",1,/r/AskReddit
 "You can never be too old for ______",1,/r/AskReddit
@@ -405,9 +408,12 @@ text,blanks,Pack
 "______ is a good cologne.",1,/r/AskReddit
 "______ is a must-have that costs $25 or less.",1,/r/AskReddit
 "______ is a truly dying art nowadays.",1,/r/AskReddit
+"______ is a USEFUL profession.",1,/r/AskReddit
+"______ is awkward to use in normal conversation because of porn.",1,/r/AskReddit
 "______ is how did you beat depression.",1,/r/AskReddit
 "______ is my earliest memory?",1,/r/AskReddit
 "______ is my goal in life.",1,/r/AskReddit
+"______ is offensive/offends me.",1,/r/AskReddit
 "______ is the funniest phrase in the English language.",1,/r/AskReddit
 "______ is the most revolting sexual experience!",1,/r/AskReddit
 "______ is the worst kind of employee.",1,/r/AskReddit
@@ -425,6 +431,7 @@ text,blanks,Pack
 "______. That’s when my childhood officially ended.",1,/r/AskReddit
 "______is the worst kind of pain!",1,/r/AskReddit
 "______will be the demise of me.",1,/r/AskReddit
+"""Abracadabra!"" said the magician, and as the smoke cleared, he had made ______ completely disappear.",1,/r/cahideas/
 """Are you afraid of God, Booker?"" ""No. But I'm afraid of ______.""",1,/r/cahideas/
 """Call the hottest sex-line in America."" 1-900-______ ""Don't wait.""",1,/r/cahideas/
 """Fe-Fi-Fo-Fum! I smell the blood of ______.""",1,/r/cahideas/
@@ -461,10 +468,12 @@ text,blanks,Pack
 "911, what's your emergency?",1,/r/cahideas/
 ": Sugar, spice, and ______. These were the ingredients chosen to create the perfect little girls.",1,/r/cahideas/
 ": ______ : Made for a man, meant for a woman.",1,/r/cahideas/
+"A 450 million year old fossil of ______ scientists didn't know existed.",1,/r/cahideas/
 "A buttplug, an oven mitt and (a) ______.",1,/r/cahideas/
 "A hot new alternative medical practice involves placing ______ in ______.",2,CustomCardsagAinstHumanity.com
 "A Judge in Tennessee has ruled that a married couple cannot name their child ______.",1,/r/cahideas/
 "A little-known fact is that Microsoft Windows was originally slated to be the first operating system to include ______.",1,Assortment
+"A McDonald's employee was recently fired for placing ______ in children's Happy Meals.",1,/r/cahideas/
 "A new cryptocurrency is on the rise. This time based on ______.",1,/r/cahideas/
 "A new Hitler is rising up but instead of killing Jews, he wants to kill all ______",1,/r/cahideas/
 "A picture is worth a thousand words. So is ______.",1,Assortment
@@ -505,7 +514,7 @@ text,blanks,Pack
 "All in all, it's just ______.",1,/r/cahideas/
 "All my rowdy friends are here on ______",1,/r/cahideas/
 "All you need is ______. All you want is ______. All you get is ______.",3,/r/cahideas/
-"All ______ and no ______ makes Jack a dull boy.",2,/r/cahideas/
+"All ______ and no ______ makes Jack a dull boy.",2,"Cards Against Decency"
 "Am I the only one around here who ______?",1,/r/cahideas/
 "AMC's sequel to The Walking Dead, The Walking ______, was not as successful for obvious reasons.",1,Assortment
 "American by birth, ______ by the grace of God.",1,/r/cahideas/
@@ -539,6 +548,8 @@ text,blanks,Pack
 "Back in my day, the only way to have fun was ______.",1,Assortment
 "Back in my day, ______ cost only a quarter.",1,/r/cahideas/
 "Back in my day, ______ only cost a quarter.",1,Assortment
+"Be very careful. If you mix ______ and ______, it makes ______. And that would be bad.",3,/r/cahideas/
+"Be very careful. If you mix ______ and ______, you get ______, and that would be very bad.",3,/r/cahideas/
 "Because I'm a Grown-Ass Man with a ______ and I'll Do What I want!",1,/r/cahideas/
 "Because she was so drunk, Gloria shotgunned ______, thinking it was a beer can.",1,/r/cahideas/
 "Behold and fear me! You puny humans have tormented me with ______ for the last time! I have combined ______ with ______ and created a super weapon to destroy you!",3,/r/cahideas/
@@ -567,6 +578,7 @@ text,blanks,Pack
 "By the power vested in me, I now pronounce you ______ and ______.",2,carderator
 "By your powers combined, I am Captain ______!",1,/r/cahideas/
 "Callin' out around the world, are you ready for a brand new beat? Summer's here and the time is right for ______.",1,/r/cahideas/
+"Can you believe that ______ actually waited in line for ______?",2,/r/cahideas/
 "Canada may be an awesome country, but it has a checkered past of mistreating ______ that no one seems to acknowledge.",1,/r/cahideas/
 "Cards Against Humanity is like sex; it’s better when you have ______ in your hand.",1,/r/cahideas/
 "Cards for a bachelorette party?",1,/r/cahideas/
@@ -616,6 +628,7 @@ text,blanks,Pack
 "Did you know, the 8th largest voting demographic is ______?",1,/r/cahideas/
 "Did you know? The original dubbing of Dart Vader's famous line was actually: ""Luke, I am ______"".",1,/r/cahideas/
 "Did you see that new reality show about the priest who thinks he's a ______?",1,/r/cahideas/
+"Dindu Muffins, a Lil Debbie product",1,/r/cahideas/
 "Discovery Channel's newest show details the life of ______ and its prey, ______.",2,/r/cahideas/
 "Disney presents ______ On Ice!",1,Assortment
 "Dividend is to stockholder as ______ is to regatta.",1,/r/cahideas/
@@ -655,12 +668,13 @@ text,blanks,Pack
 "During my time at Hogwarts, I discovered my Patronus was ______.",1,/r/cahideas/
 "During the 2014 Winter Olympic Games in Sochi, reporter Bob Costas came down with a nasty case of pink eye. Although not discussed in the news, we all know it was caused by ______.",1,/r/cahideas/
 "During the zombie apocalypse, I would use ______, ______, and ______ to survive.",3,/r/cahideas/
-"Earth! Fire! Wind! Water! ______!",1,/r/cahideas/
+"Earth! Fire! Wind! Water! ______!",1,"Cards Against Decency"
 "Earth! Fire! Wind! Water! ______! By your powers combined, I am ______!",2,/u/Masaioh
 "Eh, what's up, Doc?",1,/r/cahideas/
 "Elon Musk's next billion-dollar venture is in the growing field of ______",1,/r/cahideas/
 "EPIC RAP BATTLES OF HISTORYYYYYYYYYYYYY!!: ______ VS. ______!!! BEGIN!",2,/r/cahideas/
 "Errbody in da club git ______.",1,/r/cahideas/
+"Error 404: ______ not found.",1,/r/cahideas/
 "Eton has recently changed their school motto to "" ______ and ______ breeds future Prime Ministers""",2,/r/cahideas/
 "Ever since the war, my grandfather's PTSD triggers every time he is reminded of ______.",1,/r/cahideas/
 "Every guy wants a lady in the street and a ______ in the sheets!",1,/r/cahideas/
@@ -692,17 +706,20 @@ text,blanks,Pack
 "From the award winning novel comes the movie about one man and ______.",1,/r/cahideas/
 "From the creators of /r/spacedicks, there is a new subreddit, about ______!!!!!!!!!",1,/r/cahideas/
 "Fun Fact: Jerry Lewis filmed a movie about ______ working in a concentration camp, but never showed it publicly.",1,/r/cahideas/
+"Generic&trade; Plot Hole&trade; Filler&trade; &trade;",1,/r/cahideas/
 "Genius is 10% inspiration and 90% ______.",1,carderator
 "Genius: * 10% inspiration * 90% ______.",1,/r/cahideas/
+"George, George, George of the jungle, watch out for ______!",1,/r/cahideas/
 "Getting someone started on ______ even after they specifically ask you not to.",1,/r/cahideas/
 "Getting totally stoned (like...with rocks)",1,/r/cahideas/
 "Gimme a break, gimme a break. Break me off a piece of that ______",1,/r/cahideas/
+"Girls don't like boys, girls like ______.",1,/r/cahideas/
 "Give a man ______ and you'll feed him for a day. Teach a man ______ and you'll feed him for a lifetime.",2,/r/cahideas/
 "Give me liberty, or give me ______!",1,/r/cahideas/
 "Give me one reason to stay here, and I'll turn right back around.",1,/r/cahideas/
 "Glory to Our New Overlords, Who have brought ______ to ease our suffering.",1,/r/cahideas/
 "Go to Heaven for ______, Hell for ______.",2,/r/cahideas/
-"Go-go Gadget ______!",1,/r/cahideas/
+"Go-go Gadget ______!",1,"Cards Against Decency"
 "God created Adam and Eve, not Adam and ______.",1,/r/cahideas/
 "Godzilla vs ______",1,/r/cahideas/
 "Good guys bad guys and ______, as far as the eye can see.",1,/r/cahideas/
@@ -710,6 +727,7 @@ text,blanks,Pack
 "Goodwill now excepts used ______ at select stores",1,/r/cahideas/
 "Gordon Ramsay didn't hesitate to shut my restaurant down when he discovered ______ in the kitchen. Worse yet, the food was contaminated with ______.",2,/r/cahideas/
 "Grandma always said ______ was the best medicine for hangovers.",1,Assortment
+"Gretchen, stop trying to make ______ happen. It's not going to happen.",1,/r/cahideas/
 "Grocery List: Bread, milk, eggs, soda, ______, and Cool Whip.",1,/r/cahideas/
 "Grocery List: bread, milk, eggs, water, ______, and chips.",1,Assortment
 "Grocery List: Eggs, bread, butter, ______, milk.",1,/r/cahideas/
@@ -721,6 +739,7 @@ text,blanks,Pack
 "Hakuna Matata, it means ______.",1,carderator
 "Hannukkah was ruined last year due to ______.",1,Assortment
 "Harry Potter and the ______.",1,/r/cahideas/
+"Have you played ______ yet? It's like Skyrim with ______.",2,/r/cahideas/
 "Have you tried the new ______ oreo cookies? They taste more like ______ to me.",2,/r/cahideas/
 "Having Henry as friend is like ______.",1,/r/cahideas/
 "Having sex is like Bridge. If you don't have a good partner, you'd better have ______. And a few others",1,/r/cahideas/
@@ -786,6 +805,7 @@ text,blanks,Pack
 "I am the great and powerful genie. What 3 wishes shall I grant you?",1,/r/cahideas/
 "I AM THE GREAT CORNHOLIO I NEED ______ FOR MY ______",2,/r/cahideas/
 "I am Vengeance. I am the Night. I am ______",1,/r/cahideas/
+"I am ______.",1,/r/cahideas/
 "I ate his liver with some fava beans and ______.",1,/r/cahideas/
 "I broke up with my ex girl. Here's her number... PSYCH! That's ______!",1,/r/cahideas/
 "I can drive and ______ at the same time.",1,Image1
@@ -796,15 +816,18 @@ text,blanks,Pack
 "I couldn't find a condom, so I used ______ instead.",1,/r/cahideas/
 "I couldn't find a condom, so I had to use ______ instead.",1,/r/cahideas/
 "I couldn't help but give a buck to the homeless guy with the sign: ""Will work for ______""",1,/r/cahideas/
+"I decided to become an activist and fight for ______.",1,/r/cahideas/
 "I did my holiday shopping too late, and had to get my daughter the pop-up book titled ______",1,/r/cahideas/
 "I did not expect to see ______ during the Vancouver Stanley Cup Game 7 riots.",1,/r/cahideas/
 "I didn't have any plans for the weekend, until I found ______ in the attic.",1,/r/cahideas/
 "I didn't think 4chan could get any worse, but then moot opened that new board about ______.",1,/r/cahideas/
+"I do not like ______. I will not try them, Sam I Am.",1,/r/cahideas/
 "I do ______ on the side for some extra cash.",1,/r/cahideas/
 "I don't always drink an entire bottle of vodka, but when I do, I prefer to do it with ______.",1,/r/cahideas/
 "I don't care what you say, it isn't gay until it involves ______",1,/r/cahideas/
 "I don't know how I got sick, but I suspect it had something to do with ______.",1,/r/cahideas/
 "I don't know if you are the god of ______, but you ought to be.",1,/r/cahideas/
+"I don't know what it's going to do, but I can't wait to light off the firework called ______.",1,/r/cahideas/
 "I don't know what weapons will be used in world war 3, but world war 4 will be fought with ______.",1,/r/cahideas/
 "I don't know where that flight out of Malaysia ended up, but rumor has it, that it was found in ______.",1,/r/cahideas/
 "I don't know why I bother going to church, I'd much rather spend my Sunday morning ______",1,/r/cahideas/
@@ -815,6 +838,7 @@ text,blanks,Pack
 "I dreamed I had sex with ______ and ______",2,/r/cahideas/
 "I eat ______ like you for breakfast.",1,/r/cahideas/
 "I eat ______, and shit ______.",2,/r/cahideas/
+"I failed my essay after someone replaced ""______"" with ""______""",2,/r/cahideas/
 "I failed my exam in ______.",1,/r/cahideas/
 "I failed my exam on ______.",1,/r/cahideas/
 "I feel the need""&rdquo;the need for ______.",1,Assortment
@@ -822,6 +846,7 @@ text,blanks,Pack
 "I finally decided to quit the internet when I discovered /r/ ______ actually existed.",1,/r/cahideas/
 "I find your lack of ______ disturbing.",1,/r/cahideas/
 "I find your lack of ______ to be ______.",2,/r/cahideas/
+"I forgot my camera when we checked out of the hotel. When they sent it back, I was surprised to find pictures of ______ on it!",1,/r/cahideas/
 "I found a new craft beer. It tastes like ______, and it's called ______.",2,/r/cahideas/
 "I found ______ in the dumpster behind the abortion clinic.",1,/r/cahideas/
 "I gave that bitch ______. Bitches love ______. (One card)",2,/r/cahideas/
@@ -909,6 +934,7 @@ text,blanks,Pack
 "I think these oysters are bad, because they smell like ______.",1,/r/cahideas/
 "I used to be an adventurer like you, but then I took a ______ to the knee.",1,/r/cahideas/
 "I used to be ______ like you, until I took ______ in the ______.",3,/r/cahideas/
+"I used to wonder what ______ could be, until you all shared its magic with me.",1,/r/cahideas/
 "I want to reboot Mystery Science Theater 3000, only instead of robots, the human will be joined by ______ and ______.",2,/r/cahideas/
 "I want ______ for my Birthday.",1,/r/cahideas/
 "I wanted my kids to see some goats and maybe a lamb at the petting zoo, but instead all we saw was ______.",1,/r/cahideas/
@@ -957,6 +983,8 @@ text,blanks,Pack
 "I'm kind of like Zorro, except that I leave ______ as my mark.",1,/r/cahideas/
 "I'm no doctor, but that definitely looks like ______.",1,/r/cahideas/
 "I'm not one to complain, but I realy think this party could use a little ______.",1,/r/cahideas/
+"I'm not saying I hate country music, but I'd rather ______.",1,/r/cahideas/
+"I'm not saying the steak was bad, but it was like chewing ______.",1,/r/cahideas/
 "I'm not ______ or anything, but don't you think we should stop ______?",2,/r/cahideas/
 "I'm pickin' up good vibrations. Shes giving me ______.",1,/r/cahideas/
 "I'm pretty sure that if Jesus had a smartphone back in the days, his gallery would be full of pictures of ______. #______",2,/r/cahideas/
@@ -965,7 +993,7 @@ text,blanks,Pack
 "I'm so jealous. Women have a great way to hide ______.",1,/r/cahideas/
 "I'm sorry Mrs. Miller, I couldn't do the assignment. You see I had ______ last night and just didn't have the time.",1,/r/cahideas/
 "I'm sorry, but we don't allow ______ in the country club.",1,Assortment
-"I'm the CEO who transformed Reddit into ______. Ask Me Anything!",1,/r/cahideas/
+"I'm the CEO who transformed Reddit into ______. Ask Me Anything!",1,"Cards Against Decency"
 "I'm thinking of getting a big tattoo of ______ on my back. Maybe the Japanese symbol for ______ too. Is that too cliche?",2,/r/cahideas/
 "I'm usually a vegan, but I make an exception to eat ______.",1,/r/cahideas/
 "I'm ______ to raise money for charity. Proceeds go to raising awareness of ______ and to help eliminate ______.",3,/r/cahideas/
@@ -975,11 +1003,13 @@ text,blanks,Pack
 "I'll have Taylor Ham, egg, and cheese on ______.",1,/r/cahideas/
 "I'll ram my ______ down your ______ ______ you cunt",3,/r/cahideas/
 "I'll take ______ for $400, Alex.",1,/r/cahideas/
+"I'm so tired of fighting with ___ over ___ .",1,/r/cahideas/
 "I'mma let you finish, but ______ had one of the best ______ of all time!",2,/r/cahideas/
 "I've been selling ______ since like the 5th grade.",1,/r/cahideas/
 "I've been taking these new Czechoslovakian organ-slimming pills. They contain a little bit of ______, which is something my body needs anyway!",1,/r/cahideas/
 "I've been useing ______ to hide my ______ basically all night.",2,/r/cahideas/
 "I've fallen and i cant get ______",1,/r/cahideas/
+"I've got a jar of dirt, I've got a jar of dirt, I've got a jar of dirt, and guess what's inside it? ______",1,/r/cahideas/
 "I've got the fever and the only cure is more ______.",1,Assortment
 "I, for one, welcome our new overlords: ______!",1,/r/cahideas/
 "If a pot of gold is on one end of a rainbow, what is on the other end?",1,Assortment
@@ -1050,6 +1080,7 @@ text,blanks,Pack
 "In the grim darkness of the far future there is only ______.",1,/r/cahideas/
 "In the grim darkness of the future there is only ______.",1,"CAH Grognards"
 "In the latest 'Saw' film, our hero must escape from a trap involving ______ before the timer runs out and ______ kills them.",2,/r/cahideas/
+"In the latest Lincoln commercial, Matthew McConaughey talks about ______ for a minute while driving his Lincoln.",1,/r/cahideas/
 "In the modern-day Tarot deck, what is on the Devil card?",1,/r/cahideas/
 "In the new Speed movie, Keanu Reeves has to maintain ______ to stop ______ from exploding",2,/r/cahideas/
 "In the new tenth circle of Hell, sinners will be condemned to an eternity of ______.",1,Assortment
@@ -1065,9 +1096,10 @@ text,blanks,Pack
 "Instead of a toy, the new promotion at McDonald's includes ______ in every Happy Meal.",1,/r/cahideas/
 "Instead of candy, our neighbour gives out ______ to children on Halloween.",1,/r/cahideas/
 "Instead of endorsing Jell-O Pudding Pops, Bill Cosby should have endorsed ______.",1,Assortment
+"Instead of hats, Valve decides to introduce ______ into Team Fortress 2",1,/r/cahideas/
 "Instead of the Jews, Hitler should have worried more about ______.",1,Assortment
 "Instead of ______ we'll use ______!",2,/r/cahideas/
-"Instructions unclear. Dick stuck in ______.",1,/r/cahideas/
+"Instructions unclear. Dick stuck in ______.",1,"Cards Against Decency"
 "Introducing the new spokespeople for Pep Boys ______, ______, and ______",3,/r/cahideas/
 "Introducing the newest Care Bear. ______ Bear.",1,/r/cahideas/
 "Iron Chef: Today's secret ingredient is ______.",1,Assortment
@@ -1112,6 +1144,7 @@ text,blanks,Pack
 "It's predicted to rain ______ all week.",1,/r/cahideas/
 "It's the grand opening of Fast Eddie's ______ and ______ shop! The first 50 customers get a free ______!",3,/r/cahideas/
 "It's ______. But not for you, Gunslinger.",1,/r/cahideas/
+"Jake from ______ at 3 in the morning? Who is this?",1,/r/cahideas/
 "Jazz is kind of like ______, but with a little more ______.",2,/r/cahideas/
 "Jesus died for ______.",1,/r/cahideas/
 "Jesus is ______.",1,Assortment
@@ -1122,7 +1155,7 @@ text,blanks,Pack
 "Keep running your mouth and I'm gonna stick ______ in it.",1,/r/cahideas/
 "Keep your friends close, but your ______ closer.",1,Assortment
 "Kids and grown ups love it so, the happy world of ______.",1,/r/cahideas/
-"Kill ______. Fuck ______. Marry ______.",3,/r/cahideas/
+"Kill ______. Fuck ______. Marry ______.",3,"Cards Against Decency"
 "Knick knack, paddy whack, give a dog a ______",1,/r/cahideas/
 "Knock knock, who's there. ______",1,/r/cahideas/
 "Know knock who's there? ______. ______ who? ______",3,/r/cahideas/
@@ -1132,6 +1165,7 @@ text,blanks,Pack
 "Last night I caught my wife using ______ as a dildo.",1,/r/cahideas/
 "Last night, I used ______ as lube. It didn't end well",1,/r/cahideas/
 "Lately I've been doing a lot of ______ but without any of the benefits!",1,/r/cahideas/
+"Lay your sleeping ____, my love, | Human on my faithless ____",1,/r/cahideas/
 "Leave the gun. Take the ______.",1,carderator
 "let me call my buddy ______, he's an expert in ______.",2,/r/cahideas/
 "Let me tell ya 'bout the birds and the bees and the ______ and the ______",2,/r/cahideas/
@@ -1164,11 +1198,13 @@ text,blanks,Pack
 "Michael Bay's next film will destroy your loving childhood memories of ______.",1,/r/cahideas/
 "Mister Owl, how many licks does it take to get to the center of ______?",1,Assortment
 "Mom, I am not explaining ______ to you.",1,/r/cahideas/
+"Mom, it's not just a phase! Tumblr taught me I really can be ______-gender!",1,/r/cahideas/
 "Most people prefer milk and sugar in their coffee but I prefer ______",1,/r/cahideas/
 "Move Over, Kale. The Next Big Superfood is ______",1,/u/Masaioh
 "Movie idea: ______ teams up with ______ to become the greatest at ______ the world has ever seen.",3,/r/cahideas/
 "Mr. Owl, how many licks does it take to get to the center of ______?",1,/r/cahideas/
 "My anaconda don't want none unless you got ______ hon.",1,/r/cahideas/
+"my anaconda don't want none unless you got ______ Hun.",1,/r/cahideas/
 "My anti-boner is ______.",1,/r/cahideas/
 "My arrest record includes possession of ______ with intent to harm.",1,/r/cahideas/
 "My breasts are just as big as ______.",1,/r/cahideas/
@@ -1223,6 +1259,7 @@ text,blanks,Pack
 "New from Disney: A tale of ______ desperately searching for ______.",2,/r/cahideas/
 "New Years Resolution: Get better with ______, and maybe it'll help me reach my goal of ______.",2,carderator
 "New York's hottest club is ______. The password is ______, and it's run by a guy who looks like ______. It has everything, ______, ______ and is that Mick Jagger in the corner? No, it's just ______.",6,/r/cahideas/
+"Newest food-fad at the state fair: Deep-Fried ______!",1,/r/cahideas/
 "Next on Oprah, teens addicted to ______.",1,Assortment
 "Next on Takeshi's Castle, stupid Asians ______.",1,/r/cahideas/
 "Next week on Quantum Leap: Things go badly for Sam when he jumps into the body of ______ and doesn't know about ______.",2,/r/cahideas/
@@ -1282,6 +1319,7 @@ text,blanks,Pack
 "Pisces: Some will say your aspirations are unrealistic but, with Jupiter in Cancer, trust in ______.",1,/r/cahideas/
 "Pitchfork's review of ______ praises them for their use of ______ but condemns them for ______.",3,/r/cahideas/
 "Platoon 2: The second casualty of war is ______.",1,/r/cahideas/
+"PlayStation 3: It only does ______.",1,/r/cahideas/
 "Please have a seat. I'm Chris Hansen. Can you tell me why you brought ______ and ______ into the home of a minor?",2,/r/cahideas/
 "Please remind me to renew my subscription of ______ monthly",1,/r/cahideas/
 "Poland cannot into ______, but can into ______.",2,/r/cahideas/
@@ -1306,6 +1344,7 @@ text,blanks,Pack
 "Rick from Pawn Stars called me in because I am an expert in ______. He needs me to examine ______.",2,/r/cahideas/
 "Roads were closed today due to ______.",1,/r/cahideas/
 "Rob Schneider is in a brand new movie, with everything going for him. Only problem is, he's about to become ______! Rated PG-13.",1,/r/cahideas/
+"Ronda Rousey is unstoppable! The only way to beat her is with ______.",1,/r/cahideas/
 "Rules to raising a mogwai: never feed it after midnight, never get it wet, and never give it ______.",1,Assortment
 "Rumor has it that Chris Christie has an entire warehouse stocked with food and ______.",1,/r/cahideas/
 "Running for president this year is ______ from the ______ party.",2,/r/cahideas/
@@ -1351,6 +1390,7 @@ text,blanks,Pack
 "Son, we need to talk. I found ______ in your bedside drawer and I'm concerned.",1,/r/cahideas/
 "Sony Pictures cancels yet another James Franco/Seth Rogen comedy titled ""______"" due to terrorists threats from ______",2,/r/cahideas/
 "Speak softly and carry ______.",1,/r/cahideas/
+"Stacy's mom has got ______ going on.",1,/r/cahideas/
 "Standing In Line at the DMV is worse than ______.",1,/r/cahideas/
 "Star Wars Episode VII : ______",1,/r/cahideas/
 "Star Wars Episode VII: Attack of The ______",1,/r/cahideas/
@@ -1412,6 +1452,7 @@ text,blanks,Pack
 "The latest and greatest torture method from ISIS: ______!",1,/r/cahideas/
 "The latest cover of Charlie Hebdo features ______ and ______.",2,/r/cahideas/
 "The latest reality series on History Channel features two friends who have made a fortune selling ______.",1,carderator
+"The local sheriff said that ______ was convicted for ______ and sentenced to ______.",3,/r/cahideas/
 "The Lord is my Shepard, I shall not want, He maketh me lie down in ______",1,/r/cahideas/
 "The Mormon church secretly uses member tithings to fund ______.",1,/r/cahideas/
 "The new 'Mr Men & Little Miss' characters: 'Mr ______' and 'Little Miss ______'.",2,/r/cahideas/
@@ -1422,11 +1463,14 @@ text,blanks,Pack
 "The new UK sitcom has everything you'd expect: fun for all the family, 6 episodes per season, and features the potentially popular catchphrase, ""don't blame me, I'm just ______! """,1,/r/cahideas/
 "The new version of Dungeons and Dragons makes ______ a playable race.",1,Assortment
 "The newest Olympic sport is ______",1,/r/cahideas/
+"The newest viral sensation: The ______ challenge!",1,/r/cahideas/
 "The next episode of Epic Meal Time will feature cooking ______. And bacon. Lots and lots of bacon.",1,Assortment
 "The next First Ladies' big cause will be ______",1,/r/cahideas/
 "The next Hollywood movie sends an ex-con to rescue the President's Daughter from a ______.",1,/r/cahideas/
 "The next ice cream flavour from Ben & Jerry's.",1,Assortment
+"The next Marvel movie centers around a man with the power of ______.",1,/r/cahideas/
 "The next mega-hit boy band album is called ______",1,/r/cahideas/
+"The nighttime, sniffling, sneezing, coughing, aching, stuffy-head, fever, ______ medicine",1,/r/cahideas/
 "The old man at the flea market handed me a mirror, and told me in it's reflection I would see what I desired most. And in it, I saw ______.",1,/r/cahideas/
 "The Onion totally crossed a line when they called that 9-year old ______.",1,/r/cahideas/
 "The only problem with ______ is that there isn't enough ______ in it.",2,Assortment
@@ -1440,6 +1484,7 @@ text,blanks,Pack
 "The other day, while I was coming home from ______, I saw ______ and ______ fighting over ______.",4,/r/cahideas/
 "The owner of a lonely heart is much better than the owner of ______.",1,/r/cahideas/
 "The password I use for most websites is ______.",1,/r/cahideas/
+"The perfect trifecta breakfast: Bacon, eggs, and ______.",1,/r/cahideas/
 "The porn parody of my biopic is called ______",1,/r/cahideas/
 "The power of love is useless against ______.",1,CustomCardsagAinstHumanity.com
 "The President is currently under fire from the opposing party for his ""extremist stance"" on ______.",1,Assortment
@@ -1471,12 +1516,14 @@ text,blanks,Pack
 "The three things you find at every nowhere freeway exit, gas station, Waffle House, ______.",1,/r/cahideas/
 "The top 3 Google Autocomplete listings for ""Is Tom Cruise"" were 1) Is Tom Cruise ______, 2) Is Tom Cruise ______, and 3) Is Tom Cruise ______.",3,/r/cahideas/
 "The unfortunate reason why (person to your left) will die alone.",1,/r/cahideas/
+"The US civil war wasn't about slavery, it was about ______!",1,/r/cahideas/
 "The Washington Redskins are considering renaming their team along the theme of ______",1,/r/cahideas/
 "The Westboro Baptist Church is kind of like ______ only with more hatred.",1,/r/cahideas/
 "The whole argument was just one big case of ""He said, she said, ______ said...""",1,/r/cahideas/
 "THE WORST AND MOST SCAREY SEX TAPE EVER MADE HAD ______ ______ ______ ______ ______ ______ ______ AND ______ IN IT.YES I USED 8 TO MAKE IT MORE INTERESTING.I HAVE 500 BLANK CARDS SO IVE ADDED A TON OF PEOPLE",8,/r/cahideas/
 "THE WORST AND MOST SCAREY SEX TAPE EVER MADE HAD ______, ______, ______, ______, ______, ______, ______ AND ______.",8,/r/cahideas/
 "The worst flavor in Every Flavor jelly bean is ______.",1,/r/cahideas/
+"The wounded ______ plies ______ | That questions ______ | Beneath ______ we feel | The sharp compassion of ______ | Resolving ______ of ______",7,/r/cahideas/
 "The Yelp reviews for ______ were especially scathing.",1,/r/cahideas/
 "The ______ expansion pack for Carcassonne",1,/r/cahideas/
 "The ______ is actually a distraction from the real issue: ______!",2,/r/cahideas/
@@ -1490,10 +1537,12 @@ text,blanks,Pack
 "There is only one cure for Ebola: ______.",1,/r/cahideas/
 "There she was just a ______ singing ______",2,/r/cahideas/
 "There was significant controversy yesterday, when the new president placed their hand on ______ to take the oath of office.",1,/r/cahideas/
+"There's 100 ways to love a cat, 100 loving ways. Way one: ______. 100 loving ways.",1,/r/cahideas/
 "There's a team in the Scottish football league called ______ of ______",2,/r/cahideas/
 "There's always ______ in the banana stand.",1,/r/cahideas/
 "There's no crying in ______.",1,NEIndy
 "There's no such thing as ______.",1,Assortment
+"There's nothing more embarrassing than a surprise boner at the same time you see ______.",1,/r/cahideas/
 "These are not the ______ you're looking for.",1,/r/cahideas/
 "They found ______ in the dumpster behind the abortion clinic.",1,carderator
 "They're sharing a drink called loneliness, but it's better than ______.",1,/r/cahideas/
@@ -1505,6 +1554,7 @@ text,blanks,Pack
 "This election season, Democrats will accuse Republicans of waging a ""War on ______.""",1,/r/cahideas/
 "This is gonna be the best party ever! I've got ______, ______ and ______! Let's go!",3,/r/cahideas/
 "This is the NFL's logic: ______, one-year suspension. ______, only two games!",2,/r/cahideas/
+"This is the police! Open up or we will use ______!",1,/r/cahideas/
 "This is the world's gayest version of ______",1,/r/cahideas/
 "this is why we can't have nice things",1,/r/cahideas/
 "This is ______, there are many others like it, but this one is mine!",1,/r/cahideas/
@@ -1513,6 +1563,7 @@ text,blanks,Pack
 "This one time, at band camp, I walked in on the tuba players ______.",1,Assortment
 "This place is dangerous - you never know when you could get attacked by someone with ______.",1,/r/cahideas/
 "This Thanksgiving, I'm most thankful for ______.",1,"Cards of Mass Destruction"
+"This vehicle does not stop for ______.",1,/r/cahideas/
 "This wine has a good color to it, an interesting bouquet, with *sniffs* just a hint of ______.",1,/r/cahideas/
 "This workplace has been 0 days without ______.",1,carderator
 "This year's bestselling book is a tragic story about ______ written by ______",2,/r/cahideas/
@@ -1566,10 +1617,12 @@ text,blanks,Pack
 "We asked 1000 women, what is it that they really want in a man?",1,/r/cahideas/
 "We elves like to stick to the four main food groups: Candy, Candy Canes, Candy Corn, and ______.",1,/r/cahideas/
 "We now return to ______, already in progress.",1,/r/cahideas/
+"We should stop war on ______, it has ruined more lives than saved.",1,/r/cahideas/
 "We're no strangers to ______. You know the rules, and so do I.",1,/r/cahideas/
 "We're off to see the wizard, the wonderful wizard of ______.",1,/r/cahideas/
 "Welcome to *Whose Line is it Anyway?* The show where everything's made up and the points don't matter! That's right, the points are just like ______!",1,/r/cahideas/
 "Welcome to America's next conflict: 'Operation Enduring ______. '",1,/r/cahideas/
+"Welcome to ______ 101, where we will spend the semester learning about ______!",2,/r/cahideas/
 "Well if you must______, do it quietly.",1,/r/cahideas/
 "Well ______ is a lot more fun when drunk.",1,/r/cahideas/
 "Well ______ my ______ and call me ______.",3,/r/cahideas/
@@ -1580,6 +1633,7 @@ text,blanks,Pack
 "What are little girls made of? Sugar and Spice, and ______.",1,/r/cahideas/
 "What caused my brovorce?",1,/r/cahideas/
 "What confuses all men?",1,carderator
+"What could possibly go wrong?",1,/r/cahideas/
 "What describes the person sitting in front of you?",1,/r/cahideas/
 "What did Comcast change the name on my account to?",1,/u/Masaioh
 "What did grandpa get for his birthday?",1,/r/cahideas/
@@ -1587,11 +1641,13 @@ text,blanks,Pack
 "What do I remind my parents of?",1,/r/cahideas/
 "What do I shout out when I have an orgasm?",1,/r/cahideas/
 "What do the Amish really need?",1,Assortment
+"What do they call American Cheese in Canada?",1,/r/cahideas/
 "What do you keep in the box under your bed that you don't tell anyone about?",1,/r/cahideas/
 "What do you think ET smells like?",1,/r/cahideas/
+"What does it take to ruin a game of Cards Against Humanity?",1,/r/cahideas/
 "What does Pepperidge Farm remember?",1,/r/cahideas/
 "What does the fox say?",1,"Cards Against Equestria - Creator's Pack"
-"What feels illegal, but isn't?",1,/r/cahideas/
+"What feels illegal, but isn't?",1,"Cards Against Decency"
 "What has four legs in the morning, two legs in the afternoon, and three legs in the evening?",1,/r/cahideas/
 "What I wouldn't give for ten minutes alone with ______""&brvbar;",1,Assortment
 "What I wouldn't give for ten minutes alone with ______...",1,/r/cahideas/
@@ -1599,6 +1655,7 @@ text,blanks,Pack
 "What is best in life?",1,/r/cahideas/
 "What is currently keeping Austin weird?",1,/r/cahideas/
 "What is in my rape kit?",1,"Cards of Mass Destruction"
+"What is Jon Stewart doing after his retirement from The Daily Show?",1,/r/cahideas/
 "What is Obama's safe word?",1,/r/cahideas/
 "What is the latest thing to be introduced to The XFactor to improve ratings?",1,/r/cahideas/
 "What is the plot twist for M. Night Shyamalan's next movie?",1,/r/cahideas/
@@ -1621,7 +1678,9 @@ text,blanks,Pack
 "What was Mr. Roger's secret fetish?",1,/r/cahideas/
 "What was on the red line seat you just sat on?",1,/r/cahideas/
 "What was the best part of my wetdream?",1,/r/cahideas/
-"What was the last thing I Googled?",1,/u/Masaioh
+"What was the last thing I Googled?",1,"Cards Against Decency"
+"What was the second-to-last horror released from Pandora's Box? ______",1,/r/cahideas/
+"What will be name of my expansion hockey team?",1,/r/cahideas/
 "What will be our last chance for salvation when our new robot overlords take over?",1,Assortment
 "What will playdoh's next blunder be?",1,/r/cahideas/
 "what would be the most controversial object to be found on mars ?",1,/r/cahideas/
@@ -1631,6 +1690,7 @@ text,blanks,Pack
 "What's Eating Gilbert Grape?",1,/r/cahideas/
 "What's hidden under my bed?",1,/r/cahideas/
 "What's inside my white, windowless van?",1,Assortment
+"What's Joe Biden's secret sexual fantasy? ______.",1,/r/cahideas/
 "What's my gender identity?",1,/r/cahideas/
 "What's my morning motivation?",1,/r/cahideas/
 "What's next for Malaysia Airlines?",1,/r/cahideas/
@@ -1639,6 +1699,7 @@ text,blanks,Pack
 "What's the best reason to stay single?",1,/r/cahideas/
 "What's the best twist to a game of Hide and Seek?",1,/r/cahideas/
 "What's the deal with ______? They're / it's always ______.",2,/r/cahideas/
+"What's the latest euphemism for sex?",1,/r/cahideas/
 "What's the most effective form of birth control?",1,Assortment
 "What's the most metal?",1,/r/cahideas/
 "What's the newest edition to the Swiss Army knife?",1,carderator
@@ -1649,6 +1710,7 @@ text,blanks,Pack
 "What's the worst thing to fill a pi&#195;&#177;ata with?",1,/r/cahideas/
 "What's worse than the Holocaust?",1,/r/cahideas/
 "What's your Grandad's dirty little secret?",1,/r/cahideas/
+"What's the dankest new internet meme?",1,/r/cahideas/
 "WHATCHA GONNA DO BROTHER, WHEN ______ RUNS WILD ON YOU??",1,/r/cahideas/
 "Whats in the fucking box?",1,/r/cahideas/
 "When a man and a woman love each other very much, suddenly ______.",1,Assortment
@@ -1670,6 +1732,7 @@ text,blanks,Pack
 "When the going gets tough, the tough get ______.",1,/r/cahideas/
 "When the machines rise up against us, ______ is our only salvation.",1,Assortment
 "When ______ and ______ joined the Expendables, the team knew it could conquer anything.",2,/r/cahideas/
+"When ______ hits 88 miles per hour, you're going to see some serious shit.",1,/r/cahideas/
 "Whenever I'm feeling down, I think about ______, and all my worries disappear.",1,/r/cahideas/
 "Whenever Josef Stalin woke up with a messed-up mustache, he would always fix it with ______.",1,/r/cahideas/
 "Where I'm from, ______ is just how you say ""hello.""",1,/r/cahideas/
@@ -1679,8 +1742,10 @@ text,blanks,Pack
 "Who needs ______ when you've got ______?",2,/r/cahideas/
 "Who shot Mr. Burns?",1,carderator
 "Who shot ______?",1,/r/cahideas/
+"Who the hell is Sergei Plotnikov?",1,/r/cahideas/
 "Who's down with OPP?",1,/r/cahideas/
 "Why am I standing on the side of the highway?",1,/r/cahideas/
+"Why are there so many songs about rainbows?",1,/r/cahideas/
 "Why are we currently standing waiting for signal clearance ahead?",1,/r/cahideas/
 "Why ban gay marriage when you can ban ______",1,/r/cahideas/
 "Why can't I find a job where I can use my ______ skills?",1,/r/cahideas/
@@ -1723,6 +1788,7 @@ text,blanks,Pack
 "Y'all mother fuckers need ______.",1,/r/cahideas/
 "Yeah! There were horses and a man on fire and I killed a man with ______!",1,Assortment
 "Yeah, I had to break up with him. He kept using ""______"" as a euphemism for having sex.",1,/r/cahideas/
+"Yeah? Well, your MOM is ______!",1,/r/cahideas/
 "You bob for apples in ______, and you like it!",1,/r/cahideas/
 "You call it ______, but I say it's ______.",2,/r/cahideas/
 "You can dance, you can jive, having the time of your life. See that girl, watch that scene, diggin' ______.",1,/r/cahideas/
@@ -1745,11 +1811,13 @@ text,blanks,Pack
 "You never want to see how ______ is made.",1,/r/cahideas/
 "You there, boy! What day is this? Why Sir it's ______ Day!",1,"Cards Against Equestria - Regular's Pack"
 "You were expecting ______, but it was me, Dio!",1,/r/cahideas/
+"You're a ______ now, you're a ______ now!",2,/r/cahideas/
 "You're overreacting. Seriously, what's the worst that could happen?",1,/r/cahideas/
 "You're ______, bitch!",1,/r/cahideas/
 "You've fallen for one of the classic blunders! ______, with a Sicilian, when DEATH is on the line!",1,/r/cahideas/
-"You. Me. ______. Now.",1,/r/cahideas/
+"You. Me. ______. Now.",1,"Cards Against Decency"
 "Your Fox News-watching uncle has been ranting nonstop about ______.",1,/r/cahideas/
+"Your friendly neighborhood ___",1,/r/cahideas/
 "Your instinct may be to avoid ______. Your instinct is wrong.",1,/u/Masaioh
 "Your mother is ______ and your father smells of ______!",2,/r/cahideas/
 "Your ______ is ______ and you should ______",3,/r/cahideas/
@@ -1781,17 +1849,20 @@ text,blanks,Pack
 "______ begins at conception.",1,/r/cahideas/
 "______ can help any relationship.",1,"Cards of Mass Destruction"
 "______ can save you 15% or more on car insurance.",1,/r/cahideas/
+"______ can't melt ______",2,/r/cahideas/
 "______ caused my dad to question his sexuality.",1,/r/cahideas/
 "______ could beat ______ in a fight, but only if they were armed with ______.",3,/r/cahideas/
 "______ describes my wife after sex.",1,/r/cahideas/
 "______ don't judge it until you've tried it.",1,/r/cahideas/
+"______ flavored vodka: It's delicious!",1,/r/cahideas/
 "______ for her pleasure",1,/r/cahideas/
 "______ for women.",1,Assortment
 "______ for ______ is like fucking for virginity!",2,/r/cahideas/
 "______ gives a whole new meaning to ______.",2,Assortment
-"______ goes in, ______ comes out. Can't explain that.",2,/r/cahideas/
+"______ goes in, ______ comes out. Can't explain that.",2,"Cards Against Decency"
 "______ got us into this mess and______ is going to get us out of it.",2,/r/cahideas/
 "______ has gone missing. Suspect Dr. Claw. Your mission is to investigate ______. This message will self-destruct.",2,/r/cahideas/
+"______ has just been announced as the leading cause of cancer by the World Health Organization.",1,/r/cahideas/
 "______ her right in the ______!",2,/r/cahideas/
 "______ in the morning, sailors take warning.",1,carderator
 "______ invented for kids. Approved by mums.",1,/r/cahideas/
@@ -1804,6 +1875,7 @@ text,blanks,Pack
 "______ is at the top of a mountain of dicks.",1,/r/cahideas/
 "______ is best enjoyed on the first date.",1,Assortment
 "______ is dead to me.",1,Assortment
+"______ is Hot. ______ is Not.",2,/r/cahideas/
 "______ is just a polite euphemism for ______.",2,/r/cahideas/
 "______ is more frustrating than Twitch Plays Pokemon.",1,/r/cahideas/
 "______ is not just something you can do. It takes years of practice and concentration.",1,/r/cahideas/
@@ -1820,6 +1892,7 @@ text,blanks,Pack
 "______ is the right of all sentient beings!",1,/r/cahideas/
 "______ Is the thing keeping our unconventional marriage together.",1,/r/cahideas/
 "______ is the worst Cards Against Humanity card.",1,/r/cahideas/
+"______ is ______",2,/r/cahideas/
 "______ isn't about sex, it's about power.",1,Assortment
 "______ it's someone's fetish out there",1,/r/cahideas/
 "______ just can't seem to keep their hands off ______",2,/r/cahideas/
@@ -1830,10 +1903,12 @@ text,blanks,Pack
 "______ makes ______ test better.",2,/r/cahideas/
 "______ maketh man.",1,/r/cahideas/
 "______ means never having to say you're sorry.",1,Assortment
+"______ now Gluten Free!",1,/r/cahideas/
 "______ offends me!",1,/r/cahideas/
 "______ on a old man's sleeve is all the ______ the burnt ______ leave",3,/r/cahideas/
 "______ really put a new twist on ______",2,/r/cahideas/
 "______ should be taught in schools.",1,/r/cahideas/
+"______ smoke. Don't breathe it in!",1,/r/cahideas/
 "______ Spent the last hour cleaning up hooker's blood",1,/r/cahideas/
 "______ tatstes like a chocolate milkshake, only crunchy!",1,Assortment
 "______ the size of a tangerine.",1,/r/cahideas/
@@ -1863,6 +1938,7 @@ text,blanks,Pack
 "______, if you know what I mean ;)",1,/r/cahideas/
 "______, it went okay.",1,/r/cahideas/
 "______, it's that time of season again.",1,/r/cahideas/
+"______, Liked this book? Find your next favorite!______",2,/r/cahideas/
 "______, or as the ______ call it, ______",3,carderator
 "______, That's a technical foul!",1,/r/cahideas/
 "______, the breakfast of champions.",1,/r/cahideas/
@@ -1924,6 +2000,7 @@ ______.com.,1,Assortment
 "______? Where we're going we don't need... ______.",2,/r/cahideas/
 "______and______ star in an all new naked and afraid.",2,/r/cahideas/
 "______s HATE HER because of this one wierd______ trick",2,/r/cahideas/
+"_________ is literally Hitler.",1,/r/cahideas/
 """Nobody has ______ since Obama took office"" ""That we know of""",1,/r/PanicHistory/
 """What kind of crimes are going to be targeted by drones?"" ""______ crimes.""",1,/r/PanicHistory/
 "All this talk about ______ and we get a heavy DDoS. Looks like they are already trying to silence us.",1,/r/PanicHistory/
@@ -2115,7 +2192,7 @@ ______.com.,1,Assortment
 "In Mario Kart, I went from first place to last in a matter of seconds thanks to ______",1,Nintendo
 "My innovative new RPG has a stat for ______",1,/u/Masaioh
 "My origin story would be about ______, putting me on the path to ______",2,/u/Masaioh
-"My perfect night out includes ______, ______, and ______.",3,/u/Masaioh
+"My perfect night out includes ______, ______, and ______.",3,"Cards Against Decency"
 "One nation under ______, indivisible, with ______ and ______ for all",3,/u/Masaioh
 "Only ______ can prevent forest fires",1,/u/Masaioh
 "Sparta? This is ______!",1,/u/Masaioh
@@ -2148,7 +2225,7 @@ ______.com.,1,Assortment
 "______ is better if you’re drunk",1,/u/Masaioh
 "______ or ______? The answer is all three.",2,/u/Masaioh
 "______ vs ______: the latest Syfy Original Movie",2,/u/Masaioh
-"______, I choose you!",1,/u/Masaioh
+"______, I choose you!",1,"Cards Against Decency"
 "______. I shouldn’t have to get angry about this shit.",1,/u/Masaioh
 "______? Acshully is Dolan.",1,/u/Masaioh
 "______? In my vagina? It’s more likely than you think.",1,/u/Masaioh
@@ -2176,7 +2253,7 @@ ______.com.,1,Assortment
 "My senior year, I wrote ""______"" in everybody else's yearbooks.",1,/u/Sage24601
 "Sorry Mario, but ______ is in another castle.",1,xyzzy
 "The internet is for ______.",1,"Nerds Against Humanity"
-"Trust me, I'm ______.",1,/u/Sage24601
+"Trust me, I'm ______.",1,"Cards Against Decency"
 "WARNING: Choking Hazard: ______. Not safe for children under 3 years.",1,/u/Sage24601
 "What did I wish for before blowing out my birthday candles?",1,/u/Sage24601
 "What is the next big Kickstarter campaign?",1,/u/Sage24601
@@ -3386,7 +3463,7 @@ ______.com.,1,Assortment
 "______ is the only way to end world hunger.",1,carderator
 "______ is the reason aliens won't speak with us.",1,carderator
 "______ is the root of all ______.",2,carderator
-"______ is why we can't have nice things.",1,carderator
+"______ is why we can't have nice things.",1,"Cards Against Decency"
 "______ is winning?",1,carderator
 "______ isn't even my final form.",1,carderator
 "______ just isn't the same after the fifth time.",1,carderator
@@ -3539,6 +3616,44 @@ ______.tumblr.com,1,xyzzy
 "The worst gift I got at my baby shower was ______.",1,"Cards Against Babies"
 "Why didn't the chicken cross the road?",2,"Cards Against Babies"
 "Your internet has cut out. What do you do?",2,"Cards Against Babies"
+"Closed captioning for this PBS program was brought to you by ______.",1,"Cards Against Decency"
+"Don't forget to write down my new email address: ______ @ ______.com.",2,"Cards Against Decency"
+"Drink Powerthirst and you'll be good at everything forever! You'll be good at running, football, arson, weddings, even ______!",1,"Cards Against Decency"
+"For your crime of ______, I hereby sentence you to a lifetime of ______!",2,"Cards Against Decency"
+"Four out of five dentists recommend ______. The fifth recommends ______.",2,"Cards Against Decency"
+"Hi, we are from the Church of ______. Do you have a moment to talk about ______?",2,"Cards Against Decency"
+"I have three items in my box labeled, ""In Case of Emergency: ______, ______, and ______.",3,"Cards Against Decency"
+"I only did ______ once. Never again.",1,"Cards Against Decency"
+"I only got involved with ______ because I was young and needed the money.",1,"Cards Against Decency"
+"I'm all over it, like ______ on ______.",2,"Cards Against Decency"
+"I'm ashamed to admit that I've traded sexual favors for ______.",1,"Cards Against Decency"
+"If I'm ever forced to do porn, my first movie HAS to be about ______.",1,"Cards Against Decency"
+"If Jeopardy ever had a category for ______, I would totally own that shit!",1,"Cards Against Decency"
+"In his most ridiculous story to date, Tucker Max has managed to involve ______ in his sexual escapades.",1,"Cards Against Decency"
+"In Japan, you can buy ______ from vending machines.",1,"Cards Against Decency"
+"It's 2015. We have to deal with ______? Thanks, Obama.",1,"Cards Against Decency"
+"Johnny, tell them what they've won!",1,"Cards Against Decency"
+"Nothing says, ""I love you"" quite like ______.",1,"Cards Against Decency"
+"On a scale from 1 to 10, what do you think that I, the Card Czar, am a definite 10 at?",1,"Cards Against Decency"
+"One nation, under ______, indivisible, with ______ and ______ for all.",3,"Cards Against Decency"
+"Only ______ can prevent forest fires.",1,"Cards Against Decency"
+"Remember, ______ is NEVER funny. Unless it includes ______.",2,"Cards Against Decency"
+"Sorry Mario, but ______ is in another castle!",1,"Cards Against Decency"
+"Sorry we burned down your village. Here's ______.",1,"Cards Against Decency"
+"The autopsy results are in. The cause of death was ______.",1,"Cards Against Decency"
+"The cashier gave me a weird look when he saw I was buying ______ and ______ together.",2,"Cards Against Decency"
+"Today's forecast calls for ______ with a chance of ______.",2,"Cards Against Decency"
+"We asked 1000 women, ""What two things do you most want in a man?"" They said ______ and ______.",2,"Cards Against Decency"
+"What is one thing every couple should do together?",1,"Cards Against Decency"
+"What is the best thing you can do for $20 or less?",1,"Cards Against Decency"
+"What is the most imminent threat to our nation's youth?",1,"Cards Against Decency"
+"What is the secret ingredient of your sauce?",1,"Cards Against Decency"
+"What should be my weapon of choice in the next battle royale?",1,"Cards Against Decency"
+"______ and ______ : still a better love story than Twilight.",2,"Cards Against Decency"
+"______ is a fad that needs to die already!",1,"Cards Against Decency"
+"______: a huge deal on the Internet, kind of a bummer in real life.",1,"Cards Against Decency"
+"______: Achievement unlocked.",1,"Cards Against Decency"
+"______: the other, OTHER white meat.",1,"Cards Against Decency"
 "After a wild night of crusading, Applebloom learned that ______ was her super special talent.",1,xyzzy
 "After a wild night of partying, Fluttershy awakens to find ______ in her bed.",1,xyzzy
 "After living for thousands of years Celestia can only find pleasure in ______.",1,xyzzy
@@ -4103,6 +4218,31 @@ ______.,1,"Cards Against Equestria - Regular's Pack"
 "Here comes Randall he's ______",1,Clerks
 "I'm not even supposed to be ______ today!",1,Clerks
 "Who the fuck's in our bathroom?!",1,Clerks
+"Before attempting anal for the first time, I've been told it's best to start with ______.",1,"Cocks Abreast Hostility"
+"Dan Brown's latest novel explores the hidden symbolic meaning behind ______.",1,"Cocks Abreast Hostility"
+"Hitler did nothing wrong; abortions should be legal for gay babies; Bush wasn't a bad president; and now I'll read the card: what did I masturbate to before I got here?",1,"Cocks Abreast Hostility"
+"I'm a dirty, dirty girl. Nothing gets me going like ______.",1,"Cocks Abreast Hostility"
+"I'm not a racist, but I love ______.",1,"Cocks Abreast Hostility"
+"I'm not usually one for eating contests, but when I found out it was for ______, I just couldn't help myself.",1,"Cocks Abreast Hostility"
+"If at first you don't succeed, try, try, try ______.",1,"Cocks Abreast Hostility"
+"It may be totally unconventional and shunned by society in general, but when you come right down to it, ______ is the best purchase I've ever made.",1,"Cocks Abreast Hostility"
+"Loosely translated, my name means ______ in Japanese.",1,"Cocks Abreast Hostility"
+"My proctologist was quite impressed when he saw ______ on my x-rays.",1,"Cocks Abreast Hostility"
+"Nothing says, ""I trust you,"" like ______.",1,"Cocks Abreast Hostility"
+"Thanksgiving dinner was forever changed when my dad brought up ______.",1,"Cocks Abreast Hostility"
+"The ______ Spangled Banner.",1,"Cocks Abreast Hostility"
+"Uber's latest service combines the convenience of ______ with the luxury of ______.",2,"Cocks Abreast Hostility"
+"What is the short version of why I'm not allowed to go back to Australia?",1,"Cocks Abreast Hostility"
+"While writing my wedding vows, I often looked to ______ for inspiration.",1,"Cocks Abreast Hostility"
+"You had me at ______.",1,"Cocks Abreast Hostility"
+"You say potato, I say ______.",1,"Cocks Abreast Hostility"
+"______ gave me AIDS.",1,"Cocks Abreast Hostility"
+"______ has taken more lives than Hitler and smoking combined.",1,"Cocks Abreast Hostility"
+"______ is considered a compliment in most of Europe.",1,"Cocks Abreast Hostility"
+"______ made my moneyshot twice as powerful.",1,"Cocks Abreast Hostility"
+"______, or as I like to call it, ______.",2,"Cocks Abreast Hostility"
+"______: Not just for kids anymore!",1,"Cocks Abreast Hostility"
+"______: the national sport of Africa.",1,"Cocks Abreast Hostility"
 "A healthy relationship is one part ______, and two parts ______.",2,"Cords Against Harmony - Volume 1"
 "After my last rectal exam, the doctor surprised me with ______.",1,"Cords Against Harmony - Volume 1"
 "Eventually Law Enforcement had to bring the stand-off to an end by storming the building & throwing ______ into the compound.",1,"Cords Against Harmony - Volume 1"
