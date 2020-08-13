@@ -1,23 +1,29 @@
 text,blanks
 """ Starting off a handjob by yelling ""pull the lever Kronk!""",1
+"""A working class hero is ______.&rdquo; - John Lennon",1
 """Abracadabra!"" said the magician, and as the smoke cleared, he had made ______ completely disappear.",1
 """Ajit Pai claims ______ hurts ______; data says otherwise.",2
 """All I want is you to make love to ______."" -The Rolling Stones",1
 """Alpha, Rita has escaped. Recruit a team of teenagers with ______!""",1
+"""And you, my friend, are responsible for delaying my rendezvous with Star Command!&rdquo; ""YOU! ARE! ______!!!&rdquo;",1
 """Are you afraid of God, Booker?"" ""No. But I'm afraid of ______.""",1
 """Ask not what your ______ can do for you. Ask what you can do for your ______!""",2
 """Ask not what ______ can do for you. Ask what you can do for ______!""",2
 """Call the hottest sex-line in America."" 1-900-______ ""Don't wait.""",1
 """Communism is when the government does ______. The more it does that, the communister it is."" - Karl Marx",1
 """Drop it like it's ______"" - Snoop Dogg",1
+"""ENOUGH IS ENOUGH! I have had it with these motherfucking ______ on this motherfucking ______!&rdquo; - Samuel L. Jackson",2
 """Everywhere you look, everywhere you go, there's a face of somebody who needs ______.""",1
 """Fe-Fi-Fo-Fum! I smell the blood of ______.""",1
+"""For all my Southside niggas that know me best, I feel like me and Taylor might still have sex Why? I made that bitch ______(God damn).&rdquo; - Kanye West",1
 """Fuckin' ______, how do they work?",1
+"""Goddamn! Who taught you how to get sexy by ______?&rdquo; Yeezy (Kanye West) taught me.",1
 """Hey, I'm at this yard sale and I'm thinking about buying ______ for dad's birthday. What do you think?",1
 """Hey, Phil! Wanna catch a movie with me tonight?"" ""Sorry! I can't because I need to ______ tonight.""",1
 """How dare you say ______, that's my trigger word!""",1
 """I am Optimus Prime, and I send this message to any surviving autobots taking refuge among the stars: We are here. We are ______"".",1
 """I get my thrill on ______ hill."" -Fats Domino",1
+"""I go cuckoo for ______!",1
 """I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin, but by ______."" -Martin Luther King Jr.",1
 """I just discovered this new band. Have you heard of Earth, Wind, and ______?""",1
 """I love ______. You love ______. We’re ______.&rdquo; -Barney the Purple Dinosaur",3
@@ -37,6 +43,7 @@ text,blanks
 """My name is Ozymandias, king of kings. Look on ______, ye mighty, and despair!&rdquo;",1
 """Next time on Epic Meal Time, we eat ______ """,1
 """Oh my god! Your dick is bigger than ______!&rdquo;",1
+"""OH, I need ______, I said I like it like that&rdquo; - Cardi B",1
 """Operation ______ is go!"" ""Roger that, captain!""",1
 """Pinky, are you pondering what I'm pondering?"" ""I think so Brain, but why do we need ______ to get ______?""",2
 """She had a west coast strut that was sweet as molases. But what really knocked me out was ______."" - ZZ Top",1
@@ -46,12 +53,16 @@ text,blanks
 """Take the kids and get out of the house! We don't own a ______ statue!""",1
 """Talking about ______? That's a paddlin'. Lookin' at ______? That's a paddlin'. Staring at ______? That's a paddlin'. Paddlin' ______? Oh, you better believe that's a paddlin'.""",4
 """Thank God, it's ______!""",1
+"""The arc of the moral universe is long, but it bends toward ______.&rdquo; -Martin Luther King Jr.",1
 """The hills are alive with the sound of ______.""",1
 """The Law & Order clang sound includes the sound of a gavel, a jail door slamming shut, and ______.""",1
 """The Philosophy of ______: an inquiry into the essence of ______"" by Jean-Paul Sartre.",2
 """The smallest feline is ______."" - Leonardo da Vinci",1
 """These humans don't appear to be to advanced, they haven't even discovered ______, should be a simple invasion."" Said the alien cleaning his musket.",1
 """They’re bringing ______. They’re bringing ______.They’re ______. And some, I assume, are good people.&rdquo; - Donald J. Trump",3
+"""TIGHT TIGHT TIGHT!&rdquo; Tuco Salamanca said after doing ______, getting him high and horny.",1
+"""TIGHT TIGHT TIGHT!&rdquo; Tuco Salamanca said after ______, getting him high and horny.",1
+"""TIGHT TIGHT TIGHT!,&rdquo; Tuco Salamanca yelled after sniffing meth out of ______, giving him an intense orgasm, followed by beating his friends to death for absolutely no freaking reason.",1
 """TMZ"" caught ______ enjoying ______.",2
 """To be honest, since you learnt about ............... you've not shut up once.""",1
 """Undocumented immigrants are not people; they are ______.&rdquo; -Donald Trump",1
@@ -68,6 +79,7 @@ text,blanks
 """WHAT'S IN THE BOX?!""",1
 """Wolverine. Storm. Meet the newest X-Men recruit who has the mighty power of ______.""",1
 """Yes, waiter, I'll have ______ ala mode, a slice of ______, and a cup of coffee.""",2
+"""Yo Taylor, Im really happy for you, and imma let you finish, but ______ had one of the best ______ of all time!&rdquo; - Kanye West",2
 """You get a ______! You get a ______! Everybody gets a ______!!!""",3
 """You gotta fight for your right, to ______!""",1
 """Your test results are back. I'm sorry, but you seem to have stage-4 ______.""",1
@@ -84,6 +96,7 @@ text,blanks
 "#______ is trending. This means that the news is slow for once.",1
 #______livesmatter!,1
 "$100? Highway robbery! For that much I'd also expect ______.",1
+"&lsquo;Cause if you liked ______, then you shoulda put a ring on it",1
 "&rdquo;______ may only cost us 2 to 3 percent in terms of total mortality."" -Dr. Phil",1
 "'Hakuna Matata?' What does that mean? ______.",1
 "'Here comes Honey Boo Boo' has been cancels since the mother has been dating (a/an)______.",1
@@ -174,6 +187,7 @@ text,blanks
 "A great method for avoiding unwanted pregnancy is ______",1
 "A great method for avoiding unwanted pregnancy is ______ The Arch-duke Franz Ferdinand Was the first Arch-Duke to be assassinated by way of",1
 "A great, well reasoned, & throughly researched writing detailing of the annexation of Austria into Nazi Germany. However, is it necessary to write ""______"" every time you mention Hitler? - Professor Thomas",1
+"A groundbreaking new study claims that ______ is a better treatment for colon cancer than any other current treatment!",1
 "A hitman who thinks he has just finished his most recent cleaning takes his eyes off his target’s corpse only to hear ______",1
 "A horrifying new illness has just been discovered. Nicknamed ""______'s Disease,"" it causes the victim to experience ______. Top scientists believe it is spread by ______.",3
 "A hot new alternative medical practice involves placing ______ in ______.",2
@@ -257,6 +271,7 @@ text,blanks
 "According to this Pornhub ad, Michelle lives 4 blocks away from me and loves ______.",1
 "According to Tumblr, even ______ promotes rape culture.",1
 "According to your Instagram your hobbies include: 1. Standing around in bars and 2. ______.",1
+"Action Card",1
 "Actually, Gamergate is about ______.",1
 "Actually, it's about integrity in ______ journalism.",1
 "Adventure Time, C'mon grab ______, We're going to very distant lands. With Jake the Dog and Finn the Human, The fun will never end, It's Adventure Time!",1
@@ -340,10 +355,12 @@ text,blanks
 "Alabama state legislature is now considering legalizing ______ for a fiscal boost!",1
 "Alex Jones falsely claim that more people die of ______ than of COVID-19.",1
 "Alex Jones says that ______ was a false flag operation, and he may be onto something.",1
+"Alexa, what is ______? ______.",2
 "Ali Baba and the 40 ______.",1
 "All aboard the ______ Express! Next stop: ______!",2
 "All around the mulberry bush, the monkey chased ______.",1
 "All around the mulberry bush, ______ chased ______.",2
+"All evidence of ______ must be destroyed.",1
 "All hell broke loose when mom caught us ______.",1
 "All hope seemed lost until ______ arrived!",1
 "All I got for Father's Day was ______.",1
@@ -371,6 +388,7 @@ text,blanks
 "All your ______ belong to us.",1
 "All ______ and no ______ makes Jack a dull boy.",2
 "All ______ are equal, but some are more equal than others. - George Orwell, Animal Farm",1
+"Allow me to introduce you to Glorious Leader Kim Jung Un’s hand-picked successor, ______.",1
 "Alright Hulkamaniacs, time for the Hulkster's three demandments: Train, say your prayers and ______! Whatcha gonna do, when ______ runs wild on you?",2
 "Alright... *Opens cupboard.* What do we have here... ______? Eh, why not?",1
 "Although disappointing to some audiences, the real reason that Romeo and Juliet drank the poison was actually ______",1
@@ -383,6 +401,7 @@ text,blanks
 "American ______.",1
 "American's first ______ president.",1
 "Americans more likely to die from ______ than in a car accident",1
+"Americans will measure with ______ instead of the metric system.",1
 "America’s official language is now ______.",1
 "Among my people, ______ is a coming-of-age ritual.",1
 "Amy Santiago sex tape",1
@@ -405,6 +424,7 @@ text,blanks
 "And I looked, and behold a pale horse: and his name was ______ and Hell followed with him.",1
 "And I saw them, thundering across the plain. Four riders from a nightmare: Pestilence, War, Famine & ______.",1
 "And I saw them, thundering across the plain. Four riders from a nightmare: Pestilence, War, Famine and ______.",1
+"And I would have gotten away with it too if it wasn’t for ______.",1
 "And I would’ve gotten away with it too, if it hadn’t been for ______!",1
 "And I would’ve gotten away with it, too, had it not been for ______!",1
 "And if the inspiration strikes, you won't hesitate to drop some ______ on a ______ and ______.",3
@@ -429,6 +449,7 @@ text,blanks
 "and the Academy Award goes to ______.",1
 "And the cat's in the cradle and the silver spoon; Little boy blue and the man in the moon; When you ______?",1
 "And the murderer is ______.",1
+"And the Nobel Prize for ______ is awarded to ______.",2
 "And the winner for Best picture is La La Land! Wait, hold the phone, it's actually ______!",1
 "And then from the distance, I heard the horrible sounds of ______",1
 "And then, suddenly, there was the unmistakable aroma of ______.",1
@@ -453,13 +474,16 @@ text,blanks
 "Anything's ______, if you're brave enough.",1
 "Anytime I see ______, I assume we're just ______.",2
 "Apparently, the secret ingredient is just ______.",1
+"Apparently, ______ is a serious crime in North Korea, where defectors are painfully executed by ______.",2
 "Apparently, ______ may be a violation of international law.",1
 "Apple has revealed they now have a patent for ______",1
+"Apple is proud to announce its new device, the i______.",1
 "Apple just announced their new gadget, the i______",1
 "Apple recently made headlines when it announced it had patented ______.",1
 "April is the cruelest month, breeding ______ out of the dead land, mixing memory and desire",1
 "Archaeologist have uncovered the missing 11th commandment: ""thou shall not ______""",1
 "Archaeologists have recently unearthed hieroglyphics of ______ in King Tutankhamen&lsquo;s tomb.",1
+"Are we all still doing the ""______"" thing or has everyone moved on?",1
 "Are you classified as human? Negative, I am ______.",1
 "Are you fucking kidding me? ______? On our anniversary?",1
 "Are you ready for a thing called ______?",1
@@ -481,9 +505,11 @@ text,blanks
 "As I walk through the valley where I harvest my grain, I take a look at my wife and realize she's very plain. But that's just perfect for an Amish like me. You know I shun fancy things like ______.",1
 "As it turns out, Jesus wasn’t crucified for being the son of God. What’s the new reason why Jesus was crucified?",1
 "As our team enters the Star-Gate, The worm hole takes them on an interstellar journey to an ancient-like world. They arrive on a planet ruled by a despotic ______",1
+"As President for USA in 2024, Kanye West will legalize ______ immediately.",1
 "As president, I will reduce our budget deficit by closing tax loopholes that benefit ______.",1
 "As society becomes more and more permissive, ______ is only going to become more and more commonplace.",1
 "As Stephen Hawking would say, ""______"".",1
+"As the saying goes, ______ and ______ are soon parted.",2
 "As your financial advisor I urge you to invest in ______.",1
 "As your financial advisor I urge you to master the art of _______. That is your currency now.",1
 "As your healthcare provider I urge you to make time for ______. Everyday.",1
@@ -519,6 +545,7 @@ text,blanks
 "At the stroke of midnight, Cinderella's carriage turned back into ______.",1
 "At this point, I'd honestly consider voting for ______.",1
 "At this year's Wrestlemania, ______ is going to fight ______ inside a steel cage!",2
+"At twelve o’clock midnight, the government will begin executing anyone accused of ______.",1
 "At Wrestlemania, an amazing match has been made! John Cena vs. ______.",1
 "athletes will love Nike's new slogan, ""Just Do ______.""",1
 "Attention shoppers!! For one hour only we have a two-for-one special on ______!",1
@@ -558,8 +585,10 @@ text,blanks
 "Because she was so drunk, Gloria shotgunned ______, thinking it was a beer can.",1
 "Because so many people bought this game, Max Temkin can afford to blow his money on ______.",1
 "Because there is nothing more romantic than ______",1
+"Because you’re ______, I walk the line.",1
 "Becky, listen, you need to forget about John and come out with us to the club tonight. Just us girls. Men are basically ______.",1
 "Beelzebub has ______ put aside for me! For me! For meeeeeeee!",1
+"Before anyone else tries to tell me ______ isn't an Olympic sport, you should consider that you're wrong.",1
 "Before attempting to assassinate Ronald Reagan, John Hinkley Jr's earlier attempts to impress Jodie Foster involved ______",1
 "Before I die, I must experience ______, ______ and most importantly ______.",3
 "Before I had ______, I could only sleep at night with ______.",2
@@ -705,6 +734,7 @@ text,blanks
 "Class, your Final will require at least an hour for ______. Remember to show your work.",1
 "Close captioning of this PBS Program was brought to you by______.",1
 "CNN is reporting shots fired at the ______ event.",1
+"Coca Cola’s trade secret formula consists of the following ingredients: ______, ______, and ______ all mixed together.",3
 "Coconut Pete runs a tropical island resort where he spends his days basking in an alcoholic haze of debauchery and hedonism with the rest of the resort's staff and guests. The paradise Coconut Pete presides over, however, becomes a living hell when an ______ befalls the island. Giving this debaucherous beach-side orgy a body count.",1
 "Coke Zero, now with extra ______",1
 "Colonel Mustard in the study with the ______.",1
@@ -727,10 +757,12 @@ text,blanks
 "Coming to cinemas tomorrow, ______ 2: The Electric Boogaloo.",1
 "Coming to Pornhub this summer, it’s an orgy featuring ______, ______ and ______!",3
 "Coming to Steam next spring: ______, VR Edition!",1
+"Coming to theaters this fall, it's ""Attack of the 50 Foot ______!""",1
 "Coming to theaters this summer, it’s ""Honey, I Shrunk ______!&rdquo;",1
 "Coming up next on CBS, it's ""Everybody Loves ______ ,"" followed by ""How I Met ______.""",2
 "Coming up next on The Howard Stern Show: ______.",1
 "Common food allergies: Milk, eggs, ______, and ______.",2
+"Compared to ______, Hitler wasn’t that bad.",1
 "Confucius say: ""______ is worth more than ______.""",2
 "Congratulations for winning whatever is behind door #1 which is ______. Let’s see what else you could’ve won. What’s behind door #2? ______. What’s behind door #3? ______.",3
 "Congratulations! Collect your ______ on the way out.",1
@@ -789,6 +821,7 @@ text,blanks
 "Dashing through the snow, in a one-horse open sleigh. O'er the fields we go, ______ all the way.",1
 "Dat ______ doe!",1
 "Date night essentials: condoms, a dozen roses and ______",1
+"Date night idea: surprise her with ______. Chicks dig that.",1
 "Date Number 1. If my idea of a great first date would be that I was ______ while you were ______, would you be down for it?",2
 "Dave Lizewski is an unnoticed high school student and comic book fan and larper, one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so. Begins a daring quest of ______",1
 "Dave, this is important! You have to stop where you are and help me with ______!",1
@@ -810,6 +843,7 @@ text,blanks
 "Democrats have a donkey and Republicans have an elephant. The symbol for my political party is going to be ______.",1
 "Democrats want to ban ______. Republicans want to ban ______. When will people realize that both parties suck?",2
 "Democrats... At least we're not ______.",1
+"Denying the existence of ______",1
 "Describe high school in one word/phrase ______.",1
 "Describe what it was like to be ______ in the ’90s.",1
 "Describe your significant other in one word. ______",1
@@ -847,6 +881,7 @@ text,blanks
 "Dinah won’t you blow, Dinah won’t you blow, Dinah won’t you blow ______?",1
 "Dindu Muffins, a Lil Debbie product",1
 "Directions: Do not take more than directed. Take one caplet every 6 hours. If symptoms worsen or you experience ______, stop use and immediately see a doctor.",1
+"Director's Trademark: ______.",1
 "Discovery Channel's newest show details the life of ______ and its prey, ______.",2
 "Disney is launching a reboot of Snow White. The dwarfs are now named ______, ______, ______, ______, ______, ______ and ______.",7
 "Disney presents ______ On Ice!",1
@@ -855,6 +890,7 @@ text,blanks
 "Dividend is to stockholder as ______ is to regatta.",1
 "DJ Khaled ""You Smart, You Loyal, You ______ """,1
 "Do I know about ______? Boy, I invented it!",1
+"Do my friends hate me, or do I just need ______?",1
 "Do not go gentle into ______.",1
 "Do you have a minute to talk about our Lord and savior, ______?",1
 "Do you hear that? It sounds like ______",1
@@ -865,6 +901,7 @@ text,blanks
 "Do you like ______? I'm sorry you're going to have to be more specific.",1
 "Do you respect someone's right to challenge and discover their true potential? How is a 600 man gang-bang any different than risking your life for ______.",1
 "Do you suffer from ______? Find instant relief, with ______!",2
+"Do you think that was ______ you just ate?",1
 "do you want to ger ants? Because ______ is the reason we are going to get goddamn ants!",1
 "do you want to know the secret of my success? It’s ______, plain and simple.",1
 "Doc, it burns when I pee. Could it be because ______.",1
@@ -908,8 +945,12 @@ text,blanks
 "Donald Trump announced that his autobiography will be titled ______.",1
 "Donald Trump collapses during a live speech because of ______",1
 "Donald Trump gave a rambling and incoherent explanation today for ______ ; blaming it on ______.",2
+"Donald Trump has advertised the following cure to COVID-19: ______",1
 "Donald Trump is 100% responsible for ______.",1
 "Donald Trump is blaming his latest political loss on ______.",1
+"Donald Trump legalized the serious crime of ______, in exchange for criminalizing the vital human right of ______ (punishable by painful death).",2
+"Donald Trump legalized the serious crime of ______, in exchange for criminalizing the vital human right of ______ (punishable by torture and death).",2
+"Donald Trump robbed Hillary Clinton of her presidency by doing ______ to her and framing her for ______.",2
 "Donald Trump saying that people are saying that ISIL is more dangerous because ISIL fighter support ______ big league.",1
 "Donald Trump used a Sharpie to alter ______.",1
 "Donald Trump wakes up in a better world and discovers ______.",1
@@ -940,6 +981,7 @@ text,blanks
 "Dude, is it just me or do my farts smell like ______?",1
 "Due to a recent issue we had not considered we are forced to come up with a new rule for ______.",1
 "Due to Covid-19 ______ has been cancelled.",1
+"Due to new evidence to the contrary, Eminem had to change the title of his song ""Bush Knocked Down the Towers&rdquo; to ""______ Knocked Down the Towers&rdquo;.",1
 "Due to newly implemented HR policies, It is no longer frowned upon when I enjoy ______ at work",1
 "Due to newly implemented HR policies, It is no longer frowned upon when I ______ at work.",1
 "Due to pressure from animal rights groups, the 'Whack-A-Mole' has now changed to the 'Whack- ______ '.",1
@@ -983,6 +1025,7 @@ text,blanks
 "Einhorn is Finkle. Finkle is ______.",1
 "Elders React to ______.",1
 "Elect Bernie Sanders to be the 2020 Democratic Party nominee!? But he isn't even ______!",1
+"Eliot Engel was caught on hot mic saying that he only showed up for ______.",1
 "Elon Musk risked his entire fortune investing in a business that would provide the world with a more efficient version of ______.",1
 "Elon Musk's next billion-dollar venture is in the growing field of ______",1
 "Elsa really started letting it go after discovering ______.",1
@@ -997,7 +1040,9 @@ text,blanks
 "Error 404: ______ not found.",1
 "Eskimos have over 100 words for ______",1
 "Esteemed members of the Nobel Prize Committee, it is with great pride that I present to you...",1
+"ETH is ______",1
 "Eton has recently changed their school motto to "" ______ and ______ breeds future Prime Ministers""",2
+"Ev'rybody's talking 'bout ______, ______, ______, ______, ______, ______, ______. All we are saying, is give peace a chance.",7
 "Even a Fox News poll found that ______, ______ and ______ are more popular than President Donald Trump.",3
 "Even though my parents got me ______, nothing can ever truly replace ______.",2
 "Even ______ could be a dildo if you're brave enough.",1
@@ -1007,6 +1052,7 @@ text,blanks
 "Ever since the war, my grandfather's PTSD triggers every time he is reminded of ______.",1
 "Every day I spend plowing my field, sowing my seed, and ______, and what do I get in return? ______!",2
 "Every guy wants a lady in the street and a ______ in the sheets!",1
+"Every kid's favourite bedtime story: Billy and the ______.",1
 "Every kiss begins with ______.",1
 "Every morning I put ______ in my coffee so I can feel like ______",2
 "Every now and then I get a little bit lonely and you're ______... turn around. ?",1
@@ -1027,6 +1073,7 @@ text,blanks
 "Everyone else may be clambering for ______. But I'm more than content with having ______.",2
 "Everyone else may be clamoring for ______. But I am happy to have ______.",2
 "Everyone has been playing checkers, but I've been playing ______ for years.",1
+"Everyone has heard of the ""fog of war,&rdquo; but have you heard of the haze of ______?",1
 "Everyone knew i was coming to the party, but no one expected me to show up with ______.",1
 "Everyone knows the 25th anniversary is the silver anniversary. Few people know that the 17th anniversary is the ______ anniversary.",1
 "Everyone knows ______ makes you immortal.",1
@@ -1039,6 +1086,7 @@ text,blanks
 "Everything I've learned, I learned from ______.",1
 "Everything is a dildo if you are brave enough. Therefore ______ is a dildo.",1
 "Everytime I think about ______ I touch myself.",1
+"Evil is evil. ______, ______, ______. It’s all the same.",3
 "Excuse me Professor Smith! Your lecture is confusing me. What does ______ have to do with ______? This class is suppose to be about ______!",3
 "Excuse me, but have you heard about our personal savior, ______?",1
 "Excuse me, but I identify as ______",1
@@ -1062,6 +1110,7 @@ text,blanks
 "Fifteen minutes could save you fifteen percent or more on ______.",1
 "Filling every orifice with ______.",1
 "Filmographers recently discovered an unreleased Alfred Hitchcock film about ______.",1
+"finally getting some quarantine action when the dog humps your leg",1
 "Finally! A forum where I can talk to other adults about ______.",1
 "Finally, someone is ______!",1
 "Find ______. It's the key to everything.",1
@@ -1090,7 +1139,9 @@ text,blanks
 "Florida man arrested for for trying to kill wife with ______",1
 "Florida man arrested for trying to kill his wife with ______",1
 "Florida man arrested for ______, blames ______.",2
+"Florida man arrested for ______.",1
 "Florida man arrested in sting claims he just wanted 'to see a ______ sting in action’",1
+"Florida man caught ______.",1
 "Florida man found guilty of exposing children to ______.",1
 "Florida throws rats, Detroit throws Octopi, when I have my own hockey team my fans will throw ______.",1
 "Following in the hallowed and time-honored civic footsteps of their forefathers, Middlebury town s continued the 242-year tradition of ______",1
@@ -1121,6 +1172,7 @@ text,blanks
 "For the crime of ______, you are hereby sentenced to a lifetime of ______!",2
 "For the fifth day of Christmas my true love gave to me, five ______.",1
 "For the first time in forever, there'll be ______",1
+"For the last time, ______ is NOT a political issue!",1
 "For the love of god, please stop sending me pictures of ______",1
 "For the night is dark and full of ______",1
 "For the rest of the game, every time someone says ______, everybody drinks.",1
@@ -1143,6 +1195,7 @@ text,blanks
 "Four Homeless People Dead In What Girlfriend Refers To As '______Weather'",1
 "Four score and seven years ago our fore father's brought forth to this continent a new ______, conceived in ______, and dedicated to ______.",3
 "Fourscore and seven years ago our fathers brought forth, on this continent, a new ______, conceived in ______, and dedicated to the proposition that ______.",3
+"FOX news has reported that an international liberal Marxist conspiracy will use ______ to destroy America.",1
 "France just won the world cup but rumor has it they secretly cheated by using ______.",1
 "France won the world cup in 2018, but rumor has it they secretly cheated by using ______.",1
 "Frankly my dear I don't give ______",1
@@ -1150,6 +1203,7 @@ text,blanks
 "Fred Durst did it all for the nookie. I did it for ______.",1
 "Fred from Arkansas writes, ""Dear Abby, I'm almost 20, in my second year of college, and I have never been ______. Am I alone? Please help.""",1
 "Freedom. Eagles. ______. AMERICA!",1
+"Freedom’s just another word for ______",1
 "French scientists have been here for weeks studying ______",1
 "Freshly grated ______? Just tell me when to stop.",1
 "Friends of Zack call him clever and athletic; they say he is always ______. A riot at parties, for sure.",1
@@ -1162,6 +1216,7 @@ text,blanks
 "Fuck bitches, get ______.",1
 "Fuck you, Peck, you're a Mormon. Compared to you we ALL have a ______ problem!",1
 "Fuck ______, Marry ______, Kill ______!",3
+"Fuck ______, marry ______, kill ______.",3
 "Fucker Carlson’s surprising support of Transginger People of Color",1
 "Fucking the first leaf pile of fall.",1
 "Fucking ______!!!!",1
@@ -1184,6 +1239,7 @@ text,blanks
 "Get in here right now! Exactly what were you doing that got you suspended from school, again?",1
 "Get in the van, I have ______",1
 "Get out of there Sharon! The killer is ______ inside the house!",1
+"Get your toast out with a fork. Do your own electrical work. Teach your self how to fly. Eat ______. Dumb ways to die. So many dumb ways to die. Dumb ways to die-ie-ie. So many dumb ways to die.",1
 "Get ______ inside me and make the babies!",1
 "Getting a job is easy, you just take your resume, walk up to the manager, and tell them you are a ______.",1
 "Getting home early to find ______ cheating on me with ______. Worst day ever.",2
@@ -1261,6 +1317,7 @@ text,blanks
 "Hadn't it been for Cotton Eyed Joe, I'd been ______ a long time ago.",1
 "hail Mary, full of ______",1
 "Hail, Thane of ______.",1
+"Hair + Toilet + ______ = Harry Potter",1
 "Hakuna Matata, it means ______.",1
 "Half-naked women get thousands of upvotes. How many for ______?",1
 "Hallelujah, it's raining ______!",1
@@ -1303,6 +1360,7 @@ Hazing.,1
 "He seems to be suffering from a rare form of chronic ______ syndrome.",1
 "He shoots! He ______!",1
 "He sings the songs that remind him of ______. He sings the songs that remind him of ______",2
+"He turned himself into ______. Funniest shit I’ve ever seen.",1
 "He was a ______. She was a ______. Can i make it anymore obvious?",2
 "He wore the crown of ______, and those hat tasted the bite of his sword named him the ______ Slayer.",2
 "He's destabilizing! Nurse, I'm losing him! He need fifty CC's of ______, STAT!",1
@@ -1340,6 +1398,7 @@ Hazing.,1
 "Here I go, here I go, here I go again. Girls, what's my weakness?",1
 "Here lies Samuel Finch. He died as he lived; ______.",1
 "Here's a weird fact you probably didn't know about me: I'm ______.",1
+"Here's looking at you, ______.",1
 "Here's the mail, it never fails. It makes me want to wag my tail. When it comes I wanna wail: ______!",1
 "Here, take the ""______"" card I can't get rid of.",1
 "Hey babe, are you ______? 'Cause your body is ______.",2
@@ -1352,6 +1411,7 @@ Hazing.,1
 "Hey kids! Instead of bobbing for apples, this year we're going to try bobbing for ______!",1
 "Hey kids, try some ______-O's! It makes the milk taste like ______!",2
 "Hey lady nice______ wanna fuck?",1
+"Hey man, I just got this ______ from the Mall, looters were everywhere.",1
 "Hey man, you can have this for $20 and I’ll throw in ______, so long as you ain’t a snitch.",1
 "Hey man, you up for a nice game of ______?",1
 "Hey McFly you bojo! Those boards don't work on water! Unless you've got ______!",1
@@ -1365,6 +1425,7 @@ Hazing.,1
 "Hey there, kids! I’m Mr. ______! Are you ready to have some fun?",1
 "Hey Tony! I like the things you do. Hey Tony! If I could I would be you. You're the one and only tiger, the one and only taste. You know how to take ______ and make it...GRrreat!",1
 "Hey, /r/funny, here's a photo of ______ with a banana for scale.",1
+"Hey, diddle, diddle, The cat and the fiddle, The cow jumped over ______; The little dog laughed To see such sport, And the dish ran away with ______.",2
 "Hey, man! Go on Google and search up ______.",1
 "Hey, man. I heard from a guy who knows a guy, and he said that if you combine ______ and ______, you get ______.",3
 "Hey, muchacho, does your planet have ______ yet, or are you gonna freak out and start worshiping us?",1
@@ -1391,6 +1452,7 @@ Hazing.,1
 "Hi, I'm Troy McClure, you may remember me from such films as ______.",1
 "Hi, I'm Troy McClure. You might remember me from such films as ""The Erotic Adventures of Hercules"" and ""______""",1
 "Hi, I'm ______......wanna play!",1
+"Hi, I’m Bob, and I’ve been addicted to ______ for the last 15 years.",1
 "Hi, we are from the church of ______, do you have a moment to talk about ______?",2
 "Hi,i'm Troy McClure.You may remember me from such great films as______.",1
 "Hiding from tangerines? AGAIN?! ...I don't blame you... tangerines are ______...",1
@@ -1412,6 +1474,7 @@ Hazing.,1
 "Honestly, my reason for losing weight and eating healthy is that I really miss the good old days of ______.",1
 "Honey? (whaaaat?) Where’s ______? (I, uh... put it away!) Where? (Why do you need to know?) I NEED IT!",1
 "Hooray! It's the incredible ______ man! Protector of______!",2
+"Horton Hears ______.",1
 "How about instead of going to class, we go back to my house and try ______.",1
 "How am I celebrating Hanu... Chanu... Jewish Christmas?",1
 "How am I going to fight off the seven nation army?",1
@@ -1447,6 +1510,7 @@ Hazing.,1
 "How did you get that nickname?",1
 "How did you lose your finger?",1
 "How did you survive the long cold night on Hoth?",1
+"How do I check my privilege?",1
 "How do I get my spouse into ______?",1
 "How do I get out of this chickenshit outfit?",1
 "How do we market ______ to a wider audience?",1
@@ -1482,6 +1546,7 @@ Hazing.,1
 "Hurricane ______ is ravaging the coast",1
 "Hurry up and ______",1
 "Hush, little baby, don't say a word. Momma's gonna buy you ______.",1
+"I *can* explain that 6 month gap on my resume. See, I was trying to make ______ a thing.",1
 "I accidentally ordered ______ at a French restaurant and got a lot of disgusting looks. That's when I turned to Rosetta Stone.",1
 "I actually don't identify as male or female but ______",1
 "I ain't afraid of no ghosts, but I am afraid of ______.",1
@@ -1580,6 +1645,7 @@ Hazing.,1
 "I didn't have any plans for the weekend, until I found ______ in the attic.",1
 "I didn't think 4chan could get any worse, but then moot opened that new board about ______.",1
 "I didn't throw away my vote, I wrote in ______ on the ballot.",1
+"I do my hair toss, Check my nails, Baby how you feelin'? Feeling ______.",1
 "I do not like ______. I will not try them, Sam I Am.",1
 "I do ______ on the side for some extra cash.",1
 "I don't always do ______, but when I do it's because ______.",2
@@ -1724,6 +1790,7 @@ Hazing.,1
 "I just got my first noise complaint because of ______.",1
 "I just joined People for the Ethical Treatment of ______.",1
 "I just joined the religious cult ______ for Jesus!",1
+"I just put ______ on my Animal Crossing island. Wanna see?",1
 "I just saw Trump's leaked sex tape, and he's such a kinky freak. He's into ______!",1
 "I just simply cannot decide whether I despise ______ or ______ more.",2
 "I just won a lifetime supply of ______!",1
@@ -1772,6 +1839,7 @@ Hazing.,1
 "I looked up ______ on WebMD and got diagnosed with ______.",2
 "I lost my Google Glass privileges because I kept filming ______.",1
 "I lost my innocence when I saw ______ on the internet for the first time.",1
+"I lost on Chopped! because I forgot to add a required ingredient; ______.",1
 "I love a good ______.",1
 "I love everything about ______.",1
 "I love the smell of ______ in the morning!",1
@@ -1806,6 +1874,7 @@ Hazing.,1
 "I never thought I'd enjoy ______ more than ______.",2
 "I never thought my cat would enjoy ______ so much.",1
 "I never thought we'd live in a day and age where the term ""Ayy gurl, lemme see yo' ______"" would be a literal statement",1
+"I never thought when the end times came people would be hoarding ______.",1
 "I nicknamed myself ______.",1
 "I now pronounce you man and wife. You may kiss ______.",1
 "I often masturbate to ______.",1
@@ -1815,6 +1884,7 @@ Hazing.,1
 "I opened a book and I found a very detailed description of ______ on the page 257.",1
 "I opened it and he shoved ______ in!",1
 "I paid $200 a ticket, but it will be worth it to see Rage Against... ______!?!?!?",1
+"I paid off all of my student loans in six months by ______, and so can you!",1
 "I personally don't hire veterans because of ______",1
 "I picked the wrong week to quit ______.",1
 "I placed ______ in my father’s coffin to assist him in the afterlife.",1
@@ -1826,6 +1896,8 @@ Hazing.,1
 "I put butter on ______",1
 "I put out on the first date for the chance to get ______ and ______.",2
 "I quit my job after my boss asked me to ______",1
+"I quiz all my dates on ______ in excruciating detail to make sure we’re compatible.",1
+"I ran away from home only to find myself ______.",1
 "I really hate ______ at work. I take care of it with ______.",2
 "I really hate ______ at work. So I take care of it with ______.",2
 "I really like ______ on my pizza.",1
@@ -1839,6 +1911,7 @@ Hazing.,1
 "I remember my first time. You could never forget something that ended with ______.",1
 "I remember my first time. You could never forget ______",1
 "I rolled around in nuclear waste to gain super powers, but all I got was ______.",1
+"I said to your mother ""It's not an addiction unless it's, cocaine, heroin, or ______.",1
 "I said your parents look like ______ and ______, how is that racist?",2
 "I said, ""Do you speak-a my language?"" He just smiled and gave me ______.",1
 "I saw a horrifying video on Liveleak! It started with ______ and ended with ______!",2
@@ -1861,11 +1934,13 @@ Hazing.,1
 "I skipped a step in my 12-step program and now I'm ______.",1
 "I sleep like a baby after bathing in a tub full of ______.",1
 "I smell sex and ______.",1
+"I sold my car for ______.",1
 "I spent the last 5 years in intense therapy to overcome depression and ______.",1
 "I spent ______ just for this!",1
 "I start college this fall. I am majoring in ______ with a minor in ______.",2
 "I started answering the door naked because of ______.",1
 "I started putting ______ in the church collection tray every Sunday, just for funsies.",1
+"I still can’t believe I lost my virginity to ______!",1
 "I stirred my grandma's pot of soup and found ______",1
 "I swear Officer, she only looks 12. She's really a 700 year old ______.",1
 "I swear to God! ______ turned into ______ right before my very eyes!",2
@@ -1873,6 +1948,7 @@ Hazing.,1
 "I swear, the English to Spanish translation app said that ______ meant ______.",2
 "I swear, your honor, they’ve been putting ______ in my mouth!",1
 "I tell ya, these days, ______ is getting harder to do.",1
+"I tell you, I love her so much that I don't have the heart to tell her I put ______ in the prenup.",1
 "I think ""50 Shades of ______ "" will be an even more captivating read than its predecessor.",1
 "I think Hillary Clinton lost because her campaign focused too much on ______.",1
 "I think I'll head home, crack open a beer, and have myself some ______.",1
@@ -1926,11 +2002,13 @@ Hazing.,1
 "I was into ______ before it was cool.",1
 "I was just chilling and having a drink with ______, until that jerk ______ ruined it.",2
 "I was just grabbing a ______ that got stuck to your pants.",1
+"I was looking over our budget and think we can do without ______.",1
 "I was made for lovin' you baby. You were made for ______.",1
 "I was recently fired from my job as a face painter at birthday parties for drawing ______ on children's faces.",1
 "I was recently pictured on the front page of The Sun newspaper with the headline "" ______ """,1
 "I was rushed to hospital suffering from ______.",1
 "I was shocked to see this tombstone's rather candid epitaph: In loving memory of ______, who was always ______.",2
+"I was shook when President Joe Biden said ""______"" in his acceptance speech. I felt that.",1
 "I was siting at home when",1
 "I was so happy when I found ______, but discovering ______ ruined it for me.",2
 "I was strangely proud when my kid asked Santa for ______.",1
@@ -2123,6 +2201,7 @@ Hazing.,1
 "If Benjamin were an ice cream flavor, he'd be pralines and ______.",1
 "If Buddhism is right and we're reborn after we die, the I would be reborn into ______",1
 "If elected mayor of this fine city, my first act will be to make ______ 100% legal!!!",1
+"If fighting is sure to result in ______, then you must fight!",1
 "If giving your cat ______ is wrong, then I don't want to be right.",1
 "If God wanted you alive he wouldn't have sent ______- Genghis Khan",1
 "If God was one of",1
@@ -2136,12 +2215,14 @@ Hazing.,1
 "If I die, I want you to keep my ______.",1
 "If I don't enjoy ______, then the terrorists win.",1
 "If I had a dollar for every time I was ______, I would be a billionaire!",1
+"If I had a dollar for every time I was ______, I'd have have two dollars. It's not a lot, but it's weird it happened twice.",1
 "If I had my way, I would detain ______.",1
 "If I had one month to live, I would kill ______.",1
 "If I had ______, I would have never become an art history major.",1
 "If I have an unwanted erection and need to get rid of it, I think about ______.",1
 "If I have to put up with ______ then the overtime is not worth it.",1
 "If I was ever homeless my sign would read, ""Will work for ______. """,1
+"If I were a carpenter, And you were ______, Would you marry me anyway, Would you have my baby?",1
 "If I were interested in ______, I'd call your mom!",1
 "If it makes you feel any better, Target has a 90-day return policy on ______.",1
 "If it wasn't for ______, communism would've worked.",1
@@ -2162,6 +2243,7 @@ Hazing.,1
 "If they could turn ______ into a liquid, I would drink it with every meal.",1
 "If Trump is elected, then unspeakable tragedies like ______, ______, and ______ will occur.",3
 "If we taxed churches our country could afford ______",1
+"If we're going to make this relationship work, you need to start going to ______ Anonymous meetings.",1
 "If you are truly God, turn ______ into ______",2
 "If you are what you eat, then I am most certainly ______",1
 "If you ask me, only ______ can end centuries of systemic racism.",1
@@ -2176,12 +2258,15 @@ Hazing.,1
 "If you don't love ______ then the terrorist win!",1
 "If you don't understand ______, then you don't understand rock 'n' roll!",1
 "If you don’t give me ______, then I guess I’ll just take it from you! MUHAHAHAHA!",1
+"If you don’t like ______, leave!",1
 "If you drink, don’t drive. Or if you do, at least try to crash into ______",1
 "If you ever want to be prime minster, don't even THINK about ______",1
 "If you ever want to see ______ again, give me all the ______!",2
 "If you experience an erection persisting for the duration of ______, go to the emergency room immediately",1
 "If you give a mouse ______, he will always ask for ______.",2
 "If you have a criminal record, you’ve already been punished. To keep those who have served time from ______ would be unduly punitive and closed-minded.",1
+"If you have a problem figuring out whether you’re for me or ______, then you ain’t black.",1
+"If you have a problem figuring out whether you’re for ______ or Trump, then you ain’t black.",1
 "If you have an erection lasting more than four hours, you should call ______",1
 "If you inspect the Mona Lisa carefully, you'll notice in the bottom left corner is written ""______"".",1
 "If you like double entendres, you'll love ______.",1
@@ -2266,6 +2351,7 @@ Hazing.,1
 "In 2018, the yellow jacket riots occurred when France tried to tax ______",1
 "In 2019, the Los Angeles city counsel decreed that the city is will be now known as the city of ______ and sunshine.",1
 "In 2021 the rest of the world unleashed ______ into China, but as a thank you.",1
+"In 30 years as a gastroenterologist, I have never seen ______ in someone’s stomach before...until today!",1
 "In a 2019 CBS interview, R. Kelly responded to allegations by showing us that nothing says ""innocent"" like______",1
 "In a 2019 CBS interview, R. Kelly went with the ______ strategy to assure the world that he is normal.",1
 "In a battle to the death I could choose any weapon, yet I chose ______",1
@@ -2275,6 +2361,7 @@ Hazing.,1
 "in a dusty cave archeologists have found a new book of the Bible that translates as '______'",1
 "In a landmark decision, the United States Supreme Court has ruled that ______ is unconstitutional.",1
 "In a life-or-death situation, ______ is always an option!",1
+"In a massive press conference, Donald Trump declared that ______ is the leader of Antifa",1
 "In a parallel universe, my favorite hobby is ______",1
 "In a quiet cemetery in Pennsylvania countryside, the dead rise from the grave. Though Her brother is immediately devoured,Barbra however, manages to get away. Out of breath, she thinks to herself, this has got to be some sort of supernatural repercussion for______.",1
 "In a quiet, isolated village in the Pennsylvanian countryside, there lies a pact between the people of the village and ______ that resides in the surrounding woods. An uneasy truce that balances on ______",2
@@ -2332,6 +2419,7 @@ Hazing.,1
 "In Local News:Mother Feels A Little Validated After Daughter Who Stayed Out Late Falls Victim To ______",1
 "In lou of CPR, try ______ instead.",1
 "In Michael Bay's newest movie, a robotic ______ must defeat an evil ______ that is trying to devour the world's supply of ______.",3
+"In my church, we used to sacrifice animals as an offering to God. Now, we offer ______ instead.",1
 "In my day ______ only cost a quarter!",1
 "In my favorite ASMR video, a soft-spoken Russian girl pretends to give me ______",1
 "In my foreign language class, we learned vocabulary words for ______.",1
@@ -2346,6 +2434,7 @@ Hazing.,1
 "In Oregon Trail, your party died of ______.",1
 "In other news, Hillary Clinton has filed for divorce after she caught Bill Clinton ______.",1
 "In other news, President Trump awards self Medal of ______ for hypothetically saving everyone during school shooting",1
+"In Pitch Perfect 4 the Bellas save the day with an unexpected mash-up of ______ and ______.",2
 "In remote Antarctica, a group of American research scientists find ______ frozen in the ice.",1
 "In response to this direct threat to the Republic, meesa propose that the Senate give ______ to the Supreme Chancellor.",1
 "In Ridley Scott's thrilling new movie, predator becomes prey, friend becomes foe, and ______ becomes ______.",2
@@ -2353,6 +2442,7 @@ Hazing.,1
 "In space, no one can hear ______.",1
 "In Stephen King's next horror novel, a teenager is haunted by the ghost of ______.",1
 "In stores now, JK Rowling's newest journey into The Wizarding World, ""Harry Potter and the ______"".",1
+"In terms of instant relief, cancelling plans is like ______.",1
 "In Texas, ______ is punishable by ______.",2
 "In the 1800's oppressed peasants Mexican village turns to ______ to help defend their homes.",1
 "In the 1940s ______ would get you the Death Sentence.",1
@@ -2379,6 +2469,7 @@ Hazing.,1
 "In the grim darkness of the future there is only ______.",1
 "In the latest 'Saw' film, our hero must escape from a trap involving ______ before the timer runs out and ______ kills them.",2
 "In the latest Lincoln commercial, Matthew McConaughey talks about ______ for a minute while driving his Lincoln.",1
+"In the latest viral Karen video. We see Karen complaining about ______?",1
 "In the midnight hour she cries ______",1
 "In the modern-day Tarot deck, what is on the Devil card?",1
 "In the near future NASA utlizes interstellar travel through a worm hole in search of life sustaining planet. But find a planet that only harbors______",1
@@ -2431,6 +2522,7 @@ Hazing.,1
 "Instead of champagne and fireworks, in my country our New Year's Eve tradition is ______ and ______.",2
 "Instead of endorsing Jell-O Pudding Pops, Bill Cosby should have endorsed ______.",1
 "Instead of EU subsidies, UK farmers will now receive______",1
+"Instead of filling balloons with water, try filling them with ______ instead.",1
 "Instead of finding change,Natsuki found ______ under the vending machine.",1
 "Instead of hats, Valve decides to introduce ______ into Team Fortress 2",1
 "Instead of seeing fireworks or barbecuing, my family does ______ and ______.",2
@@ -2438,10 +2530,13 @@ Hazing.,1
 "Instead of the band, the female groupies want to hang out with ______.",1
 "Instead of the Jews, Hitler should have worried more about ______.",1
 "Instead of using a goalie, the hockey team suggested using ______.",1
+"Instead of weed, Snoop Dogg began smoking ______.",1
+"Instead of winning a car on the gameshow Let’s Make A Deal, I hit a Zonk containing ______.",1
 "Instead of ______ we'll use ______!",2
 "Instructions unclear ______ stuck in ______.",2
 "Instructions unclear. Dick caught in ______.",1
 "Instructions unclear. Dick stuck in ______.",1
+"Into the great wide open, under the skies of blue, into the great wide open, ______ without a clue.",1
 "Introducing Chris and Christa, the power couple that’s going to tear up ______!",1
 "Introducing new ______ Oreos. For a limited time only!",1
 "Introducing the new spokespeople for Pep Boys ______, ______, and ______",3
@@ -2507,6 +2602,7 @@ Hazing.,1
 "It took all summer, but Dale finally saved up enough money to buy himself ______.",1
 "It turns out that ______ didn't commit suicide after all- it was murder! And the killer was ______!",2
 "It turns out ______ was actually ______.",2
+"It turns out, that ______ can reach a mortality rate as high as 25%!",1
 "It was a happy day for Harry Potter when he learned the spell to summon ______.",1
 "It was a hot day, so, to curb our boredom, we tried baking ______ inside of our car.",1
 "It was a nearly perfect plan, but one cannot account for everything. ______ proved to be my downfall.",1
@@ -2585,8 +2681,10 @@ Hazing.,1
 "It's ______ 0'clock somewhere.",1
 "It's ______. But not for you, Gunslinger.",1
 "It's ______. Or is it?",1
+"Its the sense of euphoria you get after ______. That amazing feeling.",1
 "It’ll be a cold day in hell before I recognize ______ as a gender.",1
 "It’s 4 in morning and you know what that means: It's time for ______!",1
+"It’s a job requirement. But I mean, how hard can ______ be?",1
 "It’s a ______ themed 6th birthday party!",1
 "It’s all about ______, baby!",1
 "It’s amazing what a little ______ can do.",1
@@ -2607,16 +2705,23 @@ Hazing.,1
 "I’ll be ______ to prove I love you.",1
 "I’ll get you my pretty and your______too",1
 "I’ll just put ______ into ______. Problem solved!",2
+"I’ll let you go, Mr. Bond. If you can survive my ______-Ray! MUHAHAHAAAA!!!",1
+"I’m a joker, I’m a smoker, I’m ______. I sure don’t want to hurt no one.",1
 "I’m at the Kentucky Derby and I can’t decide who to bet on! I’m torn between ______ and ______.",2
+"I’m Bernie Sanders, and I approve ______.",1
+"I’m Donald Trump, and I approve ______.",1
 "I’m feeling personally attacked by ______.",1
 "I’m fluent in ______ as well as Klingon.",1
 "I’m gainfully employeed at ______ Industries.",1
 "I’m gonna build ______ in Minecraft!",1
+"I’m Joe Biden, and I approve ______.",1
+"I’m Joe Biden, and I’m asking for ______.",1
 "I’m like a real-life Macgyver - all I need is my intelligence, a paper clip, and ______.",1
 "I’m never eating ______ again after I got that explosive diarrhea.",1
 "I’m not like other girls. I’m ______.",1
 "I’m not Pro-Choice or Pro-Life. I’m Pro-______.",1
 "I’m not Pro-Life or Pro-Choice. I’m Pro-______.",1
+"I’m not saying it was ______, but it was ______.",2
 "I’m not usually starstruck, but aren’t you ______? I loved you in ______!",2
 "I’m not ______! I’m ______!!!",2
 "I’m sorry your Majesty, but you can’t start your own religion just because you want ______",1
@@ -2655,11 +2760,13 @@ Hazing.,1
 "Jesus didn’t die for our sins. He died for ______.",1
 "Jesus died for ______.",1
 "Jesus gets too much credit when ______ is actually the Son of God.",1
+"Jesus is Lord of ______.",1
 "Jesus is returning, and He craves ______.",1
 "Jesus is ______.",1
 "Jimmy, you've chosen door number three. Kimberly, tell Jimmy what he's won! ______",1
 "Jingle bells, jingle bells, ______ all the way!",1
 "Job reference: ______",1
+"Joe Rogen explains ______ on his next podcast",1
 "John Kerry was for ______ before he was against it.",1
 "Johnny Smith wakes from a coma due to a car accident, only to find he has lost five years of his life, and yet gained ______ powers.",1
 "Johnny, tell them what they've won...",1
@@ -2678,14 +2785,17 @@ Hazing.,1
 "Just what we need. Our tax dollars going to ______.",1
 "Just when I thought I would never catch you ______, this happens!",1
 "Just when I thought the themes couldn’t get any more ridiculous I see Parker Brothers selling ______ Monopoly",1
+"Just when we thought 2020 could get worse, ______!",1
 "Just when you thought it was safe to go back into ______.",1
 "Justice Antonin Scalia enjoyed ______ before he died of a ______.",2
 "Justin Bieber's new biography: ______: The Early Years.",1
 "Kanye and Kim plan to name their next child after ______. Idiots!",1
 "Kanye caused controversy for suggesting that ______ chose ______.",2
+"Kanye West made Taylor Swift ""Famous&rdquo; by giving her ______ from his dick and publishing pictures of her ______.",2
 "Kanye West received backlash from the media when he sampled the sound of ______ in his newest single.",1
 "Kathy says we should be good children and obey mom's orders. Screw that, I'm going to be ______ whether they like it or not!",1
 "Katie Hopkins defends her tweet that said she thought ______ made her a better mother than everybody else.",1
+"Kay's Jeweller's.",1
 "Keep calm and ______.",1
 "Keep running your mouth and I'm gonna stick ______ in it.",1
 "Keep your friends close, but your ______ closer.",1
@@ -2706,6 +2816,7 @@ Hazing.,1
 "Know knock who's there? ______. ______ who? ______",3
 "Koko the Gorilla signing to her keeper that she needed more ______ or she would starve herself.",1
 "Kulaks deserved ______",1
+"Kylie Jenner just posted: #______.",1
 "Ladies and gentlemen, I am proud to introduce the 55th president of the United States of America, ______!",1
 "Ladies, you have $5 to build the perfect man: $15: smart; $10: funny; $5: ______.",1
 "Lady Gaga shocked everyone at the VMAs by wearing a dress made of ______.",1
@@ -2765,6 +2876,7 @@ Hazing.,1
 "Listen up, dads. Tommorow is bring ______ to work day.",1
 "Listen, new blood. If you want to survive in prison, you’re gonna need ______.",1
 "Listen, unless one of these ""candidates"" puts their support behind legalizing ______, I'm just going to sit this election out.",1
+"Little Jack Horner sat in a corner, eating his Christmas pie. He stuck in his thumb, and pulled out ______, and said ""What a good boy am I!&rdquo;",1
 "Little Miss Muffet she sat on her tuffet, eating her curds eating and whey. Along came a spider who sat down beside her and ______",1
 "Live and let ______",1
 "Live From New York, it's ______!!!",1
@@ -2830,6 +2942,7 @@ Hazing.,1
 "Mankind always feared the unknown, but did you know that man also has a fear of ______?",1
 "Marine biologists often find strange objects in the stomachs of sharks, but were shocked to discover ______ inside a 2000lb Great White.",1
 "Marion Crane steals a large amount of money from her employer and goes on the run, she stays for a night at the Bates motel.However, she is off put by the faint smell of ______ lingering in her motel room.",1
+"Marked safe from ______.",1
 "MARLA:This isn't a for-real ______ thing. This is probably one of those cry-for-help things.",1
 "Martin Luther King Jr. is best known for his famous ""I have a ______"" speech.",1
 "Marvel's making millions with their new superhero, ______-man!",1
@@ -2851,6 +2964,9 @@ Hazing.,1
 "Maybe the true ______ were the friends we made along the way",1
 "Maybe using ______ in an advertising campaign for ______ wasn't such a good idea.",2
 "Maybe you can be one us, the few, the proud, ______.",1
+"Ma’am, I’m afraid your husband has ______ disease. The only known cure is ______.",2
+"McDonald’s has a new sandwich! It’s named Mc______.",1
+"Me and the boys ______.",1
 "Mean ______ and his fine iron ______ is the worst folk song ever written.",2
 "Meet Batman's dastardly new nemesis, ______",1
 "Memories from childhood stay with us forever. Our first dog, Dad’s disappearance into the Bermuda Triangle, and of course, ______.",1
@@ -2981,6 +3097,7 @@ Hazing.,1
 "My hands look like, ______. So her hands can look like, ______.",2
 "My health care now considers ______ a pre existing condition.",1
 "My home sex tape has lots of ______",1
+"My homebrew RPG setting's races include people with the heads of ______ and people with the lower bodies of ______.",2
 "My ideal partner has ______, ______, and ______.",3
 "My insurance provider informed me that ______ counts as a pre-existing condition.",1
 "My Internet search history says ______",1
@@ -3002,6 +3119,7 @@ Hazing.,1
 "My mom worked hard today. She deserves ______.",1
 "My most recent Google search was ""How to deal with ______.""",1
 "My mother, bless her heart, never warned me about ______.",1
+"My name is Bernie Sanders, and I am once again asking for ______",1
 "My name is Inigo Montoya. You ______ my ______. Prepare to die!",2
 "My name is ______ ______ and this is my ______, i work here with my ______ ______ and my son ______ ______",7
 "My name is ______, King of Kings; Look on my Works, ye Mighty, and Despair!",1
@@ -3055,6 +3173,7 @@ Hazing.,1
 "My uncle once tried to sue a guy for ______",1
 "My unlce kidnapped me, and is holding me ransom for ______?",1
 "My vision of eternal damnation is ______.",1
+"My weirdest online impulse buy over quarantine was ______.",1
 "My whole life is about ______. My most valuable job skill.",1
 "My wife and I will never go back to vanilla sex after adding ______ to our foreplay.",1
 "My wife is terrible at ______, but she's amazing at ______.",2
@@ -3093,6 +3212,7 @@ Hazing.,1
 "New to H&M: coolest ______ in the ______",2
 "New to this year's parade, this float depicts ______.",1
 "New Years Resolution: Get better with ______, and maybe it'll help me reach my goal of ______.",2
+"New York's hottest club is ""Splice!?"", this place has everything: ______, ______, ______.",3
 "New York's hottest club is ______",1
 "New York's hottest club is ______. The password is ______, and it's run by a guy who looks like ______. It has everything, ______, ______ and is that Mick Jagger in the corner? No, it's just ______.",6
 "New! ______-flavored Dorito's vs. ______-flavored Dorito's. Which flavor do you think should win and be sold as the newest Dorito flavor!?",2
@@ -3126,8 +3246,11 @@ Hazing.,1
 "No book collection would be complete without ______ for dummies.",1
 "No it's just not funny to joke about ______.",1
 "No matter how much you want to, even if you see ______, don't scream.",1
+"No matter how poor you think you are, if you have ______, you are rich in spirit.",1
+"No matter how poor you think you are, if you have ______, you have a way to make some money.",1
 "No Nut November has been officially cancelled by ______. The media is furious.",1
 "No offense, but you seem to be dumber than ______.",1
+"No one dared to ask his business, no one dared to make a slip. The stranger there among them had ______ on his hip.",1
 "No one knew the true meaning of ""Bohemian Rhapsody"" was actually ______.",1
 "No one told you ______ was gonna be this way!",1
 "No Patrick, ______ is not an instrument. ______ is not an instrument either",2
@@ -3135,8 +3258,10 @@ Hazing.,1
 "No shirt. No shoes. No ______.",1
 "No thanks, ______ gives me gas.",1
 "No ______ in the public restroom? Did they really need to make a sign?",1
+"No ______ is not a gender identity",1
 "No ______ is not a valid form of birth control.",1
 "No ______ will not help get you laid.",1
+"No ______, No Peace!",1
 "No ______. No ______. No service.",2
 "No, I will not support your ______ habit!",1
 "No, not the ______! Anything but the ______! (Choose one.)",2
@@ -3150,6 +3275,7 @@ Hazing.,1
 "Nobody ______ (s) like Gaston",1
 "Nobody: ______: ______",2
 "Noone is so old as to have outgrown ______.",1
+"North Korean’s new leader: Kim-Jong-______.",1
 "Not a gold digger but a ______ digger.",1
 "Not every kiss begins with Kay Jewelers, some kisses begin with ______.",1
 "Not getting you way? Try ______ until people give in.",1
@@ -3292,6 +3418,7 @@ Hazing.,1
 "On the next Voyager mission, they're putting ______ in the capsule, so aliens could potentially find it one day and learn about our world.",1
 "On this episode of The Cosby Show, Dr. Huxtable gets 3 to 10 years in prison for ______",1
 "On this special episode of scared straight, Lindsay Lohan and fellow inmates Gives at risk youth a wake up call on the reality of______",1
+"On this week’s episode of Glee the cast performs a musical tribute to ______.",1
 "On tonight's episode of The Golden Girls, Dorothy struggles with ______.",1
 "On tonight's episode: Bear Grylls eats ______ in order to survive!",1
 "On YouTube, I stumbled across a video of my Mom reacting to ______.",1
@@ -3336,6 +3463,7 @@ Hazing.,1
 "Our contestant is blindfolded so they don't know that they're licking ______. If they can guess what they're licking in two minutes, they will win the grand prize! ______!",2
 "Our extended warranty covers everything from ______ to ______. However, we do not cover______.",3
 "Our family came to this country for work, a better life and ______.",1
+"Our family has a tradition of always doing ______ on roadtrips.",1
 "our first act on America's Got Talent, will perform ______.",1
 "Our first dying wish is Scout's. He's... Drawn a picture of me ______.",1
 "Our grandchildren will tell stories of ______ while they kill drifters for potable water.",1
@@ -3363,6 +3491,7 @@ Hazing.,1
 "People are applauding this man for celebrating ______.",1
 "People born between ______ & ______ who owe $10,000 in student debt MUST read this. Click here.",2
 "People in this state are using this one weird trick to go ______. Click here and earn money now!",1
+"People keep talking about me, baby. Say I'm ______. Well, don't you worry, don't worry, no, don't worry, mama, 'cause I'm right here ______.",2
 "People say durian tastes like many things, but I think it tastes like ______.",1
 "People were shocked to hear the Wall Street fund manager was killed by his son over ______ of all the things.",1
 "Perry the Platypus!? Why do you keep ______?",1
@@ -3399,10 +3528,12 @@ Hazing.,1
 "President Donald J. Trump, the first American president to be impeached for ______ and ______.",2
 "President Donald Trump Calls To Slow Down Destruction Of ______So He Can Truly Savor Every Minute Of It",1
 "President Donald Trump promised to faithfully execute ______ when taking the oath of office.",1
+"President Joe ""______"" Biden.",1
 "President Obama says that if you like ______, you can keep it.",1
 "President Obama’s Cash for ______ program was a huge success.",1
 "President Trump has signed an executive order that reads ""______,&rdquo; leaving federal agencies scrambling to interpret it.",1
 "President Trump offered ______, but only delivered ______.",2
+"President Trump recommends injecting ______ into your body.",1
 "President Trump was awful, don't get me wrong. But his successor, President ______, was a million times worse!",1
 "President Trump was pretty awful, don't get me wrong. But his successor, President ______, was a million times worse!",1
 "Presidential Alert! ______!",1
@@ -3423,15 +3554,18 @@ Hazing.,1
 "Public safety notice: Never ______ in a crowded area.",1
 "Pulp Fiction (1994): The lives of two mob hit men, a boxer, ______, and ______ intertwine in four tales of violence and ______.",3
 "Pumpkin spice ______ now?!",1
+"Purple Haze all in my brain, lately things don't seem the same, actin' funny but I don't know why 'scuse me while I kiss ______.",1
 "Pushing the family business of ______ on your children.",1
 "Queen Elizabeth uses ______ to greets the crowd.",1
 "Quentin Tarantino's new film has sparked controversy for its violent portrayal of ______.",1
 "Quick to the point, to the point, no faking Cooking MCs like a pound of ______.",1
+"Quick, Morty! The only way out of this dimension is through ______!",1
 "Quickly, go back in time and bring me ______. Hurry!",1
 "Quote of the day: ______",1
 "Raccoon City, 1998:Claire Redfield looking for her brother, rides into town and unknowingly into the center of a small zombie apocalypse. It wasn’t the hordes of flesh eating undead but rather all the ______ that really made her trip",1
 "Rage Against the Machine, having recently reunited have announced a new album which will discuss the difficult topic of ""______""",1
 "Raise your kids right and proper by performing ______ by and/or at the ______",2
+"Rams use horns for self-defense. Caribou grow horns out of boredom. I use my horns for ______.",1
 "Rapidly losing their main market of the elderly, televangelists are marketing their ""Salvation"" to millennials with ______.",1
 "Rapunzel, Rapunzel, let down your ______",1
 "Rather than accept the abrupt ending of her marriage as a failure, Mary amazingly took it as an invitation to ______.",1
@@ -3466,6 +3600,7 @@ Hazing.,1
 "Reverend Matthews was besides himself when his daughter came home with a tramp stamp of ______.",1
 "Rick from Pawn Stars called me in because I am an expert in ______. He needs me to examine ______.",2
 "Right-Wing snowflakes are instantly triggered by ______. Left-Wing snowflakes are easily triggered by ______.",2
+"Rioting in the streets over ______",1
 "Roads were closed today due to ______.",1
 "Rob Schneider is in a brand new movie, with everything going for him. Only problem is, he's about to become ______! Rated PG-13.",1
 "Rob Schneider is ______, rated PG13!",1
@@ -3486,6 +3621,7 @@ Hazing.,1
 "Sadly, no amount of ______ will ever satisfy ______.",2
 "Sadly, Phil died doing what he loved. ______.",1
 "Sadly, the superpower I was given is ______",1
+"salted fart balls",1
 "Sam Smith's theme for Spectre will focus on ______ instead of directly mentioning the film's title.",1
 "Sarah McGlocklin here. For just pennies a day you can save this animal from ______.",1
 "Sarah Palin awoke in the night, to find her eldest daughter ______.",1
@@ -3554,6 +3690,8 @@ Hazing.,1
 "Simon Templar(The Saint), is a thief for hire, whose latest job to steal the secret for ______.",1
 "Simon, daddy wants you to know that he will always love you. Unless you are ______.",1
 "Simply ______-ade",1
+"Since I can’t attract women I guess I’ll just ______ from now on.",1
+"Since I lost my dildo, I used ______ to pleasure myself instead.",1
 "Since legalizing cannabis, Colorado and Washington have observed a marked decline in ______.",1
 "Since Twinkies(tm) are now perishable, ______ is the food that will have to sustain us during the zombie apocalypse.",1
 "Sing us a song you're the piano man. Sing us a song tonight. Cause we're all in the mood for ______.",1
@@ -3577,7 +3715,9 @@ Hazing.,1
 "So if you're from Africa, why are you ______?",1
 "So it turns out that ______ and ______ don’t create ______.",3
 "So Kim Kardashian just released a new sex tape. This time she's doing it with ______.",1
+"So let me introduce to you, the one and only ______. And Sergeant Pepper's Lonely Hearts Club Band, yeah.",1
 "So that's it, huh? We're some kind of ______ squad.",1
+"So we sailed up to the sun, till we found a sea of green. And we live beneath the waves, in ______.",1
 "So what if I just spent the last hour at work Googling &lsquo;______’? Only God can judge me.",1
 "So what is the deal with the Bermuda triangle? what causes all those planes go missing within it?",1
 "So what’s the big secret about  this mysterious skull island?",1
@@ -3590,6 +3730,7 @@ Hazing.,1
 "Some kinda kiddie sex bot",1
 "Some of you have never been ______ and it shows.",1
 "Some people blame it on the boogie. I just blame it on ______.",1
+"Some people have a lazy eye; I have a lazy ______.",1
 "Some people have alcohol. Some have drugs. Some have gambling. But I'm addicted to ______",1
 "Some people have money, some have fame, but I have something better. I have ______.",1
 "Some people have the gene that makes cilantro taste like soap, but I have the gene that makes ______ taste like ______.",2
@@ -3660,6 +3801,7 @@ Hazing.,1
 "Stop trying to make ______ a thing! It's not going to be a thing!",1
 "Stop ______, you sick fucks!",1
 "Stop! Put your hands up! You're under arrest for being under the influence of ______.",1
+"Stop! You have committed ______ against Skyrim and her people. What say you in your defense?",1
 "STOP! ______ time!",1
 "Straight forward from here. 1. ______ 2. ______ 3. ______ 4. ______",4
 "Straight Outta ______.",1
@@ -3673,7 +3815,9 @@ Hazing.,1
 "Summoning a demon, only find out they are all ______",1
 "Sundays are for ______ and worshiping Satan.",1
 "supreme court today held that the use of ______ is cruel and unusual punishment and unconstitutional",1
+"Sure, I’ll click subscribe to your channel. But first you have to give me ______.",1
 "Sure, Notre Dame has Touchdown Jesus, but we’ve got ______ Jesus",1
+"Sure, you won’t win any money on this game show but you could win a lifetime supply of ______!!",1
 "Sure, you’re a violent alcoholic, but at least you’re not ______.",1
 "Surprisingly, only 6 out of 10 Americans prefer ______ over ______.",2
 "Surprisingly, only 8 out of 10 Americans support ______.",1
@@ -3722,6 +3866,7 @@ Hazing.,1
 "That awkward moment when you're fisting your mom and you pull out ______.",1
 "That evil sorceress replaced my genitals with ______!",1
 "That movie about ______? Man, it sucks.",1
+"That one Podcast where the host just talks about ______ over and over for 2 hours.",1
 "That person who gives points to ""A bigger, blacker cock"" is Czar, better play ______!",1
 "That shitty ______ commercial.",1
 "That Tempurpedic&reg; is great for your spinal problems, but since delivery isn't free, I'll throw in ______.",1
@@ -3826,6 +3971,7 @@ Hazing.,1
 "The first time I saw ______, I shat myself in fear.",1
 "The first time your mother and I made love, it involved ______",1
 "The fitnessgram pacer test is a multistage ______ capacity test that progressively gets more difficult as it continues.",1
+"The FitnessGram ______ Test is a multistage aerobic capacity test that progressively gets more difficult.",1
 "The following presentation contains graphics scenes of ______. Viewer discretion is advised.",1
 "The force is strong in ______.",1
 "The four horsemen: Pestilence, War, Famine, and Death are the harbingers of the apocalypse, serving forth chaos and destruction on all humanity. The Bible forgot to mention the fifth horseman: ______",1
@@ -3886,6 +4032,7 @@ Hazing.,1
 "The monster demands ______!",1
 "The moral of the story is ______",1
 "The moral of this story, the moral of this song, is simply that one should never be ______.",1
+"The moral outrage about ______.",1
 "The Mormon Church has recently been accused of stockpiling billions, avoiding taxes and lying about charitable donations to ______.",1
 "The Mormon church secretly uses member tithings to fund ______.",1
 "The most potent weapon in our arsenal is not a gun or bomb, but rather ______.",1
@@ -3899,6 +4046,7 @@ Hazing.,1
 "The new Chevy Tahoe, with ______ as standard.",1
 "The new hip trend at craft bars is vodka infused with ______.",1
 "The new hot guy on Idol is?",1
+"The new iPhone 26 comes with ______ built-in!",1
 "The new KonMari: does it spark ______?",1
 "The new Red Dead Redemption game is so realistic, that ______ is part of the story.",1
 "The new UK sitcom has everything you'd expect: fun for all the family, 6 episodes per season, and features the potentially popular catchphrase, ""don't blame me, I'm just ______! """,1
@@ -3931,6 +4079,7 @@ Hazing.,1
 "The Night Watch. Alas it used to be a honorable profession until ______.",1
 "The nighttime, sniffling, sneezing, coughing, aching, stuffy-head, fever, ______ medicine",1
 "The Nobel Prize committee recognizes ______ for their lifelong commitment to ______.",2
+"The office except everyone is ______.",1
 "The old man at the flea market handed me a mirror, and told me in it's reflection I would see what I desired most. And in it, I saw ______.",1
 "The ominous inscription read:""Whoever disturbs my tomb, shall unleash ______ more terrible than I&rdquo;",1
 "The on going war against ______",1
@@ -4052,6 +4201,7 @@ Hazing.,1
 "The U.S. cannot allow ______ people back in the country. People that go to far away places to help out are great-but must suffer the consequences!",1
 "The U.S. Supreme Court will decide the case of ______ v. ______.",2
 "The unfortunate reason why (person to your left) will die alone.",1
+"The United States of America is the only first-world nation that ______",1
 "The University of Minnesota is now enlisting students to fight ______.",1
 "The US civil war wasn't about slavery, it was about ______!",1
 "The Virgin ______ VS the Chad ______.",2
@@ -4212,6 +4362,8 @@ Hazing.,1
 "This time around British Petroleum didn't spill oil, but rather millions of gallons of ______ into the ocean",1
 "This vehicle does not stop for ______.",1
 "This week on Celebrity Death Match, we pit ______ against ______.",2
+"This week on cutthroat kitchen, one chef must deal with ______ while cooking spaghetti and meatballs.",1
+"This week on Cutthroat Kitchen, one chef must deal with ______ while making ______!",2
 "This week, the Kardashians have gotten themselves into hot water, all thanks to ______!",1
 "This weekend, I think I'll make you try ______.",1
 "This will never work! Not as long as you love ______ more than you love me.",1
@@ -4227,6 +4379,7 @@ Hazing.,1
 "This year, I'm giving up ______ for Lent.",1
 "This years hottest new cars game is ______ Against ______.",2
 "This year’s international exhibit The Museum of Modern Art, featured a piece from the Dahmer Estate &ldquo;Jeffrey Dahmer a retrospective.&ldquo; The artistic concentration revolved around the theme of ______in the modern world with the unique vantage point of ______",2
+"This. Club. Has. EVERYTHING. ______, ______... the password to get in is '______'.",3
 "Thomas Edison invented many thing including ______",1
 "Though I know I'll never lose affection For people and things that went before I know I'll often stop and think about them In my life, I love ______ more",1
 "Though impossible to calculate the knowledge destroyed as the Library of Alexandria burned, inarguably the most tragic loss was that of the ______ scrolls.",1
@@ -4238,6 +4391,7 @@ Hazing.,1
 "Three wishes, to be exact! And ixnay on the ______.",1
 "Through the new tax plan, the 1% will now be able to deduct ______ on their annual tax report.",1
 "Thunder and lightning, trumpets and drums, ______ rejoice, ______ comes!",2
+"Thunder lizard brontosaurus is ______. It’s not ______, and that is a fact!",2
 "TIFU by",1
 "TIL that Pharrell Williams requires a framed picture of ______ in his dressing room",1
 "TIL the DVD release of Final Destination 3 has a feature called ""______"", which somehow makes the movie even shittier.",1
@@ -4279,8 +4433,10 @@ Hazing.,1
 "Today in the Chopped kitchen, the mystery basket includes ______, ______ and ______. You have twenty minutes starting... now!",3
 "Today my spouse is mad at me for ______",1
 "Today on ""How It's Made""....",1
+"Today on Cutthroat Kitchen, one chef must deal with ______ while cooking spaghetti with meatballs.",1
 "Today on Maury: ""Help! My son is ______!""",1
 "Today on Mythbusters: ______.",1
+"Today on Twitter, Donald Trump tweeted,&rdquo;______&rdquo;.",1
 "Today the Senate addressed whether or not the Government should Stop Dumping Tax payer money Into A Giant Hole but instead dump ______",1
 "Today's forecast is cloudy with a 90% chance of ______.",1
 "Today's forecast will be ______ with a strong chance of ______.",2
@@ -4303,6 +4459,7 @@ Hazing.,1
 "Tonight on the O'Reilly Factor, Bill O'Reilly blames ______ on ______.",2
 "Tonight on Top Gear! Richard reviews ______, James hates ______, and I have fun with ______!",3
 "Tonight on Top Gear, Richard Hammond ______.",1
+"Tonight on Unsolved Mysteries: ______",1
 "Tonight's Final Jeopardy! category is ______.",1
 "Tonight, for one night only, at the municipal auditorium, its______.",1
 "Tonight, I'm going to tie you to the bed and tease you with ______.",1
@@ -4313,6 +4470,7 @@ Hazing.,1
 "Trampling a Wal Mart employee to death on Black Friday so you can get ______ for 20% off.",1
 "Transformers! ______ in disguise!",1
 "Trapped in time. Surrounded by evil, how do you destroy an army that's already dead?",1
+"Trending on YouTube: ______ ft. Squidward, clarinetist",1
 "Trey, I don't want you hangin' out in the streets. I want you to finish school, 'cause without an education the only kind of work you're gonna get is sellin' drugs, pimpin' women, or workin' ______",1
 "Tricking Alex Trebek into saying ______.",1
 "Trigger Warning ______",1
@@ -4320,6 +4478,8 @@ Hazing.,1
 "Trump brings all the little boys to the yard, and he has ______ that's bigger than yours. Damn right, it's bigger than yours.",1
 "Trump is now the head of ______.",1
 "Trump just nominated ______ to serve on the Supreme Court.",1
+"Trump now blaming ______ for covid 19 spike.",1
+"Trump University is back, offering its new popular course: ______ 101",1
 "Trump Warns Removing Confederate Statues Could Be Slippery Slope To Eliminating ______Entirely",1
 "Trump's new plan: ______ and then have prostitutes fill up the US with pee like a bathtub.",1
 "Trump’s Supreme Court nominee believes that ______ is unconstitutional.",1
@@ -4377,6 +4537,7 @@ Hazing.,1
 "Wake up sheeple! ______ did ______!",2
 "Walgreens: we're at the corner of happy and ______.",1
 "walking in on your son drawing a picture of ______.",1
+"Walter White and Jesse Pinkman decided to make their meth even purer by adding the following secret ingredients: ______ mixed with ______.",2
 "Waluigi isn’t in smash because of ______.",1
 "War. Good god, y'all. What is it good for?",1
 "WARNING: MAY CONTAIN TRACES OF ______.",1
@@ -4464,9 +4625,11 @@ Hazing.,1
 "Weird events in the life of atomic scientist Cal Meacham culminate in an invitation to work at a secret lab in Georgia, supposedly in the cause of world peace. He quickly discovers there's more to ______ than meets the eye. Is this ecret research truly benevolent? It may take ______ to find out...",2
 "Welcome live studio audience members for the bachelorette season finale! Tonight you should be expecting ______ on our shocking finale!",1
 "Welcome Mega Market! Where we have everything from ______ to ______ right at your fingertips!",2
+"Welcome one and all to ______, the only place for ______.",2
 "Welcome to 'Behind the Meme,' where we explain your favorite memes. Today's episode: ______.",1
 "Welcome to *Whose Line is it Anyway?* The show where everything's made up and the points don't matter! That's right, the points are just like ______!",1
 "Welcome to America's next conflict: 'Operation Enduring ______. '",1
+"Welcome to Crazy Town, population ______.",1
 "Welcome to Hell, sinner! Because ______ was your most heinous sin, you must endure ______ for all eternity.",2
 "Welcome to Mega Market, where we have everything from ______ to ______, right at your fingertips!",2
 "Welcome to the jungle, we've got fun and ______",1
@@ -4477,6 +4640,7 @@ Hazing.,1
 "Welcome to ______, home of ______, can I take your order?",2
 "Welcome to ______, where everything's made up and the points don't matter!",1
 "Well fuck my face and call me Jimmy, it's ______!",1
+"Well I tell you what, if you have a problem figuring out whether you're for ______ or ______, then you ain't black.",2
 "Well if it isn’t the Grinch’s lessee known brother, The Grinch Who Stole ______.",1
 "Well if you must______, do it quietly.",1
 "Well then, I guess none of you uncouth mouth-breathers can truly appreciate ______.",1
@@ -4497,8 +4661,11 @@ Hazing.,1
 "Well, ______ didn’t last long.",1
 "Welp, now that Article 13 has passed, I think I might use ______ to make my money now.",1
 "Wendy and her brothers are whisked away to the magical world of Neverland with the hero of their stories, ______",1
+"Wendy? Darling? Light, of my life. I'm not gonna ______. I'm just going to ______.",2
 "Went to the store to get supplies. All that was left was: Capers, soy sauce, Vienna sausages, fava beans, Easy-Off, and a single ______.",1
 "We’ll come into your town, we’ll help you party down, we’re ______.",1
+"We’re here, we’re ______, get used to it!",1
+"We’re sorry to announce that ______ succumbed to ______.",2
 "We’ve already wiped on this boss *five* times thanks to this bullshit. So this will be the last goddamn time I’ll say this, but DO NOT stand in ______!",1
 "We’ve be spending most our lives living in ______ paradise.",1
 "What *did* happen in Vegas?",1
@@ -4559,6 +4726,7 @@ Hazing.,1
 "What did you do on your summer vacation? ______",1
 "What did you get me for my birthday?",1
 "What did you give up for Lent?",1
+"What dirt does Dominic Cummings have on Boris Johnson?",1
 "What do Americans fear most of all? ______.",1
 "What do I gotta do to make you love ______?",1
 "What do I like to spread on my toast in the morning?",1
@@ -4576,6 +4744,7 @@ Hazing.,1
 "What do you call your kids when you're mad at them?",1
 "What do you do at night in between you and fucking satan?",1
 "What do you fantasize about when you're jerking off?",1
+"What do you get when you cross a mentally ill loner with a society that abandons him and treats him like trash?",1
 "What do you get when you cross ______ with ______? ______!",3
 "What do you keep in the box under your bed that you don't tell anyone about?",1
 "what do you remember most about the night we met?",1
@@ -4602,6 +4771,8 @@ Hazing.,1
 "What first name is not used anymore?",1
 "What gave the pizza delivery guy PTSD?",1
 "What got me banned from school grounds?",1
+"What got me banned from the D&D campaign?",1
+"What got me canceled?",1
 "What got me evicted from my apartment?",1
 "What got Santa stuck in the chimney?",1
 "What happened in Vegas that will forever stay in Vegas?",1
@@ -4640,6 +4811,7 @@ Hazing.,1
 "What is something I never want to catch my sibling doing?",1
 "What is something I wish I could erase off the planet?",1
 "What is the biggest problem that post-Soviet Russia had that westerners will never understand?",1
+"What is the collective of stupidity?",1
 "What is the cure for the summertime blues?",1
 "What is the deal with Chicago?",1
 "What is the latest and greatest in car anti-theft security?",1
@@ -4654,6 +4826,7 @@ Hazing.,1
 "WHAT IS THIS?! A ______ FOR ANTS?!",1
 "What is tonight's presidential speech about?",1
 "What is triggering Tumblr this time?",1
+"What is wetter than the reed of a clarinet?",1
 "What is your biggest fear?",1
 "What is your desktop or phone background right now?",1
 "What is your name? ______ What is your quest?______",2
@@ -4689,6 +4862,7 @@ Hazing.,1
 "What ruined my family’s Thanksgiving dinner?",1
 "What seasonal job only needs to be done on Friday the 13th?",1
 "What Seemed Like A Good Idea At The Time?",1
+"What seems to be the problem, officer? - ______",1
 "What should be my senior yearbook quote?",1
 "What should I name my race horse?",1
 "What should I use to relieve my pent-up sexual aggression? ______, or ______?",2
@@ -4743,6 +4917,7 @@ Hazing.,1
 "What would you do for a Klondike Bar?",1
 "What would you not want to find in your partner's bedside drawer? ______",1
 "What Would ______ Do? ______",2
+"What's a little bit of ______ between friends?",1
 "What's all the rage in Europe?",1
 "What's at the end of the rainbow?",1
 "What's better than this? ______ being ______.",2
@@ -4764,6 +4939,7 @@ Hazing.,1
 "What's my idea of a good time?",1
 "What's my morning motivation?",1
 "What's my secret weapon?",1
+"What's my side hustle?",1
 "What's new pussycat?",1
 "What's next for Malaysia Airlines?",1
 "What's on my bucket list? 1. ______ 2. ______ 3. ______ 4. ______ 5. ______.",5
@@ -4812,6 +4988,7 @@ Hazing.,1
 "What's your Grandad's dirty little secret?",1
 "What's your major?",1
 "What's your startup idea?",1
+"What? No! I would never use ______ as ammunition for my Adaptive Combat Rifle 5.56&times;45mm NATO 6.8mm Remington SPC Firearm!",1
 "What?! I got an F on my essay about ______!",1
 "WHATCHA GONNA DO BROTHER, WHEN ______ RUNS WILD ON YOU??",1
 "Whatever happened to predictability? The milkman, the paperboy, ______?",1
@@ -4900,6 +5077,7 @@ Hazing.,1
 "When Trump becomes president, his first law will require ______ for all immigrants.",1
 "When will we know AI has gone too far?",1
 "When you ask for pictures of Spiderman but get ______ instead.",1
+"When you finally taste ______, your tastebuds will thank you.",1
 "When you gaze out at the vastness of the cosmos and the billions of stars, you realize how lucky you are to be ______ right now.",1
 "When you have to go potty, stop ______ right away. Flush it, wash it, be on your way.",1
 "When you lie down with dogs, you get up with ______",1
@@ -4938,6 +5116,7 @@ Hazing.,1
 "While working out intial bugs Skynet accidentally sent a terminator to the 20th century on a mission to destroy ______ and protect ______",2
 "White people are so scared of ______.",1
 "Who came up with ______?! Someone get that guy a raise!",1
+"Who does Number Two work for?",1
 "Who is my favorite bottom bitch?",1
 "Who is this ""Rorshach"" guy, and why does he only draw pictures of ______?",1
 "Who is your emergency contact?",1
@@ -4949,12 +5128,15 @@ Hazing.,1
 "Who needs ______ when you've got ______?",2
 "Who or what were you stuck with during the COVID-19 pandemic? ______.",1
 "Who roofied Grandma?",1
+"Who run the world? [ ______ ]",1
+"Who shit my pants?",1
 "Who shot Mr. Burns?",1
 "Who shot ______?",1
 "Who the hell is Sergei Plotnikov?",1
 "Who will be the new host for the MST3K reboot?",1
 "Who will be the next great Ninja?",1
 "Who would have guessed that ______ would be the last thing I would ever see?",1
+"Who would win in a fight between ______ and ______? Well, we’re about to find out!",2
 "Who you gonna call? ______!",1
 "Who's Afraid of Vagina Wolf?",1
 "Who's down with OPP?",1
@@ -5066,6 +5248,7 @@ Hazing.,1
 "With Jake the Dog and ______, the fun will never end, it's Adventure Time!",1
 "With one major app improvement, Amber Alerts will now include an option for ______.",1
 "With sacrificial blood you write ""______"" on the wooden alter. You can hear something in the darkness. Cthulhu has awoken&hellip;",1
+"With slavery banned in the United States, modern day abolitionists are attempting to abolish ______.",1
 "With such emphasis on ______ are reality shows setting unrealistic standards for skanks?",1
 "With the 1st overall pick, the Edmonton Oilers have selected ______.",1
 "With the asteroid is only a day away, I'm spending my last day enjoying ______",1
@@ -5097,6 +5280,7 @@ Hazing.,1
 "Would you fries, onion rings, or ______ with your burger today, sir?",1
 "Would you go to prom with ______?",1
 "Would you like a ride in my van? We have",1
+"Would you like to be ______? Yes, I surely would!",1
 "Would you like to ______? Sorry. Damn auto correct. That was supposed to say, ""would you like to ______?""",2
 "Would you put your lips on ______?",1
 "Would you rather get involved with ______ or ______? You must choose!",2
@@ -5117,6 +5301,7 @@ Hazing.,1
 "Y'all mother fuckers need ______.",1
 "Y'ello? You'll have to speak up. I'm wearing ______",1
 "Yankee Doodle went to town riding on ______. Stuck a feather in his cap and called it macaroni.",1
+"Yankee Doodle went to town, riding on ______.",1
 "Yankee-Doodle went to town riding on ______. He stuck a feather in his cap and called it macaroni.",1
 "Yeah! There were horses and a man on fire and I killed a man with ______!",1
 "Yeah, I had to break up with him. He kept using ""______"" as a euphemism for having sex.",1
@@ -5183,12 +5368,14 @@ Hazing.,1
 "You know how I know you're gay? You like ______.",1
 "You know how I know your gay?",1
 "You know it's true... everything I do... I do it for ______.",1
+"You know it’s 2020 when you’re ______.",1
 "You know my rules, no hugging or kissing until I see ______.",1
 "You know Nintendo are running out of ideas when they base a new Pokemon on ______.",1
 "You know palaeontologists are running out of ideas when they name a dinosaur after ______.",1
 "You know the drill, when ______ makes it’s sound, then you can leave.",1
 "You know the saying, ""I hate to be the bearer of bad news""? Well, that doesn't apply to you. You love it. You even start a business delivering bad news with you're favorite bad news deliveries revolving around ______",1
 "You know the saying, ""I hate to be the bearer of bad news""? Well, that doesn't apply to you. You love it. You even start a business delivering bad news with your favorite bad news deliveries revolving around ______",1
+"You know what a cubicle says? It basically says: ______ and we don't think you're smart enough for an office.",1
 "You know what goes well with ______? Hot sauce",1
 "You know what I like the most?",1
 "You know what I say. If you like ______, do it!",1
@@ -5211,6 +5398,7 @@ Hazing.,1
 "You lied mom! It doesn’t taste like chicken; it tastes like ______!",1
 "You like these cupcakes? I made them myself. The secret ingredient is ______.",1
 "You may be a redneck if you're ______.",1
+"You may be cool. But you’ll never be ______, cool.",1
 "You may be ______ but you may be ______.",2
 "You may say I'm ______, but I'm not the only one.",1
 "You may think she wants ______, but really, all she wants is ______.",2
@@ -5222,6 +5410,7 @@ Hazing.,1
 "You put the lime in ______ and drink it all up.",1
 "You put ______ in the coconut and shake it all up.",1
 "You really fucked up big time. What do you have to say for yourself?",1
+"You see I’ve been through the desert on a horse with no ______.",1
 "You see, Officer, I couldn't have murdered her that night because I was too busy with ______.",1
 "You see, ______ is not actually gay because of ______",2
 "You take the blue pill - the story ends, you wake up in your bed with ______ and believe whatever you want to believe. You take the red pill -and I show you how deep this ______-hole goes",2
@@ -5270,6 +5459,7 @@ Hazing.,1
 "You've heard of suicide by cop, now witness suicide by ______.",1
 "You've made a big mistake, Yugi. You've activated ______",1
 "You. Me. ______. Now.",1
+"Young Living now claims that its essential oils can prevent ______.",1
 "Young MILF Hookups 3: Make me ______.",1
 "Your breath stinks! What have you been eating?",1
 "Your cities are crushed, armies destroyed, and people slaughtered. The enemy is at the gate; now is the time unleash the secret weapon: ______!",1
@@ -5297,6 +5487,7 @@ Hazing.,1
 "You’ll find it impossible to resist ______!",1
 "You’ll never guess what I have in my urethra. It’s ______!",1
 "You’re a statistician working for a Government Demographic Office and while working late night one day notice that for a few hours every few years, you notice that there are no______ related deaths during ______Moon.",2
+"You’re not yourself when you’re ______. Grab a Snickers.",1
 "You’ve earned this promotion, Sara. Who would have guessed that your marketing strategy of ______ would be so profitable to this company?",1
 "You’ve got ______ in me.",1
 "You’ve just killed someone. A short-time later the Scooby Gang pulls up the driveway to your mansion. How do you keep them from finding you out?",1
@@ -5347,6 +5538,7 @@ Hazing.,1
 "______ and ______, sitting in a tree, k-i-s-s-i-n-g.",2
 "______ and ______. Name a more iconic duo. I'm waiting.",2
 "______ and ______. The post modernist San Francisco treat.",2
+"______ and ______; No wonder why the Toronto Maple Leafs keep loosing playoff series.",2
 "______ and ______? Get you a man/woman who can do both.",2
 "______ Apply directly to the forehead! ______ Apply directly to the forehead! ______ Apply directly to the forehead!",3
 "______ at the Hotel California!",1
@@ -5355,6 +5547,7 @@ Hazing.,1
 "______ begins at conception.",1
 "______ belongs in ______!",2
 "______ but every time it ______, it gets faster",2
+"______ by any other name would still smell as sweet.",1
 "______ called. They want ______ back.",2
 "______ can get thousands of likes, but what about ______?",2
 "______ can help any relationship.",1
@@ -5366,6 +5559,7 @@ Hazing.,1
 "______ day is a very dangerous day.",1
 "______ describes my wife after sex.",1
 "______ destroyed my childhood.",1
+"______ didn't work so now it's time for furious masturbation.",1
 "______ doesn’t kill people; ______ kills people.",2
 "______ don't judge it until you've tried it.",1
 "______ erotica",1
@@ -5385,6 +5579,7 @@ Hazing.,1
 "______ got us into this mess and______ is going to get us out of it.",2
 "______ had become boring after a while, but thanks to my friend introducing me to ______, my days are never dull!",2
 "______ happens when you wish upon a star.",1
+"______ has a higher approval rating than Donald Trump and Joe Biden combined.",1
 "______ has been confirmed as a costume for Super Mario Maker!",1
 "______ has changed my life forever.",1
 "______ has gone missing. Suspect Dr. Claw. Your mission is to investigate ______. This message will self-destruct.",2
@@ -5395,6 +5590,7 @@ Hazing.,1
 "______ in the morning, sailors take warning.",1
 "______ in the streets, ______ in the sheets.",2
 "______ invented for kids. Approved by mums.",1
+"______ is a central tenet of the Catholic Church.",1
 "______ is a classic case of ______.",2
 "______ is a conspiracy designed by white people.",1
 "______ is a gateway drug to ______.",2
@@ -5423,6 +5619,7 @@ Hazing.,1
 "______ is Hot. ______ is Not.",2
 "______ is how I found out there's no Santa.",1
 "______ is how we all end up with ______.",2
+"______ is in our hands.",1
 "______ is just a cheap tactic to make weak ______'s stronger",2
 "______ is just a polite euphemism for ______.",2
 "______ is just a poor man's version of ______.",2
@@ -5435,6 +5632,7 @@ Hazing.,1
 "______ is making me vomit from my saltwater and freshwater stomachs.",1
 "______ is more frustrating than Twitch Plays Pokemon.",1
 "______ is more fun in the nude.",1
+"______ is more popular than ______ and ______ combined.",3
 "______ is my BAE",1
 "______ is my constitutional right, and I won't let Big Government get in my way!",1
 "______ is my kink",1
@@ -5451,6 +5649,7 @@ Hazing.,1
 "______ is one hell of a drug.",1
 "______ is one of the most harmless things you can do.",1
 "______ is playing Batman/Bruce Wayne in the next Batman Movie.",1
+"______ is pleasing in God’s eyes.",1
 "______ is practically Jesus reincarnate.",1
 "______ is pretty bad, but it's not as bad as______.",2
 "______ is probably the best band name ever.",1
@@ -5458,12 +5657,14 @@ Hazing.,1
 "______ is so dark, it carried out a drive by shooting.",1
 "______ is so dark, it committed a drive by shooting.",1
 "______ is so much better when the stripper is crying.",1
+"______ is such an ugly term. I prefer to think of it as ______.",2
 "______ is terrorizing our city and the only hero that could save us is ______.",2
 "______ is the best medicine.",1
 "______ is the best outcome from this diagnosis",1
 "______ is the curse of the ______ class.",2
 "______ is the devil's ______",2
 "______ is the essence of wetness, and wetness is the essence of ______",2
+"______ is the final coup de grace.",1
 "______ is the free space on the ______ BINGO card",2
 "______ is the glue that keeps us together.",1
 "______ is the leading cause of death in the United States.",1
@@ -5482,11 +5683,14 @@ Hazing.,1
 "______ is to me as ______ is to you.",2
 "______ is undeniable proof that we live in a society.",1
 "______ is what dreams are made of.",1
+"______ is what I nicknamed my penis.",1
+"______ is what it is.",1
 "______ is what will happen to the czar in the next three months after he chose the winning card.",1
 "______ is when the bass kicks in and everyone goes insane.",1
 "______ is yet another place where angels fear to tread.",1
 "______ is ______",2
 "______ is/are the technology of the future!",1
+"______ is/are what really killed off all the dinosaurs.",1
 "______ isn't about sex, it's about power.",1
 "______ isn't the same without ______.",2
 "______ It just makes men stupid.",1
@@ -5500,6 +5704,7 @@ Hazing.,1
 "______ keep falling on my head. But that doesn't mean my eyes will soon be turning red.",1
 "______ killed {Dr. Black/Mr. Boddy} in the ______ with the ______.",3
 "______ kills more than a million people a year, but the government doesn't want you to know that!",1
+"______ leads to ______.",2
 "______ loves ______!",2
 "______ made it really hard to maintain an erection.",1
 "______ made me late to work",1
@@ -5572,10 +5777,12 @@ Hazing.,1
 "______ will lead us to a new era of glorious communism!",1
 "______ will usher in an unparalleled era of peace and prosperity to the world.",1
 "______ with a happy ending feels better than a happy ending massage.",1
+"______ without thinking is useless. Thinking without ______ is dangerous.",2
 "______ won't heal the racial divide in this country. What we need is a strong leader who is 100% committed to ______.",2
 "______ Worst birthday ever.",1
 "______ would be far better with a posse.",1
 "______ would just not be possible without ______.",2
+"______ x ______ x Inflated Ego = Kanye West",2
 "______ You either take it, or leave it.",1
 "______ ______ ______. And that’s where babies come from!",3
 "______! Fuck me. I mean, say what you want about the tenets of ______, Dude, at least it's an ethos.",2
@@ -5619,6 +5826,7 @@ Hazing.,1
 "______, isn't that kind of gay",1
 "______, it went okay.",1
 "______, it's that time of season again.",1
+"______, it'll tickle yore innards!",1
 "______, its good for you.",1
 "______, just goes to show that some birds aren't meant to be caged, their feathers are too bright.",1
 "______, Just the one.",1
@@ -5628,6 +5836,7 @@ Hazing.,1
 "______, my third worst birthday.",1
 "______, not time, heals all wounds.",1
 "______, now available to own on videocassette.",1
+"______, Oops I did it again!",1
 "______, or as the ______ call it, ______",3
 "______, so typically British.",1
 "______, That's a technical foul!",1
@@ -5673,6 +5882,7 @@ Hazing.,1
 "______. Eh, still better than working at Walmart.",1
 "______. For Rectal Use Only.",1
 "______. Gangnam Style!",1
+"______. God be praised!",1
 "______. GODDAMN IT JAPAN!",1
 "______. How hard can it be?",1
 "______. How it feels to chew 5 gum.",1
@@ -5687,6 +5897,7 @@ Hazing.,1
 "______. It's what makes a Subaru a Subaru.",1
 "______. It’s fun for a girl and a boy.",1
 "______. It’s local AND organic!",1
+"______. It’s not just a good idea; it’s the law!",1
 "______. It’s Viagra for your brain!",1
 "______. I’m livin’ the dream!",1
 "______. Just as The Bible prophesied.",1
@@ -5710,6 +5921,9 @@ Hazing.,1
 "______. That's how you get ants.",1
 "______. That's the joke.",1
 "______. That's why burn victims need to stick together.",1
+"______. That’s how I died.",1
+"______. That’s the story of my life!",1
+"______. The final frontier. These are the adventures of the starship ______.",2
 "______. Well I had to balance my Yin and Yang.",1
 "______. What a sight to behold!",1
 "______. What a way to go.",1
@@ -5766,9 +5980,11 @@ ______.com.,1
 "______? In my ______?",2
 "______? In this economy?",1
 "______? In this economy?? I can barely afford ______!",2
+"______? Is that what the kids are saying these days?",1
 "______? Is that what you want? Because that's how you get ants!",1
 "______? Isn't that just another term for ______?",2
 "______? isn't that just ______ with extra steps?",2
+"______? It must be my birthday!",1
 "______? It's a 'no' from me.",1
 "______? More like ______, amirite?",2
 "______? Not in my Christian Minecraft server!",1
