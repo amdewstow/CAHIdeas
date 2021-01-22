@@ -1,0 +1,1437 @@
+{
+    "id": "Cards_Against_Archer",
+    "name": "Cards Against Archer",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_3678b071efc122173b437236485a2b0287449959",
+            "content": {
+                "en": "A Black Astronaut."
+            }
+        },
+        {
+            "id": "w_eb80f5898af56dec77223f8dba77038c3e842373",
+            "content": {
+                "en": "A cartridge full of a deadly supertoxin called poiso... caine."
+            }
+        },
+        {
+            "id": "w_aaed6dfabd6316739720469715f41f22fb1e95ce",
+            "content": {
+                "en": "A coke-strong Pam."
+            }
+        },
+        {
+            "id": "w_a314789c1e0e87f7255c80ded1b96ca74feece4c",
+            "content": {
+                "en": "A dinosaur&apos;s tampon."
+            }
+        },
+        {
+            "id": "w_37abd04db91f663cc7ca847f55a7adfd08878989",
+            "content": {
+                "en": "A floor covered in Ocelot piss."
+            }
+        },
+        {
+            "id": "w_87d0b8bff0c4c68c26d892737cc35f88816d1836",
+            "content": {
+                "en": "A full body cast made of cocaine."
+            }
+        },
+        {
+            "id": "w_77cbfc0c5167648ef5848068c88a5b139aa2a8d0",
+            "content": {
+                "en": "A grieving process consisting of tending bars and banging newlyweds."
+            }
+        },
+        {
+            "id": "w_8bee988b50c928e59d4c660ea6ec3e4ffd13126e",
+            "content": {
+                "en": "A gun that could kill a building."
+            }
+        },
+        {
+            "id": "w_93e5da0285de6377d0acd8602a6de9f5e623774a",
+            "content": {
+                "en": "A long, complicated and misleading voicemail greeting."
+            }
+        },
+        {
+            "id": "w_5c0a208a3f9aa117d0ee3b1facb4f4fc8eb8c027",
+            "content": {
+                "en": "A mustache on a penis."
+            }
+        },
+        {
+            "id": "w_d77edba950195e59f4185ad88a129abfc23b3f3e",
+            "content": {
+                "en": "A nonexistant smoke bomb."
+            }
+        },
+        {
+            "id": "w_1099a067d43efe108890749e0d794bdb9bdf9d56",
+            "content": {
+                "en": "A parcel containing one-seventh of the dead Italian Prime Minister."
+            }
+        },
+        {
+            "id": "w_53ed0ef5dfa560117050bc8efca2c826935e890b",
+            "content": {
+                "en": "A radioactive pig that craves human flesh."
+            }
+        },
+        {
+            "id": "w_9ecaa7aac642687c843ad7dcd1ace61a0011ab00",
+            "content": {
+                "en": "A slightly darker black ."
+            }
+        },
+        {
+            "id": "w_983e6455b1f7248fe10166755ec345af5317364c",
+            "content": {
+                "en": "A submarine trapped in an indoor pool."
+            }
+        },
+        {
+            "id": "w_5c47bc09b0dd52129de9f1a3cd564cba78617b70",
+            "content": {
+                "en": "A vealy vulva."
+            }
+        },
+        {
+            "id": "w_1bbf38a256eb1424b3e843010a0ae15308677371",
+            "content": {
+                "en": "A yogurt enema."
+            }
+        },
+        {
+            "id": "w_39254c5fe80b52cd6bb9333eac30e88c3859430c",
+            "content": {
+                "en": "Adopting a little baby for the sole purpose of abandoning it at a mall."
+            }
+        },
+        {
+            "id": "w_131a595bffcebefc5b8084bd158a9937284411ab",
+            "content": {
+                "en": "An assumed identity always named Randy."
+            }
+        },
+        {
+            "id": "w_f03b44b613ccc8ba909f96e89d21ab79eef0ccfc",
+            "content": {
+                "en": "An eagle-eyed super-hawk. With a badge."
+            }
+        },
+        {
+            "id": "w_073587fdbdadc655b8f7c36d53b7c8dddd2ca73f",
+            "content": {
+                "en": "An uncircumsized Jewish guy."
+            }
+        },
+        {
+            "id": "w_7bf7b12daf740130d09cc00a13fcb0cfa082b163",
+            "content": {
+                "en": "And?"
+            }
+        },
+        {
+            "id": "w_4cad6a6e3ce169f18bc6611ba557508bcab8873a",
+            "content": {
+                "en": "Another sex-tape with a high ranking international politician."
+            }
+        },
+        {
+            "id": "w_c0c214e7a2ea0761f7c9aa53fb417b4b25335ae0",
+            "content": {
+                "en": "Asking Kreiger to pump nerve gas through the building."
+            }
+        },
+        {
+            "id": "w_bcc7dbe2635ff074b3d37029abbf8d70429b1143",
+            "content": {
+                "en": "Baby Crazy."
+            }
+        },
+        {
+            "id": "w_881640130f0591f94e8888eec38d581e708634d7",
+            "content": {
+                "en": "Being allergic to a cruelty-free vegan seafood buffet."
+            }
+        },
+        {
+            "id": "w_8dfc718ee399e2d7ae13474540943c104ea36b05",
+            "content": {
+                "en": "Being so full of shit your eyes are brown."
+            }
+        },
+        {
+            "id": "w_ef68d503a2ec0722c86513f102787d1be091c7c7",
+            "content": {
+                "en": "Being so timid that your balls are made of pussy."
+            }
+        },
+        {
+            "id": "w_304f9871896c7b3d89dec3297057eca152332f2c",
+            "content": {
+                "en": "Being the number one country singer in America, Canada and San Marcos as your fallback career."
+            }
+        },
+        {
+            "id": "w_12888d5ad748ad9dc5634c5a5a71fffe5fcc85df",
+            "content": {
+                "en": "Being volunteered to help with surgery because you're good at math."
+            }
+        },
+        {
+            "id": "w_a6f8c28770cfcb23e2415d7c947812174a536f7b",
+            "content": {
+                "en": "Blowing up a submarine full of cocaine."
+            }
+        },
+        {
+            "id": "w_f91929d7b1041c404e796659b0519577976f4347",
+            "content": {
+                "en": "Carol\/Cheryl\/Cristal\/Carina\/Cherlene."
+            }
+        },
+        {
+            "id": "w_fe0be8f6a69b1e7b252361b28e85955c37e85558",
+            "content": {
+                "en": "Chain smoking joints the size of tampons."
+            }
+        },
+        {
+            "id": "w_30cbbe9865b0144084a77a2001087748da56af32",
+            "content": {
+                "en": "Cheating on your girlfriend with starlets, models, oh, and one time, two actual princesses."
+            }
+        },
+        {
+            "id": "w_b0dc7f3854f192e0c9df9805950954c471a285ff",
+            "content": {
+                "en": "Chokepoints."
+            }
+        },
+        {
+            "id": "w_c682c80d3a958cadf82bd8188d6e710d82b0e756",
+            "content": {
+                "en": "Christian Slater once again playing a killer."
+            }
+        },
+        {
+            "id": "w_175297bacfdf359a4ef38967fe54823f34b6221d",
+            "content": {
+                "en": "Classic Archer."
+            }
+        },
+        {
+            "id": "w_2545f77074037a9a176ccffbc201086310454394",
+            "content": {
+                "en": "Classic Mallory."
+            }
+        },
+        {
+            "id": "w_110d30425384293148fe3ddf252284d4d341e597",
+            "content": {
+                "en": "Clearing the ol' browser history."
+            }
+        },
+        {
+            "id": "w_37bb75dd69f709718652582c1f0cd044377ca870",
+            "content": {
+                "en": "Cobra whiskey and ladyboys."
+            }
+        },
+        {
+            "id": "w_95b9fce6c81362335f2fe18c32ccd42b86564eeb",
+            "content": {
+                "en": "COCAINE!!!"
+            }
+        },
+        {
+            "id": "w_145ef26b95b08b09fec1dc3ed37b509d8baed7a3",
+            "content": {
+                "en": "Coffee just like I like my women. Black, bitter, and preferably fair trade."
+            }
+        },
+        {
+            "id": "w_72310960664f14f564d5dbd7b9b61361975b3f03",
+            "content": {
+                "en": "Constant A.B.B.A.B."
+            }
+        },
+        {
+            "id": "w_3b9fde0cd99824ff66f2fb7dea12efdbe9837f61",
+            "content": {
+                "en": "Countess Von Fingerbang."
+            }
+        },
+        {
+            "id": "w_63b022e3f8a8b3acbd30987865f2327f8dc2251e",
+            "content": {
+                "en": "Crippled gay hillbilly spies."
+            }
+        },
+        {
+            "id": "w_5a38608b77b5fbca0c2b1ebdf16d285f98e120b7",
+            "content": {
+                "en": "Cyril trying to take charge."
+            }
+        },
+        {
+            "id": "w_c287a3dc3f4400d5419b7b8aa4fe27df8c09e80a",
+            "content": {
+                "en": "Defiling a corpse."
+            }
+        },
+        {
+            "id": "w_8c0dc61599fbbebc81aef98762ba593bc99d1d60",
+            "content": {
+                "en": "Defiling a different corpse."
+            }
+        },
+        {
+            "id": "w_8856e9bbc5ea5193ad489c9e89aae374c8852197",
+            "content": {
+                "en": "Dicknuts."
+            }
+        },
+        {
+            "id": "w_a005674eecb8e75a706aed38eef6468bcd236f6b",
+            "content": {
+                "en": "Digging tunnels to find and sabotage the Underground Railroad in like, 1890."
+            }
+        },
+        {
+            "id": "w_3a26605502e87a4be818b31dddd96838c29277b3",
+            "content": {
+                "en": "Doing something that would make five-year-old me get a huge boner."
+            }
+        },
+        {
+            "id": "w_3713ff1de0979910a16f46086974b2525dab0efe",
+            "content": {
+                "en": "Donations of pre-tax dollars that PBS launders in inner-city methadone clinics and pumps right back out to pro-abortion super-PACs!"
+            }
+        },
+        {
+            "id": "w_bdde3027a5e6b04862ad3e701a51d8a55add3e8e",
+            "content": {
+                "en": "Dragging around a 35 year old umbilical cord."
+            }
+        },
+        {
+            "id": "w_d1cfc1ec3d56d65b85dfab18f028a0a938efd46b",
+            "content": {
+                "en": "Dry humping a Chipotle burrito."
+            }
+        },
+        {
+            "id": "w_695d5fe93aa0f0a17268f901c8813ba7ba4e6f13",
+            "content": {
+                "en": "Dry humping a Chipotle&acirc;&bdquo;&cent; burrito."
+            }
+        },
+        {
+            "id": "w_ff5c6207a693a3fbcebc3863eb57ce0cec123f9e",
+            "content": {
+                "en": "Every single country on the planet except for us, Liberia and Burma."
+            }
+        },
+        {
+            "id": "w_6feed9db0aa5384c81222d92bf7873969d160890",
+            "content": {
+                "en": "Failing miserably at selling cocaine."
+            }
+        },
+        {
+            "id": "w_16fa189ff1ab9b0405404f83c94cfffc9a7f2e5d",
+            "content": {
+                "en": "Firing an RPG inside a tiny armored room."
+            }
+        },
+        {
+            "id": "w_7c825b050173fb8a4ec233c4d260237f95266701",
+            "content": {
+                "en": "Forgetting to reboot the CPU in Ray&apos;s legs."
+            }
+        },
+        {
+            "id": "w_0ac8beeedc82a6ca10c5c85a7073c6c7a1dae94f",
+            "content": {
+                "en": "Forgetting to shout \"FBI!\" before firing into a room of people."
+            }
+        },
+        {
+            "id": "w_8c3b4fa59e09109f8e6346724213f763e0039075",
+            "content": {
+                "en": "Fort Kickass."
+            }
+        },
+        {
+            "id": "w_a7aee863a7ad0eee6f9ba4813d5d838f967e2fd2",
+            "content": {
+                "en": "Frothy loins."
+            }
+        },
+        {
+            "id": "w_edcfe74cb207757393ab06e8b67d347119d76916",
+            "content": {
+                "en": "Germany, the Alabama of Europe."
+            }
+        },
+        {
+            "id": "w_6f143829802070fe40ef204468819093e7a55155",
+            "content": {
+                "en": "Getting a semi from the thought of your mother dying."
+            }
+        },
+        {
+            "id": "w_08a10575c4b2d3ab7e51377cc0ba10c1fd9ef934",
+            "content": {
+                "en": "Getting matching tattoos for you and your baby."
+            }
+        },
+        {
+            "id": "w_fa76bbcfb59bce6953e3b3932bdd19fd59ddc4b8",
+            "content": {
+                "en": "Goddamn Tinnitus."
+            }
+        },
+        {
+            "id": "w_73967ea1867517a8f2e7e97a4315e3c99fe38238",
+            "content": {
+                "en": "Having a threesome with Oedipus and Sigmund Freud."
+            }
+        },
+        {
+            "id": "w_0ebf659085d454ba58ffc96602caa120831b0bf7",
+            "content": {
+                "en": "Having sex on top of a tranq-ed up tiger."
+            }
+        },
+        {
+            "id": "w_d5e04b235511d1ffc3e8401695a9f3b19bf0eb07",
+            "content": {
+                "en": "Having sex with a candy wrapper condom."
+            }
+        },
+        {
+            "id": "w_2ae820f194be063d586fd1feb556374c2b3445f0",
+            "content": {
+                "en": "Having sex with the President&apos;s wife."
+            }
+        },
+        {
+            "id": "w_d7df56f4cb9282f583ec911522d13d6690a9786b",
+            "content": {
+                "en": "Having to stop because your penis can only get so erect."
+            }
+        },
+        {
+            "id": "w_8bdfde8586274871d490b554c18a76499b95e968",
+            "content": {
+                "en": "Hindenburg 2.0"
+            }
+        },
+        {
+            "id": "w_47a067a0499a2981b3dea3e8548c1acb7732ec2d",
+            "content": {
+                "en": "Holy shit snacks!"
+            }
+        },
+        {
+            "id": "w_b571d63e42f5f767484e941f7790fac8215bcf62",
+            "content": {
+                "en": "Hor-hay Washington."
+            }
+        },
+        {
+            "id": "w_26f723e847ef7c023f1bc8b2d0bc641e978d7e45",
+            "content": {
+                "en": "Immigrants! That&apos;s what they do you know. Just drive around listening to raps and shooting all the jobs."
+            }
+        },
+        {
+            "id": "w_62b4dd2fe152ea553aaacaa863a88ca48ce407e5",
+            "content": {
+                "en": "Inappropes."
+            }
+        },
+        {
+            "id": "w_f5cfbb148e015f2ff187c7a433230167db60a506",
+            "content": {
+                "en": "J. Edna Hoover."
+            }
+        },
+        {
+            "id": "w_91dbc64e6a25bbbf4739660da6c9524de649d10d",
+            "content": {
+                "en": "Jesus, Mary, and Joseph Stalin!"
+            }
+        },
+        {
+            "id": "w_7a1316c1ca31f78d6aa92edcde65b64dfc4ebdad",
+            "content": {
+                "en": "Jumping up your own ass and dying."
+            }
+        },
+        {
+            "id": "w_9ed6099f1105221b939b20a6b06c8c7448e1fa3a",
+            "content": {
+                "en": "Just jackin' it."
+            }
+        },
+        {
+            "id": "w_ff0bab9cd1ea94bed6e231fe0adfe160dbcb2684",
+            "content": {
+                "en": "Karate, the Dane Cook of Martial Arts."
+            }
+        },
+        {
+            "id": "w_3253cb1c3d20073412044c0a5da8a14517932a3c",
+            "content": {
+                "en": "Keeping all eleven of your chins up."
+            }
+        },
+        {
+            "id": "w_de2f6d4c05c44f4b344512e1fb542950237b1737",
+            "content": {
+                "en": "Kidnapping the Pope."
+            }
+        },
+        {
+            "id": "w_8f86277f110f93378aef0b56fd86eaca6b6a4b05",
+            "content": {
+                "en": "Literally shooting your partner in the foot."
+            }
+        },
+        {
+            "id": "w_aa09a92cd5713e987dbcd4b618234241fd496fef",
+            "content": {
+                "en": "LSD disguised as breath strips."
+            }
+        },
+        {
+            "id": "w_8ce8a411663019c4ba9c8c4b0e49b96cfa00415d",
+            "content": {
+                "en": "M as in Mancy."
+            }
+        },
+        {
+            "id": "w_beedbcc639b93851eb6aef372d1d8746097ed821",
+            "content": {
+                "en": "Male breast cancer."
+            }
+        },
+        {
+            "id": "w_5b832346d2460c8630cad77b840603675414074b",
+            "content": {
+                "en": "Meowschwitz."
+            }
+        },
+        {
+            "id": "w_a28000a46527e5d251f6b5ae745d22d071e987ec",
+            "content": {
+                "en": "Mind-brain."
+            }
+        },
+        {
+            "id": "w_a0c9b9d00bb31c746e969f10112733e4e15f754a",
+            "content": {
+                "en": "Mr. My Mother&apos;s A Lying Bitch And I&apos;m Too Stupid To Realize My Life&apos;s A Pathetic Joke!"
+            }
+        },
+        {
+            "id": "w_e6082b2159c6a3349c54d2a746f12eafd1cf4075",
+            "content": {
+                "en": "Mrs. Hello My Kid&apos;s From A Sperm Bank Since I Can't Keep A Man Because In Addition To My Jillion Neuroses I Have A Weird-looking Vagina!"
+            }
+        },
+        {
+            "id": "w_be09cdea9a9918aa33ff234120079306f1010ded",
+            "content": {
+                "en": "MSG, the flavor enhancer!"
+            }
+        },
+        {
+            "id": "w_515b723dd40dc84349ebd7f2a93c92c3a30dabb6",
+            "content": {
+                "en": "MY GIANT THROBBING ERECTION!"
+            }
+        },
+        {
+            "id": "w_6776fd59927d5ff2214bd425d5a41078f2287593",
+            "content": {
+                "en": "Nazi Oranges."
+            }
+        },
+        {
+            "id": "w_732c30c4d5b298dab8b9f430e6e60ae922c5704d",
+            "content": {
+                "en": "Needing to remind everyone that you're pregnant."
+            }
+        },
+        {
+            "id": "w_0efeace9704f6bad2c175aa7814a19055658cfdb",
+            "content": {
+                "en": "North Korea, the nation-state equivalent of the short bus."
+            }
+        },
+        {
+            "id": "w_1a8de4ce99407a189b915ad4dbc42f27182e27ba",
+            "content": {
+                "en": "Not being able to distinguish between figurative and literal."
+            }
+        },
+        {
+            "id": "w_11f7f4aea3d3d75e205af0e9f4e21b8fa8cb45fc",
+            "content": {
+                "en": "OUTLAW COUNTRY!!!"
+            }
+        },
+        {
+            "id": "w_139f611b134e40a6f44f362a1c0191ad3a82fa70",
+            "content": {
+                "en": "Pam and the Yakuza."
+            }
+        },
+        {
+            "id": "w_e276fc8b49d33edd210224b642413419716d505e",
+            "content": {
+                "en": "Phrasing."
+            }
+        },
+        {
+            "id": "w_9966991a9a4ed09afc5cd3df5294b937a9b8b039",
+            "content": {
+                "en": "Pigley, the hybrid pig-boy."
+            }
+        },
+        {
+            "id": "w_be058988eaa586584b82483c88830f8f09ca7d33",
+            "content": {
+                "en": "Piracy. No, actual piracy. With, like, boats."
+            }
+        },
+        {
+            "id": "w_046de587d73c3f4eae2df9105885b1f3d2baa732",
+            "content": {
+                "en": "Pounds. You know, Doctor Who money."
+            }
+        },
+        {
+            "id": "w_5c6edf080b79ea51442ca6ddd4aa59efd57da5fa",
+            "content": {
+                "en": "Promising to periodically micromanage and emasculate me."
+            }
+        },
+        {
+            "id": "w_bcc691c12806002822814a1da319173a93c1c2d7",
+            "content": {
+                "en": "Putting a Rocket Pop in your cooch."
+            }
+        },
+        {
+            "id": "w_9de131b0e68ff1682cc3dcb98eb1f7a1b361f263",
+            "content": {
+                "en": "RAMPAAAAAAAAAGE!"
+            }
+        },
+        {
+            "id": "w_ceae5fd39728a09bc98ae3b2ac417622c8f129fd",
+            "content": {
+                "en": "Russia&apos;s only black woman."
+            }
+        },
+        {
+            "id": "w_c7982b6f29d7d163c6e23cdd30bfcdcb9e291116",
+            "content": {
+                "en": "Saving yourself the embarrassment of an incredibly homophobic remark."
+            }
+        },
+        {
+            "id": "w_bfc4834cc486bc2e3f3b9ecfc4b6a5a29151992d",
+            "content": {
+                "en": "Screwing the asses off all the colored maids."
+            }
+        },
+        {
+            "id": "w_9f7f6550f044476a4be1ca4c67fcb6ea77245e94",
+            "content": {
+                "en": "Screwing the Yakuza out of a million bucks of amphetamines."
+            }
+        },
+        {
+            "id": "w_f4e10405528a97f64c59d8fc1b4561eeac4a1845",
+            "content": {
+                "en": "Situational Awareness."
+            }
+        },
+        {
+            "id": "w_b7bf2481c1a8c86d7cff85c6ed3d35f8adac8b48",
+            "content": {
+                "en": "Six Gummy Bears and some Scotch."
+            }
+        },
+        {
+            "id": "w_8c9d29c4e0d705247560cd5627f3faef2ef0472f",
+            "content": {
+                "en": "Slapping someone so hard they die."
+            }
+        },
+        {
+            "id": "w_17d59625b8acb3215ea6a118155ed9bf67e12095",
+            "content": {
+                "en": "Some unholy adolescent human amphibian hybrid creature."
+            }
+        },
+        {
+            "id": "w_58549ce259b389a90aeab1dbb8d24c78c52cc3ab",
+            "content": {
+                "en": "Sploosh!"
+            }
+        },
+        {
+            "id": "w_c00c3c25d95bacaba7a8d4609982c81fde8f882c",
+            "content": {
+                "en": "Stir Friday."
+            }
+        },
+        {
+            "id": "w_f3398944f3d6ae8a36707d31e641a17678a765dd",
+            "content": {
+                "en": "Sucking literal ass. Seriously, what&apos;s with all the enemas?"
+            }
+        },
+        {
+            "id": "w_b1925cdd30b29fc72925b639f1d8dffed5a66483",
+            "content": {
+                "en": "SUPPRESSING FIRE!!!!!!!!"
+            }
+        },
+        {
+            "id": "w_7bef3bf31b0428ca40ca0bc2253ce4de34b9b23b",
+            "content": {
+                "en": "Taking a baby to a murder."
+            }
+        },
+        {
+            "id": "w_98a308e6079def30dcccb94bab7eecce0c20121a",
+            "content": {
+                "en": "Taping up your bloody fingers to continue masturbating."
+            }
+        },
+        {
+            "id": "w_4bc7317be52ab7a8811b34ea59a6e4efd827b3d2",
+            "content": {
+                "en": "Tea that looks, smells, and tastes like liquid fart."
+            }
+        },
+        {
+            "id": "w_f74541047d115f0df0d2f7e6b598a92948e81173",
+            "content": {
+                "en": "Terrorists, assassins, the KGB, the IRA, North Korea, cyborgs, and space pirates."
+            }
+        },
+        {
+            "id": "w_24ca68064d82696c72d796996b1e58f484676e0f",
+            "content": {
+                "en": "The Cokie Monster."
+            }
+        },
+        {
+            "id": "w_ba8e6ca6a5654775d575f74f9b716ef1051d8058",
+            "content": {
+                "en": "The Danger Zone."
+            }
+        },
+        {
+            "id": "w_234610fb328e04407a010413d86e65978c876854",
+            "content": {
+                "en": "The Dodge Challenger Special Agent Edition, brought to you by Dodge."
+            }
+        },
+        {
+            "id": "w_2262e199215d2fc1b621625c07e536b4d211f7eb",
+            "content": {
+                "en": "The GILF cam."
+            }
+        },
+        {
+            "id": "w_406f269f4c2e79302f3fe391b24425b1e40c82f3",
+            "content": {
+                "en": "The Honeypot."
+            }
+        },
+        {
+            "id": "w_9682d2f4cacb8c7479a1a2789e9d7010f6753e8d",
+            "content": {
+                "en": "The Pita Predator."
+            }
+        },
+        {
+            "id": "w_81ac05c36527d7dcad6c001a1e706aadaca12694",
+            "content": {
+                "en": "The sinister gay cabal."
+            }
+        },
+        {
+            "id": "w_db864babbb02d37157b3fe0a220d147ba4d08d90",
+            "content": {
+                "en": "The SS Date Rape."
+            }
+        },
+        {
+            "id": "w_abae98eba64b6132f0e41229f07303d36d3eadc9",
+            "content": {
+                "en": "The tactical turtleneck, better known as the Tactilneck."
+            }
+        },
+        {
+            "id": "w_3171c6d66b787b3140b1ffabdc801845818da236",
+            "content": {
+                "en": "The vehicular hermaphrodite known as the El Camino."
+            }
+        },
+        {
+            "id": "w_a4c5100fc58df64188fb13150a8e3f93186514db",
+            "content": {
+                "en": "Topper Bottoms, stern yet sensual skipper of the USS Rough Service."
+            }
+        },
+        {
+            "id": "w_02aa224b55b8401f4ee5cf16b9943435d281f9c1",
+            "content": {
+                "en": "Treason."
+            }
+        },
+        {
+            "id": "w_65ab9aeb1c50e3dd9d4ce40bf58e11f89af404ab",
+            "content": {
+                "en": "Treating cancer with sugar pills."
+            }
+        },
+        {
+            "id": "w_bc318ef7e4436197bee50f6a06e266c63afa78ff",
+            "content": {
+                "en": "Tripping bear balls."
+            }
+        },
+        {
+            "id": "w_32fca5e4749ab59975bf5cb9d201af577597ab1f",
+            "content": {
+                "en": "Truckasaurus!"
+            }
+        },
+        {
+            "id": "w_8189d5d0cf10c0f4973798401fbae6aeca3e7458",
+            "content": {
+                "en": "Trying to explain particle physics to a particle."
+            }
+        },
+        {
+            "id": "w_41d2226750ac2e78dd8f3f96560d00f2090f0066",
+            "content": {
+                "en": "Trying to get my mother into the Million-Mile-High Club."
+            }
+        },
+        {
+            "id": "w_283484981ad865bb79a29e9d056b48e024d1af80",
+            "content": {
+                "en": "Trying to stifle laughter at the mere thought of Woodhouse tied up somewhere, scared, alone and probably dehydrated."
+            }
+        },
+        {
+            "id": "w_ee3bd7ca11d430cc54f8c987def7be83c3b73558",
+            "content": {
+                "en": "Trying to suck a promotion out of some Russian guy&apos;s cock."
+            }
+        },
+        {
+            "id": "w_6b993d26ce46f24b5884d14c0f709067438f007a",
+            "content": {
+                "en": "Underground fish fights with the Yakuza."
+            }
+        },
+        {
+            "id": "w_af599a7872087fd4b746d7a925a7d96c8da52ea3",
+            "content": {
+                "en": "Vincent Van Go-fuck-yourself."
+            }
+        },
+        {
+            "id": "w_099d0e7a07d6d62120350086e407f70b6f7151f2",
+            "content": {
+                "en": "Walking into NASA and yelling \"Heil Hitler\" to watch them all jump straight up."
+            }
+        },
+        {
+            "id": "w_9c9e5677a9560b2b86a9ee3c54931647a4499c20",
+            "content": {
+                "en": "Wearing ghost costumes to scare black people."
+            }
+        },
+        {
+            "id": "w_2d39b3b2737f6bc54210f4b6d8a5e3b1d2f4e20d",
+            "content": {
+                "en": "Whore Island."
+            }
+        },
+        {
+            "id": "w_e8edf31536cd1fafd1d1b9bd258d867a0d0411f0",
+            "content": {
+                "en": "World&apos;s gushiest orgasm."
+            }
+        },
+        {
+            "id": "b_2c74a1942668b922afa42b7fbf0b91570999d7a6",
+            "content": {
+                "en": "\"Don&rsquo;t blame me, it&rsquo;s those new low-flow toilets! With the old ones, you could flush ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c63b51e330974feda4e6d77cc0aefa6fab9f4e04",
+            "content": {
+                "en": "\"Lana, I&apos;m in love with you.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b06b95f606e2ec3b7969cd169a5236d040c15217",
+            "content": {
+                "en": "\"Lana, I&apos;m in love with you.\" \"You're also ______.\" \"I can be both.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_23dbf2be08cfef1c71f9b520051001c7e93ab9b4",
+            "content": {
+                "en": "\"Mom always said, \"Sterling, come in here and check me for ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_104ce0e9632df593a6fc980732943f6a7ce995a0",
+            "content": {
+                "en": "\"Oh, dear God."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f4432ed827130d8f01cd1ba2d045c6e75c9f4a5b",
+            "content": {
+                "en": "\"Sir, that stolen lemur bit one of your prostitutes right in the face. And she says she can't go to a hospital because she's, I quote, \"______\".\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c60a1fcb0d5b01145fd76c93732bc7ceb34a11a8",
+            "content": {
+                "en": "\"What does Mallory like?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_11da4bf2328e59bd11409b0102462f7ebf4e1747",
+            "content": {
+                "en": "\"What does Mallory like? ______ and ______ and liquor.\""
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_751a1f57ec7cc0b76701ceeac1a2658c2bcdcac3",
+            "content": {
+                "en": "\"What&apos;s wrong with her?\" ______. \"Gross.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddb2da8a72cca7e93000a58c5a1b7808f579c781",
+            "content": {
+                "en": "\"You're also ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9c963532debb9ab58ea99fa370669694e3752bb2",
+            "content": {
+                "en": "After eating cocaine yogurt, cupcakes, donuts, whipped cream, and pudding, Pam is now eating cocaine ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_46fdc8e217d2ce85045f070f98accc936059ca20",
+            "content": {
+                "en": "And I&apos;m just glad I have an erection that didn't involve ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_979c1ffbeb1cf5abcead22bf4f80a115e3edafb6",
+            "content": {
+                "en": "Aw, but look at him. All tied up like a sexy little Christmas ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a1c9451b73a189dd0506ead6bd53eb66601c6ccb",
+            "content": {
+                "en": "Because you walked into Stripper&apos;s Discount Warehouse and said, \"Help me showcase my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a6c1eddd829a97f42802401930d2bb0c0d478e94",
+            "content": {
+                "en": "Come on, it&apos;s an album cover, not ______! You got to sex that shit up sexy."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_350a8bcac8d7098f9567475ca41cd32f04efa399",
+            "content": {
+                "en": "Do you really want to open this can of trust-breachy worms right after I just caught you and my ex-boyfriend with ______ in the trunk?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a6db5d0a55f005d33c5a7384834e514d739b4e86",
+            "content": {
+                "en": "Do you want ______? Because that how you get them!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e03574ebd63d91c02bf11053235a6df7e6fed61",
+            "content": {
+                "en": "Don&apos;&trade;t blame me, it&apos;&trade;s those new low-flow toilets! With the old ones, you could flush ______. I mean, not that you would."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3326d63f1569adeef5860ada940e8fe2cf470f4e",
+            "content": {
+                "en": "For God&apos;s sake woman, are you hearing yourself? He&apos;s your son, not ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_611a7b08d67c316dc72e7471658cca8739073124",
+            "content": {
+                "en": "Ha! I'll outlast you. I&apos;m naked and I've got half a lime and almost, nearly two thirds of a half gallon of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_98b310b765d05454e2fe21631e7e26d244159d6f",
+            "content": {
+                "en": "Holy shit, was that out loud?\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6315b3dca565054d02aaf7841c58492d6943f93d",
+            "content": {
+                "en": "Holy shit, ______ is amazing! Why have I never tried it before?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6fb28cfdbdc347312efd55156e845a117f8c7c0b",
+            "content": {
+                "en": "How could this possibly get worse?\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20d9196771d080960df8cfe66f39df85affe9fa0",
+            "content": {
+                "en": "I am commandeering this ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_77294a94823304604c090429c5ade149dd70f7d5",
+            "content": {
+                "en": "I can be both ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ca1097d8397eeb45a6d7ddfb0cd12ffe4fe69a5c",
+            "content": {
+                "en": "I don't care who you are, when you get zapped with 50,000 volts, it&apos;s like, like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fce10f86594fca1fa533f6dfa7a2390613aec40b",
+            "content": {
+                "en": "I find one single dog hair when I get back, I'll rub...______...in your dead little eyes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7b46a3188c0dbb903ad6251aba10514b837fd16",
+            "content": {
+                "en": "I just started testing ______ on humans by dosing Danny the Intern&apos;s coffee."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f24c647fa7321f10587979cf4fe87ad4b42ca717",
+            "content": {
+                "en": "I just want to go on record as saying that ______ on the penthouse balcony is the absolute worst idea that I have ever heard in my entire goddamn life."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e1e9ba7372cf335bfce8494c84a680f30c25e53",
+            "content": {
+                "en": "I mean if I don't get some ______ I could literally die."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fde41c62ef0f04dcf551a06c3b3298613ffd0bba",
+            "content": {
+                "en": "I mean, not that you would.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c476e55e0c1797a4dd9feee2bff8f96586f627c6",
+            "content": {
+                "en": "I swear to god, you could drown ______ in my panties right now! ... Not that you would."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3da8dcb8f92ff8eed9c9f572da1996eb6dc5a5f8",
+            "content": {
+                "en": "I want to know how and why you are drunk at 6:00 AM. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0126ba2dba0994971109f411f1ba01c0e93aac6d",
+            "content": {
+                "en": "I will be on my tour bus putting ______ and glue inside me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f816b25e351b004c9099f37ba792b522d5b6e36b",
+            "content": {
+                "en": "I&apos;m going to die by ______, just like Cheryl&apos;s gypsy woman said!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bfc12ee547d479f01a5252f4b7c1bd05e10af7c3",
+            "content": {
+                "en": "I&apos;m going to go watch ______ and masturbate until my fingers bleed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01428f56b523856993e97c111a680eb05812c882",
+            "content": {
+                "en": "I&apos;m sorry - I can't hear you over the sound of ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67a533698e8b0abf2cf59fed585b7de2ce951a6a",
+            "content": {
+                "en": "I&apos;m talking about ______. From the Greek for, like, ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b3bc43d8be70b0789fa45c1c3332d8e30bfe50e1",
+            "content": {
+                "en": "I've seen the end of that movie, and spoiler alert! It ends with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f9072561ebdf09f31d22e1ee577c7cbd49ef1b44",
+            "content": {
+                "en": "In addition to sushi, booze, and soft cheeses, I&apos;m also supposed to abstain from ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6e155e58efbf313372acb495cd325e754cd83f86",
+            "content": {
+                "en": "It has to be your place. Mine totally reeks of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9a1a59ecc15349a6bf5982e33a4473f7b836cad",
+            "content": {
+                "en": "It&apos;s a good servant&apos;s worst nightmare."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d778dc8758e12a6cdbc855f59d98d8769af2db5e",
+            "content": {
+                "en": "Like you'd recognize a vegetable that wasn't wrapped inside of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fb0d76cd49e0e153cf3fe8f7c290c8264acf4a63",
+            "content": {
+                "en": "Mom always said, \"Sterling, come in here and check me for ______.\" Holy shit, was that out loud?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b96cdcbc9c11bfb48fd327836605d6b20028232",
+            "content": {
+                "en": "My girlfriend&apos;s not equal parts the Internet, a tube of Kentucky jelly, self-loathing and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_16396eb6a3f960f97be0a201a591754f81c46c19",
+            "content": {
+                "en": "Oh right, I forgot, your dick&apos;s full of ______ and ______ coupons."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3e17fa783f25d22585cbb6b2fcc81be62d4c6792",
+            "content": {
+                "en": "Oh, dear God. Telephone clanging away, and me trapped. It&apos;s a good servant&apos;s worst nightmare. How could this possibly get worse? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_659588d9b1aca334350271bd12a13f1e9601c938",
+            "content": {
+                "en": "People who like you because you have ______ aren't people you want as friends!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1aa85b4e526964a3f07654b75285ce011da97b4a",
+            "content": {
+                "en": "She wasn't too smart to die from eating ______, was she?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d85620dc675b59548568795b415e193db59fd892",
+            "content": {
+                "en": "So I get to go to the French Riviera on the ISIS dime. To do what exactly? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e14a17f16517c8177f2ca57429f3dffbf48d464",
+            "content": {
+                "en": "Stabbing ______ into your brain so you don't wind up giving blow jobs in a bus station toilet for cocaine."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4c79f66bc57cf0e2aa8b5ea736d89e4040641448",
+            "content": {
+                "en": "Surveillance, which is apparently French for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_031ac3a78365ff1d87a576708c15f2d2186b496a",
+            "content": {
+                "en": "Telephone clanging away, and me trapped."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9fd9690761ce3bb7b09fa92b3d30f77da302b45",
+            "content": {
+                "en": "The amount of ______ I would need to have sex with you would literally kill me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75625b319de5d1c88fb6f38d498e89b6cdc83dad",
+            "content": {
+                "en": "The truth is that your seemingly effeminate brother is, in fact, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e8404c4d959fd3448eb0febdc6928c990736350",
+            "content": {
+                "en": "There&apos;s not enough liquor and therapy in the world to undo ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e0fa813cb803d0631801eead1587728b73d29c0",
+            "content": {
+                "en": "They're fingers, Pam. Not ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5489a17b7f878e1b8fb345abc1260b1a2bdaeca",
+            "content": {
+                "en": "We put you in the freezer so we could unfreeze you in the future, once medical science had developed a cure for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de9cfef1a9be58287b52947b762ad124b5a846cd",
+            "content": {
+                "en": "We're kind of like the A-Team, but we sell ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c71b4ed3153df9b4e4f87711ead0dc656a76c68d",
+            "content": {
+                "en": "Well, you threatened to shove ______ up his dick hole. Which, again, ick."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c5653d8a58ba7b9a0585606db7212a8ea0509356",
+            "content": {
+                "en": "What would Lana do? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d1cc53698bd709f95e373db7b83d995ca22a9d6d",
+            "content": {
+                "en": "What&apos;s in the suitcase, Ron? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3468b9016d03ada88802fdf38568a1331a695895",
+            "content": {
+                "en": "What... umm... is in the Italian Prime Minister&apos;s ass? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4754e3d9e3aa61ab8e4ec3198683881ea9951604",
+            "content": {
+                "en": "What...uh...are you snorting off me? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d27dfcbf0d0f12858dbda7e42ff191f359ce05bc",
+            "content": {
+                "en": "Whoa. So my whole life, all I ever had to do was believe in myself? And inject ______ into my brain?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b3d0cb9422585c7a093479d64a3cc06913c7fde0",
+            "content": {
+                "en": "WOODHOUSE! Do we have any lube? Like at this point even some ______ would help."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c66ff70125302ec1fac5818ee386f7c156a45761",
+            "content": {
+                "en": "You could drown ______ in my panties."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_15f4fa04bdb2ba8f0574ebcb2f835ac238da7c41",
+            "content": {
+                "en": "You didn't think it was weird that your chemo drugs were ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c570bd3dfb4c558dc2b9e7c665c83a06eb826938",
+            "content": {
+                "en": "You hear 'beanbag', and you think Beanie Baby, not ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c498dbdc832dc85c1be48693890ee63eb2a5e9ca",
+            "content": {
+                "en": "You killed ______. That&apos;s like killing a unicorn."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2623e96a822daf954d2310f303413efb6f9d835d",
+            "content": {
+                "en": "You really spent your entire inheritance on ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e2b4202f5b49e608938026fd9f36607b74ce58bf",
+            "content": {
+                "en": "You're not my supervisor! Wait, who is my supervisor? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7451a2b31b13ae1a4c7607dd439e030eaf59a38",
+            "content": {
+                "en": "______ and ______ and liquor.\""
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fe01fc4076ffc83ab782febce85a92f47b0cc360",
+            "content": {
+                "en": "______ comes from Mexicans? Oh my God, what&apos;s ______ made from?!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a2c62c0d7195054db958d69a229f139d8f95c0e2",
+            "content": {
+                "en": "______ is like 95% of what I do."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_32614d94e2f8f0d500cbb4073917548d59a320ea",
+            "content": {
+                "en": "______ is the reason I don't have sex with my co-workers. That...and no one ever lets me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f830ddc834352719422d39526ab63bd5a45e047",
+            "content": {
+                "en": "______! Now that&apos;s the song you should write!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5aef3e9c30aef63e584ed3fd93566a79940020f9",
+            "content": {
+                "en": "______? In a Margarita? What is this, Auschwitz?"
+            },
+            "pick": 1
+        }
+    ]
+}

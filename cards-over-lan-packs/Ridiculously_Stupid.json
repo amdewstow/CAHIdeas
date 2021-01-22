@@ -1,0 +1,1009 @@
+{
+    "id": "Ridiculously_Stupid",
+    "name": "Ridiculously Stupid",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_ce972f5a5135c16c0498ebf31dad3332494b292d",
+            "content": {
+                "en": "360 no scopes."
+            }
+        },
+        {
+            "id": "w_c51f1b06496df3f7aa33d458d4c9cfc55f5e3ecf",
+            "content": {
+                "en": "A 1971 Ford Pinto."
+            }
+        },
+        {
+            "id": "w_af871e2e6d141b2a5583d4e8b11129e68c65b352",
+            "content": {
+                "en": "A boat load of cocaine."
+            }
+        },
+        {
+            "id": "w_916f9bd857f13237551f581a158ad4eff124d511",
+            "content": {
+                "en": "A giant purple dildo sword."
+            }
+        },
+        {
+            "id": "w_361ca2b282655ccd8cc4c7f0bfe31080f7a6ec03",
+            "content": {
+                "en": "A walrus with a beret."
+            }
+        },
+        {
+            "id": "w_80b7bac03909fb9943d7bf5d84ba4af9fabaa560",
+            "content": {
+                "en": "Abusive fathers."
+            }
+        },
+        {
+            "id": "w_2ebe316cbdf3cb7d4bb1e8d9cf38a7a2ce1d7cbc",
+            "content": {
+                "en": "Air Bud."
+            }
+        },
+        {
+            "id": "w_ed70f8a3169f5e47acd30b007bd373d838b8996a",
+            "content": {
+                "en": "ALL the things!"
+            }
+        },
+        {
+            "id": "w_0cbf58ad07674033797ccaa3c9cc2248a97558ee",
+            "content": {
+                "en": "An 8-ball."
+            }
+        },
+        {
+            "id": "w_168d90f41b2310896cafaba16fbb0869323ceb3e",
+            "content": {
+                "en": "Apples to Apples&#194;&reg;."
+            }
+        },
+        {
+            "id": "w_f7f646cc0c5ba4705ac637cc2ff10db30acf38b5",
+            "content": {
+                "en": "Banana Hammocks."
+            }
+        },
+        {
+            "id": "w_b8c421cc087df4b534673fd6dcecb7633943acc3",
+            "content": {
+                "en": "Barney&apos;s rape dungeon."
+            }
+        },
+        {
+            "id": "w_b852e2c25dcd6f903ada05e276c46045675e7360",
+            "content": {
+                "en": "Beer Pong."
+            }
+        },
+        {
+            "id": "w_01a33f1b220b68eaab5fa7166db1c79c5aae8e4f",
+            "content": {
+                "en": "Bill Gates pissing on Steve Jobs&apos;s grave."
+            }
+        },
+        {
+            "id": "w_8f88b5e5d4e51a2160b67d916e46feac1268e77b",
+            "content": {
+                "en": "Blowing the President."
+            }
+        },
+        {
+            "id": "w_9d918c51e9a814645c7d2a1bc81990c99176a53d",
+            "content": {
+                "en": "Blowing your hand off with a firework."
+            }
+        },
+        {
+            "id": "w_d684ea354353c8ae8b3d86c0130e95d2630be7b7",
+            "content": {
+                "en": "Blue&apos;s Clues."
+            }
+        },
+        {
+            "id": "w_aaac6f6e2dcc5dbf24068b34ea3777e6932aed49",
+            "content": {
+                "en": "Bong hits for Jesus."
+            }
+        },
+        {
+            "id": "w_e18bd540435fad136ebd395db2f8ad8948978488",
+            "content": {
+                "en": "Borat&apos;s one piece."
+            }
+        },
+        {
+            "id": "w_6bc9dc22cd3c9f07835e1c693dd672455244d67c",
+            "content": {
+                "en": "Canadian Kindness."
+            }
+        },
+        {
+            "id": "w_58ce334a44eef3e7b30f420a3706bb6f673ee904",
+            "content": {
+                "en": "Canadian tuxedo."
+            }
+        },
+        {
+            "id": "w_00a688c5962ebe5f7b47ba7bbd8e6b748f27961d",
+            "content": {
+                "en": "Catdog."
+            }
+        },
+        {
+            "id": "w_cf80512c3bd031d42e700b4ccf8a2ad86d782b3e",
+            "content": {
+                "en": "Chicken and Waffles."
+            }
+        },
+        {
+            "id": "w_c382a9ede6e23f21e61fc8a346a83eea6213f4ea",
+            "content": {
+                "en": "Cranky Kong."
+            }
+        },
+        {
+            "id": "w_8b171e452293f4657d45620c807bbf397d36a3b4",
+            "content": {
+                "en": "Demi Moore&apos;s bush."
+            }
+        },
+        {
+            "id": "w_92c49a2eeca7531c3185bb2442a5bc7e6bedc981",
+            "content": {
+                "en": "Dirty hippies."
+            }
+        },
+        {
+            "id": "w_40be73a9f7dc83069ee42a785cc4f7aa8412bb97",
+            "content": {
+                "en": "Donkey Shows."
+            }
+        },
+        {
+            "id": "w_998833f881faea8c3cb79210ff844c489590cc05",
+            "content": {
+                "en": "Duke Nukem Forever."
+            }
+        },
+        {
+            "id": "w_7c7b46705cbbcf9362f4a4cd2a8233646f410257",
+            "content": {
+                "en": "Eating 120 White Castle burgers&#194;&reg;."
+            }
+        },
+        {
+            "id": "w_635103db1a17c16a7e6a679e66f73016fdda6d10",
+            "content": {
+                "en": "Four Loko."
+            }
+        },
+        {
+            "id": "w_b12901b06544c93242839820bb3847cc4d33f766",
+            "content": {
+                "en": "FrankerZ."
+            }
+        },
+        {
+            "id": "w_bc9905906c51470aecff23c2f68131d31f9a8066",
+            "content": {
+                "en": "Fruit Fuckers."
+            }
+        },
+        {
+            "id": "w_6c2e7d70e1d17c214fb699b35db682382043d9a3",
+            "content": {
+                "en": "Gerudo Valley."
+            }
+        },
+        {
+            "id": "w_158ae1c4af01fd2c3a9c4641fe11889d339c6cd2",
+            "content": {
+                "en": "Getting high on bath salts."
+            }
+        },
+        {
+            "id": "w_e7eb9bf59b90b68e14e848c11af52db459a5bfff",
+            "content": {
+                "en": "Hentai."
+            }
+        },
+        {
+            "id": "w_3a9e6292d29f6b72828d9cf4c0c08a7190ed6760",
+            "content": {
+                "en": "Hey Arnold!"
+            }
+        },
+        {
+            "id": "w_4e35e16314b109862fc0fe2546fda7804dd4481d",
+            "content": {
+                "en": "Hipsters on their iPhones at Starbucks."
+            }
+        },
+        {
+            "id": "w_065b8cbeaf56003b090ea3c16133cb9dba4463d9",
+            "content": {
+                "en": "Hitler&apos;s mustache."
+            }
+        },
+        {
+            "id": "w_754ea9bbf3a4e26d26eb8c0e5b656a64f4aea54a",
+            "content": {
+                "en": "Hoola hoops."
+            }
+        },
+        {
+            "id": "w_656789c7d9f44c9adb2ebb5e14445d7e5418720a",
+            "content": {
+                "en": "Hooters."
+            }
+        },
+        {
+            "id": "w_d17b32bbbc0ebf607754a106d0a340632e8174a6",
+            "content": {
+                "en": "Hordes of zombies."
+            }
+        },
+        {
+            "id": "w_6753563e843d00df1f44421ed63d93d778ac95b2",
+            "content": {
+                "en": "Hump Day."
+            }
+        },
+        {
+            "id": "w_3357e9a7a7c9b4a9448be45722e4d698bda673c2",
+            "content": {
+                "en": "Hungry Hungry Hippos."
+            }
+        },
+        {
+            "id": "w_3757961c9af25914b0e8cff94483b3973459bcb7",
+            "content": {
+                "en": "Indentured servants."
+            }
+        },
+        {
+            "id": "w_e31207429a23358331bc39b48667c889ff0276b4",
+            "content": {
+                "en": "Indiana Jones."
+            }
+        },
+        {
+            "id": "w_5c92fba779055e620a0a884cef7537c27b8a43ad",
+            "content": {
+                "en": "Insane Clown Posse."
+            }
+        },
+        {
+            "id": "w_710ba9fdaf4a234f6678fcc80cbeaef47865cc65",
+            "content": {
+                "en": "Jew-Fros."
+            }
+        },
+        {
+            "id": "w_43caf3e5870c98961f66939c0d268292c9847ae2",
+            "content": {
+                "en": "Kaizo Mario."
+            }
+        },
+        {
+            "id": "w_34badd36a39d1730a2e672eb5f94e771b65af950",
+            "content": {
+                "en": "Kappa."
+            }
+        },
+        {
+            "id": "w_5cae0439854712eaebc425a464b67c9e0cf6949b",
+            "content": {
+                "en": "Lemon grenades."
+            }
+        },
+        {
+            "id": "w_9febb89590ff2fa6fb87cc1936fdfa97198cd690",
+            "content": {
+                "en": "LOOK AT THIS PHOTOGRAPH!"
+            }
+        },
+        {
+            "id": "w_ea80da6775c11c1e4b0939862aa8e95acb1e30f5",
+            "content": {
+                "en": "Made-for-TV movies."
+            }
+        },
+        {
+            "id": "w_1246b25cf89da8b9a6bdf7aebb4ba365a74123fa",
+            "content": {
+                "en": "Mario brutally murdering Sonic."
+            }
+        },
+        {
+            "id": "w_f14e75aac5e22ac9dddaf2361f1f43eb7a8447ae",
+            "content": {
+                "en": "Master Chief."
+            }
+        },
+        {
+            "id": "w_86724345ca1b8c462d92dad288936d89881652c4",
+            "content": {
+                "en": "Mating season."
+            }
+        },
+        {
+            "id": "w_46d6c657a0a8f9a7c12c98ec0d9dc5556d380e9c",
+            "content": {
+                "en": "Monkeys throwing shit."
+            }
+        },
+        {
+            "id": "w_88218562a46938d4d89b0bb7641cf21afe7225c7",
+            "content": {
+                "en": "Mountain Dew&#194;&reg; Baja Blast."
+            }
+        },
+        {
+            "id": "w_252f2ed0a1136b8fe6c350d3525559b44871e55c",
+            "content": {
+                "en": "Mr. Fancy Pants."
+            }
+        },
+        {
+            "id": "w_049fb2269080a05c1b45bc93ca266a58c67b1543",
+            "content": {
+                "en": "Mr. Hankey the Christmas Poo."
+            }
+        },
+        {
+            "id": "w_7ac3b346c3c1baac486d13ee421f8156d0808c6d",
+            "content": {
+                "en": "Nessie."
+            }
+        },
+        {
+            "id": "w_9ab0a2c7b24df4acb1353c46cd300885d6360fd4",
+            "content": {
+                "en": "Nu Metal."
+            }
+        },
+        {
+            "id": "w_88addb1db90626449ead1e63ed1c8df37aac800a",
+            "content": {
+                "en": "Nurse Joy."
+            }
+        },
+        {
+            "id": "w_e9ca83f93da98d26a50d449a34fba4b4a731682b",
+            "content": {
+                "en": "Outsourcing jobs to India."
+            }
+        },
+        {
+            "id": "w_a0643593c8f43c4c1c82abdef1815cb96b21916d",
+            "content": {
+                "en": "Penn and Teller."
+            }
+        },
+        {
+            "id": "w_e3f7c08703fd1a63d09883708bb754a81971d4a8",
+            "content": {
+                "en": "Poorly written Star Wars&#194;&reg; fan fiction."
+            }
+        },
+        {
+            "id": "w_666d852fb306a72648003b760abacddf501aae0b",
+            "content": {
+                "en": "Princess Peach&apos;s Cake."
+            }
+        },
+        {
+            "id": "w_551e227d336bce3f6a71e18b6ea24faf178b9b3f",
+            "content": {
+                "en": "Quiznos&reg;."
+            }
+        },
+        {
+            "id": "w_340ea954ccc6255d1bbd8cc2795537d9daad82f5",
+            "content": {
+                "en": "Rainbows and magic."
+            }
+        },
+        {
+            "id": "w_a138688af3a5f670179fc87f27a4c7375ed01e19",
+            "content": {
+                "en": "Rich, chocolatey Ovaltine&#194;&reg;."
+            }
+        },
+        {
+            "id": "w_6cac6dee7ba6f5782e6404cdfa1e4445ad3aec17",
+            "content": {
+                "en": "Ringworm."
+            }
+        },
+        {
+            "id": "w_56822c9685a73d00fbdd3e15c092c21d1c0bf353",
+            "content": {
+                "en": "Rule 34."
+            }
+        },
+        {
+            "id": "w_17a7f1a3b3b6f8252272c397965b490e18d1c70b",
+            "content": {
+                "en": "Scotsman marring their sheep."
+            }
+        },
+        {
+            "id": "w_00d200d7095202b405ad3b4af201210569f990f8",
+            "content": {
+                "en": "Sex in your mouth."
+            }
+        },
+        {
+            "id": "w_af5072bf6c8096ac6f40d76c8947313fe1500b22",
+            "content": {
+                "en": "Shag carpeting."
+            }
+        },
+        {
+            "id": "w_78d4f8918bcddeab5768bc4d5b9b11c0abd74daf",
+            "content": {
+                "en": "Sheepskin Condoms."
+            }
+        },
+        {
+            "id": "w_c48ed4479262f1e6574027c27bb9294f206dbfd3",
+            "content": {
+                "en": "Shitting on the White House lawn."
+            }
+        },
+        {
+            "id": "w_3a7e08563f81f75aafc1063611aeed5f59bf1d66",
+            "content": {
+                "en": "Skullcrusher Mountain."
+            }
+        },
+        {
+            "id": "w_3a1fa793651364e6679ac82fe3570efea4489d4a",
+            "content": {
+                "en": "Smooth jazz."
+            }
+        },
+        {
+            "id": "w_f7e29492e216681368b44bda32de9e25d646e828",
+            "content": {
+                "en": "Snorting Pixie Stix."
+            }
+        },
+        {
+            "id": "w_b14ceb3702ec79d0b659c8ad64e00408de4661c3",
+            "content": {
+                "en": "Song of Storms."
+            }
+        },
+        {
+            "id": "w_39980b4dc2b6d19eb718e79e7728c50f30705176",
+            "content": {
+                "en": "Sonic brutally murdering Mario."
+            }
+        },
+        {
+            "id": "w_8b620bb8c0f336ba83e1c3d9cc886343a457ab06",
+            "content": {
+                "en": "Soviet Russia."
+            }
+        },
+        {
+            "id": "w_cd8c8346015a9ef37d74f6643f6f995ce2bb2767",
+            "content": {
+                "en": "Spanish soap operas."
+            }
+        },
+        {
+            "id": "w_7e89777955bb8343ddb3382ce2f86fa5ee06dbcc",
+            "content": {
+                "en": "Speedrunning life."
+            }
+        },
+        {
+            "id": "w_d1043bf2396dd89e8f3f7f405dec06810c429957",
+            "content": {
+                "en": "Sponge baths."
+            }
+        },
+        {
+            "id": "w_9ffa299464e7c71062d861b2ecbe92550f15a264",
+            "content": {
+                "en": "Spontaneous Combustion."
+            }
+        },
+        {
+            "id": "w_9aaf016c08f2a22082117ac723130789d3e77c1b",
+            "content": {
+                "en": "Teh Urn."
+            }
+        },
+        {
+            "id": "w_37e7c9d9a43c61b35bcffa65baef7c9f9e7771dd",
+            "content": {
+                "en": "Terabytes of horse porn."
+            }
+        },
+        {
+            "id": "w_bc7d0c93d8933354e64bef186593917cce4b06b7",
+            "content": {
+                "en": "The Bible."
+            }
+        },
+        {
+            "id": "w_f4879a761bf39706827f85340ba0a4481a0bf758",
+            "content": {
+                "en": "The brown note."
+            }
+        },
+        {
+            "id": "w_7481d649633890213241702ce09d3505228d2792",
+            "content": {
+                "en": "The Columbine Shooting."
+            }
+        },
+        {
+            "id": "w_8dacd69657f3f7fa33a8ea58c41e30a6561c42ea",
+            "content": {
+                "en": "The DK Rap."
+            }
+        },
+        {
+            "id": "w_abbbdf49e8d6a676d2f1388ddce49bc5343f51ec",
+            "content": {
+                "en": "The Eiffel Tower."
+            }
+        },
+        {
+            "id": "w_280824a4fb782a0dc5e608517c65335b89554cb4",
+            "content": {
+                "en": "The final circle of Hell."
+            }
+        },
+        {
+            "id": "w_e2f2363707880595e544f3770feb711a42e2a5cf",
+            "content": {
+                "en": "The hero of time."
+            }
+        },
+        {
+            "id": "w_fe6a2f5857b882dcd36ee9e32fbc809120b860be",
+            "content": {
+                "en": "The Hokey Pokey."
+            }
+        },
+        {
+            "id": "w_185e0548c9bd1245061d153f59f607b739809fd9",
+            "content": {
+                "en": "The Mushroom Kingdom."
+            }
+        },
+        {
+            "id": "w_ced6ae3b5822e2037a77c0f8a7fee1fb95c7a57e",
+            "content": {
+                "en": "The Oculus Rift."
+            }
+        },
+        {
+            "id": "w_81793c455a9a9e17d6805749327732007cc45e24",
+            "content": {
+                "en": "The Ouya."
+            }
+        },
+        {
+            "id": "w_65a90de354b7affc6f905936d5acc5790d5eba55",
+            "content": {
+                "en": "The shitty remains of Taco Bell&#194;&reg;."
+            }
+        },
+        {
+            "id": "w_519780ef2c292855cad075e2bfcae6ecee6a9379",
+            "content": {
+                "en": "The tears of a college student."
+            }
+        },
+        {
+            "id": "w_f430cc5f30f9f412852fa6ea977616317c8c4e06",
+            "content": {
+                "en": "The truffle shuffle."
+            }
+        },
+        {
+            "id": "w_ced4483900e490c510d7d7cbb626f8ff750ca43b",
+            "content": {
+                "en": "The Wiggles."
+            }
+        },
+        {
+            "id": "w_e1ef7d64e56547b4f9266fbd3c21792673a75ddf",
+            "content": {
+                "en": "The world&apos;s tallest midget."
+            }
+        },
+        {
+            "id": "w_89dd4f54c4a1b81e9261936c02ad53bd0e2e657b",
+            "content": {
+                "en": "Tickle Me Elmo."
+            }
+        },
+        {
+            "id": "w_2c6f56a2e31026081f3f136f5188b266727c3ea0",
+            "content": {
+                "en": "Tits."
+            }
+        },
+        {
+            "id": "w_8c37cdd74c56c6f851227e8cffb9184dc695edd5",
+            "content": {
+                "en": "TotalBiscuit&apos;s top hat."
+            }
+        },
+        {
+            "id": "w_ab4b6664f6e78c3eab2742087b9b5bb79a9560c1",
+            "content": {
+                "en": "Two midgets stacked up pretending to be one person."
+            }
+        },
+        {
+            "id": "w_7d43f7e0afa8b21f396401f5049bedbcd7e34ddf",
+            "content": {
+                "en": "Using hot sauce as lube."
+            }
+        },
+        {
+            "id": "w_b085d15630aab48f08aaed4bc6025a7fb719799d",
+            "content": {
+                "en": "Viking Metal."
+            }
+        },
+        {
+            "id": "w_9493e5ade8f90ca200d5d5488aa7d9176a4262db",
+            "content": {
+                "en": "Walt Disney&apos;s frozen head."
+            }
+        },
+        {
+            "id": "w_c3bbe1dc82f05c3be4dd398e63ec2b3c5920826a",
+            "content": {
+                "en": "Xyzzy playing around with gender roles."
+            }
+        },
+        {
+            "id": "w_415972191dcf1f28a431bed41e42604e77459d64",
+            "content": {
+                "en": "Yankee Stadium."
+            }
+        },
+        {
+            "id": "b_f2001023d95f7c843cea50025a02b40eeb8d3cba",
+            "content": {
+                "en": "Dustin Browder demands more ______ in StarCraft&#194;&reg;."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_247c44097013c17eb28fc94df75b0f9d3558755a",
+            "content": {
+                "en": "I never thought ______ would be so enjoyable."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3db2e8aad37b074d09b26d4956411b8f935c848e",
+            "content": {
+                "en": "I whip my ______ back and forth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9a9511f3c7e1be624150a16e3889106efbc8c98b",
+            "content": {
+                "en": "I wouldn't fuck ______ with ______&apos;s dick."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_99b4d8737aacdedfd3f37c1a7473228d1018b4a6",
+            "content": {
+                "en": "I've got the whole world in my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0e82b920a3922fa843448794e6c540aaabc2c88",
+            "content": {
+                "en": "In his next movie, Will Smith saves the world from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc95273415ac0f32459156dfeb83179e16252d01",
+            "content": {
+                "en": "In his second term, Obama will rid America of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b6eb14e9e2b31def2d6bcdda619060d67a622252",
+            "content": {
+                "en": "In the future, ______ will fuel our cars."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f4ae2139ef1edf9f0709bb4c23ef10eda5055dc",
+            "content": {
+                "en": "In the next episode, SpongeBob gets introduced to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_809f9d5c76ce272b9cc1390767becde428cb95e1",
+            "content": {
+                "en": "In the next Punch Out!!, ______ will be the secret final boss."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21c6602fe5c9bad4a5934ec8fe75c60fcc34f9d5",
+            "content": {
+                "en": "Instead of playing Cards Against Humanity, you could be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_be8b2adc41c3a139ef661f3c71f80326b5f2eab5",
+            "content": {
+                "en": "Justin Beiber&apos;s new song is all about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_158dca84a7b28fbcb1d2165a0a9376fde5352857",
+            "content": {
+                "en": "Keith Richards enjoys ______ on his food."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f514e6ad25a22c6e3a7ff00c45eeef0fe331786d",
+            "content": {
+                "en": "Lady Gaga has revealed her new dress will be made of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7af67f1925c53109c3b2f97694e8ae44ad6f73a1",
+            "content": {
+                "en": "My life for ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d647b379e5ecda52f69ab1281c757a9866d48c46",
+            "content": {
+                "en": "n a news conference, Obama pulled out ______, to everyone&apos;s surprise."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0d73f14d95ceb5ed5668868ff3ac158c9a5498d",
+            "content": {
+                "en": "Nights filled with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0b586c136cce5c5e21a63d09a9df30959b9e71d",
+            "content": {
+                "en": "One does not simply walk into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_db024803d43d194cb702cf4dcaf1bad543774544",
+            "content": {
+                "en": "Plan a three course meal. ______, ______, ______"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_8b47a2fe5f21daf056f606d8da579b66f8bd50cb",
+            "content": {
+                "en": "Praise ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f21ee52d348ca52674c155e618a3b4135b09079",
+            "content": {
+                "en": "Tastes like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aeacee84e8f1304efd32553b3c6a567c863d198b",
+            "content": {
+                "en": "The lion, the witch, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cf97617c8f9f5e6b4b51043446f1d2c912058706",
+            "content": {
+                "en": "The new fad diet is all about making people do ______ and eat ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9ad75b337a4886692db11b018317a51ec798df81",
+            "content": {
+                "en": "The next Assassin&apos;s Creed game will take place in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f2266b48a2de0ee026b3f69d6c96f25f71823c1",
+            "content": {
+                "en": "The next pokemon will combine ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f25e88185312ad12dec3f2fead495503c12eb71f",
+            "content": {
+                "en": "The victim was found with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dc594faac1c40d7c596623d65b1c58c64c2e31e8",
+            "content": {
+                "en": "Welcome to my secret lair on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_553ef418e721706d0613c6398948e47cdf4e81e3",
+            "content": {
+                "en": "What can you always find in between the couch cushions? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_be04af5045ada0cc7faaa4f7e26df0bfa7313988",
+            "content": {
+                "en": "What is Curious George so curious about? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_023d11185ad3f656815c14947206edfbd059cf33",
+            "content": {
+                "en": "What is Japan&apos;s national pastime? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c89640c9fe1cef3d91f7360d0c3c3634fa0e6f4e",
+            "content": {
+                "en": "What is literally worse than Hitler? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9c4a5fd5423ec04f8bfa36133e6a2ae801d88237",
+            "content": {
+                "en": "What is love without ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2cc0daa4280310e76d2a6f745c9f0d6ba4fdd5b6",
+            "content": {
+                "en": "What is the answer to life&apos;s question? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34928eb8d5e69b298e01e9c4787a3fecb250326a",
+            "content": {
+                "en": "What is the next big sideshow attraction? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_988931b6409cb77185002479f1747175eb413019",
+            "content": {
+                "en": "What is the next great Kickstarter project? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_133c28551d953e754f46cb3bfceb3541b9116ad8",
+            "content": {
+                "en": "What was going through Osama Bin Laden&apos;s head before he died? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4602739ab77c29bbe82bd4cec8477f4a8daa496f",
+            "content": {
+                "en": "What will Xyzzy take over the world with? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d16e82433bfccd4758c9d0eb47a54926df22b30",
+            "content": {
+                "en": "When North Korea gets ______, it will be the end of the world."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_993e1653af2415f89f498ac6dc7e3404c6b26d6c",
+            "content": {
+                "en": "When short on money, you can always ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba62655db331cee0ca1ca0b4c1c2cd2f7f42abc4",
+            "content": {
+                "en": "Who is GLaDOS&apos;s next test subject? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d693e0d396fd8d9dd3c4663b58592888f8ab6c2",
+            "content": {
+                "en": "Who let the dogs out? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd474f0f704780d35153571a3e9e4995ca07f051",
+            "content": {
+                "en": "Who needs college when you have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_64b67536f180bd4c8643bbc373acb575f510bb2c",
+            "content": {
+                "en": "______ 2012."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_22c89f496fb593790402b91b8587236b7be48f42",
+            "content": {
+                "en": "______ and ______ are the new hot couple."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_288f86d1794fa6cb0ed8388bc5b9a509686b4c7c",
+            "content": {
+                "en": "______ Game of the Year Edition."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_26e4e6a0d368d036bd266554a345546d7cde1d53",
+            "content": {
+                "en": "______ ruined many people&apos;s childhood."
+            },
+            "pick": 1
+        }
+    ]
+}

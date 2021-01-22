@@ -1,0 +1,359 @@
+{
+    "id": "Baseball",
+    "name": "Baseball",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_3e21418bea4c8b4fe84bae735a8ff8a97a3ae0c3",
+            "content": {
+                "en": "a big bowl full of greenies"
+            }
+        },
+        {
+            "id": "w_ba59568b8ac8e834c8d5e8b0081356a55c920ac2",
+            "content": {
+                "en": "A Jose Canseco Milkshake"
+            }
+        },
+        {
+            "id": "w_e12ae475840f016a9927cd2449ea796ec82efd2d",
+            "content": {
+                "en": "a LOOGY"
+            }
+        },
+        {
+            "id": "w_0a1655f4bfe6bf413a4523dddb150ceefedaf0d1",
+            "content": {
+                "en": "A mustachioed man named Sud Belig"
+            }
+        },
+        {
+            "id": "w_aa9ff9448bfc3ddba6f62f158828dca96295a04b",
+            "content": {
+                "en": "BALCO"
+            }
+        },
+        {
+            "id": "w_2d5b2a9be322777ffe4ce11a3f6747f6e45e9e9b",
+            "content": {
+                "en": "Barry Bonds' Syringe"
+            }
+        },
+        {
+            "id": "w_8670d698bfe1b5c70a083ae28842ec81f9a194bd",
+            "content": {
+                "en": "Barry Zito drinking his own ejaculate"
+            }
+        },
+        {
+            "id": "w_3ed893fb632573d182905f6bee522435c3f4c4d0",
+            "content": {
+                "en": "Bartolo Colon&apos;s Colon"
+            }
+        },
+        {
+            "id": "w_be9533b1ac79d7211e86fcd3bb859ab4e76cd5d6",
+            "content": {
+                "en": "Brian McCann yelling at a T Ball team"
+            }
+        },
+        {
+            "id": "w_15c69bc0197c82ffc3b3a1863011a87399d8a8db",
+            "content": {
+                "en": "Bud Selig&apos;s rotten, decrepit corpse"
+            }
+        },
+        {
+            "id": "w_ae43d350c119dfc97922f39e25ae2fab0ef5b71d",
+            "content": {
+                "en": "drunk Phillies fans"
+            }
+        },
+        {
+            "id": "w_32f39c89c15a1adcd3370941ceb911b541e6263e",
+            "content": {
+                "en": "Josh Hamilton on a meth bender"
+            }
+        },
+        {
+            "id": "w_94867d129caebaa5e5e223b6946f85ec405ed210",
+            "content": {
+                "en": "Josh Reddick&apos;s card board box house"
+            }
+        },
+        {
+            "id": "w_583a5c85320806b90eea081a8520c3f68151b9c8",
+            "content": {
+                "en": "Juan Uribe eating at a buffet"
+            }
+        },
+        {
+            "id": "w_ecff281ced14f7aa35708e36e6352586d2796558",
+            "content": {
+                "en": "Making a spitball with testicle sweat"
+            }
+        },
+        {
+            "id": "w_50ec0155884923e0bfadf6b968ba8797f9036af3",
+            "content": {
+                "en": "Mickey Mantle getting a blow job under the bleachers"
+            }
+        },
+        {
+            "id": "w_4d715b3d91bbf37f98349b0411293787b93e8dc6",
+            "content": {
+                "en": "Milton Bradley Beating His Wife"
+            }
+        },
+        {
+            "id": "w_4d2311349b1ed843c1f2a457e33fce9462c11ba3",
+            "content": {
+                "en": "Old Hoss Radbourn"
+            }
+        },
+        {
+            "id": "w_b63a8c97af544e5d0250a96195ff0350bc06a5e5",
+            "content": {
+                "en": "OUR LORD AND SAVIOR BARROLD LAMAR BONDS"
+            }
+        },
+        {
+            "id": "w_d9285d6322a4b9c7ffb3e2bafa739c8bcadb91c1",
+            "content": {
+                "en": "Pete Rose getting into the Hall of Fame"
+            }
+        },
+        {
+            "id": "w_ad78d295a47652ce3dcc4cad726c89991bcbaad8",
+            "content": {
+                "en": "Prince Fielder&apos;s Jock Strap"
+            }
+        },
+        {
+            "id": "w_01e93d0e1041a6bf9d890a35b918824100511ca9",
+            "content": {
+                "en": "Puig&apos;s Bat Flip"
+            }
+        },
+        {
+            "id": "w_2c80b75b9e6bdc6b7f07ba7fb38448217401910b",
+            "content": {
+                "en": "Ron Washington&apos;s Coke Spoon"
+            }
+        },
+        {
+            "id": "w_10dc566ffc1fffa0db90cee33492f154b817cabb",
+            "content": {
+                "en": "Stargell Stars"
+            }
+        },
+        {
+            "id": "w_55ee2208b8eb031c731420dbed3881a811997a2a",
+            "content": {
+                "en": "The entire Dodgers bullpen catching Magic Johnson&apos;s AIDS"
+            }
+        },
+        {
+            "id": "w_06d613f0b6ab74a1eb4ffc5f2e4e52aa900a2696",
+            "content": {
+                "en": "The Millville Meteor"
+            }
+        },
+        {
+            "id": "w_ebcb31b90b149c74ea60343a6a43f1d87bc26ef9",
+            "content": {
+                "en": "Ty Cobb in blackface"
+            }
+        },
+        {
+            "id": "w_191ebdd523937c185ee637ea50e27a8aaa8aaf4e",
+            "content": {
+                "en": "YEAH JEETS! .."
+            }
+        },
+        {
+            "id": "b_401e4758b9c1c939f44121e3e65dc7695a41b14c",
+            "content": {
+                "en": "Besides sabermetrics, what else is keeping the Athletics competitive year after year?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b5193af4114b6615f8c4b65cd285ae13ea147131",
+            "content": {
+                "en": "Clayton Kershaw has renamed his curveball ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9047a6717fa5e712594c16b51264d0fa858074ed",
+            "content": {
+                "en": "Derek Jeter has been knows to give ______ to his one night stands."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cfe78f874b3b9af9e8dd1c743385a06af1cd21df",
+            "content": {
+                "en": "During his no hitter Doc Ellis was actually on a combination of LSD and ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b50c656776681c8416011d92691d540764c27e4c",
+            "content": {
+                "en": "In an effort to appease sensitive baseball fans, the Cleveland Indians will now be known as the Cleveland ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6dbcd7804d60c863211b0aa9979720a92b502796",
+            "content": {
+                "en": "In protest of a poor call, Braves fans threw ______ onto the field."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d3e0b4c5e1a144bd83d1771a77bc5bd1fe70fd0",
+            "content": {
+                "en": "It was a case of \"Manny being ______\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f0bae75b6a533c79ae7483e7921c4a4660e7033",
+            "content": {
+                "en": "Jim Joyce blew Gallarraga&apos;s perfect game because he was busy thinking about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_26fb43efe20ed5cd14f7c5c5851a714a979de8a3",
+            "content": {
+                "en": "New rules in 2014 protect ______ from ruining our National Pastime"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e10e35eb15a93689d630044954b6033da8942fbd",
+            "content": {
+                "en": "Only ______ is more charming than Fenway Park"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2023f432c3547fcefa17e213771c8576a5bbd8b",
+            "content": {
+                "en": "Pete Rose will finally get into the Hall of Fame when it is revealed that his gambling was all an elaborate cover for ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7a3489798e463093264d4e95c2c31ef2c2bf663",
+            "content": {
+                "en": "St. Louis Cardinal fans claim they have the best ______ in baseball."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_60ebf271d096ef9c09c626a4682d00c8da0b893a",
+            "content": {
+                "en": "The Chicago Cubs will finally win another World Series once they break the long-forgotten Curse of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6399dd08d7a392032fda1f2e71de9c0f80687b2f",
+            "content": {
+                "en": "The Dodgers dropped down to the lowest payroll in baseball after purchasing ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd437425d1e276fcba6702b17e5b7b7d39e90bcf",
+            "content": {
+                "en": "The key to pitching into your 40&apos;s is ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3d40d53fead5fe5d92763f3bc08115f706fe82f4",
+            "content": {
+                "en": "The Red Sox have renamed the Pesky Pole as the ______ Pole"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8331cf806257ff41c88a89296fd46d21e6faaf40",
+            "content": {
+                "en": "The resin bag at PNC park has now been replaced by ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34a9d435c02f90f88cc5e13ded74bc646293c279",
+            "content": {
+                "en": "The World Series Champions gave ______ as a gift to president Obama during their ceremonial visit"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8fbbe14c637e6b87cabf1cc9ea75a7070e16b6c6",
+            "content": {
+                "en": "The Yankees now allow facial hair, but will instead crack down on ______ in the clubhouse."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e236e43ef961ecda9d8c6ccbba85ded9cf78bd0",
+            "content": {
+                "en": "What did Manny really go to find when he went into the Green Monster in the middle of that game?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df4706b0bed8bc7db2fda9d9cddce3b7edb6e4c2",
+            "content": {
+                "en": "What is Yasiel Puig&apos;s secret?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_96c8c142d7f7eee3e8134488eff5f81816fb4e01",
+            "content": {
+                "en": "What was the real secret to Dock Ellis' no hitter in 1970?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_58f9a48c751c5456c68f8517d0a7411d661f3b9f",
+            "content": {
+                "en": "______ and ______ are the new toppings on the hot dogs at Miller Park."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_735c8fa67e6888ed81ed8ebc72e6fed5fef790b9",
+            "content": {
+                "en": "______ does more cocaine than the 1985 Pittsburgh Pirates"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_76026e467601bf09bff03a68107daab2fee9f3eb",
+            "content": {
+                "en": "______ weighs more than Pablo Sandoval in the off-season?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b09b0943373eb24f305199b05306b27ada6b237",
+            "content": {
+                "en": "______ will happen before The Chicago Cubs win the World Series"
+            },
+            "pick": 1
+        }
+    ]
+}

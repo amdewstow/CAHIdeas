@@ -1,0 +1,78 @@
+{
+    "id": "Cyril_s_Silly_Show",
+    "name": "Cards Against Equestria - Cyril's Silly Show",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_d11efe384ad9482970e6b5b680ee0fcd084faf53",
+            "content": {
+                "en": "An average-sized Scootaloo."
+            }
+        },
+        {
+            "id": "w_4d4f1e547612d3134d3350ed12601f8195e14496",
+            "content": {
+                "en": "Cyril&apos;s unshaved chest."
+            }
+        },
+        {
+            "id": "w_3f8fdb23c23fa3768502f3218c26391a5df6ff0b",
+            "content": {
+                "en": "Dick Owl."
+            }
+        },
+        {
+            "id": "w_bbcc0f5b42cc12d1eb00108362cddaba62505277",
+            "content": {
+                "en": "Eating out Derpy Hooves."
+            }
+        },
+        {
+            "id": "w_13a50bc832473c37beab4d975fb6846027d3ef06",
+            "content": {
+                "en": "Michelle Creber discovering Silly Show"
+            }
+        },
+        {
+            "id": "w_401a19ea409913b78139670b1705cdc38f8df11a",
+            "content": {
+                "en": "Protoman&apos;s rectum of holding."
+            }
+        },
+        {
+            "id": "w_492f87307b793046a0324433877db1e54cccc2ec",
+            "content": {
+                "en": "Scrotal patch."
+            }
+        },
+        {
+            "id": "w_b6566545da97ac4fe2f00c859f2c0e5d85203aec",
+            "content": {
+                "en": "Twinkle fingers."
+            }
+        },
+        {
+            "id": "b_b5e3a777bf5ad46f045692124de42192c2420262",
+            "content": {
+                "en": "Cyril once ripped off his shirt on stage revealing ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a7b839516e34cd267b7b5a7ce6c0e10e72f4be0d",
+            "content": {
+                "en": "On tonight&apos;s Silly Show, tune in to hear Cyril read a clopfic about ______ being shipped with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c5ff998ffd1c0c4f0b80655d62a0a37879c5f5d6",
+            "content": {
+                "en": "______ drew fanart of ______ fucking Cyril in the butt."
+            },
+            "pick": 2
+        }
+    ]
+}

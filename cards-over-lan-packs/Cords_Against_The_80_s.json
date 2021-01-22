@@ -1,0 +1,460 @@
+{
+    "id": "Cords_Against_The_80_s",
+    "name": "Cords Against The 80's",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_27482416fc49cab5b391dc4566b93f3c451fb9c8",
+            "content": {
+                "en": "A Flock of Motherfucking Sea Gulls."
+            }
+        },
+        {
+            "id": "w_a49c89069c813ca17eb5302cacb1a92a5b091725",
+            "content": {
+                "en": "A gang of Garbage Pail Kids beating down a Cabbage Patch Doll cowboy-style in a dark alley."
+            }
+        },
+        {
+            "id": "w_b00caad09c2671d6804bccd91865e13fb4c286bb",
+            "content": {
+                "en": "ALF."
+            }
+        },
+        {
+            "id": "w_3d83709eadb93eb5ce2162772119d5f93e367e2b",
+            "content": {
+                "en": "Answering the door, and admitting that you&rsquo;re Sarah Connor."
+            }
+        },
+        {
+            "id": "w_3d25e9fa842072418c16c3ba7499fd5a2d611951",
+            "content": {
+                "en": "Avoiding the Noid."
+            }
+        },
+        {
+            "id": "w_ab5e5e3a97528a2963bbd9e70eb6863f00b850f1",
+            "content": {
+                "en": "Beetlejuice! Beetlejuice! Beetlejuice!"
+            }
+        },
+        {
+            "id": "w_6956894a70bd39eaf7c7341c34cd349f2129594f",
+            "content": {
+                "en": "Being a Thunder...Thunder THUNDERCAT&rsquo;S HOE!!!"
+            }
+        },
+        {
+            "id": "w_e1cdbd8d540f7418d1eb8fc384758a70a0eb7d06",
+            "content": {
+                "en": "Being all \"business in the front\" , and \"party in the back\" ."
+            }
+        },
+        {
+            "id": "w_44cef477313b7023e841b8d95030e02729732186",
+            "content": {
+                "en": "Being better than the Russians."
+            }
+        },
+        {
+            "id": "w_ed5e92843bf90950da39824de9f05e4d4032d0cb",
+            "content": {
+                "en": "Being Gumby, DAMN IT!"
+            }
+        },
+        {
+            "id": "w_70685390df8e9467fa75a316dff5e1f19b6ea890",
+            "content": {
+                "en": "Being scared shitless as a child by Sinead O&rsquo;Connor&rsquo;s bald fucking head."
+            }
+        },
+        {
+            "id": "w_c84973efb2bf6e24be3656e189a7de0f7e4917f7",
+            "content": {
+                "en": "Black child actors with glandular disorders that cause them to look like they&rsquo;re 12 years old... forever."
+            }
+        },
+        {
+            "id": "w_b549195577ebfd914869360515fce589ca8686b6",
+            "content": {
+                "en": "Champagne Wishes And Caviar Dreams."
+            }
+        },
+        {
+            "id": "w_156efd0d788bb31b487f8a7c2b35754b390da90f",
+            "content": {
+                "en": "Chucky being your friend to the end."
+            }
+        },
+        {
+            "id": "w_d3520cfcb441fc6deec3b348ff98d65a25e39ed1",
+            "content": {
+                "en": "Crying like a little bitch in the middle of the movie theater when Optimus Prime died."
+            }
+        },
+        {
+            "id": "w_2fabd6cba9673f008d786cad30c13e71ae24a66b",
+            "content": {
+                "en": "Dancing on the ceiling."
+            }
+        },
+        {
+            "id": "w_f58185d16b16dc722db98161dd7ecd925937209f",
+            "content": {
+                "en": "Doing \"Wax On, Wax Off\" on your junk."
+            }
+        },
+        {
+            "id": "w_423504be89f1dbb7059755ee8f315384c8eb41b4",
+            "content": {
+                "en": "Falling and not being able to get back up."
+            }
+        },
+        {
+            "id": "w_12f4d2b8e1b10ce4cda3b06675e199b0bd2e4dce",
+            "content": {
+                "en": "Feeling The Power of The Ultimate Warriorrrrrrrr!"
+            }
+        },
+        {
+            "id": "w_c0c66f0e7e56ec6cceecf040e37acfa1308ca12e",
+            "content": {
+                "en": "Fraggle Rock."
+            }
+        },
+        {
+            "id": "w_124e67c272b7d3a56fbdb207cb152075b4ef710b",
+            "content": {
+                "en": "Grown-ass men wearing short-shorts while jogging around like their ass cheeks aren&rsquo;t hanging out."
+            }
+        },
+        {
+            "id": "w_32f143fc077658f2a39e948d05213fef4e098a71",
+            "content": {
+                "en": "Gummiberry juice."
+            }
+        },
+        {
+            "id": "w_286bcd0a6f018870bc91d67808a46b33cb385c14",
+            "content": {
+                "en": "Having Michael Bay remake your childhood and fucking it all up."
+            }
+        },
+        {
+            "id": "w_af21140f14b2bd03c35edbae17faafc9629fbd47",
+            "content": {
+                "en": "Hiring Tony Danza to be your housekeeper; because you&rsquo;re the fucking boss."
+            }
+        },
+        {
+            "id": "w_49d0415f9541b07ccbb49d4c38b6b812c43496f9",
+            "content": {
+                "en": "Home perms and parachute pants."
+            }
+        },
+        {
+            "id": "w_54fcbc1992811d92e40bd99512a0bbc6fd94a8d5",
+            "content": {
+                "en": "Homie not playing dat."
+            }
+        },
+        {
+            "id": "w_3e3acee5528049196c2806781a64d1915c5c8579",
+            "content": {
+                "en": "Hungry Hungry Hippos!!!"
+            }
+        },
+        {
+            "id": "w_dde904ded6137b911005b8620b75fe1bf4e3c8d3",
+            "content": {
+                "en": "Jabba-jabba-jabba Jabba-jabba-jabba Jabberjaw bitch."
+            }
+        },
+        {
+            "id": "w_d0c039964620d9fc75a0b0d0c6e4839df9c49f7c",
+            "content": {
+                "en": "Knowing exactly where the beef is, but not saying anything to anybody."
+            }
+        },
+        {
+            "id": "w_b5906ec3969ec622b1a61870ddd9c89f5ae25b3a",
+            "content": {
+                "en": "Learning Karate from the old Asian guy that&rsquo;s supposed to be fixing your fucking sink."
+            }
+        },
+        {
+            "id": "w_eb969a4354fa99ac8a5d93c71226b62193ac5305",
+            "content": {
+                "en": "Living in constant fear of those pesky Russians and nuclear annihilation."
+            }
+        },
+        {
+            "id": "w_e3cc9c68a7efa9405d17b9a8c518976400ba47f3",
+            "content": {
+                "en": "Making He-Man and She-Ra kiss."
+            }
+        },
+        {
+            "id": "w_85f859a11376b8919b3cd6da988289f8b68012d5",
+            "content": {
+                "en": "Masturbating to Jem and the Holograms."
+            }
+        },
+        {
+            "id": "w_5ec596f642985447bc6cd0af15a2f5d6c31ba72a",
+            "content": {
+                "en": "Michael Jackson before he was white."
+            }
+        },
+        {
+            "id": "w_414f31d65806f802daf49adc1fdf1522c6d2b9d3",
+            "content": {
+                "en": "Milli Vanilli not blaming it on the rain when they got caught."
+            }
+        },
+        {
+            "id": "w_c8446e411ac9b28439774c2e8b5028142009eb90",
+            "content": {
+                "en": "Motherfucking cheap-ass GoBots."
+            }
+        },
+        {
+            "id": "w_0bb223f86fd4ac8af138fbf050006eb642218182",
+            "content": {
+                "en": "Motherfucking Magnum P.l."
+            }
+        },
+        {
+            "id": "w_45f0df98db482578e4b45204c180e5b6f5ebd4c0",
+            "content": {
+                "en": "Not being afraid of no ghost."
+            }
+        },
+        {
+            "id": "w_5b049090c8d1b4e15f6b06bf26366209dcdf60e8",
+            "content": {
+                "en": "ONE POINT TWENTY-ONE GIGAWATTS!!!"
+            }
+        },
+        {
+            "id": "w_83944ccadd019f40a4a3aa0a5bb1a731fb0a9a16",
+            "content": {
+                "en": "Pee-wee Herman masturbating in a theater."
+            }
+        },
+        {
+            "id": "w_af1bbbcc750a7a5013d564fedbc6137b961933c0",
+            "content": {
+                "en": "Punky Brewster."
+            }
+        },
+        {
+            "id": "w_e5d5eb7e24450944c5fbf41f01a90607d56be5d1",
+            "content": {
+                "en": "Punky motherfucking Brewster!"
+            }
+        },
+        {
+            "id": "w_16a36cb4afda529dd9baf112477badc23a9ef79f",
+            "content": {
+                "en": "Reaganomics."
+            }
+        },
+        {
+            "id": "w_a262702a90a8366e10d026f85186510c322a653c",
+            "content": {
+                "en": "Receiving a Mogwai for Christmas, getting him wet, feeding his offspring after midnight, and subsequently letting them kill your friends and loved ones."
+            }
+        },
+        {
+            "id": "w_1f1c7028928fb1b79cd40361e2d5e20286cc362f",
+            "content": {
+                "en": "Rocking like a hurricane."
+            }
+        },
+        {
+            "id": "w_82a0932b858c981cf2a987a51e5f5d2db6cbcb9f",
+            "content": {
+                "en": "Roscoe P. Coltrane."
+            }
+        },
+        {
+            "id": "w_400e98193968849a2cc000a0ca571e448382ebf1",
+            "content": {
+                "en": "Taking on the entire Nazi army with nothing but a bull-whip, a cool hat, and a small Asian boy."
+            }
+        },
+        {
+            "id": "w_3cab71a94acd0cd84fd93eed24a07a2df89fada1",
+            "content": {
+                "en": "Teenage Mutant Ninja Turtle Soup."
+            }
+        },
+        {
+            "id": "w_82a78386b6bddb03189449a74dc5499c2500eee9",
+            "content": {
+                "en": "That splotch on Mikhail Gorbachev&rsquo;s head."
+            }
+        },
+        {
+            "id": "w_4114533ebaae50a2e0728cae66110732670e912b",
+            "content": {
+                "en": "The crack epidemic."
+            }
+        },
+        {
+            "id": "w_dc6ebe71042e65f112d3f74d9a6158956367a1f5",
+            "content": {
+                "en": "Using a realistic toy gun to rob a gas station, and getting shot by the police in the process."
+            }
+        },
+        {
+            "id": "w_f0143766287bb44eceb97b6bb654be660389f981",
+            "content": {
+                "en": "Webster."
+            }
+        },
+        {
+            "id": "w_f447371986bcc4ce114c5eec7ba2df0f7df30067",
+            "content": {
+                "en": "What the fuck Willis was talkin&rsquo; &rsquo;bout."
+            }
+        },
+        {
+            "id": "b_38880caefb73a256d6b220137c9c8f8ec0f8aae0",
+            "content": {
+                "en": "...and ______ half the battle."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fdb6269c3fe384120eb1445aa6be46cc35731a48",
+            "content": {
+                "en": "...Come on down! You&rsquo;re the next contestant on ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_86456a02aa1e54d2d4d13f7613de98223e76e71f",
+            "content": {
+                "en": "21 ______ Street."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75b32ac07baf862bf7ddf88fb9e6e871bc5f77f4",
+            "content": {
+                "en": "A Nightmare on Elm Street 2: Freddy&rsquo;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44d655493a9c9c3e55f297965dd7562d65f34621",
+            "content": {
+                "en": "By the power of ______ \"&brvbar; I HAVE THE POWER!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0976564e89a9d8ebaff72ff0bf3dfea4412c980",
+            "content": {
+                "en": "I pity da foo&rsquo; ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b614539985effb27bf539fd8e5d20903362d542e",
+            "content": {
+                "en": "Like a virgin, ______ for the very first time, Like a vir-ir-ir-ir-gin."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_41f0b015a8dce9e065ec4f9c3b6db93d2287b866",
+            "content": {
+                "en": "Look Ma! I caught ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccd468f113b8b1673d1982809b838483266b8969",
+            "content": {
+                "en": "Now here&rsquo;s a little story that I got to tell, about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d9d0c1b65c8345cc1018f2bbbf5b58ee228a1c08",
+            "content": {
+                "en": "Papa Smurf, Brainy Smurf,  and ______ Smurf."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33a9c2ce2ec69da8fa7022ec98ca2ea540a468f0",
+            "content": {
+                "en": "She told me her name was Billie Jean, as she caused a scene, then every head turned with eyes that dreamed of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_99c7512cd21527b29d9dda89087d23ff7b9fc399",
+            "content": {
+                "en": "Shot through the heart, and you&rsquo;re to blame, darling you give ______ a bad name..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33e0b1294aa9cec4efe373b60f7c29a7d8cae6f0",
+            "content": {
+                "en": "This is my rifle, this is my gun. This is for fighting, this is for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4145e83148412f251008059621b8014a08decd85",
+            "content": {
+                "en": "Time after time, if you fall I will catch you, I will be ______ time after time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cf23b1812781cc88131fc7e3ef327dce9806830d",
+            "content": {
+                "en": "WellI love a rainy night, it&rsquo;s such a beautiful sight, I love to feel ______ on my face."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5387e3b83928dab495cf146ffa9d4f1fad24dc2d",
+            "content": {
+                "en": "Whatcha gonna do brother, when ______ and run wild on you!?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e00396c8385fbf298af1cdcd490cde71d4196541",
+            "content": {
+                "en": "Would you be mine, Could you be mine, Won&rsquo;t you be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_60c3b30f4c0ee0bbd8723e2c37ee442ccba7e035",
+            "content": {
+                "en": "You take the good, you take the bad, and there you have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_629afa3c098272eec366a2dbdcf2fb61b5c430f7",
+            "content": {
+                "en": "______ is filmed before a live studio audience."
+            },
+            "pick": 1
+        }
+    ]
+}

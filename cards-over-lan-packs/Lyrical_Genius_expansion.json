@@ -1,0 +1,183 @@
+{
+    "id": "Lyrical_Genius_expansion",
+    "name": "Lyrical Genius expansion",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_350b471e754e5135ce1c36cea920eace552c5f4d",
+            "content": {
+                "en": "A girl that thinks you're the one"
+            }
+        },
+        {
+            "id": "w_315c164b303af792dd0cc57a6fc06dc4b0ede57d",
+            "content": {
+                "en": "A ring of fire"
+            }
+        },
+        {
+            "id": "w_d4b9f13a3885fca4e417f74dccfd14309f279552",
+            "content": {
+                "en": "An imitation Slim Shady."
+            }
+        },
+        {
+            "id": "w_4a656b776a1d3f775e71071361fc0bb1e6273796",
+            "content": {
+                "en": "My dick in a box."
+            }
+        },
+        {
+            "id": "w_e1aba4328f5fc88de241f68da831c2ca36a1fe14",
+            "content": {
+                "en": "Never giving you up, and never letting you down."
+            }
+        },
+        {
+            "id": "w_a710b8bdf3a5ea77b06d5b45118396fa4a65f080",
+            "content": {
+                "en": "The Real Slim Shady."
+            }
+        },
+        {
+            "id": "w_402113a06c848c9027178a87a3324f728881f3f3",
+            "content": {
+                "en": "The summer of '69"
+            }
+        },
+        {
+            "id": "w_74bea80b176beeb1f5f5fe9618a888a433d7b828",
+            "content": {
+                "en": "The thing Meatloaf won't do for love"
+            }
+        },
+        {
+            "id": "b_7153085a31c24c692803f7ff5e3077988bf1464e",
+            "content": {
+                "en": "All in all you're just ______. (Another Brick in the Wall - Pink Floyd)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_82cff4a76ef7c2d63d78103d493edf1dd2aa8fe8",
+            "content": {
+                "en": "AND IIIIIIIIIIIII-EE-IIII... WILL ALWAYS LOVE ______. (I Will Always Love You - Whitney Houston)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_80c2be4c781cf690d4a37e8ab1b07cf994f1aba7",
+            "content": {
+                "en": "Beelzebub has a ______ set aside for me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9909f9426c0f7a3a368d5792bed11ff18c729f76",
+            "content": {
+                "en": "Doctor, Doctor, give me the news! I got a bad case of ______. * (Bad Case of Loving You - Robert Palmer)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44fe54d0ad2e671c75378d01862d592e57cf5769",
+            "content": {
+                "en": "Hey, little sister, what have you done? (White Wedding - Billy Idol)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b904315a4e571e58b43d2bf2733320f55404b1c2",
+            "content": {
+                "en": "I chime in with a \"Haven't you people ever heard of ______?\" (I Write Sins, not Tragedies - Panic At The Disco)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f58ac9a09d7b4cee0ac07a2ba460cf6dc2962ea",
+            "content": {
+                "en": "I just want your extra time and your (must make kissing noises)______ (Prince - Kiss)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_179ebfada7086d035d9d3476e07df01eb3c3703b",
+            "content": {
+                "en": "My anaconda don't want none unless you've got ______, hun. (Baby Got Back - Sir Mix-A-Lot)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e3645bc48a76cbd24f75d02edd9ac549a29465e",
+            "content": {
+                "en": "My mama she told me don't worry about your______. (Meghan Trainor - All About That Bass)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_efcdb995d43aa8e750c128709de41dd89e432705",
+            "content": {
+                "en": "Never gonna give ______ up, never gonna let ______ down. (Never Gonna Give You Up - Rick Astley)"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5e99d9717b7f6a4a26972bfe5c2e36b05125f422",
+            "content": {
+                "en": "On a dark desert highway, ______ in my hair. Warm smell of ______ rising up through the air. (Hotel California - Eagles)"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6fd286ee1ee64f70a0e9ac0b3bae3302a9135daf",
+            "content": {
+                "en": "Rah rah ah-ah-ah! Ro-ma ro-ma-ma! Gaga ooh-la-la! Want your ______. (Bad Romance - Lady Gaga)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dfb4d071bc99510c1b23336d4cf304ad9e6c85e6",
+            "content": {
+                "en": "So you're ______? That don't impress me much."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8f840cd366dae679ce779e081e0c9a33e6aae4e",
+            "content": {
+                "en": "We built this city! We built this city on ______. (We Built This City - Starship)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c7d21836c804e0d1347cb4f72400e1e683c7457",
+            "content": {
+                "en": "What does the Fox say? (What Does The Fox Say? - Ylvis)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_198a351715527e81c83e3d772e11545c557e620c",
+            "content": {
+                "en": "What is love? (What is Love? - Haddaway)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1459daf02ea9a21f4fde40d6c77b9d0b5823a009",
+            "content": {
+                "en": "Who are you? Who, who, who, who? (Who Are You? - The Who)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca7048de50385b141c32f0b9e0f4e7d9372a7a7d",
+            "content": {
+                "en": "You know it&apos;s true, everything I do... I do it for ______. (Everything I Do - Bryan Adams)"
+            },
+            "pick": 1
+        }
+    ]
+}

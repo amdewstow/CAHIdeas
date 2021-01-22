@@ -1,0 +1,126 @@
+{
+    "id": "Big_Bang_theory",
+    "name": "Big Bang theory",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_56e7698712fd12be8c5bbf7ae58836ca86c6435e",
+            "content": {
+                "en": "A formal Roommate Agreement."
+            }
+        },
+        {
+            "id": "w_85afd75d0e183da5bc51d1404dd93a93126d1b03",
+            "content": {
+                "en": "A stereotypical Indian."
+            }
+        },
+        {
+            "id": "w_70ce69289e7aece4004853448f9e14c236350073",
+            "content": {
+                "en": "Bazinga"
+            }
+        },
+        {
+            "id": "w_c14eee84c4c38319d5ba42c21c65d2f020397a0a",
+            "content": {
+                "en": "Getting your pens stuck in a robot hand."
+            }
+        },
+        {
+            "id": "w_ecacbdd130e39b41f1e8a23a679c9abdf124f1f5",
+            "content": {
+                "en": "Having a former USSR nuclear physicist for a janitor because 'Merica!"
+            }
+        },
+        {
+            "id": "w_eafe2d4cdb30b487cb7f5bf52a82874bf9ecdb5e",
+            "content": {
+                "en": "Having a pseudo-sexual relationship with Trains."
+            }
+        },
+        {
+            "id": "w_b7594449c93d3cc4d03d6fcd1d25a9e826485b7a",
+            "content": {
+                "en": "Heating up noodles with a laser."
+            }
+        },
+        {
+            "id": "w_518ddd6f61a114cc54ff28d6e964dceb30dc0c84",
+            "content": {
+                "en": "I&apos;m batman"
+            }
+        },
+        {
+            "id": "w_ea69423a7aed238a26288af460d847bae1a3387d",
+            "content": {
+                "en": "Joint Sheldon custody."
+            }
+        },
+        {
+            "id": "w_9df0b45f4320c2c819b3f2fcf58384cef2d427fd",
+            "content": {
+                "en": "Leonard and Howard wife-swapping for the weekend."
+            }
+        },
+        {
+            "id": "w_c85a77bcd75bfe7ca8dceeac7285afbdaf36002d",
+            "content": {
+                "en": "Letting your ugly date crash the Mars Rover."
+            }
+        },
+        {
+            "id": "w_568586683b3151a65fa602cb23dff357e2c13d10",
+            "content": {
+                "en": "Nobody mentioning how giant Bernadette&apos;s boobs are."
+            }
+        },
+        {
+            "id": "w_a3e156a27994d0038683b6d528b686b3afa6f805",
+            "content": {
+                "en": "Penny penny penny"
+            }
+        },
+        {
+            "id": "w_df413bbe3a03b259f8b6bdec8d972a0adaafa5bf",
+            "content": {
+                "en": "Sheldon big banging in a gangbang and yelling BANG!"
+            }
+        },
+        {
+            "id": "w_8273e8a9fa23db6a8689fb4440a12dc180d5d671",
+            "content": {
+                "en": "Telling your best friend to go away."
+            }
+        },
+        {
+            "id": "w_79edd4cfb65e459a9b90020ffc99f3fbf11c9c70",
+            "content": {
+                "en": "Turtlenecks. All the time."
+            }
+        },
+        {
+            "id": "b_a1bf74aaa33927c2a006a14adea29fc68e7fb67d",
+            "content": {
+                "en": "What are three subjects that Howard says about his dad."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e918bc0fed5058816e6f545412bb2cba67d75426",
+            "content": {
+                "en": "What does Howard&apos;s mother look like?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5a43046b09dc13cd2239c667d45f8347db96dda8",
+            "content": {
+                "en": "What is Penny&apos;s last name? (This would work only if those playing were familiar with TBBT."
+            },
+            "pick": 1
+        }
+    ]
+}

@@ -1,0 +1,2280 @@
+{
+    "id": "HackersAgainstHumanity",
+    "name": "Hackers Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_d357e481a360f7785caea149ec4d528eb087c536",
+            "content": {
+                "en": "\"I Survived Ada Camp\" Challenge Coin"
+            }
+        },
+        {
+            "id": "w_9c22d08c3a02b25118595ea7f84f9c44e4fedc16",
+            "content": {
+                "en": "\"Thats What\" ~ She"
+            }
+        },
+        {
+            "id": "w_b13bacc9f2799a2b27b23a3ff17d7367348d33b5",
+            "content": {
+                "en": "(wub) (wub) (wub)"
+            }
+        },
+        {
+            "id": "w_ad6c1aac80e4674470c5461b7eb9a233d5ee0349",
+            "content": {
+                "en": "0wning You"
+            }
+        },
+        {
+            "id": "w_7f8ffe8ba96235221fe086cf32d0464f11ab5d85",
+            "content": {
+                "en": "1.21 Jigawatts"
+            }
+        },
+        {
+            "id": "w_d505817e001ccd7fb1573b371e0e668e98e755d5",
+            "content": {
+                "en": "10,000 Canadian Pennies"
+            }
+        },
+        {
+            "id": "w_dc3d3a73862bd85849ab7df27b24b94508f22c9d",
+            "content": {
+                "en": "1337 Sp3ak"
+            }
+        },
+        {
+            "id": "w_ce3cafa533a1715cf407cd3336f731e8fbffd8e3",
+            "content": {
+                "en": "302 Card Redirect"
+            }
+        },
+        {
+            "id": "w_bc2f80f553d7f010c93d0f7d0ca8ef587dc3ae9e",
+            "content": {
+                "en": "3D printed P0rn"
+            }
+        },
+        {
+            "id": "w_1489108281fb1bf67186d5da87cf42ef0042f3c9",
+            "content": {
+                "en": "401 Unauthorized"
+            }
+        },
+        {
+            "id": "w_9b5ee969ca96ba0d4547a6041c5a86bf80fd4c96",
+            "content": {
+                "en": "403 Forbidden"
+            }
+        },
+        {
+            "id": "w_5b65037351caeb0e5a48d963d7ffa88d0271d546",
+            "content": {
+                "en": "404 Not Found"
+            }
+        },
+        {
+            "id": "w_38dbdb7a77332eb3b1dd59b5f9be8ce66f778b54",
+            "content": {
+                "en": "406 Not Allowed"
+            }
+        },
+        {
+            "id": "w_326b959f1765b7caf023e414971aa7adc3b3fcbe",
+            "content": {
+                "en": "500 internal card error"
+            }
+        },
+        {
+            "id": "w_05f6e352fe5b5be7994abe2d85a076c431a4dcc9",
+            "content": {
+                "en": "501 Card Error"
+            }
+        },
+        {
+            "id": "w_241c83a586a1b6905d6719e89359dfe768421480",
+            "content": {
+                "en": "503 Card Unavailable"
+            }
+        },
+        {
+            "id": "w_ad9019727a79f507f21d3f60efed57b3c94694e4",
+            "content": {
+                "en": "64 Bit Keys"
+            }
+        },
+        {
+            "id": "w_eaa56ec70a6c3d9cea3e354a84a04f4ac410927e",
+            "content": {
+                "en": "A \"Pair of Docs\""
+            }
+        },
+        {
+            "id": "w_4e407bc38dad6c1ebc619642eb635985d3be0986",
+            "content": {
+                "en": "A baby&apos;s arm holding an apple"
+            }
+        },
+        {
+            "id": "w_090c812488bb3f5cefc9ac42e488287f01fdc44f",
+            "content": {
+                "en": "A fake ID made from Kinko's"
+            }
+        },
+        {
+            "id": "w_77ec26f54a5c2406669a0e47e8126e05699536e4",
+            "content": {
+                "en": "A giant cup of STFU"
+            }
+        },
+        {
+            "id": "w_41a96dc3689e6bde51fa68f48199ac31877036ca",
+            "content": {
+                "en": "A Googly eyed blow job"
+            }
+        },
+        {
+            "id": "w_fc1cdfbe68f9d2768ef473b6efd00b66f9852bfa",
+            "content": {
+                "en": "A Hak5 Pineapple"
+            }
+        },
+        {
+            "id": "w_70b99de127cef36552652e6c2e86c3ab7eaff8f1",
+            "content": {
+                "en": "A Ninja-tel Phone"
+            }
+        },
+        {
+            "id": "w_05f5df2881df11974178a2208ebd14479bdde660",
+            "content": {
+                "en": "A Payphone"
+            }
+        },
+        {
+            "id": "w_00b97d0d313828d1343f427b165196a89e0f6766",
+            "content": {
+                "en": "A Raspberry Pi"
+            }
+        },
+        {
+            "id": "w_700988e5bdf3e2f5ed95687c1861365c0607a0a2",
+            "content": {
+                "en": "A series of explicite Post-It notes"
+            }
+        },
+        {
+            "id": "w_a511f18373526ecdb7312809889d49bb92e88f11",
+            "content": {
+                "en": "A series of tubes"
+            }
+        },
+        {
+            "id": "w_ca1f46acf2dcd9065f7f28758a72a8edc1c488d1",
+            "content": {
+                "en": "A town with no ducks"
+            }
+        },
+        {
+            "id": "w_4e3df12381f89f9122183c4438e6a7f77222de33",
+            "content": {
+                "en": "A van down by the river"
+            }
+        },
+        {
+            "id": "w_fcd475a8a2d4ec631c4a2878eb0d6a71f1d2ec16",
+            "content": {
+                "en": "ACTII pr0n"
+            }
+        },
+        {
+            "id": "w_ac1026de00b54c131412ea9ef55489086adfbb1b",
+            "content": {
+                "en": "Ada Initiative approved flesh-light with anti-rape condom included!"
+            }
+        },
+        {
+            "id": "w_0be7000aff7437a6d1b5a892a6548cc9786869d2",
+            "content": {
+                "en": "Aint nobody got time for dat!"
+            }
+        },
+        {
+            "id": "w_28a154363d9e618ea400785f9c7059299c3dd651",
+            "content": {
+                "en": "Alexis Park"
+            }
+        },
+        {
+            "id": "w_b08393b98c53babdc5769b67ca1c2237b7201d62",
+            "content": {
+                "en": "All the Things!"
+            }
+        },
+        {
+            "id": "w_9079edcd5d39efd9cad417ee09b6b9acbb872067",
+            "content": {
+                "en": "Altair 8800"
+            }
+        },
+        {
+            "id": "w_1a635ebca16c464cc6c44ceec657c8d53c0a7ba9",
+            "content": {
+                "en": "An arrow to the knee"
+            }
+        },
+        {
+            "id": "w_c5ed3065acde4547f8b11d775a06820b46b0cfe0",
+            "content": {
+                "en": "and boom goes the dynamite"
+            }
+        },
+        {
+            "id": "w_3e9b0465391777ef4462b9b09866bd12a4a9bf63",
+            "content": {
+                "en": "and then it died"
+            }
+        },
+        {
+            "id": "w_9bed5104004c5fe4e3e46673da174472bff1360a",
+            "content": {
+                "en": "Anonymous"
+            }
+        },
+        {
+            "id": "w_98360bbc45c2093b4aabd082989be8d1d6117f2b",
+            "content": {
+                "en": "APT1"
+            }
+        },
+        {
+            "id": "w_c4d2f893907f224b3b4247649899a2e4d2d91d9a",
+            "content": {
+                "en": "Arbitrary code execution"
+            }
+        },
+        {
+            "id": "w_61d3e7ba62db4ecb3231d61e3d548e1313245e75",
+            "content": {
+                "en": "asymmetric encryption"
+            }
+        },
+        {
+            "id": "w_d131714c2c59f21fd1171d33008eb884e6779258",
+            "content": {
+                "en": "Awkward Hugs"
+            }
+        },
+        {
+            "id": "w_f3b43bfb55c0f7f7ff3f6c7e1d6534c4ba021166",
+            "content": {
+                "en": "awkward mouth hugs"
+            }
+        },
+        {
+            "id": "w_35a465359453023dd0236e926266fa5e4aaf88e8",
+            "content": {
+                "en": "Babe caught me slippin'"
+            }
+        },
+        {
+            "id": "w_a1a854cf98dbeed3b525d8a9f306ef3ec72f3679",
+            "content": {
+                "en": "Bacon"
+            }
+        },
+        {
+            "id": "w_d0a49ae326db5a52b3b7a84549c7c37c3d371540",
+            "content": {
+                "en": "Bath Salts"
+            }
+        },
+        {
+            "id": "w_53bc9a98d558fb996ef071cc6be0447dc20690d5",
+            "content": {
+                "en": "Being a dick on the internet"
+            }
+        },
+        {
+            "id": "w_bd6d55ded3368e7c24661a02b7989633ae971408",
+            "content": {
+                "en": "Being sexually aroused by the sight of TSA&apos;s gloves"
+            }
+        },
+        {
+            "id": "w_1891dbac51e493fbce61c4dbb77f4f87da2df8e6",
+            "content": {
+                "en": "Being the big spoon"
+            }
+        },
+        {
+            "id": "w_a588a9ced125700fa1079fac58d776b87d99891f",
+            "content": {
+                "en": "Being the little spoon"
+            }
+        },
+        {
+            "id": "w_4c02e384a8be880e64f7f17e631177fbc62c9f5e",
+            "content": {
+                "en": "Big Data"
+            }
+        },
+        {
+            "id": "w_8791b20aab9b39004774c9b79dae340fec0847ae",
+            "content": {
+                "en": "Big Dongles"
+            }
+        },
+        {
+            "id": "w_d477430f25ba9886ec29bb9d6ba8b48fb518bf7d",
+            "content": {
+                "en": "But then I'd have to kill you"
+            }
+        },
+        {
+            "id": "w_1343bbb35de8c1a5d0a830243bf59f0eee9792ec",
+            "content": {
+                "en": "Butt chugging mom&apos;s boxed wine"
+            }
+        },
+        {
+            "id": "w_3642d098063e77ff366c5506002f6cf56bac21b3",
+            "content": {
+                "en": "Butthurt"
+            }
+        },
+        {
+            "id": "w_3c304a648de130d04ba2491654bb8af9e7e54752",
+            "content": {
+                "en": "Captain Crunch (John Draper)"
+            }
+        },
+        {
+            "id": "w_b8760163ca84b368c0cf706edcb073488eb4952c",
+            "content": {
+                "en": "Caressing a man&apos;s hairy chest"
+            }
+        },
+        {
+            "id": "w_3d4b3e83a318e1615019ef1cb2143abc070f5d88",
+            "content": {
+                "en": "Cat memes"
+            }
+        },
+        {
+            "id": "w_c039811b26ccd2b1df26b48b2ca38cadeb43ff8b",
+            "content": {
+                "en": "Check a look at you later"
+            }
+        },
+        {
+            "id": "w_d2eaf2aa1512d6596e0a5bae633537c6b8e779a3",
+            "content": {
+                "en": "China"
+            }
+        },
+        {
+            "id": "w_06634164f367887ac6a9809ab23682e76dd5e992",
+            "content": {
+                "en": "Chuck Norris"
+            }
+        },
+        {
+            "id": "w_a0ac7a1fc551c268cd1b546e8c174ba8adab3a76",
+            "content": {
+                "en": "Clicking shit"
+            }
+        },
+        {
+            "id": "w_2d92d3a7bd6eebee646acad7c2e1bf220f6af019",
+            "content": {
+                "en": "coding while listening to whale songs"
+            }
+        },
+        {
+            "id": "w_3ec0f1566217d8a06678fff2939266cf3ca0c437",
+            "content": {
+                "en": "Copyright trolls"
+            }
+        },
+        {
+            "id": "w_fa04d6617a0b2c7f79e8bee1511dea1679e36842",
+            "content": {
+                "en": "Crash Override"
+            }
+        },
+        {
+            "id": "w_e04595b1f5e4fe58ef877d802f420dc1a5f7550b",
+            "content": {
+                "en": "Crying over spilt milk"
+            }
+        },
+        {
+            "id": "w_97776395123f018f1da3948e993ab0bca75bbd0e",
+            "content": {
+                "en": "Cyber Punk"
+            }
+        },
+        {
+            "id": "w_14e48ab24efb44aa73ec8656341cedffb3b57a4b",
+            "content": {
+                "en": "Cyber war"
+            }
+        },
+        {
+            "id": "w_432285b63b5b48eb18a0ae786e99912173e8ebfe",
+            "content": {
+                "en": "Cyber-douchery"
+            }
+        },
+        {
+            "id": "w_56fe2ef1ab20fd8b81992442568ebad051e0b50f",
+            "content": {
+                "en": "Daaaaaanger Zone!"
+            }
+        },
+        {
+            "id": "w_8061585c5104ca11ca5995ea0c1a00cbfa8a8f9d",
+            "content": {
+                "en": "Dan Kaminsky"
+            }
+        },
+        {
+            "id": "w_3f7b081245af590337c7f89041b9bbbd9d4e7154",
+            "content": {
+                "en": "Dan Kaminsky Password Generator"
+            }
+        },
+        {
+            "id": "w_82a0e9a0f0f36c59d3bc8a7e51e8be892d1b8020",
+            "content": {
+                "en": "Dark Tangent"
+            }
+        },
+        {
+            "id": "w_1441a9a154093b635a8aef93ecaa364873e6e31e",
+            "content": {
+                "en": "Deep C Phishing"
+            }
+        },
+        {
+            "id": "w_1dc54be159ac80a1f53123e3b94026415b5028e0",
+            "content": {
+                "en": "Def Con Wireless"
+            }
+        },
+        {
+            "id": "w_ee28b75e71266cec6ce38dfe6b231bb8dfb18168",
+            "content": {
+                "en": "derp.rar (yo.zip)"
+            }
+        },
+        {
+            "id": "w_dba12eb1884af156cb239fc3d5aac6375ea1e196",
+            "content": {
+                "en": "Dick and\/or Balls"
+            }
+        },
+        {
+            "id": "w_3ef99df33edeabebe6d7215e8c9e3591cf99d00a",
+            "content": {
+                "en": "Die in a fire"
+            }
+        },
+        {
+            "id": "w_c5c0668fa7c06442ab9b37a900cd38019934f185",
+            "content": {
+                "en": "Digital Millennium Copyright Act (DMCA)"
+            }
+        },
+        {
+            "id": "w_e8f6d562a36aa2b3c821ce994f6011a31bf60297",
+            "content": {
+                "en": "Doing the \"(you are) NOT the father\" dance"
+            }
+        },
+        {
+            "id": "w_191b13b70a5772ab7ad018eb4c0b8d9ed7221e0e",
+            "content": {
+                "en": "Don't Blink"
+            }
+        },
+        {
+            "id": "w_35464f7e0c734799c6e2c37ac2e1feddd38b87ec",
+            "content": {
+                "en": "Dongs"
+            }
+        },
+        {
+            "id": "w_c67d8618ae019534413241a436cd363cbd0f0df0",
+            "content": {
+                "en": "Double Facepalm"
+            }
+        },
+        {
+            "id": "w_1afa2111c5ec6a60c1f6a3659b75eb0d16c6f2aa",
+            "content": {
+                "en": "Double ROT13"
+            }
+        },
+        {
+            "id": "w_b90ebc91b3a742df03538c85962712d6cba478de",
+            "content": {
+                "en": "Drones"
+            }
+        },
+        {
+            "id": "w_a0286194d527cd21376216a69b850ed9397e5588",
+            "content": {
+                "en": "Drunken Muppet"
+            }
+        },
+        {
+            "id": "w_149b7f0fbc60c8192d2812b226db309c6ff034d4",
+            "content": {
+                "en": "Edward Snowden"
+            }
+        },
+        {
+            "id": "w_fb936b73680d82ddc026bef094305dbecf9c3a51",
+            "content": {
+                "en": "Electronic Frontier Foundation"
+            }
+        },
+        {
+            "id": "w_5dc8122674b9d4fb2015ea1bfc3ba3ec2de8429a",
+            "content": {
+                "en": "End User License Agreement"
+            }
+        },
+        {
+            "id": "w_dbc4152e3b052cbc00bfebf5de7b9e11fcfa8bbc",
+            "content": {
+                "en": "EXIF data stalking"
+            }
+        },
+        {
+            "id": "w_8bf6b9c73060b233bd3cdc49c233b9ed09992bb4",
+            "content": {
+                "en": "Facepalm"
+            }
+        },
+        {
+            "id": "w_2e52e6a812ec062e4280b3340b21a1fa07c2dde1",
+            "content": {
+                "en": "Fapped"
+            }
+        },
+        {
+            "id": "w_4f234e898e249d11a88dc4316ae54d3ed14d332c",
+            "content": {
+                "en": "Fapping on the family computer"
+            }
+        },
+        {
+            "id": "w_3da69fd6b2eea43c6e2ed494dbb921451ea7c6db",
+            "content": {
+                "en": "Fapping while wearing a horse head mask"
+            }
+        },
+        {
+            "id": "w_f8a5042f879d73ec04cfd5173343b702b6f012af",
+            "content": {
+                "en": "Fear Uncertainty Doubt (FUD)"
+            }
+        },
+        {
+            "id": "w_4dc32a910df26b047519afd9cee76c086d16888a",
+            "content": {
+                "en": "FemiNazi's"
+            }
+        },
+        {
+            "id": "w_38534a2adf59310cb55f220f5c514eaaf2ccca42",
+            "content": {
+                "en": "Finished it last week!"
+            }
+        },
+        {
+            "id": "w_b68bf66d45012a764b6b99a2c2001bec7493cb7a",
+            "content": {
+                "en": "First World Problems"
+            }
+        },
+        {
+            "id": "w_7b8a920077c8c6c99501c1b06ece8912c4188417",
+            "content": {
+                "en": "Fish fingers and custard"
+            }
+        },
+        {
+            "id": "w_0161d7672b305dd7a08a21fac743c683ad535217",
+            "content": {
+                "en": "Fist full of assholes"
+            }
+        },
+        {
+            "id": "w_bec2229e8ed7229f6ed042a4b0eadf789ce5b19e",
+            "content": {
+                "en": "Flame wars"
+            }
+        },
+        {
+            "id": "w_bb9e6e6ab6014f30b71deff4044c318b7df3f99c",
+            "content": {
+                "en": "Flesh light"
+            }
+        },
+        {
+            "id": "w_11291e0a3602d2209967e28dc4fe395e6695825c",
+            "content": {
+                "en": "Flipping a table"
+            }
+        },
+        {
+            "id": "w_0cb23ae2c189b13f5f90d739cf453c252387dc2d",
+            "content": {
+                "en": "Floppy Disk"
+            }
+        },
+        {
+            "id": "w_d8e1e665eee490ddbaefa709e330870df30dd9ef",
+            "content": {
+                "en": "FOIA Request"
+            }
+        },
+        {
+            "id": "w_60643d736a29300fc06ea1e1b3efac040f9664cf",
+            "content": {
+                "en": "Forever Alone"
+            }
+        },
+        {
+            "id": "w_f6978ce3ef8360a3370c3507be153a35749816de",
+            "content": {
+                "en": "Forking someone&apos;s repo"
+            }
+        },
+        {
+            "id": "w_b661792a999a987b370423b7a021de751ba58883",
+            "content": {
+                "en": "FX"
+            }
+        },
+        {
+            "id": "w_18e2e54135b547c90d86ea94d746fa69cc7aefe1",
+            "content": {
+                "en": "Fyodor"
+            }
+        },
+        {
+            "id": "w_95b4a715d5c2529b6b440386d0cd50a577f4f943",
+            "content": {
+                "en": "Getting a sympathy boner"
+            }
+        },
+        {
+            "id": "w_32e0b86abc73e69544220b2a995a0648e04c0091",
+            "content": {
+                "en": "Getting F'd in the A with a D"
+            }
+        },
+        {
+            "id": "w_a20f5f5522a37c02ee7a62bb80546f25e15e8b7a",
+            "content": {
+                "en": "Getting hammered in the ass so much you die of getting hammered in the ass"
+            }
+        },
+        {
+            "id": "w_66345ed78bc60e9072b52a963b35dac6edbac05c",
+            "content": {
+                "en": "Getting thrown the the pool by the Goons with all your tech"
+            }
+        },
+        {
+            "id": "w_e46164350bfd15bac273a8218c9ba3da9a25fc3a",
+            "content": {
+                "en": "Glasshole"
+            }
+        },
+        {
+            "id": "w_574fcd30021b6c02e883f0eaae1d75c9dcc18d28",
+            "content": {
+                "en": "Golf cart"
+            }
+        },
+        {
+            "id": "w_4bc8fac41a73f74f6bc7fbe734b8305e63c4553b",
+            "content": {
+                "en": "Good Guy Greg"
+            }
+        },
+        {
+            "id": "w_14772b48bbfb30c4c0c8747b2f3c97006fff146f",
+            "content": {
+                "en": "Got it done!"
+            }
+        },
+        {
+            "id": "w_4a1b2e75df9d41990e72d50df10b66585dd938c0",
+            "content": {
+                "en": "Grammar Nazi"
+            }
+        },
+        {
+            "id": "w_9832d516358feb2f677fb07e979c24504ebcd87f",
+            "content": {
+                "en": "Gray beard, gray balls"
+            }
+        },
+        {
+            "id": "w_3953384dd11401ba662623f796d1312df7909726",
+            "content": {
+                "en": "Grumpy Cat"
+            }
+        },
+        {
+            "id": "w_31dfdef9a5287573d346839cbac9e97d0ad306dc",
+            "content": {
+                "en": "Handcuffs"
+            }
+        },
+        {
+            "id": "w_2e3ebf747ff85955505c47edd87e8d218a02b4e4",
+            "content": {
+                "en": "Hashtag"
+            }
+        },
+        {
+            "id": "w_877f7d4b4afcb376cdbf5806137e3e976cdea351",
+            "content": {
+                "en": "Hookers &amp; Blow"
+            }
+        },
+        {
+            "id": "w_6bce14bbba7a7fc0e0022671413b0a7aab876581",
+            "content": {
+                "en": "how most 80&apos;s movies ended"
+            }
+        },
+        {
+            "id": "w_a8b63c98e1af24a610c30874b885fecbea77a94b",
+            "content": {
+                "en": "HuBot (Chatroom bot)"
+            }
+        },
+        {
+            "id": "w_1f321a38c2941a1aa4d1b25f514fc73ae7f4189a",
+            "content": {
+                "en": "Humperdink award"
+            }
+        },
+        {
+            "id": "w_8783fd30c1e30551b95036b82a16d21683a531b8",
+            "content": {
+                "en": "I should buy a boat"
+            }
+        },
+        {
+            "id": "w_8476b02548efa1e8cb4f181008c17ba41bb481ed",
+            "content": {
+                "en": "I&apos;m a text"
+            }
+        },
+        {
+            "id": "w_e8a3d1489e3f5e9d5a8b7e2908232ae1a8f3a3cf",
+            "content": {
+                "en": "ICANN"
+            }
+        },
+        {
+            "id": "w_c5d3316ff12496ee66eeba01671a5614cfa7ec5d",
+            "content": {
+                "en": "Identity theft"
+            }
+        },
+        {
+            "id": "w_a571c752d617116973ec7c1680954d0810a9350e",
+            "content": {
+                "en": "If you know what I mean"
+            }
+        },
+        {
+            "id": "w_73747cb02d7f71699f7eba7c5e1fad09bf811411",
+            "content": {
+                "en": "ill-tempered sea bass"
+            }
+        },
+        {
+            "id": "w_b896f2a6e7bd63e5caba04b9beddc1db52ef98bc",
+            "content": {
+                "en": "Implied Situational Consent"
+            }
+        },
+        {
+            "id": "w_6f57fa8eb061c876001261382e4cd512176f189e",
+            "content": {
+                "en": "In the cloud"
+            }
+        },
+        {
+            "id": "w_55224e994528a900aaadd78f2e97608670e93535",
+            "content": {
+                "en": "Infected email attachments"
+            }
+        },
+        {
+            "id": "w_92096d78df785adc247c728d9c46dac347007caa",
+            "content": {
+                "en": "Ingress"
+            }
+        },
+        {
+            "id": "w_e31a17f4c92bf3af0f900c4ae7ab35a5a324ae97",
+            "content": {
+                "en": "It blended!"
+            }
+        },
+        {
+            "id": "w_189f429905db0c09cf609597d4c3e98dec99d311",
+            "content": {
+                "en": "It&apos;s just a bunch of ones and zeros"
+            }
+        },
+        {
+            "id": "w_041ee78661feb1a0e93578d1a472a39691b42b4c",
+            "content": {
+                "en": "John McAfee"
+            }
+        },
+        {
+            "id": "w_932ee274a5d47bc362e0481f331fb999f1912ea3",
+            "content": {
+                "en": "Julian Assange"
+            }
+        },
+        {
+            "id": "w_4e6cb73a6ce333914c593523358fd4cbb89eed83",
+            "content": {
+                "en": "Just a sniff"
+            }
+        },
+        {
+            "id": "w_3dcb893372bc45e6a287b6da3cdf6806a70799f6",
+            "content": {
+                "en": "Just the Tip"
+            }
+        },
+        {
+            "id": "w_34525121f35f56bbb6db7c7828aa6104df69b7a0",
+            "content": {
+                "en": "Kegels"
+            }
+        },
+        {
+            "id": "w_b038bff904c40a7cfb1690021d5376013bb236ea",
+            "content": {
+                "en": "Kevin Mitnick"
+            }
+        },
+        {
+            "id": "w_682161a3debd1115b809d1ec75f677067e786d78",
+            "content": {
+                "en": "Keyloggers"
+            }
+        },
+        {
+            "id": "w_f6a9b25bee2457ac81f3668f98061808b5b8c3a6",
+            "content": {
+                "en": "L0pht"
+            }
+        },
+        {
+            "id": "w_19666a71b175d2696b2b6dc3913e7a5f86dbf981",
+            "content": {
+                "en": "Lady boner"
+            }
+        },
+        {
+            "id": "w_7f69766f9a6267f36285a4db3ba6dc3c9f7f927a",
+            "content": {
+                "en": "Learning something at Con"
+            }
+        },
+        {
+            "id": "w_df1cbc9e6f7c25212adfe7311941b5d7e8fad7cf",
+            "content": {
+                "en": "Lemon Party"
+            }
+        },
+        {
+            "id": "w_3fcc5d32760251ea2e102398a65eef2b60cf6643",
+            "content": {
+                "en": "Level 8 Portal"
+            }
+        },
+        {
+            "id": "w_0567a9a5c58639e6a3d56cc2c46c020a5a178286",
+            "content": {
+                "en": "Lock picks"
+            }
+        },
+        {
+            "id": "w_1abcb3abfdb4ff7b4f248484b4b8c90f5b289da5",
+            "content": {
+                "en": "Maintaining the Ballmer Peak"
+            }
+        },
+        {
+            "id": "w_946e53962d10c4518c387e6271b67d45fe1c7338",
+            "content": {
+                "en": "Making a sandwich"
+            }
+        },
+        {
+            "id": "w_a0fe9a787314fb47a9e06b9abcb0df690214798b",
+            "content": {
+                "en": "Maniacally laughing while wearing a monocle"
+            }
+        },
+        {
+            "id": "w_b8d91b302de1dce683b08a0e726608ca48839a1c",
+            "content": {
+                "en": "Mansplaining"
+            }
+        },
+        {
+            "id": "w_49628485e58096462f41a0210fa54c9de54413dd",
+            "content": {
+                "en": "Math is hard. Lets go shopping!"
+            }
+        },
+        {
+            "id": "w_3276856935ce38acf3cdbeefd27b26f07f8713cb",
+            "content": {
+                "en": "Maturbating in a hot tub for a Ninja Badge"
+            }
+        },
+        {
+            "id": "w_b54062188772610b7d21586f1c4630e4eb8fa53e",
+            "content": {
+                "en": "Mega"
+            }
+        },
+        {
+            "id": "w_1bfc4c2af0547f7354f084a58ac2d01064aae9bc",
+            "content": {
+                "en": "Mouth Hugs"
+            }
+        },
+        {
+            "id": "w_780ec047ef12628ee78eed076f6147402fa1c5fa",
+            "content": {
+                "en": "My first Prostate Exam"
+            }
+        },
+        {
+            "id": "w_3623cdbdc39a3194f848afedb45e939e6e09cf8e",
+            "content": {
+                "en": "My little Bronies"
+            }
+        },
+        {
+            "id": "w_2341fae518f266163484e741d3fda118e456b2f6",
+            "content": {
+                "en": "My little Bronies (Adult Fans of My Little Pony)"
+            }
+        },
+        {
+            "id": "w_3379c0a921007b730823badcb9c227506d9d8cc4",
+            "content": {
+                "en": "My massive SSD"
+            }
+        },
+        {
+            "id": "w_41f9ec6d79e2df366bbdc151a03bf596cb38837b",
+            "content": {
+                "en": "My sex robot Fisto Roboto"
+            }
+        },
+        {
+            "id": "w_92b298a7bd7ab909b25a67fd50ed7afee79b7699",
+            "content": {
+                "en": "Na-ah-ahYou didnt say the magic word!"
+            }
+        },
+        {
+            "id": "w_d7d2b927e2ec5cfdf89ab814a2c00bfb07214256",
+            "content": {
+                "en": "NAMBLA"
+            }
+        },
+        {
+            "id": "w_7ff8a65e62f04366ef6c6e6677cd2f665d99b65d",
+            "content": {
+                "en": "NAMBLA (North American Man\/Boy Love Association)"
+            }
+        },
+        {
+            "id": "w_17b9f41bc9592b1db4b212c0b5966759c25da521",
+            "content": {
+                "en": "Neck beard"
+            }
+        },
+        {
+            "id": "w_62c8a7e69d2d0201b7ba171904fa8f1582a2506c",
+            "content": {
+                "en": "Nigerian scammers"
+            }
+        },
+        {
+            "id": "w_5d7fbfee12317c3d8006702b4ac88c00aff574b2",
+            "content": {
+                "en": "ninja badge"
+            }
+        },
+        {
+            "id": "w_5e5df7a69af823228fcd4f6ac84ac1de9b3cfc34",
+            "content": {
+                "en": "Ninjas, Pirates, Robots, and Zombies!"
+            }
+        },
+        {
+            "id": "w_85e19f3520a51d90dc042825cd2ef1458f58c69e",
+            "content": {
+                "en": "Nmap"
+            }
+        },
+        {
+            "id": "w_75d53f48b4e1f127b7bde428443bdf2bad782cf9",
+            "content": {
+                "en": "No Reason"
+            }
+        },
+        {
+            "id": "w_45f153235fd5893621cfdaea970c07f43017cdb0",
+            "content": {
+                "en": "No Starch Press"
+            }
+        },
+        {
+            "id": "w_f8ac0a8da13e0e06976ded647c02dd17f3e8c863",
+            "content": {
+                "en": "North Korea&apos;s Twitter Account"
+            }
+        },
+        {
+            "id": "w_2ba2ebbf736d7d25cdef1fa58fc706dd5be085e9",
+            "content": {
+                "en": "Not a single fuck was given"
+            }
+        },
+        {
+            "id": "w_fab0f85e0c2880205fdf0390fd75e8f53a8d05b3",
+            "content": {
+                "en": "Now I&apos;m into something... Darker"
+            }
+        },
+        {
+            "id": "w_21fbf8d2e95777b9e93ddf46afc29453f82335ac",
+            "content": {
+                "en": "NSA"
+            }
+        },
+        {
+            "id": "w_c9e54a37c73850e096213e2e029db7b235e97ec9",
+            "content": {
+                "en": "Obvious"
+            }
+        },
+        {
+            "id": "w_100abb84dafbcaa15dc0f03b6771f7672c0c09d2",
+            "content": {
+                "en": "OMGBTFBBQ"
+            }
+        },
+        {
+            "id": "w_7a290d87ca0d14f57d383a7f3f26548c7bfdab9e",
+            "content": {
+                "en": "One Salty Hash"
+            }
+        },
+        {
+            "id": "w_94ec23e174f18665fbed3c9a0792602bb7abbb3d",
+            "content": {
+                "en": "Online backups"
+            }
+        },
+        {
+            "id": "w_ad64091a6d265851a92ed52d07886c7d34c2e5dd",
+            "content": {
+                "en": "P0rn"
+            }
+        },
+        {
+            "id": "w_050b84ed9482694a621fea5b0cde674544f630c5",
+            "content": {
+                "en": "Password: Guest"
+            }
+        },
+        {
+            "id": "w_4dbbdfa67e39f7861c436ae5ed1b82cc4fe0ce82",
+            "content": {
+                "en": "Passwords emailed in plain text."
+            }
+        },
+        {
+            "id": "w_1c9fde4b4000cb502acf21a0c5fa87b091323f65",
+            "content": {
+                "en": "Pastebin password files"
+            }
+        },
+        {
+            "id": "w_3f5588229696b66d5a120959d217a0728aa6ff35",
+            "content": {
+                "en": "Patrick Star"
+            }
+        },
+        {
+            "id": "w_85ec115fa36e01c3e7dc9c923e1234ad78ea0701",
+            "content": {
+                "en": "PedoBear"
+            }
+        },
+        {
+            "id": "w_864410483c9e7aa72729698e55a16da4e5b02047",
+            "content": {
+                "en": "Pepper spray"
+            }
+        },
+        {
+            "id": "w_4dbcf3a4f084e3d21db47cdfcd8d231c0e067700",
+            "content": {
+                "en": "Pirate Party"
+            }
+        },
+        {
+            "id": "w_9e44e2f8d12b90e4d2967052f0da01ea7b7ec49e",
+            "content": {
+                "en": "Please do the needful"
+            }
+        },
+        {
+            "id": "w_d604ea0139bc7b9bf990d7f7f29c4b0315c499fa",
+            "content": {
+                "en": "Pool2Girl"
+            }
+        },
+        {
+            "id": "w_911610ca08021ea5ee31c672bacda51737127d33",
+            "content": {
+                "en": "Pop, Pop, Ret"
+            }
+        },
+        {
+            "id": "w_032ac5df36db91a55f892f2d07fd05fe5315c585",
+            "content": {
+                "en": "PORK CHOP SANDWICHES!"
+            }
+        },
+        {
+            "id": "w_98bd367ad6cff88426e00f118f4638088bae4ad3",
+            "content": {
+                "en": "Practicing Gringo Warrior at home with baby oil. Naked."
+            }
+        },
+        {
+            "id": "w_b0ed93eb0457fa9ddabeec3a55813a5fe54aa307",
+            "content": {
+                "en": "Prairie dogging during an interview"
+            }
+        },
+        {
+            "id": "w_25488e01fd1f90e0880af894418c03c10bca6037",
+            "content": {
+                "en": "Prenda Law"
+            }
+        },
+        {
+            "id": "w_927eecca9fe9b3b28c9c34b1cdfe0604b663681e",
+            "content": {
+                "en": "Pressing the red button"
+            }
+        },
+        {
+            "id": "w_c1b60ce3d83ccaf42cc59672913a08bb36136cc9",
+            "content": {
+                "en": "Priest in a thong doing the Gangnam Style"
+            }
+        },
+        {
+            "id": "w_82a2ea9ba4c1b1cb3785bdfbb6136a31d3058cd5",
+            "content": {
+                "en": "Prism"
+            }
+        },
+        {
+            "id": "w_f1a801bc89ad7aa5dd5bc885081c7be78666ea7e",
+            "content": {
+                "en": "Purchasing challenge coins on eBay"
+            }
+        },
+        {
+            "id": "w_2d7476cd36e0faf3e9654825508b37bf44bf404f",
+            "content": {
+                "en": "Put a bird on it"
+            }
+        },
+        {
+            "id": "w_d563f112a0cc5beb7bbedbc2638c55db82e60dcf",
+            "content": {
+                "en": "Put Kevin back"
+            }
+        },
+        {
+            "id": "w_5a8f1a76cf830010d9a64f47cb931b9671d0c40f",
+            "content": {
+                "en": "rage quit"
+            }
+        },
+        {
+            "id": "w_e0eb3a9d7410dfbbaff6352c852d999fda2986fa",
+            "content": {
+                "en": "Rageface"
+            }
+        },
+        {
+            "id": "w_a297ce344982aa37a23eddaa83206398ae0e55e0",
+            "content": {
+                "en": "Rainbow tables"
+            }
+        },
+        {
+            "id": "w_776d6ab9aa026067c1e4b0da7c49316ed9233a18",
+            "content": {
+                "en": "Real men of Genius"
+            }
+        },
+        {
+            "id": "w_05304aa936fb68ce051f0b62f75f6f8c4ec01e70",
+            "content": {
+                "en": "ReCaptcha"
+            }
+        },
+        {
+            "id": "w_1faa76901a804d54bf744f13fe28d36be9a15698",
+            "content": {
+                "en": "Red Shirts"
+            }
+        },
+        {
+            "id": "w_1f204fc8ae529db5b0eaddcf75ef44d8f1d0758a",
+            "content": {
+                "en": "redbull without a cause"
+            }
+        },
+        {
+            "id": "w_c0d07d257be56e138d81cc816c7402e03a0ccb40",
+            "content": {
+                "en": "Restore from backups"
+            }
+        },
+        {
+            "id": "w_e9fd6cc5075f62b53c5cc5319a59e3b5f6d0fc1d",
+            "content": {
+                "en": "Ribbed for their pleasure"
+            }
+        },
+        {
+            "id": "w_58deb14e5ec901c5eb880c28c1007e7b6f9912e1",
+            "content": {
+                "en": "Ridiculously Photogenic Guy"
+            }
+        },
+        {
+            "id": "w_eddd8e90f704bf8a9e68c5ccd1fe19074a2759b7",
+            "content": {
+                "en": "Riding a horse"
+            }
+        },
+        {
+            "id": "w_3d857b1dc44c9711006c789bfd4af83083752c12",
+            "content": {
+                "en": "ROFLCOPTER"
+            }
+        },
+        {
+            "id": "w_5e6530437fa5efbd899c007b0d4c69a0a9a8ead3",
+            "content": {
+                "en": "Rolling Natural 20's"
+            }
+        },
+        {
+            "id": "w_155381cbc7c74d0a3b58b7dec055fb15f9da1321",
+            "content": {
+                "en": "Ruby on Rails"
+            }
+        },
+        {
+            "id": "w_4407b23905e88cd197239f0db7b7fc2cf35a792b",
+            "content": {
+                "en": "Rule 34"
+            }
+        },
+        {
+            "id": "w_3ec57d7d8e2280944d4e0dbe7744a57f8bd1375f",
+            "content": {
+                "en": "running backwards through a corn field"
+            }
+        },
+        {
+            "id": "w_9d1e6edd378ac6c8344ac8d991fc910bc273875a",
+            "content": {
+                "en": "Sabu"
+            }
+        },
+        {
+            "id": "w_fd3e1372f1d669ef8b9de87e8fe119c3c467d25d",
+            "content": {
+                "en": "Said no one ever!"
+            }
+        },
+        {
+            "id": "w_a19fb0fe8e469a56dd97b201d7dbfec8104aa8be",
+            "content": {
+                "en": "schrodinger&apos;s cat"
+            }
+        },
+        {
+            "id": "w_2cb636a87255b6e10200a3bc40d26406588b4119",
+            "content": {
+                "en": "Script kiddies"
+            }
+        },
+        {
+            "id": "w_0d0779aef19020976691c2e2f25fd1b85357db00",
+            "content": {
+                "en": "Security by obscurity"
+            }
+        },
+        {
+            "id": "w_a5939a2a5c6e45200d2a307823c947253f7534a6",
+            "content": {
+                "en": "Security Evangelist"
+            }
+        },
+        {
+            "id": "w_0c7a6d0933bcf386c40fa0e851b26613bfe1b847",
+            "content": {
+                "en": "Security theater"
+            }
+        },
+        {
+            "id": "w_a1e4e8ee12a1b1cc32d3c40376fd18bf2cd8b557",
+            "content": {
+                "en": "shenanigans"
+            }
+        },
+        {
+            "id": "w_ce28d39e1973d8984396003f6231533d715559c0",
+            "content": {
+                "en": "Shut up and take my money"
+            }
+        },
+        {
+            "id": "w_34ee7b787dcdf96ea4726f7277f7919b3c41f3c9",
+            "content": {
+                "en": "Situational awareness"
+            }
+        },
+        {
+            "id": "w_34970d7246256255bdb8d49f3d0c6374c898ba8c",
+            "content": {
+                "en": "Six gummy bears and some scotch"
+            }
+        },
+        {
+            "id": "w_c3de5e8bb5b77a01ba8e35858f16b67ab3d22ec1",
+            "content": {
+                "en": "Slow Clap"
+            }
+        },
+        {
+            "id": "w_b059cf6ca317a95cb60f74f48e1ef6893b9e75e0",
+            "content": {
+                "en": "Something something danger zone. I know. I&apos;m not even trying anymore."
+            }
+        },
+        {
+            "id": "w_b5a3d63d4be897a5e0504aebc7683cdb4326eccb",
+            "content": {
+                "en": "Spacedicks"
+            }
+        },
+        {
+            "id": "w_002a2aa5210fcd39b27e75d60b6c99aeaaad6c44",
+            "content": {
+                "en": "SPAM with Bacon"
+            }
+        },
+        {
+            "id": "w_078c31defccff69cbbf0b1c5fb5b1aff31590fda",
+            "content": {
+                "en": "Sponge Bob Square pants gay lover"
+            }
+        },
+        {
+            "id": "w_4709d9659200229eacb681fb218a758435c982e9",
+            "content": {
+                "en": "Spotting a FED"
+            }
+        },
+        {
+            "id": "w_34cad5abaa7c3c842c400b4625e323e0cffaa428",
+            "content": {
+                "en": "Spyware"
+            }
+        },
+        {
+            "id": "w_c3d3af07d6e79183a7c87b53cbd8537d0c48ccb5",
+            "content": {
+                "en": "Squirrel"
+            }
+        },
+        {
+            "id": "w_0993dd67a77150bc05719bc4b56848b654932d28",
+            "content": {
+                "en": "SRDF (Self Righteous Dick Face)"
+            }
+        },
+        {
+            "id": "w_226b4d2918b66b1bc4ea68da7fafb58d9920a73b",
+            "content": {
+                "en": "Steampunk"
+            }
+        },
+        {
+            "id": "w_ef68c0387f066075f1d31b27a709b1629ec371b5",
+            "content": {
+                "en": "Steve Wozniak"
+            }
+        },
+        {
+            "id": "w_b290a1903b2d8ab15a169e7d7f96b8acc5c9f79e",
+            "content": {
+                "en": "Sticky keyboard"
+            }
+        },
+        {
+            "id": "w_f0ddc2f90e1cf935bc3ad71e89913d3c2cd4637e",
+            "content": {
+                "en": "Stolen laptops"
+            }
+        },
+        {
+            "id": "w_03ff08fa6009b98294d57175113d3a2a7c46e9ed",
+            "content": {
+                "en": "Sweat, anger and shame"
+            }
+        },
+        {
+            "id": "w_bd5c7318381b3c7f87e1147eeb28d4c1210417dd",
+            "content": {
+                "en": "TARDIS"
+            }
+        },
+        {
+            "id": "w_56ba1a2ce4b12b0fabe0efbbef47008735d15809",
+            "content": {
+                "en": "Tentacle Porn"
+            }
+        },
+        {
+            "id": "w_f3af6e1237e0e244c6e55b181144919f1d1c9357",
+            "content": {
+                "en": "That just happened and we let that happen."
+            }
+        },
+        {
+            "id": "w_57568fd1b6b759a3b2b6f856597cc8a53794a9e9",
+            "content": {
+                "en": "That place where I put that thing that time."
+            }
+        },
+        {
+            "id": "w_59c2bda4609b7039f188486ab3828681cbc2cea8",
+            "content": {
+                "en": "That&apos;s Racist!"
+            }
+        },
+        {
+            "id": "w_c45c797f639f21cdb6f7a14574a1974e5fa4f5d3",
+            "content": {
+                "en": "The asshole sitting to my left"
+            }
+        },
+        {
+            "id": "w_0f4a3b43ac1e6b37289a50da35eec9cc207c7804",
+            "content": {
+                "en": "The asshole sitting to my right."
+            }
+        },
+        {
+            "id": "w_b4b575aa5505289e01858362db873537501aab3c",
+            "content": {
+                "en": "The fractured elements of her psyche reassembled themselves into an exact likeness of a snarling ferret and she self-destructed"
+            }
+        },
+        {
+            "id": "w_4c0147b6d37796e3d9d595674b6e68fe023e4414",
+            "content": {
+                "en": "The plan was to crowd source a plan."
+            }
+        },
+        {
+            "id": "w_9181f4c5d682b56cf3e8648711631c4960d31f47",
+            "content": {
+                "en": "The smell of glitter and lost dreams"
+            }
+        },
+        {
+            "id": "w_c01462bbef913cf7f37b98cb53565b78fc8998ab",
+            "content": {
+                "en": "The Spanish Inquisition"
+            }
+        },
+        {
+            "id": "w_eedff11f84aeb30194bb9c0372ba3a12c860e7bd",
+            "content": {
+                "en": "There&apos;s talks at DEF CON?"
+            }
+        },
+        {
+            "id": "w_deac16ca35c932c7e3d392d7f85b897e8b4941f9",
+            "content": {
+                "en": "Threat modeling"
+            }
+        },
+        {
+            "id": "w_6b2f6cf2e1b617ce7a81fa90a9fec47e57b28d90",
+            "content": {
+                "en": "Throat Punching"
+            }
+        },
+        {
+            "id": "w_5ff57f4185e884322f43c9c59da60f12f41285ea",
+            "content": {
+                "en": "TL;DR"
+            }
+        },
+        {
+            "id": "w_d2daca6a5e5b45854919887675263a5453eda4a2",
+            "content": {
+                "en": "Tongue punch that fart box, boy"
+            }
+        },
+        {
+            "id": "w_361a829ef4b9f64356394043fae5b510871a9e64",
+            "content": {
+                "en": "Toxic BBQ"
+            }
+        },
+        {
+            "id": "w_9ef9962fa8b815b72b40f5917bf38ad2afb0eb06",
+            "content": {
+                "en": "Tractor Beam"
+            }
+        },
+        {
+            "id": "w_79691863f46c4155eacd0f2380dcb9d3e43afc47",
+            "content": {
+                "en": "Trigger word"
+            }
+        },
+        {
+            "id": "w_04b8fb589d67495e40c7f4c94abbcc740c991d88",
+            "content": {
+                "en": "Truffle Shuffle"
+            }
+        },
+        {
+            "id": "w_aacceb461a233c4ac922714400471affab7cb072",
+            "content": {
+                "en": "Two Girls One Cup"
+            }
+        },
+        {
+            "id": "w_df6323fabc012dd40a9b92bd14c85373c4ae007f",
+            "content": {
+                "en": "UDP Handshake"
+            }
+        },
+        {
+            "id": "w_5b412f8cfd12edb8704070ee8e6c4c8e3f7540c7",
+            "content": {
+                "en": "Undercover NBC DateLine Reporter"
+            }
+        },
+        {
+            "id": "w_9f04b7556a2425cf0e4a09e3993dacfb6733b607",
+            "content": {
+                "en": "User Error"
+            }
+        },
+        {
+            "id": "w_455fcfaa794c48c21c647b8b40ec0c78b065a981",
+            "content": {
+                "en": "Using 4Chan for parenting advice"
+            }
+        },
+        {
+            "id": "w_2386df92eecb3e202c80e6e54b2991c2d3e2bca3",
+            "content": {
+                "en": "Using womens rights for personal gain"
+            }
+        },
+        {
+            "id": "w_e6275f3f3f0157b62b65c9242aac7b210fed59bf",
+            "content": {
+                "en": "Vegas 2.0"
+            }
+        },
+        {
+            "id": "w_0c2ac6d431093099a4fc475978d39a0bfecc0588",
+            "content": {
+                "en": "Vinyl Vanna"
+            }
+        },
+        {
+            "id": "w_1abee1bf5392499745c6ac50430f17eef7b3b2a1",
+            "content": {
+                "en": "W.O.P.R."
+            }
+        },
+        {
+            "id": "w_738a9cab434acffb635008ec8fb245703ffa031d",
+            "content": {
+                "en": "Warp core breach"
+            }
+        },
+        {
+            "id": "w_247ed4d5227735afc0984f75c2c7fae0837121c7",
+            "content": {
+                "en": "Weak Sauce"
+            }
+        },
+        {
+            "id": "w_3b9e300a9c4a863a3bd7a9c211c7fd2ea52fa56d",
+            "content": {
+                "en": "White Shirt"
+            }
+        },
+        {
+            "id": "w_f629ef616ac6e45bebd5ff521dfc7538003b44d5",
+            "content": {
+                "en": "Why not Zoidberg?!"
+            }
+        },
+        {
+            "id": "w_f9b01d5966ff102c14bbabe85014c91a1485d52f",
+            "content": {
+                "en": "Wikileaks"
+            }
+        },
+        {
+            "id": "w_9c10d683aebfc7eb49bbb22c43ac18bd39a0d7b2",
+            "content": {
+                "en": "Wilfrord Brimley&apos;s Mustache"
+            }
+        },
+        {
+            "id": "w_9fe8c734d18c33e1fe587ed88ac86891c9413013",
+            "content": {
+                "en": "Windows 8.1"
+            }
+        },
+        {
+            "id": "w_b6abe12869542fb8d58d361fb1b5ca4024b08fb7",
+            "content": {
+                "en": "Windows update"
+            }
+        },
+        {
+            "id": "w_9c09d78978493a3b74f024f5b3bac597ea4446f0",
+            "content": {
+                "en": "Zero F**K&apos;s Given!"
+            }
+        },
+        {
+            "id": "b_fefcf0b7457345feeb435bcc05bc19f2f6fda301",
+            "content": {
+                "en": "\/r\/ ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_338e63a75296c4d200b1bf94e49b0653dfdad216",
+            "content": {
+                "en": "35% of all hackers have to deal with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_53d471105bd8ee41b402a6fdbc1793af8ad75c2a",
+            "content": {
+                "en": "All I did was ______ but someone gave me a red card"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_07004cd3bb6d63a4084bf78f86c288a16aa70427",
+            "content": {
+                "en": "Am I the only one around here who ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1f769394e8155707b6aab37ef80ee2846c7c985",
+            "content": {
+                "en": "But does ______ run NetBSD?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bdde198098ec57e8347e62d0c2fd575924db2e76",
+            "content": {
+                "en": "Closing Ceremonies drinking game: Every time ______ is mentioned... DRINK!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc0dd151ab4b5ac8d39ca974a057895ba1280a3e",
+            "content": {
+                "en": "Come to the dark side, we have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c9ed30cc4182018e30957d6642be726d5123cfce",
+            "content": {
+                "en": "Confession Bear Says: ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_683cf6e3ee3b962ba5e16907dec9b764cdc1fdb9",
+            "content": {
+                "en": "Def Con Kids will now focus on teaching young hackers ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ae02d989fcf32eae25c7941aedf10286ba0ad50",
+            "content": {
+                "en": "Do you even ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_120672ed8992bd0eee2dadd475d10209aeb75470",
+            "content": {
+                "en": "Drink all the ______. Hack all the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_12bfeabb06c5b7a9a4776f9684246e0f0ced94dd",
+            "content": {
+                "en": "Go Go Gadget ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee6f5f25776f4f0452adc374b7b53d1ff2f816b4",
+            "content": {
+                "en": "Go home ______, you're drunk"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba06f7ce72a832bde9f8b77a8657f54703aaee00",
+            "content": {
+                "en": "High Tech start-up company combines ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_20ffc9621510663ce0863b68573461d7f611f858",
+            "content": {
+                "en": "HOLY ______ BATMAN!!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d4ef689b0c2c7983a82a0f5c91c5047161225768",
+            "content": {
+                "en": "I can haz ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d4f83e8d5fbccbea831491c87ec15058c599d6d8",
+            "content": {
+                "en": "I can't believe they rejected my talk on ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca3ee9df0b0afe719660acdea14cbf4ce7420d56",
+            "content": {
+                "en": "I find your lack of ______ disturbing"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f36f3ca117e8cb2146d955bafe985b50eb8fc22",
+            "content": {
+                "en": "I have the biggest ______, ever!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_62ba345efb2739a1d5b0b58b499ed73651874699",
+            "content": {
+                "en": "I look like a geeky hacker, but I don't know anything about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9121361d5f5af53326a5f39fba5c225ed661b3a2",
+            "content": {
+                "en": "I spotted the fed and all I got was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5c7a09aff8dfe99e1765545db49e8bda9f6c552e",
+            "content": {
+                "en": "I use ______ to secure all of my personal data."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bb39648e9f154d2cc976ed0df1600a9b7f2cf19c",
+            "content": {
+                "en": "I used to be a hacker like you, until I took a(n) ______ to the knee"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_35078c7e4d6c8162d411edfabf3a3e5f75bcd6f2",
+            "content": {
+                "en": "I work 80 hours a week and still can't afford a ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8613b9463dc903e46c535758d47df075d529f7de",
+            "content": {
+                "en": "I would be doing more with my life, except for this ______ in the way"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_990bb0317057f3b13693e1e6f1e3d596411a7ed5",
+            "content": {
+                "en": "I&apos;m fucking tired of hearing about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7dc8ec84786ee926dcb7495b0787fbcc09a08c93",
+            "content": {
+                "en": "I'mma let you finish but ______ is the best ______ of all time."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_dbf1e1065c19fda57c7fd06ade9080eb54c7f6f4",
+            "content": {
+                "en": "In a Congressional hearing, US CYBERCOM commander Gen. Alexander claimed the latest data breach was due to ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_89176ac97839e34beeee5bc2f45afc2869e04e45",
+            "content": {
+                "en": "In a shocking move Archive.org decided to NOT back up ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d6b811cacc2d2680e63e94091866cbca89516f2",
+            "content": {
+                "en": "It smells like ______ in this room."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ace77544b8d13e451e21b8295671dba5e19ed1d1",
+            "content": {
+                "en": "It&apos;s dangerous to go alone. Take ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2ac9c2c6abfff3277ce1034ebbd9b2fe44517d2",
+            "content": {
+                "en": "Keep calm and ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_617c3cb2b628f441fc05934a5f94f971f4f1de6b",
+            "content": {
+                "en": "Las Vegas is best known for ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d1658a27bf097416aa6c2e32e41274594df18044",
+            "content": {
+                "en": "Most hackers smell like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_29656688338e7576491fc2d5d95fcc65f02f616a",
+            "content": {
+                "en": "My extremely large ______ is what makes me better then you"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b84826f6d06b5d78b036271bfc7ff76f3a22a97",
+            "content": {
+                "en": "My ______ brings all the ______ to the yard"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_dbd201d9fbcecbdfdc47197634c161c0b5083ff2",
+            "content": {
+                "en": "Name something you should never do naked"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0fb513c19dfb8253aa09dc4d53eab22c9df2450",
+            "content": {
+                "en": "Next time we meet we should ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ded8d1315c97a3da6a5b2dabe5823e93c5ed459",
+            "content": {
+                "en": "Next year&apos;s scavenger hunt is rumored to include finding a ______ with a ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4e79fdba3de63b42bd98e0f8f0350dd0f7c15115",
+            "content": {
+                "en": "Not another ______ in the hotel elevator!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6d55faa0df4abcfc675da62250dfaf163ab53efd",
+            "content": {
+                "en": "Occupy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5884aca612b37fa2332904d38188b14265d4570e",
+            "content": {
+                "en": "On the Internet, no one can tell you're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8512dc4a94e32c9f6165208a828f9beb5d944c1f",
+            "content": {
+                "en": "One day, over my fireplace, I&apos;m going to have a massive painting of ______. You know, to remind me where I came from."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d86c9e8a8e707d578875f640eef744b027c9f888",
+            "content": {
+                "en": "One does not simply ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b31a4eb2f0e1602fad88ce67b9927b39359d997",
+            "content": {
+                "en": "Only half of programming is coding. The other 90% is ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f727ee771d55ddc8ca97355199aa14e0d48a04d",
+            "content": {
+                "en": "Our most powerful weapon for the Zombie Apocalypse will be ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da03a31c35b19dd5a1dbe4fa5f2e7fe2651aa09d",
+            "content": {
+                "en": "Rock, Paper, Scissors, Lizard, ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_66d9ac7c6ed3e69ef93d37a6eb83001e17502378",
+            "content": {
+                "en": "Rule 34 ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1103298157bcad0241a59110f90ac85e068e8b9b",
+            "content": {
+                "en": "Security through obscurity is better than ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bba30c4fe73fc76c091d5841fa9932d05fccda78",
+            "content": {
+                "en": "So long and thanks for all the ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6873e1eebe3e3a21353960d869a7725fe5199b75",
+            "content": {
+                "en": "The Ada Inititive is now attacking ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_58c442f7916f4ae625e710589ec9f94b4c76eef3",
+            "content": {
+                "en": "The best part of Alexis Park was all the ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4c08c6d88477f653c15eee60bf840dee31846b5d",
+            "content": {
+                "en": "The Maker Faire was unexpectedly interrupted by ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7491cc5430ca0d94ad1b019c6b67e0f2062b5e80",
+            "content": {
+                "en": "The next cyber war will feature ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_943e07ea099925fffe2b6f6a56ea5d8c8046b1aa",
+            "content": {
+                "en": "The only winning move is to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca04dbcc8a06b45ada71fe6d58dfad907c6d87d7",
+            "content": {
+                "en": "The snozberries taste like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_827f53b09ac51cd0e8cfeaeda7a0302475c85c43",
+            "content": {
+                "en": "These are not the ______. you are looking for"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e93ee5425545925ce4df802b170d3584278a030b",
+            "content": {
+                "en": "Today&apos;s PaulDotCom podcast featured ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_07cb503cc42903bf026eeac9891e9489e926582b",
+            "content": {
+                "en": "Tonight&apos;s Final Hacker Jeopardy category will be ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0a3bfaffd2419ec44f3b8339feefc568a4dfa6a4",
+            "content": {
+                "en": "TSA wouldn't allow me through because of my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4d6e9ebe8c69e9d76c4a18026760656f19eb0f0b",
+            "content": {
+                "en": "We decided to ______ to raise money for the EFF."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b91ebc8e1e1ed90ba16836aa20325d306aa727b",
+            "content": {
+                "en": "We should take ______ and push it ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_74209ebf69530be1ccaf908aed46f289560426b4",
+            "content": {
+                "en": "Well, guess what? I&rsquo;ve got a fever, and the only prescription is more ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4639a977150dd956cacd33db02cb99d0e11906de",
+            "content": {
+                "en": "Well, guess what? I've got a fever, and the only prescription is more ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2dd01d5fe8e16c50ce3b0d9a0a6359f0bb79137",
+            "content": {
+                "en": "When I get drunk I am an expert on ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ec46cfbb8440c8e5849190168bc9a33d65f2827",
+            "content": {
+                "en": "Where can I download more RAM?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f98c30f6896123a55520efcdf331d64bcb386d76",
+            "content": {
+                "en": "While alone in the server room I ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_50ce74d9f160f4e66835a5c1360f647ff6d998ce",
+            "content": {
+                "en": "Y U NO ______!!!!!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9c7a250d465a7ef89b3e3a10508ca0b34d11af8c",
+            "content": {
+                "en": "______ A'int Nobody Got Time For Dat!!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0869eb751d1daaefa2b5dab83a8879b00b42be79",
+            "content": {
+                "en": "______ is a better replacement for crypto"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bf2c4178a9fa49815ca075a4a12659a2300eea58",
+            "content": {
+                "en": "______ is also monitored by Prism"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee928dc27982521109acb81a8a8e47cf019ccb19",
+            "content": {
+                "en": "______ is now outsourced to call centers in India"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_49656990a2dd99f1bf1ba9a21c56abc33f0c413c",
+            "content": {
+                "en": "______ is what keeps us together"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8087dd269113bc0d8597b59966aed7b18971d130",
+            "content": {
+                "en": "______ Killed the barrel roll"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ab5a6f3b2cb7035313b7f669aa396aa0ed93aec",
+            "content": {
+                "en": "______ makes me puke rainbows"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e8c78115224d20aee018e6fe82281d28948e9761",
+            "content": {
+                "en": "______ Put a bird on it!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_be03ec07803c11317bd7ec8a3938f7863793bdf9",
+            "content": {
+                "en": "______ riding a Segway"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3cc0b2ab27a455ff4f71f2a54b40c74786cf36e3",
+            "content": {
+                "en": "______ shot first"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f28149febb6bf268e0cb52540bf7d209a1b2cf2b",
+            "content": {
+                "en": "______. There&apos;s an app for that!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f4d01d32e10bbe93de14141b6d9861429c75c5b",
+            "content": {
+                "en": "______. This is why I cant have nice things!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55342111ada736c8ff56da9083196b8ee3eccaaf",
+            "content": {
+                "en": "______: You keep using that term. I do not think it means what you think it means."
+            },
+            "pick": 1
+        }
+    ]
+}

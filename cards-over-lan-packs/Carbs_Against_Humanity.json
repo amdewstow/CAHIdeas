@@ -1,0 +1,1661 @@
+{
+    "id": "Carbs_Against_Humanity",
+    "name": "Carbs Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_6e42e58a8d2c286c1ac250df32354bcfe90729d9",
+            "content": {
+                "en": "24-inch salami."
+            }
+        },
+        {
+            "id": "w_4e2fff143df061fc1bd0d3c32817388a0e4616c2",
+            "content": {
+                "en": "5 Hour Energy."
+            }
+        },
+        {
+            "id": "w_4f775fb69d391dfa4c2a018be8678d24c926260e",
+            "content": {
+                "en": "50 Shades of Chicken."
+            }
+        },
+        {
+            "id": "w_11baf2880ba9d814c83b2a71dff0266b0a5c9e60",
+            "content": {
+                "en": "A Cunning Hat."
+            }
+        },
+        {
+            "id": "w_c1925a39a01239b02d36fba267632daa4615ffd1",
+            "content": {
+                "en": "A Feast of Crows."
+            }
+        },
+        {
+            "id": "w_638302a29da2d56295367ea8cabb0ca37bd8d9d8",
+            "content": {
+                "en": "A poisoned apple."
+            }
+        },
+        {
+            "id": "w_d38715737e2b28711b140329a2909efedcb9bf23",
+            "content": {
+                "en": "A Raspberry Beret."
+            }
+        },
+        {
+            "id": "w_26c305f29141dec126d2369d1eddb32e3b2f5323",
+            "content": {
+                "en": "A shot glass full of Super Soldier serum."
+            }
+        },
+        {
+            "id": "w_cd0c313ed1c3c2916e684e975e7d4efed9ab246c",
+            "content": {
+                "en": "A writhing plate of live gagh."
+            }
+        },
+        {
+            "id": "w_610e7406a6c69f78df0a39db051be95d0fb12a38",
+            "content": {
+                "en": "Alton Brown&apos;s food-science gone wrong."
+            }
+        },
+        {
+            "id": "w_11354d89374ca052972a5707d277a159161b0805",
+            "content": {
+                "en": "An Unexpected Cookbook."
+            }
+        },
+        {
+            "id": "w_410bc0e08f369104f32c966d6cf568706656a597",
+            "content": {
+                "en": "Anal probe."
+            }
+        },
+        {
+            "id": "w_93f047ce6400a75a08875329b3fa47e40f2a307a",
+            "content": {
+                "en": "Ankh-Morpork&apos;s second worst street food."
+            }
+        },
+        {
+            "id": "w_d1f2c273e44117af32954e234b8c41f230524edc",
+            "content": {
+                "en": "Bachelor Chow."
+            }
+        },
+        {
+            "id": "w_1f78ba047238619b251ed3752d25de700b61bcba",
+            "content": {
+                "en": "BBQ pterodactyl wings."
+            }
+        },
+        {
+            "id": "w_edb73e0d2ff064d6554458e9fda97cfdc5297185",
+            "content": {
+                "en": "Blueberrified Violet Beauregarde."
+            }
+        },
+        {
+            "id": "w_06d58add2f989e0865fc43688699ecc08aadd426",
+            "content": {
+                "en": "Budweiser Clydesdale equine shaft."
+            }
+        },
+        {
+            "id": "w_4dd907b7348e803ba918aa712431dbd69abc4170",
+            "content": {
+                "en": "Captain Hook&apos;s Cruelty-Guaranteed 100% Fresh Mermaid Patties."
+            }
+        },
+        {
+            "id": "w_c95bf4fc28524f75df84752bcfc25f5cfc515b01",
+            "content": {
+                "en": "Carb-free cabbage."
+            }
+        },
+        {
+            "id": "w_a79c199e9018bf68f72899e5d9a8fae7fac41885",
+            "content": {
+                "en": "Cheese made from human breastmilk."
+            }
+        },
+        {
+            "id": "w_23ce3be060ed82d20c9905125b0eee75e2a08c0c",
+            "content": {
+                "en": "Chestbursters."
+            }
+        },
+        {
+            "id": "w_b6419f3a7acc8e70009725a88610ab69c7ba472a",
+            "content": {
+                "en": "Chinese medicine made from tiger penises."
+            }
+        },
+        {
+            "id": "w_b8c12d773f34a26cced9f3d29c6931ce214dd028",
+            "content": {
+                "en": "Chocolate Bear."
+            }
+        },
+        {
+            "id": "w_7411e4f6d88137217446ffbaa6ef5ade3288ff35",
+            "content": {
+                "en": "Chris Hardwick&apos;s alternate-universe evil goatee."
+            }
+        },
+        {
+            "id": "w_56a9871648158adf12c312294c16f80cc331fe08",
+            "content": {
+                "en": "Crackers."
+            }
+        },
+        {
+            "id": "w_dcf7c719a8dbf675a3c3fe629d8a16203ce75c92",
+            "content": {
+                "en": "Cthulhu Calamari."
+            }
+        },
+        {
+            "id": "w_fad21dc44ac1a6b804284055e7047b7ea0a17a97",
+            "content": {
+                "en": "Daryl Dixon&apos;s squirrel sushi."
+            }
+        },
+        {
+            "id": "w_3d6390a83f6d953eb8bd92e32e315f1af9091efb",
+            "content": {
+                "en": "Dave Lister&apos;s Curries."
+            }
+        },
+        {
+            "id": "w_8452f5cf81ecf36805d246c1f4627700cf4e3168",
+            "content": {
+                "en": "Deep-fried mayonnaise."
+            }
+        },
+        {
+            "id": "w_3d35c1bfb5ec623502d3f8955302d7f1303fa1df",
+            "content": {
+                "en": "Dehydrated Kiwi."
+            }
+        },
+        {
+            "id": "w_addbbb52efcc4ebecdbbd7ef190b8f33622b09a8",
+            "content": {
+                "en": "Demon George Washington&apos;s wooden teeth."
+            }
+        },
+        {
+            "id": "w_e36403b7fc215ae9ac1ee3beb95626321c4e7ced",
+            "content": {
+                "en": "Demonic possession by Paula Deen."
+            }
+        },
+        {
+            "id": "w_b7b2972537c662143ba5d3cf4e29a7152d70a88c",
+            "content": {
+                "en": "Dick-shaped cakes."
+            }
+        },
+        {
+            "id": "w_b2f82ca9d432cc64bc9b33cb2cf4a6e85645ae11",
+            "content": {
+                "en": "Dining with the Doctor."
+            }
+        },
+        {
+            "id": "w_ecb38ccaeb932046fe9f18237628fb20c0f892ee",
+            "content": {
+                "en": "Dog food made from retired donkey show employees."
+            }
+        },
+        {
+            "id": "w_4ff69b07f621ddaaa95fedac017b49fac33fa7c1",
+            "content": {
+                "en": "Dragon Meat Ceviche."
+            }
+        },
+        {
+            "id": "w_560f16606f500644d680f71dc2cfff877acbb3bb",
+            "content": {
+                "en": "Durian."
+            }
+        },
+        {
+            "id": "w_d55a8a7d49e432da3d75715e21ace22e55298a66",
+            "content": {
+                "en": "Ecto Coolers."
+            }
+        },
+        {
+            "id": "w_f1529a705bccebffd67b27739d3ed1ea65585a94",
+            "content": {
+                "en": "Edible gears."
+            }
+        },
+        {
+            "id": "w_77d1344add4bbaed1757f88ee891946924217244",
+            "content": {
+                "en": "Explosive diarrhea."
+            }
+        },
+        {
+            "id": "w_c2777e16df657908a86344ae00cae92d95a95dd7",
+            "content": {
+                "en": "Fava beans and Chianti."
+            }
+        },
+        {
+            "id": "w_2ed27be6cb09d7cc6f06904ae4ca43223490bac2",
+            "content": {
+                "en": "Finger Lickin&apos; Good."
+            }
+        },
+        {
+            "id": "w_d79a1c86918577769ddbd2d8330ad9af60a99ac8",
+            "content": {
+                "en": "Five-dollar footlong."
+            }
+        },
+        {
+            "id": "w_62832724392ef0ae3ead9fed276107d7691cdf7a",
+            "content": {
+                "en": "Food cubes."
+            }
+        },
+        {
+            "id": "w_e9b28a41be7ed35e8dd7686f51afad3f5dda7ed1",
+            "content": {
+                "en": "Food porn."
+            }
+        },
+        {
+            "id": "w_827107d29eb907a865424ea1e99788d699c9dcf0",
+            "content": {
+                "en": "Fried chicken, watermelon, and purple drank."
+            }
+        },
+        {
+            "id": "w_83c9672546ac19c42ef473f6c85dba643067e44f",
+            "content": {
+                "en": "Fruit Loops."
+            }
+        },
+        {
+            "id": "w_a58ca0f7d306d438e43b281eb6799687b16f7989",
+            "content": {
+                "en": "Gas station egg salad sandwich from the future."
+            }
+        },
+        {
+            "id": "w_33b8db34c5e79832470b3a6f1b5380174e648472",
+            "content": {
+                "en": "Gerber Low-Flow Latex Nipples."
+            }
+        },
+        {
+            "id": "w_eebcf00f8cf2eccf5216c4413c4277e5e6184b50",
+            "content": {
+                "en": "Gingerbread hipster eyeglasses."
+            }
+        },
+        {
+            "id": "w_d46331c680216410838631e703fbc587b03b00c6",
+            "content": {
+                "en": "Gluten."
+            }
+        },
+        {
+            "id": "w_716295bf21ad23dbceb753777bfe029b9a0ba7e2",
+            "content": {
+                "en": "Golden eggs."
+            }
+        },
+        {
+            "id": "w_6c2f7432aa5359e9af9343fae8a7116b002a02b4",
+            "content": {
+                "en": "Green Eggs and Ham."
+            }
+        },
+        {
+            "id": "w_e0d1280e4e28631cbfabab367014e0742be4bd54",
+            "content": {
+                "en": "Gushers."
+            }
+        },
+        {
+            "id": "w_929c6fc308942de865059093c0a3d82e6dbdee93",
+            "content": {
+                "en": "Half-rotted zombie brains."
+            }
+        },
+        {
+            "id": "w_9699502cedb6e8647b1c7a98636465fd8291f6f7",
+            "content": {
+                "en": "Hatin&apos; on the darkness like Paula Deen."
+            }
+        },
+        {
+            "id": "w_6a531bc73689e8c8bcd693bcf1c29d00336c3045",
+            "content": {
+                "en": "Hawaiian Spam Sushi."
+            }
+        },
+        {
+            "id": "w_1e3058ecd692b19208be8b5be741943e1024ac1a",
+            "content": {
+                "en": "How to Serve Man."
+            }
+        },
+        {
+            "id": "w_96eac7a62b16e1cf771a5f9bd4f2c82ba648bb35",
+            "content": {
+                "en": "Humperdink! Humperdink! Humperdink!"
+            }
+        },
+        {
+            "id": "w_4da7d2cffb9879bd199727a185aa805e3401d4d1",
+            "content": {
+                "en": "Hunger Game tribute&apos;s last meal."
+            }
+        },
+        {
+            "id": "w_e86d883812868e821e7ee806cf6b069aaf874c54",
+            "content": {
+                "en": "Illustrated Geek Recipes."
+            }
+        },
+        {
+            "id": "w_e07b104e6876e75b0091b457158fe25305b8190e",
+            "content": {
+                "en": "Inconceivable!"
+            }
+        },
+        {
+            "id": "w_6e86cd1da6fb9bb6c5e266bf4682919742dce9b7",
+            "content": {
+                "en": "It looked different on Pinterest"
+            }
+        },
+        {
+            "id": "w_9e1ce4a4defd18d35bbee66df745ebbb20b54be5",
+            "content": {
+                "en": "Jedi refectory cafeteria food."
+            }
+        },
+        {
+            "id": "w_572adf51123d76eb58a9a4fccba55019532b5237",
+            "content": {
+                "en": "Jello Jigglers."
+            }
+        },
+        {
+            "id": "w_b96f3e10ae7c1ff85732b42265c5b84fac0ce3f7",
+            "content": {
+                "en": "Jesus on your grilled-cheese sandwich."
+            }
+        },
+        {
+            "id": "w_1e02b89c974685ced9e83d3f4b12be8c5851fc61",
+            "content": {
+                "en": "Kaiju meat."
+            }
+        },
+        {
+            "id": "w_280fa999655a9a198a5d8889937424340da8934d",
+            "content": {
+                "en": "Kale, couscous, and day-old semen."
+            }
+        },
+        {
+            "id": "w_e251d6c48425856b31c0a2c9d254e24b39f5f7d6",
+            "content": {
+                "en": "Keebler All-Elf Orgy."
+            }
+        },
+        {
+            "id": "w_588f2b8569318dbfd9d0663db5b236f8e7001021",
+            "content": {
+                "en": "Kitchen Overlord."
+            }
+        },
+        {
+            "id": "w_d0943354185b423b105ffad54966b9ff37c9d0be",
+            "content": {
+                "en": "Lactose intolerance."
+            }
+        },
+        {
+            "id": "w_f7cdd079182c45ba09387f2f8ad6f12ddaa21c4e",
+            "content": {
+                "en": "Lazarus Long&apos;s mother."
+            }
+        },
+        {
+            "id": "w_d7a681fe98f2dd1b0ac876c48ec101fd3f9659f6",
+            "content": {
+                "en": "Lemon Puckers."
+            }
+        },
+        {
+            "id": "w_74f27f415c5a7a3836c126c5a4b642e25674a627",
+            "content": {
+                "en": "Made From Real Girl Scouts."
+            }
+        },
+        {
+            "id": "w_4e4dd3282662206838da0355cbb2fa6dc03e3e8c",
+            "content": {
+                "en": "Magically delicious."
+            }
+        },
+        {
+            "id": "w_7c3de8794e7f5fca2cdb374c2cd24c788d218371",
+            "content": {
+                "en": "Mammoth kabobs."
+            }
+        },
+        {
+            "id": "w_8326301a56d696bd10793a442569c519575f525f",
+            "content": {
+                "en": "Man O&apos;War drunk on Manischewitz."
+            }
+        },
+        {
+            "id": "w_8a49c35ea881a2f25cd777e0cca94707d8828f20",
+            "content": {
+                "en": "Martha Stewart&apos;s prison bitch."
+            }
+        },
+        {
+            "id": "w_387eae156677269675fe36306c9c7ba08c77acec",
+            "content": {
+                "en": "Me Lucky Charms."
+            }
+        },
+        {
+            "id": "w_27ea43fd43c58e4a1d6a48ae08d09bee758b6d3e",
+            "content": {
+                "en": "Meow Mix."
+            }
+        },
+        {
+            "id": "w_2782d9a56dcec528292c48cc2d54793167f541ce",
+            "content": {
+                "en": "Molecular gastronomy."
+            }
+        },
+        {
+            "id": "w_49a629dad4196792a44b0edbe1323560cc0813f9",
+            "content": {
+                "en": "Monkeys beating sticks against an obelisk."
+            }
+        },
+        {
+            "id": "w_07c5121e323e1dc99bef92563c35c5f2ac7663d5",
+            "content": {
+                "en": "More Damn Absinthe"
+            }
+        },
+        {
+            "id": "w_c30483085711fcb3d5c77d6f7c4bc48e1ee7be44",
+            "content": {
+                "en": "Necronomicon for Dummies."
+            }
+        },
+        {
+            "id": "w_53c89897250bda88091e7c50bb48d7daf663c70d",
+            "content": {
+                "en": "New Coke."
+            }
+        },
+        {
+            "id": "w_9d8453b36fd7eaa73fce5677437bddebdbd9a2e9",
+            "content": {
+                "en": "Nightmare fuel."
+            }
+        },
+        {
+            "id": "w_b57d5c2590302c6e0ac9593e183dfb2509314aee",
+            "content": {
+                "en": "Now fortified with extra gluten!"
+            }
+        },
+        {
+            "id": "w_b0922ca3e40f77d0a5a1241ee6e27be3e80b97ca",
+            "content": {
+                "en": "One night with Bea Arthur."
+            }
+        },
+        {
+            "id": "w_01590302461ffd362e744b7313e30b6041cc2055",
+            "content": {
+                "en": "P.B.R."
+            }
+        },
+        {
+            "id": "w_fe445f5f771a0b1c9fd7f3bf3db2da32f071779b",
+            "content": {
+                "en": "Pan-Galactic Gargle Blaster."
+            }
+        },
+        {
+            "id": "w_8db76f2d840e68bdf96498d70ec8331f870456e5",
+            "content": {
+                "en": "Penis-shaped bong."
+            }
+        },
+        {
+            "id": "w_aced2c0e44c1a4cf50e3d216d8a4f24862998658",
+            "content": {
+                "en": "Pizza Planet."
+            }
+        },
+        {
+            "id": "w_3ff6ca3d97396cd2ac0d8ea8f3c0036313162e04",
+            "content": {
+                "en": "Pop Rocks."
+            }
+        },
+        {
+            "id": "w_c681fbb1a14c9d84f61b10d36a482a144551a318",
+            "content": {
+                "en": "Popplers."
+            }
+        },
+        {
+            "id": "w_f793fd5f4c5d181b456f0a0586ede6e3173c16e2",
+            "content": {
+                "en": "Pork Belly."
+            }
+        },
+        {
+            "id": "w_0ad9c28146c0c8c48385512551943b88c3f5a40b",
+            "content": {
+                "en": "Post-apocalyptic canned goods."
+            }
+        },
+        {
+            "id": "w_4e095ac268537a2c407a325ec24807804bd9ee33",
+            "content": {
+                "en": "Ragnar Lothbrook&apos;s baby-goat fetish."
+            }
+        },
+        {
+            "id": "w_05299c2e0384031768441f2029852de85d354da0",
+            "content": {
+                "en": "Rainbow-colored unicorn meat."
+            }
+        },
+        {
+            "id": "w_534a3341b3544a6c54e623d49bc864745f6f6ecd",
+            "content": {
+                "en": "Riker&apos;s beard."
+            }
+        },
+        {
+            "id": "w_7d12336a798913e4cc192091f5cb91fb128fad20",
+            "content": {
+                "en": "Rocky Mountain Oysters."
+            }
+        },
+        {
+            "id": "w_74cdbdf0b959e11d9166cb96cd94459c35af00e8",
+            "content": {
+                "en": "Roofies."
+            }
+        },
+        {
+            "id": "w_ef43ff68d86186a724070c4d8e9385017fdf5dac",
+            "content": {
+                "en": "Roomba fighting ring."
+            }
+        },
+        {
+            "id": "w_3c9279a2eaf94e895b7ed19e38e59b06082a3c39",
+            "content": {
+                "en": "Sacramental wine."
+            }
+        },
+        {
+            "id": "w_14a78e7ef564b6447d2545d82f6ade28e5b54e13",
+            "content": {
+                "en": "SadTech Rations from 2077."
+            }
+        },
+        {
+            "id": "w_328f70bc9ade7dbc4a4b10c1dd40815c49b60884",
+            "content": {
+                "en": "Sarah Connor&apos;s home cooking."
+            }
+        },
+        {
+            "id": "w_dac1af717b3fc8ee865fd0d0e29c25e84cd7b0b8",
+            "content": {
+                "en": "Sashimi eaten off Wolverine&apos;s claws."
+            }
+        },
+        {
+            "id": "w_dd4c26e7c03e8fa1251ea857319f90dedcc792b7",
+            "content": {
+                "en": "Scrambled Cyberman brains."
+            }
+        },
+        {
+            "id": "w_b78a7779eb5b136cf3b6d55683cc840c0cb52f03",
+            "content": {
+                "en": "Second Breakfast."
+            }
+        },
+        {
+            "id": "w_14f6cf589553e48c322d9d48434c3f4ffcc621fb",
+            "content": {
+                "en": "Shake and Baked."
+            }
+        },
+        {
+            "id": "w_c0b204b8d9a9a8e598f914b8647b3e600b94172b",
+            "content": {
+                "en": "Slitheen Eggs."
+            }
+        },
+        {
+            "id": "w_1e89ccd5dbe339f8b62b8254ca0997a3a3c7f0cb",
+            "content": {
+                "en": "Slurm."
+            }
+        },
+        {
+            "id": "w_82b9b3f221c538b912cd790e1170303dcc02e769",
+            "content": {
+                "en": "Sookie&apos;s Fairy Blood."
+            }
+        },
+        {
+            "id": "w_924e3101c0cafc88fe7bead024c9ae61fcb8fddf",
+            "content": {
+                "en": "Sookie&apos;s Magical Fairy Vagina."
+            }
+        },
+        {
+            "id": "w_f4817ad38515bff628f28acddd20b4b19b8651c5",
+            "content": {
+                "en": "Soylent Green."
+            }
+        },
+        {
+            "id": "w_886314aa501bdeb943e783dc5c9f57f83c7fc8e9",
+            "content": {
+                "en": "Spatchcocking."
+            }
+        },
+        {
+            "id": "w_03dc9bc82edb6a594719a471bb9d6418ad977464",
+            "content": {
+                "en": "Spice weasel."
+            }
+        },
+        {
+            "id": "w_97ebbee39f2540507ea62cae6ef8a9389737b3b7",
+            "content": {
+                "en": "Spock&apos;s beard."
+            }
+        },
+        {
+            "id": "w_692809f50c120d81ea613fc5460674505037fb0f",
+            "content": {
+                "en": "Spoiled Polyjuice potion."
+            }
+        },
+        {
+            "id": "w_0e916104e14aed4ff418da763c83370aa6e66e68",
+            "content": {
+                "en": "Spoo."
+            }
+        },
+        {
+            "id": "w_aa5970ea9aec7f4b1b2a8ec24224099a3b62958f",
+            "content": {
+                "en": "SteamDrunks."
+            }
+        },
+        {
+            "id": "w_e6d3fa45db3dddf6ad7484737f412c0c217e9bed",
+            "content": {
+                "en": "Sticky Buns."
+            }
+        },
+        {
+            "id": "w_d2c8a0e61e1396ed1fd57f7e148d9dcc9e7a539d",
+            "content": {
+                "en": "Stuffing E.T. with Reese&apos;s Pieces."
+            }
+        },
+        {
+            "id": "w_a6a13d31df616c5fe8e919ac44eac8dc8cdde135",
+            "content": {
+                "en": "Survivor of the Cola Wars."
+            }
+        },
+        {
+            "id": "w_0d27ed8a3d5a9102016dd2a0a11eca228ea8547e",
+            "content": {
+                "en": "Sweet, sweet fish eyes."
+            }
+        },
+        {
+            "id": "w_0c29677f1aa5619990240959b20dd7dd10fe5223",
+            "content": {
+                "en": "T-9000 Gear Lube."
+            }
+        },
+        {
+            "id": "w_9450b57d5fc48e7a1ce347afd898675b551ed2c4",
+            "content": {
+                "en": "Teddy Roosevelt&apos;s mustache."
+            }
+        },
+        {
+            "id": "w_03acf2ef1dfd2549775914ca254d2f2770e37987",
+            "content": {
+                "en": "Tesla&apos;s electrocuted testicles."
+            }
+        },
+        {
+            "id": "w_4ebfd9946d5b8621eec1102dba17e1624ddc49f7",
+            "content": {
+                "en": "The Body of Christ."
+            }
+        },
+        {
+            "id": "w_4a5a394b49e59ed7149875fe5457fdf7ec546b11",
+            "content": {
+                "en": "The delicious tears of children."
+            }
+        },
+        {
+            "id": "w_ad463a448ba1bc3c66f9552b3b7f2ba04c00f6fb",
+            "content": {
+                "en": "The Inn at the Crossroads."
+            }
+        },
+        {
+            "id": "w_307d99ff366eaccf449579511bc4312cf3c800e3",
+            "content": {
+                "en": "The Magic Box."
+            }
+        },
+        {
+            "id": "w_b85c8bc260293b1e54fcc5ad38447d7a19b02d2a",
+            "content": {
+                "en": "The Noshing Dead."
+            }
+        },
+        {
+            "id": "w_8c9e9881517166b51b0b51448b278a1ced3a900e",
+            "content": {
+                "en": "The real contents of Sherlock&apos;s fridge."
+            }
+        },
+        {
+            "id": "w_0befc75ae7957ec8374743bb5776e7d97c428ea7",
+            "content": {
+                "en": "The realization survivalists were right all along."
+            }
+        },
+        {
+            "id": "w_5fdc626319b1fd1440b12722c51f0cc1b60ff77c",
+            "content": {
+                "en": "The Spanish Rice Inquisition."
+            }
+        },
+        {
+            "id": "w_24c5f1b2885139227da84f4cae5c08fbbe4309e9",
+            "content": {
+                "en": "The Spice Melange."
+            }
+        },
+        {
+            "id": "w_52705f6cddf0069acbcfd2732ea9eb4494181c65",
+            "content": {
+                "en": "The sweet taste of LARPer sweat."
+            }
+        },
+        {
+            "id": "w_09486fc2dde3a9ad03a09850d9a554dd7d3d46c1",
+            "content": {
+                "en": "The Vulcan Nerve Pinch."
+            }
+        },
+        {
+            "id": "w_d0967060627c0172d87ef325cd20156d3b11a4b3",
+            "content": {
+                "en": "Tony the Tiger."
+            }
+        },
+        {
+            "id": "w_819a3f3a5363d5240eeb0a7b21b12155b84301f8",
+            "content": {
+                "en": "True Blood."
+            }
+        },
+        {
+            "id": "w_5c245825a7969da684fca5264c62f222d36deceb",
+            "content": {
+                "en": "Unlicensed ice cream truck driver."
+            }
+        },
+        {
+            "id": "w_94c36ca96b6c73b0c2c4c2d50cd1600bb3e3e559",
+            "content": {
+                "en": "Uther Pendragon&apos;s Magical Rage Boner."
+            }
+        },
+        {
+            "id": "w_a174da6df663e16576319c7333c6cbe31b8f4958",
+            "content": {
+                "en": "Vegan zombie hunters."
+            }
+        },
+        {
+            "id": "w_332685a88565bf970f85944aec9becd9299458c4",
+            "content": {
+                "en": "Vegan zombie."
+            }
+        },
+        {
+            "id": "w_933825c94652aafc14676d0bff94972d28aaf3f5",
+            "content": {
+                "en": "Vintage brass nuts."
+            }
+        },
+        {
+            "id": "w_e2d1c4e4d3dbfbead71da36dd9b9a4feb7a704b0",
+            "content": {
+                "en": "Walker bait."
+            }
+        },
+        {
+            "id": "w_1b4e954e9e9363c3c7f4e043cf517a44923f7db5",
+            "content": {
+                "en": "Waterfall of Fudge"
+            }
+        },
+        {
+            "id": "w_1c4f6f00d7bcd79f4b7b1f2892696d28e766f7f6",
+            "content": {
+                "en": "Wil Wheaton&apos;s chest hair."
+            }
+        },
+        {
+            "id": "w_9b7e536bf91e7892f65961f292025f852a30e3d6",
+            "content": {
+                "en": "Wood for Sheep."
+            }
+        },
+        {
+            "id": "w_ede5347834707b9c7c03a459d099bc6b3310f6cd",
+            "content": {
+                "en": "Wookiee Cookies."
+            }
+        },
+        {
+            "id": "w_8bd7e3d6deae0d241b1ed3694c09cbe2d26b4661",
+            "content": {
+                "en": "X-Men: Days of Future Pabst"
+            }
+        },
+        {
+            "id": "w_9a8f2b4a754fb855c8a6e9d85d30b3e8d6b4814c",
+            "content": {
+                "en": "Xena&apos;s 6th Chakram."
+            }
+        },
+        {
+            "id": "w_e1f094e1d6796fcbc78489b040fa38e9efc0f747",
+            "content": {
+                "en": "Xenomorph Eggs."
+            }
+        },
+        {
+            "id": "w_fc2df921a2bd110faf2c81542a323b528714bec8",
+            "content": {
+                "en": "Zima."
+            }
+        },
+        {
+            "id": "b_468212558b5e235d18f1cdc315f526990a2c6aef",
+            "content": {
+                "en": "According to Professor Farnsworth&apos;s Smell-O-Scope, you&apos;re secretly made from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b84b7dc7fb5a53e774ced83d51de32fa60054c1a",
+            "content": {
+                "en": "After last week&apos;s ritual sacrifice, the High Priest slipped ______ in my doggie bag."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2fcdb40ef78020ab40910c9001521865f5829ccc",
+            "content": {
+                "en": "After the zombie apocalypse, we were so hungry we made soup from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f206232295cf172855e2cb5bb812faed295249f",
+            "content": {
+                "en": "All these worlds are yours, except ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b327610b832e388fe4e1bea2b824921f64e124f0",
+            "content": {
+                "en": "Bigger than a breadbox, smaller than ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7d0253d2bde932b02ed7ba8b924ec6b05533280",
+            "content": {
+                "en": "Budweiser! The King of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0a059fd2c359f3ce43f15f39b5f09a0725b60ce8",
+            "content": {
+                "en": "Captain Crunch was dishonorably discharged for his secret ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6729dfb6ca58db02e981181b2219327e0871d52e",
+            "content": {
+                "en": "Cometh the Singularity, we&apos;ll all be trading in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b6b81e87fec05d4872397ab21ac3c9679cd93f5",
+            "content": {
+                "en": "Cthulhu feeds off my madness and my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aef5e351438ff7447fe499b7d44a88cc95cf3d57",
+            "content": {
+                "en": "Damn you, ______, for your sudden but inevitable betrayal!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f7bf0c75f4f0c4f529a6e7a51909c01278eb61b",
+            "content": {
+                "en": "District 9 Cat Food! Now available in ______ flavor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d6f4fa6520c6034b64a4a579359892aca498e7e",
+            "content": {
+                "en": "Don&apos;t feed them ______ after midnight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f59b3d31faaccb951bf99ddd9aed798b24abd2e",
+            "content": {
+                "en": "Down and Out in the Magic ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fce816a4c9f81846edae0984f89f9c290f821c78",
+            "content": {
+                "en": "Elon Musk&apos;s Mars colony went insane, after someone slipped ______ in the water supply."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b1fc19db91a2d66c8abe0903f0475e137cb8afbd",
+            "content": {
+                "en": "Even Andrew Zimmern wouldn&apos;t eat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6643f65eaf71b7b862bfabcb0ba0a4fac4d3dfd6",
+            "content": {
+                "en": "Frosted ______. They&apos;re Grrrrreat!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df9e720cdf1805131642feb0d40721421b750597",
+            "content": {
+                "en": "Hours of energy. No ______ later."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b583404becaa4203abaf6667e523a48ea6e0b37f",
+            "content": {
+                "en": "Huitlacoche, the demon corn of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8c6e034a5e1ea9ff94f1e9812d3a7046205fa02c",
+            "content": {
+                "en": "I feed my spice weasel ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20365337b81ca66223ad94fd111aaad9334a973f",
+            "content": {
+                "en": "I keep my Jackalopes ready for combat with a steady diet of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1b28f9805799e2df633a03a5e6c03db6b09408a7",
+            "content": {
+                "en": "I learned to love erotic fanfic after I read the heartwarming pairing of ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9e22a602c0f54d6c39c166ccf581c42115c81857",
+            "content": {
+                "en": "I love the texture of ______ in my mouth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_adc65625945cf7d56ca2af1027b74a2166803551",
+            "content": {
+                "en": "I season my zombie jerky with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f0ae46d4e1745ecd684265350a97523aea54579",
+            "content": {
+                "en": "I spent three weeks trapped in a dungeon crawl, and all I got was some canned food I found inside a dead Gelatinous Cube, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_db4cb4c55ab49c04bf1ede96cd51aa7cc123faa6",
+            "content": {
+                "en": "I summon the devil in my deviled eggs with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed418dae46f753a4d7c12ee1f47533a4f7aab6a5",
+            "content": {
+                "en": "I would do ______ for a Klondike bar."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ecd54c47a4ac639792eb791636bd2582e06d33e",
+            "content": {
+                "en": "I would&apos;ve gotten away with it, if not for ______, ______, and those darn kids!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_19f6b2bad79a2f506fa97f9ddedb0c536d182013",
+            "content": {
+                "en": "I&apos;d go back inside the Matrix for a taste of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57edc08c0b612b47ccd6d370f7cf0ed503ca000c",
+            "content": {
+                "en": "I&apos;d rather eat crow than eat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eb1e5d2ce7fe455b0c9ee6f85c91d13b24173954",
+            "content": {
+                "en": "If you don&apos;t cut your food into octagons, President Roslin will throw you out the airlock, or make you eat a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dc8895b8c340711a5e8c1c0a16915ec674ab30e6",
+            "content": {
+                "en": "If you like hearts, stars, and clovers, you&apos;ll love the new Lucky Charms marshmallow ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_743847aafa0641d7f67e28a6c0e87109d7d03d7a",
+            "content": {
+                "en": "In the alternate universe where ______ tastes like ______, then ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_9961d4c128b47d445e91f13aca79c89e4b39a36b",
+            "content": {
+                "en": "Life is like a box of chocolates. You never know when you&apos;ll get ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d2c33596645756edaf38917044471a34fa8f3929",
+            "content": {
+                "en": "Lose the ______, not the taste."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed1abb1f411e0ffee0fd01b96a5aa2c1ab9906cb",
+            "content": {
+                "en": "Mentos! The ______ maker!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8dd485d81b5deb062d8defa9781e34a1e2430349",
+            "content": {
+                "en": "Miracle Max&apos;s Chocolate Covered ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c5b64efa5a88d0e048ae0089a4dbfc16beeae5e",
+            "content": {
+                "en": "Miskatonic University&apos;s famous cafeteria calamari is secretly made from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d4feb88130b8b225ff94b98f40004febabefac45",
+            "content": {
+                "en": "My corner Asian market now stocks live octopus, alien xenomorphs, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_098831ce9926f820c24bd3d8316bd8b179d980fc",
+            "content": {
+                "en": "My cream filling is 100% pure ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c2e9f06c4570a7a568ae22bccfdb2b4e0059474",
+            "content": {
+                "en": "My favorite jellybean flavor is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fc85fe98c5aa97111126563a2955fef9fce6f9b",
+            "content": {
+                "en": "My fortune cookie says I can expect a ______ in bed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a11de5d4aeedcdbf838126b935576cac15094809",
+            "content": {
+                "en": "My name is Inigo Montoya. You killed my ______. Prepare to die."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c16c152b4cdfb919fd771fd4daaa9c5e92e6325",
+            "content": {
+                "en": "No, honest. I never told the replicator to make me ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd3222c79ffa7f0dd775d7c0fb0ff0320b2eb226",
+            "content": {
+                "en": "Nuclear apocalypse survivor jerky has a half-life longer than ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34e6b1eb50b553d0b434f65ae1a2d5bc7f93f654",
+            "content": {
+                "en": "On this week&apos;s episode of Man vs. Food, Adam eats a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_733cf9af4f7e752905ddbd530beeeae7ece85b09",
+            "content": {
+                "en": "On top of spaghetti, all covered with cheese, I lost my poor ______, when somebody sneezed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_11d27c11e49a34efe730672d2c0c005286b30c78",
+            "content": {
+                "en": "Our tribute won the Hunger Games by the cunning use of a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_66e63433c5d061257555232487b592138372ef38",
+            "content": {
+                "en": "Pepperidge Farms remembers ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d3ae42ec4c1a3b4de32752474c756b8b3f84f4f8",
+            "content": {
+                "en": "Pop rocks in your ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd99b9456f9938b6d8c2cf5e2a0ef11234420b14",
+            "content": {
+                "en": "Ray, when someone asks you if you&apos;re a god, you say ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4a48f5f52f4524edeeab9276e67b5facef850f6d",
+            "content": {
+                "en": "Red Bull gives you ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e18d57fb527db9d15fd4176c7f68a5f9094e727",
+            "content": {
+                "en": "Remember to coat the prisoner in ______ before feeding him to the Sarlacc."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_918018af4a4cdf8c4d8b749f3755500542ff28ce",
+            "content": {
+                "en": "Rory&apos;s bachelor party took a dark turn, when a ______ exploded from his comically oversized cake, instead of a stripper."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e380f4cc1eec2fc4b0101aaa697cf6ee1d396e9",
+            "content": {
+                "en": "Soylent Green is really made from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7272ca1000528c6f1282d6d3807a1a2a7f740703",
+            "content": {
+                "en": "Super Vegan Powers activate! Form of ______! Shape of ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d27e62573b9963d9df089b50d3a5c8350592b929",
+            "content": {
+                "en": "That time I ate ______ and twelve hours later a xenomorph burst from my chest."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f155e7d09f9b9fa6e88a9f6d047a5453ad4caae1",
+            "content": {
+                "en": "That&apos;s not a moon! It&apos;s a ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78a1d4150c0be91600409b83f12d84fea4a32bc1",
+            "content": {
+                "en": "The best justification for cannibalism."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0928a27b1a8d01003c56b7db2084c4fabaaf297a",
+            "content": {
+                "en": "The best thing about hosting a party on the Holodeck is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7a99780828ed98636cd57250defd892b6fded6cc",
+            "content": {
+                "en": "The cake is a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f71ed672eacd1b676c1a08a16496c3ef50415355",
+            "content": {
+                "en": "The latest Steampunk Goggles are made from brass, leather, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cf93e7821ac0d25ff90fb289ccfe41b1f06b9726",
+            "content": {
+                "en": "The most disturbing thing on Batman&apos;s Utility Belt."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_30234d69d495969530e75bad701cca9bbe1b7360",
+            "content": {
+                "en": "The only thing Nikola Tesla loved more than pigeons."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_31047f85a81258ca10aca1e474fda2eda6c24630",
+            "content": {
+                "en": "The only thing worse than Vogon poetry is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7510729551bbf8370287a2918b9e47f6c1515859",
+            "content": {
+                "en": "The real secret behind Patrick Stewart&apos;s immortality is a steady diet of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ffa75f50c1060928f9f9d833971580511fe1df6c",
+            "content": {
+                "en": "The real secret ingredient in Dibbler&apos;s pies is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd7e2a026191c14087e0f3ed55198ed438ff8ed0",
+            "content": {
+                "en": "The scariest thing about sleeping with an alien is the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b68236617066b008a2af56718095e454090acb54",
+            "content": {
+                "en": "The secret ingredient in Ding Dongs&apos; cream filling is really ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_91ca97144e2b577a98ab1c96837f3f15733d1636",
+            "content": {
+                "en": "The ______ mostly come out at night. Mostly."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e60780797c2fd8ae48738cbe565564b6fff4ba82",
+            "content": {
+                "en": "There can be only ONE ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b6055dac6bb70bc9f64f3ee05ff2768d9e34a90",
+            "content": {
+                "en": "There&apos;s only one thing that smells like bacon, and that&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e791261c3ce01ac5799541576902c82ab5ecbbf",
+            "content": {
+                "en": "They say everything tastes just like chicken, except for Graboids, which taste just like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2322f3db516d8381ab62a1a580f540f195a84936",
+            "content": {
+                "en": "This is your brain. This is your brain on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_70f2011bf2b5c1118ea18f6eb6bb0b3dab0813c7",
+            "content": {
+                "en": "This week on Drunk History, Dolly Madison eats a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_50b5adb4cea564cdbcbcdfe11bddf69271a06f31",
+            "content": {
+                "en": "This week, the Doctor and ______ visit a planet where the locals eat nothing but ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4d2e11e13c4a564328c8c4ea5c04eb2f4bd9c537",
+            "content": {
+                "en": "This ______ is so over-cooked, it ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cdd0719bf56602782a0e34442a3892a9ab102118",
+            "content": {
+                "en": "Tonight, Hannibal Lecter will be serving ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dc19a5f4430402e98aed567ccb672f7f2493714e",
+            "content": {
+                "en": "Tribble-kabobs are best served with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f06f3b421c9fe85794d5b2e3c87d28398cbe801f",
+            "content": {
+                "en": "We found ______ in Grandma&apos;s fridge, and it was still good."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_763fc26e48bde880aea758ae0b35383e85162fbd",
+            "content": {
+                "en": "When Sunnydale High School students snort staked vampire dust, they hallucinate ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0ff0221bd026235a245d9d31eb8996e40b54e9b",
+            "content": {
+                "en": "When you have the munchies so bad you eat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93c2f76ff2ca05662faa7b22fefea7c9390f126c",
+            "content": {
+                "en": "Who ya gonna call? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b9f1a3e6375b80564178b1a028eae0c88d0bf99",
+            "content": {
+                "en": "Winter is coming, and so is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_275ce567af6e7c948a4806fc68bb2122f33fb610",
+            "content": {
+                "en": "Would you eat it in a ______? Would you eat it with a ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f7e83bf30da54eee32f615d258377e23adb49a03",
+            "content": {
+                "en": "You used so much ______ it ______-ed."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1050ba2376ae285b233abc2ed3ee75b03ecb79e6",
+            "content": {
+                "en": "Zombie, Pirate, Robot, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bccdf9d510ce678c31d4df80f5ee213bf4ccd82c",
+            "content": {
+                "en": "______ and ______. Two great tastes that taste great together."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6614f14a120a74e32b0a54abfb7f6ad2f3f99cc2",
+            "content": {
+                "en": "______ instigates a celestial war between Angel Food and Deviled Eggs."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b0ecde2bbe729a931cfcb83948a24ff567cddbd",
+            "content": {
+                "en": "______ is taking a bite out of crime."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ddfa7b1e98412e43165909328993741b74dc0ac",
+            "content": {
+                "en": "______ melts in your mouth, not in your hand."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6df47648adaeff4c4da675a184d0d341ce394b2e",
+            "content": {
+                "en": "______ on my ______ looks like Jesus."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8f3f44981aae5f5e3c9a95d30ff9abb3a7028b6a",
+            "content": {
+                "en": "______ puts the \"can\" in \"cannibal\"."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6576c11149f94b5e7c99edce9d7e1f0fcd14b6fe",
+            "content": {
+                "en": "______ tastes so great, cats ask for it by name!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b8c88abf9d4ed0ad6d5b2d195eff149a0e2134c",
+            "content": {
+                "en": "______! Taste the rainbow!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f4f9901d8f719125e1e63a7c7bbf79688f0ac21d",
+            "content": {
+                "en": "______, Crayola&apos;s new edible flavor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_28867be1c1f647fd7b46d457f2c63718bd796f67",
+            "content": {
+                "en": "______, it&apos;s the new super-food!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_acacf040e45e00a8174580c18ba6a0042c1671c2",
+            "content": {
+                "en": "______, it&apos;s white people food!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57c0776cde6e9fd10811b5257e408266de52644f",
+            "content": {
+                "en": "______. It does a body good."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_baddc0a9699655c26d361c60f994cb253f5ddb8f",
+            "content": {
+                "en": "______. It&apos;s what&apos;s for dinner!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7fb41a0469e8b66630ea4929dcb215fc090cea03",
+            "content": {
+                "en": "______. Tastes great, less filling."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e27cf00115e0f9dfa48dab497ef198da6ded33c",
+            "content": {
+                "en": "______. The other, other, other white meat."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_71ca0790d85d9bf6109f208ad7305269c7ecd279",
+            "content": {
+                "en": "______. Try it. You&apos;ll like it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_440ebf280da0d649f086ca7c3020b42366ae5879",
+            "content": {
+                "en": "______; Hell is a buttery place."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f96506bda68f1c0a99fb2f3bb1c3a813466bcc32",
+            "content": {
+                "en": "______? Grab a Snickers!"
+            },
+            "pick": 1
+        }
+    ]
+}

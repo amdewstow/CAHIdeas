@@ -1,0 +1,2668 @@
+{
+    "id": "Nerds_Against_Humanity",
+    "name": "Nerds Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_b3af1c9d7bc017497ba25a1e255d1c929448f450",
+            "content": {
+                "en": "\"Don't Panic.\""
+            }
+        },
+        {
+            "id": "w_2630df930c84086e406c06f3237f6bf650117ae6",
+            "content": {
+                "en": "\"Game over, man! Game over!\""
+            }
+        },
+        {
+            "id": "w_b60e8da118224d07f89bf983aa1fdf7206343ecf",
+            "content": {
+                "en": "\"Hail HYDRA.\""
+            }
+        },
+        {
+            "id": "w_a7eaef4b04160a0bf8ba3c6549547f075877c4ed",
+            "content": {
+                "en": "\"Have you tried turning it off and back on again?\""
+            }
+        },
+        {
+            "id": "w_12bb1d272c962baf3f8eb83075b167d06e14c0a4",
+            "content": {
+                "en": "\"I can kill you with my brain.\""
+            }
+        },
+        {
+            "id": "w_1ff6ac160125ecdd445ca53dccefdece7cdd4053",
+            "content": {
+                "en": "\"Make it so.\""
+            }
+        },
+        {
+            "id": "w_49f1b8bd4c32d84a06aee3dc6c5f2032284cb9fc",
+            "content": {
+                "en": "21 Things You Probably Didn't Know About Buzzfeed."
+            }
+        },
+        {
+            "id": "w_52a2befca66392e0183a7791988dd91de9c65cf9",
+            "content": {
+                "en": "42, duh."
+            }
+        },
+        {
+            "id": "w_8511d23b8c6d3d948f385dd9c63c31839d424e5c",
+            "content": {
+                "en": "@!#?@! Q*bert."
+            }
+        },
+        {
+            "id": "w_7b9e7641a7474f60ff1e9ae4db27966569434620",
+            "content": {
+                "en": "A 13-hour clock."
+            }
+        },
+        {
+            "id": "w_2b25bddf77f05bcd79425154a3f9be411c0012f7",
+            "content": {
+                "en": "A 7-sided die."
+            }
+        },
+        {
+            "id": "w_79e37324d13eb8888fd9737d6e99bd212e4e92bc",
+            "content": {
+                "en": "A basement full of sweaty nerds."
+            }
+        },
+        {
+            "id": "w_b576d2e91d20d1284bc227e8ac7cf8a6b2863361",
+            "content": {
+                "en": "A big black hole."
+            }
+        },
+        {
+            "id": "w_7899d0beae7fbcc9bf983b82a557041f94fd6d24",
+            "content": {
+                "en": "A bigger blacker hole."
+            }
+        },
+        {
+            "id": "w_80bbc731d99a4402ed0c7142761367c1747e2f9b",
+            "content": {
+                "en": "A brain from someone named \"Abby Normal\" ."
+            }
+        },
+        {
+            "id": "w_fcb2278e6b441a6748c779b73c4ef1844c395d41",
+            "content": {
+                "en": "A company of lawyers that is somehow more evil than regular lawyers."
+            }
+        },
+        {
+            "id": "w_9d529410728842b90264257ab14453f10d14d81d",
+            "content": {
+                "en": "A computer virus that lets you know it&apos;s in progress with a zany graphic."
+            }
+        },
+        {
+            "id": "w_4a1a21961ae6fb79c7d11743c67e83755334c5df",
+            "content": {
+                "en": "A demon with a heart of gold."
+            }
+        },
+        {
+            "id": "w_fd60d16564a99045b3d050bf8339b264c44fc2a3",
+            "content": {
+                "en": "A fandom tattoo that only other fans will understand."
+            }
+        },
+        {
+            "id": "w_aa902861e7b9652f2eb43bf69333eb07a7a6d285",
+            "content": {
+                "en": "A female superhero with a strategically appropriate amount of body armor."
+            }
+        },
+        {
+            "id": "w_3b4f7d06bb18ee3fd369d736a22f36dd2ba179b1",
+            "content": {
+                "en": "A genius, billionaire, playboy philanthropist."
+            }
+        },
+        {
+            "id": "w_cce630ba3a12178cb0c3156392e429e6d88ae46b",
+            "content": {
+                "en": "A grail-shaped beacon."
+            }
+        },
+        {
+            "id": "w_f305d1a57329770130d1de57ca88375f7ac28a45",
+            "content": {
+                "en": "A high-functioning sociopath."
+            }
+        },
+        {
+            "id": "w_6aedd4a7affb32a26704906f8f0fef133d2b4f18",
+            "content": {
+                "en": "A hundred Tuesdays in a row."
+            }
+        },
+        {
+            "id": "w_af4825e0b67768a4b7d1ab4084a1b2a3ffe122a0",
+            "content": {
+                "en": "A leaf on the wind."
+            }
+        },
+        {
+            "id": "w_b1317a073e99249a4eded142f9244eabd1778d36",
+            "content": {
+                "en": "A lethal child assassin."
+            }
+        },
+        {
+            "id": "w_8ad7381dde96fcf3759fec4bc18a6e8960068f74",
+            "content": {
+                "en": "A long time ago in a galaxy far, far away..."
+            }
+        },
+        {
+            "id": "w_4ef2adc84aa85e71fdfe8c481c91dab3589acfae",
+            "content": {
+                "en": "A majestic score by John Williams."
+            }
+        },
+        {
+            "id": "w_c29984fe273b9a701ad755e45ff0710657319386",
+            "content": {
+                "en": "A marathon D&D session."
+            }
+        },
+        {
+            "id": "w_1eb171e544af7cc615e93ee60a70677106f330cc",
+            "content": {
+                "en": "A meat popsicle."
+            }
+        },
+        {
+            "id": "w_475890fd1a81e757999eccc9feeeee5739533329",
+            "content": {
+                "en": "A movie so boring even the trees walked."
+            }
+        },
+        {
+            "id": "w_1684238116404ce827217e519f6c7b46f2e38405",
+            "content": {
+                "en": "A mutant whose only power seems to be changing the TV channels with his brain."
+            }
+        },
+        {
+            "id": "w_b1dbbf5844b4d9e3efa8d47291c994d6dd06d65d",
+            "content": {
+                "en": "A nice personality."
+            }
+        },
+        {
+            "id": "w_120921f972f1ee733b4088636336b2db14015c02",
+            "content": {
+                "en": "A quiver that never, ever runs out of arrows."
+            }
+        },
+        {
+            "id": "w_2cf8353851d15698091040be14fe002cf22fd97b",
+            "content": {
+                "en": "A raccoon with a machine gun."
+            }
+        },
+        {
+            "id": "w_8cc8a02f2fb9a5eb2e1e6f5551ccb62fc8bc7a41",
+            "content": {
+                "en": "A rare first edition."
+            }
+        },
+        {
+            "id": "w_8a0367769d65e542d2d3089f271fb36ab8fffaeb",
+            "content": {
+                "en": "A robot that looks like a person, but shinier."
+            }
+        },
+        {
+            "id": "w_27b18e09dddd80ce8434b3ae0583b542cd69f1bf",
+            "content": {
+                "en": "A sci-fi movie full of supermodels."
+            }
+        },
+        {
+            "id": "w_6c7c26d4f3df9e89a42294aae3886b64f79f25b2",
+            "content": {
+                "en": "A second season of Firefly."
+            }
+        },
+        {
+            "id": "w_e22fdf1c2c3feec1cfecf43b67d2edb99c2fe4d3",
+            "content": {
+                "en": "A secret identity everybody knows about."
+            }
+        },
+        {
+            "id": "w_cb8501494c2479bc209563ac04593817ba7e13b6",
+            "content": {
+                "en": "A seemingly endless barrage of virgin jokes."
+            }
+        },
+        {
+            "id": "w_2d1ff288e67af1988879c73ad3f26fa0b4daa239",
+            "content": {
+                "en": "A series of tubes."
+            }
+        },
+        {
+            "id": "w_e23424d5aa905fad64b5fb52f12fa3a6f303191c",
+            "content": {
+                "en": "A small thermal exhaust port only two meters wide."
+            }
+        },
+        {
+            "id": "w_130e5ecfa69ab2552c5ab6ccc441dd0d7415b5aa",
+            "content": {
+                "en": "A switch labeled \"more magic\" ."
+            }
+        },
+        {
+            "id": "w_9dd9bc21218196e98c915172791f01a2d454f124",
+            "content": {
+                "en": "A Three Wolf Moon t-shirt."
+            }
+        },
+        {
+            "id": "w_60adab54931ca518b239dc2c19a7ce455fbe6c91",
+            "content": {
+                "en": "A TV show that slowly declines in quality until you're glad to see it go."
+            }
+        },
+        {
+            "id": "w_bf428cb778ada879c73b2e6a4a25f4a869ba3d5d",
+            "content": {
+                "en": "A vampire with a soul."
+            }
+        },
+        {
+            "id": "w_fc07d02be65d987c47320cf8ee475d279ff9ade2",
+            "content": {
+                "en": "A very cunning hat."
+            }
+        },
+        {
+            "id": "w_fc79f97eff46d8c142d7e5253d784caef8e19a8c",
+            "content": {
+                "en": "A very groovy mutation."
+            }
+        },
+        {
+            "id": "w_8cabe67dc5d4365f5e932b57a27a100e439d9b35",
+            "content": {
+                "en": "A very special musical episode."
+            }
+        },
+        {
+            "id": "w_cd2d87865c0deedc2c4a08f3f918245911801e91",
+            "content": {
+                "en": "A wafer-thin mint."
+            }
+        },
+        {
+            "id": "w_b416c68df1a37c7654867aa9cc4263ec545a76ea",
+            "content": {
+                "en": "A wedding band that all has crossbows for some reason."
+            }
+        },
+        {
+            "id": "w_824396bb6950ccb30adaccfaba145e9b18864d94",
+            "content": {
+                "en": "A wicked hot young Magneto."
+            }
+        },
+        {
+            "id": "w_f5ff4d61926ae1ff4f00cabe5a7d21eb6a264273",
+            "content": {
+                "en": "Accidentally polyjuicing yourself into a cat furry."
+            }
+        },
+        {
+            "id": "w_3be83a4f1e581fcc9718861f45c250c83840b244",
+            "content": {
+                "en": "Acting all smug because you read the books and you know what&apos;s coming."
+            }
+        },
+        {
+            "id": "w_cf2a9d45289455575e45ac18431153e9d963f68a",
+            "content": {
+                "en": "Actually playing Quidditch for real."
+            }
+        },
+        {
+            "id": "w_b681e612543a70a882e05bc28919546be067ba41",
+            "content": {
+                "en": "Aliens that all look like people with different kinds of bumps on their heads."
+            }
+        },
+        {
+            "id": "w_aacf615101dd573f380c48d73125e2a0e2c32e56",
+            "content": {
+                "en": "All that crazy troll strength."
+            }
+        },
+        {
+            "id": "w_ae10f9194016a530280da8cb3c01945ab37592a3",
+            "content": {
+                "en": "Almost, but not quite, entirely unlike tea."
+            }
+        },
+        {
+            "id": "w_4423ef907423e747e59a1bfb79835ab3ec0663c6",
+            "content": {
+                "en": "Altering the timeline."
+            }
+        },
+        {
+            "id": "w_71246e127eb8ce47ee6798afb8e8f29b8639b97a",
+            "content": {
+                "en": "An amazingly well-trained phoenix."
+            }
+        },
+        {
+            "id": "w_fb682fddb859d828885b13f9453559533efd484c",
+            "content": {
+                "en": "An ancient book, full of prophecy, about you."
+            }
+        },
+        {
+            "id": "w_fe139ad6ebea711f854a17fa172519f5a5460096",
+            "content": {
+                "en": "An arrow to the knee."
+            }
+        },
+        {
+            "id": "w_af99a29063d9038440f444d43f66d2134f80bf4a",
+            "content": {
+                "en": "An enormous green rage monster."
+            }
+        },
+        {
+            "id": "w_32a568f83160dc958dccdf7e2010e2d187184440",
+            "content": {
+                "en": "An SPF so high it&apos;s basically just white paint."
+            }
+        },
+        {
+            "id": "w_4c180389ebeeb27f6f799e949959f5b1b4a814db",
+            "content": {
+                "en": "Anakin in the prequels."
+            }
+        },
+        {
+            "id": "w_9dfbd52f2b10c9a38872530166a2e180a2b18e0d",
+            "content": {
+                "en": "Another day living over the Hellmouth."
+            }
+        },
+        {
+            "id": "w_6f6876000c1ab496b9fb29e5cfb0ac2d7e432245",
+            "content": {
+                "en": "Another special edition."
+            }
+        },
+        {
+            "id": "w_ac5f5bdbeee391ab2abb45fcf1625601003557d8",
+            "content": {
+                "en": "Another stupid vampire movie."
+            }
+        },
+        {
+            "id": "w_199860700ea68767e219e4db92e3e6db7e61e718",
+            "content": {
+                "en": "Arguing about how to pronounce GIF."
+            }
+        },
+        {
+            "id": "w_be1afeade341ba794e203662b0abbc01e2fc12fb",
+            "content": {
+                "en": "arguing over the results of a Mythbusters episode."
+            }
+        },
+        {
+            "id": "w_27c53a9c54f1a34d19b8393108c1974929b41558",
+            "content": {
+                "en": "Authentic frontier gibberish."
+            }
+        },
+        {
+            "id": "w_4bb7fe05b963437af1a0e5d484c4de669b892943",
+            "content": {
+                "en": "Bad guys with British accents."
+            }
+        },
+        {
+            "id": "w_73f0b853f292f4dbaf61ada8207821c2b6b3c0be",
+            "content": {
+                "en": "Batbat, a bat that dresses like a bat and has all the powers of a bat."
+            }
+        },
+        {
+            "id": "w_c6ddf94937e9e39b8d61e53ed45a28c06004357f",
+            "content": {
+                "en": "Before the dark times, before the Empire"
+            }
+        },
+        {
+            "id": "w_a43f171787231d51742be0fa0179121de5dbe5d7",
+            "content": {
+                "en": "Being beheaded in front of your children."
+            }
+        },
+        {
+            "id": "w_d53e3cb223ec21a21b5db5a5abd1ce17b92aacb3",
+            "content": {
+                "en": "Being certain you and your friends are what keeps the local pizza place in business."
+            }
+        },
+        {
+            "id": "w_6b1f7a847653f375e50b772bb32899f0783e41ab",
+            "content": {
+                "en": "Being completely prepared for several different kinds of zombie apocalypse, but totally unprepared to live in actual daily reality."
+            }
+        },
+        {
+            "id": "w_543a15964d7336b73de6a4427750f0e2c9e95ade",
+            "content": {
+                "en": "Being eyed suspiciously for wearing a black trench coat."
+            }
+        },
+        {
+            "id": "w_a73f0a5f1ee8efc643553048b24dd61e60aae00f",
+            "content": {
+                "en": "Being shocked by The Red Wedding."
+            }
+        },
+        {
+            "id": "w_32f2ed8d8a812b5b4de0d6215c1e1fc23addaa61",
+            "content": {
+                "en": "Being the smartest person in the room."
+            }
+        },
+        {
+            "id": "w_80ea96a6693416ea2c52d248e29049048f81a1c7",
+            "content": {
+                "en": "Benedict Cumberbatch, Robert Downey Jr., and Jonny Lee Miller, all in one room."
+            }
+        },
+        {
+            "id": "w_c8b15a89d64ce7e7c7df951cf9815c9d7a788e2d",
+            "content": {
+                "en": "Big bada boom."
+            }
+        },
+        {
+            "id": "w_e03f8ab107ac3538bb3b7c1427cbe5f8ea120c28",
+            "content": {
+                "en": "Blank."
+            }
+        },
+        {
+            "id": "w_206d09e566e608defdcebb4097e9064dbf2e4fd0",
+            "content": {
+                "en": "Boiled leather."
+            }
+        },
+        {
+            "id": "w_60f5741a1f8d8e3668756a878d340816cf46dd0e",
+            "content": {
+                "en": "Brain slugs."
+            }
+        },
+        {
+            "id": "w_ae29959e71e294ce09896b3e3815ec59626de3ee",
+            "content": {
+                "en": "Breaking the fourth wall."
+            }
+        },
+        {
+            "id": "w_9b38059dfe2c152173d1786122935b165e76dce7",
+            "content": {
+                "en": "Broncoats."
+            }
+        },
+        {
+            "id": "w_3e0eec2fe02ec240fb5e420b2fb9da06a32d4c97",
+            "content": {
+                "en": "Bruce Willis. Squinting as danger."
+            }
+        },
+        {
+            "id": "w_a56f5210c737d05d8f617c6a104a2526bacfa78f",
+            "content": {
+                "en": "Casting Magic Missile at the darkness."
+            }
+        },
+        {
+            "id": "w_e42752cdcabc5831822bca6b6b052b486889d617",
+            "content": {
+                "en": "Cat 5 cable."
+            }
+        },
+        {
+            "id": "w_d7199469e102d5cef3920891ff7d50e7ff2a0595",
+            "content": {
+                "en": "Chewbacca not getting a medal."
+            }
+        },
+        {
+            "id": "w_c315046cbae35f6f9a3cbf2c765f375800d5e2d3",
+            "content": {
+                "en": "Chewbacca&apos;s barber."
+            }
+        },
+        {
+            "id": "w_2bc7cdfe823848f2402694301f4c4a386bd011f6",
+            "content": {
+                "en": "Children who solve crimes and fight monsters."
+            }
+        },
+        {
+            "id": "w_da8d6772349f928dec537c9966ef67fd6c075aa4",
+            "content": {
+                "en": "Christina Hendricks' epic prow."
+            }
+        },
+        {
+            "id": "w_8f0de46ac1a3ef9c3078274c4ff8a9b059270641",
+            "content": {
+                "en": "Clerks 5: We Thought We'd Have Better Jobs By Now."
+            }
+        },
+        {
+            "id": "w_bae9b814703a7543453150b69146a88711a2a45b",
+            "content": {
+                "en": "Clickbait headlines."
+            }
+        },
+        {
+            "id": "w_155b163e6a629ef844d89bdea7410af709fce632",
+            "content": {
+                "en": "Code on a screen in a movie."
+            }
+        },
+        {
+            "id": "w_65dc9ce962cf9ec8814b7349c84a800c35553c19",
+            "content": {
+                "en": "Coming home to find the charred remains of your aunt and uncle."
+            }
+        },
+        {
+            "id": "w_d7216bf873d05e1bbde27aa7ed86c3ffdf92506d",
+            "content": {
+                "en": "Command, option, shift."
+            }
+        },
+        {
+            "id": "w_159e6340bf3fa12c3f8809c703bc69440365d863",
+            "content": {
+                "en": "Confidently walking away from an explosion without looking back."
+            }
+        },
+        {
+            "id": "w_42e1b48c016867e60ddc84dfbd3faa89469317b1",
+            "content": {
+                "en": "Cross the T&apos;s and for the...lower case J's."
+            }
+        },
+        {
+            "id": "w_913bf161e8f609b8c1d2f5292995ac7eddcd9725",
+            "content": {
+                "en": "Crossing the streams."
+            }
+        },
+        {
+            "id": "w_64bfa555785b3e9d1ede302665615d52fb45a83c",
+            "content": {
+                "en": "Crudely rendered CGI."
+            }
+        },
+        {
+            "id": "w_38c010ba727be7c05b32ea48db6e61f5b6113894",
+            "content": {
+                "en": "Cruft so complicated it accidentally becomes A.I."
+            }
+        },
+        {
+            "id": "w_7ab886f0b6eb571b097754a69023e034e28d2d00",
+            "content": {
+                "en": "CTRL-ALT-DEL."
+            }
+        },
+        {
+            "id": "w_005ced2d581b7021def4c6c2c82607e0872bf1f6",
+            "content": {
+                "en": "David Bowie&apos;s mooseknuckle."
+            }
+        },
+        {
+            "id": "w_5795e2716c9266f586059a53fd353f63f592b7ef",
+            "content": {
+                "en": "Defending \"The Big Bang Theory\" ."
+            }
+        },
+        {
+            "id": "w_c6f0b4f1e655ec30963d6a9a7b65aa0d8a719627",
+            "content": {
+                "en": "Deleted scenes."
+            }
+        },
+        {
+            "id": "w_70c6e8ef752878e20bacd12db16a4848de5b3e5d",
+            "content": {
+                "en": "Dobby&apos;s sock."
+            }
+        },
+        {
+            "id": "w_fead0a3b745748a9d05f0e221414c5a8db3dc337",
+            "content": {
+                "en": "Doing tech support for your parents, forever."
+            }
+        },
+        {
+            "id": "w_0d7b9ce5d75883bb5ab59965546553543bca25ac",
+            "content": {
+                "en": "Doritos and Mountain Dew."
+            }
+        },
+        {
+            "id": "w_199c1ab8289e5b1dc889c569b7e954fc89a31e30",
+            "content": {
+                "en": "Dot Matrix."
+            }
+        },
+        {
+            "id": "w_e62ba0cea2b562302d5f1f0283769484dbad98eb",
+            "content": {
+                "en": "Draculas and Frankensteins."
+            }
+        },
+        {
+            "id": "w_e5bb90d8c0369991bd782ce64faababfac7b0adc",
+            "content": {
+                "en": "Dune, Arrakis, The desert planet."
+            }
+        },
+        {
+            "id": "w_47939f81d63ee40e4907f1eba80ac0334ad26280",
+            "content": {
+                "en": "Emergency saucer separation."
+            }
+        },
+        {
+            "id": "w_e58d5ecad7ef32e3c7abdd6d331b59f35300de6d",
+            "content": {
+                "en": "Excessive Snopes-linking."
+            }
+        },
+        {
+            "id": "w_d9d89f9707c9241e91b5983ce04f79394b370809",
+            "content": {
+                "en": "Explosions in space."
+            }
+        },
+        {
+            "id": "w_05c200b4f7d58ff27940c83273388972b7504afb",
+            "content": {
+                "en": "Fake binary."
+            }
+        },
+        {
+            "id": "w_e9f655b78c9dad5a78cca35323a3f0d6e55b506e",
+            "content": {
+                "en": "Falling through two perfectly aligned portals forever."
+            }
+        },
+        {
+            "id": "w_4e32577578a2bdc7bbbcb6e0ad23cefd1740a8ad",
+            "content": {
+                "en": "Feeding unruly servants to your pet monster."
+            }
+        },
+        {
+            "id": "w_dfeaee21aa62e9f18220cfbae5b3596c1dee0c78",
+            "content": {
+                "en": "Felicia Day, the Queen of the Nerds."
+            }
+        },
+        {
+            "id": "w_59f7da17391fb1ef3e369740d59cb2d5f6cbf6b3",
+            "content": {
+                "en": "Ferocious, spear-weilding teddy bears."
+            }
+        },
+        {
+            "id": "w_c3ffc767a43daa688ddbda9bdde0b78e68da6e72",
+            "content": {
+                "en": "Festive sombreros."
+            }
+        },
+        {
+            "id": "w_369582b189a61bd7674e0cf024b0b1ea5f6b2e93",
+            "content": {
+                "en": "Full of cats."
+            }
+        },
+        {
+            "id": "w_237a480c195559ec069b21050b7c8264681c4da8",
+            "content": {
+                "en": "Fursonas."
+            }
+        },
+        {
+            "id": "w_a41cfa2c9b55a2ac46bdebabafc108de7f88af06",
+            "content": {
+                "en": "Fuzzy little tentacles."
+            }
+        },
+        {
+            "id": "w_528d93478093ab20f19528671bed1708ddf5d9d6",
+            "content": {
+                "en": "Getting into her Chamber of Secrets, politely."
+            }
+        },
+        {
+            "id": "w_d56398b96afc323d71b46bf08817bff421966d45",
+            "content": {
+                "en": "Global find &amp; replace."
+            }
+        },
+        {
+            "id": "w_d3f9dbb1265f15dd894398ee972ab503e0bf1b62",
+            "content": {
+                "en": "Gluing some gears on it."
+            }
+        },
+        {
+            "id": "w_e6c6adfa0511ca0a6ee41c9a1420db5363e5c93a",
+            "content": {
+                "en": "Going to the dinner at 2 AM."
+            }
+        },
+        {
+            "id": "w_f5aa2b40c941156f64ae2f1273cd261c5e6d2281",
+            "content": {
+                "en": "Going to Tosche Station to pick up some power converters."
+            }
+        },
+        {
+            "id": "w_ac74b316fb3a1d936a51716d7cc20adead102d28",
+            "content": {
+                "en": "Gorram Reavers."
+            }
+        },
+        {
+            "id": "w_cecf20751e9c2bf57e7a116def13e60e7bf47e57",
+            "content": {
+                "en": "Grown-ass men and women hitting each other with padded swords."
+            }
+        },
+        {
+            "id": "w_9c959355db8fecbb724868d2650fdc13a1bc1202",
+            "content": {
+                "en": "Gwyneth Paltrow&apos;s head."
+            }
+        },
+        {
+            "id": "w_d7787474995fe1f72d376701b0369ad09ac98241",
+            "content": {
+                "en": "Handing out free samples of deodorant at Comic-Con."
+            }
+        },
+        {
+            "id": "w_a87dc94f95447f67961a992d63f68ae3a0415efa",
+            "content": {
+                "en": "Having an emotional affair with animated gifs of Tom Hiddleston."
+            }
+        },
+        {
+            "id": "w_70ff8dde2452f2be1c53a37e079048600cca251e",
+            "content": {
+                "en": "Having more LARP\/Redd Faire clothes than regular clothes."
+            }
+        },
+        {
+            "id": "w_21752632fca7bf61ae444541e786a917ce2e63ad",
+            "content": {
+                "en": "Head pigeons."
+            }
+        },
+        {
+            "id": "w_63541fd53e97ec6d0fac7708f59a0dd221ffa121",
+            "content": {
+                "en": "His Noodley Appendage."
+            }
+        },
+        {
+            "id": "w_b4c58081838b36568f12599a20f636623d479d0e",
+            "content": {
+                "en": "Hitting \"refresh\" just, maybe, one more time."
+            }
+        },
+        {
+            "id": "w_5e7dd26b31ea83b306304cc1b1f2d560b3898860",
+            "content": {
+                "en": "Hitting it until it works."
+            }
+        },
+        {
+            "id": "w_46fc60aadb6ba16713f8d421c9de83dd9b07b558",
+            "content": {
+                "en": "Hodor. Hodor Hodor Hodor Hodor Hodor."
+            }
+        },
+        {
+            "id": "w_428dc91c4e1c25aa8a2d2982be5b5043d7861e0a",
+            "content": {
+                "en": "Huge... tracts of land."
+            }
+        },
+        {
+            "id": "w_4cedde1dc56ea3a002e112afed94ed15ba93df5b",
+            "content": {
+                "en": "ID-10\/t error."
+            }
+        },
+        {
+            "id": "w_e900fb0d5ca7c3050d68d53136e37b682aa58d13",
+            "content": {
+                "en": "Internal logical consistency."
+            }
+        },
+        {
+            "id": "w_5414c56365dc068d9b1401b8f678ef476cd9c561",
+            "content": {
+                "en": "Joss Whedon one-liners."
+            }
+        },
+        {
+            "id": "w_19a8b93200156612deb146d8cffaf54e686a1a7f",
+            "content": {
+                "en": "Lack of adhesive ducks."
+            }
+        },
+        {
+            "id": "w_e8940dc82e5ffe97adcea33337547b44e4a17031",
+            "content": {
+                "en": "Lando&apos;s sweet 'stache."
+            }
+        },
+        {
+            "id": "w_353995bbe4d1ea984a8ea0352cc6096aef8d8b88",
+            "content": {
+                "en": "LARPing in a basement, again."
+            }
+        },
+        {
+            "id": "w_aa202c749b765be4b689ba33f6396fd9fc5858ef",
+            "content": {
+                "en": "Learning how to swear in Mandarin Chinese."
+            }
+        },
+        {
+            "id": "w_2d5b3099b4a1045a1251973f430106459bd471af",
+            "content": {
+                "en": "Lens flare."
+            }
+        },
+        {
+            "id": "w_71880fe0613747362ec7c82bfeb0b66e3c6ed09a",
+            "content": {
+                "en": "Liquid Schwartz."
+            }
+        },
+        {
+            "id": "w_bbb34f94ce13abf45e2b27e3e7037994c9642e1d",
+            "content": {
+                "en": "literally biting your tongue to keep yourself from revealing spoilers."
+            }
+        },
+        {
+            "id": "w_cc271836f8ef420d28e5aeb0af298684475e133b",
+            "content": {
+                "en": "Mass times acceleration."
+            }
+        },
+        {
+            "id": "w_9e2d8ad3eaad7353ac7d6babb0e82b45b29ae200",
+            "content": {
+                "en": "Mercury fulminate."
+            }
+        },
+        {
+            "id": "w_e09d4a0fa7beba96f5d76df93c52413dc5a4b777",
+            "content": {
+                "en": "Midi-fucking-chlorians."
+            }
+        },
+        {
+            "id": "w_fd5e56247e0502472d22a64681275f0b83342b4d",
+            "content": {
+                "en": "Min\/Maxing."
+            }
+        },
+        {
+            "id": "w_f27d025503fd85663a2e92028279803a58de670a",
+            "content": {
+                "en": "Moisture farmers."
+            }
+        },
+        {
+            "id": "w_5cbbd1e94a9c6d619d0cc2c068d155dc59d076c7",
+            "content": {
+                "en": "Moool-ti-pass."
+            }
+        },
+        {
+            "id": "w_1a10b6b4578ea5bf6aa291d2445c7c015b32808d",
+            "content": {
+                "en": "Movies that are so bad they go right past good and into bad again."
+            }
+        },
+        {
+            "id": "w_d1b06cd88183c3bfe809b2655932eaf6c049e34c",
+            "content": {
+                "en": "Mudder&apos;s Mulk."
+            }
+        },
+        {
+            "id": "w_0eee48410f1d6f2d55b14ca9290e40aa8c267ba0",
+            "content": {
+                "en": "Multiple pairs of goggles."
+            }
+        },
+        {
+            "id": "w_290a266ce58a04f2ee33fdb2f0e41af8c78fcda1",
+            "content": {
+                "en": "MV2 (squared)"
+            }
+        },
+        {
+            "id": "w_e53c35019fbc6a95b1efc17ed7acf7dbc9f2e21f",
+            "content": {
+                "en": "My pretty floral bonnet."
+            }
+        },
+        {
+            "id": "w_ebe2bf3babd3b25eb7c77f6b9d2de5d9ab15d34c",
+            "content": {
+                "en": "My wayward son."
+            }
+        },
+        {
+            "id": "w_c6005625cde254e22c67d94c8498c6b74c8c28e1",
+            "content": {
+                "en": "Nathan Fillion&apos;s Twitter feed."
+            }
+        },
+        {
+            "id": "w_2c15fce6a4dcee70aeda12e05b24834eb85ab107",
+            "content": {
+                "en": "NERD RAGE!!!"
+            }
+        },
+        {
+            "id": "w_06958446cadb0685affa9e045e592e0332b1038b",
+            "content": {
+                "en": "Network protocols."
+            }
+        },
+        {
+            "id": "w_3bd293bef0d03f175064af180cf2df54d646bf62",
+            "content": {
+                "en": "Never, without my permission."
+            }
+        },
+        {
+            "id": "w_8ce760d4b7c41f3b56bac81c440525e4dce2017b",
+            "content": {
+                "en": "Nicolas Cage&apos;s face."
+            }
+        },
+        {
+            "id": "w_fd9670d35c72c02eb3b6b616179b8e76dbe56a03",
+            "content": {
+                "en": "Nikola Tesla&apos;s intense love for a pigeon."
+            }
+        },
+        {
+            "id": "w_65eee94be0c2278df1ee02e0f0982b95995d5f5b",
+            "content": {
+                "en": "Not a good enough reason to use the \"penetrate\" ."
+            }
+        },
+        {
+            "id": "w_40e6fd28082d949a276cf942aa7a21079b6c4427",
+            "content": {
+                "en": "Not being shocked by The Red Wedding."
+            }
+        },
+        {
+            "id": "w_124d5012efdf73a3dd47fca49c3e7e5ba9401685",
+            "content": {
+                "en": "Not seeing the irony in using the word \"marathon\" for watching a lot of television."
+            }
+        },
+        {
+            "id": "w_d27025508c99ad7b11d167cca6e38848ceb0d2bb",
+            "content": {
+                "en": "One million likes on Facebook."
+            }
+        },
+        {
+            "id": "w_a780e376bb726ce4cb5ad92923d2a1560ab66e31",
+            "content": {
+                "en": "One-star reviews of Bram Stoker&apos;s Dracula."
+            }
+        },
+        {
+            "id": "w_786512b4e4a5e2ce3ff3135995b2c478f1df272a",
+            "content": {
+                "en": "Papyrus, or Comic Sans, or both."
+            }
+        },
+        {
+            "id": "w_5bd8eca30809a8bc8b88694f4e3ae3112a2b62d6",
+            "content": {
+                "en": "Particle Man."
+            }
+        },
+        {
+            "id": "w_3a33f15a7921b3eae8ea3e12e1bb40108ce80b8f",
+            "content": {
+                "en": "Patrick Stewart&apos;s Twitter feed."
+            }
+        },
+        {
+            "id": "w_6660692dad961d7e66ee4d2c4799e8dbd062a743",
+            "content": {
+                "en": "Peeling off the plastic."
+            }
+        },
+        {
+            "id": "w_a93a107a95a994d278e075a9f1904d6ddd0ac1c4",
+            "content": {
+                "en": "People who call HTML a \"programming language\" ."
+            }
+        },
+        {
+            "id": "w_585c2c24545828b1d2e5addde2f8658efa94a5ac",
+            "content": {
+                "en": "People who think The Onion is a legitimate news organization."
+            }
+        },
+        {
+            "id": "w_275c72897739312428e4f3003c7e4543a2ebf9f4",
+            "content": {
+                "en": "People who walk out of the theater before the credits are over."
+            }
+        },
+        {
+            "id": "w_2f549be79e73975ad65ae9b597f66b0d973b729d",
+            "content": {
+                "en": "Percussive maintenance."
+            }
+        },
+        {
+            "id": "w_eadf2aa0f83adbbaf407c1ce5d1e12822c446cbf",
+            "content": {
+                "en": "Picard&apos;s barber."
+            }
+        },
+        {
+            "id": "w_6f5240fc3ebe6eafac2d3f2e34b2cb8b8f6488d3",
+            "content": {
+                "en": "Pizza the Hutt."
+            }
+        },
+        {
+            "id": "w_ee8713a961dc849657e5cec6091b05a1e0cbca37",
+            "content": {
+                "en": "Playing Frisbee like the Winter Soldier."
+            }
+        },
+        {
+            "id": "w_7d5447878956778f10f7562767cda039723fca6f",
+            "content": {
+                "en": "Playing the Macarena on an ocarina."
+            }
+        },
+        {
+            "id": "w_3eb287ebf531a36ed06663174241015e03ba0884",
+            "content": {
+                "en": "Plot holes you could drive a truck through."
+            }
+        },
+        {
+            "id": "w_328fb6931d69be546bc99cf20cc3a82cd27464da",
+            "content": {
+                "en": "Pon farr."
+            }
+        },
+        {
+            "id": "w_2046b56047476eef6717360b7f9f5f9dc5bd9177",
+            "content": {
+                "en": "Preferring the Weird Al version of most songs."
+            }
+        },
+        {
+            "id": "w_cef2ad234e7212979fd98c1f24c38eda382fa705",
+            "content": {
+                "en": "Princess Leia&apos;s boob tape."
+            }
+        },
+        {
+            "id": "w_e2ba160d613a3cf608ce0ee842133e32268127ef",
+            "content": {
+                "en": "Privacy settings."
+            }
+        },
+        {
+            "id": "w_f1924ea5f12c340cc7cef3f20a67b353d2d9aba6",
+            "content": {
+                "en": "Putting your hood up and pretending you're a Jedi."
+            }
+        },
+        {
+            "id": "w_f6fda76b957ddd6d12db8e78b7ebbb504a746fda",
+            "content": {
+                "en": "Qualities that other humans find desirable in a sexual partner."
+            }
+        },
+        {
+            "id": "w_cb4fe8022b3f857222d7ec977f9a3cc29ad2214c",
+            "content": {
+                "en": "Reading out loud from a Necronomicon."
+            }
+        },
+        {
+            "id": "w_0048dd298f27411e46a7626106af9e9ed96b91b7",
+            "content": {
+                "en": "Realizing that every episode of Start Trek: TNG is just a bunch of committee meetings."
+            }
+        },
+        {
+            "id": "w_4e4e537572bca8057f86dc368752b4732291fd83",
+            "content": {
+                "en": "Realizing that Facebook, IM, and texting are your new definition of \"human contact\" ."
+            }
+        },
+        {
+            "id": "w_e432b947199115a5d918ba877d342cc9a45ba1d4",
+            "content": {
+                "en": "Realizing that Mrs. Pack-Man might just be Pac-Man in drag."
+            }
+        },
+        {
+            "id": "w_f81d4a2a4f4abaf5e207574662cf0644a1cc6a20",
+            "content": {
+                "en": "Reciting the Litany Against Fear to psyche yourself up."
+            }
+        },
+        {
+            "id": "w_c85199cd50c0f7fe4288ab6844179707b91053ae",
+            "content": {
+                "en": "Refusing to watch a movie after Neil deGrasse Tyson has ripped it to pieces."
+            }
+        },
+        {
+            "id": "w_4b66446cbe45b643598cadb28d3c55a59235592d",
+            "content": {
+                "en": "Reluctantly handing your glasses over to yet another asshole who \"just wants to try them on\" ."
+            }
+        },
+        {
+            "id": "w_33397f6722f84a9bb2ab9e3963e1e97b42fd1a12",
+            "content": {
+                "en": "Remembering when there were only 151 Pokemon."
+            }
+        },
+        {
+            "id": "w_0b06dcd167b4a17d155ac0a3b631d210e91bc903",
+            "content": {
+                "en": "Resenting \"The Big Bang Theory\" ."
+            }
+        },
+        {
+            "id": "w_584cc66ccd4c7a6ad2168b994bcb02989674b6e8",
+            "content": {
+                "en": "Retro t-shirts."
+            }
+        },
+        {
+            "id": "w_9214740c0bf80f37278216c37fc293ba827f95fa",
+            "content": {
+                "en": "Rob Liefeld&apos;s inability to draw people."
+            }
+        },
+        {
+            "id": "w_12d9f150246c2b503cffff95136ce3902ff4ab0b",
+            "content": {
+                "en": "Rock\/Paper\/Scissors."
+            }
+        },
+        {
+            "id": "w_67952ca849dc93eaa23cb7a8961addbd8bde5f8e",
+            "content": {
+                "en": "Sad devotion to an ancient religion."
+            }
+        },
+        {
+            "id": "w_cc64d94f608e48e75a60d36e1ee321f41a6a61e7",
+            "content": {
+                "en": "Salting your doors and windows, just in case."
+            }
+        },
+        {
+            "id": "w_560c1bf1ca0157882d835749d6d8f87babe533e0",
+            "content": {
+                "en": "Sanctimonious Mac users."
+            }
+        },
+        {
+            "id": "w_568b837d7fddb0a0d89e075ce5e4c645b893ea67",
+            "content": {
+                "en": "Sexy green aliens."
+            }
+        },
+        {
+            "id": "w_aee44461528c3f28bb2aa7a6fcf07789ef3d2525",
+            "content": {
+                "en": "Shark Boy and Lava Girl."
+            }
+        },
+        {
+            "id": "w_1a9fce773e47b032ac5f813a1a586064e1b01d52",
+            "content": {
+                "en": "Snape, Snape, Severus Snape."
+            }
+        },
+        {
+            "id": "w_22186cf76ab982ef4868aea766bba6f9e59b3c88",
+            "content": {
+                "en": "Solving for x."
+            }
+        },
+        {
+            "id": "w_1a9f8eced1b984fd9501fa286c9b21c776ade4fe",
+            "content": {
+                "en": "Some badass archery."
+            }
+        },
+        {
+            "id": "w_1afa6205e845c09bf24351c95793c97d13db2371",
+            "content": {
+                "en": "Something that can fit on a single 3.5\" floppy disc."
+            }
+        },
+        {
+            "id": "w_69a8191f51ae5ae1aaa94fd80992b73c54860ff0",
+            "content": {
+                "en": "Spaceballs 2: The Search for More Money."
+            }
+        },
+        {
+            "id": "w_f775a100b3256112c99acbb252bd8396f0a617a7",
+            "content": {
+                "en": "Spam, Spam, Spam, Spam, baked beans, Spam, Spam, and Spam."
+            }
+        },
+        {
+            "id": "w_97f4c13f11cda3ddbf6992f5096643944633c9cf",
+            "content": {
+                "en": "Spock&apos;s brain."
+            }
+        },
+        {
+            "id": "w_16e508e3a2be6f3e70f7fa49a880e71e74447e73",
+            "content": {
+                "en": "Stop motion animation."
+            }
+        },
+        {
+            "id": "w_f37217f2f394fffdd72841b65145f43a8f43b072",
+            "content": {
+                "en": "Strange women lying in ponds distributing swords."
+            }
+        },
+        {
+            "id": "w_4cd763504d327cad98524432cc34d91422482594",
+            "content": {
+                "en": "Subreddits."
+            }
+        },
+        {
+            "id": "w_02be5b0303e44a27b8b580f66a290748892a1838",
+            "content": {
+                "en": "Synthehol."
+            }
+        },
+        {
+            "id": "w_ec8bee0fc4db13033b0df5c05b5562c4df22a78c",
+            "content": {
+                "en": "Telling the villain you're onto them, and then expecting nothing bad to happen to you."
+            }
+        },
+        {
+            "id": "w_399793775b27a183fd969d82dfb8caf3731a0238",
+            "content": {
+                "en": "That time everyone thought you were the Heir of Slytherin."
+            }
+        },
+        {
+            "id": "w_497f3d001eba44bc32318d6a67d1dd8f923125a4",
+            "content": {
+                "en": "The airspeed velocity of an unladen swallow."
+            }
+        },
+        {
+            "id": "w_b22833d504ca3100eb4ea8a64b93aeab3d893c81",
+            "content": {
+                "en": "The Alien Hidden In The Incubator."
+            }
+        },
+        {
+            "id": "w_bf0b9cfc785b2e32a7b68a8fc627b6fc8b030a4b",
+            "content": {
+                "en": "The Amazon reviews for the vibrating Harry Potter Nimbus 2000 Broomstick."
+            }
+        },
+        {
+            "id": "w_5ec2b288054f78041799ad6dccdf189ee2772ab4",
+            "content": {
+                "en": "The babe with the power."
+            }
+        },
+        {
+            "id": "w_6f84f814d5fa1799152ce33316e258b1e9962aaf",
+            "content": {
+                "en": "The blue canary in the outlet by the light switch."
+            }
+        },
+        {
+            "id": "w_ba2a9517cb663b5016d456e28f94ee5fb85f59e2",
+            "content": {
+                "en": "The blue screen of death."
+            }
+        },
+        {
+            "id": "w_87dd8da201bab728f8cfb144cdcb7c59dd527e68",
+            "content": {
+                "en": "The Cantina Band."
+            }
+        },
+        {
+            "id": "w_cf62a71229fee5ddae14be4b43e52a0686ee7a5f",
+            "content": {
+                "en": "The Chain of Command."
+            }
+        },
+        {
+            "id": "w_2e84576d0322c37f74889973f9d39d9490c2a3e2",
+            "content": {
+                "en": "The character you hate to love."
+            }
+        },
+        {
+            "id": "w_2bbb304ea83add10547480711d9da74936e02ef2",
+            "content": {
+                "en": "The character you love to hate."
+            }
+        },
+        {
+            "id": "w_c46a092aee97011d4e9b0e7b33379fc52cfcbfcc",
+            "content": {
+                "en": "The cheerleader who saves the world."
+            }
+        },
+        {
+            "id": "w_3f3802c8d1513f7ff160a2af7696813697bdf8f7",
+            "content": {
+                "en": "The Christmas episode."
+            }
+        },
+        {
+            "id": "w_918de219131a9a14ca645c08330b613d1065b2e8",
+            "content": {
+                "en": "The commentary track."
+            }
+        },
+        {
+            "id": "w_16aa2d3c758156b370c7895be051826cd9f7e63c",
+            "content": {
+                "en": "The comments section."
+            }
+        },
+        {
+            "id": "w_c6e845cafa4763373fce608f0c610ea399edd0e4",
+            "content": {
+                "en": "The contractors on the second Death Star."
+            }
+        },
+        {
+            "id": "w_7c897426e3aa8b2adda8306847baa30740c46e24",
+            "content": {
+                "en": "The Cumberbitches."
+            }
+        },
+        {
+            "id": "w_a7390159c3488799adc921330a37f81d3bcec3c1",
+            "content": {
+                "en": "The delicious irony of filling your DVR with episodes of Hoarding: Buried Alive."
+            }
+        },
+        {
+            "id": "w_c25c5a8a8840f3319674cf42fba71ce6d9e0a8e8",
+            "content": {
+                "en": "The Diva Plavalaguna."
+            }
+        },
+        {
+            "id": "w_1ab10ddfd6b635cd0b2e27ae642d6dd91b2d1ff6",
+            "content": {
+                "en": "The Doom Song."
+            }
+        },
+        {
+            "id": "w_bfa6e1966dbb603275be2e2f4f2553f602ff9a9e",
+            "content": {
+                "en": "The droids you're looking for."
+            }
+        },
+        {
+            "id": "w_7815811aa7529c8c3cfb61455b6deb1c47615086",
+            "content": {
+                "en": "The entire series on DVD."
+            }
+        },
+        {
+            "id": "w_80a9d04d68c239fcc975cda1c569e1f4fd9b7b53",
+            "content": {
+                "en": "The evacuation of Earth-That-Was."
+            }
+        },
+        {
+            "id": "w_c490f85ae824ae5084954e84b154b9026c9156cc",
+            "content": {
+                "en": "The evil you from an alternate universe."
+            }
+        },
+        {
+            "id": "w_55df636764331854442089a243a5830dfa3aeee6",
+            "content": {
+                "en": "The fake English accents used at Renaissance Fairs."
+            }
+        },
+        {
+            "id": "w_559a815769494e4c00328a2cbf2222197c6ba6fb",
+            "content": {
+                "en": "The fine line between fandom and life-destroying obsession."
+            }
+        },
+        {
+            "id": "w_9abe9904bf15468b1cd83720ca9bf8a7c236486f",
+            "content": {
+                "en": "The Hawkeye Initiative."
+            }
+        },
+        {
+            "id": "w_ada7ed06d7099df58995810c9f804871f3c85d4d",
+            "content": {
+                "en": "The Holy Hand Grenade of Antioch."
+            }
+        },
+        {
+            "id": "w_9473ce39d9fb8bc2461316d510b1704b40996a94",
+            "content": {
+                "en": "The horse is a surprise."
+            }
+        },
+        {
+            "id": "w_c31c09922065a9e986233389761b34b7a5f26a09",
+            "content": {
+                "en": "The inevitable hilarious cameo from Stan Lee."
+            }
+        },
+        {
+            "id": "w_a96af9bacabb0eae46c2a8f60a90b285eafc7ea6",
+            "content": {
+                "en": "The Jedi Code."
+            }
+        },
+        {
+            "id": "w_c47f5020329c9e5c09ad23cab172040d1d9d9165",
+            "content": {
+                "en": "The Kessel Run"
+            }
+        },
+        {
+            "id": "w_6c629b62ace0442ef67339b9931149d66f16ab39",
+            "content": {
+                "en": "The machine that goes \"ping!\""
+            }
+        },
+        {
+            "id": "w_56cae561206edda0e1015437202d16fe8a0816b5",
+            "content": {
+                "en": "The mysterious ticking noise."
+            }
+        },
+        {
+            "id": "w_f5e05263347516b361ef59713801c60476ba81ce",
+            "content": {
+                "en": "The myth of the fake geek girl."
+            }
+        },
+        {
+            "id": "w_92c7904c56ec4c043b2be53c7a599c4f0f780427",
+            "content": {
+                "en": "The physical suffering we endure for cosplay."
+            }
+        },
+        {
+            "id": "w_1f8beaadfcd3ab4dac33e5b9362a9538c52f6e15",
+            "content": {
+                "en": "The quadratic equation."
+            }
+        },
+        {
+            "id": "w_d00e26eb2b6352844ec98ed0257ba118e901b968",
+            "content": {
+                "en": "The questionable hairstyles of Babylon 5."
+            }
+        },
+        {
+            "id": "w_588169a771c9233ee9144691f8f62160a9ea441c",
+            "content": {
+                "en": "The rebellious clone."
+            }
+        },
+        {
+            "id": "w_b54b396646d49b672c8a485e8040d89bcc0d4a15",
+            "content": {
+                "en": "The remarkable number of red-haired women in comic books."
+            }
+        },
+        {
+            "id": "w_67fee43c254feff4293eeb8a042a87d99a49a6f8",
+            "content": {
+                "en": "The scene after the credits."
+            }
+        },
+        {
+            "id": "w_79b058d9e831aeec6eb010acc08caa51730b5996",
+            "content": {
+                "en": "The singularity."
+            }
+        },
+        {
+            "id": "w_96f652b1ebe7fb43b447b95877703ce00d674123",
+            "content": {
+                "en": "The skill and patience required to paint miniatures."
+            }
+        },
+        {
+            "id": "w_24a29acdb4f6c82bec0d99eb7aec39c389fa0918",
+            "content": {
+                "en": "The song of my people."
+            }
+        },
+        {
+            "id": "w_8fffa8957c33352e64aa97c483ea1ae05749447f",
+            "content": {
+                "en": "The special features."
+            }
+        },
+        {
+            "id": "w_62859792f15f7e9ea750e05fbb71632d0e336113",
+            "content": {
+                "en": "The spinning beach ball."
+            }
+        },
+        {
+            "id": "w_17c37e19b8a348d55c921e7696f094c72b7fdb82",
+            "content": {
+                "en": "The Throne of Games."
+            }
+        },
+        {
+            "id": "w_27bc804582aba382daab628ff32fe20455706d29",
+            "content": {
+                "en": "The toxic, plastic smell of burning Vader."
+            }
+        },
+        {
+            "id": "w_2919225fb657a91a70c7cb0f681ca24401891481",
+            "content": {
+                "en": "The vast, yawning emptiness of space."
+            }
+        },
+        {
+            "id": "w_bc5c24a01e6580e10472587ca40a73278dc97615",
+            "content": {
+                "en": "The way Commander Riker gets into chairs."
+            }
+        },
+        {
+            "id": "w_bcef1f1aa2de017d8e0feb9754a57f8c96fff418",
+            "content": {
+                "en": "The way glasses make you look smart instead of blind."
+            }
+        },
+        {
+            "id": "w_2707fb31b4dc9ced7c141b523fd4cfaebf37eec5",
+            "content": {
+                "en": "The Wilhelm scream."
+            }
+        },
+        {
+            "id": "w_9c145be7e2d15069336884b7524517a6f8403a4c",
+            "content": {
+                "en": "The Yub Nub Song."
+            }
+        },
+        {
+            "id": "w_a78a367f936fb2888764b7caa6bb8a04ffd0c18a",
+            "content": {
+                "en": "Time in a bottle."
+            }
+        },
+        {
+            "id": "w_7ed12d66d9f69e50a457c267f0f00a8b28f68782",
+            "content": {
+                "en": "Too many villains in the sequel."
+            }
+        },
+        {
+            "id": "w_9a33bffd1d3e75d3096c19dca17acbdb00d7c3bb",
+            "content": {
+                "en": "Trading on cheap nostalgia."
+            }
+        },
+        {
+            "id": "w_d9aeed5136d44c4e3c80812d96c35c4b8ca16e79",
+            "content": {
+                "en": "Trapping, bleed, and ligatures."
+            }
+        },
+        {
+            "id": "w_50cf25b31de3f8107a2ecbbb8868a0d0e3fe9fd0",
+            "content": {
+                "en": "Traveling in single file to hide you numbers."
+            }
+        },
+        {
+            "id": "w_8dc779438ba41fcbc6314c23ae1120cc0ffccfd0",
+            "content": {
+                "en": "Triangle Man."
+            }
+        },
+        {
+            "id": "w_f95a76eaf811f9eb738f57846bf872ba1e3b61eb",
+            "content": {
+                "en": "Trying for the Harry Potter look and landing squarely on John Lennon."
+            }
+        },
+        {
+            "id": "w_9c950d41cd33c18cd9322173b6a35d660d9d5ce1",
+            "content": {
+                "en": "Trying to eat like a human while wearing a corset."
+            }
+        },
+        {
+            "id": "w_b0cbe6e31aa7bb8ffcf4726e168cbb40e0aca179",
+            "content": {
+                "en": "Trying to explain your LARP weekend to your coworkers."
+            }
+        },
+        {
+            "id": "w_4a9a3310c3e744fdc1712ec8c10d0083b4ef6228",
+            "content": {
+                "en": "Twincest."
+            }
+        },
+        {
+            "id": "w_1a55371a29e3896abdefef012c61831d5e766027",
+            "content": {
+                "en": "Using an instagram filter to make your good, expensive camera look like a cheap piece of shit."
+            }
+        },
+        {
+            "id": "w_bb104bcbd4423c70bdbffcf757fd5446d82a2dcb",
+            "content": {
+                "en": "Using any reference to \"The One Ring\" in a romantic way."
+            }
+        },
+        {
+            "id": "w_79a865445a7ad8fdb4f9a5887004fdd4283c253d",
+            "content": {
+                "en": "Utini!"
+            }
+        },
+        {
+            "id": "w_916a5bee8c6fe12036c62f28bb98591b4a020398",
+            "content": {
+                "en": "Vogon poetry."
+            }
+        },
+        {
+            "id": "w_8cb5f78d0509ccce99abd10a6fc5f094a74efdb2",
+            "content": {
+                "en": "Volts divided by amps."
+            }
+        },
+        {
+            "id": "w_5fd3d70d145b8fc76c5d6f5c95ff058c86326ede",
+            "content": {
+                "en": "Waif fu."
+            }
+        },
+        {
+            "id": "w_7316fb16df95bb075abbf4250110658fcc83d3a3",
+            "content": {
+                "en": "Waiting for your Hogwarts acceptance letter."
+            }
+        },
+        {
+            "id": "w_ac136149613fb82d30126b6b9b45d1865b6131a0",
+            "content": {
+                "en": "When another movie studio tries to copy Marvel&apos;s success."
+            }
+        },
+        {
+            "id": "w_d18386ba7602bce93e3ff542c4f93982729e2943",
+            "content": {
+                "en": "When Fox cancels your favorite show."
+            }
+        },
+        {
+            "id": "w_851fd06d64fb8d9eb3c570796aada671fd1ecf25",
+            "content": {
+                "en": "When the cat steals your dice, again."
+            }
+        },
+        {
+            "id": "w_461d4061d59ae10a5979099007ba98030176fca9",
+            "content": {
+                "en": "When the movie is nothing like the book."
+            }
+        },
+        {
+            "id": "w_19820573b21bd89a9f74ac4600e4b3fe515905d9",
+            "content": {
+                "en": "White Wolf&apos;s Noun: The Verbing."
+            }
+        },
+        {
+            "id": "w_0f77945d06a9a58fedca850ed1e3df7a84c62362",
+            "content": {
+                "en": "Wishing ESPN8 \"The Ocho\" was real."
+            }
+        },
+        {
+            "id": "w_b73d6e7dc4034902b4d8c159a7bcdd6e7c7de7c4",
+            "content": {
+                "en": "Wishing goblins would kidnap your baby brother."
+            }
+        },
+        {
+            "id": "w_8d0faa8f7a673116bef187f0ad51f7b20de808de",
+            "content": {
+                "en": "Wizard swears."
+            }
+        },
+        {
+            "id": "w_96f369759a7d80b983e65e1c9f3f09985e9de596",
+            "content": {
+                "en": "Wrecking the bell curve."
+            }
+        },
+        {
+            "id": "w_09a5d6b7773c8f45b975b54e855347ab67e1e646",
+            "content": {
+                "en": "Yelling at the screen because that&apos;s not how it happened in the book."
+            }
+        },
+        {
+            "id": "w_91c66dd2dbe92cb81aa41eb4515997c597b7c742",
+            "content": {
+                "en": "Young Earth Creationists."
+            }
+        },
+        {
+            "id": "w_69d4f8385b00d22f4ab4c3e9b989cf76de77f1dd",
+            "content": {
+                "en": "Your first one-night stand at Comic-Con."
+            }
+        },
+        {
+            "id": "w_3719212ac0e4447e7fa2c96ca4b652d0510188b6",
+            "content": {
+                "en": "Your sudden but inevitable betrayal."
+            }
+        },
+        {
+            "id": "w_4b40812da38f145473ef750b78c9a34bf6209908",
+            "content": {
+                "en": "Zoom and enhance."
+            }
+        },
+        {
+            "id": "b_40b2d988f3887441c2879a71d0307fff6e901240",
+            "content": {
+                "en": "\"Are you classified as human?\"  \"Negative, I am ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a3f8bfa63aabf81d7593875bb9a7341be70381ec",
+            "content": {
+                "en": "An online quiz told me I am ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2ba7ac0b62484aa869dbd5afb0cb4b04ec82a8a",
+            "content": {
+                "en": "As social outcasts, we're accepting of everyone, unless you're into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7a39f35613bc7e2e4d4c4bd5c9186080d2625dea",
+            "content": {
+                "en": "Band camp? Psh! I went to ______ camp!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_713981cceef004f31d6fcf9741889012d0dee6b5",
+            "content": {
+                "en": "Believe it or not, there are people who think the Internet is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e32bd97fd38c0440aff92a2ddf81281fac68aad7",
+            "content": {
+                "en": "Coming soon to a theater near you: Johnny Depp in Tim Burton&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9bcb8d479549dc649856bdd94035a172699cfd4c",
+            "content": {
+                "en": "Cosplay just isn't cosplay if it doesn't involve ______. What is the Force?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c6ff60b10dfdd5fd89b13e1ee99601464b9bea91",
+            "content": {
+                "en": "Damn it, Jim! I&apos;m ______, not ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7cc457386e6a19cf7fccb6d9bded4c68cf0b238a",
+            "content": {
+                "en": "Everything I ever needed to know I learned by watching ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a085f89aa216a644cdcdcbd53cfd43d646a6923d",
+            "content": {
+                "en": "First hipsters stole our glasses, next they'll take ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9a608b5dc0de55562fc86ad99d5f3c6a3999016b",
+            "content": {
+                "en": "First we lost power to the engines, then we lost ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eae6829322eb2934d1441c64590a5b5e922e4bfc",
+            "content": {
+                "en": "Given enough time, even the best TV shows will resort to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aa1d8db240449ae53be570a21f69a97ef3260c4d",
+            "content": {
+                "en": "Good morning, I see my ______ has\/have failed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b05226759dc81cfee89e4c08b31bf4495fa8b2fa",
+            "content": {
+                "en": "Hodor?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a90faf5d46cf6ca259f1c56e060343710dca5fc8",
+            "content": {
+                "en": "Hokey religions and ancient weapons are no match for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1265bd2b609d84e8d02e72a77d701eae41a65fdc",
+            "content": {
+                "en": "How did I lose all my Facebook friends?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5dc4e35d37002604db7ea26ed9512e4ff172eada",
+            "content": {
+                "en": "I can't believe they approved my doctoral dissertation on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17a7c2d16d6cdf2351d0ef65651feb5b28f24e78",
+            "content": {
+                "en": "I filled my hard drive with pictures of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6ebc8e67bc118cc20b854d133257a5f1e2cd26c",
+            "content": {
+                "en": "I had no idea demon hunting would involve so much ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2923a8aba49aa51579cc00b0363c4d57b8359791",
+            "content": {
+                "en": "I made fun of Aquaman until I found out he was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_acd3244725adf4e4fcb53c7e3721f7df58031829",
+            "content": {
+                "en": "I may not be great at sports, but I am amazing at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_327ff7d15ea1ef936fd7ebcea893545f925126e8",
+            "content": {
+                "en": "I missed most of my senior year with a bad case of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1a68932cc022e2bd8ac1da18d986624bb98a48a8",
+            "content": {
+                "en": "I once played an invincible Mage who could only be killed by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ebf4e2395db696ecfb48672e37ecf78e07c4740e",
+            "content": {
+                "en": "I only seem socially awkward because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7ef0bfe85dafdc17aa82ba686b75cb6d42f78be",
+            "content": {
+                "en": "I should have known better than to engineer ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_800503f6e314fe6a9cfbba01d0b55646f9ee1f0e",
+            "content": {
+                "en": "I still would be a virgin if it weren't for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2d7be36cac25540016bd1efa551336377a96edff",
+            "content": {
+                "en": "I suspected the mayor might be evil, but I wasn't sure until he turned into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_082cbffd09d84ec07b82d2f80643c8d0fcebdbdd",
+            "content": {
+                "en": "I swear by ______, I will end you."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d12ac8c643cbe111052381ad2e28df019a8be395",
+            "content": {
+                "en": "I thought I'd seen everything, until the aliens showed us ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1bd3ac41946873f4209ba782cd89af3fe3554840",
+            "content": {
+                "en": "I was sent to the school psychologist because I wrote a paper about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_06a0dd65521004eac508eee054331bfcd4a166bd",
+            "content": {
+                "en": "I won't be bullied again, now that I have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94eef49e3b21746373aa3dee95af35cbb800e3c2",
+            "content": {
+                "en": "I&apos;m allergic to ______. I&apos;m a Hufflepuff!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_37c863f2145a329c981d562b2e1a9e8f1da080d7",
+            "content": {
+                "en": "I&apos;m getting sick of having to explain ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20089e708cab910ca8744f584c8d743b738fb853",
+            "content": {
+                "en": "I&apos;m not a violent person, but I will throw down if you badmouth ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1032a5b57cd12a8be3d0fbcbbf5b5e2d75e81c1",
+            "content": {
+                "en": "I'll start doing sports as soon as ______ is considered a sport."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba6d3b8503b549e8cd19a70972ccd5328485e699",
+            "content": {
+                "en": "I've seen the best minds of my generation destroyed by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddf4dda00f05491503133ea20aa0ed7264578b5f",
+            "content": {
+                "en": "If Science Fiction has taught me anything, it&apos;s never trust ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c099df73f334ab4512a3e5f044aee05ea75ff4f5",
+            "content": {
+                "en": "In our last campaign, our Dungeon Master put ______ inside a gelatinous cube."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6af9b72afc751c50bcbb55abc694cd087d0dba6",
+            "content": {
+                "en": "In space, no one can hear ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3847a27c828ed63473d65b373177ef1d3ed598a2",
+            "content": {
+                "en": "In the 24th century, all spacecraft will be equipped with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b525e05da492fa61d70b6498574d29dcafaf542a",
+            "content": {
+                "en": "In the next movie, for a change, Kirk will have sex with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d027603915b70031830a8658fc3b95861cd1ce92",
+            "content": {
+                "en": "In the next Thor movie, they go to the little-talked-about realm, ______-gard."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc1b01364906027909ce325198992fbd11e6db0f",
+            "content": {
+                "en": "Intergalactic diplomacy only goes so far. Sometimes you have to use ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_76b63ba6b0bcb58fbf59817f80284da589c2c985",
+            "content": {
+                "en": "Kinetic energy is best described as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3df34542854d8c82fdb276e6ba3cbf3cfd2a1992",
+            "content": {
+                "en": "Kneel before ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8dd21eb8db0c7a92adcf569dd4ce293bd8859d29",
+            "content": {
+                "en": "Lonely nerds: Be lonely no longer, thanks to ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3eb746f4b400abb4ab85a7ab77be42707696534d",
+            "content": {
+                "en": "Mangalores won't fight without ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4bc8827462b7217f65605119f0b558a669a786f2",
+            "content": {
+                "en": "My new LARP character is as smart as ______ and as charming as ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2fff2fa9f717f4caa4d4a2976f2538000a73cfda",
+            "content": {
+                "en": "My next project will be a 1\/6 scale model of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c31434d34432a115cfad0e0965bc54959c76d8f4",
+            "content": {
+                "en": "My senior year, I wrote \"______\"  in everybody else&apos;s yearbooks."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93e49d3adf4e4ddfde13f2cc2a9b8423c28002d0",
+            "content": {
+                "en": "No one believes I&apos;m really allergic to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cbf9611e8b30390ff94ba1be571281bc1c8e4f9f",
+            "content": {
+                "en": "Now its' time for Korben to say the word of the day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f3ac638389d167fe433ffec4eb20c2d2ba05c233",
+            "content": {
+                "en": "Oh my God, Karen, you can't just ask people why they're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_41b123b46a53c6bb8c0665bc9a47b8cb3c509744",
+            "content": {
+                "en": "Older nerds spend most of their time on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_61f24e816ef7953ca21d5b99ba9def74f29cab67",
+            "content": {
+                "en": "Our Brave hero is saved by a deus ex machina, in the form of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d63d6adfe9be63692b998187c2afab7dcfa1b106",
+            "content": {
+                "en": "Our only real barrier to interstellar space travel is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_96fb88af60a7e4f3ac628e7fe3c050ed33bf0e77",
+            "content": {
+                "en": "Resistance is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c8ffe182fa6945469c4617f6ba78e127431ef19c",
+            "content": {
+                "en": "Rule 34 is always true, no exceptions, not even for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bfb556973406e04422c32ab4e38ce4513efe6086",
+            "content": {
+                "en": "She&apos;s a witch! She turned me into ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e79a19a99194deb495c21dfe4e8c5d6557c7453",
+            "content": {
+                "en": "Taylor Lautner only did the Twilight movies so we would forget about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_511e545abb3af7440b25c97c594ce52ebbe04ded",
+            "content": {
+                "en": "That&apos;s it! I&apos;m canceling my Netflix subscription. There&apos;s too much ______, and not enough ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7370b9af4d808f7636c4b6f59e0bdcc97ce3ef5e",
+            "content": {
+                "en": "That&apos;s no moon; its' ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_73613834fdc5b3280c929434411ae8951ac1a042",
+            "content": {
+                "en": "The ability to destroy a planet is insignificant next to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9909cf82806f23d63ece78a65936e3bbf4e203ce",
+            "content": {
+                "en": "The best thing about getting a new computer is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_caaf1543cbe3c46ef01127d2019500dd3645e6b8",
+            "content": {
+                "en": "The best\/worst thing about Tumblr is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7b2e49ee94fca9cdaaaf0110fb1cb33cb28b042",
+            "content": {
+                "en": "The best\/worst thing about your friend&apos;s homebrew game system is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b19f10a961f17deb26fec4cae04865b89ee6a1d",
+            "content": {
+                "en": "The Captain&apos;s last words were: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44be169be1ca8cd7abb8f43054d68adc2bc6cece",
+            "content": {
+                "en": "The girls\/boys will come running when they realize I have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c53b469a1b166ad20fa87e6d171f447c1ccff581",
+            "content": {
+                "en": "The internet is for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d5b8786d0bc99abf8d7762cae6efc1d615d78e37",
+            "content": {
+                "en": "The last time I ran a LARP, I killed five characters with ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17d9465b656bb3e3f1bd88358476af51e709fc57",
+            "content": {
+                "en": "The last time I was away, my coworkers filled my office with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_223e144221f1d6dcf226c98bc22f328f72db25ed",
+            "content": {
+                "en": "The next hit YA series features a teenage girl who gets involved with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bdd8ab4b32a93b52e252f2de88960bfe03a373d0",
+            "content": {
+                "en": "The Sworn Brothers of the Wall really like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5030a6039eb91d3703f9297cbb20572ed4db6e5f",
+            "content": {
+                "en": "The week on Mythbusters: Does ______ really lead to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_21921fa3c813a419311d4f46475b38de46680c66",
+            "content": {
+                "en": "The worst injustice in the history of cinema was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_81f39b3a8a98a88433b3f370230669d634e2b482",
+            "content": {
+                "en": "There is no Dana, only ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b689c07a525e283e25d83ba73fa738165018a20",
+            "content": {
+                "en": "TK-421, why aren't you at your post?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8d28f883487940dcb98877e604e01be453a03d5",
+            "content": {
+                "en": "Tonight on Mythbusters we tackle the bid one..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_73fb98e42a34d5d99a3c810f20bb8c83b774efb2",
+            "content": {
+                "en": "We all know Jubilee is pointless, but the worst mutant is actually ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_03ddcbb6969f224a0ac65feb3ef140710f47a089",
+            "content": {
+                "en": "We are The Knights Who Say ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_38d3172a1d4c9c56ad19b711cf31a56e99ed3879",
+            "content": {
+                "en": "We'll be the first historical reenactment group to reenact ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0cdb77165814776a1e686ca8bf9853df87947b43",
+            "content": {
+                "en": "What did I get my ass kicked for in school?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fcfe5e1196931027985718cdf5db680be42ffc5c",
+            "content": {
+                "en": "What did MacGuyver use to defuse the bomb?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_58e4815aead41155cfecf76705de3d57e955ac2d",
+            "content": {
+                "en": "What did you do, Ray?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3bda4506d3f2ae47fe3d4c998a4af9b823aace9d",
+            "content": {
+                "en": "What do you get when you multiply six by nine?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08da4ce665252fbcb53aa563748de81034ee2606",
+            "content": {
+                "en": "What does \"ecto gammat\"  mean?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eb2ee963bbbc6fc856b90b04b27ac21fdd455077",
+            "content": {
+                "en": "What is thy bidding, my master?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84b5e15429d4f2ff26e22fe31d5cd72b1e0bbd5a",
+            "content": {
+                "en": "What is your biggest nerd pet peeve?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d4fd288f36237714cbb91faf5fc113abd9c27ff1",
+            "content": {
+                "en": "What is your quest?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df68a8bf2b5b425184c472e1704b6b6a56956b21",
+            "content": {
+                "en": "What would you use a time machine for?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3afd56a66fc8cfe5808a5ee08aa0411837013b50",
+            "content": {
+                "en": "What&apos;s in the box?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c28cfdf8eca0840e41bab8346fae0115c86495aa",
+            "content": {
+                "en": "What&apos;s the worst thing nerds have to deal with?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b556789a81b43257d15119449f6e3c55eb440cdd",
+            "content": {
+                "en": "What&apos;s with all the carrots? What do bunnies need such good eyesight for anyway?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e44756dd5b37265a0fdc46c92b80f7ae8c53c9ab",
+            "content": {
+                "en": "Whatever you do, don't ever, EVER read ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d3217c2d989b2dd9c7f5f170caff7a46e060c071",
+            "content": {
+                "en": "When I added these smuggling compartments, I never thought I'd be smuggling ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddd34e1ddfa4e9f1e79feae54bb00c9147adaf2f",
+            "content": {
+                "en": "When I was vying for the Iron Throne, I didn't know it would involve ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd85ad7f9c2fa411be35d128b52d44a74b2764fb",
+            "content": {
+                "en": "Whit great power comes ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1ae129344b745a8870fc2b759f7d60ff6b4368eb",
+            "content": {
+                "en": "Who&apos;s scruffy looking?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7fda586d421772b930e6c8c633ad2f16233230de",
+            "content": {
+                "en": "Why am I drippings with goo?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_85c4079b28726c094e9374ffd124725b41e6e5dc",
+            "content": {
+                "en": "Why did it have to be snakes?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f94e4a154e1cfa42252a71df7c955613b93e137",
+            "content": {
+                "en": "Why doesn't Hollywood understand how computers work?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4c03871cf6e6f9c6e7e3ce77409ae276d761a5e8",
+            "content": {
+                "en": "You dawg, we heard you like ______, so we put some ______ in your ______. (All the same card)"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_7beecab671a1569dc35dc0bafafc4f5064e86c3d",
+            "content": {
+                "en": "You must be truly desperate to come to ______ for help."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7f692e870b9a32c4bd4d9794f322dbb00016769b",
+            "content": {
+                "en": "You need to read my new fanfic! It&apos;s about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1b62db4805164d40b1f9714142117e56e3a0f031",
+            "content": {
+                "en": "You should know, nerds are ______ in the streets, but ______ in the sheets."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ef5e17038b525e047d8d3f82ab81f9ac4dfa2147",
+            "content": {
+                "en": "You think you're upset now? Wait until Ben Affleck is cast to play ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7cfc8bd5185335e6be661e4caa428dd9c81db13",
+            "content": {
+                "en": "You won't believe what came through the wormhole..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d8f53c56ce465d8c0693a0e896a05f3e73810a4",
+            "content": {
+                "en": "You wouldn't be so brave if you'd ever smelled the Bog of Eternal ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b353fe379a64105ee778b1972f4d8d4d62cc8600",
+            "content": {
+                "en": "You'd be surprised by how much overlap there is in the Venn dieagram of ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4b6d2a49a36bbb08280293b1c7fbb5add601dd91",
+            "content": {
+                "en": "You're rolling up a new character. You put the most points into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_77b42abc5968644df186ac8798a2d6a39a2be48b",
+            "content": {
+                "en": "Your mother was a hamster, and your father smelt of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f9fe5fedb6c2391049d577419cec1b935057552c",
+            "content": {
+                "en": "______ \/ ______ slash fiction."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_afdbda680903fee1808a03989bb2dbd094b4df52",
+            "content": {
+                "en": "______, does exactly what it says on the tin."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e1de96f90426dc22a7e7d290f1686bd357ae4ac",
+            "content": {
+                "en": "______, still a better love story than Twilight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ea53c733e4125e472aaff31f5b7750d9ec3a6d9",
+            "content": {
+                "en": "______? ______? A Jedi craves not these things."
+            },
+            "pick": 2
+        }
+    ]
+}

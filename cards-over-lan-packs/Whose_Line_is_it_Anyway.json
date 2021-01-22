@@ -1,0 +1,257 @@
+{
+    "id": "Whose_Line_is_it_Anyway",
+    "name": "Whose Line is it Anyway",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_19629b7fc025b46c3e9fbff7954f881877d5ee1c",
+            "content": {
+                "en": "90 proof breast milk."
+            }
+        },
+        {
+            "id": "w_642689fe74a74e25df63fefa6313fb9e860b1c38",
+            "content": {
+                "en": "A 200-pound snatch."
+            }
+        },
+        {
+            "id": "w_0fa7e63b7d18b1c5b9448a943ecb1762cce6089b",
+            "content": {
+                "en": "A badly-timed bald joke."
+            }
+        },
+        {
+            "id": "w_961e9b35855f574c10f3542f2eb71d547b02713a",
+            "content": {
+                "en": "A malfunctioning robot with an attitude."
+            }
+        },
+        {
+            "id": "w_4bfcc6b2654cca2885661797dfcdab7258a6bbd6",
+            "content": {
+                "en": "America&apos;s favorite out of touch dad, Ryan Stiles."
+            }
+        },
+        {
+            "id": "w_0bd9f29088cdbccc704b093793fadf5c88630554",
+            "content": {
+                "en": "An engagement ring with a kidney stone instead of a diamond."
+            }
+        },
+        {
+            "id": "w_65fd8b24e1f746e7062ec4fb3c12e3824e00434c",
+            "content": {
+                "en": "An old woman who can only go \"oooooo\"."
+            }
+        },
+        {
+            "id": "w_3fbc7ab120625f60b4ed0b59aae48397aea39489",
+            "content": {
+                "en": "Another fucking Hoedown."
+            }
+        },
+        {
+            "id": "w_955d517548365a3c52fc5550a87e49a6cc573de8",
+            "content": {
+                "en": "Bitchcoin."
+            }
+        },
+        {
+            "id": "w_9e331d9229f55d7930c080e6f1a6453d0f4c1cd2",
+            "content": {
+                "en": "Blue shoes you can see from space."
+            }
+        },
+        {
+            "id": "w_5eac0f153ed72b25a94075c0b0487a280d4227a1",
+            "content": {
+                "en": "Captain Hair."
+            }
+        },
+        {
+            "id": "w_4f1073a54d2cf969c6486e595814299589e5f918",
+            "content": {
+                "en": "Carol Channing"
+            }
+        },
+        {
+            "id": "w_50e671c391cf76586c5f4c314c0d7b14c42de645",
+            "content": {
+                "en": "Clive Anderson&apos;s missing neck."
+            }
+        },
+        {
+            "id": "w_141e2e2e2ad967583907a7b7d4483d8041278181",
+            "content": {
+                "en": "Clive Anderson, Drew Carry, and Aisha Tyler in a death match."
+            }
+        },
+        {
+            "id": "w_5ad4479c151dedbc8e7f486ed9504fe16526e3d8",
+            "content": {
+                "en": "Cosby and Hitler."
+            }
+        },
+        {
+            "id": "w_0df37e3c7efcecf32a06232a1b14e273f6771221",
+            "content": {
+                "en": "Declaring you have no hair."
+            }
+        },
+        {
+            "id": "w_d59f41ddeaf29d013d3b2441f5d57cfb6b1e0905",
+            "content": {
+                "en": "Destroying a neon light with your head."
+            }
+        },
+        {
+            "id": "w_7a84a388fc0e2301a25af3083784ecea6a2078f5",
+            "content": {
+                "en": "Doing the splits whenever you can."
+            }
+        },
+        {
+            "id": "w_3eb871e6ec112c782afcf5370bb51a92566fa720",
+            "content": {
+                "en": "Hanging out at the deli with the Jews on Christmas."
+            }
+        },
+        {
+            "id": "w_288f969bcc979a54afa0bc9dea8c098f17bc14f5",
+            "content": {
+                "en": "John Wayne."
+            }
+        },
+        {
+            "id": "w_713158739892a929a69ab4efbf9e700b3a4d3ed8",
+            "content": {
+                "en": "King King accidentally upskirting Fay Wray."
+            }
+        },
+        {
+            "id": "w_768cf405e6cc95838fcc2b5715839adfe0b636e1",
+            "content": {
+                "en": "Lightning rod of hate"
+            }
+        },
+        {
+            "id": "w_9c0e372cb4ae1e80c9484b9c7ef11e4744a14c8a",
+            "content": {
+                "en": "Meow."
+            }
+        },
+        {
+            "id": "w_ac73e5c4c8f21340b98a11027c26d7c9d8129219",
+            "content": {
+                "en": "Nice pants."
+            }
+        },
+        {
+            "id": "w_a25b206cb69fde01ef6337d7881c8e747c91bc6d",
+            "content": {
+                "en": "Rapidly descending the evolutionary scale."
+            }
+        },
+        {
+            "id": "w_011a1faabd69a42fc3324a0a2a69103420944696",
+            "content": {
+                "en": "Richard Simmons."
+            }
+        },
+        {
+            "id": "w_ef8db5ab39414e152fdb4710bb102720d20c5826",
+            "content": {
+                "en": "The \"I've got a secret\" episode of the South American Jerry Springer Show."
+            }
+        },
+        {
+            "id": "w_237e888330b9e191fff7e1c51b9b2bb33953efc4",
+            "content": {
+                "en": "The creature from Essex."
+            }
+        },
+        {
+            "id": "w_7d3a41840ffd681b3d397089013215e1de34e84f",
+            "content": {
+                "en": "The Letter h."
+            }
+        },
+        {
+            "id": "w_cf8d3ac939b544f24268f0e15f3dbf1ff4cf0f61",
+            "content": {
+                "en": "The Maltese Burger."
+            }
+        },
+        {
+            "id": "w_3a9db8b02f3de37f42ea95a1f6c08225af227e5d",
+            "content": {
+                "en": "The Snackerfark of Emaar"
+            }
+        },
+        {
+            "id": "w_a4801e6bc3085d5420d0b9c95b896ad8b142db55",
+            "content": {
+                "en": "This chair is wet!"
+            }
+        },
+        {
+            "id": "b_e54e6cdc8ea49f3197944b6f16aa427bed9f9507",
+            "content": {
+                "en": "After that last game, I'd like to give 1,000 points to ______ for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_612349eee82c2547220297ec9272f1badf6e7a5d",
+            "content": {
+                "en": "And for our next game, please welcome celebrity guest ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ef0cfc0d21c86e16e703d4ba296fd7fd6844ec0",
+            "content": {
+                "en": "Colin was relieved he didn't have to play a woman, but then he found out he had to play ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f11f9b075029372f637e919bcbe802b1abf62fdb",
+            "content": {
+                "en": "It&apos;s time for everyone&apos;s favorite game in the whole wide world, ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a271fc4cd9b49ecef4d60d0d7e3dd110face5110",
+            "content": {
+                "en": "So this is Three Headed Broadway Star, singing ______ from the hit musical ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d2b16034e6fc8a58add97f667cc9949e7f338836",
+            "content": {
+                "en": "That&apos;s it for tonight&apos;s episode of Whose Line is it Anyway? To end the show, I'd like you to read the credits as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c81e945fad28f59f3d63622332fe00bcf9a64ca3",
+            "content": {
+                "en": "Today, ______ Man and his super friends must save the world from ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6e5f1b115ee95b288ce475f0ea8066ed0cc4c509",
+            "content": {
+                "en": "Welcome to Whose Line is it Anyway, the show where everything&apos;s made up and the points don't matter, just like ______."
+            },
+            "pick": 1
+        }
+    ]
+}

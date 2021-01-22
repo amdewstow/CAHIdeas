@@ -1,0 +1,247 @@
+{
+    "id": "CAH_for_horrible_nurses_",
+    "name": "CAH for (horrible) nurses!",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_0520dbe0d4c4c1e145281bfca55eb21fdf331927",
+            "content": {
+                "en": "A complementary proctological exam"
+            }
+        },
+        {
+            "id": "w_817967c4525e2936093b9dc711a2f1d535664207",
+            "content": {
+                "en": "A dead patient&apos;s fake breasts."
+            }
+        },
+        {
+            "id": "w_c1a43237dd1f6c19acc08d3a57ee64952141faf4",
+            "content": {
+                "en": "Accidentally hooking up one patient&apos;s full colostomy bag to another patient&apos;s IV"
+            }
+        },
+        {
+            "id": "w_df846dffa1cede3c73b474c6d68c2059c1f23c39",
+            "content": {
+                "en": "Alternative Medicine"
+            }
+        },
+        {
+            "id": "w_613b7ce40bff07e7c065661e7a9f70ad4d366b56",
+            "content": {
+                "en": "Bloody diarrhea"
+            }
+        },
+        {
+            "id": "w_5551f3911ea212d2c9bee88e04c84c005e4575a7",
+            "content": {
+                "en": "Coffee induced convulsions."
+            }
+        },
+        {
+            "id": "w_139c6911da465417592413157bc01d7ec6114bd3",
+            "content": {
+                "en": "Getting a new admit at 6."
+            }
+        },
+        {
+            "id": "w_bdd41149111bae9ac2d808415a1df6af23058916",
+            "content": {
+                "en": "give all the older men Viagra so they dont roll out of bed at night."
+            }
+        },
+        {
+            "id": "w_ca6c8e5faa33fd3c3a33d4dfc661c7196300fec7",
+            "content": {
+                "en": "Having a pt. put on isolation after taking care of them for 2 shifts."
+            }
+        },
+        {
+            "id": "w_35ab290cacecfc96c57e145de87e01116ceaab73",
+            "content": {
+                "en": "Keeping a case of beer in the morgue freezers"
+            }
+        },
+        {
+            "id": "w_3d7ae8f33c043e25c58691f7932ff216c6e95e15",
+            "content": {
+                "en": "Keeping a patient&apos;s meds for yourself and giving them tic tacs instead"
+            }
+        },
+        {
+            "id": "w_f5d7dc67facb3ce1a1a1cdb471ce94547bbca88c",
+            "content": {
+                "en": "Morning defibrillation because you ran out of coffee."
+            }
+        },
+        {
+            "id": "w_5e1f8c9f2f2290bc66688cad3a40551e45257932",
+            "content": {
+                "en": "One more Scrubs or Grey&apos;s Anatomy reference by a patient, and _ will feel my wrath."
+            }
+        },
+        {
+            "id": "w_bad7b8f72c6bb6e071c691bd6bf22bfae7709277",
+            "content": {
+                "en": "Pairing patients in shared rooms based on how likely they are to kill each other"
+            }
+        },
+        {
+            "id": "w_f4b061f8102690fa37bc17219bd9a4410b8fc320",
+            "content": {
+                "en": "Playing Cards Against Humanity with a patient"
+            }
+        },
+        {
+            "id": "w_6bc9ac868e1c227ea4785b6ba65ef198ab48e631",
+            "content": {
+                "en": "Playing catch with a recently deceased patient&apos;s breast implants (tweaked one of your answers)"
+            }
+        },
+        {
+            "id": "w_c14c798e5ad1dc23d0779fbb3d09be8d79f2da56",
+            "content": {
+                "en": "Priapism."
+            }
+        },
+        {
+            "id": "w_b303e590fe8d8b443da094e2cf4adb31c02700f4",
+            "content": {
+                "en": "Questioning the right placement of a catheter on a female patient."
+            }
+        },
+        {
+            "id": "w_af712e66516936faa929e5864490ffd8978865be",
+            "content": {
+                "en": "Stage 4 Decubitus Ulcers."
+            }
+        },
+        {
+            "id": "w_4ac7c9e86c4064f076f1a7579783ed993fcb437c",
+            "content": {
+                "en": "The Ebola"
+            }
+        },
+        {
+            "id": "w_9103e647fd2882777ba64280ff600b61dbe17988",
+            "content": {
+                "en": "Trench foot fetish."
+            }
+        },
+        {
+            "id": "b_28c84b6de8b466efbf6f3447ae9369bbb5fa827c",
+            "content": {
+                "en": "I checked with Compliance and Risk Management, ______ isn't a HIPPA violation."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0be4b4e637f96f3439d62322b4f525783426cdcb",
+            "content": {
+                "en": "It had been in the break room for hours, but I was hungry so I ate ______ anyways."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_62fda3328566fd06d2b1e25464874286d7d7ccec",
+            "content": {
+                "en": "On a scale of one to ten how do you feel?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3df0a87ccc31d3e9de3850cf4126fcd5c92793ac",
+            "content": {
+                "en": "On a scale of ______to ______ how do you feel?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6559668a7e971a593ecba99c84b7c47c851676ae",
+            "content": {
+                "en": "One more Scrubs or Grey&apos;s Anatomy reference by a patient, and ______ will feel my wrath."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_66bdfbe46bc6359091f23d267711e7af33f0b16e",
+            "content": {
+                "en": "Seems that you have an adverse allergic reaction to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_916546677cbca89da650e8b7889431997d46e834",
+            "content": {
+                "en": "The patient had ______ lodged in his rectum."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_49dd1725894b83a804ed92907a3d3d8b48fe1116",
+            "content": {
+                "en": "The pt. has a diagnosis of ______ and a history of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_52ce4275f7629e47d4bab5e3c257574c679a8b67",
+            "content": {
+                "en": "The pt. reports having an allergy to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f5d8a41f7a3ef72812f5e90e5db3153ce42352b0",
+            "content": {
+                "en": "The tumor was likely caused by exposure to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0394dc13bca0349238dc41e0b35a7cc98431fd2c",
+            "content": {
+                "en": "Thoughts I have while a patient tells me their life story."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5ea974dc2fa45ee62eda71231ace7ba37ae5a3a",
+            "content": {
+                "en": "Turns out there is an ICD10 code for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eed48e5b0a0102fbafa9f623d9e26f781e605ecb",
+            "content": {
+                "en": "When I turned  my patient I found ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4a1a51c416e3bc3d31f069c31b08b2b9c19186f9",
+            "content": {
+                "en": "When I went into the isolation room, I forgot to bring ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5fb8794751059d3c41a94be023d58e75ea1dbffe",
+            "content": {
+                "en": "______ is a billable item but ______ is not."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b82143ba3d033fd38e8ebe6915c66e6fd5ef6963",
+            "content": {
+                "en": "______ is required in order to meet Meaningful Use."
+            },
+            "pick": 1
+        }
+    ]
+}

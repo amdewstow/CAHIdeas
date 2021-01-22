@@ -1,0 +1,2120 @@
+{
+    "id": "Joshteon_Vs_The_World",
+    "name": "Joshteon Vs. The World",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_34a1580912ba770d1ab1304a36192b72af811a56",
+            "content": {
+                "en": "2 cubic tons of sand"
+            }
+        },
+        {
+            "id": "w_591d4c862111cd796f38364eb6184103748ba5c8",
+            "content": {
+                "en": "42, the meaning of life"
+            }
+        },
+        {
+            "id": "w_2c55e1486868ae81aadf8e9e9d1aa2119da8704e",
+            "content": {
+                "en": "4kids edits"
+            }
+        },
+        {
+            "id": "w_d5e3befcd3e2813592e51b879cad27bfd776079d",
+            "content": {
+                "en": "A 3 course meal"
+            }
+        },
+        {
+            "id": "w_93be69e131b1c2682816054f4ecb06880bcf772c",
+            "content": {
+                "en": "A 300 yard drive"
+            }
+        },
+        {
+            "id": "w_45e6c8058b0740e6b813c949d3f7101a99145546",
+            "content": {
+                "en": "A balanced breakfast"
+            }
+        },
+        {
+            "id": "w_35951c95e3c8b969237cd8a44c21f9013bc8b92a",
+            "content": {
+                "en": "A BRAND NEW CAR!!!"
+            }
+        },
+        {
+            "id": "w_39fdee9c6c5714387548ec36ea2afd595f807440",
+            "content": {
+                "en": "A bunny with a pancake on its head"
+            }
+        },
+        {
+            "id": "w_9d6bd0f2cde930e7310264e3d48ffe3c5eb73c0e",
+            "content": {
+                "en": "A distraction"
+            }
+        },
+        {
+            "id": "w_28fe9d36edeb9e71a633f07abc97a50057f6a33f",
+            "content": {
+                "en": "A flaming moustache"
+            }
+        },
+        {
+            "id": "w_abc097db7eb6fb2810ef5221cde5559c03d95871",
+            "content": {
+                "en": "A flash mob"
+            }
+        },
+        {
+            "id": "w_15af4149137d063502dab6b26a87754d7e52daf8",
+            "content": {
+                "en": "A freezer that is out of control"
+            }
+        },
+        {
+            "id": "w_a53504363427aaa527e8a93898470d3e62ab1788",
+            "content": {
+                "en": "A friendly gesture"
+            }
+        },
+        {
+            "id": "w_1283b5fc31a44901cb1cb6103e1172fa2826022e",
+            "content": {
+                "en": "A good old-fashioned Super Smash Bros. tournament"
+            }
+        },
+        {
+            "id": "w_51847c17dd7916d9fe78429141e72cf5a2033662",
+            "content": {
+                "en": "A horse riding simulator"
+            }
+        },
+        {
+            "id": "w_57a4a204d899bf3313abe36899b38f068230f807",
+            "content": {
+                "en": "A jacket I lost at the airport"
+            }
+        },
+        {
+            "id": "w_866691a9477ca85893b3a38d0ec6022e8465f98b",
+            "content": {
+                "en": "A legitimate Nintendo World Championships 1990 Gold game cartridge"
+            }
+        },
+        {
+            "id": "w_0b8dd56f407cab63b68e8f9cbeefac1d7ccddc6a",
+            "content": {
+                "en": "A mobius strip"
+            }
+        },
+        {
+            "id": "w_3001f2f0f6cce018dc4e1acee250c32e029625a9",
+            "content": {
+                "en": "A moment of silence"
+            }
+        },
+        {
+            "id": "w_d10514838674c7ce888628e253b26ac3b3f85b91",
+            "content": {
+                "en": "A monster headache"
+            }
+        },
+        {
+            "id": "w_fc7fca670abe6f77a78e063bff9552bfef8ca11e",
+            "content": {
+                "en": "A panda named Panda"
+            }
+        },
+        {
+            "id": "w_6d2af35656e55563ce5145318b7e03485cc5894f",
+            "content": {
+                "en": "A project on Colony Collapse Disorder"
+            }
+        },
+        {
+            "id": "w_d19f913a7ae829d62a61f5ae98947a85d04916cb",
+            "content": {
+                "en": "A really awesome hat"
+            }
+        },
+        {
+            "id": "w_4c2a94eff2eee742155917d084350fc539cebda7",
+            "content": {
+                "en": "A really weird commercial for soap"
+            }
+        },
+        {
+            "id": "w_87f170da32ee80fc759b0e07ed3e56f6b91fabae",
+            "content": {
+                "en": "A Square Pig"
+            }
+        },
+        {
+            "id": "w_29dae3cb62c43a8518f4923db6f4e057ecd358ae",
+            "content": {
+                "en": "A trumpet with sticky valves"
+            }
+        },
+        {
+            "id": "w_2aad25014755d4e8a97bbbdec83ec0c5ec7be25e",
+            "content": {
+                "en": "A wardrobe that leads to narnia"
+            }
+        },
+        {
+            "id": "w_9a23259bfa20b5cacacbe32e5e017ef5a39518c3",
+            "content": {
+                "en": "Accidentally casting the most magic consuming healing spell on an ally who is only missing 5% of their health"
+            }
+        },
+        {
+            "id": "w_d0c0587f1ac378c59dee35c73536af0e7acad7bc",
+            "content": {
+                "en": "Accidently calling lizards &ldquo;dragons&rdquo;"
+            }
+        },
+        {
+            "id": "w_cd966a8d99358f22b7a191cbbc26fd1a803ee3bd",
+            "content": {
+                "en": "Accidently killing a shiny Pok&eacute;mon"
+            }
+        },
+        {
+            "id": "w_f089fd686b64ca216d870fe08f476c9560783c3a",
+            "content": {
+                "en": "Ace &amp; Opeo, the ultimate team"
+            }
+        },
+        {
+            "id": "w_bf45f79601206d6f7acf5f9f6fa59fc2285b0f29",
+            "content": {
+                "en": "Ad revenue"
+            }
+        },
+        {
+            "id": "w_06371bc92776fb6294fc358054800821abad9b7f",
+            "content": {
+                "en": "An adult beverage"
+            }
+        },
+        {
+            "id": "w_7d72ddac1b7bf777214dca17d20e6eaff0846efb",
+            "content": {
+                "en": "AN ALL CAPS RAGE!!!"
+            }
+        },
+        {
+            "id": "w_7974b6906f609e25982a7e3395b2063e5da3194c",
+            "content": {
+                "en": "An Eagle Scout"
+            }
+        },
+        {
+            "id": "w_468c36161404ce9ed0aa2708aa4e6d4e38b91060",
+            "content": {
+                "en": "An opossum with a jetpack"
+            }
+        },
+        {
+            "id": "w_130895e50c8413591703f21fa5f7c7b334df404e",
+            "content": {
+                "en": "Angels we have heard online"
+            }
+        },
+        {
+            "id": "w_407456ef7853760f49d57e2391f342a9de153321",
+            "content": {
+                "en": "Armadillo"
+            }
+        },
+        {
+            "id": "w_90f30349af72e253cc09afe2d5dacb3a02977ac0",
+            "content": {
+                "en": "Attempting to explain why Ventus looks like Roxas"
+            }
+        },
+        {
+            "id": "w_eebaa497faa78a1c1a990ebbce09d30b34449c4e",
+            "content": {
+                "en": "Awesome sauce"
+            }
+        },
+        {
+            "id": "w_6292b899d4d4776049725d9555eccfc76534a844",
+            "content": {
+                "en": "bad jokes"
+            }
+        },
+        {
+            "id": "w_32b26a271530f105cbc35cb653110e1a49d019b6",
+            "content": {
+                "en": "Batman"
+            }
+        },
+        {
+            "id": "w_8500a382936b87009b987786b93d4741077198a4",
+            "content": {
+                "en": "Battletoads"
+            }
+        },
+        {
+            "id": "w_0e877514c07b34838ff0aa0881b4e00c32f9b2f7",
+            "content": {
+                "en": "Being a dinosaur"
+            }
+        },
+        {
+            "id": "w_6cf0eb465db3a11c8881c5697b7cfebd793498f0",
+            "content": {
+                "en": "Being on fire"
+            }
+        },
+        {
+            "id": "w_e7f7255453db0fdb573e4784c456c049fdf42a11",
+            "content": {
+                "en": "Being woken up in the middle of the night"
+            }
+        },
+        {
+            "id": "w_786340c6494cea5782e7ae1eddf8eeaa16d35c78",
+            "content": {
+                "en": "Big lollipops"
+            }
+        },
+        {
+            "id": "w_fd71f6eaf6147c73476bc2c24ed542e9f2cce07d",
+            "content": {
+                "en": "Bill Nye, The Science Guy"
+            }
+        },
+        {
+            "id": "w_a54caeb1e7216d62296df53ea21324190c2a19bd",
+            "content": {
+                "en": "Blue-Eyes White Dragon"
+            }
+        },
+        {
+            "id": "w_b7b37ff135ea3a25dbb3a56e7b83da43cd8d87d0",
+            "content": {
+                "en": "Board games"
+            }
+        },
+        {
+            "id": "w_890bb51897383ad8dbd583e1d77c65d089e0f56c",
+            "content": {
+                "en": "Bosses that can heal themselves"
+            }
+        },
+        {
+            "id": "w_5344ff43f0a4f1463d336f801f4268876b5bdf44",
+            "content": {
+                "en": "Bowser\u2019s arms, the spinniest arms in the galaxy!!!"
+            }
+        },
+        {
+            "id": "w_87208afa71d8700144a3c7fad7ea4aaf658fbfa6",
+            "content": {
+                "en": "Breakdancing"
+            }
+        },
+        {
+            "id": "w_771b326bfcb58ca89a7c9c95fdede5033685ba97",
+            "content": {
+                "en": "Breaking the bank"
+            }
+        },
+        {
+            "id": "w_74db6e80960bc4f3aed2fe38f83f1cc99d37b3b9",
+            "content": {
+                "en": "Breaking the fourth wall"
+            }
+        },
+        {
+            "id": "w_c378977affbe9cefa222cc14a6d814dab2248ec8",
+            "content": {
+                "en": "Bunchie the llama"
+            }
+        },
+        {
+            "id": "w_689467cb29cdd49b860fe1d834dab0055a624b89",
+            "content": {
+                "en": "Bunnies"
+            }
+        },
+        {
+            "id": "w_b152d04858fbfc14da6fbd035b8fed1d65fe950a",
+            "content": {
+                "en": "Button Mashing"
+            }
+        },
+        {
+            "id": "w_6760fa6db8809d86c4c55b8b2918b9cd7b5a77fb",
+            "content": {
+                "en": "Buzz Killington"
+            }
+        },
+        {
+            "id": "w_09560551d856c2c38f371b5fe298c105e8301c4f",
+            "content": {
+                "en": "Camouflage"
+            }
+        },
+        {
+            "id": "w_541c26ba7937f5fa5eed6525e939910b0e9a5d47",
+            "content": {
+                "en": "Capcom\u2019s marketing campaign"
+            }
+        },
+        {
+            "id": "w_68ba3716a195a2d4c9dff8b23e91ca3e6aa55d65",
+            "content": {
+                "en": "Cat in a box"
+            }
+        },
+        {
+            "id": "w_e8bf470fe7dc414b6fa89fab7222d5f393cc9f18",
+            "content": {
+                "en": "Cat Planet"
+            }
+        },
+        {
+            "id": "w_0bcf5c2e557806a44a3fd34ae4f3a7b88fffd6be",
+            "content": {
+                "en": "Cave Johnson"
+            }
+        },
+        {
+            "id": "w_4c0d1f9d5c4e51c1cb6a15368c531f2b2f1f2d07",
+            "content": {
+                "en": "Censorship"
+            }
+        },
+        {
+            "id": "w_66f181fae7d666c55771e235773362966912c093",
+            "content": {
+                "en": "Chaos Emeralds"
+            }
+        },
+        {
+            "id": "w_99dc16a98d3b5be4c531e22f6c79ee7a5e9e0f0b",
+            "content": {
+                "en": "Chi"
+            }
+        },
+        {
+            "id": "w_a34d45a4ea2c03fe0b65d543d2ed38393b000c56",
+            "content": {
+                "en": "Christian Bale&apos;s Batman voice"
+            }
+        },
+        {
+            "id": "w_a447ff4e88e67b07a33f7d940adee3ce5879128f",
+            "content": {
+                "en": "Chubby Huggs"
+            }
+        },
+        {
+            "id": "w_e24c8541c3e83a887b88e57fe6386c52a3a3b549",
+            "content": {
+                "en": "Coherent storytelling"
+            }
+        },
+        {
+            "id": "w_36478537c1ca46e4763b5fbd0e76dceeeb5ade4e",
+            "content": {
+                "en": "Cole Phelps"
+            }
+        },
+        {
+            "id": "w_e1c3ea5ec2e8cb0f0c7bd9fd4d8937027996d6d7",
+            "content": {
+                "en": "Combustible lemons"
+            }
+        },
+        {
+            "id": "w_eb8c9edbb78a5913470fc8a8a16dabfc15ef542b",
+            "content": {
+                "en": "Complaining about your child playing an M rated video game that YOU bought!"
+            }
+        },
+        {
+            "id": "w_1c866993979607e84f5947c14c1918d2b10c0576",
+            "content": {
+                "en": "Corny one-liners"
+            }
+        },
+        {
+            "id": "w_236215ecff2c66b224dd5c56691d94429f54549e",
+            "content": {
+                "en": "Creepers"
+            }
+        },
+        {
+            "id": "w_dc4cdeef10dafac9c7832b25277f5d6548658a44",
+            "content": {
+                "en": "Criminally underrated games"
+            }
+        },
+        {
+            "id": "w_79fb3137e6104552a6dce73d04cd2be60d703080",
+            "content": {
+                "en": "Crona\u2019s Poem"
+            }
+        },
+        {
+            "id": "w_34666bf98c4937f7a4068a2199e181f605c82de9",
+            "content": {
+                "en": "Cujo"
+            }
+        },
+        {
+            "id": "w_81d4fbc4ac6289d113de0514fb7d2686abed7f36",
+            "content": {
+                "en": "Cute little kitties"
+            }
+        },
+        {
+            "id": "w_72d3c6040dcc61a941e7ba3d56a080286bc10ee8",
+            "content": {
+                "en": "Cybernetic Enhancements"
+            }
+        },
+        {
+            "id": "w_8aeba5778892cc2c14af18bd091a9faafcdf9f3f",
+            "content": {
+                "en": "Dancing on the ceiling"
+            }
+        },
+        {
+            "id": "w_776a8196b8567f5b8bcebccdeddb9a29d3f33de6",
+            "content": {
+                "en": "Dancing the Can-Can"
+            }
+        },
+        {
+            "id": "w_805bb27539a62291d3686910467b003d87c3346f",
+            "content": {
+                "en": "Danny Donkey"
+            }
+        },
+        {
+            "id": "w_fe42609dfe9a02c6d3b065190d01b07f88babb30",
+            "content": {
+                "en": "Danny\u2019s Marbles"
+            }
+        },
+        {
+            "id": "w_7f0a41a78b124b2076e28df3b2ce68d5467ca64f",
+            "content": {
+                "en": "Defeating 99 of Demyx\u2019s infamous water clones in 30 seconds"
+            }
+        },
+        {
+            "id": "w_d2ecf8bc5c32ff6506c5aaf70693892b0386e645",
+            "content": {
+                "en": "Delta Airlines"
+            }
+        },
+        {
+            "id": "w_45aa9ee5d4550431a6e2b315ee2785e5746a45c9",
+            "content": {
+                "en": "Dr. Who"
+            }
+        },
+        {
+            "id": "w_598199325c7dfadd7f28a703930f30487d786498",
+            "content": {
+                "en": "Dragonflies"
+            }
+        },
+        {
+            "id": "w_78d666f715411634bd6ed7fbaa27c54f5bd2178f",
+            "content": {
+                "en": "Dramatic Chipmunk"
+            }
+        },
+        {
+            "id": "w_53f100453ecf5c6d36c5afffbc36731855452f08",
+            "content": {
+                "en": "Duct tape"
+            }
+        },
+        {
+            "id": "w_ee2fe090aec2438a3cb5d8a0fc2ff873fdb419e6",
+            "content": {
+                "en": "EA Sports games"
+            }
+        },
+        {
+            "id": "w_8c379b58b4028863b32a84e5affbc1cd0a5f2537",
+            "content": {
+                "en": "Elvis Presley"
+            }
+        },
+        {
+            "id": "w_1a0175e9da6593b36d8bda1bd14ff962686e308a",
+            "content": {
+                "en": "Entomologist"
+            }
+        },
+        {
+            "id": "w_a80459cc938a363278f5ba4d5c77e1d1e8deb102",
+            "content": {
+                "en": "Erin Jr."
+            }
+        },
+        {
+            "id": "w_51b9653e7bd8e5e378bc5b4f5c4776a6fe8ab95a",
+            "content": {
+                "en": "Explosions"
+            }
+        },
+        {
+            "id": "w_557a8f1ab86ed3f090ddf4813ec7c0cc58955f01",
+            "content": {
+                "en": "Falling for the oldest trick in the book"
+            }
+        },
+        {
+            "id": "w_f9f4d908aac0cc3fe59b8747c77d17f525c8af9f",
+            "content": {
+                "en": "Fanboys"
+            }
+        },
+        {
+            "id": "w_875cbc4ac36a72c8abbfd489b45b23caa0fe51b5",
+            "content": {
+                "en": "Fanfiction"
+            }
+        },
+        {
+            "id": "w_4fae9e18cddf29b08535421ae4d6a95f9ac83f60",
+            "content": {
+                "en": "Fear itself"
+            }
+        },
+        {
+            "id": "w_eeeb2a69ed7fccdb7b340fc9a0089d2ea694d9f9",
+            "content": {
+                "en": "Firebreathing"
+            }
+        },
+        {
+            "id": "w_99a21ff6f89ff129d91fd5cb26eb48c08d8affe4",
+            "content": {
+                "en": "First world problems"
+            }
+        },
+        {
+            "id": "w_070c1fa48718df88be577a88be3df169c089a743",
+            "content": {
+                "en": "Flea Markets"
+            }
+        },
+        {
+            "id": "w_1b411e5d738f5423d421935c24b7059755b7d1c6",
+            "content": {
+                "en": "Flutterbies"
+            }
+        },
+        {
+            "id": "w_786940ee9b8877948745eb3fd2be89f64d32f8fe",
+            "content": {
+                "en": "Full Life Consequences"
+            }
+        },
+        {
+            "id": "w_282c1933b39c2f8062edec0f9bc96001e33cfea5",
+            "content": {
+                "en": "Gaming skills that pay the bills"
+            }
+        },
+        {
+            "id": "w_255fcec1380e61c821999cf2057a278df312d0ab",
+            "content": {
+                "en": "Giraffe Soup"
+            }
+        },
+        {
+            "id": "w_50cc1540e7fa0b242d65b97ecc875d96f0e9c452",
+            "content": {
+                "en": "God"
+            }
+        },
+        {
+            "id": "w_8513363db79bdb63541c8d1f1dd14ef60566b5bd",
+            "content": {
+                "en": "Golf clap"
+            }
+        },
+        {
+            "id": "w_9e1f68da1dc794310020a8ba0aa666c2d955b7bb",
+            "content": {
+                "en": "Great balls of fire"
+            }
+        },
+        {
+            "id": "w_fbb7b8a3426879681d8ff8d9b63a908491277ebc",
+            "content": {
+                "en": "Guitar Solos"
+            }
+        },
+        {
+            "id": "w_b7fea25bdcafb219230ca4bdc70d5e58b818c423",
+            "content": {
+                "en": "Guy Montag"
+            }
+        },
+        {
+            "id": "w_baa4344db34239fcbeae52a5b5af69f6012ea6b1",
+            "content": {
+                "en": "Having drills for arms"
+            }
+        },
+        {
+            "id": "w_6ba4e2b2644740b1ded79d77425954e1657abb40",
+            "content": {
+                "en": "Hawaiian Pizza"
+            }
+        },
+        {
+            "id": "w_d41404b58c532bb59ca21e6d20fe2a3c5e56324a",
+            "content": {
+                "en": "Heavy metal motorcycle of the future"
+            }
+        },
+        {
+            "id": "w_0c21663d85db969cbb81329f355a67edf30e25ef",
+            "content": {
+                "en": "Highly overrated movies"
+            }
+        },
+        {
+            "id": "w_183e3fcd89c2b9a4b11d6a85347f280e26906fce",
+            "content": {
+                "en": "Hope"
+            }
+        },
+        {
+            "id": "w_373da130d5955048a0ae783b0d77551162ee0e3a",
+            "content": {
+                "en": "Hot Pockets"
+            }
+        },
+        {
+            "id": "w_7869e66e6173be63a219951531db044923fc6d6c",
+            "content": {
+                "en": "Humanity"
+            }
+        },
+        {
+            "id": "w_401849cd7cc7295a372a0ccc1b444bb38f15937f",
+            "content": {
+                "en": "Hypnosis! Dream Eater! Hypnosis! Dream Eater! Hypnosis! Dream Eater! Hypnosis! Dream Eater!"
+            }
+        },
+        {
+            "id": "w_6c1549138677f7efd998f74b9c44ceccae554ebc",
+            "content": {
+                "en": "In-jokes"
+            }
+        },
+        {
+            "id": "w_5fcb0377ff378a0efddafc5b9fff070a81f7c614",
+            "content": {
+                "en": "Iron man"
+            }
+        },
+        {
+            "id": "w_af1667b53488a23fab0e2d634adf66227b2c850f",
+            "content": {
+                "en": "Japanese mythology"
+            }
+        },
+        {
+            "id": "w_0cf8ebe5454c8eb6c184cd04f1a27a3b0ccb2150",
+            "content": {
+                "en": "Jazz hands"
+            }
+        },
+        {
+            "id": "w_f715ffaf2c8294df43df3357c6a37f04b900fb06",
+            "content": {
+                "en": "Jesus"
+            }
+        },
+        {
+            "id": "w_2c07d626983569c85a91abd04d14a6dcc3e625fa",
+            "content": {
+                "en": "Joshing it up"
+            }
+        },
+        {
+            "id": "w_151c26eb804d6e1995acc353905e5e44b7adaf4e",
+            "content": {
+                "en": "Joshteon"
+            }
+        },
+        {
+            "id": "w_e8a45953bffe68afcfd6b28cbb894588d6a1f892",
+            "content": {
+                "en": "Kaizo Mario"
+            }
+        },
+        {
+            "id": "w_21c52ff73d14beb078516b33dd041219dcaa0093",
+            "content": {
+                "en": "Katamari"
+            }
+        },
+        {
+            "id": "w_c553bb33f7e5d6f681f9377b73b990ef844f3c3e",
+            "content": {
+                "en": "Keyblades"
+            }
+        },
+        {
+            "id": "w_4ffb41cacc7ba145b671c8e358ef9685fa413976",
+            "content": {
+                "en": "Koko the clown"
+            }
+        },
+        {
+            "id": "w_e8d33768d9e8ebf9216d382076f6934e27e151ef",
+            "content": {
+                "en": "Lady Gaga\u2019s wardrobe"
+            }
+        },
+        {
+            "id": "w_b572c5e6fe16934f590ff761762b950179b55047",
+            "content": {
+                "en": "Laptop charger"
+            }
+        },
+        {
+            "id": "w_ed1ebe54abf6c3ab201dafb4296bf52adf354f96",
+            "content": {
+                "en": "Lasers"
+            }
+        },
+        {
+            "id": "w_619fe6316a9df7cf0f96262b56e6a4fdbeac4c51",
+            "content": {
+                "en": "Lightsabers"
+            }
+        },
+        {
+            "id": "w_0cf2dc37ef995f96179e0205044fa055b35f655e",
+            "content": {
+                "en": "LINE PIECE!!!"
+            }
+        },
+        {
+            "id": "w_55e766b82ede41d6d9aa8bf6de2b1b98159c5e87",
+            "content": {
+                "en": "Literally stealing candy from a baby"
+            }
+        },
+        {
+            "id": "w_cd7e170541a4dcbafc479e4d42e452fe4c6a0f3c",
+            "content": {
+                "en": "Loading Screens"
+            }
+        },
+        {
+            "id": "w_ec9c175f8e3780cec9e93b66aea4f98b200764de",
+            "content": {
+                "en": "lolcats"
+            }
+        },
+        {
+            "id": "w_d6d793e3e1b5566e24b76477a9b5d4f1d4782d4b",
+            "content": {
+                "en": "Losing to the easiest boss after 300 hours of practice"
+            }
+        },
+        {
+            "id": "w_0ae0ca206e66511e9510d14f8067e8084881aa0a",
+            "content": {
+                "en": "Lucky with a moustache and a tiny top hat"
+            }
+        },
+        {
+            "id": "w_7d1d8cc3888b3b71caa0dc471b3f68cdc123c223",
+            "content": {
+                "en": "Mad Strats"
+            }
+        },
+        {
+            "id": "w_d8402d1fd47e7e625c19a7b3d90286229f73f8be",
+            "content": {
+                "en": "Making a pouty face"
+            }
+        },
+        {
+            "id": "w_016610f28adb389bf3ad5984ce9d8fb68a7c1f96",
+            "content": {
+                "en": "Making friends with over 600 animals then turning them all into stardust"
+            }
+        },
+        {
+            "id": "w_30df6fca656c66affe19c91473199a88ac1a3dbd",
+            "content": {
+                "en": "Maru the cat"
+            }
+        },
+        {
+            "id": "w_b579fcd987371deae05612934ac575ce437ef873",
+            "content": {
+                "en": "Merrahaunuhmakwanzakon"
+            }
+        },
+        {
+            "id": "w_2ad1fb01906db4c05b92d1398a5ae4b0e62fc267",
+            "content": {
+                "en": "Mine Turtle"
+            }
+        },
+        {
+            "id": "w_43def29538d68c3f54446f8bbce033d16e891c7d",
+            "content": {
+                "en": "Mishka, the talking dog"
+            }
+        },
+        {
+            "id": "w_6e3db400ef9824067894a185e39a8311e705f252",
+            "content": {
+                "en": "Mistaking a skunk for a flower"
+            }
+        },
+        {
+            "id": "w_f54f34be639d9ba320da85a5b03ff20aa8974b76",
+            "content": {
+                "en": "Moonwalk"
+            }
+        },
+        {
+            "id": "w_e34a531a0779458617e8ed1f68764910aac440c8",
+            "content": {
+                "en": "More of the same"
+            }
+        },
+        {
+            "id": "w_0f423b78e64db333b338f4ba49fac3c5971c1079",
+            "content": {
+                "en": "Motherly love"
+            }
+        },
+        {
+            "id": "w_537486934050ace21ef68f82df91d111330a5b23",
+            "content": {
+                "en": "My inner demons"
+            }
+        },
+        {
+            "id": "w_491ceb7d23868e3dd0bd2d07e858c61f7ae45b32",
+            "content": {
+                "en": "Navi"
+            }
+        },
+        {
+            "id": "w_aae120c90078d1e4875b7a9be96e9de55493ab42",
+            "content": {
+                "en": "Nick Kang"
+            }
+        },
+        {
+            "id": "w_6827ad70e94cd5667c40e1cc79110105bc3ff03c",
+            "content": {
+                "en": "None shall pass"
+            }
+        },
+        {
+            "id": "w_4481948392a8846400c954e77f58d76cdaa73963",
+            "content": {
+                "en": "Nothing"
+            }
+        },
+        {
+            "id": "w_d30aec5cba28abd75bd79a6a60b05c0f42272b62",
+            "content": {
+                "en": "Novelty Twitter accounts"
+            }
+        },
+        {
+            "id": "w_8a2e199d6c96f1577e26f1b1ce73d356445903b5",
+            "content": {
+                "en": "One hundred billion dollars"
+            }
+        },
+        {
+            "id": "w_24153078ea7b8d54fc9de0d6499f1dc8ef984154",
+            "content": {
+                "en": "Optimism"
+            }
+        },
+        {
+            "id": "w_54562044002467c95a3f805ca91847fae13ae8d9",
+            "content": {
+                "en": "Party like it\u2019s 1599"
+            }
+        },
+        {
+            "id": "w_41bf5d89ae477d5e14ec9e28713c95e503edeb90",
+            "content": {
+                "en": "Pessimism"
+            }
+        },
+        {
+            "id": "w_8870118d3f038369eaca23c487a7bea77adb9f6b",
+            "content": {
+                "en": "PETA"
+            }
+        },
+        {
+            "id": "w_a5c038cafe0f71c40310a1dafa3a3b2c6daf0c61",
+            "content": {
+                "en": "Phili-Z"
+            }
+        },
+        {
+            "id": "w_966c2ac3962d2a398df65a9625642aa67aacb264",
+            "content": {
+                "en": "Pie flavored pie"
+            }
+        },
+        {
+            "id": "w_cb550c9d413c864c9bc7dfa06a32cba8575d89b6",
+            "content": {
+                "en": "Pink Tail farming"
+            }
+        },
+        {
+            "id": "w_df8ac6288171349c49407c8a1f2012d6fca28d24",
+            "content": {
+                "en": "Playing The Floor is Lava"
+            }
+        },
+        {
+            "id": "w_b83c1cd98853d4b6d1038f0ba0e37f720292c646",
+            "content": {
+                "en": "Plot twists"
+            }
+        },
+        {
+            "id": "w_74ca92a37658b1f561f3bcc27e393a81f8ba06d0",
+            "content": {
+                "en": "Pointless 3D movies"
+            }
+        },
+        {
+            "id": "w_afa371781418918c0e4019f15c1e97754b26cc78",
+            "content": {
+                "en": "Popularity contests"
+            }
+        },
+        {
+            "id": "w_42e78c90a9db1b1cbe3fb60631037d52e4f65e4b",
+            "content": {
+                "en": "Prairie dogs"
+            }
+        },
+        {
+            "id": "w_a975559560acc03129b7ac7d8bc85cb5cf70dc05",
+            "content": {
+                "en": "Putting an object on your cat\u2019s head and saying &ldquo;hat&rdquo;"
+            }
+        },
+        {
+            "id": "w_ce12b7f568b664e57e321f3d928306485b2baee3",
+            "content": {
+                "en": "Rabbit puns"
+            }
+        },
+        {
+            "id": "w_8076f6f20d868faa44e35d24e0df885a9368f540",
+            "content": {
+                "en": "Red Solo Cup"
+            }
+        },
+        {
+            "id": "w_bfa465b05e31e97d4943e0b4b9a0059cacf1d121",
+            "content": {
+                "en": "Retsupurae"
+            }
+        },
+        {
+            "id": "w_a07116f0c9f1654ae04349dae7a50b7cb032830f",
+            "content": {
+                "en": "Richie Rich"
+            }
+        },
+        {
+            "id": "w_dee4921cedf05f8ae3ef29f4ece96d7b37188da3",
+            "content": {
+                "en": "Sailor Moon"
+            }
+        },
+        {
+            "id": "w_ec343d68aa7652de00178e2aeff1a4274dd9919c",
+            "content": {
+                "en": "Salad Fingers"
+            }
+        },
+        {
+            "id": "w_106819fed9cd37eab541002dcf4e23899c833f98",
+            "content": {
+                "en": "Santa Claus"
+            }
+        },
+        {
+            "id": "w_cbea52f475efb89eaa0a432e85062bb31ddab2ae",
+            "content": {
+                "en": "Saxon of The Mouse Guard"
+            }
+        },
+        {
+            "id": "w_03e78dcce535a477b65192c89682d5b10c0c3743",
+            "content": {
+                "en": "School computer"
+            }
+        },
+        {
+            "id": "w_d427da972b8588d1cc2cfd7499b3698ebd2473fd",
+            "content": {
+                "en": "Seeing Russia from your house"
+            }
+        },
+        {
+            "id": "w_72932e0f83a319b80df9c68460dcb37013069e5c",
+            "content": {
+                "en": "Segway cop"
+            }
+        },
+        {
+            "id": "w_5da6f66733e5c904f36b34d0b3513226d66530b5",
+            "content": {
+                "en": "Server lag"
+            }
+        },
+        {
+            "id": "w_02df9167bdb67c635b991f5ae1f7f708f35f0ecd",
+            "content": {
+                "en": "Sheep"
+            }
+        },
+        {
+            "id": "w_42d6c5e7cdc40dc36c855f9792e87621e7eb42f1",
+            "content": {
+                "en": "Shipping your pants"
+            }
+        },
+        {
+            "id": "w_7b86e0586a57220b0cb1558f71be72b52d1dd256",
+            "content": {
+                "en": "Shovelware"
+            }
+        },
+        {
+            "id": "w_e5b5ecf7246659c167ce36b90c48d2a8509ad1cc",
+            "content": {
+                "en": "Showing off your favorite game"
+            }
+        },
+        {
+            "id": "w_41397fbcca9a06290c2e8ff46363a4c0138e89ca",
+            "content": {
+                "en": "Singing in the rain"
+            }
+        },
+        {
+            "id": "w_9558746276869a6c465dda9573b6606e6fd51971",
+            "content": {
+                "en": "Skipping school on your birthday"
+            }
+        },
+        {
+            "id": "w_76e9b4c27a5bd30212854eb7e75b0e4e6469b27a",
+            "content": {
+                "en": "Slavinator"
+            }
+        },
+        {
+            "id": "w_3624520bb7f7d0377bd8c57b5abaf2abe9de3589",
+            "content": {
+                "en": "Slenderman"
+            }
+        },
+        {
+            "id": "w_753cd551b9994530ea461e15738ef37e459532ba",
+            "content": {
+                "en": "Smackdown Vs. Raw"
+            }
+        },
+        {
+            "id": "w_b3c299b7536b834d4c55c455c0eae16d9c560099",
+            "content": {
+                "en": "Sniffles the anteater"
+            }
+        },
+        {
+            "id": "w_b18dedf0e159bde49d9636ef134695a57db8c1c3",
+            "content": {
+                "en": "Somehow failing a class that\u2019s based on effort"
+            }
+        },
+        {
+            "id": "w_ca43d3168b06c63055cf436bed93fcfa3297c1a1",
+            "content": {
+                "en": "Somehow falling asleep in your favorite class"
+            }
+        },
+        {
+            "id": "w_44e6a1cda942f98710aad071684bb1fdea0b09d8",
+            "content": {
+                "en": "Space Core"
+            }
+        },
+        {
+            "id": "w_ea0171194d2a0b81f7928b63954218246ef91cc4",
+            "content": {
+                "en": "Sparks Ark"
+            }
+        },
+        {
+            "id": "w_b7438af04d8e7bc9e4aa2735dd17edca54832bf6",
+            "content": {
+                "en": "Speedrunning an RPG"
+            }
+        },
+        {
+            "id": "w_d468868b42e0c11b1f001ec4509e7cd8dbf591fc",
+            "content": {
+                "en": "Spiked floors"
+            }
+        },
+        {
+            "id": "w_78f17627aa86b1bd7c3e567fb8b5cf68385eb1b0",
+            "content": {
+                "en": "Spoiler Alerts"
+            }
+        },
+        {
+            "id": "w_0ff1e135c89ad0228c50389c97d3a24ac43ef407",
+            "content": {
+                "en": "Ssssslllllooooowwwww iiiiinnnnnttttteeeeerrrrrnnnneeeeettttt..."
+            }
+        },
+        {
+            "id": "w_464b7167ada2f54cf48637ebb510229792474eeb",
+            "content": {
+                "en": "stealgulls"
+            }
+        },
+        {
+            "id": "w_f0e44c13e81ce77a6d99aecb29841608795a3b5c",
+            "content": {
+                "en": "Stinky darkness"
+            }
+        },
+        {
+            "id": "w_aaab5b25ce7d3768e3b1a0d150655452e62163a4",
+            "content": {
+                "en": "Tankmen"
+            }
+        },
+        {
+            "id": "w_abfd44435f02a195765bd386d626e79b5dccd788",
+            "content": {
+                "en": "That guy that\u2019s in every Pixar movie"
+            }
+        },
+        {
+            "id": "w_90283368c8d25e2e103450b7f2ddbf7ed8389231",
+            "content": {
+                "en": "The &ldquo;I like turtles&rdquo; kid"
+            }
+        },
+        {
+            "id": "w_8e97c3c0ec1d6c70c5a2f70c06fe54c75e077114",
+            "content": {
+                "en": "The 1%"
+            }
+        },
+        {
+            "id": "w_2fe8b3477d86edb5e03dcc37a4475b5d0bda0c90",
+            "content": {
+                "en": "The 99%"
+            }
+        },
+        {
+            "id": "w_220308fb838c494a3939d56883520032cb831609",
+            "content": {
+                "en": "The American Dream"
+            }
+        },
+        {
+            "id": "w_8b5cc1e77172a31163e6228214432d870db23620",
+            "content": {
+                "en": "The Avengers"
+            }
+        },
+        {
+            "id": "w_d50787688d3698a619357492ee5f86a4ba2ea25d",
+            "content": {
+                "en": "The bear that doesn\u2019t care"
+            }
+        },
+        {
+            "id": "w_59fd85eab3e40416b1a7f97447960bf9271ad136",
+            "content": {
+                "en": "The Black Axe"
+            }
+        },
+        {
+            "id": "w_70763b387205e817055181edcd01f2ec0d6b3940",
+            "content": {
+                "en": "The Blob"
+            }
+        },
+        {
+            "id": "w_497069545b4db39591533d8d486b47bc1e7486f5",
+            "content": {
+                "en": "The blue screen of death"
+            }
+        },
+        {
+            "id": "w_8ce2859270dc929a4e6832ba637bc997f242da1a",
+            "content": {
+                "en": "The Boy Scouts of America"
+            }
+        },
+        {
+            "id": "w_a70a18b3e3c06aedcf291d4044d41cd19ba13edf",
+            "content": {
+                "en": "The Cat in The Hood"
+            }
+        },
+        {
+            "id": "w_037ef3217863e94e8a203cc97335b23d53ebe1ae",
+            "content": {
+                "en": "The daily funnies"
+            }
+        },
+        {
+            "id": "w_7c61806fe3f28f82b03086951ac57bf7070cccbb",
+            "content": {
+                "en": "The element of surprise"
+            }
+        },
+        {
+            "id": "w_8346b7d7d077d03bd971b241efacc1efc0378bb4",
+            "content": {
+                "en": "The fabled jackalope"
+            }
+        },
+        {
+            "id": "w_cabefaa5991261a2ef44d1ab6d2b2f338443e79b",
+            "content": {
+                "en": "The final boss"
+            }
+        },
+        {
+            "id": "w_30997e9a3fedd1949b941d07b1a9927dd6fff570",
+            "content": {
+                "en": "The final boss of the internet"
+            }
+        },
+        {
+            "id": "w_16cdeec6ef8508203df4d343fe8851a7a1453936",
+            "content": {
+                "en": "The Four Horsemen of The Apocalypse"
+            }
+        },
+        {
+            "id": "w_22423ceacb089a27531784d8e7bdad751a894869",
+            "content": {
+                "en": "The Horadric Cube"
+            }
+        },
+        {
+            "id": "w_02266539fe7d907d13f95d402f75dd535a3883a6",
+            "content": {
+                "en": "The Internet"
+            }
+        },
+        {
+            "id": "w_80903ad688885d8caaf25aab3cc9603e6f3a4922",
+            "content": {
+                "en": "The Invisible Man"
+            }
+        },
+        {
+            "id": "w_13a10e9d43170d127bca9392a12cb287a7c6387e",
+            "content": {
+                "en": "The Jesus Christ Sponge"
+            }
+        },
+        {
+            "id": "w_13524edd793dc04066ae121b6e803a9d7c2cd23c",
+            "content": {
+                "en": "The king of lames"
+            }
+        },
+        {
+            "id": "w_44287de68a3139bb709674b5ce7c35b918f737df",
+            "content": {
+                "en": "The Kool-Aid Man"
+            }
+        },
+        {
+            "id": "w_28cb84ada0f037ac678be95bb261a3aeab704685",
+            "content": {
+                "en": "The Light Crusader"
+            }
+        },
+        {
+            "id": "w_4db07f6960586bfe390e0b97e5112d6464026293",
+            "content": {
+                "en": "The little engine that could"
+            }
+        },
+        {
+            "id": "w_f01e6ebbf5d6fea4f3ed4b474002f5b29c0ddd3f",
+            "content": {
+                "en": "The most annoying sound in the world"
+            }
+        },
+        {
+            "id": "w_6a15a88269b27b2b7394cc3ef8a26383f46fad67",
+            "content": {
+                "en": "The party squid"
+            }
+        },
+        {
+            "id": "w_cf412c5b2894cb1cfecfe01de4e074bfa472ad60",
+            "content": {
+                "en": "The Pythagorean Theorem"
+            }
+        },
+        {
+            "id": "w_b1cb3e14c34d80fd3b5747ccf70e90cd074c1dfc",
+            "content": {
+                "en": "The Random Banana"
+            }
+        },
+        {
+            "id": "w_e349cad248331e0c9320891bea73819958c93442",
+            "content": {
+                "en": "The real superpower of teamwork"
+            }
+        },
+        {
+            "id": "w_f86856b9d280ac5e9b9029f3d3818759bdad62c5",
+            "content": {
+                "en": "The red ring of death"
+            }
+        },
+        {
+            "id": "w_2b76c4c90c72e70d5446bce0406d6974c0916ed9",
+            "content": {
+                "en": "The Royal Rainbow"
+            }
+        },
+        {
+            "id": "w_ad52a567d3e9846834d278255341e4366fa63a7f",
+            "content": {
+                "en": "The Secret Cow Level"
+            }
+        },
+        {
+            "id": "w_fab57b16471d4b60353d312e54d1cb824f1200da",
+            "content": {
+                "en": "The Silly Olympics"
+            }
+        },
+        {
+            "id": "w_86038bf1142b18a99f12ab417149174d6b611d6d",
+            "content": {
+                "en": "The sound of growing up"
+            }
+        },
+        {
+            "id": "w_17a4201899a2eaf44b49a2b787d2c712cef79bda",
+            "content": {
+                "en": "The spinning beachball of death"
+            }
+        },
+        {
+            "id": "w_3b17516b2647106f477cc6ca1dd826f9f45b900c",
+            "content": {
+                "en": "The Stop Online Piracy Act"
+            }
+        },
+        {
+            "id": "w_be03745829d5ed0ef4eca5267dbfbfdcf3d41bc3",
+            "content": {
+                "en": "The Trololo"
+            }
+        },
+        {
+            "id": "w_b239cfda2bbc58729604bc92ddcb08b6432c0c04",
+            "content": {
+                "en": "The true meaning of Christmas"
+            }
+        },
+        {
+            "id": "w_65fdf73705f99d52c2a683b6971d72d8d94bb75c",
+            "content": {
+                "en": "The Truffle Shuffle"
+            }
+        },
+        {
+            "id": "w_0cc0a16029705047eb13214d69e317b304764463",
+            "content": {
+                "en": "Those annoying women at the library who talk loudly on the phone about Twilight"
+            }
+        },
+        {
+            "id": "w_2a1bda7e7e93fb660b5465b226f08fdf30dfc15a",
+            "content": {
+                "en": "Throwing hammers!"
+            }
+        },
+        {
+            "id": "w_58db4ea051ec3a95e81fc1c424f6e0e767f62bd2",
+            "content": {
+                "en": "Time?"
+            }
+        },
+        {
+            "id": "w_dcce80475f989ee99b9cc461a34057d28e8dd5ff",
+            "content": {
+                "en": "Trolling"
+            }
+        },
+        {
+            "id": "w_910db9d3ccc4594f6ed73454c48c7277debfabba",
+            "content": {
+                "en": "Trolls"
+            }
+        },
+        {
+            "id": "w_1eca5b9f58b0f9cef90a027473d20e7fb656dbd8",
+            "content": {
+                "en": "Trying to beat a 30-hour game in one sitting"
+            }
+        },
+        {
+            "id": "w_f65137890c660751e7deb46ba9c910b279d107cc",
+            "content": {
+                "en": "Waiting patiently as your computer attempts the arduous task of something we\u2019ve come to know as &lsquo;working\u2019"
+            }
+        },
+        {
+            "id": "w_189d2109fb5baa5fd8c8a7fddf04e74ac1555292",
+            "content": {
+                "en": "What\u2019s for dinner"
+            }
+        },
+        {
+            "id": "w_88f037bd131b2027b500fb072577ba9f7deba5f1",
+            "content": {
+                "en": "Whitney\u2019s Miltank"
+            }
+        },
+        {
+            "id": "w_664add438097fbd4307f814de8e62a10f8905588",
+            "content": {
+                "en": "Wikipedia"
+            }
+        },
+        {
+            "id": "w_3ed8481e8c614a5309f9595fca5729a5391352fd",
+            "content": {
+                "en": "Wizard\u2019s chess"
+            }
+        },
+        {
+            "id": "w_f9ddd07645eaddc41f1a7fe740a9c722ff95f77c",
+            "content": {
+                "en": "Wolves"
+            }
+        },
+        {
+            "id": "w_d2d8c9bff6f648fb396c31bba6e77bd94de8c939",
+            "content": {
+                "en": "World peace"
+            }
+        },
+        {
+            "id": "w_8dc898ca9232be614f62b76c37d8b113fc281d76",
+            "content": {
+                "en": "Writer\u2019s block"
+            }
+        },
+        {
+            "id": "w_27d21c38baf2932520351dd8ce7eebc1cb67ba2c",
+            "content": {
+                "en": "Your opening thoughts"
+            }
+        },
+        {
+            "id": "w_98a532b74df1d551f5ab7c06e1d3438f2afadce4",
+            "content": {
+                "en": "Youtube"
+            }
+        },
+        {
+            "id": "w_0093edc3abc07bdec91d7aaaa812118b59df0952",
+            "content": {
+                "en": "Zeus"
+            }
+        },
+        {
+            "id": "b_0c63a3fd17df9ca8f94cfe541539c1de6d762adf",
+            "content": {
+                "en": "3DS owners  were surprised to see that the new Streetpass update allowed players to exchange their ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_59798f99bdf6c6fa3b78bf9cc48cd75fa093a44c",
+            "content": {
+                "en": "After days of practice with ______, I think I\u2019m finally ready for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8f09838c8ff2e878f264e4599e0e94f914c1a109",
+            "content": {
+                "en": "And the Academy Award for ______ goes to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d98ff2838aa20eb2cb0f30447ca77b00d0b9920e",
+            "content": {
+                "en": "Apparently there\u2019s a glitch in the first Kirby game that allows you to turn into ______ if you eat ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_64c28364e64ae910cdccf4f51cf27311b5d779b1",
+            "content": {
+                "en": "At the wildlife park, my sister couldn\u2019t withstand the cuteness of a pen full of ______.  She even named one of them ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_85d4072b6bef408847434ed4b9143cab907046e0",
+            "content": {
+                "en": "Breaking news!  Scientists have recently discovered that ______ are directly related to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9747e439e4b30613946ca33897d3b39b02595843",
+            "content": {
+                "en": "Due to a recent poll by Speed Demos Archive, apparently ______ is the best Final Fantasy."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fbb7539e92ff2eec0b8405610960910c27a20bc6",
+            "content": {
+                "en": "Ever noticed how a lot of modern-day movies seem to be based on ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3407c51b7b77cbe785f109d045763c3426c8c84f",
+            "content": {
+                "en": "First Twinkies, then Oreos, and now they found a way to deep-fry ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa990661a256bd3d67a856efde6ac2523c9c916f",
+            "content": {
+                "en": "For halloween this year I decided to dress as the scariest thing ever, ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_05af5bf133a03487fb344f0a41806e5cd123c000",
+            "content": {
+                "en": "Have you heard of the new party game?  It involves shooting ______ into ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6cf018d6999fde9b4811c6ee18582602ab3e1d98",
+            "content": {
+                "en": "Have you seen the new Katamari cousin?  His gimmick is that he\u2019s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8570ac3156bbc0e5ae17a2e30e68f3e429ad6041",
+            "content": {
+                "en": "Hello Tyrannosaurus Allen, I\u2019m filling my water with ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0983cb733e05e26bbb683482264a4ef1b4aa5936",
+            "content": {
+                "en": "Hey guys, ______ here and welcome back to let\u2019s play ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1f8b4184c8f0f34714b000eeb2d506fe84649d1d",
+            "content": {
+                "en": "HI, BILLY MAYS HERE FOR  ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b61eaae3036d196af2759f740725ff4ed820a835",
+            "content": {
+                "en": "Holy ______, Batman!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_221fff941a180347e294cd99dcdd180034ed3009",
+            "content": {
+                "en": "I can\u2019t believe I just got trolled by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4234e0708028159fa17a08ac37db3731d5a91d33",
+            "content": {
+                "en": "I just thought of a new game idea.  It\u2019s about this ______ who goes on a quest for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f84a70b5c3d0f5a8d5ab98ae7df94cf1ecdf0019",
+            "content": {
+                "en": "I love the smell of ______ in the morning!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f28fbc07a9979c6bfe1f541a438eee4a55a23461",
+            "content": {
+                "en": "I never quite fit in at school until I found the ______ club."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca3dab3094a397a2ac0232f040a22eb27a0a2022",
+            "content": {
+                "en": "I play ______ in attack mode!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_72c6e4a7bafad858074ed090f44960c598a23300",
+            "content": {
+                "en": "In 100 years, what will we use to fuel our vehicles?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f5ffc07fcdb200aac704946de38a800df1535d45",
+            "content": {
+                "en": "It baffles me how the internet was able to make a meme out of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f1b39b8efd471f2e5fe07995afe7f37a46f5fb2",
+            "content": {
+                "en": "It is rumored that it the top of Mt. Everest, there is a strange man who will exchange $200 for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1e82479e4da0a129977ecceccf2b5b28c78a6cc",
+            "content": {
+                "en": "It\u2019s really unsettling to see ______ as the new character in the next Smash Bros. game."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a4a8842b7fd3ff1d2d379f6f5331eaed52d93143",
+            "content": {
+                "en": "It\u2019s time for me to live up to my family name and face ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_875b72036816c563dcf7bc38464204528787ec8f",
+            "content": {
+                "en": "I\u2019m going to do an ______, WHOOOOAAAAA!!!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d47d9f4605b9fd2377932cadefd6280a9ce8a69",
+            "content": {
+                "en": "I\u2019m hungry.  I think I\u2019ll have some ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4784e0ef0637c61b7b27c544c40f53e1cacce108",
+            "content": {
+                "en": "Josh got a ______ and I didn't!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f52ab396522ff1ed8ea3098d4c85333daef70bf5",
+            "content": {
+                "en": "Look, up in the sky!  It\u2019s a bird!  It\u2019s a plane!  It\u2019s ______-man!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d80a7c519bda1dbf28b8d560f141aac5ac630be2",
+            "content": {
+                "en": "Michael Bay\u2019s new action film pits ______ against ______ in an all out brawl to the death."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_16014ab78e24157cfaf0bb23c5868dd728e405f3",
+            "content": {
+                "en": "My mom was surprised to find that it wasn\u2019t squirrels that were stealing food from the birdfeeder, but ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_63f08f260c4c9845ca037a7c7086ae865d385f2c",
+            "content": {
+                "en": "My sister just showed me a new anime.  It\u2019s about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a2b644383bce41dba8c36ee8cb90b96a24095a15",
+            "content": {
+                "en": "My ______ is ready!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d6b8983d941d928d3123f93e24438fe52a64deb",
+            "content": {
+                "en": "NASA recently began new plans to attempt to send a ______ into space."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ec0e1fc6d4cc735ee1db28495e6e56d5c89d2cc4",
+            "content": {
+                "en": "New from Fiddleheads productions:  ______ Jr.!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_899bc978aab30dc45c193728adbec95e2a4cd289",
+            "content": {
+                "en": "New from Hasbro, ______-opoly!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_733e3f3e50a7bc76dceed8628de8b5fba62a08bc",
+            "content": {
+                "en": "New from J.K. Rowling, Harry Potter and The Chamber of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_701a13bb4018a471c7d2fa569c36f697376243c8",
+            "content": {
+                "en": "New from Lilian Jackson Braun, The Cat Who Saw ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1573039e417e8c84f24a75520833437f0c1de2b1",
+            "content": {
+                "en": "New from Maruchan, ______-flavored ramen!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e7163cc2435db56d268c8b47bf27eb51225b78fd",
+            "content": {
+                "en": "New from Milton Bradley, Hungry Hungry ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_19625f435010a19040dbe6a0db248bc8e9db97e4",
+            "content": {
+                "en": "New from Papa Louie Arcade:  Papa\u2019s ______-eira"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d3bb6bfeac2ab409fac4420260e959937b55b17b",
+            "content": {
+                "en": "New from Square Enix, Final Fantasy:  The ______ Chronicles!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6a0721f4c45705ee38a2ea2112227f8e434b8156",
+            "content": {
+                "en": "New from Stephen King, a novel about a killer ______ that will stop at nothing until it gets it\u2019s ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cf186d757db9dd4eb8b25695696eb08bf2cd6667",
+            "content": {
+                "en": "On a scale from 1 to ______ how much of a ______ fan are you?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_943b5cabe6cef56807ae2b2b26bba227dfec2d0b",
+            "content": {
+                "en": "One day when phones are considered primitive and out-of-date, people will communicate via ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f677e7c2bd8e95109c06ff3cad95235f674b82af",
+            "content": {
+                "en": "One thing that\u2019s always been on my bucket list is to one day try ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0bcdf29e05da1c8171f1882adaa5347f76bf778e",
+            "content": {
+                "en": "Something I never knew is that apparently my friend has an extensive ______ collection."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f34a4873f286da73690e4c0b5b0bf69039d396cb",
+            "content": {
+                "en": "Sorry guys, but I can\u2019t come.  My ______ died out."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4308866cca284eb0171a9c923c747f29e467c2d6",
+            "content": {
+                "en": "Take about five dozen eggs, start putting them in a bowl, mix the heck out of them, and what do you get?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0a6e863b193c06ff9d9e6457aeca7697ff993374",
+            "content": {
+                "en": "That boss would've been a cakewalk.  But unfortunately, he had the ability to summon ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9bc9cfe70df73a5d432606edbe43ad45f0f905bc",
+            "content": {
+                "en": "The cartoonist was in big trouble after publishing a strip about ______ that somehow offended ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_770e86d321e2702bf4d8f025ad275047ca10fec5",
+            "content": {
+                "en": "The Federal Court of Justice has found ______ guilty of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e1d2e58881924dd0653c8b3545e0d07104150487",
+            "content": {
+                "en": "The mother was shocked to find www.______.com\/______ in her child\u2019s browser history."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_37c97598f064cd535ca0f83abd1f86b5f48c3a03",
+            "content": {
+                "en": "The new movie is going to be rated R just because of a scene involving  ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bda092e7eb75d3b7784ed7488130035b4aa648d0",
+            "content": {
+                "en": "The Olympics have recently banned ______ for giving players an unfair advantage."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b01bcee9a85dd62191e1e57b996f45fce021d5d8",
+            "content": {
+                "en": "There\u2019s nothing to fear but ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_679a131ef7d3b95488837e638525b4ff82ff1cda",
+            "content": {
+                "en": "They see me ______in\u2019, they hatin\u2019"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e09bf76e098233922550cd5eacab321c0609a465",
+            "content": {
+                "en": "This week at the gaming club, we will be playing ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_164db3ba405d8a7a6f42e266f469734fac582e9d",
+            "content": {
+                "en": "This ______ is a creature of chaos.  It may take many incarnations"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d1d69fe6219e67cb15e6f1e4c365df89faf14ee2",
+            "content": {
+                "en": "To many Pok&eacute;mon fan\u2019s surprise, the next generation decided to introduce the new ______-type to the series."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a62fa88c49819f582b7538f7c540dc475206f616",
+            "content": {
+                "en": "Tonight on 20\/20, what you don\u2019t know about ______ could kill you."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55cc51f222a35e969d76fdaf1b74b68793d8080f",
+            "content": {
+                "en": "Tonight\u2019s special will be roast ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b0e0c600a59e9e53d47355e6bab9248c17eecef",
+            "content": {
+                "en": "Unfortunately for Capcom, Megaman\u2019s new adversary, ______-man didn\u2019t go as well with fans as they hoped."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0cb486137a2997339ef17d434ca976e4ab32ab4c",
+            "content": {
+                "en": "What am I fighting for!?!?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b37bcad3dc20d02192595f4d071ce78aac89b996",
+            "content": {
+                "en": "What annoyed you today?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55c3a373ff0bbca338ee17695915cf65c731118c",
+            "content": {
+                "en": "What killed Kenny?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_085b04c08fd5707e9f3420d0c5b33cfdbf65d2a3",
+            "content": {
+                "en": "What will be the downfall of society as we know it?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d37738dfdecdfb3c7e9085b58c2ea5240b94a33",
+            "content": {
+                "en": "What\u2019s my superpower?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_202a04055f275aaefa5370924b9de13ec6fb0a58",
+            "content": {
+                "en": "What\u2019s the best item in The Binding of Isaac?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cf24ef2f2271875520d194ac89fa32849782f8ac",
+            "content": {
+                "en": "When life gives you lemons, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6d658d581c97f5e4f08aee3f9c1062bb04ee3800",
+            "content": {
+                "en": "Who\u2019s the secret boss in the next Kingdom Hearts game?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_66e295171c6f9a0ac0e1fb8ec0ae40d7ef24196f",
+            "content": {
+                "en": "Why is the lifeboat red and sticky?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c2482ceedfc04a90e683675779ec6e1202f359dc",
+            "content": {
+                "en": "______ used ______!  It\u2019s super effective!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1bc5a15c272be192e678dd38f3d99d6b556c7911",
+            "content": {
+                "en": "______, grab my ______!  ADVENTURE!!!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c1eb80ab120d345906fead4bace0c2647e396790",
+            "content": {
+                "en": "______, the ______ djinn has joined your party!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2bb90c5bc0da34c12b963923dafa3eadb041fd8d",
+            "content": {
+                "en": "______:  The ______ Story"
+            },
+            "pick": 2
+        }
+    ]
+}

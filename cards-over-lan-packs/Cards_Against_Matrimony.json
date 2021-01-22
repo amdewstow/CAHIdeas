@@ -1,0 +1,313 @@
+{
+    "id": "Cards_Against_Matrimony",
+    "name": "Cards Against Matrimony",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_81b8d4a5e1c819432a62c5249929d8e8bc75331d",
+            "content": {
+                "en": "(Bride&apos;s name with groom&apos;s last name)."
+            }
+        },
+        {
+            "id": "w_3d6eed3627107621f0c210535e7f78407e2a95e2",
+            "content": {
+                "en": "(Bride&apos;s name)."
+            }
+        },
+        {
+            "id": "w_214c6c9bbec4fdcb716e11b775d7b6d6df83874c",
+            "content": {
+                "en": "(Groom&apos;s name with bride&apos;s last name)."
+            }
+        },
+        {
+            "id": "w_222da1626550fb6efd60085542225bcf66a58873",
+            "content": {
+                "en": "(Groom&apos;s name)."
+            }
+        },
+        {
+            "id": "w_c0668e822d0ecec17da5343fe5c177e092b69d5e",
+            "content": {
+                "en": "a new cousin-in-law that happens to be the stripper from you bachelor party last night."
+            }
+        },
+        {
+            "id": "w_9734f31ba5b16c4c9322de2220b9ebca6d3f223d",
+            "content": {
+                "en": "A shiny rock that proves you love her."
+            }
+        },
+        {
+            "id": "w_07944cf6b0e72fdccc8b6d949f2c06e35f685745",
+            "content": {
+                "en": "A slurred drunken speech that lasts for far too long and exposes far too many sordid details."
+            }
+        },
+        {
+            "id": "w_c64cbc511d4eee10470c5394f91e1f5cc556fc43",
+            "content": {
+                "en": "A wedding that puts all your friends&apos; weddings to shame."
+            }
+        },
+        {
+            "id": "w_2192dc3788432c75f71cdb72addbff82c5c02b88",
+            "content": {
+                "en": "A wildly inappropriate wedding toast"
+            }
+        },
+        {
+            "id": "w_60862a91271537b84f09cd631b2683ffd0bc2e02",
+            "content": {
+                "en": "All of your relatives shoving money in your clothes like you are a stripper, and calling it a tradition."
+            }
+        },
+        {
+            "id": "w_1da4add51037db39cc677f0f8700448411573a99",
+            "content": {
+                "en": "Allowing your future mother-in-law to pick the venue because you&apos;re secretly scared of her."
+            }
+        },
+        {
+            "id": "w_ab45460e90eadf1cd925a1c97ee65a08962645b3",
+            "content": {
+                "en": "BRIDEZILLA!?!?!"
+            }
+        },
+        {
+            "id": "w_0670b5f09180d5981d46fcb022fd543631b73791",
+            "content": {
+                "en": "Everyone secretly suspecting the bride is already pregnant."
+            }
+        },
+        {
+            "id": "w_4117df407b91dad1b6d58edc70f8c94e31e3342d",
+            "content": {
+                "en": "Finding a way to arrange your bridesmaids by attractiveness without them finding out."
+            }
+        },
+        {
+            "id": "w_2819e1332b114506c7d7e723297dee46311a5c2e",
+            "content": {
+                "en": "Fucking the fat bridesmaid."
+            }
+        },
+        {
+            "id": "w_11d2c84a41e82cea9b8d40ba10f463c15ac26a50",
+            "content": {
+                "en": "Gaining like a hundred pounds after getting married."
+            }
+        },
+        {
+            "id": "w_acea2732dc58e94f2e743442aaf6aa1677fb2c72",
+            "content": {
+                "en": "Getting cold feet."
+            }
+        },
+        {
+            "id": "w_e2bf572096331c2fb367eda9c518f5512976321a",
+            "content": {
+                "en": "Getting married just for the second income."
+            }
+        },
+        {
+            "id": "w_2c256806452b209a4eb18d534f49dbba6bab4170",
+            "content": {
+                "en": "Having to tell people &#8220;it was the best day of my life,&#8221; even though there are at least half a dozen better ones."
+            }
+        },
+        {
+            "id": "w_40bbfba79368a53fa926354c5f6026f42ec68b11",
+            "content": {
+                "en": "Hoping your future kids don&apos;t inherit your spouse&apos;s big nose."
+            }
+        },
+        {
+            "id": "w_c3fdc2219ab73e5e90fc8587d67735e9397506fa",
+            "content": {
+                "en": "Jacking off onto the wedding cake and telling everyone it&apos;s just frosting."
+            }
+        },
+        {
+            "id": "w_9204ee3bc54127eefdad7d52419bdc8c674b6e5a",
+            "content": {
+                "en": "Just Married Sex."
+            }
+        },
+        {
+            "id": "w_1ea8ef4df77fec51506b8bd21d13955f3275cea7",
+            "content": {
+                "en": "Living happily ever after."
+            }
+        },
+        {
+            "id": "w_69a183112b6d10dfacd22ad76999fd5d68ee1189",
+            "content": {
+                "en": "Marrying a woman who made out with more women at her bachelorette party than you did in 10 years."
+            }
+        },
+        {
+            "id": "w_ee7df23c0673968429f85a244fe86ea3458446c2",
+            "content": {
+                "en": "Mawage. Mawage is wot bwings us togeder tooday."
+            }
+        },
+        {
+            "id": "w_1283713e16f939e1bb44c91ec8a980020d2ea502",
+            "content": {
+                "en": "mounting Go Pros on to homeless children and letting them wander around, rather than paying a wedding photographer."
+            }
+        },
+        {
+            "id": "w_0c5532878b2fa2263e514c4dc7d6fd49c5d26537",
+            "content": {
+                "en": "Not really wanting to take his last name but buckling under the social pressure."
+            }
+        },
+        {
+            "id": "w_e81c1eec8a83ef3b9b01847ca84d2aea7ae466e5",
+            "content": {
+                "en": "Putting a ring on it."
+            }
+        },
+        {
+            "id": "w_c450a1350a57ab47f619443d29b0a70889818c51",
+            "content": {
+                "en": "Realizing that &#8220;til death do us part&#8221; means the best case scenario is one day waking up next to a dead old person."
+            }
+        },
+        {
+            "id": "w_63c236fe50730afda78318f6e588290d3e8796e7",
+            "content": {
+                "en": "Shoving wedding cake in their face even though you promised not to."
+            }
+        },
+        {
+            "id": "w_7481a7ced2fc0cdcbc84f9a11a7561c57ca4dc8e",
+            "content": {
+                "en": "Sneaking off to watch porn after your wife refuses to have sex with you."
+            }
+        },
+        {
+            "id": "w_8e4dd62fcdf948c40afa2efc023a89cfd4de000c",
+            "content": {
+                "en": "The &#8216;ol ball and chain."
+            }
+        },
+        {
+            "id": "w_2ac91f9946d5decf76e35ac7069355a098b52661",
+            "content": {
+                "en": "The institution of marriage."
+            }
+        },
+        {
+            "id": "w_e31ad67c6cbaca10a9fc2e3bdf454213a9d0f9c5",
+            "content": {
+                "en": "Thinking about all the other cool stuff you could have spent your money on"
+            }
+        },
+        {
+            "id": "w_1a39960594c10d64ca12fa35eae386c2332e6417",
+            "content": {
+                "en": "Thousands of dollars of food, that pleases no-one."
+            }
+        },
+        {
+            "id": "w_32c92f72586080c89cfd1669523122de715d7d42",
+            "content": {
+                "en": "Two awkward virgins' honeymoon night."
+            }
+        },
+        {
+            "id": "w_8be0ba3406e7cf9e0abe28b9edaaa827bc5c474b",
+            "content": {
+                "en": "Two kids who love to fuck who just want to make it honest."
+            }
+        },
+        {
+            "id": "w_f5bff99755a78875a9c0234cf738cf1cc42c234d",
+            "content": {
+                "en": "wondering if anyone will say anything during the 'speak or forever hold your peace' bit"
+            }
+        },
+        {
+            "id": "w_d0a95a47b4c7ca4970abfa08b95af1b2b45f6754",
+            "content": {
+                "en": "Your funny looking future in-laws."
+            }
+        },
+        {
+            "id": "b_809f0aa9ec8cd3af17a177606314d74deef6173a",
+            "content": {
+                "en": "Does anyone have a reason these two should not be joined in holy matrimony?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5cf58b38591df0dba57bf2d87a9ddfb54c5b9a60",
+            "content": {
+                "en": "I pledge to honor and ______ you, in sickness and ______, until ______ do us part."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_dd677c8d55314cfe19362818ab19cf32fb67d878",
+            "content": {
+                "en": "Marriage: the beginning of ______ and the end of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_33614daaded44b2afe4261496460655e935dfcd2",
+            "content": {
+                "en": "My significant other promised me we could finally try ______ on our wedding night."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea3438512cc700b31525a144842f4009333ddcb6",
+            "content": {
+                "en": "Until ______ do us part."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_720e0d934c5ffb156fcbc3f5f7287e105fc00268",
+            "content": {
+                "en": "We couldn't find a church, so instead we got married in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_778f6c83bbe9a9528a2455836b2419945360e765",
+            "content": {
+                "en": "We decided to be a little non-traditional, instead of cans, we drug ______ behind our car as we drove off to our honeymoon."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b854883935a1e7b5d6706ea700e293c8c13773c0",
+            "content": {
+                "en": "Why I love my future spouse? That&apos;s easy, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d38305cb4652407cae6b9a47782c57f35397182c",
+            "content": {
+                "en": "Will you make me the happiest man alive by ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_659e5f9dc31f876bf2a28e25ec9cfec5bbefc1be",
+            "content": {
+                "en": "______ is a great replacement for throwing rice"
+            },
+            "pick": 1
+        }
+    ]
+}

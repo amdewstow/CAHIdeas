@@ -1,0 +1,373 @@
+{
+    "id": "New_Zealand_Edition",
+    "name": "New Zealand Edition",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_0eec58f7e765d51dcae4cef5ee71762588b4df71",
+            "content": {
+                "en": "2 joints."
+            }
+        },
+        {
+            "id": "w_b365b2e7389561e698379fb989a8e311d33a2c3b",
+            "content": {
+                "en": "A 24 of Steinlager."
+            }
+        },
+        {
+            "id": "w_91fbea3b6c836c783ab1bc302233df49c524f273",
+            "content": {
+                "en": "A bogged up Holden Commodore."
+            }
+        },
+        {
+            "id": "w_e983eb11d134266e097bc911214a9e7ae19ae382",
+            "content": {
+                "en": "A hand full of party pills."
+            }
+        },
+        {
+            "id": "w_69594535522702d33811e6a19742c47f4e3b0e0d",
+            "content": {
+                "en": "A John Key billboard."
+            }
+        },
+        {
+            "id": "w_95aebf3c6e445d7fcc210d3596cdd497acb7b120",
+            "content": {
+                "en": "A massive bag of weed."
+            }
+        },
+        {
+            "id": "w_3f254d0923b4433908458e8c7a7e4992a88fe2c6",
+            "content": {
+                "en": "A mince pie."
+            }
+        },
+        {
+            "id": "w_66f5474710ccd2329faf3e4dd463cb08fd787175",
+            "content": {
+                "en": "A spitroast."
+            }
+        },
+        {
+            "id": "w_74c205355aecc2e59f1db3c11a0c5dd932028ebf",
+            "content": {
+                "en": "A tinnie bro."
+            }
+        },
+        {
+            "id": "w_98919bc95fa104d976082112b68969d804063daa",
+            "content": {
+                "en": "Anal Bleach."
+            }
+        },
+        {
+            "id": "w_16dd5a247819bb1aa723b9d9222f42c16618490d",
+            "content": {
+                "en": "Baked bean farts."
+            }
+        },
+        {
+            "id": "w_ecd3ca9ee0dba32f3a275366d41626b882df4876",
+            "content": {
+                "en": "Black kina."
+            }
+        },
+        {
+            "id": "w_cb50bdf3ba64a395bf6f949625e3eb75050ab6f9",
+            "content": {
+                "en": "Bluff."
+            }
+        },
+        {
+            "id": "w_e97a20c93ec8a2e3908474251d06b7b2c86f7fe8",
+            "content": {
+                "en": "Churda Kuz."
+            }
+        },
+        {
+            "id": "w_09997cd48669792079086f5b0eb3bbe3604c2f3a",
+            "content": {
+                "en": "Churr Bro."
+            }
+        },
+        {
+            "id": "w_949567051cc1dd2cba085c7a8354a86fafa736fd",
+            "content": {
+                "en": "Dohnuts in the mud, Yeah boi!"
+            }
+        },
+        {
+            "id": "w_6582575a4008aa68c15620880579220ae144d17a",
+            "content": {
+                "en": "Doing the laps."
+            }
+        },
+        {
+            "id": "w_c105b5d053a380a99ef86e34ab16454dbefb3d09",
+            "content": {
+                "en": "Fish n' Chips."
+            }
+        },
+        {
+            "id": "w_98f61b0defe513e20595892b6801c17c0f321084",
+            "content": {
+                "en": "Getting covered in Tomato sauce."
+            }
+        },
+        {
+            "id": "w_8419d79485b6c6703676e907cfe7077cb0c7fcc5",
+            "content": {
+                "en": "Getting rolled by the fuzz."
+            }
+        },
+        {
+            "id": "w_54126d80715749a24e2151c0b8a1eff493c67ccb",
+            "content": {
+                "en": "Having a slash."
+            }
+        },
+        {
+            "id": "w_eb47e3d96e7bbef3523a8f461994fae275d1a428",
+            "content": {
+                "en": "Helen Clarke&apos;s Face."
+            }
+        },
+        {
+            "id": "w_45b06363f168a579af35e4fe048f5de6ed9fabf4",
+            "content": {
+                "en": "Jason Gunn."
+            }
+        },
+        {
+            "id": "w_9e8a9ea277787d8d3a3ac4dfb0d19e0fa4c95ba4",
+            "content": {
+                "en": "John Hopoate&apos;s Finger."
+            }
+        },
+        {
+            "id": "w_6c58e8149fc71cd1cd223d1c280cdb4ec7cebc1e",
+            "content": {
+                "en": "Jugs at the pub."
+            }
+        },
+        {
+            "id": "w_8551264ae6961ed7a3db949f0b428187b5931829",
+            "content": {
+                "en": "Just another fuckin' Aucklander."
+            }
+        },
+        {
+            "id": "w_a83cfe5eec4441f4ea893e33e74521e94d288e39",
+            "content": {
+                "en": "Kim Dot Com&apos;s ass cheeks."
+            }
+        },
+        {
+            "id": "w_9cfc717b26186969612149a53e695d4c483ae20f",
+            "content": {
+                "en": "Kiwi ingenuity."
+            }
+        },
+        {
+            "id": "w_5bed60435a3ccf4d2f236db476a3ab328cfac8f3",
+            "content": {
+                "en": "Maori's."
+            }
+        },
+        {
+            "id": "w_c4a62b57f106218d6134d7bac46be9290a49f658",
+            "content": {
+                "en": "Number 8 wire."
+            }
+        },
+        {
+            "id": "w_7ce4009b7a6b374aeee7d15addb0610ed39799cc",
+            "content": {
+                "en": "Pakeha."
+            }
+        },
+        {
+            "id": "w_6d30ea7f15ee3bbae5215122a9e0be225477dccc",
+            "content": {
+                "en": "Peter Jackson&apos;s hairy feet."
+            }
+        },
+        {
+            "id": "w_9cd8720179dda0f0612c6cfb2e4eb107b1716834",
+            "content": {
+                "en": "Rugby."
+            }
+        },
+        {
+            "id": "w_f50512eaaf5d7e2e6fa0584b74a935315af09b22",
+            "content": {
+                "en": "Sex with a sheep."
+            }
+        },
+        {
+            "id": "w_a68a9f58823e47c8e6bba8efb71ed67501b5ece3",
+            "content": {
+                "en": "Smelly gumboots."
+            }
+        },
+        {
+            "id": "w_c33616cfdb6b01da8c4d3cd8e016352c28cf43a5",
+            "content": {
+                "en": "Socks with Jan dies."
+            }
+        },
+        {
+            "id": "w_7ef787d2712ef5e5d53d088d7f51dc4c1dca0a64",
+            "content": {
+                "en": "Spots."
+            }
+        },
+        {
+            "id": "w_21929c1e94328a660cee7a11b068d95c0cdbc8a6",
+            "content": {
+                "en": "Standing in line at WINZ."
+            }
+        },
+        {
+            "id": "w_ad9ea872b9bc9e56aa8be168eb21043e7ff57780",
+            "content": {
+                "en": "Sucking an oyster."
+            }
+        },
+        {
+            "id": "w_a6c25e196e0411dc7c49eb34af4deca83fc81c2d",
+            "content": {
+                "en": "Tainted baby formula."
+            }
+        },
+        {
+            "id": "w_675c462a4038706e22c7c3a5f4fb62e9909c681b",
+            "content": {
+                "en": "Taking the kids to the pool."
+            }
+        },
+        {
+            "id": "w_bd6828bf8c988c4d1fe17eb5c65b62c87c6f9762",
+            "content": {
+                "en": "That strange Lorde bitch."
+            }
+        },
+        {
+            "id": "w_1bb68cc927e14d24acf594c936e67a256ca0aa04",
+            "content": {
+                "en": "The Mainland."
+            }
+        },
+        {
+            "id": "w_6cfa559370524957aee1f2cb7580bb8b79585099",
+            "content": {
+                "en": "The Maori strum."
+            }
+        },
+        {
+            "id": "w_e886d28ab0db6878a5e31a92c7b98873d25eb6f7",
+            "content": {
+                "en": "The mighty Toyota Hilux."
+            }
+        },
+        {
+            "id": "w_28a45c8be73c5f24c530df043ee2d66d0e68df04",
+            "content": {
+                "en": "The North Island."
+            }
+        },
+        {
+            "id": "w_cd3ca15726f8805a28ac2a281f421d146d4c06e4",
+            "content": {
+                "en": "The whole rugby team."
+            }
+        },
+        {
+            "id": "w_d6495834328184acecd3c5ceebc5f913f8265889",
+            "content": {
+                "en": "Tomato Sauce."
+            }
+        },
+        {
+            "id": "w_4b208a5365b88b16d6405c293d7fade1e843eb46",
+            "content": {
+                "en": "Winston Peters."
+            }
+        },
+        {
+            "id": "b_995fe94e2b7d2c7338d8146cf17accf6e7bc044b",
+            "content": {
+                "en": "I'd like to see ______ on ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_437877a8ffbfd5cf8da5de060d61dc8eb11759fa",
+            "content": {
+                "en": "If I had for ______ every time I ______ i'd be ______"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_bb54335a7280080203647471c46cf3198eea228f",
+            "content": {
+                "en": "If it werent for ______ where would we be? We'd be ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_58ae8a539bd876df63a5c83310431d6b633592ee",
+            "content": {
+                "en": "Maori&apos;s are good at 2 things: ______ and ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6a8de3a9c0a54c3b0fa00cd94f1ddaf748bae872",
+            "content": {
+                "en": "Nek ______ minnit...______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c202c3e6e52d743d672ab06afef71913f23156e0",
+            "content": {
+                "en": "The best thing the white man bought to New Zealand is ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b1c1c7fe0f90b4fec0a3c1c7ff24019f7898b97",
+            "content": {
+                "en": "There are too many ______ in this country, what we need is ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3eaf048b27249c1635ac88438c922357159cf967",
+            "content": {
+                "en": "______ will be the next thing those Aussies' steal from us."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1fd45da87667efc11992e407ae9bce50c353960",
+            "content": {
+                "en": "______, Paid for by your tax dollars, bought to you by NZ on Air."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d1b7ef94556ac8d43f6222411ee47bbecd27fe4c",
+            "content": {
+                "en": "______? Yeah right."
+            },
+            "pick": 1
+        }
+    ]
+}

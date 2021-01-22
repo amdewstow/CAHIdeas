@@ -1,0 +1,254 @@
+{
+    "id": "The_PUBG_Pack",
+    "name": "The PUBG Pack",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_1ff3bde46593d278ae39c82097dac713d5c85c02",
+            "content": {
+                "en": "A 14 year old boy calling a grown white man the \"n word\"."
+            }
+        },
+        {
+            "id": "w_234fbfa993872cfc8dec9137867fa5c3d5e1fbaf",
+            "content": {
+                "en": "A bush that looks like a man."
+            }
+        },
+        {
+            "id": "w_fd9dd19114f04b3876b006e76578f2a00c02c5f5",
+            "content": {
+                "en": "A crossbow bolt straight to the heart."
+            }
+        },
+        {
+            "id": "w_4bd53c8741aa4993efd89e6de4419e8447b666df",
+            "content": {
+                "en": "A duel to the death."
+            }
+        },
+        {
+            "id": "w_49a018199871e90b840b8bed8d5fc4d0984f2852",
+            "content": {
+                "en": "A slowly encroaching circle of lightning."
+            }
+        },
+        {
+            "id": "w_b592a7a5a6798b8dfa34641eaae0b1827891d685",
+            "content": {
+                "en": "A Volkswagen van that doubles as a Mexican stereotype."
+            }
+        },
+        {
+            "id": "w_185a90aebc6e29abc473b4927c7ae9873eae783d",
+            "content": {
+                "en": "A whole bucket of chicken."
+            }
+        },
+        {
+            "id": "w_2c3987064f2783b8a54d0ca0923c6013236f5d79",
+            "content": {
+                "en": "An 8x8 kilometer island used for hunting other humans."
+            }
+        },
+        {
+            "id": "w_1c6c91cea385e028915395cb172468446192355a",
+            "content": {
+                "en": "An energy drink so delicious that it brings you back from the brink of death."
+            }
+        },
+        {
+            "id": "w_3c971e13aeb9ec7f3f55f5e2b1b8447d0f5a3b41",
+            "content": {
+                "en": "Another YouTube Let&apos;s Play."
+            }
+        },
+        {
+            "id": "w_adf8a59f1191cade66eb03d6d86227be18e51826",
+            "content": {
+                "en": "Beating a man to death with my bare hands."
+            }
+        },
+        {
+            "id": "w_ba88fc50236eeea90ef7b1370a7b23af8361858c",
+            "content": {
+                "en": "Downing an entire bottle of pain killers."
+            }
+        },
+        {
+            "id": "w_ce5fd650e7050eb9385f535006d20f9b75c6adb7",
+            "content": {
+                "en": "Getting dropped out of an airplane against your will."
+            }
+        },
+        {
+            "id": "w_29a65f0908d2190ed6f383e7e8eb177ae7b39b43",
+            "content": {
+                "en": "Getting naked and jumping."
+            }
+        },
+        {
+            "id": "w_9cbd7662287021b9455801bdb256f996c3c6532e",
+            "content": {
+                "en": "Getting run over by a dune buggy."
+            }
+        },
+        {
+            "id": "w_8a3366df3b4ef6d3598b9ed3ccb707d108b5fc9c",
+            "content": {
+                "en": "Getting shot and not even being mad because it was pretty impressive."
+            }
+        },
+        {
+            "id": "w_dc9b940d7da6c97552f294ee7dee7a5114dbf39a",
+            "content": {
+                "en": "How it feels to be on the receiving end of an air strike."
+            }
+        },
+        {
+            "id": "w_d8b98cc0d10bb91aa2f0bfb4f500df9eaa519d58",
+            "content": {
+                "en": "Ironically getting shot in a hospital."
+            }
+        },
+        {
+            "id": "w_72b8b1ac773625713706e87878ccef065b557053",
+            "content": {
+                "en": "Kleptomania."
+            }
+        },
+        {
+            "id": "w_073317a34e1ea7bcceb8dcc7e5982db0bd6ae8a2",
+            "content": {
+                "en": "Lag."
+            }
+        },
+        {
+            "id": "w_b614f132a71725feae67853389e09d7031d5f822",
+            "content": {
+                "en": "Running over my best bro."
+            }
+        },
+        {
+            "id": "w_fd540f81bc201d5ebb049056796727a3b3edbc43",
+            "content": {
+                "en": "Russian architecture."
+            }
+        },
+        {
+            "id": "w_6318443ea129e1991b39c07cff3ab3bbd42cb5ab",
+            "content": {
+                "en": "Shitty female voice actors."
+            }
+        },
+        {
+            "id": "w_0df4c07dac0817209c441b34fd8a2d4fa09ebfbd",
+            "content": {
+                "en": "Sick motorcycle stunts."
+            }
+        },
+        {
+            "id": "w_b6c1806a852c248abc9c93954e924c16cec494fe",
+            "content": {
+                "en": "Skydiving accidents."
+            }
+        },
+        {
+            "id": "w_90f6b04ca9a3672f0316e6a9180d6883e54cf3a8",
+            "content": {
+                "en": "Stalking my prey."
+            }
+        },
+        {
+            "id": "w_76da44e55b02f2633ed559d9fe5d37c20a989bc4",
+            "content": {
+                "en": "Talking to strangers."
+            }
+        },
+        {
+            "id": "w_2ea94f05e5458b894e7e7ee38f39fcd272fa2fd1",
+            "content": {
+                "en": "That goddamn television playing in the background."
+            }
+        },
+        {
+            "id": "w_8475c73ba841f26f6c4ea30efed75d38ecc31a2c",
+            "content": {
+                "en": "That one guy that went off on his own and never came back."
+            }
+        },
+        {
+            "id": "w_555539cf201495afae9ac09548970758dec56278",
+            "content": {
+                "en": "The hunger games, but with even more 12 year olds."
+            }
+        },
+        {
+            "id": "w_7004fabb47985709d65b95b250b2caca298f8eeb",
+            "content": {
+                "en": "The pan!"
+            }
+        },
+        {
+            "id": "w_4a3868c1595d96faec619941311efce392e4c9a6",
+            "content": {
+                "en": "The right time to strike."
+            }
+        },
+        {
+            "id": "w_91e9eb447423f95992f4f4b830841177e075d2c1",
+            "content": {
+                "en": "The soothing touch of my best friend to make me feel all better."
+            }
+        },
+        {
+            "id": "w_bbac14318ff25234a47f9999b8af86f1c75609b2",
+            "content": {
+                "en": "The subtle difference between cries of pain and cries of ecstasy."
+            }
+        },
+        {
+            "id": "w_233fedafac3a75336b567c310b670d3e798dd0bf",
+            "content": {
+                "en": "The tiny bit of sanity I lose every time I purchase another beanie hat."
+            }
+        },
+        {
+            "id": "b_ecbe63c1e8bcc476a9484d901000f96fe96b7f09",
+            "content": {
+                "en": "I once heard of a man who survived in a war zone simply by utilizing the power of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0ba1224a8db9d199d36d7e3fb76e142629872d7",
+            "content": {
+                "en": "In the absence of a gun, ______ can be excellent for self defense."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_923e6f4cbc9077d475737ae0169c7ca8a3e1ee49",
+            "content": {
+                "en": "Never bring a ______ to a ______ fight."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7d8e653fcc2a3c5424c509d9921d19d6d8d521eb",
+            "content": {
+                "en": "Players of PUBG have often requested a new game map based around the concept of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_167df25441eedbd0b1621f2f10e5bbe8e8909879",
+            "content": {
+                "en": "Step one: deploy at the military base. Step two: acquire ______. Step three: win."
+            },
+            "pick": 1
+        }
+    ]
+}

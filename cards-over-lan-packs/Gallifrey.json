@@ -1,0 +1,721 @@
+{
+    "id": "Gallifrey",
+    "name": "Gallifrey",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_6d9bfd9d7e10fd76a9d3db8b9843092f4823fefa",
+            "content": {
+                "en": "A \"Doctor Who\" body pillow."
+            }
+        },
+        {
+            "id": "w_6d536bffae31208894d6219bca2a625f8c194cb3",
+            "content": {
+                "en": "A bigger, bluer TARDIS."
+            }
+        },
+        {
+            "id": "w_203408371f21ec573dc7d9daac5f55daf6b9485f",
+            "content": {
+                "en": "A blinged-out TARDIS, blasting dubstep when it is travelling."
+            }
+        },
+        {
+            "id": "w_56e3f2589047cfd1cfb65de1cdb4251b5f53caea",
+            "content": {
+                "en": "A Costco-sized bag of Jelly Babies."
+            }
+        },
+        {
+            "id": "w_806fdffad2689b47b30a3ea8f95ff6c1d4549680",
+            "content": {
+                "en": "A fez caked with semen."
+            }
+        },
+        {
+            "id": "w_187102279240f1fe0b2c4df3f3ffbb1c0bbb9b22",
+            "content": {
+                "en": "A furry writing BAD WOLF everywhere."
+            }
+        },
+        {
+            "id": "w_e2e9c22b477b0c7b7715f3ae96d2dad448325904",
+            "content": {
+                "en": "A global simulcast that forces Whovians to see sunlight for the first time in ages."
+            }
+        },
+        {
+            "id": "w_786ae8b078df1dafc398048443908291c9d5c618",
+            "content": {
+                "en": "A GUITARDIS"
+            }
+        },
+        {
+            "id": "w_76f7153c3c9ce3dd8c585ea8372f862ebf512bc1",
+            "content": {
+                "en": "A kid in a gas mask asking if you are his mummy."
+            }
+        },
+        {
+            "id": "w_c209dd005826d89b18bcdba08b4042be9257890a",
+            "content": {
+                "en": "A Rusty Cyberman."
+            }
+        },
+        {
+            "id": "w_5496050d6b1253962e9c93f7472af66d5dd27eee",
+            "content": {
+                "en": "A shitty Doctor Who knock-knock joke."
+            }
+        },
+        {
+            "id": "w_1f22005b936b3ec57d8ee8e6847ce5a2c7d19f0d",
+            "content": {
+                "en": "A sonic screwdriver stuck on the vibrate setting."
+            }
+        },
+        {
+            "id": "w_81e6d52eee22d4a5ecd2522c0afb816229046f94",
+            "content": {
+                "en": "A Vashta Nerada that just wants a hug."
+            }
+        },
+        {
+            "id": "w_e0ac6e939abdb8c3166756a0ee33f1c2d8ac7b8b",
+            "content": {
+                "en": "Air from my lungs."
+            }
+        },
+        {
+            "id": "w_b0b4f587c284e95db5dbeba3a14ed95a0cb1b380",
+            "content": {
+                "en": "An acid rain shower on Skaro."
+            }
+        },
+        {
+            "id": "w_9736ccc884cbf987201d784a5eb59a2be60b8378",
+            "content": {
+                "en": "An Ood getting a starring role in a hentai."
+            }
+        },
+        {
+            "id": "w_71f1070080a719e119b7d6320a111d71fd923b4e",
+            "content": {
+                "en": "Being used as a plot device by Steven Moffat."
+            }
+        },
+        {
+            "id": "w_1633e69ef68df3910f65a2fef7f1d85e31fda077",
+            "content": {
+                "en": "Captain Jack Harkness."
+            }
+        },
+        {
+            "id": "w_f676f721b7bc301a1e322cb723bad3b0e709f807",
+            "content": {
+                "en": "Chistopher Eccleston."
+            }
+        },
+        {
+            "id": "w_4252434457c68b1818218e7cc678fc7c2f1b6e30",
+            "content": {
+                "en": "Christopher Eccleston."
+            }
+        },
+        {
+            "id": "w_be9c333e54d8b8db9f99da315a2e2cd4a222a228",
+            "content": {
+                "en": "Companion Porn."
+            }
+        },
+        {
+            "id": "w_0230012305791c958aeed431f502d2f2069911bc",
+            "content": {
+                "en": "Dalek porn."
+            }
+        },
+        {
+            "id": "w_93aeeb3b92e8bda067bba529e3a305135196cece",
+            "content": {
+                "en": "David Tennant."
+            }
+        },
+        {
+            "id": "w_9df6d7527f726188b95c1ffc3a1031e87297018b",
+            "content": {
+                "en": "Davros getting up on the wrong side of the bed."
+            }
+        },
+        {
+            "id": "w_5f30aad74572e4c6d544eb19e8acccaa0705582e",
+            "content": {
+                "en": "Drunkenly drawing tally marks on your face."
+            }
+        },
+        {
+            "id": "w_27d29a590d2ec797fbb173cef8287ee896476649",
+            "content": {
+                "en": "Eggs."
+            }
+        },
+        {
+            "id": "w_766dbc4f19758bbebde4ccdc1bb1c8bdab77a791",
+            "content": {
+                "en": "Fapping to Billie Piper portraying a callgirl."
+            }
+        },
+        {
+            "id": "w_3103988df8d7a80a137961d87c6549f75ce491e0",
+            "content": {
+                "en": "Fapping to Billie Piper protraying a callgirl."
+            }
+        },
+        {
+            "id": "w_dfe95c572a958c9c58105cf3b25f7ac1ad3b4869",
+            "content": {
+                "en": "Fifty years of fanfic."
+            }
+        },
+        {
+            "id": "w_1d40a1dad7616e6caf5b50e148b519aa507fc8a3",
+            "content": {
+                "en": "Finding Autons oddly attractive."
+            }
+        },
+        {
+            "id": "w_c01e89226c22f031880eb9782dd88370318e7d89",
+            "content": {
+                "en": "Fish fingering your custard."
+            }
+        },
+        {
+            "id": "w_09541c834e53b0d7e988540c536a2c928e468b35",
+            "content": {
+                "en": "Fondling a Dalek&apos;s slippery bits."
+            }
+        },
+        {
+            "id": "w_bea9be543f1f1f1e6e1b8b421578809510302552",
+            "content": {
+                "en": "Getting so much plastic surgery, you have to be framed and moisturized."
+            }
+        },
+        {
+            "id": "w_7a855190ce7a41f6e770b23f15ee75a4f21503ea",
+            "content": {
+                "en": "Giving her the ol' plastic Mickey."
+            }
+        },
+        {
+            "id": "w_280f7b074e3ddcc1eb6130e2d639b44c6b5b0d42",
+            "content": {
+                "en": "Glenn Beck convulsively puking as a brood of Daleks swarm in on him."
+            }
+        },
+        {
+            "id": "w_a300bef5833913b00d9c1b12548c93f7486196b7",
+            "content": {
+                "en": "Just now realizing that \"Torchwood\" is an anagram of \"Doctor Who\"."
+            }
+        },
+        {
+            "id": "w_e67a3344ad8c250372002e6d1fc109e62f8459a2",
+            "content": {
+                "en": "K-9 humping your leg."
+            }
+        },
+        {
+            "id": "w_8e7bd8d48952b3495dbfeede4df0cc2b5882465b",
+            "content": {
+                "en": "Kidnapping a barely-legal woman to time travel with."
+            }
+        },
+        {
+            "id": "w_819816ee6860d1171912a9a9582b05ef05dfff66",
+            "content": {
+                "en": "Low-budget special effects."
+            }
+        },
+        {
+            "id": "w_3a25375cae43b87722f388ddbeb684d18fb7543a",
+            "content": {
+                "en": "Matt Smith."
+            }
+        },
+        {
+            "id": "w_8ccd7fe51d128639893745cfdd4a08320543781a",
+            "content": {
+                "en": "Opening the door of the TARDIS and leaving a deuce in the time-space continuum."
+            }
+        },
+        {
+            "id": "w_09e12509ac7732e2a8c75525aed8899bbd4e52be",
+            "content": {
+                "en": "Plot holes so wide, you could drive a truck through them."
+            }
+        },
+        {
+            "id": "w_38dfbb80fbd5bcba9b61cde4a005a1c47d4c5c83",
+            "content": {
+                "en": "Pointing to your crotch and saying \"Allons-y\"."
+            }
+        },
+        {
+            "id": "w_01ab5693c625d58c759c2ba1000fc468e22b3214",
+            "content": {
+                "en": "Pouting in a rain storm and having to take a wicked piss."
+            }
+        },
+        {
+            "id": "w_58b6a3cbbe7aad65c97fef955cc3b524a8728612",
+            "content": {
+                "en": "Quitting this panel after one round, because you are afraid of getting typecast."
+            }
+        },
+        {
+            "id": "w_9d4290a3b32d6b54e3f64fe08c4300394eb6c2a0",
+            "content": {
+                "en": "Quitting this pannel after one round, because you are afraid of getting typecast."
+            }
+        },
+        {
+            "id": "w_26a5c8071c1f518f7d18b62147688d4d9902ae4c",
+            "content": {
+                "en": "River Song."
+            }
+        },
+        {
+            "id": "w_d61fc8b16097119c722e4546e73559a961fa922b",
+            "content": {
+                "en": "Robot Anne Robinson."
+            }
+        },
+        {
+            "id": "w_a672a678b2ecd12f3ae80aa18b75a4230ca7aedd",
+            "content": {
+                "en": "Rose Tyler&apos;s teeth."
+            }
+        },
+        {
+            "id": "w_c610b41ad8a64c4cc9f10bbf4c6b2d84ad774974",
+            "content": {
+                "en": "Sharing a public restroom with a weeping angel."
+            }
+        },
+        {
+            "id": "w_9c4c8e9f5c4cfafd2a95b038535a65a0c595baca",
+            "content": {
+                "en": "Siltheen farts."
+            }
+        },
+        {
+            "id": "w_c4ab2ab5552d00aff64dc052ae5ca8f4ba162f01",
+            "content": {
+                "en": "Sixteen feet of scarf bondage."
+            }
+        },
+        {
+            "id": "w_6cd6dbaab564e6c26a3d7090b4b572bcb0448983",
+            "content": {
+                "en": "Smoking 1000 cigarettes, just so you can sound like a Dalek when you talk."
+            }
+        },
+        {
+            "id": "w_389a9f859242b6c36ac9ea0f0ec76c28ddd2e574",
+            "content": {
+                "en": "Sorry, this answer is only available in the fanfic version of Cards Against Con."
+            }
+        },
+        {
+            "id": "w_60039560b2fcf5a108a73cfb64bc31967aa27f88",
+            "content": {
+                "en": "Steven Moffat taking a big old dump in your Cheerios."
+            }
+        },
+        {
+            "id": "w_f66731c788548c5cfa6474d63b8bdc1a92565944",
+            "content": {
+                "en": "Steven Moffatt taking a big old dump in your Cheerios."
+            }
+        },
+        {
+            "id": "w_c86bd7d23f5653d53690d9c0ead853af93d09e46",
+            "content": {
+                "en": "Taking a Doctor Poo."
+            }
+        },
+        {
+            "id": "w_d53f2d84a878c4eaf3a0164088e8b3ecda6fc79f",
+            "content": {
+                "en": "The big banana in your pocket."
+            }
+        },
+        {
+            "id": "w_4b395adc1cf27e1da4f4d87170dd1fbeee119d1f",
+            "content": {
+                "en": "The buzzing noise that the Sonic Screwdriver makes."
+            }
+        },
+        {
+            "id": "w_779872dd4036f5c8eed943d8b825c46443df8ffe",
+            "content": {
+                "en": "The Celestial Toymaker&apos;s \"plaything\"."
+            }
+        },
+        {
+            "id": "w_d3552462a654cfc710131fa86faa974c5d62d274",
+            "content": {
+                "en": "The dhideousness that is Raxacorico-fallaptorious."
+            }
+        },
+        {
+            "id": "w_47e363e10cb3daa0593cfd998ef3ce55fe7803b7",
+            "content": {
+                "en": "The Doctor going back in time to solve a REAL problem: \"Twilight\"."
+            }
+        },
+        {
+            "id": "w_4efe0f2baf943d721164354ac37361dc88c66449",
+            "content": {
+                "en": "The Doctor having a chance encounter with a couple of 80s metalheads."
+            }
+        },
+        {
+            "id": "w_ff175e8941024988f74d4435a3ccf4e94237a77f",
+            "content": {
+                "en": "THE END OF TIME ITSELF!"
+            }
+        },
+        {
+            "id": "w_93db72d4912762df87b8cf6024f1916b650f036a",
+            "content": {
+                "en": "The fuck machine dungeon of the Cybermen."
+            }
+        },
+        {
+            "id": "w_bc7dde7a7f505d83e811d9224201af7c400529f3",
+            "content": {
+                "en": "The hideousness that is Raxacoricofallapatorious."
+            }
+        },
+        {
+            "id": "w_59b525a33624f5d37b6ce102bf882f895c3c2188",
+            "content": {
+                "en": "The Mary Jane Adventures."
+            }
+        },
+        {
+            "id": "w_e9a34599f7377c816591596b06924d4d66ce2837",
+            "content": {
+                "en": "The Master singing \"Bad Case of Loving You.\""
+            }
+        },
+        {
+            "id": "w_36832c7faf8016ba4622c30528526a2970b7997b",
+            "content": {
+                "en": "The Master, baiting \"&ldquo; The doctor into a trap."
+            }
+        },
+        {
+            "id": "w_96356f7988d494c8572930f7c93cc9e90fbe7897",
+            "content": {
+                "en": "The Master, baiting the doctor into a trap."
+            }
+        },
+        {
+            "id": "w_0f33f50f7b93568c11326da490793eea30a6a905",
+            "content": {
+                "en": "The poor costume decisions that were made in the 1970s."
+            }
+        },
+        {
+            "id": "w_81cf3b61c481aea79c13d26bfc24181daf91e2ba",
+            "content": {
+                "en": "The poor costume decisions that were the 1970's."
+            }
+        },
+        {
+            "id": "w_adf0d42ea1a32f1238e0f9863a22c1bf99093157",
+            "content": {
+                "en": "The poor decision that is having a staring contest with a weeping angel."
+            }
+        },
+        {
+            "id": "w_eef875a8ac24b86b7f616eef3d417946d3c7d133",
+            "content": {
+                "en": "The Silence."
+            }
+        },
+        {
+            "id": "w_81c223f427e9252f4016ea044ceb44a9c65a39c0",
+            "content": {
+                "en": "Tom Baker, in nothing but a scarf."
+            }
+        },
+        {
+            "id": "w_20928a960ffeaa61287861836a1e353a8def5012",
+            "content": {
+                "en": "Walking in on Jack Harkness doing your mom. And your dad."
+            }
+        },
+        {
+            "id": "w_f76fc91c84887bd7691eeda2aa3c2f6e02889203",
+            "content": {
+                "en": "Wanting to punch that teeny-bopper Whovian that&apos;s butthurt the new Doctor isn't in his twenties."
+            }
+        },
+        {
+            "id": "w_71eabc8c65d1be1b968596f5b2ff539428e6b36e",
+            "content": {
+                "en": "Wishing you could regenerate."
+            }
+        },
+        {
+            "id": "w_19f01743fd80e5cc96a881fdc5570f17660ff2de",
+            "content": {
+                "en": "Your dyslexic friend that wants you to come watch a marathon of \"Doctor How\"."
+            }
+        },
+        {
+            "id": "b_a4e4ccf17e753ae4ffd28fbe28575d6d6354352f",
+            "content": {
+                "en": "According to the Daleks, ______ is better at ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_45271bbd666d809e5715b6c3221c698b1252cac1",
+            "content": {
+                "en": "Adepose were thought to be made of fat, but are really made of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d98427d6732a0a3cabe704bfd2c4ef4eedff458e",
+            "content": {
+                "en": "Adipose were thought to be made of fat, but are really made of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f1929ebc1d19a750a8fee5e1420f5e8ce2c14f9",
+            "content": {
+                "en": "After we watch an episode, I've got some ______-flavored Jelly Babies to hand out."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f7c28986f3520ce12d7120210b4633c60ceb52d",
+            "content": {
+                "en": "At this new Doctor Who theme restaurant, you can get a free ______ if you can eat a plate of bangers and mash in under 3 minutes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9adbec13549018788ee2a94bbd5b4a8c2f46e51b",
+            "content": {
+                "en": "At this new Doctor Who themed restaurant, you can get a free ______ if you can eat a plate of bangers and mash in under 3 minutes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cab3ecc34f7a23710e97760d093be7be5a412467",
+            "content": {
+                "en": "Boweties are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_366817a9124f81eca5b394dab085a74c9acfa8dc",
+            "content": {
+                "en": "Bowties are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd32e1287b05b13fd0cbc71987d974ad7fc6b33a",
+            "content": {
+                "en": "FUN FACT: The Daleks were originally shaped to look like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa32962e5641d6fd6aa2b249cfd1ec9bb1cb1b96",
+            "content": {
+                "en": "I hear the next thing that will cause The Doctor to regenerate is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d4690412544ae811bf6732785e09b9b22f55f725",
+            "content": {
+                "en": "I hear the ntext theing that will cause The Doctor to regenerate is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fc2abed889b804a7af4f73e94d2d8a8d7bca71d4",
+            "content": {
+                "en": "I think the BBC is losing it. They just released a Doctor Who-themed ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ec55be93ecd5e7f0c91147a99e8251baa3f9504",
+            "content": {
+                "en": "I was okay with all the BAD WOLF graffiti, until someone wrote it on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d02b0141d1304cd0680cb859121325e5491d0bc5",
+            "content": {
+                "en": "I'd give up ______ to travel with The Doctor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ff2fce3942611ec0ef5ecad7f54727e41804201",
+            "content": {
+                "en": "In all of time and space, you decide that ______ is a good choice?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c89abead16658216bd2c0460c0dcd4cf4644a501",
+            "content": {
+                "en": "It&apos;s a little-known fact that if you send a ______ to the BBC, they will send you a picture of The Doctor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccf1320877060e9bc80260d223723298cb932acb",
+            "content": {
+                "en": "Jack Harkness, I can't leave you alone for a minute! I turn around and you're trying to seduce ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7cd42418860f50698c48d534ad9e5822796c71c4",
+            "content": {
+                "en": "Old and busted: \"EXTERMINATE!\" New hotness: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_48bbbfeb3db1aad81c61b40cf3471c1783df23d8",
+            "content": {
+                "en": "Originally, the 50th anniversary special was going to have ______ appear, but the BBC decided against it in the end."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_96c634aeda87cf6963cd67f25791e3a4a57d87b8",
+            "content": {
+                "en": "the announced a LEGO Doctor Who game! Rumor has it that ______ is an unlockable character."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67cb0019f296118690e31e64654d434bb88f1247",
+            "content": {
+                "en": "The boice chip of one of the Cybermen has malfunctioned. Instead of saying \"DELETE!\", it now says \"______\" ."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a6dbcc86ad0285bd27fed055e70fd45d9b9a7150",
+            "content": {
+                "en": "The Chameleon circuit is working again... somewhat. Instead of a phone booth, the TARDIS is now a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f1c251254378566bf2a3d41c6a1d3a7359c40da",
+            "content": {
+                "en": "The Doctor did it! He saved the world again! This time using a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b933b8e060c74003c7e272ff5165f48a8931cd77",
+            "content": {
+                "en": "The next Doctor Who spin-off is going to be called ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ec22a9f1c19e278208e1b47d627a61bbfacf0e5c",
+            "content": {
+                "en": "The voice chip of one of the Cybermen has malfunctioned. Instead of saying \"DELETE!\", it now says \"______\"."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_49dcacaa7527197033ff66032d9202938ce5137f",
+            "content": {
+                "en": "There&apos;s a new dance on Fallifrey, it&apos;s called the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7d7982f9254a7196ce52e9375869d5adc37dc6d4",
+            "content": {
+                "en": "There&apos;s a new dance on Gallifrey, it&apos;s called the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddf901d8425a3ebdf23de47371a8e60319e40ed9",
+            "content": {
+                "en": "They announced a LEGO Doctor Who game! Rumor has it that ______ is an unlockable character."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eb90b86e2588265526ad49438c0ef7636232c0b4",
+            "content": {
+                "en": "They found some more lost episodes! They were found in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f169627079919bec925373730f26c52dab0844a1",
+            "content": {
+                "en": "What&apos;s going to be The Doctor&apos;s new catch phrase."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d9bf09d1e2de653ff76b8d5b72aebad32e1ec583",
+            "content": {
+                "en": "Who is going to be The Doctor&apos;s next companion?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_24e0bb1d6af6ca2b1b03389b14074dc5ff68c7e3",
+            "content": {
+                "en": "Who should be the 13th doctor?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bdd31689be01baf32b0b600baf98b5a5e62b1513",
+            "content": {
+                "en": "Wibbly-wobbly timey-wimey ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ce07485ab632a659dde5294fba29b4bc83c4867f",
+            "content": {
+                "en": "______ was sent to save ______."
+            },
+            "pick": 2
+        }
+    ]
+}

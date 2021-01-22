@@ -1,0 +1,51 @@
+{
+    "id": "American_Horror_Story_Cards",
+    "name": "American Horror Story Cards",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_a62fe1ab55964d14cd0a10e89dfa2dcc16610016",
+            "content": {
+                "en": "Dandy Mott&apos;s tidy whities."
+            }
+        },
+        {
+            "id": "w_a9d69d3f921ee2fe84332ad8e06cafb4c8e75d5f",
+            "content": {
+                "en": "Feeling like you are doomed for all of eternity to be trapped in an unhappy adulterous relationship,working on a goddamn house. Which will never be just the way you want it."
+            }
+        },
+        {
+            "id": "w_2e80f86b5f150d9a541db3ed69c17cb59166306e",
+            "content": {
+                "en": "Kathy Bates sporting a biker beard."
+            }
+        },
+        {
+            "id": "w_b55c2a84522c5c870b17a7ce0e7c71ddc3d44969",
+            "content": {
+                "en": "Masturbating and following it up with an ugly cry."
+            }
+        },
+        {
+            "id": "w_cb67f0b632aea398114cf7596ce0223fe7025dbb",
+            "content": {
+                "en": "The ancient french maid who is sexy in your eyes."
+            }
+        },
+        {
+            "id": "w_b26b1ec935507711e1221d77f67db8f5b75f7880",
+            "content": {
+                "en": "The desperate, old, wrinkly, washed up Elsa Mars."
+            }
+        },
+        {
+            "id": "w_446b748fb5a8b1014d20c4867bf659f9336a5ac2",
+            "content": {
+                "en": "The ever so considerate Edward Mordrake."
+            }
+        }
+    ]
+}

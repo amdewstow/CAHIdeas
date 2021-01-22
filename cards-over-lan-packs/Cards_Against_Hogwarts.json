@@ -1,0 +1,519 @@
+{
+    "id": "Cards_Against_Hogwarts",
+    "name": "Cards Against Hogwarts",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_cc6a2d0f184c6181d0402c89160ae477e962114d",
+            "content": {
+                "en": "A 13-inch wand."
+            }
+        },
+        {
+            "id": "w_48c056f933068198b90ec204688d3d2d130e4c3c",
+            "content": {
+                "en": "A Boggart that looks like a herpes-riddled vagina."
+            }
+        },
+        {
+            "id": "w_15272161c4c797b8adbc73f08d66deb45e50ed09",
+            "content": {
+                "en": "A dementor&apos;s dong."
+            }
+        },
+        {
+            "id": "w_c8287e91d2c4a0c312c28e53be884d9e3f64dfde",
+            "content": {
+                "en": "A Grumpy Cat patronus."
+            }
+        },
+        {
+            "id": "w_6cca9c95f8923ec1ebf2a029be902b50baf6cf3a",
+            "content": {
+                "en": "A rejection letter from Hogwarts."
+            }
+        },
+        {
+            "id": "w_ea7af8653f5cd1dd81c7e68cfa8b2d9f38fe1b36",
+            "content": {
+                "en": "A troll in the sex dungeon."
+            }
+        },
+        {
+            "id": "w_a722a0fa58407d09fc22696cbc58d747067dcd93",
+            "content": {
+                "en": "A Very Potter Musical."
+            }
+        },
+        {
+            "id": "w_945daf8987d968455fb139491b676cde13f354d2",
+            "content": {
+                "en": "A wizarding school in the middle of fucking nowhere."
+            }
+        },
+        {
+            "id": "w_629d12bbf8e92b1a7424dac1bd9754b77bdeb598",
+            "content": {
+                "en": "Casting Expelliarmus on her pants."
+            }
+        },
+        {
+            "id": "w_4a91d7f6e23875ff19af8e02bb80a5f4a8cc7de3",
+            "content": {
+                "en": "Catching the Golden Snatch."
+            }
+        },
+        {
+            "id": "w_95f6bdc53b97f6090ab7457dad8296327a8c3f90",
+            "content": {
+                "en": "Dobby the House Elf."
+            }
+        },
+        {
+            "id": "w_61fc97455c0d209ddf731b047810b34f024b701c",
+            "content": {
+                "en": "Draco Malfoy."
+            }
+        },
+        {
+            "id": "w_434fc6d4a9160a8d7372a98e6233147165445400",
+            "content": {
+                "en": "Drinking unicorn blood."
+            }
+        },
+        {
+            "id": "w_05d732e00dbf5c804d5529d7f4ad63bcba4961b1",
+            "content": {
+                "en": "Dumbledore&apos;s beard."
+            }
+        },
+        {
+            "id": "w_1eb921ab45aa78b40fdef7b079138afbb2fa3776",
+            "content": {
+                "en": "Dumbledore."
+            }
+        },
+        {
+            "id": "w_7826c0dd4bd4383644fb3d7c48ca5ec566736e9d",
+            "content": {
+                "en": "Emma Watson&apos;s 18th birthday."
+            }
+        },
+        {
+            "id": "w_8066c5ac4deb4d7041db9728035e83fb30f0c718",
+            "content": {
+                "en": "Flying a car into the Whomping Willow."
+            }
+        },
+        {
+            "id": "w_af7d7a201f989bbebe5b69654b87d622772681ea",
+            "content": {
+                "en": "Freeing your house elf by giving them a used condom."
+            }
+        },
+        {
+            "id": "w_e21bb241a393381cf6864928be2dbf822e854f4c",
+            "content": {
+                "en": "Getting so desperate that you drukenly make out with a dementor."
+            }
+        },
+        {
+            "id": "w_973a59ac59932877344699a0b6ca09de152a3886",
+            "content": {
+                "en": "Getting upset that the blue phone booth didn't get you to the Ministry of Magic."
+            }
+        },
+        {
+            "id": "w_8ba16a89b88ecab26ea9c12d33fd06ed877ef554",
+            "content": {
+                "en": "Gilderoy Lockhart shipping himself with himself."
+            }
+        },
+        {
+            "id": "w_b60925166ceb34ae98c5b4af33f8180aca83e1a3",
+            "content": {
+                "en": "Ginny Weasley."
+            }
+        },
+        {
+            "id": "w_4baab6927235f90f6d73c1c3c82ce075f12e5f84",
+            "content": {
+                "en": "Gryffindor."
+            }
+        },
+        {
+            "id": "w_5df35736c419441a687654811dc17fdeecbc02a5",
+            "content": {
+                "en": "Hagrid&apos;s pubic hair."
+            }
+        },
+        {
+            "id": "w_327e386287d3afa5c43bf6e58d1dc1b4cf5837b5",
+            "content": {
+                "en": "Hammione Granger"
+            }
+        },
+        {
+            "id": "w_987b285afca9ce4a925a16f22038a67e8345f37b",
+            "content": {
+                "en": "Harry Porker"
+            }
+        },
+        {
+            "id": "w_0efd405f359a8c3d40bb11fd51237ce429efe537",
+            "content": {
+                "en": "Harry Potter."
+            }
+        },
+        {
+            "id": "w_5b742a09624fd059baa605c9050e2c94b42af8e8",
+            "content": {
+                "en": "Having an asshole for an uncle."
+            }
+        },
+        {
+            "id": "w_a3b12d0206019a2254b6cacd852d834b81297ce4",
+            "content": {
+                "en": "Hermione Granger."
+            }
+        },
+        {
+            "id": "w_d6ffb3ce792f394ebf7b102d7760013b965c5ea9",
+            "content": {
+                "en": "Hufflepuff."
+            }
+        },
+        {
+            "id": "w_58cb36307acacd0298a97f97c7dc64e0db9f2efa",
+            "content": {
+                "en": "JK Rowling, crying at the things she&apos;s discovered on Tumblr."
+            }
+        },
+        {
+            "id": "w_f51cfecd28a197af273e0279e274dea4dda06d45",
+            "content": {
+                "en": "Lucius Malfoy&apos;s luscious locks."
+            }
+        },
+        {
+            "id": "w_82c530fe00bad391c1ac55983232999598c12b15",
+            "content": {
+                "en": "Luna Lovegood."
+            }
+        },
+        {
+            "id": "w_4464d84d777fe2a0197e6d01307d5de3092e226a",
+            "content": {
+                "en": "Making Myrtle moan."
+            }
+        },
+        {
+            "id": "w_e31644646a8a93fb3d25e8e534050c9980a50eea",
+            "content": {
+                "en": "Moody&apos;s mad eye."
+            }
+        },
+        {
+            "id": "w_441ed1941e0a1bbfc5041e52f06c986a33c2607b",
+            "content": {
+                "en": "Moony, Wormtail, Padfoot and Prongs."
+            }
+        },
+        {
+            "id": "w_014a51891b51e837bfe0f8d58d219c7c029a5dcf",
+            "content": {
+                "en": "Nearly Headless Dick."
+            }
+        },
+        {
+            "id": "w_172a76c35eb3b8e728c4e25f78696f7680489aa7",
+            "content": {
+                "en": "Neville Longbottom."
+            }
+        },
+        {
+            "id": "w_2a99d6d5fc5321126ca919bb8be4fe0ed5fbbb89",
+            "content": {
+                "en": "Nymphomaniac Tonks."
+            }
+        },
+        {
+            "id": "w_a13c2978c38b47497832db135377f5b4ec6c6080",
+            "content": {
+                "en": "Platform 9 &Acirc;&frac34;."
+            }
+        },
+        {
+            "id": "w_bd81f3cc704dee78857cbe311365af4c5a6a8aff",
+            "content": {
+                "en": "Polyjuice potion."
+            }
+        },
+        {
+            "id": "w_ae8ee1919d9f2efc4db489a25cdc1c0c33dfc1c7",
+            "content": {
+                "en": "Prof. McGonagall coughing up a hairball."
+            }
+        },
+        {
+            "id": "w_a7d638c9cae73ebe27587ccc7c8404664e279aa4",
+            "content": {
+                "en": "Ravenclaw."
+            }
+        },
+        {
+            "id": "w_d1cad5ee1a485e91f9353901fa58d039613bce7c",
+            "content": {
+                "en": "Ron Weasley."
+            }
+        },
+        {
+            "id": "w_442f002165f3b29e61e34f43845e85e48ca7cd5d",
+            "content": {
+                "en": "Saying the magic word."
+            }
+        },
+        {
+            "id": "w_23cc86640031eea34dce8363e8e8d3e3e80d72be",
+            "content": {
+                "en": "Seamus Finnigan."
+            }
+        },
+        {
+            "id": "w_bf50455e602cf0fda864d5804280b7031f7f1e77",
+            "content": {
+                "en": "Severus Snape."
+            }
+        },
+        {
+            "id": "w_400ea417d890482ea6fbfc90947053c21207c141",
+            "content": {
+                "en": "Shit flavored jellybeans."
+            }
+        },
+        {
+            "id": "w_c202c486c55e19042a9f09c7007ee96f3eda3504",
+            "content": {
+                "en": "Slytherin."
+            }
+        },
+        {
+            "id": "w_56c00b8465e78f4925c1b79eb070f957bd42f7f1",
+            "content": {
+                "en": "Snape&apos;s cloak."
+            }
+        },
+        {
+            "id": "w_dc60d9c2668b5a6a4656dc034b9c3c2bc124cf86",
+            "content": {
+                "en": "Some Muggle device that vibrates."
+            }
+        },
+        {
+            "id": "w_96c6f82325c25be2febc65a7b14219b23a0db625",
+            "content": {
+                "en": "Spinching a squib."
+            }
+        },
+        {
+            "id": "w_8f7f0c3b91e037fcf5aafc01250ce03691a5c138",
+            "content": {
+                "en": "Swishing and flicking."
+            }
+        },
+        {
+            "id": "w_69532c53ff2c2cdd55a25220d81c0d9b24f40f76",
+            "content": {
+                "en": "Talking dirty in Parseltongue."
+            }
+        },
+        {
+            "id": "w_0be4ddbcb69a634256474f4107d782b5a28b4a0a",
+            "content": {
+                "en": "The Chamber of Secrets."
+            }
+        },
+        {
+            "id": "w_d1892be020f932f453da5ac0353e1a222e09f6bd",
+            "content": {
+                "en": "The Floo Network."
+            }
+        },
+        {
+            "id": "w_f9dafdd48765d646326eddf21f03eeb2c20676d8",
+            "content": {
+                "en": "The ghetto that is the Weasley house."
+            }
+        },
+        {
+            "id": "w_6d604f30aa9b3be9f5d437fc6cc4111059962690",
+            "content": {
+                "en": "The Marauder&apos;s Map."
+            }
+        },
+        {
+            "id": "w_692aa279067b5fe8af19546ac24a74db0d52236a",
+            "content": {
+                "en": "The Nimbus 2000."
+            }
+        },
+        {
+            "id": "w_06c05df1cdf90db5be4fc55bf7c35ab72c6ffeb8",
+            "content": {
+                "en": "The Potter Puppet Pals."
+            }
+        },
+        {
+            "id": "w_fea95ba9e536ace520bf4aa85c450e9dc232bf36",
+            "content": {
+                "en": "The Sorcerer&apos;s kidney stone."
+            }
+        },
+        {
+            "id": "w_827bc5c9d4b45f4206c07f82756119831d011e7a",
+            "content": {
+                "en": "Voldemort&apos;s snake."
+            }
+        },
+        {
+            "id": "w_6d4aaf18015e8cee015aa654d6af7954236daf09",
+            "content": {
+                "en": "Waking up with a lightning bolt shaped scar on your cock."
+            }
+        },
+        {
+            "id": "w_5103e9dd685d2ae5459cf3a0c322967beb8bb95c",
+            "content": {
+                "en": "Wanting to punch Unbridge in her cunt."
+            }
+        },
+        {
+            "id": "b_66ffe616e661a627bdcd778ad7e4eaf09b351fc8",
+            "content": {
+                "en": "Combine a pinch of ______, and a pint of ______, and you have made your first ______ potion."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_38d9438fca93f011bf7dae87723c27c513e5b67d",
+            "content": {
+                "en": "Grasp your ______ between your hands and say \"Up!\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55ed10b8709a5699b1354e963131122cb65e6e59",
+            "content": {
+                "en": "Hagrid is insisting that this ______ is his newest pet."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5cb9e1da698bf0246b0da15dfbcea0f892e082bd",
+            "content": {
+                "en": "Harry Potter and the ______ of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c93d4b94e327421e2b7c0324a1552342c46a0000",
+            "content": {
+                "en": "I don't know how I got it, but this ______ shaped scar on my forehead is pretty wicked."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c8faf7833b667311eb75758ea2ba94b652ae210e",
+            "content": {
+                "en": "I missed it. What did my Patonus look like?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_970ce0aa72f3dcac78392e2655ed9efe0ad7bb0a",
+            "content": {
+                "en": "I solemnly swear that I am up to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bcc536d67862b2ec892d7096fd5ab19186fe4adc",
+            "content": {
+                "en": "I whish I could cast Avada Kedavra on ______\/"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd25a17924c594f8815f25d1a8e005cbd2e14e8b",
+            "content": {
+                "en": "If you want to know what a man&apos;s like, take a good look at how he treats his ______, and not his ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_51b94c3dcaaa62716cb493b5e71aa68043de8c94",
+            "content": {
+                "en": "Master has given Dobby a ______! Dobby is a free Elf!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_157a9cdf847e58d608a42ff80365363a758d684f",
+            "content": {
+                "en": "Not even Veritaserum will get me to tell the truth about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7ed1e3ee1875fa2c9db2c58db7524264c3977ea",
+            "content": {
+                "en": "Red hair and a hand-me-down robe. You must be a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a1cf246332d8eae76d80233b72d3bfe0236257a",
+            "content": {
+                "en": "Riddkulus! I just turned that Boggart into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3856e0c74ce78ac1c4c11cbc3b25ade2789bcdfd",
+            "content": {
+                "en": "Spoiler! ______ kills ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b8f305d1d602314fd3c214f26def82028388ed5f",
+            "content": {
+                "en": "What did you do to make our house loos 100 points?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5b82432281d0755aa1f769bb635d7b915e658930",
+            "content": {
+                "en": "What was really under Quirrel&apos;s turban?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9daf07e6d6b7d7eb4eeab874304fe7ca932a192d",
+            "content": {
+                "en": "Who should be the next Defense Against The Dark Arts teacher?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5822206e830979f2e70e0143d8796b0311f2bd8a",
+            "content": {
+                "en": "______ can be found in the darkest of places."
+            },
+            "pick": 1
+        }
+    ]
+}

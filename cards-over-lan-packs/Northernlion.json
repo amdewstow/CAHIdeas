@@ -1,0 +1,1736 @@
+{
+    "id": "Northernlion",
+    "name": "Northernlion",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_9b5ff4195c5fac31d9952e8dc1221077054a1d5e",
+            "content": {
+                "en": "#MikeBithell."
+            }
+        },
+        {
+            "id": "w_d3c67360c9109f1829b7ffa53dec37edf2470f3a",
+            "content": {
+                "en": "#ShotsFired."
+            }
+        },
+        {
+            "id": "w_6e96bce3c1ae74e0d74ae300c2201e1f09583699",
+            "content": {
+                "en": "\/r\/Letsplay."
+            }
+        },
+        {
+            "id": "w_4d4a2c17da60afa5f36a5ab611a4b993a4b62f71",
+            "content": {
+                "en": "\/r\/sloths."
+            }
+        },
+        {
+            "id": "w_3b338642df9a8673c8f5d9d938fa6c16533229c3",
+            "content": {
+                "en": "A Bane impression."
+            }
+        },
+        {
+            "id": "w_6e087348adccc5fd3fcb92cbef1288d9d33ac86a",
+            "content": {
+                "en": "A beef swarm."
+            }
+        },
+        {
+            "id": "w_02b94b5c3abd376379f01d58a3b34c595942b0d9",
+            "content": {
+                "en": "A big wet pink laser sword."
+            }
+        },
+        {
+            "id": "w_9fb040040d755f8e0cd3523b20ea0fc590d6ec01",
+            "content": {
+                "en": "A brief moment of aptitude."
+            }
+        },
+        {
+            "id": "w_b1e223efc51f77f2dd2c5a317b151b4fbb2adf0a",
+            "content": {
+                "en": "A bunch of jabronies."
+            }
+        },
+        {
+            "id": "w_0e5fee921b24b6375df719b33e631a7ca01c9010",
+            "content": {
+                "en": "A butt egg."
+            }
+        },
+        {
+            "id": "w_e15e765860c7b06fe21e7a4db3e4804c51adcdb5",
+            "content": {
+                "en": "A butt pooping upwards an egg."
+            }
+        },
+        {
+            "id": "w_f7efa015281fe6717fef4631cfb423c6189ac200",
+            "content": {
+                "en": "A delicious baby."
+            }
+        },
+        {
+            "id": "w_f4bddd08832e6d3269edab3cfa9f828433a55015",
+            "content": {
+                "en": "A docking sleeve."
+            }
+        },
+        {
+            "id": "w_39323950b556f71dbec05827c8d0bc02bd06b2c3",
+            "content": {
+                "en": "A DraculaFetus animation."
+            }
+        },
+        {
+            "id": "w_0937cfbeca1d8f8eebcf6acd6555aa55ea3e6223",
+            "content": {
+                "en": "A failed challenge run."
+            }
+        },
+        {
+            "id": "w_ce0a0eb1d8bc391f68addd4b69f8f2c4cc6898c5",
+            "content": {
+                "en": "A lemon mishap."
+            }
+        },
+        {
+            "id": "w_c5e7105a09c9b37a97abc76b2da890e1ba3dbeae",
+            "content": {
+                "en": "A little bit of added defense."
+            }
+        },
+        {
+            "id": "w_7d1ddd55cee3642d5245d6c9b5210a87936937d5",
+            "content": {
+                "en": "A mile-long penis."
+            }
+        },
+        {
+            "id": "w_d254c47f1e52f97baf5e30a1bbba3995e40ff733",
+            "content": {
+                "en": "A motherfucker."
+            }
+        },
+        {
+            "id": "w_322ca9a13d5376b0948cf8fcced535ec54b17e00",
+            "content": {
+                "en": "A profile pic that looks like a dick and balls."
+            }
+        },
+        {
+            "id": "w_684d8fd50affe02baa5593253fdfbb4c36d8f3a3",
+            "content": {
+                "en": "A street cleaning simulator."
+            }
+        },
+        {
+            "id": "w_feb4e75f0cf1df6b7aa17878254ff7a33b99957a",
+            "content": {
+                "en": "A tactical backflip."
+            }
+        },
+        {
+            "id": "w_fb1f24582423c44e6aef8181f64df40ecf1446cf",
+            "content": {
+                "en": "A total scumbag."
+            }
+        },
+        {
+            "id": "w_1e4e8d6547d201262b393aab790d97759e5adc3c",
+            "content": {
+                "en": "A urination break."
+            }
+        },
+        {
+            "id": "w_8c9b87767626576b664f2e69f8f617b1c455eb27",
+            "content": {
+                "en": "A water supply full of leeches."
+            }
+        },
+        {
+            "id": "w_6c857c7d372064eb8512237f4e6fb2b351301cd2",
+            "content": {
+                "en": "AlpacaPatrol."
+            }
+        },
+        {
+            "id": "w_d89822e9805706a3f07d65038e70033d91e4baec",
+            "content": {
+                "en": "An old man carrying a box of glass down stairs."
+            }
+        },
+        {
+            "id": "w_14225e872e464b6ae94380ac3b0c8c536b9baa4f",
+            "content": {
+                "en": "Anything from http:\/\/www.thenorthernlionstory.com\/."
+            }
+        },
+        {
+            "id": "w_2ef51b0e20bd8526f75f9defc4151f073f56ddc2",
+            "content": {
+                "en": "Banana bread."
+            }
+        },
+        {
+            "id": "w_e1fcb0c313844e42845df187015825fd600abda7",
+            "content": {
+                "en": "Beating it on camera."
+            }
+        },
+        {
+            "id": "w_bb9e49bee63dc090605ac7d61f086e122adca40b",
+            "content": {
+                "en": "Being terrible at games."
+            }
+        },
+        {
+            "id": "w_1d974e3b6339e3e970a74f29041a2004fe970a30",
+            "content": {
+                "en": "Bejeweed."
+            }
+        },
+        {
+            "id": "w_8386cb9f16d74d50eaf2006e4c90af2595a08a33",
+            "content": {
+                "en": "Big Hat Logan."
+            }
+        },
+        {
+            "id": "w_9c79b66e806437a4c3c556078ba234ef941cce01",
+            "content": {
+                "en": "Blondes, brunettes, and redheads."
+            }
+        },
+        {
+            "id": "w_8c81407c7baa1ee976af915532bdaaf347a7e0e9",
+            "content": {
+                "en": "Blue Baby."
+            }
+        },
+        {
+            "id": "w_5a1696e53404a9d83dfb7d644bb20fcc246651a4",
+            "content": {
+                "en": "BOOYAH!"
+            }
+        },
+        {
+            "id": "w_60459c185a415a12d845c550fff21b5014a36173",
+            "content": {
+                "en": "Bow to your sensei!"
+            }
+        },
+        {
+            "id": "w_692914d2f882d4f5439ebd11a3efd04d0e3f69ca",
+            "content": {
+                "en": "Brimstone."
+            }
+        },
+        {
+            "id": "w_861129dfe81aae6c4784ebb9234b4ed714093e6b",
+            "content": {
+                "en": "Butt meat."
+            }
+        },
+        {
+            "id": "w_a99ba5882be9560ff5790dd46fe8b567fca1977c",
+            "content": {
+                "en": "Butterjail."
+            }
+        },
+        {
+            "id": "w_38e654702df6b6e51da04cc4a13afc07693f3f08",
+            "content": {
+                "en": "Checking the wiki."
+            }
+        },
+        {
+            "id": "w_aee5c57996a7bd3d08aab7c27925ecf5fee7936b",
+            "content": {
+                "en": "Cheeseysaurus Rex."
+            }
+        },
+        {
+            "id": "w_c6397a08c7b6678c932be0ea9c018e905b19c4bd",
+            "content": {
+                "en": "Childlike bukakke."
+            }
+        },
+        {
+            "id": "w_80963da851dc8097e1d897149af9362113d9dcba",
+            "content": {
+                "en": "Classic Northernlion."
+            }
+        },
+        {
+            "id": "w_961ae8796f1abf2bd3e2b66a77bca2ba0f22bcb7",
+            "content": {
+                "en": "Coming on Milhouse."
+            }
+        },
+        {
+            "id": "w_2c57762b5588aca90c2ef1cd5a7b97637d48b3f4",
+            "content": {
+                "en": "Corner fucking."
+            }
+        },
+        {
+            "id": "w_40538ed47004fa526ab5b21f14bf5b436f65c11c",
+            "content": {
+                "en": "Crazy Mike."
+            }
+        },
+        {
+            "id": "w_00dfaf0d2e328f1b3336e6bb568ac54219f91b53",
+            "content": {
+                "en": "Cross-dimensional fucking."
+            }
+        },
+        {
+            "id": "w_b7173273e979886a4527262d30fac991db48e61c",
+            "content": {
+                "en": "Dang it, Bobby!"
+            }
+        },
+        {
+            "id": "w_fd5f562943eae2f4fa34800dcdeee2bedbb1d057",
+            "content": {
+                "en": "Dark holes."
+            }
+        },
+        {
+            "id": "w_6b389f2a26225ddaf7fca8fbfcd9e0c73e418eec",
+            "content": {
+                "en": "Detroit Dock City."
+            }
+        },
+        {
+            "id": "w_4dacaaad4484e9ce84c7030d33f340fcb906b584",
+            "content": {
+                "en": "Docking."
+            }
+        },
+        {
+            "id": "w_d5b0e1c3e1a997ffa26fd42d20ab1eee39d4e07f",
+            "content": {
+                "en": "DockLeeSmile."
+            }
+        },
+        {
+            "id": "w_01bd08876d5cc184727b22e0f8c0d3f242c23e07",
+            "content": {
+                "en": "DOTA 2."
+            }
+        },
+        {
+            "id": "w_e6be8cb5bf201b8ef94042ba436593c29c868fb9",
+            "content": {
+                "en": "Drinkable fire."
+            }
+        },
+        {
+            "id": "w_22ecc20d53d2302a403d2fa74e2396d50b64d38e",
+            "content": {
+                "en": "Dung pies."
+            }
+        },
+        {
+            "id": "w_52a4a2e87f7d009b9f5aadfcb7b77d4ef75a4af6",
+            "content": {
+                "en": "Dying in a hang gliding accident."
+            }
+        },
+        {
+            "id": "w_f9682023cc15e94d167f81799a55b049fd06341e",
+            "content": {
+                "en": "Excuse me?"
+            }
+        },
+        {
+            "id": "w_602fbaa4677fb085a29f160153c37d540e93c256",
+            "content": {
+                "en": "Eyeless ooze guys."
+            }
+        },
+        {
+            "id": "w_ca23334e84927ef9dd66d21858ee2d911c078d2b",
+            "content": {
+                "en": "Falling down the stairs with a bag full of glass."
+            }
+        },
+        {
+            "id": "w_b9cc360da49867c12c8e7662abd50af9e3e16297",
+            "content": {
+                "en": "Fat Robert Downey Jr."
+            }
+        },
+        {
+            "id": "w_659026efdc2c3cd6276b9b462ff9214906011419",
+            "content": {
+                "en": "Feline eugenics."
+            }
+        },
+        {
+            "id": "w_7f3dbb332f7bfc2dbdce290957c4fc61c95b7988",
+            "content": {
+                "en": "Fuck tables."
+            }
+        },
+        {
+            "id": "w_aa5e8dd8d0ce359903a5cdd23984c0da774cc568",
+            "content": {
+                "en": "Fucking during a Diphtheria epidemic."
+            }
+        },
+        {
+            "id": "w_5c6999ee7f73fd2380e90e31d3a55a84baaa2963",
+            "content": {
+                "en": "Garglebutts."
+            }
+        },
+        {
+            "id": "w_5dfd50e2ccc3217ede94d7f0fa727de00b38ea52",
+            "content": {
+                "en": "Getting corner fucked."
+            }
+        },
+        {
+            "id": "w_d18e5cf5da08201e9067f88446502d128b9430d9",
+            "content": {
+                "en": "Getting wood."
+            }
+        },
+        {
+            "id": "w_6b3c6cb3557552dc2ae0437ae9ae6b357ec37e6f",
+            "content": {
+                "en": "Greed."
+            }
+        },
+        {
+            "id": "w_8680e15d61528754a2483b9ba64c84d0aa0eb763",
+            "content": {
+                "en": "Green9090."
+            }
+        },
+        {
+            "id": "w_b5bf56e6ca820406836d5f60b02a0a1fbf84794c",
+            "content": {
+                "en": "Harry Potter and the Chamber of a Salty Surprise."
+            }
+        },
+        {
+            "id": "w_6eb9a038565cffcee3b53e380e27e6ffbaac4800",
+            "content": {
+                "en": "Hookers, blow, and JSmithOTI."
+            }
+        },
+        {
+            "id": "w_7557f643b1681d66cb17fc02b0121adfb4490dbd",
+            "content": {
+                "en": "Infomercials."
+            }
+        },
+        {
+            "id": "w_ad1ee9728dd109e84cebaf4d3ae4ea193b948335",
+            "content": {
+                "en": "John Madden."
+            }
+        },
+        {
+            "id": "w_1a5e5f3ea6bb3bdc3f9ab487f42836a3809908be",
+            "content": {
+                "en": "Josh&apos;s washing machine."
+            }
+        },
+        {
+            "id": "w_78b2efb54ba3bc2006342c9f58396dfd69464b90",
+            "content": {
+                "en": "JSmith&apos;s laundry."
+            }
+        },
+        {
+            "id": "w_15c839888320f9bb22d981d6daf1774da4bb6280",
+            "content": {
+                "en": "JSmith&apos;s salty nuts."
+            }
+        },
+        {
+            "id": "w_2b8649fb39ab867bd14f9b70bfc5c290800c6316",
+            "content": {
+                "en": "JSmithOTI."
+            }
+        },
+        {
+            "id": "w_70a5136831a0b9879871ee58a428aaca6150dca9",
+            "content": {
+                "en": "Kate&apos;s Mario Party skills."
+            }
+        },
+        {
+            "id": "w_79c083f0d4699a88d64bd71f07392779a99d3bb0",
+            "content": {
+                "en": "Krazy Mike doing a backflip, throwing a talking nut, and chanting \"Hello!\""
+            }
+        },
+        {
+            "id": "w_4d10b2038f37b9f5c4ae16549d7a48e14ee95b67",
+            "content": {
+                "en": "Krazy Mike."
+            }
+        },
+        {
+            "id": "w_1c5a22da04c663ca0ddd43cc1b3623cba4573a31",
+            "content": {
+                "en": "Laura Croft."
+            }
+        },
+        {
+            "id": "w_5fa1ec2dceea5b37bc51ded719bf9262ff5465af",
+            "content": {
+                "en": "Like you, but not rogue-like you."
+            }
+        },
+        {
+            "id": "w_d196436cfbd4c0424e436ddcf6bbda7d908b2aa3",
+            "content": {
+                "en": "Losing to Monstro after 300 hours of experience."
+            }
+        },
+        {
+            "id": "w_a48cfc3aaf216d40a6adbbd1f17b4163069bff30",
+            "content": {
+                "en": "Losing to Quelaag 12 times in 72 minutes."
+            }
+        },
+        {
+            "id": "w_2c4122816029e131250eef030c8d48618297a5c6",
+            "content": {
+                "en": "Magic: The Gathering."
+            }
+        },
+        {
+            "id": "w_4dde30bae5217f74bd687bcbb33c38f67fc84777",
+            "content": {
+                "en": "Maple syrup."
+            }
+        },
+        {
+            "id": "w_e2b30244abb96efdd3484552f7e2baf083c002f3",
+            "content": {
+                "en": "Michael Caine&apos;s spider collection."
+            }
+        },
+        {
+            "id": "w_ec6ded1daaafdd238a5063288efa5483688641d5",
+            "content": {
+                "en": "Michaelalfox&apos;s love of cheese."
+            }
+        },
+        {
+            "id": "w_c81f9f27ff27891c596ff5e9feba4a0abdb38a1c",
+            "content": {
+                "en": "Michaelalfox&apos;s muscles."
+            }
+        },
+        {
+            "id": "w_d902ba3ab6029b3e1469632b7b143b2736c3e9b3",
+            "content": {
+                "en": "Michaelalfox."
+            }
+        },
+        {
+            "id": "w_2b24f44f287bbd7d7dad63f4bc4c4e93beb11c7c",
+            "content": {
+                "en": "Milking the poop for red hearts."
+            }
+        },
+        {
+            "id": "w_37863d3b50a2b837cb2398bf71e50608b80d65ba",
+            "content": {
+                "en": "Mom&apos;s knife."
+            }
+        },
+        {
+            "id": "w_8c5488d197734748631aefe423205d5c613cb2b1",
+            "content": {
+                "en": "Mom&apos;s pad."
+            }
+        },
+        {
+            "id": "w_4bec0af6e7ae3a878064a7dc53a5fbe1a229abd4",
+            "content": {
+                "en": "Monty."
+            }
+        },
+        {
+            "id": "w_9ffdb2d8b2e9bd33604b41ff1481a0e54bc2c41c",
+            "content": {
+                "en": "Motherfucking."
+            }
+        },
+        {
+            "id": "w_9f5deaba809097714fbabc7eff9e4845aa11a893",
+            "content": {
+                "en": "Mount Your Friends: Docking Edition."
+            }
+        },
+        {
+            "id": "w_2bb98d69ec4dd8da45fb11b835bdc7271bb18c1e",
+            "content": {
+                "en": "Nipple hair."
+            }
+        },
+        {
+            "id": "w_f0dd9a994b9079a1cb288957dff3bce5863d1caa",
+            "content": {
+                "en": "Northernlion&apos;s cancelled Assassin&apos;s Creed II let&apos;s play."
+            }
+        },
+        {
+            "id": "w_61cf0eafaf893ad9e24bc7f55e09938a109d8465",
+            "content": {
+                "en": "Northernlion&apos;s coffee maker."
+            }
+        },
+        {
+            "id": "w_2f092427e69c8f6b8c660f4b40a0162ad4574973",
+            "content": {
+                "en": "Northernlion&apos;s hair."
+            }
+        },
+        {
+            "id": "w_55ca800b23920356312e36d2484cab1230381a72",
+            "content": {
+                "en": "Northernlion&apos;s pooping album."
+            }
+        },
+        {
+            "id": "w_487602a6e81e06e4df92b92060c5b0172e7112fc",
+            "content": {
+                "en": "Northernlion."
+            }
+        },
+        {
+            "id": "w_4e51692e61b5f967a0b5ed5fd0390fb1b5a3e866",
+            "content": {
+                "en": "Not Satan, I promise."
+            }
+        },
+        {
+            "id": "w_20cd97794c2a9ab3494acb0e090c3ae544269ac0",
+            "content": {
+                "en": "Novelty Twitter accounts."
+            }
+        },
+        {
+            "id": "w_43a4323600a8f2de4021a0bbd43e353f6bfe914f",
+            "content": {
+                "en": "Ohm&apos;s mindgames."
+            }
+        },
+        {
+            "id": "w_334279a1fd3e7de4d864bddf09c21f8962ef68b1",
+            "content": {
+                "en": "Ohm, our god."
+            }
+        },
+        {
+            "id": "w_72676a5cee286e236437c17acd8f6dcd05acc7f9",
+            "content": {
+                "en": "Ohmsdrawings.tumblr.com."
+            }
+        },
+        {
+            "id": "w_cad2a3b665b7caaefea3bb401969be448686cde1",
+            "content": {
+                "en": "Ohmwrecker."
+            }
+        },
+        {
+            "id": "w_3f6bb6f4c1ea8ceff13cf61d08e5a28d560c9f66",
+            "content": {
+                "en": "Olmec."
+            }
+        },
+        {
+            "id": "w_428fc60ea55917562e286c1e89556dbfc5a6a04f",
+            "content": {
+                "en": "Patrick Dempsey thrusting violently into my midsection."
+            }
+        },
+        {
+            "id": "w_e5c90969a87f73beb971fb95a3bf62a8f1cf32ab",
+            "content": {
+                "en": "Permanent Polaroid invincibility."
+            }
+        },
+        {
+            "id": "w_562fa103aab07b0bbd98e52fac0ba05030708b82",
+            "content": {
+                "en": "Poison Mushroom."
+            }
+        },
+        {
+            "id": "w_a45e31fe8805736592627266453b31f0bb433c25",
+            "content": {
+                "en": "Pot magic."
+            }
+        },
+        {
+            "id": "w_8c38605483a15b5cc929b467e9b923fde449dbc7",
+            "content": {
+                "en": "Poutine-induced diabetes."
+            }
+        },
+        {
+            "id": "w_e3813aa748394e57ea2ab285c1e97fabdf80bfb4",
+            "content": {
+                "en": "Pretending youtube let&apos;s playing is a real job."
+            }
+        },
+        {
+            "id": "w_43aac9ac5210c4dfefcbde4843917d298cedfacf",
+            "content": {
+                "en": "Projectile annoyance."
+            }
+        },
+        {
+            "id": "w_5ccf540a5ddc927d963533b96ac431ce8981ea83",
+            "content": {
+                "en": "Putting your balls in her butt."
+            }
+        },
+        {
+            "id": "w_01cc8b7c87fa47b25d3ac226f5459839adbf9098",
+            "content": {
+                "en": "Puzzle platformers with rogue-like elements."
+            }
+        },
+        {
+            "id": "w_3a357c025b15bebe889102482a4715122d9c73b5",
+            "content": {
+                "en": "Quelaag&apos;s Furysword."
+            }
+        },
+        {
+            "id": "w_eb847919674725f5ca0b60f14bf2bb68b27f1c0f",
+            "content": {
+                "en": "Reddit."
+            }
+        },
+        {
+            "id": "w_4fe1c13ce9120b0b04d05f25f403cb8b6d4bc6f0",
+            "content": {
+                "en": "RedPandaGamer."
+            }
+        },
+        {
+            "id": "w_4239d3dadeaf94c59dd6eae4f5fffd3c1d437e89",
+            "content": {
+                "en": "Residue."
+            }
+        },
+        {
+            "id": "w_dac13ec7c76073d83c44b0c0fc6e9c8d88f19b53",
+            "content": {
+                "en": "RockLeeSmile."
+            }
+        },
+        {
+            "id": "w_7b5b2357dd92af2fcb208a821547e014a47aef67",
+            "content": {
+                "en": "Rogue-like likes."
+            }
+        },
+        {
+            "id": "w_e217ea852515e16172e959e41b895c90357f12ad",
+            "content": {
+                "en": "Roll Fizzlebeef."
+            }
+        },
+        {
+            "id": "w_15bb3911ed75292f97dbb85a891855bc3ff09df3",
+            "content": {
+                "en": "Ronald McDonald."
+            }
+        },
+        {
+            "id": "w_1b17e11357392aad51295cc066e83e22731b3282",
+            "content": {
+                "en": "Ryuka."
+            }
+        },
+        {
+            "id": "w_50a8ef5df2c9ca4574f49dc3bddb2ccef600f218",
+            "content": {
+                "en": "Setting the world on fire."
+            }
+        },
+        {
+            "id": "w_079788bd752822b17bf43d21e42a76a38efe9c00",
+            "content": {
+                "en": "Sex."
+            }
+        },
+        {
+            "id": "w_2a232f384eb7379461c91edc97d6cc886ed3dcaa",
+            "content": {
+                "en": "Shit happens."
+            }
+        },
+        {
+            "id": "w_a198c90fad34598f8a0d8f015c50784da8f98e62",
+            "content": {
+                "en": "Shooting the black guy."
+            }
+        },
+        {
+            "id": "w_f7a987c265ba1542f96e94d02b0ecc7e9fe34684",
+            "content": {
+                "en": "Shooting the poop."
+            }
+        },
+        {
+            "id": "w_6cdc691d6fa57114fcfec640ae1bee22564129c8",
+            "content": {
+                "en": "Solaire of Astora."
+            }
+        },
+        {
+            "id": "w_2037d94d8a3e1267dc518105f728cb2520798498",
+            "content": {
+                "en": "Soul level 1 invasions."
+            }
+        },
+        {
+            "id": "w_28fcc0321ec8528bc10d7df81761f91f85f3a91e",
+            "content": {
+                "en": "South Korea."
+            }
+        },
+        {
+            "id": "w_0bf33da5c5946c2835c2fb37ebbeddb28033b9d0",
+            "content": {
+                "en": "Spy Party racism."
+            }
+        },
+        {
+            "id": "w_b826d6328fd877ce5d92295207901bed5633a0a2",
+            "content": {
+                "en": "Steven Docking."
+            }
+        },
+        {
+            "id": "w_a1ccbeeb76fa05fc5200aa6821dd37abbac3911a",
+            "content": {
+                "en": "Stream lag."
+            }
+        },
+        {
+            "id": "w_52a495e30cf95efb15d85bb32085d8f5de384051",
+            "content": {
+                "en": "Striking fear into the hearts of your enemies."
+            }
+        },
+        {
+            "id": "w_ef7abf264ef117df38851badc9e621103b8da076",
+            "content": {
+                "en": "Stupid damage."
+            }
+        },
+        {
+            "id": "w_e68584e7f767bba7a348d9f4404e92a1f377f4d5",
+            "content": {
+                "en": "Talking nuts."
+            }
+        },
+        {
+            "id": "w_64f613f968dea7547414f383623d030fe139dce3",
+            "content": {
+                "en": "That damned HDPVR."
+            }
+        },
+        {
+            "id": "w_349be347bf3ff8da9b64dceaceb0fdeebc26b02f",
+            "content": {
+                "en": "The Anor Londo Archers."
+            }
+        },
+        {
+            "id": "w_4f900b7b21a16d66286da3999cfc9af5b343129c",
+            "content": {
+                "en": "The backroom casting couch."
+            }
+        },
+        {
+            "id": "w_a1ce8cd0cfe15df78fab42eff2a508a26590bcc3",
+            "content": {
+                "en": "The Binding of Isaac wiki."
+            }
+        },
+        {
+            "id": "w_4195bd8d30d91fd37c54884686bb7e23c77d50a2",
+            "content": {
+                "en": "The blue candle."
+            }
+        },
+        {
+            "id": "w_c5320069db5a32e873e79fcdb79d74f8febf920d",
+            "content": {
+                "en": "The Four Horsemen of The Apocolypse."
+            }
+        },
+        {
+            "id": "w_79be523bd8d071b0a1948651a0fdf840b32ffbc7",
+            "content": {
+                "en": "The fuck zone."
+            }
+        },
+        {
+            "id": "w_769f93027e514fd00dfca71a594fc6c92b5e7b26",
+            "content": {
+                "en": "The ghost of Ohmwrecker."
+            }
+        },
+        {
+            "id": "w_0dddf23998efef704d068d0a2b826491234945a7",
+            "content": {
+                "en": "The NLSS: drawing unwanted attention from the actual docking community."
+            }
+        },
+        {
+            "id": "w_388736bbacb1ddc18cbe2bae57c4e4974e9ecf58",
+            "content": {
+                "en": "The Northernlion Story."
+            }
+        },
+        {
+            "id": "w_8946be27120c69172baf00d16b6633cbb5d300dd",
+            "content": {
+                "en": "The notorious Grey&apos;s Anatomy let&apos;s play."
+            }
+        },
+        {
+            "id": "w_fa2d1595792bc12155d442134e9a34695fba5783",
+            "content": {
+                "en": "The Ozymandias head."
+            }
+        },
+        {
+            "id": "w_3eeaf86317fb747102eb60935cddb9412692902b",
+            "content": {
+                "en": "The saga of Krazy Mike."
+            }
+        },
+        {
+            "id": "w_0fcc2147468a2fd5443e0527ffe8af4910d24c98",
+            "content": {
+                "en": "The Thug of Porn."
+            }
+        },
+        {
+            "id": "w_804f49bec516b8c0ab3dd7157c63d10afdbadece",
+            "content": {
+                "en": "The USS Buttfucker."
+            }
+        },
+        {
+            "id": "w_3199bbb46e9ed869eec72b532c0bda80dfbf4340",
+            "content": {
+                "en": "The World Docking Champion."
+            }
+        },
+        {
+            "id": "w_01cd7b5581f3d6829330c72d31d2cd338c901b6d",
+            "content": {
+                "en": "This cat, I swear to god."
+            }
+        },
+        {
+            "id": "w_6ad44cd511e50349b820d667883efa82928be710",
+            "content": {
+                "en": "Thornforg."
+            }
+        },
+        {
+            "id": "w_20b7a1745ef1c85248e4426cd87d8f211dbe67d9",
+            "content": {
+                "en": "Travelling by bones."
+            }
+        },
+        {
+            "id": "w_eac0ccd1efedca7fac34f573d77dd1dcd0a84ee3",
+            "content": {
+                "en": "Type-C Tetris music."
+            }
+        },
+        {
+            "id": "w_90bee893db456f5c63b49d783bd691e0c3c0a6d3",
+            "content": {
+                "en": "Up in the air like a George Clooney movie."
+            }
+        },
+        {
+            "id": "w_811cbbe74735ca0ae906a5194ba6fa6853ac712f",
+            "content": {
+                "en": "Using the tears of an abused toddler to conquer my foes."
+            }
+        },
+        {
+            "id": "w_db588f85b5580ffa5233607c74a21ff2032e4ae7",
+            "content": {
+                "en": "Vaginal silk worms."
+            }
+        },
+        {
+            "id": "w_5ccde4f4abe746411f55069d489cc2cb6c0357f8",
+            "content": {
+                "en": "Well, what is it?"
+            }
+        },
+        {
+            "id": "w_823db5875c24a7fa1f120fb6b1e34a6e85cace7c",
+            "content": {
+                "en": "When you fuck a dog in the ass and it shits all over your dick."
+            }
+        },
+        {
+            "id": "w_bfe305fb22af01ec3541e4073defcb8dde1611fb",
+            "content": {
+                "en": "Whispering sweet nothings into your rear."
+            }
+        },
+        {
+            "id": "w_e47b4ce67a85589faedc95f4a31486ea4fb3cbf3",
+            "content": {
+                "en": "YouTube."
+            }
+        },
+        {
+            "id": "w_11a56bf6393b38900222f3dd7230fd68471d4769",
+            "content": {
+                "en": "youtube.com\/Ohmwrecker."
+            }
+        },
+        {
+            "id": "w_730bc8e41f8ac026add55753781b0992394a1957",
+            "content": {
+                "en": "Zen."
+            }
+        },
+        {
+            "id": "b_39ba1688be1aa1dc1cc1a4fb618f9306956b3b43",
+            "content": {
+                "en": "\"Hey everybody and welcome to Let&apos;s Look At ______!\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6061b10baa73a9d35cf195156ab378c3ec05e8a",
+            "content": {
+                "en": "After Mars, ______ is the next furthest planet from the sun."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93c6a55f0a84366a98240dbeb7fad9e09571cd17",
+            "content": {
+                "en": "After winning yet another race, Josh made ______ tweet about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_240aa00204a455f66afc5e92ff83f29c8a5531be",
+            "content": {
+                "en": "And now we're going to be fighting ______ on ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cef7c18da873a190739f053f05587aab43a691f5",
+            "content": {
+                "en": "As always, I will ______ you next time!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8bf3b26e08cc9cdcd8fe17d08bfb44b4d58b788c",
+            "content": {
+                "en": "Best game of 2013? ______, of course."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd56c04dc2d6482d166139e7a981b5388be3e032",
+            "content": {
+                "en": "But that ______ has sailed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6b19430529090ee6a8e0952d62cd5548949d79de",
+            "content": {
+                "en": "Dang it, ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_24661ebb0860bf701c69d1a4c9bafcda75d27751",
+            "content": {
+                "en": "Even ______ is\/are better at video games than Northernlion."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_38e55ee94dcba053e60b4097315131d003c6bc56",
+            "content": {
+                "en": "Everything&apos;s coming up ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4f0379cdc3ac6abc130399502e460f52db751018",
+            "content": {
+                "en": "Finding something like ______ would turn this run around."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4d3926e1fb83e40121f884fef643109271de6991",
+            "content": {
+                "en": "Follow MichaelALFox on Twitter and you can see pictures of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_584bd917dda9b20cb5a40e1cf3b6d797510d1031",
+            "content": {
+                "en": "Fox would still be here if not for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9994cdaf8d21e3bea8dee3c6a3c1a4cf1fee6c82",
+            "content": {
+                "en": "Fuck the haters, this is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a1c19c7e6a5a2d94b2f432039fbcf4c0e05d1a43",
+            "content": {
+                "en": "Get in my ______ zone."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_613642de284ea8bf96e01341d0cd8004991a0964",
+            "content": {
+                "en": "Green loves the new Paranautical Activity item ______, but keeps comparing it to the crossbow."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_72a1ad02cd1aa829173d35ba5f5f08a45495b5a6",
+            "content": {
+                "en": "Hello anybody, I am ______Patrol."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_87352863a2a7f46197df93534c9f7c11524897b3",
+            "content": {
+                "en": "Hello everybody, welcome to a new episode of ______ plays ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b7526ed7a00d093dc710230984ac2eebdd660079",
+            "content": {
+                "en": "How did Northernlion unite Scotland?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4d9fcbcd68347dde42110207840112e105ed0e08",
+            "content": {
+                "en": "How do you get your dog to stop humping your leg?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_11ee45d50c92e2fdfd4d136c5d4c8033de96e9f5",
+            "content": {
+                "en": "I beat Blue Baby with only ______ and ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ae9d592c357da568e6a4650b0fdbb19dde170b04",
+            "content": {
+                "en": "I can do ______ and die immediately afterward."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1015ff3be2675311412e1baaa7633c2323781b4",
+            "content": {
+                "en": "I don't even see ______ anymore; all I see are blondes, brunettes, redheads..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_beaab2edb24fa2d5ae700ebdd6dec506e47ed047",
+            "content": {
+                "en": "I have ______, can you ______ me?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c0ade1dcf088bfbc543928a944aad0903fed429c",
+            "content": {
+                "en": "I wasn't even that drunk! I just had some ______, ______, and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_bc0be5bd95e315aabed18a7904655892fe235bd0",
+            "content": {
+                "en": "I&apos;m in the permanent ______ state."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a5fdc760a4f2eb7b0567b7ca6878c10db80065e3",
+            "content": {
+                "en": "I'd sacrifice ______ at the Altar."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_acf6d09dcafead3414597ce80e6d12064f2d2a44",
+            "content": {
+                "en": "If sloth ______ are wrong I don&apos;&trade;t want to be right."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4a6e18bb8f091118aa1a9e99e7b68fb15f43e0c5",
+            "content": {
+                "en": "Invaded the world of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_69fe69601f959353bafc2aec07bfb9ccfb21a82d",
+            "content": {
+                "en": "It&apos;s true that Green9090 is ______, but we must all admit that Ohm is better at ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_81d2bf670cea6e0159baa5704277ccbfd39bf2b8",
+            "content": {
+                "en": "It&apos;s ______, ya dangus!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd689d00e259f07d563254438d8d16a0bee9adda",
+            "content": {
+                "en": "JSmithOTI is referred to as a Scumlord, but his friends call him ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8cf5673b94040e7751d177c5b27d2798d3f38a50",
+            "content": {
+                "en": "JSmithOTI: Total ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f8d0e8050c0a02a238d58ff211a6b0966e9c7552",
+            "content": {
+                "en": "Krazy Mike lost to ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21f1c8687b48654a7930e6350388664bb4a2bd5b",
+            "content": {
+                "en": "Legend has it, the Thug of Porn was arrested for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d74c7120132c21c2e37beeecded69757e5684b9d",
+            "content": {
+                "en": "Let&apos;s Look At: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a92479f23d05b085106854299712255556e42833",
+            "content": {
+                "en": "More like the Duke of ______, right?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fccafd2798c6c75989f15b407c602ab800bb2f99",
+            "content": {
+                "en": "My apologies to the ______ estate."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2fb61c3df219dd41b018cb4589d487fb285a4176",
+            "content": {
+                "en": "My channel is youtube.com\/______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0b128aff5eccec453cb7f32917fec7d30278f983",
+            "content": {
+                "en": "My name is ______ and today we'll be checking out ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a0032e200e7c92226678e72989052aeba18c6bc6",
+            "content": {
+                "en": "No one man should have all that ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d68b78a8c92c19fb26c166ee1a534bb7ffae0010",
+            "content": {
+                "en": "Northernlion always forgets the name of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f07be79335df8a355fd92f4c5db97d3db1e5e91",
+            "content": {
+                "en": "Northernlion has alienated fans of ______ by calling them ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2bfa454f56631a21c9d525eb10275015965bab52",
+            "content": {
+                "en": "Northernlion has been facing ridicule for calling ______ a rogue-like."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f15664db132f31a7bdb452701e2adf810b5c2264",
+            "content": {
+                "en": "Northernlion was fired from his teaching job and had to flee South Korea after an incident involving ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_151a58e09a020ae86ba7ebe9027565b248fa463a",
+            "content": {
+                "en": "Northernlion&apos;s cat Ryuka is known for ______ while he records."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9299e10edb5889559e9ff0f836e6af8d3822b968",
+            "content": {
+                "en": "Northernlion&apos;s doctor diagnosed him today with ______, an unfortunate condition that would lead to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3dd7697731dd9099045ce0e2084f82dc89eb6f01",
+            "content": {
+                "en": "Northernlion&apos;s latest novelty Twitter account is @______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac693bd2d1f0a27fc7d080bae13aabe50d8e7a4d",
+            "content": {
+                "en": "Northernlion&apos;s refusal to Let&apos;s Play ______ was probably a good call."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3177027cb1b837310650d50d2e4cad9e7f2acdb7",
+            "content": {
+                "en": "Of all the things that Ryan and Josh have in common, they bond together through their mutual love of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d00ae2f1b918b32689a4ff9034bb0f7792c60cb0",
+            "content": {
+                "en": "Oh god, I can't believe we ate ______ at PAX."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_07f3704ed0e2ebf238a9e7aa632baf0e20f3f382",
+            "content": {
+                "en": "Oh my god, he&apos;s using ______ magic!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_531cf1e8808a969f5ded1dcdd7fa1542f3b6ed6c",
+            "content": {
+                "en": "Ohmwrecker is known for his MLG online play. What people don't know is that he&apos;s also MLG at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a6438cb7896b870a204094e8b7c3f078238e5eaf",
+            "content": {
+                "en": "On its last dying breath, ______ sent out a cry for help. A bunch of ______ heard the cry."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9c86d3f127a21e677ff80a5031f0b6bbbb76fda8",
+            "content": {
+                "en": "One thing Northernlion was right about was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_915fc06f857c0c2b6821df88aa3d569a310937ee",
+            "content": {
+                "en": "Only in Korea can you see ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5047162ac7c3a8158c7c30aaae29190adf78a38f",
+            "content": {
+                "en": "Pimp your ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f87e5890a3a435044c577a1e01e9b45cead0079",
+            "content": {
+                "en": "Praise the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5789b63b9c8358afcfa06fff4eb60fa78f6efbfe",
+            "content": {
+                "en": "Recently, Northernlion has felt woefully insecure due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4dc49995fa70f44f26015810420c0c31c3ebb8e0",
+            "content": {
+                "en": "Roguelike? How about ______-like."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a82d6020752e717167443d538a69ad8c1c34a0c5",
+            "content": {
+                "en": "Say that to my face one more time and I'll start ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75ca3cd4fec06a7a44ab5062514bcc5a7328488f",
+            "content": {
+                "en": "Sometimes, a man&apos;s just gotta ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b69f2bd784a0b97d6eb563f54092df9a78b0b968",
+            "content": {
+                "en": "That&apos;s the way ______ did it, that&apos;s the way ______ does it, and it'&apos;s worked out pretty well so far."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_61b4a90849803d1049914491451bd4b74c051ed2",
+            "content": {
+                "en": "The hero of the stream was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de671787e916b7a33a6d97a2833558d75f23683f",
+            "content": {
+                "en": "The Holy Trinity: ______, ______, and ______!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_45c022133ef14f352edf3ccf6ce6f5b826c9880f",
+            "content": {
+                "en": "The next movie reading will be of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bad08bca54c4215f1d8f6b83328bf9ea4c3968aa",
+            "content": {
+                "en": "The only way NL is ever going to make it to Hell in Spelunky is by using ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bf6e3d6c8a4b02c19abbe0fe5312f34a81e79d24",
+            "content": {
+                "en": "The stream broke when Ryuka stepped on the ______ key."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f11480b9898f4f3bb395525a27b3474326f15d91",
+            "content": {
+                "en": "The stream was going well until ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_240b6d3c4bffa5033bf222f9f23d065d2f8ca47b",
+            "content": {
+                "en": "The Youtube chat proved ineffective, so instead we had to communicate via ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e245c9f4b45339b7d46515ba8be46bf2ec346c07",
+            "content": {
+                "en": "This new game is an interesting ______-like-like."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f5f2e568cb568de2257d53758453b9cd7f1d086e",
+            "content": {
+                "en": "This time on ______ vs. ______, we're playing ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_7837d1392b73f68262b4ce54a1e0a37e06beeb0d",
+            "content": {
+                "en": "Today on Crusader Kings 2, NL plays King ______ the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5dc4de4afe1cc89222d3ac579fa9d21ee67be697",
+            "content": {
+                "en": "Today&apos;s trivia topic is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f59f79955a8fa4ffcedc2a9f2b3b1f006a94e501",
+            "content": {
+                "en": "Travel by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_adc6e2d34d33707fa44c8b2ebd37a3771d457354",
+            "content": {
+                "en": "We're having technical difficulties due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2bcab235d7057a7cfea32783b32f1e8afbb6be84",
+            "content": {
+                "en": "We're rolling in ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_af16a633a37b93939d0219c8f3d16b6b83f09bec",
+            "content": {
+                "en": "Welcome back to The Binding of Isaac. Today&apos;s challenge run will be based on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_469952cb3c40b39da07c61d2ea0645177a1b968c",
+            "content": {
+                "en": "Well there&apos;s nothing wrong with ______ by any stretch of the imagination."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea5d7582979fe138e836d9dc3d54e51b7356b69c",
+            "content": {
+                "en": "What do you give to the CEO of Youtube as a gift?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da2e44b6f38835866c838511164e6c186f24118d",
+            "content": {
+                "en": "What gave Ohmwrecker his gaming powers?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_519a4e1713f3700f66bf70d3543f7e5729030445",
+            "content": {
+                "en": "What interrupted the #NLSS?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cb069c0a154fdfb7a7cb1c7d515a22264ec2e2cb",
+            "content": {
+                "en": "What would Ohm do?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0929adf6a62079c7be41433f5f35752bc1bbfce",
+            "content": {
+                "en": "What would you do if Ohm really did just die?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_71ce7a9cb4b4599b3baf7c13260ade8453aa1076",
+            "content": {
+                "en": "When I was a kid, all we had in Lunchables were three ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_de6e6bdc02d23f99272607ddf230915aa6c99e1a",
+            "content": {
+                "en": "Whenever I ______, take a drink."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18d587f349dedca3de5edd8a92f67ac5a3192859",
+            "content": {
+                "en": "______ caused Northernlion to take stupid damage."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_406379cc073c8d7e32b1796d71234f4fea8981cd",
+            "content": {
+                "en": "______ has invaded!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cd2b90678aeeb7c0f540d00fcf922682ceee36b",
+            "content": {
+                "en": "______ is really essential to completing the game."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c4c99ef2344c12e46a66d2537ad227fcf2522372",
+            "content": {
+                "en": "______ Is the best item in The Binding of Isaac."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dacc05a68473b358a3ff662742dda161762a05b2",
+            "content": {
+                "en": "______ is the worst item in The Binding of Isaac."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_91d4371db3102e7ccaa1a34a116caae523cda26c",
+            "content": {
+                "en": "______ is\/are Northernlion&apos;s worst nightmare."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_211567649b1262d1b1e63236e4aafaaa0e19893e",
+            "content": {
+                "en": "______ sounds like a great alternative rock band."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f8c9065643db722be5e3b44aae908949c70e3f1b",
+            "content": {
+                "en": "______ was full of leeches."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e8a612512b220729b89ae5fd2bd6070777628cf",
+            "content": {
+                "en": "______ was indicted on account of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e5c766dd155ca28d38de19e53622675987b4c4f8",
+            "content": {
+                "en": "______! Get off the ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bf8c9cbf08d4c9685b1455d3a0243a3929fa8f01",
+            "content": {
+                "en": "______. Everything else is uncivilized."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_167822d590c37326b263a08650c936708c0e287e",
+            "content": {
+                "en": "______: The Northernlion Story."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_108d6b15cdecdd1661c79b4795355108823000f6",
+            "content": {
+                "en": "______: The ______ Story."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_76e9484e04ed6e7f9db68c5850d906cfa30db130",
+            "content": {
+                "en": "______? It&apos;s a DLC item."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08ff996801cda9880a0c6162fe8db1962e522c2c",
+            "content": {
+                "en": "______? Well, I won't look a gift horse in the mouth on that one."
+            },
+            "pick": 1
+        }
+    ]
+}

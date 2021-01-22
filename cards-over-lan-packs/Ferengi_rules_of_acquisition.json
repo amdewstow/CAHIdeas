@@ -1,0 +1,863 @@
+{
+    "id": "Ferengi_rules_of_acquisition",
+    "name": "Ferengi rules of acquisition",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "b_787ede87115f4f938cac0c9ee967ac72c001040c",
+            "content": {
+                "en": "A contract is a contract is a contract... but only when ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_73e6b4b49222355e315accc52967ca9ae46b8431",
+            "content": {
+                "en": "A Ferengi without ______ is no Ferengi at all."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33c23fe1170a6a94d1c360355f96343b76019d3a",
+            "content": {
+                "en": "A man is only worth the sum of his ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d06faf312fe4cfd37e3cc26e9ac899550d405d74",
+            "content": {
+                "en": "A wife is a luxury... ______ is a necessity."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fa2be7d7c8dc4d956a03030c053cdb415f2967e",
+            "content": {
+                "en": "A wise man can hear ______ in the wind."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a5abb5c4d234e887e6773f5d7d6be854678d1d33",
+            "content": {
+                "en": "A ______ is a ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_20bdf91a3ba978662cc420ae0a12434a0bfb8ca8",
+            "content": {
+                "en": "After you've exploited ______, it never hurts to thank them. That way it&apos;s easier to start ______ next time."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_88bc597ade95af61ac87735a50fb19625e98fa8b",
+            "content": {
+                "en": "Always have sex with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7794900254dbcab550f5765b9de2f7284bb1ce7",
+            "content": {
+                "en": "Always inspect ______ before ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_180e16384a78f314f7e6049344d01eec77d641b2",
+            "content": {
+                "en": "Anything worth doing is worth doing for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d48034d5a21bdad04bdf3264c1d50862d5fb9b31",
+            "content": {
+                "en": "Ask not what ______ can do for you, but what ______ can do for your profits."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_98a1e6243846e42673af8da8e65fab25f610352e",
+            "content": {
+                "en": "Beware of the Vulcan greed for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_adb03dfd631b49a72b02eacad362d8e265bd310d",
+            "content": {
+                "en": "Beware the man who doesn't make time for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ef57b5c1434c48e720e0117ef1df067a1e77ecd",
+            "content": {
+                "en": "Deep down, everyone&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_250d5975318fdfbddd0d3e539a43fe4f60500052",
+            "content": {
+                "en": "Duck; ______ is tall."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_80d9dbe0669a8cbd27c0c718cb23effde5aa1e1d",
+            "content": {
+                "en": "Even with the worst ______, someone turns a profit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57b131e789f708af09913178246ec8d60ae1afd6",
+            "content": {
+                "en": "Even ______ can recognize the flow of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_698d9110515b8d512ea956b62b123f5aece882da",
+            "content": {
+                "en": "Every man has his ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d96c4f9396e637c6592bcc049474f50ccb684c0a",
+            "content": {
+                "en": "Every once in a while, declare peace. It confuses the hell out of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bc5699bd58cf9c13c82c92ea6016d2bac9d01a40",
+            "content": {
+                "en": "Everything is for sale, even ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e49f9387cb7b9c0b2c491440a5a652e64bb3cc2a",
+            "content": {
+                "en": "Expand or ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da886654804ec9e65f8631c5933f5b1e3269b425",
+            "content": {
+                "en": "Faith moves mountains... of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_786479598dc855c61d50f4037020365811dc6fb0",
+            "content": {
+                "en": "Females and ______ don't mix."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_81d3d2fce78cc490773b5dde15a1e7dd0dd74210",
+            "content": {
+                "en": "Free ______ are seldom cheap."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1ba30ef0297ae38455ad1ee81650005b93805015",
+            "content": {
+                "en": "Free ______ is seldom cheap."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee6c03143cc43be8f7838022fbae210608151d2a",
+            "content": {
+                "en": "Good things come from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4e7052ba0de2ced038c68b372e77ef1e071e9188",
+            "content": {
+                "en": "Good ______ are as rare as latinum. Treasure them."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_15da6eb510ca0a86b03ba64d9815b1440f7b35ee",
+            "content": {
+                "en": "Hear all, trust ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aaa9ebe579774c3ace29ce39e1d5284a11e504bd",
+            "content": {
+                "en": "Home is where the heart is, but ______ are made of latinum."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ab598796c1a8773a45a303242a1e5e51b4b0c0c",
+            "content": {
+                "en": "If you're ______, I'll charge you for it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bf78fffb0736b0597e68bd48d4eaa64a4e76edb5",
+            "content": {
+                "en": "If you're ______, they're ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1f118e02a1373c0f80fdfce55effcac2c24da427",
+            "content": {
+                "en": "It never hurts to suck up to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_451033d2d0a0be5b8afeac9dd2306b31fac560d4",
+            "content": {
+                "en": "It&apos;s always good to know about new ______ before they walk in your door."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e0564fe07e42e126f68ed73aea0f316b219f06be",
+            "content": {
+                "en": "It&apos;s never too late to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ecf1a790df6385612e23140eaa2fb43519bd393f",
+            "content": {
+                "en": "Keep your ______ consistent."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ee143b9a27ae0cc9d9d95d6f90d066c5b5460ed",
+            "content": {
+                "en": "Keep your ______ open."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_144aab0bbaf08aa5a5f41a473749b3aed4bcc87c",
+            "content": {
+                "en": "Know your enemies... but do ______ with them always."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3395bb6b1f456c3fa8a13659d6c34fab06c38a7b",
+            "content": {
+                "en": "Knowledge equals ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d8a377a12ed70348ec3717fa3d2442bdb37b75fb",
+            "content": {
+                "en": "Learn ______&apos;s weaknesses so you can take better take advantage of them."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2d1e4e713aa2c22af13c2c09b7a40096457fb4cc",
+            "content": {
+                "en": "Let others keep their ______. You keep their ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3b98a9d88854e0c2e0279e138972917928326ab7",
+            "content": {
+                "en": "Money is money, but females are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a10e255d357a6374e6fd7801573a66e1060c16fb",
+            "content": {
+                "en": "Nature decays, but ______ lasts forever."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c141adbe725e04886ded3879a9d0c13e11c79db2",
+            "content": {
+                "en": "Never allow doubt to tarnish your lust for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a524f20b08e94481d913bbb5281c4be207a4874a",
+            "content": {
+                "en": "Never allow family to stand in the way of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f9b24c3278a65b925a8f0033f7e8761998d4725",
+            "content": {
+                "en": "Never allow ______ to stand in the way of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5e81045e81c1ca74dfafe14894a1aab1e6e4685e",
+            "content": {
+                "en": "Never allow ______ to tarnish your lust for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_83134faf0dea739df829af5820f283fd882cd362",
+            "content": {
+                "en": "Never ask, when you can take ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ced4d91869987db587ccdeb19b9e2042eb81bf8f",
+            "content": {
+                "en": "Never be afraid to mislabel ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e5874be451532eafd0028756dd33cbf665e9c4e",
+            "content": {
+                "en": "Never begin ______ on an empty stomach."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_09ac6114b0fb4ae7e2eae88facb545876dcee97c",
+            "content": {
+                "en": "Never cheat ______... unless you can get away with it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df2b4ef4d56249a8fcb9e4aac2714be34e1beaa7",
+            "content": {
+                "en": "Never confuse ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_671b6ce66a239db750ef23980ff533a926db214b",
+            "content": {
+                "en": "Never have sex with the boss&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9fa2c86e8fe29d2d4e46eed38e4615d70ad90320",
+            "content": {
+                "en": "Never have ______ with the boss&apos;s sister."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0954713dded5e4d7682f38f92c03395c2450bf5d",
+            "content": {
+                "en": "Never let the competition know that you're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_854339ac8e0ad28df662f9279a4b5cdcb6ca817d",
+            "content": {
+                "en": "Never make fun of a Ferengi&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a86a0f87032422b92e59c65fef3be92b756ee4bc",
+            "content": {
+                "en": "Never place ______ above ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c8b8acc0fc8f92d2ac82af60b5f92029f8b99d23",
+            "content": {
+                "en": "Never spend more for ______ than you have to."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3abcba864c5d0481214db8232797c11da1013825",
+            "content": {
+                "en": "Never trust a man wearing a better ______ than your own."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b5f20c12eee81771fffe8c691fa568cbbee20ab",
+            "content": {
+                "en": "Never trust a man with better ______ than your own."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_09f1ff2faf9f4c860537a150a67d4319b13725e4",
+            "content": {
+                "en": "Never trust anybody taller than ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4a78f344e642e1505e015fa56aa47efeeb5f67c6",
+            "content": {
+                "en": "New customers are like ______. They can be succulent, but sometimes they bite back."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67bfb1ffd00bb12c1969dc482d0df66da21489df",
+            "content": {
+                "en": "No good ______ ever goes unpunished."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0aa92d6ea76af8f1274ff3792ede72cc485116d1",
+            "content": {
+                "en": "No ______ ever goes unpunished."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_660e93fc5c472a92f329d4178c768631b78716f9",
+            "content": {
+                "en": "Not even ______ can tarnish the shine of profit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_51f98ed7aa36ea70da1f5cdcf0751ae9513a5cd6",
+            "content": {
+                "en": "Nothing is more important than your health... except for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6718fc0c17cc7e7f7a919f49068cd8af8b67e8a1",
+            "content": {
+                "en": "Once you have their ______, never give it back."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ab5313de416e74fe5a34a780982fea97beb8430",
+            "content": {
+                "en": "Once you have their ______, you never give it back."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca5d6be27b31438b292edd47963ffd7c36953212",
+            "content": {
+                "en": "Only fools pay for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_25cd4bbc512bf00afe33f2419f5c99e4d5497081",
+            "content": {
+                "en": "Opportunity plus ______ equals ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2d366265328308fdc918d964fe12b77eab6acb8f",
+            "content": {
+                "en": "Peace is good for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0854c8cddc058c548e3a21c046cb21bb608dd4f1",
+            "content": {
+                "en": "People love ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b51599369c8775d574f090fadc4936a79112d6b",
+            "content": {
+                "en": "She can touch your ______, but never your ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a7a675f966a103b2ab0d1af51cd184b6c3b26003",
+            "content": {
+                "en": "Sleep can interfere with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed276c30d032993e22018304a5fd9eae3c9da4e0",
+            "content": {
+                "en": "Small ______ lead to large ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_281b9041cf7343e197ca6c6bdc53d0eeb891953e",
+            "content": {
+                "en": "Sometimes the only thing more dangerous than a question is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20bd7b3c5fbecb345e639a8398d3d0e7d4e32b4e",
+            "content": {
+                "en": "Sometimes the only thing more dangerous than ______ are ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5e3621611722f0400fee41c695abe280ad17b546",
+            "content": {
+                "en": "Sometimes ______ cost entirely too much."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea32c8a7e1eec92a0c1056309c1ab3a57e4a3030",
+            "content": {
+                "en": "Take joy from ______, and profit from ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9bb3d28a6e4b58e5d47476f59beeb64a1aa150a1",
+            "content": {
+                "en": "The best deal is the one that brings the most ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_00e1acdc6226141f395a407c3f203cf2da9aee2e",
+            "content": {
+                "en": "The bigger the ______, the sharper the knife."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a5f3132487063589c9ef03a897bbf2ce75ca3d57",
+            "content": {
+                "en": "The flimsier the ______, the higher the price."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_733e7b4586d97688bd4d775b2774e0b7f0fcb141",
+            "content": {
+                "en": "The justification for profit is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_892609b818ae48a965e1a64509a2376ce988e3c5",
+            "content": {
+                "en": "The riskier the ______, the greater the profit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6ab013567365d08586f71a334afc52a200cdfca9",
+            "content": {
+                "en": "The riskier the ______, the greater the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_177beb31f0a416655c0430f186e8995e9271fd1e",
+            "content": {
+                "en": "There is no substitute for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ddac1144870d2c277b905c180b6def96707d6c9",
+            "content": {
+                "en": "There&apos;s no honor in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a4ef9d632bbe4dbce576d5c3f257a5db45098203",
+            "content": {
+                "en": "There&apos;s nothing more dangerous than ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67bdfa2708a9565b8cc81e0b445382a0d069a199",
+            "content": {
+                "en": "There&apos;s nothing wrong with ______... as long as it winds up in ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f0d1d9add685b5646ad5053c3db777757a812205",
+            "content": {
+                "en": "Time, like ______, is a highly limited commodity."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c08e09b21da8e702262aada48287b7763a8f28c",
+            "content": {
+                "en": "Treat people in your debt like ______... exploit them."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_46fe22b127ee47883d0fd4f71a9b18a3101afcde",
+            "content": {
+                "en": "War is good for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ae26e29dae4396115eddc9278c55f31884a2c4ed",
+            "content": {
+                "en": "When no appropriate rule applies, start ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d9bf5421824c7e5ecb45c8659c2470ab744ab28b",
+            "content": {
+                "en": "When the messenger comes to appropriate ______... kill the messenger."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6195227451961bbd5f16f14674289518435a5958",
+            "content": {
+                "en": "When ______ leaves, it&apos;s all over."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ae825da99bb4f3e087eeffd7f9a234980634befb",
+            "content": {
+                "en": "When ______, lie."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_06f5941002f8e809e9ecf3626e90a254844fdfed",
+            "content": {
+                "en": "Whisper your way to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b69ef157d312e193adc454a5f1a810431c00005b",
+            "content": {
+                "en": "Why ask, when you can start ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f6d4db1232c7c4ff1c9cbea5ec6a25995c45db07",
+            "content": {
+                "en": "Win or lose, there&apos;s always ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e43f3371b2cb6195de2b72c384d1fe3994f3f225",
+            "content": {
+                "en": "You can't buy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a02b9509a7e9a690f9157e7a64d625158ea1819e",
+            "content": {
+                "en": "You can't free a fish from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_977e5618e58279ac7dcbe35b8cc1cbc5c0287efe",
+            "content": {
+                "en": "You can't make ______ if you're ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_65e917822a32c54e7f6db7647f3f7242abd64a4d",
+            "content": {
+                "en": "______ and an empty sack is worth the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e868a8be7dd0f4416327f82d21476444dcf7562b",
+            "content": {
+                "en": "______ are the rungs on the ladder of success. Don't hesitate to step on them."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2012df426f580c9fd890558a0c41ba5538d9ade3",
+            "content": {
+                "en": "______ begins at home."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ffc7d6f47e2aafd458248d487880d0ac84564e3",
+            "content": {
+                "en": "______ can afford anything except ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cdedcaebc847eae045d7fad8a5fbdf3401585e26",
+            "content": {
+                "en": "______ come in threes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8246aec8540a2efc994210d50a8d7c687af600a2",
+            "content": {
+                "en": "______ decay, but latinum lasts forever."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cfa17d8066259a8d82271f73306390c84d8dc67c",
+            "content": {
+                "en": "______ divided by ______ equals ______. (Also known as the \"velocity of wealth\" )"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_d701e2af263502f867beb7ef0a4b6f69fd137408",
+            "content": {
+                "en": "______ doesn't always equal reward."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba94024df52fa9bcee975860ac193393756d01a9",
+            "content": {
+                "en": "______ is easier to believe than the truth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_744b1f8bfd2754d2cdf7a2c7ad9126c4242da6a8",
+            "content": {
+                "en": "______ is eternal."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2af341aa36a0a98964394b6e92ab3c644961c454",
+            "content": {
+                "en": "______ is good for business."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2ef34e98829d2a79c0551a16dbd4d49e52b4704",
+            "content": {
+                "en": "______ is good. ______ is better."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_db27c6f1bc6a8bf8ecd7047a288864053e55af7e",
+            "content": {
+                "en": "______ is its own reward."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_822835111f18595296b502f3621295d88d4d45f4",
+            "content": {
+                "en": "______ is never enough."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_742193782f53d4c65857d9b4ceaafb6b052320d8",
+            "content": {
+                "en": "______ is not guaranteed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5da53c7cc8062aa4ad90ae3f47167f6603e76ff6",
+            "content": {
+                "en": "______ is the biggest liability of all."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ceccc898a01904d40127be64552e3122856e4ad",
+            "content": {
+                "en": "______ lasts longer than lust."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_31f92140cb439f87b709b967af2e93984d08f1a6",
+            "content": {
+                "en": "______ or die."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_016c421c970a6181fe2005688473da1c4d3748af",
+            "content": {
+                "en": "______ plus ______ equals profit."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ee090f257f93435a0fd36e72ad0611b34169b92e",
+            "content": {
+                "en": "______ serve, ______ inherit."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c87b5b2aad9ee02bdef3aeb67e698104325bfd16",
+            "content": {
+                "en": "______ will cost you everything."
+            },
+            "pick": 1
+        }
+    ]
+}

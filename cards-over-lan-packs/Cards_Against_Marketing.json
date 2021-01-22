@@ -1,0 +1,323 @@
+{
+    "id": "Cards_Against_Marketing",
+    "name": "Cards Against Marketing",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_5a4daee4a9866ee8b56b53f75dac4817c590b3d0",
+            "content": {
+                "en": "#SelfieSaturday"
+            }
+        },
+        {
+            "id": "w_fe3c390b2b01a27538af536269f1391b2eb0bd12",
+            "content": {
+                "en": "140 characters or less"
+            }
+        },
+        {
+            "id": "w_efb68abeb673e4913885e620eb461e0f86d5da2a",
+            "content": {
+                "en": "24 hour live tweeting"
+            }
+        },
+        {
+            "id": "w_d30d8734062774766b9cd597ad1e3a524efee52c",
+            "content": {
+                "en": "All of these leads"
+            }
+        },
+        {
+            "id": "w_25bc96295797b5371aa0625196d597ef03a952de",
+            "content": {
+                "en": "Analytics"
+            }
+        },
+        {
+            "id": "w_ab7686b402c3bb3c716407837674027dbe2dd4bf",
+            "content": {
+                "en": "App eco system"
+            }
+        },
+        {
+            "id": "w_b612d029cae68bc2cb2b6bdbd4949bc42a68cbbe",
+            "content": {
+                "en": "B I L L I O N S"
+            }
+        },
+        {
+            "id": "w_79771be32e7039bb5fb367a8fe368e3e0638c2ab",
+            "content": {
+                "en": "B2B"
+            }
+        },
+        {
+            "id": "w_e80e2ce283e93b6a404e4ea3128e731cd50a65d6",
+            "content": {
+                "en": "Being awesome at event management"
+            }
+        },
+        {
+            "id": "w_6f3b2ca2746598a5c0c336c60d7f1e5542f3b64a",
+            "content": {
+                "en": "Benchmarking"
+            }
+        },
+        {
+            "id": "w_12141df9f77572b1ddad43a866b1654185b3292e",
+            "content": {
+                "en": "Chester Cheetah"
+            }
+        },
+        {
+            "id": "w_1172f6af27faa1f59f6c970c04066df2be44ac90",
+            "content": {
+                "en": "Click through"
+            }
+        },
+        {
+            "id": "w_abd5d661a2a4fe9ffac6a8fc6d5c207a2973f8a7",
+            "content": {
+                "en": "Close the loop"
+            }
+        },
+        {
+            "id": "w_00f4889fa59ba98b2d0f2b0ac3197caa2abf3579",
+            "content": {
+                "en": "Cloud computing"
+            }
+        },
+        {
+            "id": "w_524cf50b5df5f29161c0600989922de48abede70",
+            "content": {
+                "en": "Cookies"
+            }
+        },
+        {
+            "id": "w_79385acfeadde71db93edead57f488d3a0b70c00",
+            "content": {
+                "en": "Core competency"
+            }
+        },
+        {
+            "id": "w_98babdadbff9e31a1f99dd4cf35e186325e7687a",
+            "content": {
+                "en": "Even bigger Data"
+            }
+        },
+        {
+            "id": "w_d0b4450ecad8811ecfe8c82d1cb36914fc2eae07",
+            "content": {
+                "en": "Experiential marketing"
+            }
+        },
+        {
+            "id": "w_5eda976b1680517c783ea105826050e4d59a5e01",
+            "content": {
+                "en": "GIF Gaffe"
+            }
+        },
+        {
+            "id": "w_f7463eac3b893a16f791db007e6cea74de400bf3",
+            "content": {
+                "en": "It&apos;s a win-win situation"
+            }
+        },
+        {
+            "id": "w_e8f9a2b992a13303bfdd7ab2102ea4c761e78b72",
+            "content": {
+                "en": "Kevin Butler"
+            }
+        },
+        {
+            "id": "w_978a089a364db5b3f36011896f4c54b79d666b3b",
+            "content": {
+                "en": "Latergram"
+            }
+        },
+        {
+            "id": "w_7a2c34cb789c0fca061c47c99c380d1102b5232c",
+            "content": {
+                "en": "Logistics"
+            }
+        },
+        {
+            "id": "w_38884505ec2027fe72fcdad01ee34e4964b41f60",
+            "content": {
+                "en": "Low hanging fruit"
+            }
+        },
+        {
+            "id": "w_3ab64d096d90b620838afa22d637e089b14b647d",
+            "content": {
+                "en": "Maniacal data scientists"
+            }
+        },
+        {
+            "id": "w_f74e7587aa218013bad66d747210815a2235581a",
+            "content": {
+                "en": "Mark Zuckerberg&apos;s dog"
+            }
+        },
+        {
+            "id": "w_68144f2f9a3159a2cf9874d12707a68169a8a98a",
+            "content": {
+                "en": "Marketing engineer students"
+            }
+        },
+        {
+            "id": "w_22e2fd55e09ed34a15c61ff39395f00c61513a97",
+            "content": {
+                "en": "Marketing frameworks"
+            }
+        },
+        {
+            "id": "w_921e60de73c13485fade8a0dea84b2b5a2d03668",
+            "content": {
+                "en": "Mashable"
+            }
+        },
+        {
+            "id": "w_3df860c2a58fa4cff2a1323eb6ca3eb6d5a30a61",
+            "content": {
+                "en": "Mid-level management"
+            }
+        },
+        {
+            "id": "w_53827d61ad2548f18e600267c73070322b11a53a",
+            "content": {
+                "en": "My first campaign"
+            }
+        },
+        {
+            "id": "w_fff261706de4923ab10264f2201c45cd5bb4cfc2",
+            "content": {
+                "en": "Myspace Tom"
+            }
+        },
+        {
+            "id": "w_22c0a86e5decbeb55b69c03d29f0e801884af0f7",
+            "content": {
+                "en": "Office etiquette"
+            }
+        },
+        {
+            "id": "w_61eb20fa353dc2cde775ff17a2aa5bbb1963a50d",
+            "content": {
+                "en": "Organic Growth"
+            }
+        },
+        {
+            "id": "w_b528bff19a9972a03c6ccc88a9528600ed93d472",
+            "content": {
+                "en": "Phantom vibration syndrome"
+            }
+        },
+        {
+            "id": "w_3d88c9bbf5b02acfa9e5c217a6947afe6314470b",
+            "content": {
+                "en": "Pushing the envelope"
+            }
+        },
+        {
+            "id": "w_e453ba6cf34e0d2f914712ed280ef0774c48da36",
+            "content": {
+                "en": "Quarterly strategy review"
+            }
+        },
+        {
+            "id": "w_2180d08a098aa661b1578c503a3900a58d86ebe8",
+            "content": {
+                "en": "Real time"
+            }
+        },
+        {
+            "id": "w_03ed34630fcfd60418c5d18d5706ee5ec3c4fcf0",
+            "content": {
+                "en": "ROMI"
+            }
+        },
+        {
+            "id": "w_d2822067e5964ce90c9afd42961ac668bfd811a4",
+            "content": {
+                "en": "Steve Jobs (the book)"
+            }
+        },
+        {
+            "id": "w_3256230dc0cfa980839a5689c4dfcc867dd9fe9b",
+            "content": {
+                "en": "Touch point"
+            }
+        },
+        {
+            "id": "w_98fb39614f9585e923a9819bc2e2379fcb91bc80",
+            "content": {
+                "en": "Trade show swag to give to your kids"
+            }
+        },
+        {
+            "id": "w_30a8867f9e5802d3665ab40633a724bebc6fbf4e",
+            "content": {
+                "en": "Whining to your boss"
+            }
+        },
+        {
+            "id": "b_f99cb99b417e18d3b2b3a0338637c25182ab16a4",
+            "content": {
+                "en": "\"Where&apos;s The ______?\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a3ca80d4038017163cc3d188acef94ba80de314b",
+            "content": {
+                "en": "After several strategy meetings, the executive team could only agree on \"More ______\"."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c244f9ad96258f31667e367960f3f5ca7edb7160",
+            "content": {
+                "en": "At our upcoming marketing conference you are guaranteed to leave with an understanding of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc80eb3303365d672934e53f9cf4c1f17ed1ac7a",
+            "content": {
+                "en": "It&apos;s so easy, even a ______ can do it!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e0704b4c9d727075099a18f867298fd832fbb4b3",
+            "content": {
+                "en": "On Madison Ave, there are rumors that there will be a new microsite devoted to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7d097857b0958d15d88ec977e11e26e62eaa867",
+            "content": {
+                "en": "Please \"like\" our company page on Facebook for 20% off your next ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55a13da10027c32a7b2523da283dcbdb46e7a5ab",
+            "content": {
+                "en": "The planning process began after a consultation with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eda23c0861d7048d92ce2eb3ded5c16f6d675bcb",
+            "content": {
+                "en": "What&apos;s the best way to increase ROI?"
+            },
+            "pick": 1
+        }
+    ]
+}

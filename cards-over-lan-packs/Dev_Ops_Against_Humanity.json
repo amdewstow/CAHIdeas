@@ -1,0 +1,1597 @@
+{
+    "id": "Dev_Ops_Against_Humanity",
+    "name": "Dev Ops Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_48d0e6488e2ef81a544eb8dd76a751baf57ac572",
+            "content": {
+                "en": "\/var\/log symlinked to \/dev\/null"
+            }
+        },
+        {
+            "id": "w_75d1c2fbb0b9cfada27f8c17340ddea0067e3ae9",
+            "content": {
+                "en": "10,000 Nagios alerts per second"
+            }
+        },
+        {
+            "id": "w_5901b0f737fc051d77f8cd7937cd66c960dd4761",
+            "content": {
+                "en": "3-hour standups"
+            }
+        },
+        {
+            "id": "w_efc1b14efbea4539be1543a64665b92037713001",
+            "content": {
+                "en": "A 2400 baud modem"
+            }
+        },
+        {
+            "id": "w_67e201e757b4e1b28a42d57c1d58a7395fcd78fa",
+            "content": {
+                "en": "A 3.5\" floppy disk"
+            }
+        },
+        {
+            "id": "w_509592b2dc65a3cfa08102d1b13494cc073a1b24",
+            "content": {
+                "en": "A 500-megabyte UDP packet"
+            }
+        },
+        {
+            "id": "w_0671c83d284b177d8655b84a360b459bd57b111b",
+            "content": {
+                "en": "A 75-tier architecture"
+            }
+        },
+        {
+            "id": "w_6f04f6fe17fa696ee226c5abb08a8bc527db3714",
+            "content": {
+                "en": "A Cisco router with a flaky chip"
+            }
+        },
+        {
+            "id": "w_2e8f43a7bccc50571e732c6e47683104504e730e",
+            "content": {
+                "en": "A CORBA service written in Ada which communicates using JSONx"
+            }
+        },
+        {
+            "id": "w_2c82e253c8a37f24eb62a86bcd03fb4afb9d83e8",
+            "content": {
+                "en": "A cron job that reboots the server every 5 minutes"
+            }
+        },
+        {
+            "id": "w_7f2c13143162a29f508c15614b99c3a24babe143",
+            "content": {
+                "en": "A custom kernel with Frontpage Extensions installed"
+            }
+        },
+        {
+            "id": "w_66b56ab90283cd3688b91ddc36fd48ae3710a75f",
+            "content": {
+                "en": "A customized .fvwmrc"
+            }
+        },
+        {
+            "id": "w_84968e3cec9f40adb6fd9f565b3b08a188960c37",
+            "content": {
+                "en": "A former MENSA member"
+            }
+        },
+        {
+            "id": "w_d4600742243cbd031e0b1b2f4a129dbfa1d06ddc",
+            "content": {
+                "en": "A Github Outage"
+            }
+        },
+        {
+            "id": "w_e7e84006443b1715d3f59009ac29381f7a346d77",
+            "content": {
+                "en": "A global write lock"
+            }
+        },
+        {
+            "id": "w_8dd37c048d39352eefbb3293c74fc6abbd7d7540",
+            "content": {
+                "en": "A home-rolled systemd replacement"
+            }
+        },
+        {
+            "id": "w_546a58570e64a5fa42323b085150867915a1ecf2",
+            "content": {
+                "en": "A JAR full of spaghetti"
+            }
+        },
+        {
+            "id": "w_62b7a132c771b9f642fe7669f7e50fa11cb7cd33",
+            "content": {
+                "en": "A mobile web 2.0 RIA"
+            }
+        },
+        {
+            "id": "w_1ae0bfd00df7278606c2b8954d3e952bd497fd61",
+            "content": {
+                "en": "A Null-modem cable"
+            }
+        },
+        {
+            "id": "w_d15de593d5a8cb6274144604b21cea27c3bf3f2f",
+            "content": {
+                "en": "A Pi&Atilde;&plusmn;ata full of error messages"
+            }
+        },
+        {
+            "id": "w_854b2ce21c385799e59a50ccae12494fd2269c8f",
+            "content": {
+                "en": "A proof that P=NP written in BASIC"
+            }
+        },
+        {
+            "id": "w_2adc829514d59e30ef8d1bf414ba5713df33febe",
+            "content": {
+                "en": "A Scrum Master"
+            }
+        },
+        {
+            "id": "w_2ff67239bd71a536ce3bcdb11e0bca4465ba23cc",
+            "content": {
+                "en": "A self-aware PHP script"
+            }
+        },
+        {
+            "id": "w_3a3f38f4d654b49f4eb19c86a8df41498fcedda3",
+            "content": {
+                "en": "A shared root password"
+            }
+        },
+        {
+            "id": "w_15681f38f661eb78476556b9d947874200a373f3",
+            "content": {
+                "en": "A Snowflake server"
+            }
+        },
+        {
+            "id": "w_a3796e880fcd765a554db9d3bd1197dd1fe06c8d",
+            "content": {
+                "en": "A squirrel with a taste for fiber"
+            }
+        },
+        {
+            "id": "w_69524638827b83fb8cd191d938414eeb6a78adab",
+            "content": {
+                "en": "A turducken made entirely of bash scripts"
+            }
+        },
+        {
+            "id": "w_3228a93e35ab0add0998d175a48368c690e7ca05",
+            "content": {
+                "en": "A Volker-Craig terminal"
+            }
+        },
+        {
+            "id": "w_4b3f37604d20d053307e6d8bd08308a891fb3d03",
+            "content": {
+                "en": "A WSDL from 2003"
+            }
+        },
+        {
+            "id": "w_fcf850f7d4437218df7ad7c7f0b7dfdd6454d47c",
+            "content": {
+                "en": "Agony-Driven Development"
+            }
+        },
+        {
+            "id": "w_543b468158e3d634852a695c4d2e0fc498c25f26",
+            "content": {
+                "en": "An angry badger with an electromagnet on its back"
+            }
+        },
+        {
+            "id": "w_e247fbb821e47fd4c2dbfde203c4a3d2efc0c1fb",
+            "content": {
+                "en": "An army of chaos monkeys, all carrying flamethrowers"
+            }
+        },
+        {
+            "id": "w_0faa2caa477e44fb295e22547e447250e4368df8",
+            "content": {
+                "en": "An epic caffeine bender"
+            }
+        },
+        {
+            "id": "w_e28efba04864ce794d44085d5b44467e2e04196f",
+            "content": {
+                "en": "An Exchange email loop"
+            }
+        },
+        {
+            "id": "w_0fd4b51d4901e215e23a6f2ea9f5eb5e8802032e",
+            "content": {
+                "en": "An untested restore process"
+            }
+        },
+        {
+            "id": "w_b636c67c0418fe3c8c721e3c07a2954a62d31e15",
+            "content": {
+                "en": "Apache 1.2 running as root"
+            }
+        },
+        {
+            "id": "w_ad2b7a98060967383bbbd5b5257765e0d4c038c7",
+            "content": {
+                "en": "Apache Zookeeper on a 286"
+            }
+        },
+        {
+            "id": "w_47e41d2c7b091638b7f17804e642c75a4577a8d8",
+            "content": {
+                "en": "Being acquired by Oracle"
+            }
+        },
+        {
+            "id": "w_c4b6ebf438118767249c1d149c89263945054467",
+            "content": {
+                "en": "Brogrammers"
+            }
+        },
+        {
+            "id": "w_12585b35b05d95bedc615a4bd24768269a8a5b07",
+            "content": {
+                "en": "Bullshit.io"
+            }
+        },
+        {
+            "id": "w_3cd076a2631e5140452cbd9e25e663e53f4a08bc",
+            "content": {
+                "en": "Business logic in PowerPoint slides"
+            }
+        },
+        {
+            "id": "w_3ce6cf79a43ce67ac136b10e522cd35c4d2c046a",
+            "content": {
+                "en": "CAP Theorem"
+            }
+        },
+        {
+            "id": "w_e95891cee1e64dabfed12f0bc7463923f41bd4fd",
+            "content": {
+                "en": "Catastrophic Failure as a Service"
+            }
+        },
+        {
+            "id": "w_0577707041350c44bfb99d6484a450916d87aa7b",
+            "content": {
+                "en": "Cloud 2.0"
+            }
+        },
+        {
+            "id": "w_c438acdcad8ca4aa814b9d6d9aea1fab15b8424c",
+            "content": {
+                "en": "Cloud-based business strategy"
+            }
+        },
+        {
+            "id": "w_a2a11163bb23c36a668b4d64df235f69fe17190e",
+            "content": {
+                "en": "Command-line magic"
+            }
+        },
+        {
+            "id": "w_8b2a002381676c92e3ce9be71108cb0d131ac8b1",
+            "content": {
+                "en": "Continuous Disintegration"
+            }
+        },
+        {
+            "id": "w_0a95911fef9feab1279d57ccc20e090218e5b782",
+            "content": {
+                "en": "Continuous integration"
+            }
+        },
+        {
+            "id": "w_cb4497e75f2282bb1a426fc49f13a6ea32d35512",
+            "content": {
+                "en": "Copypasta"
+            }
+        },
+        {
+            "id": "w_d6cece1c9fd2fbc4654443c4878b20fb709f2529",
+            "content": {
+                "en": "COTS Shareware"
+            }
+        },
+        {
+            "id": "w_f91fb941327a728b16cf651c633f9ede10b02c2a",
+            "content": {
+                "en": "Degraded performance in some AWS availability zones"
+            }
+        },
+        {
+            "id": "w_71348be5140025a5d54784f1fc0a24a79b899a41",
+            "content": {
+                "en": "Developers"
+            }
+        },
+        {
+            "id": "w_7f3f11f5478a9e233c7c8cac100e2bfaec97f4b5",
+            "content": {
+                "en": "DevOps"
+            }
+        },
+        {
+            "id": "w_7700042467bd45a1703200c02213d7165c1b39a0",
+            "content": {
+                "en": "DevOps Days"
+            }
+        },
+        {
+            "id": "w_8f7f91e3c0b1eee0a40b21f7fcf37fb3b021fc85",
+            "content": {
+                "en": "Digital Ocean"
+            }
+        },
+        {
+            "id": "w_5056967ee3833b9d71bed7c0ca03432e5ad6e40e",
+            "content": {
+                "en": "done done"
+            }
+        },
+        {
+            "id": "w_853f4961e4e0a82ff5d95c4cb712b70547c328ba",
+            "content": {
+                "en": "Eating sushi with Andrew Clay Shafer"
+            }
+        },
+        {
+            "id": "w_149b7f0fbc60c8192d2812b226db309c6ff034d4",
+            "content": {
+                "en": "Edward Snowden"
+            }
+        },
+        {
+            "id": "w_f78eba4a94c16262c78c669bf08d05404eb9c697",
+            "content": {
+                "en": "EFnet in the 90s"
+            }
+        },
+        {
+            "id": "w_f7168b37275c07c1315920d9da4fb25d73ff985b",
+            "content": {
+                "en": "Epoch time in milliseconds"
+            }
+        },
+        {
+            "id": "w_8a82f7f166b561a0235aa6c4c2a56af6d477ae9c",
+            "content": {
+                "en": "FileMaker Instant Web Publishing"
+            }
+        },
+        {
+            "id": "w_53f55ec93df82989bbd20e8ebd50b49f1b7b6475",
+            "content": {
+                "en": "fuckedcompany.com"
+            }
+        },
+        {
+            "id": "w_deb4e042b9d6249db97e6680ab8276b237985bd9",
+            "content": {
+                "en": "Functional programming"
+            }
+        },
+        {
+            "id": "w_5819778898df55e3a762f0c5728b457970d72cae",
+            "content": {
+                "en": "Git"
+            }
+        },
+        {
+            "id": "w_92f4645da18d229c1e99797e4ee0203092e4c3ed",
+            "content": {
+                "en": "Golang"
+            }
+        },
+        {
+            "id": "w_b8300c349caaf02c240bbcfe222e6ed447ccd983",
+            "content": {
+                "en": "Growth hacking"
+            }
+        },
+        {
+            "id": "w_d1ef2a7a09b6c008768155a073251e8424973ba7",
+            "content": {
+                "en": "Hacker News"
+            }
+        },
+        {
+            "id": "w_de51bffbbc517caedb130bd6b7441add7cd4559c",
+            "content": {
+                "en": "Hand-crafted artisanal x86 assembly code"
+            }
+        },
+        {
+            "id": "w_c403d58be9e34f24314a15950a2c37c393d52858",
+            "content": {
+                "en": "Heartbleed"
+            }
+        },
+        {
+            "id": "w_f30ef3c1efb561dae8b9d56024ca61ef3bff5674",
+            "content": {
+                "en": "Hypervisors running hypervisors running hypervisors"
+            }
+        },
+        {
+            "id": "w_63eebd3c7a61b9c311c6051245c44391f9f6cf7d",
+            "content": {
+                "en": "IE6"
+            }
+        },
+        {
+            "id": "w_e8e7f2cc8d481413c86d24c615090e0d4a1ce52c",
+            "content": {
+                "en": "Larry Ellison"
+            }
+        },
+        {
+            "id": "w_a764d4688a8181942b4994cebe774ec9cd3d42b6",
+            "content": {
+                "en": "Leaky abstractions"
+            }
+        },
+        {
+            "id": "w_6b6390a4416131f82b6ffb509f6e779e5dd9630f",
+            "content": {
+                "en": "LinkedIn"
+            }
+        },
+        {
+            "id": "w_525bcda988bd875dd06ad8cac97a0f6238f56a11",
+            "content": {
+                "en": "Magic Smoke"
+            }
+        },
+        {
+            "id": "w_35f670849ee346b5e9d273b2249123e790faa154",
+            "content": {
+                "en": "Maven downloading the entire internet"
+            }
+        },
+        {
+            "id": "w_6ea10e09dd07c66608deca45b9dc2ebaddac97e2",
+            "content": {
+                "en": "Meritocracy"
+            }
+        },
+        {
+            "id": "w_f0c6acff24bc7941d7797f41a861782190b4b85f",
+            "content": {
+                "en": "MongoDB"
+            }
+        },
+        {
+            "id": "w_afec79056963a3511c63da2ad92db5b3fe649757",
+            "content": {
+                "en": "More buzzwords than you can shake a scrum at"
+            }
+        },
+        {
+            "id": "w_e7aca732581bdad95a7e220cdf16eadc9b7b8af8",
+            "content": {
+                "en": "Mutation of immutable data"
+            }
+        },
+        {
+            "id": "w_fcf7a127876791eb60e02cceaa757b777492d06f",
+            "content": {
+                "en": "Netscape Navigator 3.2 support"
+            }
+        },
+        {
+            "id": "w_10b3493287f831e81a438811a1ffba01f8cec4b7",
+            "content": {
+                "en": "Node.js"
+            }
+        },
+        {
+            "id": "w_296e1fdec16a66470cf02bd7fc741e1a29b64e8b",
+            "content": {
+                "en": "NoOps"
+            }
+        },
+        {
+            "id": "w_02225ed0a1732c809d2ddd6d390df08a52bbc0f4",
+            "content": {
+                "en": "NoSQL"
+            }
+        },
+        {
+            "id": "w_7d94ebbf07f5417771d7c7fd06f208703494bf50",
+            "content": {
+                "en": "NPM"
+            }
+        },
+        {
+            "id": "w_2979cf00f4973c9283a70f8e82490f346dbcd7a3",
+            "content": {
+                "en": "NullPointerException: null"
+            }
+        },
+        {
+            "id": "w_4c7b710b3c15c998736f367285e128ff1c279158",
+            "content": {
+                "en": "O'Reilly"
+            }
+        },
+        {
+            "id": "w_ed7003a34fd1abbae7d2b35e80a0769db2b14709",
+            "content": {
+                "en": "OpenSSL"
+            }
+        },
+        {
+            "id": "w_ae00e6f8da93052f4880373d3ed8ab7edd254d95",
+            "content": {
+                "en": "Our Release Engineer"
+            }
+        },
+        {
+            "id": "w_dd0e0e8b67f445d1f80ddc5881a57d1aaeacb5f0",
+            "content": {
+                "en": "PagerDuty configured with a random number generator"
+            }
+        },
+        {
+            "id": "w_edb8eb772b081fcbc6d68aad142d3cb27eeaa57c",
+            "content": {
+                "en": "Pareto Inefficient Nash Equilibriums"
+            }
+        },
+        {
+            "id": "w_1c303106ebcb361ba96ff4cb3f3a8547096fe989",
+            "content": {
+                "en": "Parsing HTML with regex"
+            }
+        },
+        {
+            "id": "w_e0e936e726d2e7f3323705da3645059597437730",
+            "content": {
+                "en": "Patent"
+            }
+        },
+        {
+            "id": "w_67c7387346d27d18ac0ba899a71d973afe22df36",
+            "content": {
+                "en": "Perl 6"
+            }
+        },
+        {
+            "id": "w_adfbd2b9184df12a4b4da779706af6f69623c3f5",
+            "content": {
+                "en": "Posting on Etsy&apos;s codeascraft blog"
+            }
+        },
+        {
+            "id": "w_0d1d841297281f42d3e33b9fa5aa37a516708281",
+            "content": {
+                "en": "Private keys in \/var\/www"
+            }
+        },
+        {
+            "id": "w_6e3604888c4b4ec08e2837913d012fe2834ffa83",
+            "content": {
+                "en": "Python"
+            }
+        },
+        {
+            "id": "w_f8148d5a6da6ce28dc14eb2e54687b979c8e3d6b",
+            "content": {
+                "en": "Python datetime module"
+            }
+        },
+        {
+            "id": "w_723940de49a617682fd6e0f3e03db5bd815c45e0",
+            "content": {
+                "en": "Rebasing the entire fucking repo"
+            }
+        },
+        {
+            "id": "w_0a8a68beaf057e0128a2d092e788bcaa734861e8",
+            "content": {
+                "en": "RecruiterFail"
+            }
+        },
+        {
+            "id": "w_b217e98c3bf70f3cf4633a5447d6587eea974ba1",
+            "content": {
+                "en": "Ruby"
+            }
+        },
+        {
+            "id": "w_ce071712e904efbef968bc692aed5b5c3e4ffa7d",
+            "content": {
+                "en": "Running out of IPv4 addresses"
+            }
+        },
+        {
+            "id": "w_7e82a969a57fa3953b3e8455989dff2c167072cb",
+            "content": {
+                "en": "Sadness as a Service"
+            }
+        },
+        {
+            "id": "w_4d6a39ffe13b2155e2f21440f05a3a71da4185e2",
+            "content": {
+                "en": "Shift-Ctrl-F12-\\"
+            }
+        },
+        {
+            "id": "w_d7e5d866f65e6d3630e15de3a87028f52b1d404e",
+            "content": {
+                "en": "Stack trace generator"
+            }
+        },
+        {
+            "id": "w_25836526e1630a9cee55167e0e0d062416d749f9",
+            "content": {
+                "en": "Sysadmins"
+            }
+        },
+        {
+            "id": "w_ff303aba64ba6b5787ae5e01a53a2756c268e333",
+            "content": {
+                "en": "Tech Recruiters"
+            }
+        },
+        {
+            "id": "w_0b7eb0a6bfd92c7481565cf829f3594a36ff61c9",
+            "content": {
+                "en": "The Cult of Mac"
+            }
+        },
+        {
+            "id": "w_2fdb5d5fddf65c1867485fe086da3baa13b1d2b3",
+            "content": {
+                "en": "The last remaining Multics server on Earth"
+            }
+        },
+        {
+            "id": "w_f3e09dda133e36fcb7ac4759181c149f376336e5",
+            "content": {
+                "en": "The next Y2K"
+            }
+        },
+        {
+            "id": "w_c348edaed68fc58f2a88cbad71366a7796932489",
+            "content": {
+                "en": "The NSA"
+            }
+        },
+        {
+            "id": "w_a8a4ea09e7189026f10dbfe76c61e2054e291685",
+            "content": {
+                "en": "The Sales &amp; Marketing department"
+            }
+        },
+        {
+            "id": "w_361b49835c9ed523b145f57a43eb12b7b420a4fc",
+            "content": {
+                "en": "The Stanford of Canada"
+            }
+        },
+        {
+            "id": "w_f3c24666450a20b05059ff9a4b1320400e39f0d0",
+            "content": {
+                "en": "The world&apos;s only fully-functional ROFLcopter"
+            }
+        },
+        {
+            "id": "w_d14d995e19f8173738fc36e239f4ac87d886a354",
+            "content": {
+                "en": "Thought leadership"
+            }
+        },
+        {
+            "id": "w_5392c950bdde4be7e5f5b8fdc6a1ca5f21e905cf",
+            "content": {
+                "en": "Twitter"
+            }
+        },
+        {
+            "id": "w_3769762dc0b723b9f6660d29edcd7eeaf4223f58",
+            "content": {
+                "en": "Unicode errors"
+            }
+        },
+        {
+            "id": "w_96de0039a5d6fa6b7fe5921464cd2e0b6c2e58ef",
+            "content": {
+                "en": "Unknown source in your stack trace"
+            }
+        },
+        {
+            "id": "w_a2dd138f615b6351bd5307c991d6790b5e8c5d9b",
+            "content": {
+                "en": "uucp"
+            }
+        },
+        {
+            "id": "w_c56264ad1b8afd7dafdfdebc57c5b521462082b5",
+            "content": {
+                "en": "VisualBasic DLLs"
+            }
+        },
+        {
+            "id": "w_e00274cddc4009e97e4c57d3e726e85b5d8e1499",
+            "content": {
+                "en": "Waiting for console.aws.amazon.com..."
+            }
+        },
+        {
+            "id": "w_9f63021ba5693207ad1c348cc9d719f28c0361e7",
+            "content": {
+                "en": "Web scale"
+            }
+        },
+        {
+            "id": "w_76f20bccfe3512339ad2cea01fc1c7809e7d3d15",
+            "content": {
+                "en": "Windows XP"
+            }
+        },
+        {
+            "id": "w_93ad1586f2ea9acdf60eb3e431551c4cc272ce75",
+            "content": {
+                "en": "Women in tech"
+            }
+        },
+        {
+            "id": "w_6f064c2d2bd73830071b5d7ff3dfd99cdc1245d7",
+            "content": {
+                "en": "Write-only code"
+            }
+        },
+        {
+            "id": "w_566d04c4504d2db3062031e0fc65a359ed39fae6",
+            "content": {
+                "en": "Yet another package manager"
+            }
+        },
+        {
+            "id": "w_11e2b28f8f45fa303cfd1dffdfd672720c82fadf",
+            "content": {
+                "en": "Zombie processes"
+            }
+        },
+        {
+            "id": "b_ea6522330df4f800753d79300c03baee2e313b98",
+            "content": {
+                "en": "...and then there was the time I found ______ on the root partition."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e76b968098784d2592ba9c3ff0ac913b800707c5",
+            "content": {
+                "en": "140 characters is just enough to explain ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cbafea064949fa6a188f36e2eda7447403fc33d9",
+            "content": {
+                "en": "A sales rep just tried to pitch me on ______; I told them we already have ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_49a08a87a74393965e9b6c74ca4afb7b6fd85c31",
+            "content": {
+                "en": "Accidental ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b6f779de88890d4e97f1a626107b8b2828a6ae6a",
+            "content": {
+                "en": "After ______ came up, the retrospective really went downhill."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_711551c0f94c4f413d0b6b02b488ed40e9c86ebb",
+            "content": {
+                "en": "All that we had to do to halve our response times was implement ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d256258c45def4c2c55e5874a5954c1aaf2685d",
+            "content": {
+                "en": "Amazon built a datacenter on the moon to lessen the risk of ______ causing problems."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_02d8cf4a84c2226eecb01d6adb56a1e1b7d2c288",
+            "content": {
+                "en": "Apple just patented ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_62e45b72b536d8824b5c2f3c8ada53c1233eb95e",
+            "content": {
+                "en": "Ask Me Anything about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a6b731497aef8f2631a4905e69fa26a749a295c",
+            "content": {
+                "en": "But Google is using ______ so we should too!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7db7d810ccaedd33849758109e6efdaed3123d18",
+            "content": {
+                "en": "Called on account of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e63978d992e434a713d30444d7467ff80a665f32",
+            "content": {
+                "en": "Chef convergence failed due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_10b80d7b2a59c6ae3e9b58606e2919d87b9fa493",
+            "content": {
+                "en": "Continuous ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b07364596753aea691829ee3709621fbb54538f0",
+            "content": {
+                "en": "DevOps: Now with 100% more ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9522fd238d237638affb3d11c839cdc15dc0f436",
+            "content": {
+                "en": "Did you know that we have ______ on pager rotation?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c13104323ccc33fb5fee1bc17ffcfd64ee54c51",
+            "content": {
+                "en": "Disrupting the established players in ______ via ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ad3900749ff625342e6e0a3b01ac8559357ef039",
+            "content": {
+                "en": "Doge ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c1d9dc43797cd5ab8a54d237deb1d150213ca68",
+            "content": {
+                "en": "Employees must ______ before returning to work."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f958bea0bdcf84a05c31d27eb734c25a2906fff8",
+            "content": {
+                "en": "Enterprise ______ in the cloud."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ec448dd864471fb69f132d90096e03bf1ac2ab3",
+            "content": {
+                "en": "Enterprise-ready ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_25f3ff2384cf5b9b5406728b81e8990e9690e7b6",
+            "content": {
+                "en": "Epic yak-shave caused by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_399a48e7bc41c3f88bab3cfae970b795873a431a",
+            "content": {
+                "en": "Etsy says we should ______ everything."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_251269f485c5414ef9cd8f1492d8471b1349fdcc",
+            "content": {
+                "en": "Every time someone brings up ______, I throw up a little in my mouth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33cb9a38cb54d46dddb7ef1d7a3d2815c553706a",
+            "content": {
+                "en": "Facebook has acquired ______ for $10b and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2899f57f7d34832f2e830d7fa8f5911d5b92e45e",
+            "content": {
+                "en": "Free as in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_73e1e3d4c29a3348df1e14c6b9223e438e89230d",
+            "content": {
+                "en": "Glitter-bombed with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1b5b9439f4f125f17ca5d49317dc86b5030a60ed",
+            "content": {
+                "en": "Hi, I&apos;m Troy McClure. You may remember me from such commit messages as ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6e7a1703f79a3a1ba25cae79089d75e55a365ffb",
+            "content": {
+                "en": "How even is ______ formed?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_515234b511c785636dd930f011ddc4da57362dff",
+            "content": {
+                "en": "I came up with an awesome regex that converts ______ to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d4ef689b0c2c7983a82a0f5c91c5047161225768",
+            "content": {
+                "en": "I can haz ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_14406d0b63fd89b21ef126330f47ed77f3283ab8",
+            "content": {
+                "en": "I don't own any jeans skinny enough to wear to a ______ meetup."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0672707930fb8b73c5041a8cdb8ac4e0f7e6ecee",
+            "content": {
+                "en": "I ended up having to buy a replacement ______ on eBay."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9604d2696655d6e48037f687d9be923630ca3db",
+            "content": {
+                "en": "I find Java to be way too much like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c5b6f12f1545df09a09ebae603a85cd67c0e6219",
+            "content": {
+                "en": "I got paged at 3am because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6da5aaf82682138f1040efdb3e379c800f096681",
+            "content": {
+                "en": "I saw the best minds of my generation ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f8c536c54ba64e65cda3585e3e67752ce42765ee",
+            "content": {
+                "en": "I think maybe I'll leave ______ off my resum&Atilde;&copy;."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_066b701c7b76a6816b99e9f12c594079e10f739f",
+            "content": {
+                "en": "If we make this deadline, Management has promised us ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84b0ac276654313e93efe8edbdd9a3e8cf5462fa",
+            "content": {
+                "en": "If you're ______, you're gonna have a bad time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b55b4744195069cb662b69ee2122921c023738ef",
+            "content": {
+                "en": "If ______ is the answer, you are asking the wrong question."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d84e0531d9e182cea1579d34090085725bee9d37",
+            "content": {
+                "en": "In order to improve security, we're upgrading to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e758b672947bc8c759519e06f3e1aea8a44c7f4",
+            "content": {
+                "en": "In the next planning session, we'll cover ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_670a67fa45101e0ad522b9a2d2ed5625a5e46ae1",
+            "content": {
+                "en": "It figures - an article about our ______ was posted just as we're pivoting to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_00e98507a31f1bde11b8d1d8630ce7fcf7814dd8",
+            "content": {
+                "en": "It turns out that the button labeled \"Don't Push\" actually does ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed0a48938c3a3d105983d28ae13fab67184c4149",
+            "content": {
+                "en": "It worked on my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9fb5018c349cb9f07ffccfb59af70ff58d6a14bc",
+            "content": {
+                "en": "It&apos;s dangerous to go alone; take ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34e220ee5963ccecf106f4324f69c4f51bdf468c",
+            "content": {
+                "en": "It&apos;s like trying to herd ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_266b1168fb7f56a7982f94010adb168f8c81aec8",
+            "content": {
+                "en": "Last week, I created a Chef recipe for ______; this week, it&apos;s an entire cookbook for ______. Automation FTW!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5faa216850cd395ef2f9dcdf02ef931cec4108c9",
+            "content": {
+                "en": "Main benefits of automation: ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c01e18e6e2626090f08b6cbaa8118594cd730a81",
+            "content": {
+                "en": "Management just told me I need to get certified in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc7df88cbd4c24dd30e82eeee23cd8953e12b15f",
+            "content": {
+                "en": "Management said it&apos;s OK to deploy ______ at 5pm on Friday"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b888ab993444a8eb70ee40a0409bafa695223c0e",
+            "content": {
+                "en": "Marketing says we're leaders in the ______ space, but I think it&apos;s more accurate to say we specialize in ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c1764a2fdc08f3f05d77401a2f6d50ad71e9a070",
+            "content": {
+                "en": "My eyes started bleeding when I opened the editor and saw ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d6c653fdbcf4c7512ea69de77521e65e207830d7",
+            "content": {
+                "en": "My Linkedin Endorsements include ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a3810dc656f35e6b8fa69243f6a1cec86d5dcf5",
+            "content": {
+                "en": "My next blog post will be about how we used ______ to create ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_926aefb00a5f1dc2ec8969785658f549d1f7bf54",
+            "content": {
+                "en": "My two most indispensable tools are ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e5f4f2a3d67fce55f3f239e98a410ad80fb7bf0e",
+            "content": {
+                "en": "No route to host: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_584056076ad903eacf5628ea2c6475c3de25ef4b",
+            "content": {
+                "en": "Nobody ever got fired for buying ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ad4285d05091c3bb07277e5dd02ed1899faf5f3",
+            "content": {
+                "en": "Our app is like ______, but for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_11f028bf70b9f4eb60ef293ce2b5a29f1e705c92",
+            "content": {
+                "en": "Our competitive advantage is our ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d106f1befe89e11406dba5903c5af591bc00d5ac",
+            "content": {
+                "en": "Our entire app is geared towards providing ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18111856d385be1d3e258af627fc94401c6833a6",
+            "content": {
+                "en": "Our greatest achievement in the last year is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_24c4847b37c9fe2ba8a7dafdbd823810b791b502",
+            "content": {
+                "en": "Our production backups are stored using ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12773a6d74cf3b55893d2ee43c24be33d0108959",
+            "content": {
+                "en": "Pour one out for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bbc7f73e2e7f0b3123e7f2bfe8a1884662d7b4d7",
+            "content": {
+                "en": "Put some ______ on it"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff8490918474d0f9f0e01eaf92ec4d4faf8be1da",
+            "content": {
+                "en": "Restoring from backups failed due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2d4667d01c5a18f8d9b57468e4fb82ef7003b4d",
+            "content": {
+                "en": "RIAA is suing me for downloading ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17332c62c757fc642fea7026feed490583cb1f3b",
+            "content": {
+                "en": "Robots are going to make ______ obsolete."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d9b5c556fced731bc543da78d8b822318116381b",
+            "content": {
+                "en": "Root cause of the outage? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d683603f3d42837ef8ff1b7ac18271717866be97",
+            "content": {
+                "en": "Running Windows in production leads to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bebb3a2cf70145d81b91c4b551404b24344bc612",
+            "content": {
+                "en": "Security? We've got that! We use ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ef612168874e11254ce13cc63338c3ccb1bb923",
+            "content": {
+                "en": "So, I was using Wireshark to check network traffic... Did you know we have ______ in production?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_97505acf9324d30dd96f0f18e4ec2ce14b7a86ea",
+            "content": {
+                "en": "Sweet! I just found a Puppet module for ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cba10f9714a6463c2065f68d2d97979512a98c86",
+            "content": {
+                "en": "The hardest problems in computer science are naming things, cache invalidation, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_abddcb841dd8d4b244df0027f8488c824f77df88",
+            "content": {
+                "en": "The Internet is for cat memes and ______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b5922856c679a74e2e6c00161cef6ad9516966b1",
+            "content": {
+                "en": "The Internet of Things will be controlled by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3501332ba108764e79e4e550fb30ec68389c1663",
+            "content": {
+                "en": "The most stable part of our infrastructure? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aafb26edfc71356fe9b1cfbe24a4fbf893e4e930",
+            "content": {
+                "en": "The only thing necessary for evil to triumph is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_60a740b687e3a426ebced96654dabc5093d1d6e8",
+            "content": {
+                "en": "The production datacenter burned down because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_719f1a49b7b79679cccd278521545b9a5dc84bdf",
+            "content": {
+                "en": "The status console is green, but I can't access ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2cc07ce223c6503cfd546aa4b6d9577b1f7a5dfc",
+            "content": {
+                "en": "The two pillars of our Continuous Deployment pipeline are ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7047443de7266e48012f38fe65c2056524de912a",
+            "content": {
+                "en": "There was no good solution for ______, so we built our own."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1192cac68533247a331fa8d36974f17b0f806ea1",
+            "content": {
+                "en": "This account has exceeded the maximum number of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dce02f92b32f06c2c1ff182f062cfc06d32d11dc",
+            "content": {
+                "en": "This isn't going to be all unicorns and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c17943ab114626455eb88242b7217971bc01c682",
+            "content": {
+                "en": "Time to schedule the postmortem for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_11e02873d007dcc359878a4e3774522545caa0aa",
+            "content": {
+                "en": "To secure our next round of funding, Management says we need ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f75e40edf155ce99da21ec387b0678990bf984af",
+            "content": {
+                "en": "Uber is on surge pricing because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccf87f8200cd59b2cffcd1e6646035bfead5db46",
+            "content": {
+                "en": "WARN: ______ has been deprecated."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e9168f1bd2a5134cc7eee4ed2fa7681499be0168",
+            "content": {
+                "en": "We don't need ______ - we have ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_07246fd98409637b4d5610009706aa1d2296b9b9",
+            "content": {
+                "en": "We really need to open-source our ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1bb6a5f57d23bcdbc9a27189bd3936fe54a7579",
+            "content": {
+                "en": "We replaced our ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_58801ae1182e3ddefe3a2863377aa735956d0153",
+            "content": {
+                "en": "We run production ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5eb09d9edf01a915b0d91c10131ca1b02bd121a5",
+            "content": {
+                "en": "When I hooked the 3D printer up to the Internet, it accidentally created ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9b32d8e75a68aa97dcbb403c93845a108d2cfa1",
+            "content": {
+                "en": "When I told Jez Humble about our ______, he actually cried."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f3bcc47e160bd996416637a8b5d4ee6eb86ecc2d",
+            "content": {
+                "en": "When I was a kid we didn't have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d292cc095fb7f0fd6eb242ec677d640c3ab124c5",
+            "content": {
+                "en": "When I write a book about my experiences, it'll be called \"______, the good parts\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ffbe089d7739c7956bc4545a3ca2cc3088c80ea",
+            "content": {
+                "en": "Who would have known that ______ could destroy an entire datacenter?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_add40d8107a3e629f09d34a0c67a20e93c525a71",
+            "content": {
+                "en": "Will merge pull requests for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0019a319f4e6f3a54eac0d2cb5d2923189d0c6aa",
+            "content": {
+                "en": "Wrap it with the ______ duct tape."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe9fd5a22b64d79366ea72dac9e18d97680eb171",
+            "content": {
+                "en": "xkcd.com just made a hilarious comic making fun of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_296c3da39cfdfa8b7e94bb522c78d3a7824139df",
+            "content": {
+                "en": "You know what our app needs? More ______, less ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4308b2b4cfe000f4254feb1ee300498964458dd1",
+            "content": {
+                "en": "You should think of your servers like ______ and not like ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_41870076c3f2e3d2b08889900602560b3d274cd6",
+            "content": {
+                "en": "Zero-day ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f730d1cebd08b98bfbda09387e47a93241c31845",
+            "content": {
+                "en": "______ - the idiot&apos;s guide to ______ and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_28db579119152700fe96b6253525e23dc74fcebe",
+            "content": {
+                "en": "______ all the way down."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7fc9f16f5ecb8126aa3f5a8be25aa78fc733299f",
+            "content": {
+                "en": "______ as a service."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_efbef9073739667592aa284f1a263fe2952cec04",
+            "content": {
+                "en": "______ dooms any project to epic failure."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_154e81b4a7f72e23ddb2cd7dafdbf4df2a6eed0c",
+            "content": {
+                "en": "______ Driven Development."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c269d835a900f5e5ebc0326bc062a4a2a1a9c4f4",
+            "content": {
+                "en": "______ is a feature, not a bug."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_212db314ca2b22c62ebd748c0aca420d82d37fa5",
+            "content": {
+                "en": "______ is for closers."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2472543d07fad88c8d77964f9d9fb396d3ead01",
+            "content": {
+                "en": "______ is the new ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_72ae0b96c41bc3ffc896f9d22827c656c7d2a7e5",
+            "content": {
+                "en": "______ is weaponized privilege."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_77e39776c76e369f96c37954d3d9359bde97cd2a",
+            "content": {
+                "en": "______ is webscale."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cae790b1c8e9bebfbe544a0f6fe13416958cc18f",
+            "content": {
+                "en": "______ or it didn't happen."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b4a802bbb24adb5e8abe7261bae277618dcf8327",
+            "content": {
+                "en": "______ with one weird trick."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f08a10f2de6e2d5596064ea5a5b0227515d4d2d7",
+            "content": {
+                "en": "______, as one does."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a18be177a645ea1b5da947a552269122fe9b6d35",
+            "content": {
+                "en": "______, for some values of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c90ed97f20e4a6c37028909a27bd37d8f392e762",
+            "content": {
+                "en": "______, is that even HA?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c745865ce9027dc3b337321b287070d74e95274f",
+            "content": {
+                "en": "______, the only thing worse than recruiting spam."
+            },
+            "pick": 1
+        }
+    ]
+}

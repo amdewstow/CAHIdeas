@@ -1,0 +1,1046 @@
+{
+    "id": "Reddit",
+    "name": "Reddit",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_a97c090481902a52fe67a29e45eee09ea561ef5a",
+            "content": {
+                "en": "\"and my axe!\""
+            }
+        },
+        {
+            "id": "w_6a97beaeea216ab97da4b8844e9e91da34e65685",
+            "content": {
+                "en": "\"Justifying\" your own racial prejudices by pretending to be a member of the race in question"
+            }
+        },
+        {
+            "id": "w_c4c966db8059498a11857cb69e54a0af0bd21790",
+            "content": {
+                "en": "\/r\/atheism"
+            }
+        },
+        {
+            "id": "w_09c39a119cf26d7a975571bed9a1cf4f1ee1bdc4",
+            "content": {
+                "en": "\/r\/aww"
+            }
+        },
+        {
+            "id": "w_d28e718cd7617524bc1a5f5455d55f34c1b33c9d",
+            "content": {
+                "en": "\/r\/circlejerk"
+            }
+        },
+        {
+            "id": "w_cf1a4ddcda502f48735338141c64fa2b4e944cb4",
+            "content": {
+                "en": "\/r\/funny"
+            }
+        },
+        {
+            "id": "w_a77fd00d19ba0677007f2cf308393a29b062783a",
+            "content": {
+                "en": "\/r\/gonewild"
+            }
+        },
+        {
+            "id": "w_2dcd30e97279b1fecc564a8558ddc73000f9481c",
+            "content": {
+                "en": "\/r\/MensRights"
+            }
+        },
+        {
+            "id": "w_5283e12ecc5dd3e6addafa1087e289b4f18666d3",
+            "content": {
+                "en": "\/r\/ShitRedditSays"
+            }
+        },
+        {
+            "id": "w_906cc1d8468b668c761c4a9d594a830e89d19d64",
+            "content": {
+                "en": "\/r\/WTF"
+            }
+        },
+        {
+            "id": "w_798fd494c0954f2859509749b3b869838f6f5534",
+            "content": {
+                "en": "\/u\/AWildSketchAppeared"
+            }
+        },
+        {
+            "id": "w_e1d7acfaee43c4767bddfb24bc404060bea408f3",
+            "content": {
+                "en": "\/u\/Caption Bot"
+            }
+        },
+        {
+            "id": "w_77a9bdc3e10950adea879e4e5afe937e5184d5f9",
+            "content": {
+                "en": "\/u\/ShittyWaterColor"
+            }
+        },
+        {
+            "id": "w_f83bf51a5f9ef71ae18216c825995d8da68a2b36",
+            "content": {
+                "en": "\/u\/Unidan"
+            }
+        },
+        {
+            "id": "w_1e214561dacdae6e16cc44f82f14e9688cc87a8e",
+            "content": {
+                "en": "10\/10 with rice."
+            }
+        },
+        {
+            "id": "w_40ac1c82a5daa2ddc03dccbf2ee6f99eed258bcf",
+            "content": {
+                "en": "A \/r\/aww pic of a Shiba lnu with no \"wow\" comments"
+            }
+        },
+        {
+            "id": "w_0bce60e89ac26cd76ec39fd16bb0ef27cbb0308f",
+            "content": {
+                "en": "A Bitcoin tip"
+            }
+        },
+        {
+            "id": "w_f778ac7baaf28946bb5ccd16caaac6bc05b36b5b",
+            "content": {
+                "en": "A classic reddit white knight, m'lady"
+            }
+        },
+        {
+            "id": "w_b9dfa94b1bb2f943aa1827f1fc611e1756ea475c",
+            "content": {
+                "en": "A complete disregard for spelling and grammar."
+            }
+        },
+        {
+            "id": "w_2771ed460676e36f614848a8cf4c485bfece15be",
+            "content": {
+                "en": "A confession bear with an actual confession"
+            }
+        },
+        {
+            "id": "w_61f946afd646f46a0532df72e8b309794d366266",
+            "content": {
+                "en": "A crappy pic in \/r\/pics that&apos;s only getting upvoted for the overly emotional title"
+            }
+        },
+        {
+            "id": "w_0b5f3649336cf7b742430d1653fa538acfd3dcdc",
+            "content": {
+                "en": "A Dogecoin tip"
+            }
+        },
+        {
+            "id": "w_f5afad6fd31f1548066c70d342d25fa42578327a",
+            "content": {
+                "en": "A Nazi Pun Thread"
+            }
+        },
+        {
+            "id": "w_f3dd7b285769835ad97d165323dbfcbf88b366d0",
+            "content": {
+                "en": "A relevant XKCD"
+            }
+        },
+        {
+            "id": "w_864bc219a403b678a1bb11a2cce1c4772c5f0033",
+            "content": {
+                "en": "A shitty tumblr GIF."
+            }
+        },
+        {
+            "id": "w_54f74189310326d1bb171b9ba95c67dd653981ac",
+            "content": {
+                "en": "A showdown between two popular novelty accounts"
+            }
+        },
+        {
+            "id": "w_2ca4e0bd73a76899450d380369ba09bf24409cfe",
+            "content": {
+                "en": "A sympathetic upvote for Michelle Bachmann"
+            }
+        },
+        {
+            "id": "w_fc18c37c1ca05a40adfcea42b009ba40abe364d0",
+            "content": {
+                "en": "A throwaway made just for NSFW subreddits and racist comments"
+            }
+        },
+        {
+            "id": "w_208fd3d0defb98c694a329872e9acb03a62b0c7e",
+            "content": {
+                "en": "A tipped fedora"
+            }
+        },
+        {
+            "id": "w_6a831671c627573ce51457603885854ef1a6831d",
+            "content": {
+                "en": "Actually asking Woody Harrellson an AMA question about Rampart"
+            }
+        },
+        {
+            "id": "w_8db96691c16e6faae7395f7eaa1f6d25232b1612",
+            "content": {
+                "en": "Actually being a really tough navy seal but no one believing it because they think it&apos;s a copypasta"
+            }
+        },
+        {
+            "id": "w_7d2d0e41945c45fecba2ca182101adc20982f53d",
+            "content": {
+                "en": "An intense suspicion that Donald Trump is a Muppet."
+            }
+        },
+        {
+            "id": "w_cb7a354e32256feff4032da5b4a6d7ffd31d05a9",
+            "content": {
+                "en": "An OP that actually delivers"
+            }
+        },
+        {
+            "id": "w_a469ab8c61e6e5568ff809cbfeeb3a57fb4d7b8c",
+            "content": {
+                "en": "Another Louis CK AMA"
+            }
+        },
+        {
+            "id": "w_edbc60fdb55ab42dc1423695ffbd1ace3d7eaba7",
+            "content": {
+                "en": "ARE YOU FUCKING SORRY?"
+            }
+        },
+        {
+            "id": "w_9f52f8cceb6ab7c981316a5df337f706f7c2d4b7",
+            "content": {
+                "en": "Arnold Schwarzenegger giving you fitness advice"
+            }
+        },
+        {
+            "id": "w_d16ad0490b179324d98c535c70eb97881768ef17",
+            "content": {
+                "en": "Ayy, lmao"
+            }
+        },
+        {
+            "id": "w_7f6c0327425a292c704c9186d594dded93aa81f9",
+            "content": {
+                "en": "Banana for scale"
+            }
+        },
+        {
+            "id": "w_dfe63ca15ad4009d0b021aec4f3e597343c52eb5",
+            "content": {
+                "en": "Beat me with a pair of jumper cables."
+            }
+        },
+        {
+            "id": "w_66acc2fedc4b80c2bd6087a14bc0e3c8dabc6bff",
+            "content": {
+                "en": "Beating a meme to death with another meme."
+            }
+        },
+        {
+            "id": "w_3c342a53f9f323c248df484fe938191974717501",
+            "content": {
+                "en": "Becoming aroused by plagiarism."
+            }
+        },
+        {
+            "id": "w_0c983a2619eb01099ad06e81720b1a77c57d4b52",
+            "content": {
+                "en": "Being devastated when you realize that your popular self post is doing nothing for your karma score"
+            }
+        },
+        {
+            "id": "w_bb64968d63ad0c12d87c258acc95dce645198359",
+            "content": {
+                "en": "Being jealous of the guy who had sex with his mom"
+            }
+        },
+        {
+            "id": "w_fa4887f27eda1a3e7fa4a379ad38976bc6ad35e3",
+            "content": {
+                "en": "Being totally desensitized to death, gore and blood from\/r\/WTF but screaming like a child at a picture of a spider"
+            }
+        },
+        {
+            "id": "w_e1d6e3b48c9d27a5a023904a3bf256fae240c7b3",
+            "content": {
+                "en": "Broken arms"
+            }
+        },
+        {
+            "id": "w_b74fa64c86a72ad174e992fe432b737c8d9fe04f",
+            "content": {
+                "en": "Calling OP a faggot"
+            }
+        },
+        {
+            "id": "w_203e1a8d7633d2af68b7356b936f1d2acccd7568",
+            "content": {
+                "en": "Colby 2012"
+            }
+        },
+        {
+            "id": "w_01870263489c7b0c6dd05f2a5f5a08ed13f395f1",
+            "content": {
+                "en": "Coming here to say this"
+            }
+        },
+        {
+            "id": "w_4a7057f4c6b6023db324bdc4d5fd755b67658295",
+            "content": {
+                "en": "Cumbox"
+            }
+        },
+        {
+            "id": "w_1515ec1a6ec0c58e86e01c6f6765c23cd6db4720",
+            "content": {
+                "en": "Cumbox Swamps of Dagobah Obama"
+            }
+        },
+        {
+            "id": "w_71267ea8b9b926c8ac168f3b640483714d58bd73",
+            "content": {
+                "en": "Dank memes."
+            }
+        },
+        {
+            "id": "w_a884f893eefaa6c66d62b7b89c905611ce51d846",
+            "content": {
+                "en": "Deleting your comment because of too many down votes"
+            }
+        },
+        {
+            "id": "w_c1a3a8fa047911e86740a63096963856855e8d5e",
+            "content": {
+                "en": "Dickbutt."
+            }
+        },
+        {
+            "id": "w_77deda216eb43eae8e479d195b2861d7e39c904e",
+            "content": {
+                "en": "DO YOU LIKE THAT YOU FUCKING RETARD!"
+            }
+        },
+        {
+            "id": "w_131dfa84758865a29a17c92136952f16dbd85b65",
+            "content": {
+                "en": "Feeling brave and downvoting your own comment straight after posting"
+            }
+        },
+        {
+            "id": "w_5668a2cd9dba8e8ae9a2a69d1b54b051d687c6d8",
+            "content": {
+                "en": "Feeling good about reddit donating a huge sum of money to something, even though you had nothing to do with it"
+            }
+        },
+        {
+            "id": "w_8ea5cd368071b76805210f63cfbe320a84f66e01",
+            "content": {
+                "en": "Feeling smug when seeing a meme posted on Facebook, hours after seeing it on reddit"
+            }
+        },
+        {
+            "id": "w_2d580204eb938259bdcfda8fddf43ed6a6e9ef4e",
+            "content": {
+                "en": "Feminazis"
+            }
+        },
+        {
+            "id": "w_357f16bc080eb4593fd82ca0e76f9093f073e704",
+            "content": {
+                "en": "FUCK KEVIN."
+            }
+        },
+        {
+            "id": "w_cf1b032393772fef448c46dc41f4d83ee665e679",
+            "content": {
+                "en": "Getting a pet just for the karma potential"
+            }
+        },
+        {
+            "id": "w_e25b6feffd0e664525f5bad6ad39106297266f2b",
+            "content": {
+                "en": "Good bones and Calcium."
+            }
+        },
+        {
+            "id": "w_86b35f1fc26ad53fea2b4f7152a083866975cfce",
+            "content": {
+                "en": "Having your faith in humanity restored"
+            }
+        },
+        {
+            "id": "w_e8a4b0559f54130f71324d395019cc85891b415c",
+            "content": {
+                "en": "It going okay"
+            }
+        },
+        {
+            "id": "w_7c7cb50ddf0ffbe9499f0e28b4d5402f56f42515",
+            "content": {
+                "en": "Jenny going for some kisses and touching it a little."
+            }
+        },
+        {
+            "id": "w_78005d90a73203dca8ff3d2830fdf391507ff318",
+            "content": {
+                "en": "Jenny touched his penis a little"
+            }
+        },
+        {
+            "id": "w_dada3061ffd527c0c3297bf32a21c8fa037f46b8",
+            "content": {
+                "en": "JOHN CENA"
+            }
+        },
+        {
+            "id": "w_00bea3e09b33000374690a119e103561d70e18b9",
+            "content": {
+                "en": "Jumper cables."
+            }
+        },
+        {
+            "id": "w_e043899daa0c7add37bc99792b2c045d6abbc6dc",
+            "content": {
+                "en": "Kevin"
+            }
+        },
+        {
+            "id": "w_157dd73ed4b5e30b1d055628894d005445d98438",
+            "content": {
+                "en": "Lawyering up, deleting Facebook and hitting the gym"
+            }
+        },
+        {
+            "id": "w_ca33c7b3573f3fbafaff6068ef561c070a83bfd6",
+            "content": {
+                "en": "Logging in just to upvote this"
+            }
+        },
+        {
+            "id": "w_6c2d421e9b0e457a54d7c0cd59e122b8aa693249",
+            "content": {
+                "en": "Madonna asking you to \"send photo\""
+            }
+        },
+        {
+            "id": "w_cbf3b9e4b7726340b0cff7ef15ffb86ee14be3f4",
+            "content": {
+                "en": "OP&apos;s Mom!!!!"
+            }
+        },
+        {
+            "id": "w_db02d1020dd8db1176062ab6943d3bdc6c1fa4fa",
+            "content": {
+                "en": "Opening the safe and feeling disappointed."
+            }
+        },
+        {
+            "id": "w_8d7c6d9c745c87b693a8e8a98acad888a9c4c8cd",
+            "content": {
+                "en": "Oversimplifying a complex situation to the point of no longer adding anything useful to the discussion"
+            }
+        },
+        {
+            "id": "w_d294e0831a7aea335da92f047f493bfda5a15eb1",
+            "content": {
+                "en": "Paul Blart: Mall Cop"
+            }
+        },
+        {
+            "id": "w_22d83eb19b00e43af74689fca2ccc91c7cf1600f",
+            "content": {
+                "en": "Posing next to a fat guy&apos;s exposed butt-crack."
+            }
+        },
+        {
+            "id": "w_01d8bbb6fbe47c7c2720c8b6d59ac1227d2e90c4",
+            "content": {
+                "en": "Reading the title of an article and declaring yourself an expert."
+            }
+        },
+        {
+            "id": "w_8037c7acca4713d2ff5adcd59d129a69a1c3597a",
+            "content": {
+                "en": "Realizing you missed your own cakeday"
+            }
+        },
+        {
+            "id": "w_60f61970b7bc47b6a005bda440761d61d38411b9",
+            "content": {
+                "en": "Receiving a hand-job from your own mother."
+            }
+        },
+        {
+            "id": "w_f651256195b5e1cd95eb3a74813abf9d74783dc8",
+            "content": {
+                "en": "repost"
+            }
+        },
+        {
+            "id": "w_c2a318596c8efc092bdd6c23e9efa4df7d4c893b",
+            "content": {
+                "en": "Repost Card."
+            }
+        },
+        {
+            "id": "w_bc57f5a8025042aab728157d5b600f7423959dc6",
+            "content": {
+                "en": "Reposts"
+            }
+        },
+        {
+            "id": "w_9e013448fe535fdce68369ba56f25db0168b5b1b",
+            "content": {
+                "en": "Saving all of your semen in a box."
+            }
+        },
+        {
+            "id": "w_5dccd82d78cc020b093c8e2931dc63aaa82b7c5d",
+            "content": {
+                "en": "Seeing your mom, sister or other immediate family member in a \/r\/gonewild post"
+            }
+        },
+        {
+            "id": "w_c52ae8147547d3be164bb0458b060f501dcd8330",
+            "content": {
+                "en": "Severely Inbred European Royalty"
+            }
+        },
+        {
+            "id": "w_fcb6dc05d7a1f5e247246aebd9c13cc30222d11e",
+            "content": {
+                "en": "Snoop Dogg coming in and derailing your AMA"
+            }
+        },
+        {
+            "id": "w_52f45cfeb7bfdd62c957c0bd01544637e30f81b5",
+            "content": {
+                "en": "Something something jolly rancher."
+            }
+        },
+        {
+            "id": "w_8d3bf8e54065adb527fd2fc6400bc98f575890a6",
+            "content": {
+                "en": "Starting a NSFW \/r\/AskReddit thread so you have material to masturbate to later"
+            }
+        },
+        {
+            "id": "w_a370acece2675d34a6a941ad366c4a485ca7f0df",
+            "content": {
+                "en": "Starting a sexual relationship with your mother because you broke both your arms"
+            }
+        },
+        {
+            "id": "w_63c5f89a64a51bd37a7a299e7c6c4d02cf4ffab4",
+            "content": {
+                "en": "Taking a picture of taking a picture of taking a picture of taking a picture of your tattoos"
+            }
+        },
+        {
+            "id": "w_a5ba99ac1152c1bfbe7cb14efdbf00ce25986347",
+            "content": {
+                "en": "Test card. Please don't play."
+            }
+        },
+        {
+            "id": "w_f2f089df26a743daf659ceb5757c9830e117a906",
+            "content": {
+                "en": "Thanking a kind stranger for the reddit gold"
+            }
+        },
+        {
+            "id": "w_9db5e68cc935a3c10f52cf0eb493ae910ebc6405",
+            "content": {
+                "en": "The \/r\/Atheism mods"
+            }
+        },
+        {
+            "id": "w_944c3df389bbe3012755cc46c86836c34721b030",
+            "content": {
+                "en": "The Cumbox"
+            }
+        },
+        {
+            "id": "w_e79c168ab8a8133af4ef044fc1603025ed606fab",
+            "content": {
+                "en": "The day the default subreddits changed"
+            }
+        },
+        {
+            "id": "w_32a7f6c6d3320de45e7cb49c429c6f4e16079794",
+            "content": {
+                "en": "The Dorito crumbs in your neckbeard"
+            }
+        },
+        {
+            "id": "w_bd0004bf4504051fa255adcc21363ad5ffaa8954",
+            "content": {
+                "en": "The euphorically brave offspring of Carl Sagan and Neil deGrasse Tyson"
+            }
+        },
+        {
+            "id": "w_6f7cf8cf4b89414563a23eda74ddfc16f1d16c94",
+            "content": {
+                "en": "The guy with two penises"
+            }
+        },
+        {
+            "id": "w_2e92a1b886d4b19133d9ca820b73bc5d32e30ba3",
+            "content": {
+                "en": "The Jolly Rancher"
+            }
+        },
+        {
+            "id": "w_15ed71bf253c3a70690c6c8c850dba9228f2d761",
+            "content": {
+                "en": "The Matrix corridor scene upvote gif"
+            }
+        },
+        {
+            "id": "w_334b6681f3797656246bd19f7bf5b8a8a3ead4cd",
+            "content": {
+                "en": "The Patriarchy!"
+            }
+        },
+        {
+            "id": "w_7e743ab913c87e08b5ad3582d2871d10c819a65b",
+            "content": {
+                "en": "The smell of burning cumbox"
+            }
+        },
+        {
+            "id": "w_eba7a33f26af7819a5f5110dd3adab4fa650f1e9",
+            "content": {
+                "en": "Thinking that gif of Robert Redford expressing his approval was actually Zach Galifianakis"
+            }
+        },
+        {
+            "id": "w_eb17917c4fb7af8bd4b0a95ad0f4c1371cb10b47",
+            "content": {
+                "en": "Trawling Wikipedia purely for future TIL posts"
+            }
+        },
+        {
+            "id": "w_8cd61d67fd14439262e30dc3c00cd6a31fc640ed",
+            "content": {
+                "en": "Trying to retrospectively downvote Obama"
+            }
+        },
+        {
+            "id": "w_281329bcc9d267a360b58979104e0ff7b506fdbe",
+            "content": {
+                "en": "Using a Confession Bear to confess to murdering your sister&apos;s abusive, meth addict boyfriend"
+            }
+        },
+        {
+            "id": "w_8bb03fad7516c3948a3d87f708f0cd3897c2290e",
+            "content": {
+                "en": "Vagina bacon"
+            }
+        },
+        {
+            "id": "w_1cee9048c3476b048beb39c79bbe2b34419503bb",
+            "content": {
+                "en": "vagina bacon and eggs"
+            }
+        },
+        {
+            "id": "w_19ba7af6fe0c5f31a443c9fbd9f2630d9cfdc27e",
+            "content": {
+                "en": "Yea, you like that you fucking retard?"
+            }
+        },
+        {
+            "id": "w_cdcaa1df3a394747c22a79e12a9881287a0beb66",
+            "content": {
+                "en": "Your Cakeday"
+            }
+        },
+        {
+            "id": "w_e5a06e7c274aee101546180a6d6df403e72fb397",
+            "content": {
+                "en": "[Deleted]"
+            }
+        },
+        {
+            "id": "b_8fd049eef63c232b01db214021ad7f83e2737e5d",
+            "content": {
+                "en": "\"In this moment, I am euphoric. Not because of any phony god&apos;s blessing. But because of \" ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44012b9a0e60d6049165b9d4c5db9ed72c925770",
+            "content": {
+                "en": "\/r\/ ______ Porn is my new favorite subreddit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cdb8a7ab68a40c05494ec5688765ca1670690580",
+            "content": {
+                "en": "After the online popularity of Breaking Bad, AMC are set to create a show based on Reddit called \" ______ \""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e8b52c4fe18f435e5e5f59d1a4960ca7949e22ba",
+            "content": {
+                "en": "And now my most upvoted comment is about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f241941407f4fd788dbce7f5fe6b9c425b931c5",
+            "content": {
+                "en": "Came here for ______, was not disappointed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a1d6ac7111198567239304051ae78bcb388fba6",
+            "content": {
+                "en": "Check out my new cat! I found him while..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_746718fa7493176dc2c59c406f9239686b88fa70",
+            "content": {
+                "en": "DAE REMEMBER ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_79ced1b3a50c1b498dc0fbb2a676030b1c9724a6",
+            "content": {
+                "en": "During Woody Harrelson&apos;s AMA, he admitted to..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f6856fb36fe039fc1dc5f2961f6922693873a9ba",
+            "content": {
+                "en": "ELI5: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94f6e81fe4045cfa2500527727dc1c198498b13c",
+            "content": {
+                "en": "Elon Musk&apos;s new plan for Mars includes ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f24e21b22719f58bd5fc20b52bfe346c2d77106",
+            "content": {
+                "en": "Hey Reddit, lAmA ______ Ask Me Anything!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f63eae1cef1949eb03077c9a1a8507c4d8726a0",
+            "content": {
+                "en": "Hey reddit, my girlfriend knitted me ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e275b680242c39ca0bbe8f159c3b197e7237b508",
+            "content": {
+                "en": "Hold my ______ I&apos;m going in !"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ff3bd0931fd94352c16a89addd8403308ece4d8",
+            "content": {
+                "en": "I am (a) ______, AMA."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ce4f29f6dfa9fd3a80d4b8b15f82fa060458bb53",
+            "content": {
+                "en": "I broke both my arms, so now I use ______ to masturbate."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f65ac83b87a4424222649f3ada637b115bde517d",
+            "content": {
+                "en": "I can't believe \/r\/ ______ is actually a subreddit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94bb641dea965847bfb38076de5d2e91bf2e226b",
+            "content": {
+                "en": "I can't believe ______ is considered \"WTF\" these days."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c6b27a738984da62e86b3d6b9426244b5aede859",
+            "content": {
+                "en": "I can't fap to this."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1a339aae6972e8cf6c50972af4f73300b254c2cb",
+            "content": {
+                "en": "I cant believe it was ______ in the safe all along."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_13d52ee189eadc125b1ff67026b47977d31b5c99",
+            "content": {
+                "en": "I know I'll get downvoted for this, but I really don't like ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_63a2056f5c677979867d86bacc6d1125658ecd93",
+            "content": {
+                "en": "I lost it at \" ______ \""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4163f044f4d30c0755e062514af33cfd99c3ffb2",
+            "content": {
+                "en": "I lost my significant other, my kids, my job and my house. But I still have ______ So I got that goin' for me, which is nice"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ef3d6120fc09cd37aa42e156a71327c14e1a11b8",
+            "content": {
+                "en": "I posted in ______ with my alt account because it was ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8017740709c8974b8612aa23df1c2935aee72429",
+            "content": {
+                "en": "If Bernie Sanders had an AMA, he would probably recommend..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33c8b967013f6213be1b893c4895e3ce197e3ea2",
+            "content": {
+                "en": "Instructions unclear, got dick stuck in ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_53d44959c18c5221e7369e9538a5f03a1a389366",
+            "content": {
+                "en": "ITT PM ______ ME ______ YOUR ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_9d1c1e795dbdea66ee676fc3cd51dac0d8b5eea8",
+            "content": {
+                "en": "Jet fuel melts ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6128bba94d901b7bae389dc3958fb9c6eeb0e81f",
+            "content": {
+                "en": "My Dad used to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c5e8382babca41878a0a2d2986acad399da10bde",
+            "content": {
+                "en": "People of Reddit, how did you lose your virginity?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_52603436009ba0ac0289ae3aec61142da22078de",
+            "content": {
+                "en": "Petition to change ______ to ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d8120a886441f089dfc1fb141b818abde4342c18",
+            "content": {
+                "en": "PM ME UR ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_409cfb24648cd4b6077ab5009a86e20f7d25ab26",
+            "content": {
+                "en": "Pope Francis declares Catholic Church has been too hard on ______ in the past."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d3aea489e8d82ead8b517aa30a73cc5446dacdbf",
+            "content": {
+                "en": "Reddit, what&apos;s your secret fetish?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_81a460bff0c307a8a7ef671b4b1f71179a3a23ac",
+            "content": {
+                "en": "The safe has been opened! Inside it we found ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e031541a513b48738578a8c40775ce0621692f06",
+            "content": {
+                "en": "TIL that ______ is ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4c9f42e18dbf9312d9343be023ff84742d93ae30",
+            "content": {
+                "en": "TIL ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01431a378b6541d60e367261a5d8b94d053b5de3",
+            "content": {
+                "en": "Wait, why do I have you tagged as ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_25b4fb12af7cc9944fa12326122281c704583c42",
+            "content": {
+                "en": "Warning Comments about ______ below!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1dc7ec48b35d0c91b74266bb9aa711f0489e7a8f",
+            "content": {
+                "en": "What if I told you ______ was really ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b456c3b43b478aec2f812079f095ada32f0d12f8",
+            "content": {
+                "en": "When I broke both my arms, all MY mom gave me was ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_79a9804e4836a3120b1d128f1182adde2b801ad6",
+            "content": {
+                "en": "Where&apos;s ______ when you need it?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5cd44f4614f74a0b6c53dbd27ed5d9f6e263dc97",
+            "content": {
+                "en": "Would you rather fight one ______ sized ______ or 100 ______ sized ______"
+            },
+            "pick": 4
+        },
+        {
+            "id": "b_d6762066f2936a3939b8cb452875d509852f746c",
+            "content": {
+                "en": "Wow such black card very C.A.H. much ______ wow"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c312c2def5edc01e2e20d034998b48cde96999e",
+            "content": {
+                "en": "Wow, I can't believe my top comment is about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a7571dd8fbd5ceb296175d30f74b6b14b6cdbe4",
+            "content": {
+                "en": "You wouldn't download ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b0b6896f40675bc418d8ca136104a99dc05a0f38",
+            "content": {
+                "en": "[NSFW] AMA REQUEST ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cee4303a9c58c3d15b2cf9784f4dba92d7402127",
+            "content": {
+                "en": "______ 10\/10 with rice"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab23a97a0d140832b823d530a50548a334041a97",
+            "content": {
+                "en": "______ here, be gentle reddit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f24da77fd26016e5d6401530719ca3bdc65d0302",
+            "content": {
+                "en": "______ is latterly Hitler."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_47a9a947de24ba5bcaf432f3ee3b7b3ff9bad12a",
+            "content": {
+                "en": "______ is why we can't have nice things"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_755e2d432758cbecbf4314f4d87bc85a37d27a28",
+            "content": {
+                "en": "______ now accepting Bitcoins as payment!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccbd8449217076489990c54dca4419df852862b6",
+            "content": {
+                "en": "______ will always get my upvote."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01984d2bf23199c7de48dc33b29ccff499dc8d55",
+            "content": {
+                "en": "______, is why my dad beat me with jumper cables"
+            },
+            "pick": 1
+        }
+    ]
+}

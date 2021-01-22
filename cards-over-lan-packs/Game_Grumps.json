@@ -1,0 +1,1763 @@
+{
+    "id": "Game_Grumps",
+    "name": "Game Grumps",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_39a8f25703d967ab811622e32ea747b326ea1212",
+            "content": {
+                "en": "...Metal Gear?!"
+            }
+        },
+        {
+            "id": "w_65369210f3ed792088de14a4977e2602851d7dd3",
+            "content": {
+                "en": "A beautiful little moment."
+            }
+        },
+        {
+            "id": "w_2b19a911bce80e1f036695d51e803596bcef6447",
+            "content": {
+                "en": "A couch stinking of naked people."
+            }
+        },
+        {
+            "id": "w_6772e25f261c50688db42243ef496d2286fc73de",
+            "content": {
+                "en": "A humanlike bat with tits."
+            }
+        },
+        {
+            "id": "w_20480c1fe1b24d9dd173d08b1f6e3f787e42c5e9",
+            "content": {
+                "en": "A little dingle-dang."
+            }
+        },
+        {
+            "id": "w_1c09d6bf4920a05c741aad900ad5e1fc19ecd2c7",
+            "content": {
+                "en": "A pretty epic poo."
+            }
+        },
+        {
+            "id": "w_6b0151931a2001a10356d45889bb26ab114c8396",
+            "content": {
+                "en": "A replay from Barry."
+            }
+        },
+        {
+            "id": "w_fc02356001f76f5a2c92e91ecf6754fd28c05c06",
+            "content": {
+                "en": "A Scottish bloke that talks too fast."
+            }
+        },
+        {
+            "id": "w_85e38cb9d10c69773aaae1061ef886e705c13ed1",
+            "content": {
+                "en": "A smaller, whiter dick."
+            }
+        },
+        {
+            "id": "w_6aa6f2e24ef5b8a0ab4ff2cc2a943c9f5e6c9e62",
+            "content": {
+                "en": "A Sonic."
+            }
+        },
+        {
+            "id": "w_ee7c1b74ed31da2dcbbde3e0ce47d369afbdcc06",
+            "content": {
+                "en": "A testicle examination."
+            }
+        },
+        {
+            "id": "w_a085fdd769603642f6622857245cb7380114e7a3",
+            "content": {
+                "en": "A whale making a seal noise."
+            }
+        },
+        {
+            "id": "w_2143c99632dc1d900fddfb28bcc90b1a81db291d",
+            "content": {
+                "en": "Accidentally resetting a video game."
+            }
+        },
+        {
+            "id": "w_99b926fa0c8dea9512fb2c85f2ad7b32f5758965",
+            "content": {
+                "en": "An expensive rental costume."
+            }
+        },
+        {
+            "id": "w_f0ea51b30c1666005eb7b910c53a4844899c8a8a",
+            "content": {
+                "en": "Anne Frank doing a striptease."
+            }
+        },
+        {
+            "id": "w_cda322b14e4fb5cf241e19f2f42c563779355090",
+            "content": {
+                "en": "Arin actually winning a Game Grumps VS."
+            }
+        },
+        {
+            "id": "w_d38e895923c8fe73548c3e101aac1d0186160d53",
+            "content": {
+                "en": "Arin Hanson \/ Egoraptor."
+            }
+        },
+        {
+            "id": "w_703bd1f6e8b5cbe13324efa6fd0cd4f95bb32975",
+            "content": {
+                "en": "Arin&apos;s big floppy penis."
+            }
+        },
+        {
+            "id": "w_ea0bcd05d5e75222462a00b40cdc39998a99ef4d",
+            "content": {
+                "en": "Arin&apos;s dicksaber."
+            }
+        },
+        {
+            "id": "w_361cc4e19d8ae4b2d43d646b61a384bf5a06ea3e",
+            "content": {
+                "en": "Arin&apos;s voice acting."
+            }
+        },
+        {
+            "id": "w_30e4ca7cc4361f214c56923586b6f3021eac5b88",
+            "content": {
+                "en": "Barry Kramer."
+            }
+        },
+        {
+            "id": "w_48fbc59d7e8c5d6c05ed9d9dd9d1cf4a859affe5",
+            "content": {
+                "en": "Barry&apos;s censorship noises."
+            }
+        },
+        {
+            "id": "w_e53277362124918b5c5d47d5437d10d3a16c8466",
+            "content": {
+                "en": "Becoming a vegetarian, then becoming clinically depressed."
+            }
+        },
+        {
+            "id": "w_5ad3ef8facb9458cf64d184d902d8cd227b2eb73",
+            "content": {
+                "en": "Being forced to replay the same section of the game over and over."
+            }
+        },
+        {
+            "id": "w_86336a26cc460393067e4083b7ef707cbf429e3c",
+            "content": {
+                "en": "Birdemic."
+            }
+        },
+        {
+            "id": "w_075f61b76d709a26d5be904884076c16a8f9caed",
+            "content": {
+                "en": "Borderline narcissism."
+            }
+        },
+        {
+            "id": "w_9112165823bf6633fb1865e3413b2127a3a40b51",
+            "content": {
+                "en": "Breaking a basketball net&apos;s back board."
+            }
+        },
+        {
+            "id": "w_2bcac78427ea116d153b7d7e99cbd42268aad686",
+            "content": {
+                "en": "Breaking into song."
+            }
+        },
+        {
+            "id": "w_96868e9dc4af288eeddd3579e73f0d1374586494",
+            "content": {
+                "en": "Brian \/ Frank \/ Steve \/ Willard \/ Jonathan \/ Michael IV \/ Michael III \/ Michael Jordan \/ Scott."
+            }
+        },
+        {
+            "id": "w_c0e5cf8459e53d7aa1cc3ffa566bf81ea164ed47",
+            "content": {
+                "en": "Bumping butts."
+            }
+        },
+        {
+            "id": "w_06372391111326cabd53eb038136e2b19a45a983",
+            "content": {
+                "en": "Buying chicken fingers for homeless people."
+            }
+        },
+        {
+            "id": "w_b2dc47040e33ee38f39e3a0cbad738f2406051a3",
+            "content": {
+                "en": "Carefully escorting Anna."
+            }
+        },
+        {
+            "id": "w_1049aa679911691568af9b900e14ad9928d506b8",
+            "content": {
+                "en": "Catharsis."
+            }
+        },
+        {
+            "id": "w_79d360c152e957a02d702091ef2d74ce7bea9e40",
+            "content": {
+                "en": "Cheese pizza."
+            }
+        },
+        {
+            "id": "w_3989d85e74110aec0f2a2d765b5debbd7c7cc406",
+            "content": {
+                "en": "Chu Chu Rocket."
+            }
+        },
+        {
+            "id": "w_90cecb5f2199a2375a53258ee5e403e13f36b86e",
+            "content": {
+                "en": "Chulip."
+            }
+        },
+        {
+            "id": "w_0947469c2b988ddf7d9274ee896f600a277dc044",
+            "content": {
+                "en": "Comparing someone to a trainwreck."
+            }
+        },
+        {
+            "id": "w_6e8f5599cd90d2fadea9e755f5523e143c17ca41",
+            "content": {
+                "en": "Completely missing the tutorials and instructions."
+            }
+        },
+        {
+            "id": "w_a8bdf4ffa179a588c0741e676103f8593bd47468",
+            "content": {
+                "en": "Cumfaggots."
+            }
+        },
+        {
+            "id": "w_4d1bda802874c72677beba9c105c87ecc41d8b77",
+            "content": {
+                "en": "Dan getting some action with one of Egoraptor&apos;s action figures."
+            }
+        },
+        {
+            "id": "w_873af6fe1fe4b40f4cd5543e19a3d42e41fd7d03",
+            "content": {
+                "en": "Danny Sexbang."
+            }
+        },
+        {
+            "id": "w_ec4850a146c6c9264fc63d627b908d99479564e7",
+            "content": {
+                "en": "Danny&apos;s crippling Skittles addiction."
+            }
+        },
+        {
+            "id": "w_848a2f3fc7cbbe217ed51e43ec822680b7298546",
+            "content": {
+                "en": "Dipping your balls in the sand."
+            }
+        },
+        {
+            "id": "w_5d26d411f0b3e02a8b2247e3fcbab2176573491a",
+            "content": {
+                "en": "Dixon."
+            }
+        },
+        {
+            "id": "w_343d2967f5b64f041f2822b08ab880bc4323f691",
+            "content": {
+                "en": "Donkey-ass Kong."
+            }
+        },
+        {
+            "id": "w_04eadfb4d1593ff05f9d87944df16d2f43323897",
+            "content": {
+                "en": "Drakkhen&apos;s realistic fight sequences."
+            }
+        },
+        {
+            "id": "w_f954b15c79fcc07bb761a0a3652ec3329a86a9b4",
+            "content": {
+                "en": "Drawing the line in the fucking sand."
+            }
+        },
+        {
+            "id": "w_793e2ac5718f98dd0ce2310ae5b93f02b5508849",
+            "content": {
+                "en": "Eating the Holocaust."
+            }
+        },
+        {
+            "id": "w_9e7b101a94360f8631793449ec099949aa1de64b",
+            "content": {
+                "en": "Eating your peas."
+            }
+        },
+        {
+            "id": "w_5613e1a687e405c1f4649bd382787fdcf709d613",
+            "content": {
+                "en": "Egofaptor."
+            }
+        },
+        {
+            "id": "w_76fdb6253b6b3eb12ce17e9b82cce9928180484e",
+            "content": {
+                "en": "Ending an episode on \"Heil Hitler!\""
+            }
+        },
+        {
+            "id": "w_70aeed02de74345a36b5841cb1de1c5e077b62f1",
+            "content": {
+                "en": "Fart science."
+            }
+        },
+        {
+            "id": "w_0efa2eaed8f4756ba04467f78a1420fcca481bc1",
+            "content": {
+                "en": "Fast-forwarding."
+            }
+        },
+        {
+            "id": "w_1a184e7066ec52898ddb582a58e239cf4d91ec08",
+            "content": {
+                "en": "Fighting Iblis for the hundredth time."
+            }
+        },
+        {
+            "id": "w_4239bd1a3dd5bfc6173a522cbad7ecaea46a6c9d",
+            "content": {
+                "en": "Fooling me three times."
+            }
+        },
+        {
+            "id": "w_7b589fc4649b96e62d54ca7be3a2032045fd9683",
+            "content": {
+                "en": "Fuckin' Larry."
+            }
+        },
+        {
+            "id": "w_6ef3ce171c72a94390c11269d29bf83b774e4408",
+            "content": {
+                "en": "FUCKING LEGO CARS!!?!"
+            }
+        },
+        {
+            "id": "w_7193a75c68214ca39530cce10b8e221af7244899",
+            "content": {
+                "en": "G&#252;f Troop."
+            }
+        },
+        {
+            "id": "w_ff1f545805d0b19985a0bffe52e4fd243b242347",
+            "content": {
+                "en": "Game feel."
+            }
+        },
+        {
+            "id": "w_541c1cd076da10b4788604b0c2aa23468751457b",
+            "content": {
+                "en": "Game Grumps remixes."
+            }
+        },
+        {
+            "id": "w_ef3e741ed054452b651fd19ccdf951f9db7741de",
+            "content": {
+                "en": "Game Grumps VS."
+            }
+        },
+        {
+            "id": "w_28f7d0e953f7a0e781766afb1f7cb6ff697a165a",
+            "content": {
+                "en": "Game Grumps."
+            }
+        },
+        {
+            "id": "w_3765e1e1aaf2e78faed9582aaa8f0365ea0a91ce",
+            "content": {
+                "en": "Garshstostoles."
+            }
+        },
+        {
+            "id": "w_b1f920f3dce2e59f0e7b6375bda0c6043db18358",
+            "content": {
+                "en": "GeorgLopez."
+            }
+        },
+        {
+            "id": "w_51b70c7c98955038d223e3f141128ca73befd4de",
+            "content": {
+                "en": "Getting censored by a stampede of elephants."
+            }
+        },
+        {
+            "id": "w_bce3f61810f6f8403af08e96dd109e8fa3153aa7",
+            "content": {
+                "en": "Getting diddled again."
+            }
+        },
+        {
+            "id": "w_1813b522106b884dd4ab54ec4155febdbfb6704d",
+            "content": {
+                "en": "Getting fucking ganked."
+            }
+        },
+        {
+            "id": "w_91a06f3dfbeb4d3cccd26bbaeca8d317ac5023da",
+            "content": {
+                "en": "Getting horribly diarrhea'd on by an owl."
+            }
+        },
+        {
+            "id": "w_eced683eca9e1d20abbe23aa55cae95664d7a586",
+            "content": {
+                "en": "Getting killed by a motherfucking paralyzed Taillow."
+            }
+        },
+        {
+            "id": "w_a0d37bb200c39357bff219b1dc2a6f82c35d19e5",
+            "content": {
+                "en": "Getting stuck on the ceiling for no explicable reason."
+            }
+        },
+        {
+            "id": "w_452e7064c078b1fc611c9db41e184fd0856f5bee",
+            "content": {
+                "en": "Getting violently sick at MAGfest."
+            }
+        },
+        {
+            "id": "w_4faa85462cd138047d62692a4f3dd046da7a0911",
+            "content": {
+                "en": "Goof Troop."
+            }
+        },
+        {
+            "id": "w_4c0fdc12658866d4b9a1c77cfc7809eb5920b6e7",
+            "content": {
+                "en": "Goofy masturbating in the fields."
+            }
+        },
+        {
+            "id": "w_9ff1713ed9693b24f69c966675edd6e8f9edadee",
+            "content": {
+                "en": "Grade A meat."
+            }
+        },
+        {
+            "id": "w_fc6a16e0025c672c23bf97c93d7d78dff77d5d35",
+            "content": {
+                "en": "Grant Kirkhope&apos;s knackers."
+            }
+        },
+        {
+            "id": "w_8384c85c111d54d21f7b17217d002321c59cb8e3",
+            "content": {
+                "en": "Grant Kirkhope."
+            }
+        },
+        {
+            "id": "w_3bac46b9214cca7256f14eae97c14d449a955fec",
+            "content": {
+                "en": "GREAT! GREAT! GREAT!"
+            }
+        },
+        {
+            "id": "w_0ea398e47614ad95760f5c0316ff0ad10c020466",
+            "content": {
+                "en": "Grep."
+            }
+        },
+        {
+            "id": "w_b4826b50efc79c2b40842040bbd597830d51445b",
+            "content": {
+                "en": "Grumping it."
+            }
+        },
+        {
+            "id": "w_eb917285d45e4d8cae3b17112a2604c915a55e67",
+            "content": {
+                "en": "Half the deal for twice the price!"
+            }
+        },
+        {
+            "id": "w_b5583d32ed4c065a1f42d2adeefa821067cda448",
+            "content": {
+                "en": "Having a cough that lasts forever."
+            }
+        },
+        {
+            "id": "w_f3f517f30df06581a407a92e4595c86328318bb7",
+            "content": {
+                "en": "Helicopter tits."
+            }
+        },
+        {
+            "id": "w_ff57b89dbbafa5a1577c80fbec45dde1678b8614",
+            "content": {
+                "en": "Hepatitis Sea."
+            }
+        },
+        {
+            "id": "w_3c252198991e5b10c84781a0609f968654feb11e",
+            "content": {
+                "en": "Hitting a Nightshade cartridge with Thor&apos;s Hammer only to break the hammer."
+            }
+        },
+        {
+            "id": "w_37939944526ceacf5852a2b17a9f86f38ba96cbc",
+            "content": {
+                "en": "Homoerotic subtext between two grown men playing video games."
+            }
+        },
+        {
+            "id": "w_8a74ab2a11bf67290478502808455cfbfa57edbb",
+            "content": {
+                "en": "Ice hair."
+            }
+        },
+        {
+            "id": "w_9648493922bbe75000134d5f968389c594a3948c",
+            "content": {
+                "en": "Incriminating footage of Jon."
+            }
+        },
+        {
+            "id": "w_7f4dd0d0c144ccea0f2a23d9165974b7e311df96",
+            "content": {
+                "en": "Insta-killing your partner with the Select button."
+            }
+        },
+        {
+            "id": "w_8ad7ceccf768bc1ad68b33b0511244f930deae8a",
+            "content": {
+                "en": "It being no use."
+            }
+        },
+        {
+            "id": "w_2997c3df1c73cd25b0cd8fef1ac7df6fdeab40f0",
+            "content": {
+                "en": "Jacques."
+            }
+        },
+        {
+            "id": "w_0b865a63c4e7089d5509cc65c357dcc60b921751",
+            "content": {
+                "en": "Jon winning. AS USUAL."
+            }
+        },
+        {
+            "id": "w_7c04170e9513cc9c720ae541086a252a1cd34c80",
+            "content": {
+                "en": "Jon&apos;s soulful singing."
+            }
+        },
+        {
+            "id": "w_dd5d0d7dedc3bb6e4b6a7ad1c08c1388b6abe44d",
+            "content": {
+                "en": "Jon\/Arin slash fiction."
+            }
+        },
+        {
+            "id": "w_01c45433e379c4101cfdd82318ff2418fe855a78",
+            "content": {
+                "en": "JonTron&apos;s musical theater voice."
+            }
+        },
+        {
+            "id": "w_c481df297b6ed207c5cc122d050866791b0f7c4e",
+            "content": {
+                "en": "JonTron."
+            }
+        },
+        {
+            "id": "w_5cb29a0619cf6a744dadabe3b76652ba94e35d33",
+            "content": {
+                "en": "Js'keep goin'."
+            }
+        },
+        {
+            "id": "w_519eea6c6c4c564028f01df51490d7158c984bf6",
+            "content": {
+                "en": "Killing zombies by typing on a keyboard-gun."
+            }
+        },
+        {
+            "id": "w_4ae23d5e84d4e18f9962c94efdf790b999a40aed",
+            "content": {
+                "en": "Kirby."
+            }
+        },
+        {
+            "id": "w_17776b959e57c6560f1a94a28f62a2b2d576cc2c",
+            "content": {
+                "en": "Kitty Cat Dance Party."
+            }
+        },
+        {
+            "id": "w_f15fda8bf260c54ca0d98a0601c31aa9bc1d6e21",
+            "content": {
+                "en": "Learning that your son is dead, but not caring because you didn't want him anyway."
+            }
+        },
+        {
+            "id": "w_eb6f361f0a904714293c7ee7d0e0ded0ec395958",
+            "content": {
+                "en": "Lemon and Bill."
+            }
+        },
+        {
+            "id": "w_90840a8096cb21f3b8da97dae0ca88ff790c0682",
+            "content": {
+                "en": "Lightsaber Fightsaber."
+            }
+        },
+        {
+            "id": "w_024a8b265a7c4ae90e17c98b9a5bfbefaa8e78d1",
+            "content": {
+                "en": "Literally going to Hell."
+            }
+        },
+        {
+            "id": "w_96740f2c00f48dafbfc861ca523aa5456dbf7863",
+            "content": {
+                "en": "Mediocrity, as a power."
+            }
+        },
+        {
+            "id": "w_dc17c287a7f09da7f7b1272b75d53fea9444dadf",
+            "content": {
+                "en": "Mega Man."
+            }
+        },
+        {
+            "id": "w_0510d9b2d900d7afb149ada5679fe20283245038",
+            "content": {
+                "en": "Mike Tyson."
+            }
+        },
+        {
+            "id": "w_e2e941a99daa38ed8095bc9718dc62d44cf33841",
+            "content": {
+                "en": "Mispronouncing Duran Duran."
+            }
+        },
+        {
+            "id": "w_4eb1191d9e46cd8a868ca4e94f585b14c3df5dfb",
+            "content": {
+                "en": "Mister Mosquito."
+            }
+        },
+        {
+            "id": "w_5d23050c26233b45fbdab96e91eadc2012f46075",
+            "content": {
+                "en": "MomTron."
+            }
+        },
+        {
+            "id": "w_53683aaed0612bca81ff945fb5832ad08075bbb7",
+            "content": {
+                "en": "Moundo."
+            }
+        },
+        {
+            "id": "w_cb453f7bc48fe409f3ae06a4aa07ae96ad74b7e5",
+            "content": {
+                "en": "Naughty Bear."
+            }
+        },
+        {
+            "id": "w_b428de1da244ea400ddd189558109e3fe4be7e9d",
+            "content": {
+                "en": "Nazi von Killyou."
+            }
+        },
+        {
+            "id": "w_46e01ffb8f1a13703da5f5bb0680d9ca4779e85f",
+            "content": {
+                "en": "Ninja Sex Party."
+            }
+        },
+        {
+            "id": "w_775c7188df5af9f5519731fb9ecb0cb39b25e0f4",
+            "content": {
+                "en": "Nixon."
+            }
+        },
+        {
+            "id": "w_c4f968ead7f6fa6c13e6a21eb2ec381ba1e66604",
+            "content": {
+                "en": "NO JON NO."
+            }
+        },
+        {
+            "id": "w_76f8f550a743fdd3f8409e0806f500ce9c5cbbf0",
+            "content": {
+                "en": "NOT FUCKING THIS!"
+            }
+        },
+        {
+            "id": "w_9039fea6ee38d502d7ca9f17d16634683b5cf274",
+            "content": {
+                "en": "Not knowing the controls to Nickelodeon GUTS."
+            }
+        },
+        {
+            "id": "w_0f44fc2065dc574e24085d489a6e857927a2873e",
+            "content": {
+                "en": "Not reading the game&apos;s instructions."
+            }
+        },
+        {
+            "id": "w_d1c2e56a585f3b56a372af9611c5471e6c9c2b1b",
+            "content": {
+                "en": "Obeying Protoman and burning down a forest."
+            }
+        },
+        {
+            "id": "w_ff563f0e65b7070e6aa85117de83ddb307a4d1cc",
+            "content": {
+                "en": "Pacific Rim."
+            }
+        },
+        {
+            "id": "w_9a2e4598a550fdadf1424cd79ad79935a2fd7ce9",
+            "content": {
+                "en": "Pause balls."
+            }
+        },
+        {
+            "id": "w_facb2c2044a6404a93610fe37295ad593ae89849",
+            "content": {
+                "en": "Pelistorm."
+            }
+        },
+        {
+            "id": "w_5b679ec931078299386ac7af0a413fcdb143668e",
+            "content": {
+                "en": "Playing a terrible game for more than a hundred episodes."
+            }
+        },
+        {
+            "id": "w_97ce2e7716e02058d03d3302cf286cbe58cdef55",
+            "content": {
+                "en": "Playing slaps to break a tie."
+            }
+        },
+        {
+            "id": "w_84e17ed642a222fde116d94797174662e31248a3",
+            "content": {
+                "en": "PONY.MOV."
+            }
+        },
+        {
+            "id": "w_9d682c22b8ee728046b6cc2dd0976cf671bcce2f",
+            "content": {
+                "en": "Poopy butt."
+            }
+        },
+        {
+            "id": "w_39d8d92ca756f9bfecc8342f716e0ecd12ea9969",
+            "content": {
+                "en": "Poppy Bros."
+            }
+        },
+        {
+            "id": "w_4777634dd74abf3003dadc5018aa564648b1d926",
+            "content": {
+                "en": "Princess Elise&apos;s octopus face."
+            }
+        },
+        {
+            "id": "w_5ae573d892a408477484f0f11832772016a4a634",
+            "content": {
+                "en": "Punching a hole in a gingerbread house."
+            }
+        },
+        {
+            "id": "w_6d445b1bcecfcb4f16ce93b666a300706e39d2ea",
+            "content": {
+                "en": "Queefing bombs out of your vagina."
+            }
+        },
+        {
+            "id": "w_453637ac72d6207335f398bb91af86798e3422d0",
+            "content": {
+                "en": "Racial slurs."
+            }
+        },
+        {
+            "id": "w_37a38d2e7cef8f95a1debf5d6d44eadfda8ada54",
+            "content": {
+                "en": "Reading the manual."
+            }
+        },
+        {
+            "id": "w_fbf919d3b852aad623100581b1f24993d43655a1",
+            "content": {
+                "en": "RIDIN&apos; ON CARS!!!"
+            }
+        },
+        {
+            "id": "w_af9f6415168475ecb26be8b5f5f14d1339f1775c",
+            "content": {
+                "en": "Robots ordering cheese pizza."
+            }
+        },
+        {
+            "id": "w_dc3d3e6f09e12f7e15bcbabf7a802b0afa263f66",
+            "content": {
+                "en": "Rocket. To the moon."
+            }
+        },
+        {
+            "id": "w_d4545a50e050084d9ce1b51ee3306b33981498bd",
+            "content": {
+                "en": "Rolling around at the speed of sound."
+            }
+        },
+        {
+            "id": "w_bec7ed1b43d2d963a0d5429be4f8fdc629e68b1b",
+            "content": {
+                "en": "Rouge&apos;s gross bat face."
+            }
+        },
+        {
+            "id": "w_1a293841428ef1375bf3ef9dde1c7d288f8c2c8f",
+            "content": {
+                "en": "RubberRoss."
+            }
+        },
+        {
+            "id": "w_6ae953cf3b2eeb51d83e3f9df0ed7e656adbcfd8",
+            "content": {
+                "en": "Screaming out Whitney Houston&apos;s &#8220;I Will Always Love You&#8221; in primal agony."
+            }
+        },
+        {
+            "id": "w_3ff72ca81753d8940fc193e5bf9c2c22958f9697",
+            "content": {
+                "en": "Sequelitis."
+            }
+        },
+        {
+            "id": "w_1032c05f987e88d2c6b17126ccc591729b0dc235",
+            "content": {
+                "en": "Seven asses."
+            }
+        },
+        {
+            "id": "w_7925004954b2bf78824b2cd323dc2ed41754b027",
+            "content": {
+                "en": "Signing and destroying a copy of Sonic '06."
+            }
+        },
+        {
+            "id": "w_56c6502f4393029b31e92b202416cd0538012a9d",
+            "content": {
+                "en": "Silver the Hedgehog."
+            }
+        },
+        {
+            "id": "w_af2aed57a296599d09afaf0e8945a4a5f0772bb8",
+            "content": {
+                "en": "Sneaking dirty British humour into an unassuming video game about a bear and a bird."
+            }
+        },
+        {
+            "id": "w_d19f9c438bad26d024e5c460cf1673044e16630d",
+            "content": {
+                "en": "Snow white shit."
+            }
+        },
+        {
+            "id": "w_57d520f5e235777b5ba387b006daaccdc142370b",
+            "content": {
+                "en": "Snowboarding uphill"
+            }
+        },
+        {
+            "id": "w_ed1685dc641813f207e6cb36429f30664468c89f",
+            "content": {
+                "en": "Solid Snake."
+            }
+        },
+        {
+            "id": "w_1b19189bb29f334be556ea39deca5a743bcbd991",
+            "content": {
+                "en": "Sonic '06."
+            }
+        },
+        {
+            "id": "w_d6cc13392017bf8fc78fac0fcfa76dc2d7f7ed8d",
+            "content": {
+                "en": "Sonic the Hedgehog."
+            }
+        },
+        {
+            "id": "w_a117f441ba357a0a1cb2a70c6881b8ec39302209",
+            "content": {
+                "en": "Spice World."
+            }
+        },
+        {
+            "id": "w_9e55455a2894bc5daaf1ac7c814649189f389b19",
+            "content": {
+                "en": "Spraying compressed air with a bittering agent in your face, and subsequently vomiting."
+            }
+        },
+        {
+            "id": "w_a41110c5013427560a1a551a1a396f4377ff22c3",
+            "content": {
+                "en": "Stairfax Temperatures."
+            }
+        },
+        {
+            "id": "w_a290be7d15769808628e3df64ccf8d2d516c15fe",
+            "content": {
+                "en": "Staring at a menu while Ross stuffs his disgusting face with candy."
+            }
+        },
+        {
+            "id": "w_51b94745b6291958ea9d1ad242f7a8287a40fa01",
+            "content": {
+                "en": "Stasis-ing the drill."
+            }
+        },
+        {
+            "id": "w_7cf30566953063984984bfc8ac2e4bf3cec57af9",
+            "content": {
+                "en": "Steam Train."
+            }
+        },
+        {
+            "id": "w_df9e6e71c13b30a579c79a063cd68eca156e3649",
+            "content": {
+                "en": "Sticky sap."
+            }
+        },
+        {
+            "id": "w_4ac09f3132b7f6b80e0cae3cf52dd2bae63576e4",
+            "content": {
+                "en": "Stretch Panic."
+            }
+        },
+        {
+            "id": "w_b672f1fb9284c0355c69a7029336f58ac8bfffd1",
+            "content": {
+                "en": "STRGG."
+            }
+        },
+        {
+            "id": "w_9ae4e170cbb15f090213f00aa2de9e3dc05aa179",
+            "content": {
+                "en": "Struggling to fight Silver the Hedgehog."
+            }
+        },
+        {
+            "id": "w_65ca3973095011a793fb98e8f24d4be55e0eb403",
+            "content": {
+                "en": "Sucking blood from a Japanese girl&apos;s tits."
+            }
+        },
+        {
+            "id": "w_8c138ccaa4aca1bd394d924e25397adf48fbf5ee",
+            "content": {
+                "en": "Suzy the Goose."
+            }
+        },
+        {
+            "id": "w_7d4255a1eedeff751f114f882d0ac4ff643f0a50",
+            "content": {
+                "en": "TENOUTTATEN."
+            }
+        },
+        {
+            "id": "w_a762657e10a224553c066455b2c000d1e6c2d7e7",
+            "content": {
+                "en": "That guy."
+            }
+        },
+        {
+            "id": "w_111bb0639512dd297c5e09fd6af21b35946a6718",
+            "content": {
+                "en": "The Awesome Series."
+            }
+        },
+        {
+            "id": "w_d02ccb4ddc3613d0d525407db2d9ff6d054f4147",
+            "content": {
+                "en": "The band Egoraptor."
+            }
+        },
+        {
+            "id": "w_aef61f4e47c3cfccbbc35be36d4d88a4b82da047",
+            "content": {
+                "en": "The Chinless Wonder."
+            }
+        },
+        {
+            "id": "w_7cb9bbb9a410a0960a99ae5666eb831863d6993b",
+            "content": {
+                "en": "The eyeless girl demographic."
+            }
+        },
+        {
+            "id": "w_ee89cd2b76530b7dd757f87738b8eb2cae347d53",
+            "content": {
+                "en": "The Goshdangodon."
+            }
+        },
+        {
+            "id": "w_94d928d42de81de04e9e414a01816b2ee0449cf0",
+            "content": {
+                "en": "The Higgs Boson."
+            }
+        },
+        {
+            "id": "w_5bbbb05f673f6658bb81d90d961b279edd81843d",
+            "content": {
+                "en": "The Knuckles wall glitch."
+            }
+        },
+        {
+            "id": "w_90c027de7ea82b3f0d74273486721f15a6a46935",
+            "content": {
+                "en": "The rarest form of Arin having fun."
+            }
+        },
+        {
+            "id": "w_96e71ef4ed299ecdc033f5a9b57cbb88761dc6f9",
+            "content": {
+                "en": "The realization that friendship is more important."
+            }
+        },
+        {
+            "id": "w_8867a148da771800d8f6d325fefce99e597a91f7",
+            "content": {
+                "en": "Three big feet of pleasure."
+            }
+        },
+        {
+            "id": "w_d4df21af96bad02b1fa47e47d534e20329ddde16",
+            "content": {
+                "en": "Tonguing up."
+            }
+        },
+        {
+            "id": "w_ed940d8c726a02012a5c1f049dea2e2fd4813509",
+            "content": {
+                "en": "Typing \"C D PLAYER\" and getting \"MODEL CAR.\""
+            }
+        },
+        {
+            "id": "w_f5276576050a6e368a0523fda8dd8cdab4733be8",
+            "content": {
+                "en": "WAAAAAAAVE LAAAAZEEEEEEER."
+            }
+        },
+        {
+            "id": "w_8c00c982e8e20c1706f8762fc19b24f3d2939c69",
+            "content": {
+                "en": "Walking around in my banana shoes."
+            }
+        },
+        {
+            "id": "w_fe98c727d5dae49dbe2cd520c5d34dddc44bf50b",
+            "content": {
+                "en": "World Dick Barf Syndrome."
+            }
+        },
+        {
+            "id": "b_2f03db6762711f60576181cb546ec4174cfeeae6",
+            "content": {
+                "en": "\"These new ______ t-shirts are gonna change some lives, Arin.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a2c83fe8f3b18ad2d507973a8799bd5a1a31c7a",
+            "content": {
+                "en": "\"You want cheese pizza?\" \"No. ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_47f1ff5ee12491c543f7f9c188dcf8c6233c5f7f",
+            "content": {
+                "en": "...What the bloody hell are you two talking about?!______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b1c5685aec58c39610ba5bb53fa4387823eec3e",
+            "content": {
+                "en": "And then, as a fuckin' goof, I'd put a hole in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cab15a65c5db663d650aae5cdd0f793f1e02dbc",
+            "content": {
+                "en": "And there it was...Kirby had finally met the ______ of the lost city."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0bf8c7bd188bd6955227a6c348f303df460995bb",
+            "content": {
+                "en": "Arin believes that the most important part of any video game is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_991b90971d1f6fa7b0913fd77a7c4d76defd56e1",
+            "content": {
+                "en": "Arin has an adverse reaction to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c75c1681c2dbdbf7deedd01a19abedd4b597bbe",
+            "content": {
+                "en": "Barry entertains himself by watching old episodes of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f6b55c2b6f217bef53c35ac34044d0f3cd1b9b6c",
+            "content": {
+                "en": "BARRY! SHOW ______ AGAIN!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b620db872dfec39ecea4784b690fa78350cff044",
+            "content": {
+                "en": "Barry&apos;s sheer skill at ______ is unmatched."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36084382b9950b8427762970588f0197af9f8d0e",
+            "content": {
+                "en": "Barry, add ______ into the video!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94dad08bdb06609df1ccf466531bee26ffedf417",
+            "content": {
+                "en": "Barry, we need a replay on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bf5d39abf9a2694df50ccffab35297038ab9305f",
+            "content": {
+                "en": "COME ON AND ______, AND WELCOME TO THE ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_97bcc346f632dc5f9c12cc73a046cc9aad401d82",
+            "content": {
+                "en": "Do you remember the episode where Ash caught a ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_61221e76f669d6920746f8343fe48d8d135510cd",
+            "content": {
+                "en": "Don't throw ______! It&apos;s expensive to somebody!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c5838e4607f7f1ddd41c259a807e526e102ab7cb",
+            "content": {
+                "en": "Dude, real talk? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_512bd0a64965fdf59f1586571cdff7d6cd50e562",
+            "content": {
+                "en": "Eat your ______, son."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0b3aebad136eda1cb9dec818e847d0d3e33d5ef",
+            "content": {
+                "en": "Egoraptor&apos;s fiancee is actually a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_764a6f3ae5774e1c479bad67c8da737952470f4f",
+            "content": {
+                "en": "Everybody wants to know about me, but they don't know about my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd2c274ad963dd4245bd8999402c5fb2aa8b8b09",
+            "content": {
+                "en": "Fool me once, I&apos;m mad. Fool me twice? How could you. Fool me three times, you're officially ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_be346b49579c9b4421c317a95a58cf6799589edf",
+            "content": {
+                "en": "For my first attack, I will juggle ______ to impress you."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44c6b26f56530e83fcb3df350bb45891e11f9c20",
+            "content": {
+                "en": "Fuck, I found a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac76a5a7fe15aa4b379d9322b18f596d4252abd6",
+            "content": {
+                "en": "Game Grumps: sponsored by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9e5167e1b8f5cfcebb4d480c9ac92487301d6219",
+            "content": {
+                "en": "Give ______ a chance! He'll grow on you!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d18bd0a07bc10126f1707740f0ede7d9e3d1d252",
+            "content": {
+                "en": "How many nose hairs does ______ have?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b819305f795ff38e312005d6d2a48416aad5057b",
+            "content": {
+                "en": "How many ______ does Mega Man get?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_faa1cc87e37b31fd717e149a939b74e1f4884bf5",
+            "content": {
+                "en": "I certainly can't do it without you, and I know you can't do it without ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b5be5ce78114e66a3958418d014a58fbfae0db8",
+            "content": {
+                "en": "I don't like the ______ flavor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7a45af206b3aa1ab8d885fb1498db842a18e50a",
+            "content": {
+                "en": "I tell you once, I tell you twice! ______ is good for economy!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_43a7bd66cdb245b772a264545f9721e40d1625e1",
+            "content": {
+                "en": "I wanna put my ______ in her!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_443c3da35b3724069a7b9627fc61c682357beae8",
+            "content": {
+                "en": "I&apos;m not even SELLING ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fd8b3227aaed92eb9fbbcaced7368f21bada0384",
+            "content": {
+                "en": "I've been ______ again!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_91b0694504613af7832322b2e34523d9cf3a3564",
+            "content": {
+                "en": "IF I CAN'T BE ______, I SURE AS HELL CAN BE ______!!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2c7db61fd309aded52c5dae27b7d905d32cf5b06",
+            "content": {
+                "en": "If the ______ wasn't there, I would do. But it&apos;s there, so it&apos;s not."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01dc119ff24123f23c2dd6e75651a2e5f81c772e",
+            "content": {
+                "en": "If you don't know what ______ is, you can't go to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8c7274bd95da58e2eb4d0c286b368fb364dfa2eb",
+            "content": {
+                "en": "If ______ evolved from ______, why the fuck is there still ______, dude?!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_e3ba4b52b0bbc521d412a00e6cd041383d65e95a",
+            "content": {
+                "en": "In this corner, ______; in the other corner, ______; it&apos;s Game Grumps VS!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a11d97a134c85fc1d09c33cde4f1fd3d880c6322",
+            "content": {
+                "en": "Is there anything to gain from this?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_09b2de7d155283df69bb5f4680b01080fa32e18e",
+            "content": {
+                "en": "It&apos;s no use! Take ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dad71acca38d247c8875215a3ea3b43693c0f63a",
+            "content": {
+                "en": "Jon and Arin suck at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ad7ba037e2d847bbb81bb1b7e3c74aec50596e3",
+            "content": {
+                "en": "Jon and Arin win! They realize ______ is more important."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0633fa9597a12271126c1c6ef97d8e3622117000",
+            "content": {
+                "en": "Jon believes that the most important part of any video game is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac5542b59658916effdce3d825cb7dedeb5360bd",
+            "content": {
+                "en": "Jon can't get enough of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab662814d0380103ee4e526d2cb72cd05547a59a",
+            "content": {
+                "en": "Jon can't survive air travel without ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cfa9ce7192b887e5d129c6536735cc08c63b9123",
+            "content": {
+                "en": "Jon just wants to touch ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7e8f70903c8579e6f1850b5fe9f2298bf4c8c74",
+            "content": {
+                "en": "Jon&apos;s mom called him to tell him about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_83feb03469a833b5af71fc9086f6e3806aa9ba45",
+            "content": {
+                "en": "JON'S ______, SHOW US YOUR ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_71b70d0ace83d4b56019eb1695f71a7398428f12",
+            "content": {
+                "en": "Kirby has two iconic abilities: suck and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0a1b8471818f09d55559207883a5f65beadd0e1c",
+            "content": {
+                "en": "Listen to the ______ on this shit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba4246aace412fddfa58cf159ddab2ce650d7b45",
+            "content": {
+                "en": "Look at that ______-ass ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8cdd09d0d98a4595a8c748014cb5810763d529c9",
+            "content": {
+                "en": "Look at this guy, he&apos;s like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_479983f5c8d6e4a82e9b19d305a38400981f8adb",
+            "content": {
+                "en": "Look, it&apos;s ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1962e1b4a31fdcf367a339ac1d68dd5111a441a9",
+            "content": {
+                "en": "Next time on Game Grumps, ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5a01b5dec6531cd19fb94b4fd5e91be55cae0bfd",
+            "content": {
+                "en": "Nightshade: The Claws of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_217e04f64ddbb9cbd79becbb20d5452079fd1fb5",
+            "content": {
+                "en": "Number one! With a bullet! Zoom in on the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_decf89e91463ec5037325797ef84c1ea923c49ac",
+            "content": {
+                "en": "Oh, it&apos;s ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1cdaa19750d2629ba3a10eb6c4e9370b2ab9ec66",
+            "content": {
+                "en": "One slice of ______ please."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea89c4cc7f13e805af112c4cb8242a34d84641de",
+            "content": {
+                "en": "Pikachu, use your ______ attack!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1e713528bb0c35cab5f1b1a164bc47712d09f160",
+            "content": {
+                "en": "Put a hole in that ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2d5f9a2f9c0f4c58753ff2e633f1fe9f6302867f",
+            "content": {
+                "en": "Real talk? Is that ______ ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_997c9d27b84e5b55899f11e7de819ad2068fc6a3",
+            "content": {
+                "en": "Real talk? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bba0153255fca84609520f5552b20fd4f450b7cd",
+            "content": {
+                "en": "Rolling around at the speed of ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f912d2cba151563bd9d26c5c80c95681b93f7031",
+            "content": {
+                "en": "The Grumps' latest silly player names are ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b9d5482146357f4aff9714808ac02853edcc33dd",
+            "content": {
+                "en": "This time on Guest Grumps, we have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_76927d53d34a0258eaf765ce90a5d897dbf561d1",
+            "content": {
+                "en": "Top five games, go! 1? Mega Man X. 2-5? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dfc24b6714ecb96c3bfccbbba18a01c0299f8297",
+            "content": {
+                "en": "Use your ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_afb187a5e4b2ff711a41098aa3218e5a877cd227",
+            "content": {
+                "en": "Welcome back to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b1c5c9ddd0cc0b2814f7c762c3b089169cec9ec",
+            "content": {
+                "en": "Welcome to Sonic Team! We make ______, I think!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ed95212990395839d78752b109c0dfb268360dd",
+            "content": {
+                "en": "What am I willing to put up with today?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1655bd37a069a9a8655c138f4ff5c803a8f44c5c",
+            "content": {
+                "en": "What can be found in Arin&apos;s chins?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9c0e38b630ff5f91ccd849125c3771afc3aba1ec",
+            "content": {
+                "en": "What do Mumbo&apos;s magic words mean?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_48da51f6e9e442fd696a5b0587216dc58bbddcd4",
+            "content": {
+                "en": "What is the boopinest shit?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_47f7d4c942e49e59bed5721f8fdb6e877ebdef07",
+            "content": {
+                "en": "WHAT THE FUCK IS A ______?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc635760cff37440d90ff9b7dfd7639c809086d4",
+            "content": {
+                "en": "What&apos;s better than Skyward Sword?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7c4a8fe551c6159e941972ef4c8a513729841c8",
+            "content": {
+                "en": "What&apos;s the real reason Jon left?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18a93390066b83e1cbc6d1a395658adb8c2878f2",
+            "content": {
+                "en": "When I look in the mirror I see ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_533e6ae94d5d89eb7c77553e39354740103406b2",
+            "content": {
+                "en": "Who replaced Jon when he left GameGrumps?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_004b855ef3ac7a5400c867e94aaf84c273ea1f10",
+            "content": {
+                "en": "Who&apos;s an asshole?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cb84aa8304b0cbccd524b5e1a0f3ada145da053",
+            "content": {
+                "en": "Why is Steam Train so controversial?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f21b23dba7f56d477fb92dd3b49bb110b351278",
+            "content": {
+                "en": "WOOP WOOP WOOP I'M A ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_386b3e9fa4e8135445ac15fa45a7caef360d1120",
+            "content": {
+                "en": "You know what fan mail makes me the happiest every time I see it? It&apos;s the ones where people are like, \"______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ec29eab6864cddb915463619f5270d786e29ae91",
+            "content": {
+                "en": "You're ruining my integrity! ______ won't hire me now!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_106c18f7ad4b59a7257fadfe02fe21a7116cf7b3",
+            "content": {
+                "en": "______ don't even cost this less!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4be3008be4666777d723e18b72cc0538140e6d33",
+            "content": {
+                "en": "______ Grumps!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ae3831cf6b8abe805248dd1b9a94a4ebb2c376b",
+            "content": {
+                "en": "______ has aged really well."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a3e21cbb3a523d77603612ccfcd38723d532c717",
+            "content": {
+                "en": "______ is GREAT GREAT GREAT!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba7f11aba177baac2decd9174eec8b962567b50a",
+            "content": {
+                "en": "______ is Jon&apos;s favorite video game of all time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ad3f87a1cdae096f222c538db5994687448d6a4e",
+            "content": {
+                "en": "______ is not Jon&apos;s strong suit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ff16dda799c1ac42fdd1866130e6a96f6c4602f",
+            "content": {
+                "en": "______ Train!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_500aee44a3743c5a4b183b660ea7745a6d999870",
+            "content": {
+                "en": "______ WINS!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8561d64d64642cb891d67be1a88795ed7822cc01",
+            "content": {
+                "en": "______. I AAAAAAIN&apos;T HAVIN&apos; THAT SHIT!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_02bf0b335835a8bfb41acbfe751374e0d1f76d28",
+            "content": {
+                "en": "______. It&apos;s no use!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b53b79b0747901c532ced15ddeec5ea7c1e5afeb",
+            "content": {
+                "en": "______. MILLIONS ARE DEAD!!!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_37d0a3f2b7c2681da55008bbdcae6f533ffc5d7e",
+            "content": {
+                "en": "______. Put that in, Barry."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ac7ea80df70f3d12bea2afa9177a39fbc2f458c",
+            "content": {
+                "en": "______. This is like one of my Japanese animes!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_52c9a227b19a1a490e39957b77c38e5b0ebc1025",
+            "content": {
+                "en": "______: Better than deer shit!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4d09c8655d8c656984cf1877b094c699639e5155",
+            "content": {
+                "en": "______? Pretty smart. ______? Pretty fuckin' smart. ______? FUCKING GENIUS!!!!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_c22e278e7e37e0141f1334821d7552bf0bbdcf0b",
+            "content": {
+                "en": "______? Ten-outta-ten!"
+            },
+            "pick": 1
+        }
+    ]
+}

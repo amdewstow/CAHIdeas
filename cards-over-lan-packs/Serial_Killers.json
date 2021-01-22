@@ -1,0 +1,663 @@
+{
+    "id": "Serial_Killers",
+    "name": "Serial Killers",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_810c93348eae32861441356cf46d7f98299cdc28",
+            "content": {
+                "en": "Aileen Wuornos"
+            }
+        },
+        {
+            "id": "w_2ef8fc8ecd2c38710e305af4df5071906982518e",
+            "content": {
+                "en": "Albert Fish"
+            }
+        },
+        {
+            "id": "w_5b8524aa789fc5e81c55d7e8aa486833e60eb7ae",
+            "content": {
+                "en": "Amy Archer-Gilligan"
+            }
+        },
+        {
+            "id": "w_8ccf13a078367fce3dd04993f7fdae262c0b3d40",
+            "content": {
+                "en": "Angelo Buono, Jr."
+            }
+        },
+        {
+            "id": "w_53727b5b9b0383945e3a33920d6c623f9cbf6f4c",
+            "content": {
+                "en": "Anthony Sowell"
+            }
+        },
+        {
+            "id": "w_5cae16d57831439f2c053857fc5be986761bbe66",
+            "content": {
+                "en": "Arthur Shawcross"
+            }
+        },
+        {
+            "id": "w_a841f1ba97e2e8f12536cec47d9378ca3710f296",
+            "content": {
+                "en": "Atlanta Ripper"
+            }
+        },
+        {
+            "id": "w_23613778e5501fd74d40d772225cf71657a06c57",
+            "content": {
+                "en": "Benjamin Atkins"
+            }
+        },
+        {
+            "id": "w_2e4b7cb95d5e4d77d78e9a9e9e4940beb4a9b15e",
+            "content": {
+                "en": "Billy Gohl"
+            }
+        },
+        {
+            "id": "w_596efd349a0a080e5706d625120e2b5cd0e65dac",
+            "content": {
+                "en": "Boston Strangler"
+            }
+        },
+        {
+            "id": "w_a7aacd282cac9e13e4914ba6b49f2f36da2c1243",
+            "content": {
+                "en": "Brother Bishop-Gary M. Heidnik"
+            }
+        },
+        {
+            "id": "w_a1549c8e83628fdb3dba21954603739abe58fe12",
+            "content": {
+                "en": "Butcher of Elmendorf - Joe Ball"
+            }
+        },
+        {
+            "id": "w_b56190285110712e9683c0a2b8f3d320d50293cb",
+            "content": {
+                "en": "Carl Panzram"
+            }
+        },
+        {
+            "id": "w_152b187d275090eee2a4feb80b7e7547fd7d85fa",
+            "content": {
+                "en": "Charles Cullen"
+            }
+        },
+        {
+            "id": "w_11172608b7d87b961a8af037789d65daa6fe7ecb",
+            "content": {
+                "en": "Charles Frederick Albright"
+            }
+        },
+        {
+            "id": "w_14896011064a945f39d6499d57edfd15f694cafd",
+            "content": {
+                "en": "Charles Ray Hatcher"
+            }
+        },
+        {
+            "id": "w_363daaf0c243ec291e803d7e98ffbf22f8e7d5ac",
+            "content": {
+                "en": "Charlie Chop-off"
+            }
+        },
+        {
+            "id": "w_5f1c747c18c557f77602cb38868f44339f1e5a68",
+            "content": {
+                "en": "Christopher Wilder"
+            }
+        },
+        {
+            "id": "w_e5301187dc9526ecfb7420e1741c4fa596bf76f3",
+            "content": {
+                "en": "Cleveland Torso Murderer"
+            }
+        },
+        {
+            "id": "w_dfe4f430a16189f483769b0cdc2fd37f4163b770",
+            "content": {
+                "en": "Colonial Parkway Killer"
+            }
+        },
+        {
+            "id": "w_9686fe05eb9e92ab4c87bf9942ec7cae821ee034",
+            "content": {
+                "en": "Connecticut River Valley Killer"
+            }
+        },
+        {
+            "id": "w_1eb14b5a3b2f5c56813287519e693910a638f35c",
+            "content": {
+                "en": "David Edward Maust"
+            }
+        },
+        {
+            "id": "w_0afb2fed619471cbfa0670622308997c1b2d7ba5",
+            "content": {
+                "en": "Dayton Leroy Rogers"
+            }
+        },
+        {
+            "id": "w_d25794f5b49110f67f771bd0a2129267b750adec",
+            "content": {
+                "en": "Daytona Beach killer"
+            }
+        },
+        {
+            "id": "w_94f6f9fdd4096fd0afb3008a04aa482e9a38a04b",
+            "content": {
+                "en": "Dean Corll"
+            }
+        },
+        {
+            "id": "w_21ff84f9b6d1a2e6c14f36f1a8b423a08ea0dd0b",
+            "content": {
+                "en": "Dennis Rader - BTK"
+            }
+        },
+        {
+            "id": "w_8e7d0a5a8ae95ba098188d500740405e78105735",
+            "content": {
+                "en": "Donald Harvey"
+            }
+        },
+        {
+            "id": "w_69a6c3888faa09ff2560215f64fe8c003c3efa7f",
+            "content": {
+                "en": "Donald Henry Gaskins"
+            }
+        },
+        {
+            "id": "w_ddd38ef1934057ce6dc30698326413ad89ca799d",
+            "content": {
+                "en": "Doodler"
+            }
+        },
+        {
+            "id": "w_ca2f0873e306cdc54117de910c1ac7bb2cf040df",
+            "content": {
+                "en": "Dorothea Puente"
+            }
+        },
+        {
+            "id": "w_0b6b43194ccf2640dbbcffbe5921d6e51a671612",
+            "content": {
+                "en": "Earle Nelson"
+            }
+        },
+        {
+            "id": "w_717e9ab1875540556619d28d5af9cffbd0c1cb0a",
+            "content": {
+                "en": "Edgecombe County Serial Killer"
+            }
+        },
+        {
+            "id": "w_b74479472a326d0303da17b26d5a937bfa50cf62",
+            "content": {
+                "en": "Edmund Kemper"
+            }
+        },
+        {
+            "id": "w_5133e381445914646b71782a2631c83fd054ef13",
+            "content": {
+                "en": "Frankford Slasher"
+            }
+        },
+        {
+            "id": "w_7b987922ec854c698db543b24539a50a044eea5c",
+            "content": {
+                "en": "Freeway Phantom"
+            }
+        },
+        {
+            "id": "w_bf6868800b8916fec7182a4fa9ca0fa8d496970f",
+            "content": {
+                "en": "Gary Evans"
+            }
+        },
+        {
+            "id": "w_4a58bd27c94555c8b8ba7bb29ce4a256a58ed6d3",
+            "content": {
+                "en": "Gary Ridgway - The Green River Killer"
+            }
+        },
+        {
+            "id": "w_1a1646d1f128a3f0dcae150535f91f83c284c9a1",
+            "content": {
+                "en": "Gerald and Charlene Gallego"
+            }
+        },
+        {
+            "id": "w_d3166dbec15d70115bf8f4836efe7d4f047cffcf",
+            "content": {
+                "en": "Gerald Stano"
+            }
+        },
+        {
+            "id": "w_e449494c3439248a1783dc197a7094973606328a",
+            "content": {
+                "en": "Grim Sleeper"
+            }
+        },
+        {
+            "id": "w_99b7042a0b2d0c978d2861cf02f04f35ba10b71e",
+            "content": {
+                "en": "Gwendolyn Graham and Cathy Wood"
+            }
+        },
+        {
+            "id": "w_2c4fe5ec3268f6012293c5882a33574f5a12be18",
+            "content": {
+                "en": "H. H. Holmes"
+            }
+        },
+        {
+            "id": "w_818252a0ab61bf09b356bd01203f75789f35c654",
+            "content": {
+                "en": "Harry Powers"
+            }
+        },
+        {
+            "id": "w_b5b309bad58e70caefd4629aa7c2840c783ff0b6",
+            "content": {
+                "en": "Henry Louis Wallace"
+            }
+        },
+        {
+            "id": "w_9d71216383ecf5743d776039e92a91238290a21b",
+            "content": {
+                "en": "Herb Baumeister"
+            }
+        },
+        {
+            "id": "w_1ba694d695a7c1997dae551bed1f3ce0ae73b883",
+            "content": {
+                "en": "Herbert Mullin"
+            }
+        },
+        {
+            "id": "w_86a3dd71c57ca9c874b0620141e8a819e41386a6",
+            "content": {
+                "en": "Honolulu Strangler"
+            }
+        },
+        {
+            "id": "w_ddbeba16bfc4b7382ac1656de233ef645409e124",
+            "content": {
+                "en": "Jeffrey Dahmer"
+            }
+        },
+        {
+            "id": "w_39d77c8792b98d13c725a0dd882a3f05b68322dd",
+            "content": {
+                "en": "Joel Rifkin"
+            }
+        },
+        {
+            "id": "w_bc0cf3a424819207bb4abff10fb7212f84c17b12",
+            "content": {
+                "en": "John Wayne Gacy"
+            }
+        },
+        {
+            "id": "w_9fdbe66947a6f13a16c8f794fef47aa25ec48c49",
+            "content": {
+                "en": "Joseph E. Duncan III"
+            }
+        },
+        {
+            "id": "w_285ede1732d6cd923a7e7944e4ecd21ece76eb30",
+            "content": {
+                "en": "Joseph Naso"
+            }
+        },
+        {
+            "id": "w_20929a8caa958c50f67734ae0569f0b41ce55b8a",
+            "content": {
+                "en": "Joseph Paul Franklin"
+            }
+        },
+        {
+            "id": "w_64a34fb73ceee06ed00cd050508def1bea023dc9",
+            "content": {
+                "en": "Karl F. Warner"
+            }
+        },
+        {
+            "id": "w_fe53e986a65c0c7e48a0cd304f72e4a43179bd87",
+            "content": {
+                "en": "Kenneth Bianchi"
+            }
+        },
+        {
+            "id": "w_eee21108e81c34d2c9ca53345590c88f84352f27",
+            "content": {
+                "en": "Kristen Gilbert"
+            }
+        },
+        {
+            "id": "w_469246e8746dff5f5c222ddd8eaacd81b4e2a29b",
+            "content": {
+                "en": "Leonard Lake &amp; Charles Ng"
+            }
+        },
+        {
+            "id": "w_adcdd954c96a81b6e17c22a998fccff936b5706a",
+            "content": {
+                "en": "Long Island serial killer"
+            }
+        },
+        {
+            "id": "w_ca14189fc32414118fc37a89c103f1fff2c96ef1",
+            "content": {
+                "en": "Marybeth Tinning"
+            }
+        },
+        {
+            "id": "w_7a993163bbd3f8c9bdc7a0328430e2dc6cdfbe1c",
+            "content": {
+                "en": "Maury Travis"
+            }
+        },
+        {
+            "id": "w_ade69b03483c2991185fb51a92af7931d27b6544",
+            "content": {
+                "en": "Michael Bruce Ross"
+            }
+        },
+        {
+            "id": "w_dfb7ec158516143475301b114fd38733e41db0d6",
+            "content": {
+                "en": "Michael Swango"
+            }
+        },
+        {
+            "id": "w_f7cc18cad3cc0ea6a4948097782e38d22b6c28cb",
+            "content": {
+                "en": "Nannie Doss"
+            }
+        },
+        {
+            "id": "w_eea87559b73de05fadb2667de64d868556a20bfa",
+            "content": {
+                "en": "New Bedford Highway Killer"
+            }
+        },
+        {
+            "id": "w_704c7f77a607057c5ff444856466720265ebd384",
+            "content": {
+                "en": "Oakland County Child Killer"
+            }
+        },
+        {
+            "id": "w_d4191e0b2a51f8b29e7c09413ea20db3386a8434",
+            "content": {
+                "en": "Original Night Stalker"
+            }
+        },
+        {
+            "id": "w_8afb7e1e2312c84c1cbaa7d8d1107be04e9a9230",
+            "content": {
+                "en": "Orville Lynn Majors"
+            }
+        },
+        {
+            "id": "w_963f034be4f810cd38e648e9856cb70837c44f00",
+            "content": {
+                "en": "Ottis Toole"
+            }
+        },
+        {
+            "id": "w_47affcdaba927109f26d818359e38cc95393320e",
+            "content": {
+                "en": "Patrick Kearney"
+            }
+        },
+        {
+            "id": "w_cd764c7570b1b3877c9088e4a6fee0a09941022d",
+            "content": {
+                "en": "Paul John Knowles"
+            }
+        },
+        {
+            "id": "w_ef88dafe4e009de413368cb7f210e50dc383bd06",
+            "content": {
+                "en": "Phantom Killer"
+            }
+        },
+        {
+            "id": "w_25fad3a210b67281bcfc5318de51257881c0d5db",
+            "content": {
+                "en": "Randy Steven Kraft"
+            }
+        },
+        {
+            "id": "w_c72ed2fe35366d2aa2f4564442da100e599d2ccf",
+            "content": {
+                "en": "Raymond Fernandez &amp; Martha Beck"
+            }
+        },
+        {
+            "id": "w_674ebb731a7bde4c305e27d5719e26c908d8b31e",
+            "content": {
+                "en": "Richard Ramirez - The Night Stalker"
+            }
+        },
+        {
+            "id": "w_5f993ce87bad5f2a41eea541f7faa0a227b8acf3",
+            "content": {
+                "en": "Robert Lee Yates"
+            }
+        },
+        {
+            "id": "w_dab6bb1c1b231a67a0727118be68a90d42af5cb6",
+            "content": {
+                "en": "Ronald Dominique"
+            }
+        },
+        {
+            "id": "w_9257215aa2f602a3daef2dca3a26840316a7e9f5",
+            "content": {
+                "en": "Sean Vincent Gillis"
+            }
+        },
+        {
+            "id": "w_3bd6cd924cd1dcec7582a4d01b74a35a3f3125aa",
+            "content": {
+                "en": "Servant Girl Annihilator"
+            }
+        },
+        {
+            "id": "w_faa03b829219854fc71c3c406a306b2aefd2c9cb",
+            "content": {
+                "en": "Shirley Winters"
+            }
+        },
+        {
+            "id": "w_4606fa6fb84b5a41f3488c0880ad218665d59902",
+            "content": {
+                "en": "Ted Bundy"
+            }
+        },
+        {
+            "id": "w_e3488f65cab84c95026a08e3597930d78e725f1f",
+            "content": {
+                "en": "The Alphabet Killer"
+            }
+        },
+        {
+            "id": "w_468fd9b6378d70cacf520c15f582809ec91c1930",
+            "content": {
+                "en": "The Axeman of New Orleans"
+            }
+        },
+        {
+            "id": "w_ad85cff280b65f6e0abb2e6d21ed7cc0aca20d30",
+            "content": {
+                "en": "The Baton Rouge Serial Killer - Derrick Todd Lee"
+            }
+        },
+        {
+            "id": "w_a83fb1375ce67701d728a80c9ca4fdc2ef8795d0",
+            "content": {
+                "en": "The Bike Path Killer - Altemio Sanchez"
+            }
+        },
+        {
+            "id": "w_88c1188365af6e5b542ee6fde342b76615b3a5fc",
+            "content": {
+                "en": "The Brooklyn Strangler - Vincent Johnson"
+            }
+        },
+        {
+            "id": "w_a6a1e2fdb84fc2d9d5e3b54e6669bf84229c9e98",
+            "content": {
+                "en": "The Co-Ed Killer - John Norman Collins"
+            }
+        },
+        {
+            "id": "w_4fdd089489c5cfb1f64331074c5f7ecefe6a83ea",
+            "content": {
+                "en": "The Confession Killer - Henry Lee Lucas"
+            }
+        },
+        {
+            "id": "w_94ee5b0a4400b172e39838ef5eb9a71c0806097d",
+            "content": {
+                "en": "The Cross Country Killer - Glen Edward Rogers"
+            }
+        },
+        {
+            "id": "w_eddebaea3a8939edd2e9637f358086bd326d6cc5",
+            "content": {
+                "en": "The Dating Game Killer - Rodney Alcala"
+            }
+        },
+        {
+            "id": "w_9b605b0679cc1d93f59c0a7f97b64e04f36b7019",
+            "content": {
+                "en": "The Fast Food Killer - Paul Dennis Reid"
+            }
+        },
+        {
+            "id": "w_040df5fc6b54ebeb9f36e9ad10c8140d3f6b541d",
+            "content": {
+                "en": "The Gainesville Ripper - Danny Rolling"
+            }
+        },
+        {
+            "id": "w_f71208862744b77e381583f376a146e9a76f8761",
+            "content": {
+                "en": "The Happy Face Killer - Keith Hunter Jesperson"
+            }
+        },
+        {
+            "id": "w_6e4e5a272d6b976669af484f8ff970938beaa3aa",
+            "content": {
+                "en": "The Lipstick Killer - William Heirens"
+            }
+        },
+        {
+            "id": "w_e46fc997afeccd90cc3f24dcaeb575d8d52d9aa5",
+            "content": {
+                "en": "The Lust Killer - Jerry Brudos"
+            }
+        },
+        {
+            "id": "w_09aa2557cad7b323065bc9b15ddc9620fd89a50c",
+            "content": {
+                "en": "The Mad Butcher - Ed Gein"
+            }
+        },
+        {
+            "id": "w_e3b2412a88bb14a6e393f05c7b22946378328887",
+            "content": {
+                "en": "The Son of Sam - David Berkowitz"
+            }
+        },
+        {
+            "id": "w_d5e1b4f77ffca15a15f6d1000cd1020657bbec90",
+            "content": {
+                "en": "The Sunset Strip Killer - Doug Clark"
+            }
+        },
+        {
+            "id": "w_4c448f444c138ed0311bd8c5456e5506dc3f996f",
+            "content": {
+                "en": "The Torso Killer - Richard Cottingham"
+            }
+        },
+        {
+            "id": "w_bdde8df5b89a4f2d4efb36564de5d8dce8ff8d0f",
+            "content": {
+                "en": "The Vampire of Sacramento - Richard Trenton Chase"
+            }
+        },
+        {
+            "id": "w_cdaaea4ec44832aafadad90c63d6abbe826849e7",
+            "content": {
+                "en": "The Westside Rapist - John Floyd Thomas, Jr."
+            }
+        },
+        {
+            "id": "w_f7f10bf9ea68d6c1533dc6f8348d6bf3f012ff91",
+            "content": {
+                "en": "The Woodford Slasher - John Joubert"
+            }
+        },
+        {
+            "id": "w_cd20bfab663b5626515db16fb2ac80041da32ef6",
+            "content": {
+                "en": "The Zodiac Killer"
+            }
+        },
+        {
+            "id": "w_4315ccdb3f97a1a4036f37a84a0cfc0fa1957083",
+            "content": {
+                "en": "Thomas Dillon"
+            }
+        },
+        {
+            "id": "w_41eb67310ab19b8957142c32bb4e97abba737231",
+            "content": {
+                "en": "Timothy Krajcir"
+            }
+        },
+        {
+            "id": "w_11776003598ff459744b027ceb3b0f2b2a8ce399",
+            "content": {
+                "en": "Tommy Lynn Sells"
+            }
+        },
+        {
+            "id": "w_c5d4840f80e325ec184c6d7067d0328e8e187b0d",
+            "content": {
+                "en": "Toy-Box Killer - David Parker Ray"
+            }
+        },
+        {
+            "id": "w_67f5d3557975f142e96b1cf2312cbb5caf22f9c4",
+            "content": {
+                "en": "West Mesa murders"
+            }
+        },
+        {
+            "id": "w_f5dd8bacde52d86a5c208306c1719a43ff043c7b",
+            "content": {
+                "en": "William Bonin"
+            }
+        },
+        {
+            "id": "w_bf0a329af7c70375cb8ab31014419bcb94c6b4ed",
+            "content": {
+                "en": "William Suff"
+            }
+        }
+    ]
+}

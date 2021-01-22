@@ -1,0 +1,195 @@
+{
+    "id": "Back_to_School_Pack",
+    "name": "Back to School Pack",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_d7a873eae994f72519b8e97601e5aaa964dc6700",
+            "content": {
+                "en": "A bitchin' frat party."
+            }
+        },
+        {
+            "id": "w_a1222a80904bb8b5803ab79dbf8079807a0c650a",
+            "content": {
+                "en": "A GSA meeting that&apos;s really just an orgy."
+            }
+        },
+        {
+            "id": "w_3e14478ba132f70dad7901a2b743710359c49e37",
+            "content": {
+                "en": "A jock&apos;s secret love affair with a gay nerd."
+            }
+        },
+        {
+            "id": "w_34e1d9a0f6effd076b96444bb1791ef05908f70b",
+            "content": {
+                "en": "A lone gunman opening fire inside an elementary school art room."
+            }
+        },
+        {
+            "id": "w_288007b487946fa73d7ec286d11b66d45471ec25",
+            "content": {
+                "en": "A male cheerleader."
+            }
+        },
+        {
+            "id": "w_1ed0e635da771153211d6f56361cb8d952450928",
+            "content": {
+                "en": "Amber Alert."
+            }
+        },
+        {
+            "id": "w_5de162cb228cc31f04af96911679740a52ce584d",
+            "content": {
+                "en": "Being kidnapped, sexually defiled, murdered and then dumped in a field on a beautiful Tuesday afternoon."
+            }
+        },
+        {
+            "id": "w_bd413b05d72202dc8f3fea4fdd32e0bcdcb286e1",
+            "content": {
+                "en": "Braces."
+            }
+        },
+        {
+            "id": "w_9cb86d7f690e2cac461cf032078794bcc63cf058",
+            "content": {
+                "en": "Bullies."
+            }
+        },
+        {
+            "id": "w_e93f8f8a05f93ad848270f6a482d18cbb9df8652",
+            "content": {
+                "en": "Free HIV tests in the cafeteria."
+            }
+        },
+        {
+            "id": "w_1d4b3b990067f05131162c490b71e4ef3144ecc7",
+            "content": {
+                "en": "Getting spanked with a ruler."
+            }
+        },
+        {
+            "id": "w_1a32c41efabd80cb17f935d14a10dab55ab096f3",
+            "content": {
+                "en": "Hazing."
+            }
+        },
+        {
+            "id": "w_7179c72e22d72622f8716016c833d1d6628a101f",
+            "content": {
+                "en": "Impregnating a teacher."
+            }
+        },
+        {
+            "id": "w_b2b26a0a58cd28426d6f1387a3e5b113ccc84e9e",
+            "content": {
+                "en": "Mystery meat."
+            }
+        },
+        {
+            "id": "w_9ce3fc406085bf51104c33ae96335d5053e14e3a",
+            "content": {
+                "en": "Peer pressure."
+            }
+        },
+        {
+            "id": "w_b34169312a0d1691c6c71c1ee6fbc07e4958e387",
+            "content": {
+                "en": "Secretly unleashing a monstrous load while watching a video in Sex Ed."
+            }
+        },
+        {
+            "id": "w_572eebd242017d955e7f163869c53a4dab75e1a2",
+            "content": {
+                "en": "Snapchatting your pimple-popping routine."
+            }
+        },
+        {
+            "id": "w_bfd8e19bed1a8da1ca37380dc1fa8a70bbecc79f",
+            "content": {
+                "en": "That outfit I can't believe Ashley wore today."
+            }
+        },
+        {
+            "id": "w_aa5df76faf794676dd0e0e69e41dea42d56cbfb2",
+            "content": {
+                "en": "The hot new guy checking you out."
+            }
+        },
+        {
+            "id": "w_2968b6cbe2d931071ce9f9c761942bd4d38ea8e4",
+            "content": {
+                "en": "The soda ban."
+            }
+        },
+        {
+            "id": "w_94079717030da0ae63a23f0e1a8838ea172729a5",
+            "content": {
+                "en": "The ugly new girl checking you out."
+            }
+        },
+        {
+            "id": "w_b35e6228dbbf858b77fa49b7b8a5ea0dfa1d4a4a",
+            "content": {
+                "en": "Too many books."
+            }
+        },
+        {
+            "id": "w_ab4357036f4d2c303600492e15a01ecbc255f6aa",
+            "content": {
+                "en": "Top Ramen."
+            }
+        },
+        {
+            "id": "w_6a06649193f20c1fcdddb3d79e05c90401817956",
+            "content": {
+                "en": "Trendy teenage pregnancies."
+            }
+        },
+        {
+            "id": "b_f9ca4da77d152389a625bd4e80ba10b180b6e1f9",
+            "content": {
+                "en": "Here at Sacramento State University, our students are known to excel in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_928bccaf2891339b5878856f67dc830d3c5005de",
+            "content": {
+                "en": "I got my Masters Degree in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0d8e6f125425dd636e5e7cd351b8484c9cbfe85e",
+            "content": {
+                "en": "Kiera, Tasha and Shannon were all sent to the Principal&apos;s office because they got involved with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6490a685a4b3d0cedc793eeda3e7d5cddf438cfd",
+            "content": {
+                "en": "Quiet down everyone! If you flip your history books to page 109, we can begin our lesson on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_540f0defcb902b4616c85297e5fce30e01057c32",
+            "content": {
+                "en": "The high school experience would be incomplete without ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a51ce4ab8a0eab0494404467827e92c5eda71276",
+            "content": {
+                "en": "What is the latest gossip going around campus?"
+            },
+            "pick": 1
+        }
+    ]
+}

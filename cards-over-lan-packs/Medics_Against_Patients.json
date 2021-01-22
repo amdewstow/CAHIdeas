@@ -1,0 +1,400 @@
+{
+    "id": "Medics_Against_Patients",
+    "name": "Medics Against Patients",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_d24e4b37f836023051c7115d36141438b663ad13",
+            "content": {
+                "en": "A Fractured Toe"
+            }
+        },
+        {
+            "id": "w_6f7a057e32a11f8ef6e4ad2f8b851242b5f4b497",
+            "content": {
+                "en": "A head laceration with maggots crawling in it"
+            }
+        },
+        {
+            "id": "w_9c07593ed52c2f6b01a669c89dc066c92cbf86be",
+            "content": {
+                "en": "A pregnant lady with feet hanging from her vagina"
+            }
+        },
+        {
+            "id": "w_4a2dbcf3810b59bfcfe6604d0b9c0c94d8cf4173",
+            "content": {
+                "en": "A proctologist with abnormally girthy fingers"
+            }
+        },
+        {
+            "id": "w_975769b36e9fb5ec2bc7271df49620dd797dc7ce",
+            "content": {
+                "en": "A wheelchair death race"
+            }
+        },
+        {
+            "id": "w_a2524b136d42ee009fdc9b9894b30e0cad275206",
+            "content": {
+                "en": "Accidentally amputating grandma&apos;s arm"
+            }
+        },
+        {
+            "id": "w_57e684c39c690267e4beae07ab605344e2b49bfb",
+            "content": {
+                "en": "Accidentally hooking up one patient&apos;s full colostomy bag to another patient&apos;s IV."
+            }
+        },
+        {
+            "id": "w_0e141fae70859429cd34b776f2731d31f4c4452f",
+            "content": {
+                "en": "Aggressive dementia patients"
+            }
+        },
+        {
+            "id": "w_867f32c5a05712d4659b76cba6759b9e2911bb1d",
+            "content": {
+                "en": "Ambulance driver"
+            }
+        },
+        {
+            "id": "w_284609bcbbfdbd3a4469e44cc2fc3640c749dc83",
+            "content": {
+                "en": "Amputee sex"
+            }
+        },
+        {
+            "id": "w_1942c4ece11887349a41560334abffc6d5850f92",
+            "content": {
+                "en": "An artichoke"
+            }
+        },
+        {
+            "id": "w_0bd9f29088cdbccc704b093793fadf5c88630554",
+            "content": {
+                "en": "An engagement ring with a kidney stone instead of a diamond."
+            }
+        },
+        {
+            "id": "w_b7395a602223f166b5f2aa84620f8f84de8c7700",
+            "content": {
+                "en": "Appendicitis"
+            }
+        },
+        {
+            "id": "w_e3e7e50ff5d797881255fef83fda503a64c9e7b5",
+            "content": {
+                "en": "Asking an intoxicated patient if his teeth itch"
+            }
+        },
+        {
+            "id": "w_87fbd61df7a5af6c1dbb39c56417f61017230722",
+            "content": {
+                "en": "Aspergers"
+            }
+        },
+        {
+            "id": "w_bc00fa9297ed2704e1d750d0786d9a7cf1510079",
+            "content": {
+                "en": "Balloons made from gloves"
+            }
+        },
+        {
+            "id": "w_791fa709cc8af1d0317f60228bc8cca6b1314b98",
+            "content": {
+                "en": "Being so hungover you administer yourself IV fluids"
+            }
+        },
+        {
+            "id": "w_766fbf676b1b6a59fb95bf0718e8c53f745a47ee",
+            "content": {
+                "en": "Brain Damage"
+            }
+        },
+        {
+            "id": "w_0536a92a68605c6e408fb5a8bf2985f47d1acac3",
+            "content": {
+                "en": "Burnt flesh"
+            }
+        },
+        {
+            "id": "w_4b62df8fefe60f812ec7d637a9e6fb9694bd7ec8",
+            "content": {
+                "en": "Calling an ambulance because the hospital is next door to the liquor store"
+            }
+        },
+        {
+            "id": "w_f8c1ad820cf72714eeefa6cc000ebaf47bc8b434",
+            "content": {
+                "en": "Cardiac Arrest"
+            }
+        },
+        {
+            "id": "w_e229ffd4f72298bcde2e4dbab417eef0ddb34f6c",
+            "content": {
+                "en": "Code Brown"
+            }
+        },
+        {
+            "id": "w_c68368c87e6bfb17b47173278f9e25742a373e97",
+            "content": {
+                "en": "Coffee, Coffee, Coffee"
+            }
+        },
+        {
+            "id": "w_537c01715a1959f96f3a5b86b952819836ba6007",
+            "content": {
+                "en": "Copious amounts of Morphine"
+            }
+        },
+        {
+            "id": "w_0d6a5ca94c11713e6cdc93852628cf8afc29edca",
+            "content": {
+                "en": "Diabetic foot ulcer (with image)"
+            }
+        },
+        {
+            "id": "w_925bda2a5ae6a344d9883c316fba663bba49b412",
+            "content": {
+                "en": "Dopamine"
+            }
+        },
+        {
+            "id": "w_ba6d60574c2f99729ea93eb8dc335a271e3dc131",
+            "content": {
+                "en": "Household objects stuck in the butt"
+            }
+        },
+        {
+            "id": "w_7d5baf6028e0cceeecafab4feafa677b06b431ae",
+            "content": {
+                "en": "If everything else can't, NarCAN!"
+            }
+        },
+        {
+            "id": "w_46afd9b8a22829f07351d4e0f65d0ac43fa35528",
+            "content": {
+                "en": "Keeping a patient&apos;s meds for yourself and giving them tic tacs instead."
+            }
+        },
+        {
+            "id": "w_bc5922758eb0e5c2767658954adb417b4c4822d0",
+            "content": {
+                "en": "Kidney stones"
+            }
+        },
+        {
+            "id": "w_0a31294d3a36567f79a156dfa4b1a50a66934958",
+            "content": {
+                "en": "Life Alert"
+            }
+        },
+        {
+            "id": "w_6a27120ba8dff0e50bbac6dade5f9c2b34ce300f",
+            "content": {
+                "en": "Nurses"
+            }
+        },
+        {
+            "id": "w_c399ecb8696210cbe05733364df860bf46d4fb91",
+            "content": {
+                "en": "Nursing Home Smell"
+            }
+        },
+        {
+            "id": "w_23be10eb9a55ad0a5bcdea607408572fcfed5d5e",
+            "content": {
+                "en": "Paramedic"
+            }
+        },
+        {
+            "id": "w_b7b4d89fedaaac83032228a31fd3ec5338d02c28",
+            "content": {
+                "en": "Replacing mum&apos;s IV fluids with Mountain Dew"
+            }
+        },
+        {
+            "id": "w_15698ee0aeb5cde31ef91356a5615b0087cf864d",
+            "content": {
+                "en": "Salmonella"
+            }
+        },
+        {
+            "id": "w_cfdb069b6660a4da870dd16895e7562058b8a6ff",
+            "content": {
+                "en": "Shocking Asystole"
+            }
+        },
+        {
+            "id": "w_6804ca6b91d08c9b7c4151d82ccd043f43fcb790",
+            "content": {
+                "en": "Sudden Infant Death Syndrome"
+            }
+        },
+        {
+            "id": "w_d6e364031161a5a8ef52923e61867e71e0c92e5b",
+            "content": {
+                "en": "Swollen Gums"
+            }
+        },
+        {
+            "id": "w_f2bff948a412715e8edb601cbd2e2579fca19221",
+            "content": {
+                "en": "Total, complete, fucking exsanguination"
+            }
+        },
+        {
+            "id": "w_9103e647fd2882777ba64280ff600b61dbe17988",
+            "content": {
+                "en": "Trench foot fetish."
+            }
+        },
+        {
+            "id": "w_47349aa5c7208af38e9d98d83f379a9bab4d885f",
+            "content": {
+                "en": "Vomiting and Diarrhea"
+            }
+        },
+        {
+            "id": "w_1f2d6e9ac2da9c378235cce20253ead74abe4edb",
+            "content": {
+                "en": "Warts"
+            }
+        },
+        {
+            "id": "b_9361ba9ca9c6ad0aa1347d0ad90e7ec76c46def9",
+            "content": {
+                "en": "\"Bravo 123\" \"123 go ahead\" \"We need back up, the patient is______\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b993047ecf9ec40d10be040ba80c09f2f500383",
+            "content": {
+                "en": "\"I fell on it,\" said the patient with a\/an______ stuck up his arse"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4f8e1a2012e1d2008c8a235f86aa57c4954f16bd",
+            "content": {
+                "en": "80yo female presents with a fractured hip after tripping over______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a8c7ce6519461ddc94896c92085c090d6f92a20a",
+            "content": {
+                "en": "Can you tell me how you got this stab wound?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f9d9a67ab2926e68babaef3d83d27df4181ebc2a",
+            "content": {
+                "en": "Danger Response______ Breathing Circulation"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_add8c86e93bbe8ea3038e1cdfc22fe17c1e3137a",
+            "content": {
+                "en": "Doing acupuncture with Epinephrine needles."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ce58d4bc3e555549a794a5d1dc051187910bb98c",
+            "content": {
+                "en": "He seems to be suffering from a rare form of Chronic______ Syndrome"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe261990d80f5951972488c501ba043d6460ca18",
+            "content": {
+                "en": "I typed your symptoms into WebMD and it said you might have______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7d157697ec2f8cf987aa47912fb65c2a0f0b383",
+            "content": {
+                "en": "Paramedic PPE includes: Safety Glasses, Gloves and______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_56d9ab1b7ed7affe106df7bf1cb46c9f3733d415",
+            "content": {
+                "en": "Seems that you have an allergic reaction to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b9c83504fd89467229fe84449456bf5618cc1e3",
+            "content": {
+                "en": "Talk to your doctor if you have moderate to severe______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f346fb4d2a6a27c30db07e785a037ae85860c9f",
+            "content": {
+                "en": "The patient&apos;s Chief Complaint is______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c01b70bcb0cb37fd837f0c71ca9ecf9ccd81901d",
+            "content": {
+                "en": "The tumour was likely caused by exposure to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bd8949761782b0eb2b458097d6c096cccb39c69d",
+            "content": {
+                "en": "Tim woke up in an ambulance; the last thing he remembers is______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dca24bef497852f2921a91120e525a4a1220d8d5",
+            "content": {
+                "en": "Upon a Head to Toe assessment the paramedic found the patient had______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d5e1004f820e2bc7c81a0acd4fd26802a3434802",
+            "content": {
+                "en": "We found out what&apos;s causing you chest pain. We think it&apos;s a direct result of______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e67c1686141068ea334f69ffc9b6c08a6dfa9691",
+            "content": {
+                "en": "What do you see? (*Image of a Blood splatter*)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_11fe11b5e253f44fd0aa6f30fb9789752a4646d5",
+            "content": {
+                "en": "______ a day keeps the doctor away"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_05e22873b35a777c1d53ec5e6d696198f56f1bb3",
+            "content": {
+                "en": "______ is better than Chest Compressions"
+            },
+            "pick": 1
+        }
+    ]
+}

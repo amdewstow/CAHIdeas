@@ -1,0 +1,2380 @@
+{
+    "id": "Sporks_Against_Humanity",
+    "name": "Sporks Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_15b548818940499c2845a10f37ac9fbe32665299",
+            "content": {
+                "en": "#dealthcider."
+            }
+        },
+        {
+            "id": "w_b8f40e9565c4943fe1e525a41ab97c4a60878740",
+            "content": {
+                "en": "(I&apos;m fucking starving! Hurry the fuck up)"
+            }
+        },
+        {
+            "id": "w_f23ff88c7be4f4bc04d5e11a4b3ad411d1bf42a0",
+            "content": {
+                "en": "(I&apos;m yiffing someone else in PM)"
+            }
+        },
+        {
+            "id": "w_86d6b1c7ba68fd6804ee77305eb95b2bc5d27bac",
+            "content": {
+                "en": "(I've really gotta go have a shit soon...)"
+            }
+        },
+        {
+            "id": "w_f5f8132d1fbfc9210d71d0b0d9d1146fcc8d951a",
+            "content": {
+                "en": "(we ran out of good cards hours ago, dammit)"
+            }
+        },
+        {
+            "id": "w_9cfb9ae27cc0d45e28ce4cb85f84df7f30d41fd0",
+            "content": {
+                "en": "\/sanicking AnMaster to AnimalMaster."
+            }
+        },
+        {
+            "id": "w_6bf658d872cc0169cde424783ab670beefa8bdb4",
+            "content": {
+                "en": "A fox is fine too."
+            }
+        },
+        {
+            "id": "w_9ad1b956d5b419c5521c3c37aa434cf0c528ae7c",
+            "content": {
+                "en": "A sweaty, flared awilfox."
+            }
+        },
+        {
+            "id": "w_ce0a77457e2c8d18f70375bb86e5812ebd28caba",
+            "content": {
+                "en": "aji and GreaseMonkey&apos;s obsessions with chiptunes."
+            }
+        },
+        {
+            "id": "w_c7e27416dbb54cdafa8b116340bbe38dfa897df2",
+            "content": {
+                "en": "All of the \"extra parts\" from everyone&apos;s sex changes."
+            }
+        },
+        {
+            "id": "w_bbac6b20bfd1ae3192f4c7e3339b7bff770a3baf",
+            "content": {
+                "en": "Alyx&apos;s excessive cravings for sex."
+            }
+        },
+        {
+            "id": "w_a72876d39abdbba7ede6e78836ea418b430bc521",
+            "content": {
+                "en": "anal sex penis vomit"
+            }
+        },
+        {
+            "id": "w_eb05ffa3eff071fccad96396b900aec304dbfe9b",
+            "content": {
+                "en": "Another \/kill war."
+            }
+        },
+        {
+            "id": "w_d478ca27f02d0e1d9d596bdc5335d9d1e9e4854c",
+            "content": {
+                "en": "Another phone dropped by Missingno."
+            }
+        },
+        {
+            "id": "w_2a33db117a7121252dc598bd8fd18fc40ec55a50",
+            "content": {
+                "en": "Another shitty bot, written in bash."
+            }
+        },
+        {
+            "id": "w_aa21334481d30517469dd2a79997801e6a345f0d",
+            "content": {
+                "en": "AppleDash"
+            }
+        },
+        {
+            "id": "w_8007f1518b8f1fc00bd0b98641c63780e6f95d37",
+            "content": {
+                "en": "Aspergic."
+            }
+        },
+        {
+            "id": "w_2823c885a5370d5ad46562e001b124b07202d894",
+            "content": {
+                "en": "Attacking Sporks pathetically with ClonesX."
+            }
+        },
+        {
+            "id": "w_9104de10b711eb3b0b37f79b03b31398caeaebb3",
+            "content": {
+                "en": "Australia&apos;s seventh state."
+            }
+        },
+        {
+            "id": "w_5777b8acbbd21e903815b28f39ee1ecde9f556bd",
+            "content": {
+                "en": "awilfox and Missingno having sexytime."
+            }
+        },
+        {
+            "id": "w_1de491f9c52e47eeb078beb19c83b2f30048b567",
+            "content": {
+                "en": "awilfox making animal noises IRL"
+            }
+        },
+        {
+            "id": "w_1cb08e3ba7297064460470b8b0c3bbed648deb27",
+            "content": {
+                "en": "awilfox sobbing into a can of Alpo&#194;&reg;."
+            }
+        },
+        {
+            "id": "w_a9bff77edcd3af6939dc5f3304dfc075d222c548",
+            "content": {
+                "en": "awilfox&apos;s \"interesting\" music tastes."
+            }
+        },
+        {
+            "id": "w_2832e91a24e2c708da847f21188952df096af36f",
+            "content": {
+                "en": "awilfox&apos;s butt picture."
+            }
+        },
+        {
+            "id": "w_0626c3b48b78b2d4f49d1f1c026b2d5ef63e2721",
+            "content": {
+                "en": "awilfox&apos;s deadly member."
+            }
+        },
+        {
+            "id": "w_2c3e81464e56310cefc696b6b71f72e15c40ddc0",
+            "content": {
+                "en": "awilfox&apos;s diabeetus."
+            }
+        },
+        {
+            "id": "w_dfed00655e451cb79d26dc41b2612763c83e580c",
+            "content": {
+                "en": "awilfox&apos;s excessive 'love' for animals."
+            }
+        },
+        {
+            "id": "w_b6d0bdf7e102068713904cd1bb909125ff14617e",
+            "content": {
+                "en": "awilfox&apos;s humpity adventures."
+            }
+        },
+        {
+            "id": "w_8e4ea09c9ae4d6623a5cc5400a76b659fcb63fc7",
+            "content": {
+                "en": "awilfox&apos;s knot."
+            }
+        },
+        {
+            "id": "w_fb974b1bfd1789646cf9e60ee3c8bd0829c99838",
+            "content": {
+                "en": "awilfox&apos;s stupid obsession with Indianapolis."
+            }
+        },
+        {
+            "id": "w_7153db99bf839acb9c0357dc3c3de449a1fa4ba4",
+            "content": {
+                "en": "awilfox."
+            }
+        },
+        {
+            "id": "w_77f56e47c15e8e8ff2f4015f5a32ce46b3a08e15",
+            "content": {
+                "en": "Banning people from Sporks for no reason whatsoever."
+            }
+        },
+        {
+            "id": "w_838eb3181b2dd90fe05064476868657f22d7db46",
+            "content": {
+                "en": "Barely having enough time to use IRC."
+            }
+        },
+        {
+            "id": "w_a62f41abce1f867cb945c07f7055361d29f2a78d",
+            "content": {
+                "en": "Barely using the Interlinked Twitter account."
+            }
+        },
+        {
+            "id": "w_ac216e2c510a98b5cc997ce89bd6fdcda6005322",
+            "content": {
+                "en": "Being anally raped with a cactus by Stan."
+            }
+        },
+        {
+            "id": "w_2295782be4459e0a71c67e1eff7b3d395df183ff",
+            "content": {
+                "en": "Being unable to stop masturbating in Sporks."
+            }
+        },
+        {
+            "id": "w_85d1919b574ab6fca87292ef976639e4421c9d48",
+            "content": {
+                "en": "Being unable to stop masturbating."
+            }
+        },
+        {
+            "id": "w_17a514ac20efde4e7abf19fa80ea3177ef998d33",
+            "content": {
+                "en": "BIG BOOTY BITCHES"
+            }
+        },
+        {
+            "id": "w_5977458109258ad42b6501c23e399c33ae50bddd",
+            "content": {
+                "en": "Bringing the the ficus to climax manually."
+            }
+        },
+        {
+            "id": "w_2f3da6a0b007e1e2bede03305234c46fc6c6eb8e",
+            "content": {
+                "en": "Bringing your SO onto Sporks to embarrass yourself."
+            }
+        },
+        {
+            "id": "w_d56acc1d085f73ee0307f21af0ce731440101870",
+            "content": {
+                "en": "bspec&apos;s boy-love."
+            }
+        },
+        {
+            "id": "w_f7fca36499a1eec03c30a33a699aa0098100bc08",
+            "content": {
+                "en": "Building giant golden penises in minecraft."
+            }
+        },
+        {
+            "id": "w_551b21fc336561081c941a1b99c70db1578f222d",
+            "content": {
+                "en": "Buttjuping."
+            }
+        },
+        {
+            "id": "w_0452faecd8c6ae3f1ee9ddf32d3dfd84e598044c",
+            "content": {
+                "en": "CAPAB \\r\\n"
+            }
+        },
+        {
+            "id": "w_730b0bb4d8945d12b40231c620dec9a90a817a0b",
+            "content": {
+                "en": "Chavs."
+            }
+        },
+        {
+            "id": "w_b7c94527cbc5f3ac6df5334bdcd218645bfb1e1f",
+            "content": {
+                "en": "Cherri and Jherry."
+            }
+        },
+        {
+            "id": "w_e8435c571f016546765e920d63df1d05330743be",
+            "content": {
+                "en": "Christel Dahlskjaer&apos;s unpronounceable name."
+            }
+        },
+        {
+            "id": "w_1d19e7a795d3b6efc5b6a2f62e14c536e1272a34",
+            "content": {
+                "en": "Christel Dahlskjaer."
+            }
+        },
+        {
+            "id": "w_87e45a9e0f02a4edbcf92eaddb3899bb3c145d31",
+            "content": {
+                "en": "christel&apos;s dildo."
+            }
+        },
+        {
+            "id": "w_487e9fef8c3f2849bcba68622b0fc00034e9175f",
+            "content": {
+                "en": "Claiming the Interlinked throne."
+            }
+        },
+        {
+            "id": "w_1bd6bbafbb69649a7a9e6a13ac76d976a88e2e51",
+            "content": {
+                "en": "Claiming to be Mismagius."
+            }
+        },
+        {
+            "id": "w_2efbd86cf76eb0f47dd0e720170798a1659877ed",
+            "content": {
+                "en": "Coming to Interlinked."
+            }
+        },
+        {
+            "id": "w_68cfdfa1fd913142607f9d31e1e168f08e39a22e",
+            "content": {
+                "en": "Constructing enormous golden vulvae in minecraft."
+            }
+        },
+        {
+            "id": "w_31b774074e6f8185f22aa2c6ef49e8924b2bab59",
+            "content": {
+                "en": "Cooking with Ricin with Joree."
+            }
+        },
+        {
+            "id": "w_0eb57dacfcddc1f58fccecc7c6f5a48093b70175",
+            "content": {
+                "en": "Daddy never loved me!"
+            }
+        },
+        {
+            "id": "w_ef3e2ec2294956d930fa923e83c217b6cc8585fe",
+            "content": {
+                "en": "Dance to the beat of someone else&apos;s heart by force."
+            }
+        },
+        {
+            "id": "w_eb0345f354bbc0dcaae0d7f5635099cd6b5975f6",
+            "content": {
+                "en": "Destroying your IRC network."
+            }
+        },
+        {
+            "id": "w_5bfd2e6d16ff71738cd68c07c32d55e7696b530c",
+            "content": {
+                "en": "Disgusting public sex habits."
+            }
+        },
+        {
+            "id": "w_9a7a1b2676bdb585f292553fd6105dc199f5cc32",
+            "content": {
+                "en": "DMCA'ing Google to get rid of unflattering nudes."
+            }
+        },
+        {
+            "id": "w_b0ad0a4ded5697b02654950dfe8cb299244103fc",
+            "content": {
+                "en": "Doing whatever you want 'cause the other opers don't care."
+            }
+        },
+        {
+            "id": "w_50d2a8d018a3289503d7c08c9d898b47dc6aaf2c",
+            "content": {
+                "en": "Ensuring your place in the Interlinked hierarchy."
+            }
+        },
+        {
+            "id": "w_8c53ab3e01032266ab1dd49d9119b9498251c2c2",
+            "content": {
+                "en": "EntityReborn being \"responsible\"."
+            }
+        },
+        {
+            "id": "w_7f8b5fc795a003f2a4a968ba61a65322e781ebf4",
+            "content": {
+                "en": "Ethan shittily trying to rap a song by 2pac."
+            }
+        },
+        {
+            "id": "w_ef2ce88c087134820f72ea166b205350c48464d0",
+            "content": {
+                "en": "Feeding the ficus."
+            }
+        },
+        {
+            "id": "w_97024a76b1fb66a3a17e4a58933d70d75c3830a9",
+            "content": {
+                "en": "Feenode."
+            }
+        },
+        {
+            "id": "w_a16b3005c06241b945d0a8d7240f9eb06b55dfef",
+            "content": {
+                "en": "Fellating Laurelai&apos;s diminutive penis."
+            }
+        },
+        {
+            "id": "w_06303dd67aeae506c0c584ce4e06097f791e25c4",
+            "content": {
+                "en": "fgt"
+            }
+        },
+        {
+            "id": "w_cf0806ccfc02b10e08f967de694f28abadbeaff9",
+            "content": {
+                "en": "fishbot sufficing."
+            }
+        },
+        {
+            "id": "w_a4780fd99ba33baa5db96cc3a48d2eb28738faa3",
+            "content": {
+                "en": "fiting 1v1 irl"
+            }
+        },
+        {
+            "id": "w_7d4269142922c5a1baa0c9f6a6e59c5a68d49b4e",
+            "content": {
+                "en": "Flashing a new ROM on your phone for no reason."
+            }
+        },
+        {
+            "id": "w_cc8f8ae9441b135e1e4575e9d17a37c4650107a0",
+            "content": {
+                "en": "Fleur&apos;s outstretched vagina."
+            }
+        },
+        {
+            "id": "w_f003153127959787038c52099614e9d3cc21d4bc",
+            "content": {
+                "en": "Fleur."
+            }
+        },
+        {
+            "id": "w_88aa62c7b3fb34e723cae5d2570f197bdbf2f3fe",
+            "content": {
+                "en": "Flirting with Missingno."
+            }
+        },
+        {
+            "id": "w_b0e717d809bcdbe1497ce6c99a235b01f39e564e",
+            "content": {
+                "en": "Flooding a channel with services abuse."
+            }
+        },
+        {
+            "id": "w_e55eabbd6762bb89b00fc0dfc54dbd890a028d41",
+            "content": {
+                "en": "Freenode."
+            }
+        },
+        {
+            "id": "w_ae89d3e1c97623fe0f792912c92c9015267d5515",
+            "content": {
+                "en": "Fuck your riddles, you gigantic mystic arsehole!"
+            }
+        },
+        {
+            "id": "w_0b2f0db206d35c4437486aa28c2a190990ab00f8",
+            "content": {
+                "en": "Fucking it up to the point of being unable to use it."
+            }
+        },
+        {
+            "id": "w_eef15d110fa6053f2292814700aed599c71d3a9d",
+            "content": {
+                "en": "Fucking Missingno."
+            }
+        },
+        {
+            "id": "w_e7c3a693317bf148aea5996b6ff147d3bcbfefd9",
+            "content": {
+                "en": "Fucking silverwoof with a condom because you live slightly less dangerously."
+            }
+        },
+        {
+            "id": "w_0431e5844174a137f5a7851bed71bd135442b17b",
+            "content": {
+                "en": "Fucking with Missingno."
+            }
+        },
+        {
+            "id": "w_a0ce2e6d544d3c6270df62e422b98eaafe1e5b41",
+            "content": {
+                "en": "Fudge&apos;s public disclosure of ircd 0-days."
+            }
+        },
+        {
+            "id": "w_ab4236cbb4c907295a43886e476f8629f7875766",
+            "content": {
+                "en": "Getting nudes from Google Images and claiming them as yourself."
+            }
+        },
+        {
+            "id": "w_6375fda4e6c3d4905c3c9efe241de72129eff192",
+            "content": {
+                "en": "Gilding your wallet with gold sharpie to feel faux-bourgeoise."
+            }
+        },
+        {
+            "id": "w_c35112a8f15e9b9cbbb0419f4ee9aab0c0dc27db",
+            "content": {
+                "en": "Giving bad advice to the severely mentally ill."
+            }
+        },
+        {
+            "id": "w_bea53a2b6b684332c73934ae123e43659a685365",
+            "content": {
+                "en": "Having a Sporks circlejerk about left-wing politics."
+            }
+        },
+        {
+            "id": "w_bd0d8aad6d7c8e4172e1c29da611de863f247f06",
+            "content": {
+                "en": "Having sex with silverwoof without a condom because you live dangerously."
+            }
+        },
+        {
+            "id": "w_01882855dc6c2fb0aaab5fcf123c661ddda01985",
+            "content": {
+                "en": "HellDragon."
+            }
+        },
+        {
+            "id": "w_7c748908922b6ba8756ad6cceb6ff9f777a4d87e",
+            "content": {
+                "en": "Hooking up with people from Sporks."
+            }
+        },
+        {
+            "id": "w_f609da39cfb8859c5950cc9b070f0b895debb433",
+            "content": {
+                "en": "Horst&apos;s short relationship with Paige."
+            }
+        },
+        {
+            "id": "w_17e3f69d447641b0f95222727ed2743d6d75ef4f",
+            "content": {
+                "en": "How Lyude!"
+            }
+        },
+        {
+            "id": "w_478d00936c8d8830d4f9c02e3d08c168e77fd3ba",
+            "content": {
+                "en": "I JUST SHIT IN HERE AND IT SMELLS REAL BAD."
+            }
+        },
+        {
+            "id": "w_ef35b72eb4816138235e489573be0e23eb3ffd82",
+            "content": {
+                "en": "I'M FABULOUS!"
+            }
+        },
+        {
+            "id": "w_152b307f9f2d3e3b9bcb16e8dad0bc9a55ff9a84",
+            "content": {
+                "en": "Inappropriate thoughts about foxiepaws."
+            }
+        },
+        {
+            "id": "w_5ab77501057048b05129b1c9ab3dc6f7d08936bc",
+            "content": {
+                "en": "init faking death."
+            }
+        },
+        {
+            "id": "w_abc9655b64f8bac924bed381d48d98d860b983d2",
+            "content": {
+                "en": "Injecting your scrotum with saline."
+            }
+        },
+        {
+            "id": "w_2ec6adfa400cf7bf24310b1d652d562933eb7dbb",
+            "content": {
+                "en": "Intensely hating every operating system."
+            }
+        },
+        {
+            "id": "w_9b7f785278db3fe40c9aa43870929d6942e11362",
+            "content": {
+                "en": "Interlinked-brand Mydixabendin pills."
+            }
+        },
+        {
+            "id": "w_e2aba7747e895010944dc88d558d0bbac64dddc4",
+            "content": {
+                "en": "IRC operator hypocrisy."
+            }
+        },
+        {
+            "id": "w_2a188ac5a48e29bd15518988d7ed4da24dccfdcb",
+            "content": {
+                "en": "Jithra&apos;s sad decline into Final Fantasy MMO addiction."
+            }
+        },
+        {
+            "id": "w_550abb5f01a0a7ffadeb35ee00d6ea736de53273",
+            "content": {
+                "en": "Joree"
+            }
+        },
+        {
+            "id": "w_e212b6edf951ec2f4e3bf2a501a8bf11b008c890",
+            "content": {
+                "en": "Joree&apos;s absolute lack of desire to have sex with anyone, anywhere."
+            }
+        },
+        {
+            "id": "w_83afb51f232b938a186fcfd5a858c660a0d01450",
+            "content": {
+                "en": "Joree&apos;s hyperactive sex drive."
+            }
+        },
+        {
+            "id": "w_b832adf14083ececaf51b63f94e5e2a00868f211",
+            "content": {
+                "en": "Joree&apos;s latest pronoun."
+            }
+        },
+        {
+            "id": "w_b1b4fc9c7b588f5c59dc2e0b1fecdd3ff98364a5",
+            "content": {
+                "en": "K:lined."
+            }
+        },
+        {
+            "id": "w_b50be4c6c4355fd5f15664fcf89f56adcb40de73",
+            "content": {
+                "en": "kaniini."
+            }
+        },
+        {
+            "id": "w_62e823077d6e5efed4f2ed4f8ee49529113b8fa4",
+            "content": {
+                "en": "Kicking users for not breaking the rules because they're despicable."
+            }
+        },
+        {
+            "id": "w_870e88719b8ee31444ba504e6aaddcf012c1d4aa",
+            "content": {
+                "en": "Knotting Missingno."
+            }
+        },
+        {
+            "id": "w_eaeeae247b464d3f2008358643a18e1b73207275",
+            "content": {
+                "en": "Lapper&apos;s face-pulls."
+            }
+        },
+        {
+            "id": "w_d6fc154f79e6fe9dfb40043cee46e5f4f8b13558",
+            "content": {
+                "en": "Lifting many miligram of cocain with penis."
+            }
+        },
+        {
+            "id": "w_075b7e73bd21911cacb5a2687263c91eaf37074e",
+            "content": {
+                "en": "Like a smell around you, forever lingering."
+            }
+        },
+        {
+            "id": "w_f27a39a937a8030c3e971755f36052f6ef672ecf",
+            "content": {
+                "en": "lolvore"
+            }
+        },
+        {
+            "id": "w_ee4048a7543894971015489665362dea7639c404",
+            "content": {
+                "en": "Lots and lots of \"enhancement drugs\"."
+            }
+        },
+        {
+            "id": "w_1d5a8a6e23890c5f47c17139f611c93d224c5642",
+            "content": {
+                "en": "lstarnes&apos;s pathological Typo Syndrome."
+            }
+        },
+        {
+            "id": "w_358e06d696e03e85d9ac992726a6e2617d618f06",
+            "content": {
+                "en": "lstarnes' autofelattio."
+            }
+        },
+        {
+            "id": "w_a7c3fec3b3bf0e32691567300b621977789bf628",
+            "content": {
+                "en": "lstarnes' cybering with Paige."
+            }
+        },
+        {
+            "id": "w_d504faa9a22b880f0609db571d9bf79188a2abf6",
+            "content": {
+                "en": "lstarnes."
+            }
+        },
+        {
+            "id": "w_a56a532dd7a4d5da345a4d77844c06b4f4c56847",
+            "content": {
+                "en": "Luke unexpectedly returning."
+            }
+        },
+        {
+            "id": "w_a449f109e83919cd9e51ccf735a77ee70b56e5c0",
+            "content": {
+                "en": "madeline&apos;s collection of useless mainframes."
+            }
+        },
+        {
+            "id": "w_428d96cf4bd37ce998c99289135d28ee0f3e9554",
+            "content": {
+                "en": "madeline&apos;s crummy eyesight."
+            }
+        },
+        {
+            "id": "w_a748dafa677ed3a112a1cbe12d0ff36f4f9a857f",
+            "content": {
+                "en": "madeline&apos;s future sex offender registry entry."
+            }
+        },
+        {
+            "id": "w_271581f5ff115dae1ebdead1f038b025c0811cf5",
+            "content": {
+                "en": "madeline."
+            }
+        },
+        {
+            "id": "w_c92b717cde801c68937db1d7352ccacb6acbdb42",
+            "content": {
+                "en": "Making a lion face 'cause you're fierce."
+            }
+        },
+        {
+            "id": "w_c3549984875ca9a3d91e2baad8f142c43e8453cb",
+            "content": {
+                "en": "Making hot, passionate love."
+            }
+        },
+        {
+            "id": "w_2e6a6d239fd54c48401cf89f0fa66fd5c3c7dddd",
+            "content": {
+                "en": "Making sure the rules don't apply to you."
+            }
+        },
+        {
+            "id": "w_6a29258e008f1ff77e938a6f3eb71716cdd2e6a2",
+            "content": {
+                "en": "Markov chain bots."
+            }
+        },
+        {
+            "id": "w_09aa1343f6cc0e0c1f8317a5772fa5d4230a5a69",
+            "content": {
+                "en": "Mastering the synthesiser."
+            }
+        },
+        {
+            "id": "w_8d65734e2a1e9bfd31022e3a104b34bb4c03401f",
+            "content": {
+                "en": "matthew&apos;s flakiness."
+            }
+        },
+        {
+            "id": "w_01ea0a1e4b531c64d3e346debfd4b31c2b732463",
+            "content": {
+                "en": "meat spinlock"
+            }
+        },
+        {
+            "id": "w_99729922218417b145d63bca5977de7607789036",
+            "content": {
+                "en": "Merrymaking at Missingno&apos;s place."
+            }
+        },
+        {
+            "id": "w_4ca984668297185519bf06d4c5ac76949aac7ce2",
+            "content": {
+                "en": "Messing with Interlinked operators."
+            }
+        },
+        {
+            "id": "w_0df50f5e1c21831bb92d3a617bec962fb39cd6bf",
+            "content": {
+                "en": "Mismagius saying she&apos;s Mismagius."
+            }
+        },
+        {
+            "id": "w_3b256d60aa651c8583171ebf30cb5bcc6f25b89f",
+            "content": {
+                "en": "Missingno crying into a can of Fancy-Feast&#194;&reg;."
+            }
+        },
+        {
+            "id": "w_fa641d5ec5e1d01b0ef7110253adbe1468b4f6e3",
+            "content": {
+                "en": "Missingno flooding everyone via services abuse."
+            }
+        },
+        {
+            "id": "w_2721482fba65806f6278a73fda24ae6829a2ec5b",
+            "content": {
+                "en": "Missingno&apos;s broken chairs."
+            }
+        },
+        {
+            "id": "w_56e463af61fc035afdcb86a8807592af6a104c62",
+            "content": {
+                "en": "Missingno&apos;s constantly changing majors."
+            }
+        },
+        {
+            "id": "w_ecb936a30aebc94b806d08a3d3ca65269ea9a74d",
+            "content": {
+                "en": "Missingno&apos;s hatred of technology."
+            }
+        },
+        {
+            "id": "w_0cb3a2041fd355b20c2a33ab29ac7bab90ce5877",
+            "content": {
+                "en": "Missingno&apos;s sexcapades with the family pets."
+            }
+        },
+        {
+            "id": "w_40a2df720399baacab1e8ee1b912e7c2a5c00f62",
+            "content": {
+                "en": "Missingno&apos;s sexcapades."
+            }
+        },
+        {
+            "id": "w_31ba8ff11ab49641c600d6308ae8a0b191342d6d",
+            "content": {
+                "en": "Missingno&apos;s shoddy body."
+            }
+        },
+        {
+            "id": "w_a35c69bb3e3be93c02b1f1b39481de89b2942fc7",
+            "content": {
+                "en": "Missingno&apos;s slimey cunt."
+            }
+        },
+        {
+            "id": "w_183fafa07c6981926f939ea28a12e24eb9509e2c",
+            "content": {
+                "en": "Missingno, awilfox, Novi, and silverwoof all having an orgy."
+            }
+        },
+        {
+            "id": "w_d274b6cd75cddb807958109facdd8e4ec16169db",
+            "content": {
+                "en": "Missingno."
+            }
+        },
+        {
+            "id": "w_299539adc8041ea6658be8b26d9cbe3a9409992d",
+            "content": {
+                "en": "Moose&apos;s gigantic ego."
+            }
+        },
+        {
+            "id": "w_6fc9d3173487cae07c28a568f9f7d0d63beeb02a",
+            "content": {
+                "en": "nosexdude."
+            }
+        },
+        {
+            "id": "w_f1150687a2a041c9e5ea0e740fdde9b799fadfa5",
+            "content": {
+                "en": "Not giving a flying fuck about the users."
+            }
+        },
+        {
+            "id": "w_c8000081776cb1d5f19c0c1d447331983b0486c1",
+            "content": {
+                "en": "Novi&apos;s magical sexy time with numerous partners."
+            }
+        },
+        {
+            "id": "w_2be88ca4242c76e8253ac62474851065032d6833",
+            "content": {
+                "en": "null"
+            }
+        },
+        {
+            "id": "w_4aa390cc118e512c475af9808384981a34a59e85",
+            "content": {
+                "en": "null&apos;s hot, sexy bod"
+            }
+        },
+        {
+            "id": "w_8110fe3b2550a6635bbe5fa082b3e308306e3f79",
+            "content": {
+                "en": "O Rylee."
+            }
+        },
+        {
+            "id": "w_d0b2498d65a0eeaf61bbe0602768c35984e2782b",
+            "content": {
+                "en": "Oh murr."
+            }
+        },
+        {
+            "id": "w_00baf269510728ff8905fdd8da070ce53240d595",
+            "content": {
+                "en": "One of Fleur&apos;s alternate fursonas."
+            }
+        },
+        {
+            "id": "w_2fe5055fcc45a435d04c81f8c798f6c2b1cc4dc1",
+            "content": {
+                "en": "OpenSEX."
+            }
+        },
+        {
+            "id": "w_1bb835b7d0d77f348adc31c79d8bb7f479baa977",
+            "content": {
+                "en": "Painting with the blood of your enemies."
+            }
+        },
+        {
+            "id": "w_0ea94b1958649bf22e2e4434bdaa270708f1995e",
+            "content": {
+                "en": "Panasonic is best mechanics."
+            }
+        },
+        {
+            "id": "w_a79e7456ce572b1324dc27aa655e8b3a6594116f",
+            "content": {
+                "en": "Passable, huggable transsexuals."
+            }
+        },
+        {
+            "id": "w_9b825c716091ced067920539366bc507c4f42c32",
+            "content": {
+                "en": "Period blood red stained glass."
+            }
+        },
+        {
+            "id": "w_47ca00c819f630afc88d323f194813c4e0f2c74c",
+            "content": {
+                "en": "Pleasuring the ficus orally."
+            }
+        },
+        {
+            "id": "w_a48a7caa5e7e0cb4c0eb910573b4aebc318578ea",
+            "content": {
+                "en": "pme&apos;s excuses."
+            }
+        },
+        {
+            "id": "w_29848670d2d2ff690ee0f8431e509eb518fb8d3f",
+            "content": {
+                "en": "Pointless retrocomputing to fill a void."
+            }
+        },
+        {
+            "id": "w_d9553bc1b667f8214f4d703ec7052867c8bfe8da",
+            "content": {
+                "en": "Procrasturbating."
+            }
+        },
+        {
+            "id": "w_eb15a7b2daa3118312e040054addd4a98aa7b99b",
+            "content": {
+                "en": "Questionably-moral magick."
+            }
+        },
+        {
+            "id": "w_6fdc70c2ba3c05547b59da8166b68ae1fdb0352d",
+            "content": {
+                "en": "Quora&apos;s sixth personality."
+            }
+        },
+        {
+            "id": "w_9bb8e03df0ca836e1d670cca758c3f49247771ef",
+            "content": {
+                "en": "RaptorCat -&gt; RaptorHat"
+            }
+        },
+        {
+            "id": "w_47d2e1e1dfec76cbbdcd0c12fb6ba22170e3ddd5",
+            "content": {
+                "en": "Refried beans."
+            }
+        },
+        {
+            "id": "w_12ce59b1c058f457f39c25fb0f2831e9ff9a827b",
+            "content": {
+                "en": "Ring of Jupiter"
+            }
+        },
+        {
+            "id": "w_f20ffdf007d0cccc617f9d22f964e505ab5559e8",
+            "content": {
+                "en": "Rob \"lilo\" Levin."
+            }
+        },
+        {
+            "id": "w_3bc890a18ced4def486654df2f08cf4da96a4615",
+            "content": {
+                "en": "Ruining the dreams of teenagers."
+            }
+        },
+        {
+            "id": "w_8c9b5b044c9d0a9e4f9581bbb034638f4dc59a12",
+            "content": {
+                "en": "Running UnrealIRCD on a shitty Windows XP box."
+            }
+        },
+        {
+            "id": "w_5f884be791732e7f9f1ad71305b94ee105773731",
+            "content": {
+                "en": "rwg and Missingno making hot, passionate love in the back of an ambulance."
+            }
+        },
+        {
+            "id": "w_161726ad615728a0878b24b32870b25be4825e7b",
+            "content": {
+                "en": "rwg&apos;s piss-poor luck."
+            }
+        },
+        {
+            "id": "w_9e09384b2072aad36badfd860ec8dd41840a27a0",
+            "content": {
+                "en": "rwg&apos;s short love affair with Paige."
+            }
+        },
+        {
+            "id": "w_61572194a229dcd7a2b3fb0b64310eea27f88a5b",
+            "content": {
+                "en": "rwg, Lapper, and awilfox singing emo songs in-channel."
+            }
+        },
+        {
+            "id": "w_d7b5857fb285417c3a2500701985d9bb2e652710",
+            "content": {
+                "en": "rwg."
+            }
+        },
+        {
+            "id": "w_f9d915f13bdfbd328e5b690712df8240e6b24150",
+            "content": {
+                "en": "Rylee&apos;s secret 'Lyude' place."
+            }
+        },
+        {
+            "id": "w_dd2a1b3a64935f79eba63a53f5e18ba2a95531c6",
+            "content": {
+                "en": "sam here"
+            }
+        },
+        {
+            "id": "w_db240760fb9775b265f10671c7cbff7d38e8f2b4",
+            "content": {
+                "en": "Satisfying the ficus anally."
+            }
+        },
+        {
+            "id": "w_f3a4a20b016abcae116a62c8e49034fa0ed26bdb",
+            "content": {
+                "en": "Scarcely having any shame."
+            }
+        },
+        {
+            "id": "w_25fbe049f9dcddf8da38de5f898de9cc130df5d9",
+            "content": {
+                "en": "Secretly wanting to plow the hell out of Missingno&apos;s post-op vagina."
+            }
+        },
+        {
+            "id": "w_1458e3f77c1fcde3aefd420a17bf03b4b5af4a91",
+            "content": {
+                "en": "Servers for influence scheme."
+            }
+        },
+        {
+            "id": "w_2493980b2214c4573307cbdf154e728dd822afbf",
+            "content": {
+                "en": "Setting your mother&apos;s name as a stupid password."
+            }
+        },
+        {
+            "id": "w_f633851bb2410d600d72a736ab9bb922ec692eec",
+            "content": {
+                "en": "Sexting with random Interlinked members."
+            }
+        },
+        {
+            "id": "w_32f7b6d13d1946d06e413d2a39162c9815909f8b",
+            "content": {
+                "en": "Sexually inactive band geeks."
+            }
+        },
+        {
+            "id": "w_3fb71dc981f3a11a26ca9c79aed30e35b5847fdc",
+            "content": {
+                "en": "shmibs."
+            }
+        },
+        {
+            "id": "w_96c2a3e8d493efa872f28992c329db9c7a6c07a2",
+            "content": {
+                "en": "Shoving Q-Tips&#194;&reg; up your urethra."
+            }
+        },
+        {
+            "id": "w_51787bcb34934fd6f566feaac322c659352d36b2",
+            "content": {
+                "en": "silverwoof filling another hole with another knot."
+            }
+        },
+        {
+            "id": "w_b20936b166d38903dd4b48dc04a6cceccbe9314d",
+            "content": {
+                "en": "silverwoof in a lake."
+            }
+        },
+        {
+            "id": "w_3a1e32a92d88831b222ce0922fdc9f2b1e926671",
+            "content": {
+                "en": "silverwoof panting and \"flagging\" you."
+            }
+        },
+        {
+            "id": "w_fc80ab8f73e86341ee0767b760576b8f7b2e2c99",
+            "content": {
+                "en": "silverwoof&apos;s incredibly slutty attitude."
+            }
+        },
+        {
+            "id": "w_574473a72c199484a56f2fd77678b472692a9d9a",
+            "content": {
+                "en": "silverwoof&apos;s outstretched vagina."
+            }
+        },
+        {
+            "id": "w_53fb3806f5c33efc857dd36322b95666335822b4",
+            "content": {
+                "en": "silverwoof."
+            }
+        },
+        {
+            "id": "w_7d91e5c52a370ae1607caa96eb2a152e5c56cc8a",
+            "content": {
+                "en": "Singing Supertramp on the bus."
+            }
+        },
+        {
+            "id": "w_eb517fa637b3bdc29fdd2590823472717e5bd191",
+            "content": {
+                "en": "Smofing shmibs."
+            }
+        },
+        {
+            "id": "w_85c27bac74f2a1e2aad3e77f3617f5af6d71d380",
+            "content": {
+                "en": "somasonic&apos;s designer drugs."
+            }
+        },
+        {
+            "id": "w_a797a3526e42f82b55133298616ac45559810179",
+            "content": {
+                "en": "somasonic&apos;s hatred of furries."
+            }
+        },
+        {
+            "id": "w_ff2396dddcc3d588c17847edae63f81e89c1168c",
+            "content": {
+                "en": "somasonic."
+            }
+        },
+        {
+            "id": "w_1aa2f53b76abfd074f61b4f404de8bcba8a05b4e",
+            "content": {
+                "en": "SPAM IS OFFTOPIC ON FREENODE."
+            }
+        },
+        {
+            "id": "w_1e85a91e1990ebf6379bbc902e7aad16922b14ae",
+            "content": {
+                "en": "Sporks-brand Fukitlol capsules."
+            }
+        },
+        {
+            "id": "w_d29c618506b4f9f05d28609c0f82307afd04ddf8",
+            "content": {
+                "en": "Stan."
+            }
+        },
+        {
+            "id": "w_642bb99e4759d3f7bc826cb5876378ee27ff633c",
+            "content": {
+                "en": "Stealing internet access by lugging a shitty router to a local library."
+            }
+        },
+        {
+            "id": "w_761c82f3cda35c89adf79c94c16a6aac0f56f194",
+            "content": {
+                "en": "Stripping ourselves of basic dignity."
+            }
+        },
+        {
+            "id": "w_6cec32cd942067f5d91d1f56d3a318f2f8dd1e9b",
+            "content": {
+                "en": "Surprise dildo sex!"
+            }
+        },
+        {
+            "id": "w_4a14c8862a803e48e7af2dc7ccd5d3201591593e",
+            "content": {
+                "en": "That one time awilfox had a \"surprise\" in his bum."
+            }
+        },
+        {
+            "id": "w_c38a7ba906b591fcf6799e9cf5bea8dec8201a32",
+            "content": {
+                "en": "That time awilfox watched dogs copulating and came."
+            }
+        },
+        {
+            "id": "w_5d50318c70c60b1b8a0c4250b38a038b57235ad0",
+            "content": {
+                "en": "The barely-operable, toasted remains of rwg&apos;s Chevy Cruze."
+            }
+        },
+        {
+            "id": "w_4975954086aeae788d428e91513dd4e6be3aca4c",
+            "content": {
+                "en": "The charred remains of all of rwg&apos;s suicune servers."
+            }
+        },
+        {
+            "id": "w_bc61a113065ecc008f6efd62121706a2096aca2b",
+            "content": {
+                "en": "The collective, extreme autism."
+            }
+        },
+        {
+            "id": "w_45213b9a5914d21d7295d5397e7829557e688a01",
+            "content": {
+                "en": "The crack-ho who owns Missingno&apos;s last laptop."
+            }
+        },
+        {
+            "id": "w_99baa0c0add52ee9ef1178e36275be95687c64b8",
+            "content": {
+                "en": "The diseased lungs of Missingno."
+            }
+        },
+        {
+            "id": "w_166dcfbc0b34e08f28b452e163ad65d2b035fc63",
+            "content": {
+                "en": "The drugged-out, schizophrenic mind of jade."
+            }
+        },
+        {
+            "id": "w_9c0ed6a08b1eae3451fc26e33bc4a7f47dc2de2e",
+            "content": {
+                "en": "The dry, noxious dust that fills what used to be alyx&apos;s place."
+            }
+        },
+        {
+            "id": "w_7c87446af5a0964fac530006f666dd3913c1c551",
+            "content": {
+                "en": "The failure of AWOS."
+            }
+        },
+        {
+            "id": "w_47b33c69fc7ab2fe90ebb0895391565b11f6b599",
+            "content": {
+                "en": "The ficus."
+            }
+        },
+        {
+            "id": "w_edeaf931682aba705308cd8e2d1b06a13703f9b4",
+            "content": {
+                "en": "The identity of the shitter."
+            }
+        },
+        {
+            "id": "w_34c2e31f2c85f703011d337897d3d718a9c99429",
+            "content": {
+                "en": "The inability to tell people&apos;s sex apart on Interlinked."
+            }
+        },
+        {
+            "id": "w_12dc318184e1ea70b9b00770fb4b987a2d2b4dc3",
+            "content": {
+                "en": "The mere thought of getting near the ficus."
+            }
+        },
+        {
+            "id": "w_3f829539985586f7e50c716a7a9f164ed2ea654b",
+            "content": {
+                "en": "The Niichan collective."
+            }
+        },
+        {
+            "id": "w_83cc2938aa2dfc0581912200a74190e3e3fc4143",
+            "content": {
+                "en": "The nimrod collective."
+            }
+        },
+        {
+            "id": "w_0e671aed42015c83643cf7738f79bfc5c1300057",
+            "content": {
+                "en": "The rancidity of the Sporks dustbin."
+            }
+        },
+        {
+            "id": "w_7c07e5301a9c1f333d0c196df351f8cd09788f35",
+            "content": {
+                "en": "The remains of Missingno&apos;s dignity."
+            }
+        },
+        {
+            "id": "w_cda01d7d2c387dedd9ef75c0fee454e39082e03b",
+            "content": {
+                "en": "The smell of Joree&apos;s unwashed va-jay-jay."
+            }
+        },
+        {
+            "id": "w_6565a8e2a960b175ebf9a8027b3617554f7d4532",
+            "content": {
+                "en": "The smell of Sabrina&apos;s heroin-filled corpse."
+            }
+        },
+        {
+            "id": "w_fe8ed72578493a58f6b75f02d0660f1ec7935458",
+            "content": {
+                "en": "The source of that horrible smell."
+            }
+        },
+        {
+            "id": "w_7218ef92554d0fb8aa620cdee978e974be843896",
+            "content": {
+                "en": "The stench of the Interlinked bathroom."
+            }
+        },
+        {
+            "id": "w_d058f9332049cd3421a0bd218c11c1fe31e07b90",
+            "content": {
+                "en": "The stench of the Sporks fridge."
+            }
+        },
+        {
+            "id": "w_ba6b9592ed733f625e34b84bebfd22fe46b95253",
+            "content": {
+                "en": "The systematic destruction of EFNet."
+            }
+        },
+        {
+            "id": "w_47183bf6f98181956151d0cb37ce206cf0c1aa90",
+            "content": {
+                "en": "This is a T; it&apos;s whatever you want it to be."
+            }
+        },
+        {
+            "id": "w_49f083013d0addbfd987c27d49a1ae179d779e90",
+            "content": {
+                "en": "Too white for #sporks."
+            }
+        },
+        {
+            "id": "w_bab7b5992aed4ed11043652e6d0142e3509a730f",
+            "content": {
+                "en": "Traffic cone-kin."
+            }
+        },
+        {
+            "id": "w_486b20929e0375a9753ef7186657a61345243cc3",
+            "content": {
+                "en": "Transsexual quilting bees."
+            }
+        },
+        {
+            "id": "w_9066d2279a66d9741829b77f38091c40b71ce900",
+            "content": {
+                "en": "Trolling awilfox with emo music."
+            }
+        },
+        {
+            "id": "w_cd329c5062ec937ffe05afe4011a46b074e28d1f",
+            "content": {
+                "en": "Two vials of the rwg blood."
+            }
+        },
+        {
+            "id": "w_59a84548496495ed1f49e15129527702ca889c4e",
+            "content": {
+                "en": "Using FreeBSD on dialup."
+            }
+        },
+        {
+            "id": "w_7dc2386a73a6b332d16c444f68b2f3044f85190a",
+            "content": {
+                "en": "Using Interlinked as a platform for political soapboxing."
+            }
+        },
+        {
+            "id": "w_cca1f5e0e3ef593e2d8a05dc9e84adb1c7e25a44",
+            "content": {
+                "en": "Using services to inflate usercount."
+            }
+        },
+        {
+            "id": "w_98fbf57f3aee5066b80b9a185398b849b4f52aca",
+            "content": {
+                "en": "Vulpine supremacy."
+            }
+        },
+        {
+            "id": "w_264f22787c1b18dce74995b51a0efb4038990a99",
+            "content": {
+                "en": "VULPIX IS BEST SERVER"
+            }
+        },
+        {
+            "id": "w_3678b24bcd56b2b7ab7bcfc7d342d98a51f56f6c",
+            "content": {
+                "en": "Wareating."
+            }
+        },
+        {
+            "id": "w_559c9e273774596f349aa6ad9224c01cf840758b",
+            "content": {
+                "en": "WARK WARK WARK WARK WARK"
+            }
+        },
+        {
+            "id": "w_2e43afa54bebc007bf7895a47729c3ae5f1bbc5f",
+            "content": {
+                "en": "Watching for Sporks references in films."
+            }
+        },
+        {
+            "id": "w_f9c4a475326e15d3f59fa48beb43d2a66b74f731",
+            "content": {
+                "en": "Watching TV to see if Interlinked made the news."
+            }
+        },
+        {
+            "id": "w_01ec163c8ff192f81a77b1894175f45cedba9c3d",
+            "content": {
+                "en": "Watering the ficus."
+            }
+        },
+        {
+            "id": "w_ea96f87066c15ffc015594294bfe46414be620cd",
+            "content": {
+                "en": "weeg"
+            }
+        },
+        {
+            "id": "w_c992903aa702c098feda99945298f0fdc3827ba2",
+            "content": {
+                "en": "WEEG 420 BLAZE IT"
+            }
+        },
+        {
+            "id": "w_3685e974e70b6574008df21965ebfe676f47d26d",
+            "content": {
+                "en": "What remains of madeline&apos;s sanity."
+            }
+        },
+        {
+            "id": "w_d18bf385bc6f9d9c45d001796cabb1eb4cee55a7",
+            "content": {
+                "en": "What&apos;s left of appledash&apos;s integrity."
+            }
+        },
+        {
+            "id": "w_8e4bfa4f9baa633a3f8d5637024162d2a12af3d3",
+            "content": {
+                "en": "Yeeveecee."
+            }
+        },
+        {
+            "id": "w_b0c1d6fa71d777f81a0ad4fb378c0b078d79ffa0",
+            "content": {
+                "en": "[[sroracle]]&apos;s right nipple."
+            }
+        },
+        {
+            "id": "b_2a693db123a1c1fe4cd97db03892c68afde5dcfb",
+            "content": {
+                "en": "* somasonic ______ ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0dc02b498a6edc778559d72c11c5deaad3e758fd",
+            "content": {
+                "en": "After ______ let the ficus loose, he began ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_869d5e365f52d9c1b96aaa642d208db39769df08",
+            "content": {
+                "en": "After ______, madeline was banned from being an operator."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_747d2c59c985baf8680c3dc3476f9565be77b6b8",
+            "content": {
+                "en": "Alyx fucked ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_656224a426f2a07ad4ab0ece01b84e3737e6d414",
+            "content": {
+                "en": "Alyx&apos;s latest morally bankrupt act. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fd8b160db7457a652735865a721d20699923c60f",
+            "content": {
+                "en": "Alyx&apos;s newest sex toy consists of ______ grafted onto ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_63383047a56e0f88e3bfb6fd91fb49d449a5e3eb",
+            "content": {
+                "en": "AppleDash&apos;s boatnet is now targetting ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_338e01a959f53ff9fbdc7965b0a94cee4786f8ea",
+            "content": {
+                "en": "appledash&apos;s obsession with ______ is so vile, we wound up ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4b6d16a88c7da92833c6ef8fce67f3e62321f518",
+            "content": {
+                "en": "autumn&apos;s inability to understand jokes stems from an accident involving ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_185daaef57b56b2b9b5711a61030743e2c1b0aee",
+            "content": {
+                "en": "awilfox decided to take up ______ as a hobby."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3a598ac21afa16df547fc90c9e516200b48c8a8",
+            "content": {
+                "en": "awilfox is now shagging ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8017a10256451635645c79097e7fa4a49d591690",
+            "content": {
+                "en": "A______meteor&apos;s sad \"relationship\" with Maria."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a9f845c104de918f82c192e07cb613b51e2f535",
+            "content": {
+                "en": "A______meteor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7a29832b925cb249a63f16575edb8067fcdf340",
+            "content": {
+                "en": "Beneath madeline&apos;s ______ exterior, lies a much more ______ interior."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a3660a572b275ac5acfe21aa71f61e8da01afc2c",
+            "content": {
+                "en": "Cherri was just irritating, but when she tried to ______ with ______, it was a step too far."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5733c4b5f888dbc1f8650c9dfc499f05abf1f93f",
+            "content": {
+                "en": "Don't discuss the politics of ______ with Spellcheck."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e391913f66ba9240994f96e7ffef41a65e99e9e9",
+            "content": {
+                "en": "Don't ______ the flags!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a60fe0bb14682093650d5a4ce02a5450b73710e5",
+            "content": {
+                "en": "Everyone thought [[sroracle]]&apos;s new feature for stan, ______, was the dumbest feature since ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b23e06c05a9daf4f0f9fbead5e6ffde392dcfa63",
+            "content": {
+                "en": "fishbot will ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c6f233033f7565f7cca97923f899035c3ff2c41e",
+            "content": {
+                "en": "GreaseMonkey&apos;s ______ was so sophisticated nobody could figure out how it worked."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cb0eadd401856eb4b477dad6ccc453f783a3e98d",
+            "content": {
+                "en": "HELLO, I AM ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_979fcb553fb9b5b56f160131a12a9e06f3b49de5",
+            "content": {
+                "en": "I DON'T NEED NO ______, NO! I DON'T NEED NO ______, NO THANKS! I DON'T WANT NO ______, THAT'S RIGHT! YOU CAN KEEP YOUR ______! YEAH!"
+            },
+            "pick": 4
+        },
+        {
+            "id": "b_5ff7c2de31249f828dd8ae452b4715c649b75b4a",
+            "content": {
+                "en": "i fucking hate ______. i bet he cnt evil lift many miligram of cocain with penis"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff7c3f67fad242a08532d0bb4477c3b5a0f0d10e",
+            "content": {
+                "en": "I had a sneaking suspicion ______ was bi when they ______..."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_efbc64be68cc7f84b93d7fe0afb2073728a4320b",
+            "content": {
+                "en": "I JUST SHIT ______ IN HERE AND IT SMELLS REAL ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0e81a4960371154c8c1ef4c4ea7de59c2cca31da",
+            "content": {
+                "en": "I once crashed ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_07daa3fb36e991c1f760c558b190dfeb388c909f",
+            "content": {
+                "en": "I&apos;m a ______ junkie!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fffd23098e7a6c5fa249d85badf5454825421650",
+            "content": {
+                "en": "I'd love to put my ______ in fishbot&apos;s mouth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a839c8548d77a7590a5297637f0453d5d6b417e6",
+            "content": {
+                "en": "I'd rather ______ than live in Florida."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_046d6d642bdcd481bb0c7e49951618df3183254f",
+            "content": {
+                "en": "I'd rather ______ than live in ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7c2c7fa8f9515bd8c4157174b82fec5e41c0d3f7",
+            "content": {
+                "en": "In Sporks, you don't get even, you get ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8cea4e5740e7aecc57c0d39c1dee9eed2eab3a32",
+            "content": {
+                "en": "Interlinked has been categorised as everything from ______ to ______ and even ______!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_24b1e11306d0baa13adf5be94a623bd8a129816a",
+            "content": {
+                "en": "Interlinked is pleased to announce a new server in ______, with ______ as admin."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cd4574af49728ddd8c4fde37b5ddff8f21ef2a7b",
+            "content": {
+                "en": "Interlinked rules are: ______, ______, and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_2e867b234eb04552de31556bde679123d79abf63",
+            "content": {
+                "en": "Interlinked&apos;s newest service. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fce111d35b5e62b259b50f559f52f86c1d42dd02",
+            "content": {
+                "en": "Interlinked&apos;s newest spin-off service is ______ provided by ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5c9276ada2b811665b14c488df71f23286f1504f",
+            "content": {
+                "en": "It was only a matter of time before madeline finally discovered the secret ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f26b77c0d0e0ecdcf495a928869d81af89c11b9",
+            "content": {
+                "en": "Jade tried to ______ #sporks with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_94a493d22e57b4395ef8a554dfb8b05a694a06fd",
+            "content": {
+                "en": "Jade&apos;s pathetic attempts at ______ were thwarted by her constant ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fb269c69b905dc6313b910ad7ba0f34e74f560d9",
+            "content": {
+                "en": "Joah is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_674e171867e864e3d8b69867d246058a817665e8",
+            "content": {
+                "en": "Joree just killed ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c89aefbcfbd336c63a3138e44fe397320551d69f",
+            "content": {
+                "en": "Joree went too far with the murders after zie ______ to the poor ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a6678fbba99ddee0391486a3e84b04b71540ccf8",
+            "content": {
+                "en": "Lord Vorpal&apos;s obnoxious ______ in Minecraft."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3178cb53574616e956279fde4db0228e32f3433e",
+            "content": {
+                "en": "lstarnes' horrifying addiction to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3367f4d2789b1596e72d76de8b3d387531c55a94",
+            "content": {
+                "en": "madeline was addicted to ______ the entire month of February."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a9ce7a6576dd90704067c2fb2e6cfe3aad9db051",
+            "content": {
+                "en": "madeline ______ed ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e7dfba055d363fe7ad457144aa8198be2261a43c",
+            "content": {
+                "en": "madeline&apos;s future sex offender registry entry. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f59d9d175f486a06d525858665af7285336da661",
+            "content": {
+                "en": "Madeline&apos;s new best friend is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c8dcb8b0d68083219a15a287e9121465a4ece60",
+            "content": {
+                "en": "Many people claim lstarnes is a ______, but in reality he&apos;s a ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_82091ec17915475cfd43cfec33ceec73b484fdce",
+            "content": {
+                "en": "Matthew kept promising ______, but failed to deliver due to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b1f4af7a4d9df5d9af4719e24a02e5ee1070e734",
+            "content": {
+                "en": "Mismagius' latest dramatic overreaction involved... ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2566ab9fe93f42dcedb119e27675eb5987ee93e1",
+            "content": {
+                "en": "Missingno broke her last chair by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa4f763908e318d02e737705f85c757e24f5b8c6",
+            "content": {
+                "en": "Missingno decided to give up coding to pursue her dream of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a6ee6124ad103bd85ee0baaa02ea037b260f019",
+            "content": {
+                "en": "Missingno is now majoring in ______ and minoring in ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e752e54fbd7cd313244f6efbba55fc30a19abc57",
+            "content": {
+                "en": "Missingno quit technology again after seeing ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36d2d37f9ef489c1da1c9fde6df1a6c9aca4a012",
+            "content": {
+                "en": "Missingno tried to name ______ as a successor to the head of opers, but ______ became the de facto one instead."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_175c7631adbce9320cb72d5927327f98750c2abc",
+            "content": {
+                "en": "Missingno&apos;s latest fursona is a ______ and ______ hybrid."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_917ab6e1b284359264821157f5a99bbfc4e282c6",
+            "content": {
+                "en": "Missingno&apos;s newest fursona is a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d259b96968a0fa732244d8f26fa7e63fa5ba9ac9",
+            "content": {
+                "en": "MY ______ IS FULL POWER!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ef5068f0d8e3086c2216f82b92793d3173f32438",
+            "content": {
+                "en": "Niichan got a little ridiculous after he added a ______ as a personality."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e63f49b1effef5db4c5cb274f82ae1d686890d6",
+            "content": {
+                "en": "nimrod&apos;s most stupid was trying to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0b1450768c41b51da4102cbe8a39701c3c04a77b",
+            "content": {
+                "en": "Not even rwg had any power against the enormous ______ of doom."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7fb75685dd29f7a5dbd467673a8a97b12f1a64e",
+            "content": {
+                "en": "null was banned from touching cisco gear after they caught him putting his ______ in the chassis."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9a4e6d61c307542a3e7be0c30543d72fba17332d",
+            "content": {
+                "en": "null&apos;s newest gay perversion is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75611c336069a552799e5d80cc5aff516ad00413",
+            "content": {
+                "en": "Oh come on, there&apos;s no need to tell Rylee her ______ habit is disgusting!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c161e351cf4d08201eabfa95a7951196caf5fd4f",
+            "content": {
+                "en": "Okay, who let ______ combine with Joree&apos;s vagina?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a05ed0a34ce6387c049abc87ee3cf5aeba727894",
+            "content": {
+                "en": "Only rwg could destroy the ______-singularity."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a555135c64c9f84db07ded48b59ca437ffc3b3c",
+            "content": {
+                "en": "PlauSocks' newest construction-morph. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bb38901732093203f9827bd980fcd27d706a808d",
+            "content": {
+                "en": "Please refrain from ______ the ficus."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ae397ce1a5454b68d4113302bdd5d7c93f70acee",
+            "content": {
+                "en": "Quora&apos;s sixth personality is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_277c8b80835120e3e5d84398139fc2553933fd82",
+            "content": {
+                "en": "RaptorCat&apos;s newest hat ability consists of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cde49b827ec9b0511abdb10c26ac957a6e27537",
+            "content": {
+                "en": "rwg once ______ an entire ______ with his bare hands."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d4c2c272ffb86b243145d4fb306e6e9d4e212762",
+            "content": {
+                "en": "rwg&apos;s pack immunity didn't extend to ______, curiously."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff8e7948c19f4936f257804c30bcc39c923f83e7",
+            "content": {
+                "en": "Rylee&apos;s response to ______ was, 'how Lyude'."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_19463798a1143513dc7c4b9a369792777dfa4931",
+            "content": {
+                "en": "SilentPenguin decided to can socky after ______ tried to shove it ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8ed76dc1d3f3acb045e3d86d2b027f013912e0d2",
+            "content": {
+                "en": "smofe ______ errday"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_09b97ad7067e5812c11b40445286f3316f81b6bf",
+            "content": {
+                "en": "Somasonic dropped acid and thought he saw Missingno ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ec98b43a539f63456613e6c61972b5238044deb",
+            "content": {
+                "en": "somasonic is pleased to announce ______, his latest RServ plugin."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_63fce7789328cd2eb483337c90d373e277b7a3a4",
+            "content": {
+                "en": "somasonic is trading a server in ______ for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6e434e6c908db606da8ae75ec51f29a6de89cb69",
+            "content": {
+                "en": "somasonic would be more stable if it weren't for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e3da0ef4632188507e101a71d5dbb55c69cd91a7",
+            "content": {
+                "en": "Spellcheck&apos;s radical views were fostered in the streets of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e2433f3c3b3237c6c65e6d058d982e2db827a7aa",
+            "content": {
+                "en": "Sporks was kicked off of freenode because ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2fa98bbce69b7caddae75437bde40564fd8c73dd",
+            "content": {
+                "en": "The identity of the shitter. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3548a91fde3d02498c027c18fe52420990756725",
+            "content": {
+                "en": "The Ishimura was decomissioned temporarily due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fc455ff433e8e39e3f6ceb5ec621c932d5965508",
+            "content": {
+                "en": "The latest excuse for rwg&apos;s absence. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5af9393e1c632e750456a0300df8a2cfb0713c5c",
+            "content": {
+                "en": "The most sick, twisted fetish of Missingno. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5acdcdecff25267d2d66aaa868d6c268b9b12687",
+            "content": {
+                "en": "The newest thing in #sporks to get a sex change. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7a6147a35b853c1427ef1e7218d46e190e4519ef",
+            "content": {
+                "en": "The ______ is too damn high."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8f892f02147a621655c85e13bc23528d4774ec12",
+            "content": {
+                "en": "This black card is postmodern. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2e53f2ad27bc9669ff9ce59a138ff13c24c18ad",
+            "content": {
+                "en": "Utensil ______ front."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c22fd1ecdc573cf69225a22fc005f57394910f6b",
+            "content": {
+                "en": "We all thought awilfox&apos;s ______ was useless, until he proved its worth by ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_557ecca0b898511b17fab2336e5df107e5d5a5a7",
+            "content": {
+                "en": "We built ______ in Minecraft."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_151bba82f9a442c89f07e38b6ab799ef05184c80",
+            "content": {
+                "en": "We moved from ______ to ______ because of ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_27d34a1d75b42d0bef3349de8bf1da94230beb68",
+            "content": {
+                "en": "We thought Vorpal couldn't get more obnoxious after ______, but then he ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e2a769fc1b5a62bde21bb4db96c36234ca6a4cd1",
+            "content": {
+                "en": "What did I just find in lstarnes' closet? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c872d9f7a39ab4195aa15923fde29e0d308ce6dc",
+            "content": {
+                "en": "What does it take to make lstarnes display emotion? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed29b0b5b7edadeee7ceb3adcec710cbe4415b12",
+            "content": {
+                "en": "What is aji suddenly interested in? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_56792c85c66540cdb99b5e7e2cb64b85f321df38",
+            "content": {
+                "en": "When Missingno destroyed freenode using ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6be387ae406588c6b9e143ca996f4fd6ba645b1f",
+            "content": {
+                "en": "When ______ demolished EFnet."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_455453e6718c359a36696fbb61c20cb293387917",
+            "content": {
+                "en": "When ______ kicked us off Staticbox, we looked for a new home on ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1f63e5ad890752cdc57f3dd74bd1314952a09a39",
+            "content": {
+                "en": "When ______ smofed all the shmibs we were stuck smofing ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_43f05f52eb3ebb4d9194119b51a9163a1fb46764",
+            "content": {
+                "en": "When ______ tried to contribute to aji&apos;s project, he promptly ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1a3718b3d0530faed200477971194e8f17e3c285",
+            "content": {
+                "en": "Who the fuck puts a ______ in the Sporks garden!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aa31eeaa71b71de9018a067693bbb09615751b12",
+            "content": {
+                "en": "Who the fuck thought letting PlauSocks near the ______ was a good idea!?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_62d22d7f3903485853ef993241ce99aca588bac4",
+            "content": {
+                "en": "Who the fuck thought ______ was a good thing to put near the ficus?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_818a9e6a2ab8261b65b9e97420c91f7db87a2592",
+            "content": {
+                "en": "Who the hell invited ______? Seriously, don't invite ______ without asking ______!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_77d4a12c69d126bc7ccbceee4374cb9f153577b9",
+            "content": {
+                "en": "Whoever tried to ______ the ficus, please note the next offense will be punished by ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_83d3f3084bf7970ec0262b3b3c8fd8f77dc9f205",
+            "content": {
+                "en": "Why did Alyx try to code ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57c97434509a0686efc40183de2bd2ac59bd762a",
+            "content": {
+                "en": "______ by Numbers with Joree."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a243315f3479b2866a0051909c17d0da378afde9",
+            "content": {
+                "en": "______ didn't know they liked ______ until they were surprised with it."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7450f79c1243a146600f71dfb4f54d76db20d453",
+            "content": {
+                "en": "______ fucked the meth elf."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34cb435ff26be12f44fc515a8d1044146274aa83",
+            "content": {
+                "en": "______ got kicked for ______ once too often."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bdebec84a8eed460012d992559280cbadae2f94f",
+            "content": {
+                "en": "______ is about the only thing Interlinked won't tolerate."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ec631f28d87c6fc66ecc44c2e7fb95a0fbd1afc",
+            "content": {
+                "en": "______ is secretly in love with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e00a9be94f8e8e83ce89ff224f8d58ea29097810",
+            "content": {
+                "en": "______ is the newest Interlinked user to come out as furry?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_443af0e35639afee877dcbf0988e295cb9fd686a",
+            "content": {
+                "en": "______ the shmibs."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d75315443a7650c0fe8c0066a04f066cdc59d03",
+            "content": {
+                "en": "______ tried to fuck Lyude until they discovered ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ffa0963f72e16cf2b2fdbaab7d618f57c20dc597",
+            "content": {
+                "en": "______ turned the police on when the ______ rapist came to Sporks."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_780a9d443390fc0f51acb394651f7f223f51f456",
+            "content": {
+                "en": "______ was nominated Interlinked ______ of the Year for best ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_0e9529bce506c48c989bdfe37df458829268a996",
+            "content": {
+                "en": "______ was the only action of Missingno&apos;s anyone questioned."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_43d0c194b27e59a5244189f1f8decb0fd8587731",
+            "content": {
+                "en": "______ will be k:lined on sight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_86c21f1eaa8da98746c9d1347d54afe235daaa6c",
+            "content": {
+                "en": "______! WHY DID YOU EAT ALL THE SPORKS SUPPLY OF ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_575ae2817966f009ef0fc942db357173ad2e695b",
+            "content": {
+                "en": "______&apos;s decaying body turned out to be the source of that awful smell."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a166ecb805c47b9e6a85ea7288731c9d46d3a16",
+            "content": {
+                "en": "______&apos;s obnoxious death-______ was only discovered by ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_62fa602926369e9de152d4c31c5d24e31b001ef3",
+            "content": {
+                "en": "______? I KNEW THEY WERE GAY!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44a140260b6185a28c53c8b5c933efd8bdbcd722",
+            "content": {
+                "en": "______? I've seen bigger, blacker ______ than that! (pick one)"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_53dc098d37f1f82a94cf52a0ab69618971c73e95",
+            "content": {
+                "en": "______? Missingno&apos;s probably fucked it."
+            },
+            "pick": 1
+        }
+    ]
+}

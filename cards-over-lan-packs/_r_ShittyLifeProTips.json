@@ -1,0 +1,357 @@
+{
+    "id": "_r_ShittyLifeProTips",
+    "name": "\/r\/ShittyLifeProTips",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_0274e9c77bff4a31fc1c556c5f7a90ddd9071fe9",
+            "content": {
+                "en": "Abandoning your kids because they are annoying."
+            }
+        },
+        {
+            "id": "w_350c79890c3d6734ba8d94d2846f231f3b10c291",
+            "content": {
+                "en": "Attaching wind turbines to your electric car for infinite power."
+            }
+        },
+        {
+            "id": "w_358c7eef230e4d90025155e1a199e2587bf866fc",
+            "content": {
+                "en": "Buying pre stained underwear at Goodwill"
+            }
+        },
+        {
+            "id": "w_2e8e197f03c03a6fb14c2a1150e8955c5de61f94",
+            "content": {
+                "en": "Calibrating your stereo to only put out sounds that are too high or too low for the human ear"
+            }
+        },
+        {
+            "id": "w_0b3e91b7a73e4fae42dc1f855e6d5c90cc8f2dc8",
+            "content": {
+                "en": "Changing your birthday on Facebook to get messages."
+            }
+        },
+        {
+            "id": "w_de687395daf0823a2df441f3aef835ed81fa2e2b",
+            "content": {
+                "en": "Changing your Facebook birthday to get messages"
+            }
+        },
+        {
+            "id": "w_c914b109d730b3c00ec2ee084f84ce36fe1b93c6",
+            "content": {
+                "en": "Coming to the realization that 100% of people who have consumed water have died."
+            }
+        },
+        {
+            "id": "w_78aec8550e9e094ed487bc6ee5328239f86c37c4",
+            "content": {
+                "en": "Complimenting men&apos;s dicks at the urinals"
+            }
+        },
+        {
+            "id": "w_e58fccd03034789099663f0467298dc33b556f55",
+            "content": {
+                "en": "Distilling alcohol to feed your addiction and save money"
+            }
+        },
+        {
+            "id": "w_d8958ff977eca1a1c1a080497085585ea5c7a5e2",
+            "content": {
+                "en": "Donating organs just to lose some fucking weight"
+            }
+        },
+        {
+            "id": "w_4447ebb048ad6fe0d164c30f1c0e65ffbfbff0dc",
+            "content": {
+                "en": "Downloading more ram."
+            }
+        },
+        {
+            "id": "w_aa6db7edc0a758b45a4e527cda0e2b6aa6e638c3",
+            "content": {
+                "en": "Drinking 24-7 to avoid hangovers."
+            }
+        },
+        {
+            "id": "w_c53087f0e176d9d4718170dfdfead0984b48bb36",
+            "content": {
+                "en": "Drinking antifreeze so you will never get cold again."
+            }
+        },
+        {
+            "id": "w_93e64e5f17105e7bce8549252f91471574c2a24c",
+            "content": {
+                "en": "Drinking bleach to clean your insides."
+            }
+        },
+        {
+            "id": "w_64974b23e0b0e050dcad587b9f18b02b886b0b54",
+            "content": {
+                "en": "Drinking moonshine, going blind, and collecting on that disability payday!"
+            }
+        },
+        {
+            "id": "w_c475a423980f4fb62adfe7f7e8dd52e981d65d53",
+            "content": {
+                "en": "Driving as fast as you can to avoid getting caught on speed cameras."
+            }
+        },
+        {
+            "id": "w_0ed25fa4e2695dc5edabf323df3f9b0d4d3c7bf7",
+            "content": {
+                "en": "Driving into oncoming traffic to avoid the cops, since they can&apos;t break the law you won&apos;t be followed."
+            }
+        },
+        {
+            "id": "w_afbcd7995da2169a1c67a7d3145ad717586846e0",
+            "content": {
+                "en": "Eating a raw onion right before going to the dentist."
+            }
+        },
+        {
+            "id": "w_e9a08de2a3a927d71bc6119585aa7c20658e800c",
+            "content": {
+                "en": "Farting near a baby in public for a perfect scapegoat."
+            }
+        },
+        {
+            "id": "w_19593552053fe4994ebe51bba73ef0ac058c3b82",
+            "content": {
+                "en": "Getting a tattoo of a watch so you&apos;ll always know what time it is."
+            }
+        },
+        {
+            "id": "w_8fcb61ae393c140dda06f03076b59cdbec13bc12",
+            "content": {
+                "en": "Getting a tattoo to match your desktop wallpaper"
+            }
+        },
+        {
+            "id": "w_f792002f447ad54dd2c48c91f219b78ec9135297",
+            "content": {
+                "en": "Getting drunk off of mouthwash to fight bad breath"
+            }
+        },
+        {
+            "id": "w_491d3723fa886a2db5209cef90ecac39ddf1b796",
+            "content": {
+                "en": "Getting fat to avoid wrinkles."
+            }
+        },
+        {
+            "id": "w_5ae9d03f3f8f62af6b3bbbc7c7619493d6e9bad0",
+            "content": {
+                "en": "Getting your teeth removed so you never have to brush them again."
+            }
+        },
+        {
+            "id": "w_07ede9c065e505480c68d984f95fafaee5784518",
+            "content": {
+                "en": "Going in for a hug when encountering a wild bear in the forest to get free honey."
+            }
+        },
+        {
+            "id": "w_329ec4210563bb43ba2046586eba9de95877a2cb",
+            "content": {
+                "en": "Hooking up speakers in your front yard and singing the Star Spangled Banner at six in the morning to show your patriotism."
+            }
+        },
+        {
+            "id": "w_fc44cf9ade6eecb45140f13e9f41f8fe28fe2c14",
+            "content": {
+                "en": "Hooking your car engine to your house&apos;s AC to test the carbon monoxide detectors."
+            }
+        },
+        {
+            "id": "w_331176d3dfd9b27765906384b037e0e9ef828b4b",
+            "content": {
+                "en": "Hypnotizing women to think you have a 12 inch penis"
+            }
+        },
+        {
+            "id": "w_edcc48ab7507903d629ffad61c9cf2c5a5b2e4ff",
+            "content": {
+                "en": "Impregnating your wife to get 9 months of sex without having to take a break for periods"
+            }
+        },
+        {
+            "id": "w_6c667055b33346d6856f7fe4aa413d7af1ffaa96",
+            "content": {
+                "en": "Jizzing into a loofah"
+            }
+        },
+        {
+            "id": "w_fc66176028c29bf08dcf97e494930752013f0282",
+            "content": {
+                "en": "Killing yourself to see who goes to your funeral and finally finding out who your real friends are."
+            }
+        },
+        {
+            "id": "w_2167a761f38689afd1b026a44590b3767e60a822",
+            "content": {
+                "en": "Killing yourself tomorrow so that you have enough money to last a lifetime."
+            }
+        },
+        {
+            "id": "w_8c6e4910fd2777f8f57bb2b70eee819f1d1048bc",
+            "content": {
+                "en": "Letting the hate flow through you when dealing with a mean-spirited person"
+            }
+        },
+        {
+            "id": "w_313b677cfc62c5ea32c5d4da2815e8cf66720904",
+            "content": {
+                "en": "Lightening the mood with a stressed driver by screaming randomly"
+            }
+        },
+        {
+            "id": "w_5896d76f858d2e2dbdbf68728c2e9f270efebd74",
+            "content": {
+                "en": "Making your license plate number the same as you PIN number so you will never forget it."
+            }
+        },
+        {
+            "id": "w_6c7b16fed2b5b86f610f103128f043d2c71f190c",
+            "content": {
+                "en": "Masturbating in the tub"
+            }
+        },
+        {
+            "id": "w_6844226a1747f695f09b36d9807736ea4cc901b5",
+            "content": {
+                "en": "Offering candy to the neighbors while notifying them of your status as a sex offender"
+            }
+        },
+        {
+            "id": "w_ea286106b24c547a278443fbf0442dc5791e0fe6",
+            "content": {
+                "en": "Pouring drain cleaner down a choking person&apos;s throat to clear the blockage."
+            }
+        },
+        {
+            "id": "w_b96defd9be48b49805d83868a882a6682051a898",
+            "content": {
+                "en": "Preventing sunburn by staying in bed."
+            }
+        },
+        {
+            "id": "w_207c3ce73573456fa48d215e53bf3519994c2b49",
+            "content": {
+                "en": "Reminding yourself that there is a child out there starving, when you are feeling depressed."
+            }
+        },
+        {
+            "id": "w_7acae7b0e9ae433e9ebf62536d04c6d57fa89489",
+            "content": {
+                "en": "Rolling across the street to avoid J-Walking."
+            }
+        },
+        {
+            "id": "w_43f1202ef1352f1e2f433ea47dd376e0a8725ac2",
+            "content": {
+                "en": "Rubbing Tabasco in your eyes to stay awake."
+            }
+        },
+        {
+            "id": "w_e21f47a5441925df6e635d08f18d50792d47d966",
+            "content": {
+                "en": "Saving on water by washing your clothes with your dishes."
+            }
+        },
+        {
+            "id": "w_fb352ab4ac3cb35099ae69f01fc0899a64ff85cd",
+            "content": {
+                "en": "Saying you have cancer to get out of things."
+            }
+        },
+        {
+            "id": "w_48c6163d9f44884c7d693e1860a1fdd2033d58c2",
+            "content": {
+                "en": "Squeezing glow-in-the-dark ink onto your eyes to see in the dark ."
+            }
+        },
+        {
+            "id": "w_574d0b2e441db4b7d11e778461103f9bd8547bcd",
+            "content": {
+                "en": "Turning your computer sideways so it&apos;ll download faster files faster."
+            }
+        },
+        {
+            "id": "w_67fbd7a8929d682bf0481ad6d5c13b8a981322ad",
+            "content": {
+                "en": "Tying a plastic bag over your head to breathe underwater."
+            }
+        },
+        {
+            "id": "w_01c2c1f441b2dabcc36494bec9c00ccdae79e67e",
+            "content": {
+                "en": "Using a magnet to fix your hard drive because someone on the internet told you to."
+            }
+        },
+        {
+            "id": "w_7dfe89074609edd4acb83ed2a80bf8f2440ab69b",
+            "content": {
+                "en": "Using dryer sheets as toilet paper"
+            }
+        },
+        {
+            "id": "w_e6e39d9aa9682f3e7c70d008093b9ea2b5708fbc",
+            "content": {
+                "en": "Using hand sanitizer on your genitals to prevent STDs."
+            }
+        },
+        {
+            "id": "w_a6ef8a0bcef46ff1f677fe3a021281ab5eca7bd0",
+            "content": {
+                "en": "Using heroin to lose weight."
+            }
+        },
+        {
+            "id": "w_df01eb1a7e0ef55f651dc91d28f593f07dc3f94d",
+            "content": {
+                "en": "Using honey as deodorant"
+            }
+        },
+        {
+            "id": "w_dd8ea977bd93fae863c5c819d8e3bc7ce5080a1b",
+            "content": {
+                "en": "Using improper grammar on the internet to get attention."
+            }
+        },
+        {
+            "id": "w_a30d27a89dadb5aea50d9d6668b873b7983ee818",
+            "content": {
+                "en": "Using peanut butter when you&apos;re all out of lube."
+            }
+        },
+        {
+            "id": "w_b00211f60850aff379da40ccd4948748b78159b0",
+            "content": {
+                "en": "Using white-out to get rid of stains on white clothes."
+            }
+        },
+        {
+            "id": "w_e49c158ded82128ae5a5a23c1f5be1feda17953c",
+            "content": {
+                "en": "Using your seatbelt to open your beer."
+            }
+        },
+        {
+            "id": "w_5fddd20ee96abc7a37a0192eeba4d7471b960b98",
+            "content": {
+                "en": "Watching movies on fast forward to save time."
+            }
+        },
+        {
+            "id": "w_b35978325ddffebdae20bcdc10e0eb532b4d3898",
+            "content": {
+                "en": "Wearing a fedora, growing a neck beard, and calling women \"m&apos;lady\" so that they will find you attractive."
+            }
+        }
+    ]
+}

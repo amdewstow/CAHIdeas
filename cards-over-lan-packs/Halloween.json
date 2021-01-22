@@ -1,0 +1,1702 @@
+{
+    "id": "Halloween",
+    "name": "Halloween",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_133d38e429994e789ac49f06397eb23f16e2063a",
+            "content": {
+                "en": "'Disturbia' by Rihanna."
+            }
+        },
+        {
+            "id": "w_4b507f2350af61cc64b149015cb3dcc4ded4bf4b",
+            "content": {
+                "en": "100 tarantulas."
+            }
+        },
+        {
+            "id": "w_3e6ea20ac60b5fce8bd973653e91111d5b62472c",
+            "content": {
+                "en": "100s of other characters &amp; killers, pick who you like..."
+            }
+        },
+        {
+            "id": "w_7c685fdca61ebcc496b26ff585460799e22e7706",
+            "content": {
+                "en": "15 year olds walking around with body glitter and shirts off saying that they are from Twilight."
+            }
+        },
+        {
+            "id": "w_0097c8549a2a7d246e2cf21e442c8013274dd4e5",
+            "content": {
+                "en": "A baby dressed as the old man from 'Up'."
+            }
+        },
+        {
+            "id": "w_2026b48176ff10d59ac9acc4b6769626b0c3ebf2",
+            "content": {
+                "en": "A banshee."
+            }
+        },
+        {
+            "id": "w_f33e536cec21744b9db0bcc79af276e89ebdba69",
+            "content": {
+                "en": "A beetle the size of a Jeep."
+            }
+        },
+        {
+            "id": "w_97a79bf6d71e3855cfd473535f7f811ef045d3af",
+            "content": {
+                "en": "A blood-soaked tampon."
+            }
+        },
+        {
+            "id": "w_852cc7008179974ccbbcca03939650364fbcd887",
+            "content": {
+                "en": "A candied apple with razor blades hidden inside"
+            }
+        },
+        {
+            "id": "w_7f6925ba623834e23abbb4e339eeb5f5222adedd",
+            "content": {
+                "en": "A candle-lighting virgin."
+            }
+        },
+        {
+            "id": "w_e8fa42d3728089c28a71bf1befbe1ae0673c6e53",
+            "content": {
+                "en": "A child who refuses to take off their Halloween costume, even at a funeral"
+            }
+        },
+        {
+            "id": "w_e1eecdd7c973a0ec1483849dbaec3844407a1a58",
+            "content": {
+                "en": "A crap-o-lantern."
+            }
+        },
+        {
+            "id": "w_0d4472918a2c8dafb6b07fddd113aa4f0faa1a9e",
+            "content": {
+                "en": "A creepy clown."
+            }
+        },
+        {
+            "id": "w_a5076ea63e3b9f81ebecd4bce0214406b63c1cb6",
+            "content": {
+                "en": "A dead baby joke."
+            }
+        },
+        {
+            "id": "w_d4f0f8d5a45eacf3a7a63f96a6efaa1d315eff53",
+            "content": {
+                "en": "A demon&apos;s vinegar strokes."
+            }
+        },
+        {
+            "id": "w_eb2c3430d9848a3ec4102d8902743af6472b50fb",
+            "content": {
+                "en": "A deranged hitchhiker."
+            }
+        },
+        {
+            "id": "w_f3aac420262e781a5e6d73fa3a95301cc8386110",
+            "content": {
+                "en": "A dog dressed up like a hot dog."
+            }
+        },
+        {
+            "id": "w_e1ddce2f18bcaf36d49d6788fef4d2b9da68cc77",
+            "content": {
+                "en": "A fingering from Edward Scissorhands."
+            }
+        },
+        {
+            "id": "w_01643de1c27dca05a70160dbbf48606569014f3b",
+            "content": {
+                "en": "A furry threesome."
+            }
+        },
+        {
+            "id": "w_da825036129d4f38c84a4b4b24acd7acbfe73920",
+            "content": {
+                "en": "A ghost costume that is mistaken for a KKK costume."
+            }
+        },
+        {
+            "id": "w_c0f9716715e2dd0848d8747459aa3efe8c51f390",
+            "content": {
+                "en": "A glow-in-the-dark merkin."
+            }
+        },
+        {
+            "id": "w_a8f3455e18761830b5024e74c60db7bfeec32bc8",
+            "content": {
+                "en": "A graveyard"
+            }
+        },
+        {
+            "id": "w_30a20a6aecb24ca084ff813a30d7c9b2ed62e72c",
+            "content": {
+                "en": "A halloween costume hastily assembled by your mom"
+            }
+        },
+        {
+            "id": "w_2e394fb77d1578aaa4ac9237a216de04c75313eb",
+            "content": {
+                "en": "A Haunted hayride."
+            }
+        },
+        {
+            "id": "w_bfd2441b15cc31a36ead1306b13125a018d4c3a9",
+            "content": {
+                "en": "A Holy Shit."
+            }
+        },
+        {
+            "id": "w_334accdefe4db94ac25e9bd27c6c581557d15539",
+            "content": {
+                "en": "A horse head in your bed."
+            }
+        },
+        {
+            "id": "w_013b3d0e0d3d0e3c8a76dba63bbbb4a7e331fa44",
+            "content": {
+                "en": "A jar of loose eyeballs."
+            }
+        },
+        {
+            "id": "w_029de04a006e65578b800cd4ab6864974e284e00",
+            "content": {
+                "en": "A Magical Mystery Tour."
+            }
+        },
+        {
+            "id": "w_2a2b1fe71268a4d6348e51e229f22359f00e0ba5",
+            "content": {
+                "en": "A meat cleaver."
+            }
+        },
+        {
+            "id": "w_0d15a2deeace052af46f310fb1f0668ec650e9c0",
+            "content": {
+                "en": "A menacing grin."
+            }
+        },
+        {
+            "id": "w_313b8ed6ce488ef9100afe964093de7af721bfbc",
+            "content": {
+                "en": "A menacing looking clown"
+            }
+        },
+        {
+            "id": "w_b261880cf9dcb41be316e42521bcb11a9e8dc893",
+            "content": {
+                "en": "A most mysterious murder."
+            }
+        },
+        {
+            "id": "w_88b57013665420ea89378b301b93e668a1a7dbb1",
+            "content": {
+                "en": "A new way to inject more Pumpkin into your life"
+            }
+        },
+        {
+            "id": "w_f5d31e1924a49e6dfe7c56a901d2c7890890f2f4",
+            "content": {
+                "en": "A Party City commercial."
+            }
+        },
+        {
+            "id": "w_8e423bd2fa3319ab1a4019de1bd5e385e1ac29f9",
+            "content": {
+                "en": "A pedophile in the neighborhood."
+            }
+        },
+        {
+            "id": "w_1b3bc82afa75d7dcf7f0bf8e8c924aab245e5eca",
+            "content": {
+                "en": "A Pixie Stix High."
+            }
+        },
+        {
+            "id": "w_ca267bf048c49079f8f111d72f9bfb9fac0d47aa",
+            "content": {
+                "en": "A pumpkin shaped butt plug."
+            }
+        },
+        {
+            "id": "w_7f9ebf402f126a4b5c6f6a0091dea4112e57179a",
+            "content": {
+                "en": "A pumpkin&apos;s glory hole."
+            }
+        },
+        {
+            "id": "w_7b83a85df2fa03959621d6cd49a626d557a02a40",
+            "content": {
+                "en": "A registered sex offender."
+            }
+        },
+        {
+            "id": "w_ce2974595f6541f4e8ab30ecb5f64aaf1d79f464",
+            "content": {
+                "en": "A snake the size of a human being."
+            }
+        },
+        {
+            "id": "w_ae9a59774ad45a963d55b2ab72d04a1ce7216ac9",
+            "content": {
+                "en": "A werewolf bar mitzvah."
+            }
+        },
+        {
+            "id": "w_54c4a33e41918e594c2f3a5b4feb25366a3d89f0",
+            "content": {
+                "en": "A zombie making polite eye-contact."
+            }
+        },
+        {
+            "id": "w_2d8d9df3d0ae2ea217fff833ff3cc9b051413ee8",
+            "content": {
+                "en": "Actual Cannibal Shia LaBoeuf."
+            }
+        },
+        {
+            "id": "w_765bb41e34292b7a7f4d30280d3eaa8af424916d",
+            "content": {
+                "en": "American Horror Story."
+            }
+        },
+        {
+            "id": "w_266ddb2e6ba52a42273af3bcfba36229e76b81ff",
+            "content": {
+                "en": "An abandoned mansion."
+            }
+        },
+        {
+            "id": "w_4ce0e7cec96875d28df2b3387db258bf1d9b1df8",
+            "content": {
+                "en": "An antique ouija board."
+            }
+        },
+        {
+            "id": "w_c2a66a8c38cba69e3114eb1836db8c7998e5ed3d",
+            "content": {
+                "en": "an apple with razorblades in it"
+            }
+        },
+        {
+            "id": "w_43af5b3abcdc7bacd76f3a7d7c4e7138c88cf4a1",
+            "content": {
+                "en": "An Arnold Schwarzenegger mask."
+            }
+        },
+        {
+            "id": "w_868fc0f2e1d8f283061850a1dc108b127dd0e5a6",
+            "content": {
+                "en": "An auguste clown."
+            }
+        },
+        {
+            "id": "w_b37780cd1c8dd0fa0e2462f0c9757fa79ad91928",
+            "content": {
+                "en": "Anaconda."
+            }
+        },
+        {
+            "id": "w_082c491bcf9b6120f5be5d99d0749aa7de8662bd",
+            "content": {
+                "en": "Apples instead of candy."
+            }
+        },
+        {
+            "id": "w_3046bd52d22c268ba16ec3b68f385c46afc84700",
+            "content": {
+                "en": "Baberham Lincoln"
+            }
+        },
+        {
+            "id": "w_1affea2807c19d0a15bf47f9736c2cb2c5be3584",
+            "content": {
+                "en": "Beetlejuice"
+            }
+        },
+        {
+            "id": "w_361cbdc6bf2abc2f041c178eb513af9a8c9864d1",
+            "content": {
+                "en": "Being bitten by a werewolf"
+            }
+        },
+        {
+            "id": "w_e564b61a66ae2664e5709997b3deff975a9b48c5",
+            "content": {
+                "en": "Bloody Mary."
+            }
+        },
+        {
+            "id": "w_81e0647d5d50f17f5181cab0bdda48a538009c08",
+            "content": {
+                "en": "Bobbing for apples."
+            }
+        },
+        {
+            "id": "w_503be34d06940004e6adcd77c54969f5e7dfa0ad",
+            "content": {
+                "en": "Body glitter."
+            }
+        },
+        {
+            "id": "w_7f029a254e69f1f23dc68cc1968619bab8688fbc",
+            "content": {
+                "en": "Bruce Jenner&apos;s face."
+            }
+        },
+        {
+            "id": "w_9b139472bbbdc8adea5943bd4f0c912038259f5d",
+            "content": {
+                "en": "Buckets of blood."
+            }
+        },
+        {
+            "id": "w_795ab93b8701f1613c19ff17d87b3f0b11810359",
+            "content": {
+                "en": "Buffy the Vampire Layer."
+            }
+        },
+        {
+            "id": "w_581728f307f3183c230135b807e053289bd3beca",
+            "content": {
+                "en": "Charles Manson."
+            }
+        },
+        {
+            "id": "w_6129e36c32d1c5fbc0eb0f101657fd6834f0284e",
+            "content": {
+                "en": "Cheesy thunder sound effects."
+            }
+        },
+        {
+            "id": "w_96c509a52f1c9a356bfe64d7f39d48fbadb2f6fe",
+            "content": {
+                "en": "Cleaved limbs."
+            }
+        },
+        {
+            "id": "w_2d3b37df404aee30cd6fc420c76adc4e3902b148",
+            "content": {
+                "en": "Corn stalks, as far as the eye can see."
+            }
+        },
+        {
+            "id": "w_7b712b5342c6ded617d4f958e60287366d4138c6",
+            "content": {
+                "en": "Cowboy ghost."
+            }
+        },
+        {
+            "id": "w_9a99080bf4e6ca075a4760f2c9798e0cb19ee463",
+            "content": {
+                "en": "Cunnilingus by Freddy Krueger."
+            }
+        },
+        {
+            "id": "w_3ebe21793f9ce3ed6de3b1bdf8cab8823a5b3284",
+            "content": {
+                "en": "Dead man&apos;s toe."
+            }
+        },
+        {
+            "id": "w_96328758448dfda5113e5de12c72ec241f991491",
+            "content": {
+                "en": "Defense against the dark arts."
+            }
+        },
+        {
+            "id": "w_6a2df73896eabdf8f43b451885f995ff30b24e3b",
+            "content": {
+                "en": "Devil with the blue dress on."
+            }
+        },
+        {
+            "id": "w_07f6b8689ff175dd6837642b6a5a87793b9d5373",
+            "content": {
+                "en": "Dia de los Muertos."
+            }
+        },
+        {
+            "id": "w_f6910024d90c4954ee0a0f410be72eb6259a9976",
+            "content": {
+                "en": "Diabetic coma."
+            }
+        },
+        {
+            "id": "w_7937c691c24868f18c4ae64b7fabb06aac21f9f0",
+            "content": {
+                "en": "Dr. Frank-N-Furter"
+            }
+        },
+        {
+            "id": "w_c6b3688fe2f95cac326ad8c37e6932dde1c66c69",
+            "content": {
+                "en": "Dr. Who."
+            }
+        },
+        {
+            "id": "w_1e970c36ded5ed3b9f326f9d63f58ca0cb9d167e",
+            "content": {
+                "en": "dressing as someone from scooby doo and taking off people&apos;s masks"
+            }
+        },
+        {
+            "id": "w_41be2320e9855e6f1c7acbad323ff7802ec4b83e",
+            "content": {
+                "en": "Eating all your kid&apos;s candy."
+            }
+        },
+        {
+            "id": "w_d65d52162914afaebd4eab6bca0c949566f0a573",
+            "content": {
+                "en": "eating left over candy originally intended for trick-or-treaters"
+            }
+        },
+        {
+            "id": "w_0b1777e910b84590bad7e9ac6f1a35801cff3847",
+            "content": {
+                "en": "Ebola quarantines."
+            }
+        },
+        {
+            "id": "w_e878de5a8941c03909bc53f13e3da12b3e2b877e",
+            "content": {
+                "en": "Egging old ladies."
+            }
+        },
+        {
+            "id": "w_f820b8d66afe2d73d20f8e79eaa222d0524d6c37",
+            "content": {
+                "en": "El Chupacabra."
+            }
+        },
+        {
+            "id": "w_226f5d1cb2244cdd07494bd240bdae001058cd83",
+            "content": {
+                "en": "Every year they jam more and more commercials in 'Its the Great Pumpkin Charlie Brown!!'"
+            }
+        },
+        {
+            "id": "w_02dbaac7e330abdfb9e1d5f318bcb1cd63c13f2a",
+            "content": {
+                "en": "Eye of newt"
+            }
+        },
+        {
+            "id": "w_062b5fee700cc2b29e44d97cb9d56899fe333a03",
+            "content": {
+                "en": "Fake blood dripping out your anus."
+            }
+        },
+        {
+            "id": "w_8f2ba4152bd4bd05fc8b10a616a874a913675817",
+            "content": {
+                "en": "Fat Batman."
+            }
+        },
+        {
+            "id": "w_d936cac9125d72f0631f57b1164db03cf02cb40b",
+            "content": {
+                "en": "Frankenstein"
+            }
+        },
+        {
+            "id": "w_7dab0a4d0fc5d1eb60b211234f902a8cbb51a2a8",
+            "content": {
+                "en": "Frankenstein&apos;s penis."
+            }
+        },
+        {
+            "id": "w_0d91ae041e3ad18428d4c02bbfcce5c840d1a51d",
+            "content": {
+                "en": "Freddy Krueger"
+            }
+        },
+        {
+            "id": "w_a69fc0e35e97198a0353662fb59ee3f72a3d98e3",
+            "content": {
+                "en": "Friday the 13th."
+            }
+        },
+        {
+            "id": "w_4ac0abbda49a93a4259ce819c46c6bd65791c121",
+            "content": {
+                "en": "Fun size candy bars."
+            }
+        },
+        {
+            "id": "w_9b4101d3d018b43f448405e795cd84b5049b29f3",
+            "content": {
+                "en": "getting a hand job By Freddy Krueger."
+            }
+        },
+        {
+            "id": "w_4d6417cb4cb8bfceae5dad6f881402b05b377371",
+            "content": {
+                "en": "getting fingered by Freddy Krueger."
+            }
+        },
+        {
+            "id": "w_998730e9adc93d0fb9c21f434dc3d73c84b19520",
+            "content": {
+                "en": "Ghost Hitler."
+            }
+        },
+        {
+            "id": "w_139c4d5ca692ccda000959691f61e30ee69f75bf",
+            "content": {
+                "en": "Ghostbusters!"
+            }
+        },
+        {
+            "id": "w_f1043dbe5a41aa58149b778a1d4b80832705c7a5",
+            "content": {
+                "en": "Ghostface Killah."
+            }
+        },
+        {
+            "id": "w_18ec7d5310409f9fa7bb6b0150ddfda63f71b0d7",
+            "content": {
+                "en": "Ghostfarts."
+            }
+        },
+        {
+            "id": "w_ee5fcac4e68ca1202a326ab1203702da74036c9d",
+            "content": {
+                "en": "Gremlins."
+            }
+        },
+        {
+            "id": "w_4e75e1b35bf67dc40f80433cb141eb1a4c73c728",
+            "content": {
+                "en": "Handing out condoms to trick-or-treaters then winking."
+            }
+        },
+        {
+            "id": "w_ecfe1562920cae5a43754c7092b6514a45d16afb",
+            "content": {
+                "en": "Handing out rocks to trick-or-treaters with crappy homemade or supermarket costumes."
+            }
+        },
+        {
+            "id": "w_ec78defa9b98168089fd506d75c74ec69fd76a95",
+            "content": {
+                "en": "Haunted cum"
+            }
+        },
+        {
+            "id": "w_0868f500006f5b165507abdc6fa18527035775ea",
+            "content": {
+                "en": "Having a candy enema done."
+            }
+        },
+        {
+            "id": "w_ba13fa2d5b290a41f913177273c5d33047faaac0",
+            "content": {
+                "en": "Hobnobbin' with a goblin."
+            }
+        },
+        {
+            "id": "w_340911f5751c921482ed4d66f6f0ce90566267b2",
+            "content": {
+                "en": "Hocus pocus"
+            }
+        },
+        {
+            "id": "w_683fc311d9a4122793138c51bcd77bc0a7eff121",
+            "content": {
+                "en": "Hookers who are also witches."
+            }
+        },
+        {
+            "id": "w_46779bfa9c6858833e8d839fac756d711b2fe5b9",
+            "content": {
+                "en": "Howling at the moon."
+            }
+        },
+        {
+            "id": "w_383dbe590f49ddc0599dfab3718147ff92249544",
+            "content": {
+                "en": "Human brains."
+            }
+        },
+        {
+            "id": "w_6d287a3d3035ecf1678a980b4b13cd78ac17fca7",
+            "content": {
+                "en": "Jack Skellington"
+            }
+        },
+        {
+            "id": "w_c8a039837b56ffc27542f33b474efea808da68d0",
+            "content": {
+                "en": "Jack the Ripper."
+            }
+        },
+        {
+            "id": "w_75eeb1621ec9aa5589b7c2c1eae25faae6719fd6",
+            "content": {
+                "en": "Jareth, the goblin king."
+            }
+        },
+        {
+            "id": "w_e42190e867db9bfe3ac3c814d0b73603e680936f",
+            "content": {
+                "en": "Jeffery Dahmer"
+            }
+        },
+        {
+            "id": "w_f2c342bfd048f88eb83153b0a0b7983b23ea65ed",
+            "content": {
+                "en": "Jeffrey Dahmer."
+            }
+        },
+        {
+            "id": "w_11484e2932d3d1ef0d46ea675a398e8c1be28d80",
+            "content": {
+                "en": "Jessica Lange."
+            }
+        },
+        {
+            "id": "w_05e177579f0243bfcf925466933879d5333beb9a",
+            "content": {
+                "en": "Joan Rivers' ghost."
+            }
+        },
+        {
+            "id": "w_2daa57f28fc888227a84482fc3f06601c679d26c",
+            "content": {
+                "en": "Jumping into a pile of dead bodies instead of leaves."
+            }
+        },
+        {
+            "id": "w_2dae5c5c1c1d95c06909670434876ac8021adc75",
+            "content": {
+                "en": "Killer Candy Corn."
+            }
+        },
+        {
+            "id": "w_2046a6d5d88d758bdc7dc0ef4b0850e166cef26d",
+            "content": {
+                "en": "King Kandy&apos;s Fungeon."
+            }
+        },
+        {
+            "id": "w_393847fe220971a45e6a94e5d69cf9c5ffd67b6e",
+            "content": {
+                "en": "Leatherface"
+            }
+        },
+        {
+            "id": "w_d928dd7fecf732319ad5a42aac065a568bb0ed3e",
+            "content": {
+                "en": "Leathervagina."
+            }
+        },
+        {
+            "id": "w_a9c9227d49a91025a72b261b15617c5b63de9f4b",
+            "content": {
+                "en": "Lingerie with mouse ears."
+            }
+        },
+        {
+            "id": "w_b8afc44fcd0637a6f53f87e4573fad86b1323849",
+            "content": {
+                "en": "Massive fangs."
+            }
+        },
+        {
+            "id": "w_f3e6e95217d78a92c977688e1668a17aade4dc98",
+            "content": {
+                "en": "Masticated flesh."
+            }
+        },
+        {
+            "id": "w_d4f862571ae666ffa0e8e1d7595ae47e05b3fd3a",
+            "content": {
+                "en": "Michael Meyers."
+            }
+        },
+        {
+            "id": "w_b8dc8348e08851b34e982c5b6d0afcfa9f34247c",
+            "content": {
+                "en": "Michael Myers"
+            }
+        },
+        {
+            "id": "w_c8939336e99498fffb3d1f1f5838c49c180b84ab",
+            "content": {
+                "en": "Micheal Jackson litterally rising from his grave to dance 'Thriller'."
+            }
+        },
+        {
+            "id": "w_c777f437ebc800b9fee22038a994060d8d4c9eda",
+            "content": {
+                "en": "motherfucking snakes on this motherfucking plane."
+            }
+        },
+        {
+            "id": "w_46ad8ecc69d4b11aed0898fba8c070eb71f22465",
+            "content": {
+                "en": "Nicholas Cage&apos;s hairline."
+            }
+        },
+        {
+            "id": "w_9bc880c35e66168818844698b6ba88206f342084",
+            "content": {
+                "en": "Nobody showed up to the party."
+            }
+        },
+        {
+            "id": "w_113ed1c13d5d0c9c3af7776c2efa2042a559bf8b",
+            "content": {
+                "en": "Norman Bates."
+            }
+        },
+        {
+            "id": "w_9054c81a4f4c3a76207298714213a25f6038b670",
+            "content": {
+                "en": "Organic, gluten-free, non-GMO candy bars."
+            }
+        },
+        {
+            "id": "w_878bd085ef5e0bd2096352a4f4cce778dad5d69d",
+            "content": {
+                "en": "Paranormal activity."
+            }
+        },
+        {
+            "id": "w_31f5431e35ae6fde8ca4bde6fc4e07db459d2ea6",
+            "content": {
+                "en": "Patient Zero."
+            }
+        },
+        {
+            "id": "w_8040b377e5eb075aca4f45c3dee20e6c9d758810",
+            "content": {
+                "en": "Paul Bernardo and Karla Homolka"
+            }
+        },
+        {
+            "id": "w_c2cee400e0822dd94e45511896651f61feb7b63b",
+            "content": {
+                "en": "People dressed as puns."
+            }
+        },
+        {
+            "id": "w_0d6b4dd1e6100a657a7f2fe2c120556b967b79cc",
+            "content": {
+                "en": "People who give out shitty candy on Halloween"
+            }
+        },
+        {
+            "id": "w_0a9b082655de3ca7cd81d63beadf455742256ab3",
+            "content": {
+                "en": "Pumpkin Spice Condoms."
+            }
+        },
+        {
+            "id": "w_eea841eebfec7cc9c74b84b53e6f399400f228fe",
+            "content": {
+                "en": "Punkin Chunkin."
+            }
+        },
+        {
+            "id": "w_fdcb15814589fd93e731b37ca4f3e0b642fd11e8",
+            "content": {
+                "en": "Rigor mortis"
+            }
+        },
+        {
+            "id": "w_ad27dbc2eb0c72f1d6481f8bb8304d1aa5dfdf1d",
+            "content": {
+                "en": "Ritualistic sacrifice."
+            }
+        },
+        {
+            "id": "w_e3b7b878977d11e21579dbda82c131ecb6b3fcfe",
+            "content": {
+                "en": "Rocky Horror Picture Show."
+            }
+        },
+        {
+            "id": "w_8f3c8d8fcba4fc236fcee6fa7b4a00a1a7f4a4ed",
+            "content": {
+                "en": "Sabrina the Sad Old Lady Witch."
+            }
+        },
+        {
+            "id": "w_2b50b9d1fbfb84f66cbf9ea392657679182eb063",
+            "content": {
+                "en": "Self-pleasuring mummies."
+            }
+        },
+        {
+            "id": "w_bafdf313e8fdecc3866754f4311f4a80cf2d77eb",
+            "content": {
+                "en": "Slipping in Monopoly money for the UNICEF trick-or-treaters."
+            }
+        },
+        {
+            "id": "w_b7e641208e17f52823de3409066c2e4008d1ea9d",
+            "content": {
+                "en": "slipping into a diabetic coma after gorging on Halloween candy"
+            }
+        },
+        {
+            "id": "w_8164fb4c4f062d3a4734376c2023038883809fb5",
+            "content": {
+                "en": "Snatch and grab, snatch and grab!!!!"
+            }
+        },
+        {
+            "id": "w_ccf9c7370989b04cafcd4fae35a670d9fab27089",
+            "content": {
+                "en": "Some more s'mores."
+            }
+        },
+        {
+            "id": "w_ddf547666f629d8466ada2530aa1df39d76747d7",
+            "content": {
+                "en": "Soulless ginger children"
+            }
+        },
+        {
+            "id": "w_d1cdefe8ead4d4b0da445a7f98818d8cd0c805f5",
+            "content": {
+                "en": "Swamp-ass."
+            }
+        },
+        {
+            "id": "w_4606fa6fb84b5a41f3488c0880ad218665d59902",
+            "content": {
+                "en": "Ted Bundy"
+            }
+        },
+        {
+            "id": "w_ac7203d8646cc0d4990ccaef2f40d3924b1e02b4",
+            "content": {
+                "en": "Teens throwing rotten eggs."
+            }
+        },
+        {
+            "id": "w_26b58b418cc646833aa8011e423c5b590abb30ee",
+            "content": {
+                "en": "Telekinesis."
+            }
+        },
+        {
+            "id": "w_b7a1abfa23fef51036739fdd60e8ebbc54289600",
+            "content": {
+                "en": "The Addams Family."
+            }
+        },
+        {
+            "id": "w_677974603c793a333ba5b582624ba855af74cd3d",
+            "content": {
+                "en": "The Boogey Man."
+            }
+        },
+        {
+            "id": "w_48568e869fc13883aea8dbae8a75ab578d95addf",
+            "content": {
+                "en": "The burning rain of death."
+            }
+        },
+        {
+            "id": "w_3ea95a23d27edfd9a5f27733b8b40d594a95c5d3",
+            "content": {
+                "en": "The dance from Thriller"
+            }
+        },
+        {
+            "id": "w_06709229b206ac2df3d7cd33582499b72a1ec7ff",
+            "content": {
+                "en": "The dark."
+            }
+        },
+        {
+            "id": "w_f8298e26d35e2b6667a5bee9b7a09f07c36d3491",
+            "content": {
+                "en": "The Ghost Busters"
+            }
+        },
+        {
+            "id": "w_ae2197a2cf890a0e3eccd44d6131fa223d409713",
+            "content": {
+                "en": "the great pumpkin"
+            }
+        },
+        {
+            "id": "w_2d399c5febdcfdc37f4bbca95ce88e2d760e2830",
+            "content": {
+                "en": "The Horseless Headsman."
+            }
+        },
+        {
+            "id": "w_1ce2dda4b4c17206462bc429225fccb4624e0361",
+            "content": {
+                "en": "The man with a hook for a hand."
+            }
+        },
+        {
+            "id": "w_a1c5e6717acc658c0f08fdfde126bfaa30325445",
+            "content": {
+                "en": "The Manson Family"
+            }
+        },
+        {
+            "id": "w_7868284367d5d1343d10e42c8f0580d1024e6c9f",
+            "content": {
+                "en": "the monster mash"
+            }
+        },
+        {
+            "id": "w_d7c1776761661bcc482904acb02df2bc22d3d767",
+            "content": {
+                "en": "The newest Disney princess."
+            }
+        },
+        {
+            "id": "w_baa039f6dba99fe3510b330b7cdb36a9aeae33a6",
+            "content": {
+                "en": "The Pumpkin Patch."
+            }
+        },
+        {
+            "id": "w_ee86a1e9e52e9910f76b4e0b3e98e8a290279e50",
+            "content": {
+                "en": "The Seasonal Help."
+            }
+        },
+        {
+            "id": "w_7b925fc35fdee78c2ad2ab584d47e08f35f362bc",
+            "content": {
+                "en": "The Simpsons: Tree house of horror playing on the first Sunday of November."
+            }
+        },
+        {
+            "id": "w_ea038e43767c5c249630c1bdb0047e19b2dcaa4f",
+            "content": {
+                "en": "The Slutty Pumpkin."
+            }
+        },
+        {
+            "id": "w_c021a13a3b1bff833b758b58db7028f2d7836992",
+            "content": {
+                "en": "The Stay Puft Marshmallow Man."
+            }
+        },
+        {
+            "id": "w_71fe346bcfe667128769e0c6ce5b71537902eff4",
+            "content": {
+                "en": "The Thing&apos;s slimy bunghole."
+            }
+        },
+        {
+            "id": "w_491f8e112a6af0c7285b3947021d840a3ff1ea3b",
+            "content": {
+                "en": "The town of Nilbog"
+            }
+        },
+        {
+            "id": "w_e5e9c54d794a27bdaccfe2e726662b12e60b7fad",
+            "content": {
+                "en": "trick or treating at a pedophile&apos;s house"
+            }
+        },
+        {
+            "id": "w_7683727de47ea869fac8f7095990386af3c3d5c3",
+            "content": {
+                "en": "Trick-or-Treating at age 40."
+            }
+        },
+        {
+            "id": "w_4917acde0654b44282994ad79b2b60de4be0b6b3",
+            "content": {
+                "en": "UNICEF trick-or-treaters."
+            }
+        },
+        {
+            "id": "w_9f83d3281f62584e649c4c3353791cd22eee7723",
+            "content": {
+                "en": "Ware-wolf semen."
+            }
+        },
+        {
+            "id": "w_ddafd9cc35bd548e2e0381fdc7ffc14d5a597d33",
+            "content": {
+                "en": "werewolf bar mitzvah"
+            }
+        },
+        {
+            "id": "w_22b3fe77f2a008de9af17743104ec9c7d57380b2",
+            "content": {
+                "en": "Werewolf in a snuggie."
+            }
+        },
+        {
+            "id": "w_c7171812f379f45c9c95d8f91b52d78402b6540f",
+            "content": {
+                "en": "Zoltar."
+            }
+        },
+        {
+            "id": "w_525ba96a8696a2165dbcd207367ced5c9c8d5532",
+            "content": {
+                "en": "Zombie drag queens."
+            }
+        },
+        {
+            "id": "w_b4026834741c065ca7e0fabed3da653978a74333",
+            "content": {
+                "en": "Zombies!"
+            }
+        },
+        {
+            "id": "b_5da4d738981119a63e71883a949f0fa2a25197f8",
+            "content": {
+                "en": "\"All Hallow&apos;s Eve has become a night of frolic, where children wear ______ and run amok!\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6590c521f0b9e78142b1373729d8c5a161f68b3c",
+            "content": {
+                "en": "\"All work and no play makes Jack a ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b1279cd767800d93d467a52a52d440a45ad043f3",
+            "content": {
+                "en": "\"Double Double, ______ and trouble.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f189b4b3708e5819835ae7a5291aed9504a5fa68",
+            "content": {
+                "en": "\"I want to stab you to death, and then play around with your ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_56f9479911dd6662d109833f8a39c50067d6ea4f",
+            "content": {
+                "en": "\"I wish it was Halloween everyday!\" said, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_77008004395d6a1bc29acc67c3abed9b20cd503d",
+            "content": {
+                "en": "\"I\"ve seen enough horror movies to know any ______ wearing ______ is never friendly.\""
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ef0628b1099b9e229b4d2885c60b03c4fa2d642d",
+            "content": {
+                "en": "\"It&apos;s Halloween, everyone&apos;s entitled to one good ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_24834d6c179f8dd075363798e126b8b00fd1a53a",
+            "content": {
+                "en": "\"That cold ain't ______. It&apos;s death approaching.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b9b22645ba25832956fa59ea96d5776ecee897b",
+            "content": {
+                "en": "Ahhh! I&apos;m lost in a corn maze shaped like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dc66eb84692111a508aaf673ba9cc8749b0154ea",
+            "content": {
+                "en": "All Hallow&apos;s Eve has been cancelled this year due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9dae265d66893987b75e46e001e204ccced0c0f5",
+            "content": {
+                "en": "All I got in my trick-or-teat bag is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c8d9932efee7804a3dd593a29edf38223d7434b",
+            "content": {
+                "en": "And to cast my first spell, I say the magic words: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e1804207f20f04d725c085a1577df3b76d2ddbd2",
+            "content": {
+                "en": "As I gaze into my crystal ball, I see no ______ in your future."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5c0e4864f17084fa049214cd06682b36c15dcda7",
+            "content": {
+                "en": "As the blood oozes from my fatal wound, I utter my last words: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ca3d944673ff5b156a931184ebbb54ba3561a8f",
+            "content": {
+                "en": "At the Halloween party, they served ______-flavored jello shots."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f37657cd5a418ad4063670703e79e756f2c527b",
+            "content": {
+                "en": "Attack of the killer ______s."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5358ff68e0262bfee7a0b6b7c6ac2a848a183426",
+            "content": {
+                "en": "Best couples costume ever. ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_19b90a5ae0760a14c87222c3e9762972dc55e21c",
+            "content": {
+                "en": "Cause this is thriller, thriller night, And no one&apos;s gonna save you from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6d57272d576963a29a0bec237fd0b33cfdcdec09",
+            "content": {
+                "en": "Cause this is Thriller, Thriller night. And nothing&apos;s gonna save you from the ______ about to strike!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3191ed9687cb87c1784e877aef0c332242ddddc",
+            "content": {
+                "en": "Charlie Brown&apos;s \"The Great ______\", a reboot."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0344b164a809004f2aa686617ae23e5c070c26f",
+            "content": {
+                "en": "Don't you dare say \"______\" thrice in the mirror."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de5b73c83d69185623a9333c2851a68e2f8de852",
+            "content": {
+                "en": "Final Destination 12: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0261dd92a8483a4e738729ea39a22928ad841f40",
+            "content": {
+                "en": "For a last second costume spray your self with calk and roll around in dirt, rocks, and grass clippings and go as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_03808430ecc6208273779d7d7d2551e3d5a91563",
+            "content": {
+                "en": "Here&apos;s our zombie escape plan. 1. ______, 2. ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4a90ed71ccd7fa250dcd16d14c4f1626aefdeee6",
+            "content": {
+                "en": "I almost dressed up as Spiderman, but went with Plan B: ______, instead."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_74433bfb25773a5f58233b941e198b5f7428e134",
+            "content": {
+                "en": "I cannot believe that ______ has the same costume as me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4e1a4b6f29a16d9e164a99c3c0791f0d08d3eaf2",
+            "content": {
+                "en": "I put a spell on you, and now you're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b93fe5c0d775192c56a0c035f1054fea7a274bf9",
+            "content": {
+                "en": "I ran out of candy so I had to start handing out ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ad91da182268a06032be15cdd14bbd86dc004bc",
+            "content": {
+                "en": "I was too scared for The Haunted House, so I used ______ as an excuse."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c81f1fbd527cd858abd2169276767684387f884",
+            "content": {
+                "en": "I was working in the lab, late one night, When my eyes beheld an eerie sight: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e123b5ce787fb2f3e8be30daf63c6705756c444d",
+            "content": {
+                "en": "I wouldn't be caught dead dressing as ______ this year. It is SO overdone."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75f46be2582ddf56410a97d7232289b85e4ee96e",
+            "content": {
+                "en": "I&apos;m not superstitious, but I never step on ______, or I'll break my momma&apos;s back."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8de26b65325301710fef8096c6de153b093bd09b",
+            "content": {
+                "en": "I&apos;m not superstitious, but if ______ ever crosses your path, you get seven years bad luck."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_384a2ed75b013fb89540bc32db63637316fe036e",
+            "content": {
+                "en": "I'll bet living in ______ takes all the fun out of Halloween."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bdd74c14cf685f510f7af5b32a9865f9655f58ca",
+            "content": {
+                "en": "I've got it. It was ______, in the kitchen, with the ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_32bc9dc916b3b4d2ecd8ff44a51cbecf7f67eaf8",
+            "content": {
+                "en": "If Halloween is the best holiday, what&apos;s the second best? ______ Day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_132518da4e84d027acf0aae4c2a0f04afe5b4951",
+            "content": {
+                "en": "If I had a supernatural power, what would it be?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a812746ba8e90afdb20f1e8fa7dec77865269f16",
+            "content": {
+                "en": "It is said the Headless Horseman comes to collect ______ each year on Halloween."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9723ee06f48187e49e0ade4ddc09376c2a4f076c",
+            "content": {
+                "en": "Mmmmmm...Pumpkin-flavored ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_30486e7b34bb0f7a336d734e4056401069ef771a",
+            "content": {
+                "en": "My favorite scary movie is \"Deathcicle\", starring ______ as the abominable snowman."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_190d8b4122764c792712fdd5f80c8f58225f2c96",
+            "content": {
+                "en": "My favorite scary movie is ______, starring Michael Cera and a wooden shoe."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e8d1a12a3d3d5198ea3872ee423b072e4ff88f1f",
+            "content": {
+                "en": "My pumpkin bears an eery resemblance to ______. It&apos;s uncanny."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b80842f835bc84a832e35400030b8916af0cbe61",
+            "content": {
+                "en": "Never say, \"______\". It&apos;s a death wish."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9275901fd2ef16f5a18b0c9b9c1ea8f2e1b91ed5",
+            "content": {
+                "en": "Nothing beats a haunted ______ on All Hallow&apos;s Eve."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da63901629e52245c5fb336b0d405bcb7f9add2e",
+            "content": {
+                "en": "Of all the Halloween treats, ______ gives me the best sugar rush."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e2bbe7ad8659c3741a5799c0eccfadf2c4af92e6",
+            "content": {
+                "en": "Oh great, now a pitchfork-wielding mob is here to run ______ out of town."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3950139946a483e9617e58bdf738bbde132c6b54",
+            "content": {
+                "en": "Perhaps dressing up as ______ for the company Halloween party was ill-advised."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_47861c87560a120367b8b30f3d0347b9fc2d0ce7",
+            "content": {
+                "en": "The best hipster costume was ______ this year."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c5c5af9848373ee0fc1d9a7797bd5d1890f3f3e",
+            "content": {
+                "en": "The Disney Channel proudly presents: ______: A Halloween Musical."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3704c1e6a2eef450385572a792d1971386986563",
+            "content": {
+                "en": "The hottest costume for boy&apos;s is Teenage Mutant Ninja ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_541ff2e1565402cc9b27289f64e9dac6e5c94884",
+            "content": {
+                "en": "The hottest girl&apos;s costume is My little ______: Equestria Girls."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a467d7f2ee3a4e37f2bf21fdbdc82e547face700",
+            "content": {
+                "en": "The hottest lady&apos;s costume is sexy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cfae44814f71f00ee33307dcdaa9d72fa40863b1",
+            "content": {
+                "en": "The hottest men&apos;s costume is ______ from Breaking ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5827106702f365617864a53d699b337c9364b4a4",
+            "content": {
+                "en": "The secret ingredient to my Halloween punch, you ask? Just a splash of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd73470fa9254bbee508f60c423d449e8151ac17",
+            "content": {
+                "en": "The thing I like best about Devil&apos;s Night is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b3384ea8c94999075ec92d823b8bc2cbaa7974d3",
+            "content": {
+                "en": "The trick-or-treaters thought I'd joined in the fun and was dressed as ______, but really I was just wearing my regular clothes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd278728baa23c115b1340efd47ae11674490aa2",
+            "content": {
+                "en": "The winner of the costume contest was a guy who dressed up as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7271a67203a3136852e953304b38d371e61591b4",
+            "content": {
+                "en": "This year I&apos;m going to carve my Halloween pumpkin to look like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6760063c5271277aec6ba556ace227b305c053ad",
+            "content": {
+                "en": "This years Halloween party theme is:"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_98137b4436b916295e4f9ff29accb88871608eba",
+            "content": {
+                "en": "Trick or Treat, Smell my Feet, Give Me ______ to eat!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4a3d1bb9901870d3d6865d19146086548815ee28",
+            "content": {
+                "en": "Using Tinder on Halloween is a great idea because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0f28b0581c8f1ced161d84d94c6eeebe9b568f17",
+            "content": {
+                "en": "Wal-mart got in trouble for selling child-sized ______ costumes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6fd471abfcb1970cbf8ac8d0bbfecd5de436908d",
+            "content": {
+                "en": "Walmart&apos;s newest lawsuit? It&apos;s over their child-sized ______ costumes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_443fd275d55d4f852556f390b259ee11515fb52d",
+            "content": {
+                "en": "Welp, I never thought I'd see a sexy ______ tonight, that&apos;s for sure!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9eb02f79594541b4da56e45645cf4c44b553c71e",
+            "content": {
+                "en": "What am I giving out to trick-or-treaters this year?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f190acedff238c178bfbd96564f5178c00df58f5",
+            "content": {
+                "en": "What did I dress up as last year?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_37a0c54eb9b2d35a4fefb2dae761daa017c31346",
+            "content": {
+                "en": "What should I go as this year?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c04bcd5cd18d4a13fc714fd8e82a563c7772c372",
+            "content": {
+                "en": "What&apos;s Dracula&apos;s favorite thing to suck?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c524e15d8f6e3544c7d79878445dee366728e21f",
+            "content": {
+                "en": "What&apos;s in the box? What&apos;s in the box? WHAT'S IN THE BOX?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_679ad01389af6016900e2a6257f06b1deea53f1f",
+            "content": {
+                "en": "Whatever you do, don't dress your baby up as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_03b1c326c206222d451f59d30a53fac64cc5d3fc",
+            "content": {
+                "en": "When Scooby Doo and the gang took the monster&apos;s mask off, underneath they found ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab0aff561a5c719772749152a671e1cd91ecc69a",
+            "content": {
+                "en": "When the leaves start fallen', ______ comes a-callin'."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6eda9e027bdc3c93957bd93ab128a76b699b5c34",
+            "content": {
+                "en": "Who would think that ______ would make a good costume?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fe4ea8b3b7635c12916c955d02bc8cacb25e91d",
+            "content": {
+                "en": "Why can't I fall asleep?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ba84f8c7b96a047d61957e9a3d1874896ace40b",
+            "content": {
+                "en": "Why does my spouse\/fiance\/life partner wants to go as ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ccacdce11b08b42a26bb92dcbd65490a50745c1",
+            "content": {
+                "en": "Witches Brew: I heard they recently added more ______ to it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a57938f41a50cf1f60550a6b06338647119b50d2",
+            "content": {
+                "en": "Wow, I never thought I'd see someone manage to dress as a sexy version of ______ but I did tonight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a49156514056c423bcace317e721b217cfe69c8",
+            "content": {
+                "en": "Y.O.L.O. Unless you're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_45e98eebf83eab29ce6f43bd96b894c9dece3a12",
+            "content": {
+                "en": "You can make any costume sexy, just add ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8d821c9cd329429d41210aa9e75d806f0decd04e",
+            "content": {
+                "en": "You can't have a Halloween party without bobbing for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1dfeed9904cee5d7539f9f78ab111b04af12ed5e",
+            "content": {
+                "en": "______ and ______ are this years hottest couples costumes."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e535e3ed7a9c4fbb93d75b91e4b62cb3a97d962a",
+            "content": {
+                "en": "______ is the ghost story that sends chills down my spine."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f1ac6b71be4ebbf47e8ffcfd139cd5c48b569b9",
+            "content": {
+                "en": "______ made me pee my pants from sheer terror."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_74d00caa8afd2fabf55bc8429f3dc1279c328edc",
+            "content": {
+                "en": "______ makes a great accessory to a costume."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b83ec60e1306d0d677e89a9b19f80ff5f03736dc",
+            "content": {
+                "en": "______ makes a great accessory to any costume."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36a3e00e180a43c19ee2ebd8b79ddf35f8a5994f",
+            "content": {
+                "en": "______ will haunt my dreams tonight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3653d4f0e451a825db3321857d22c1e3996475ad",
+            "content": {
+                "en": "______. Do not feed after midnight. And don't get them wet."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b71f5813add1b0bb8e1ed6598f783e7c214eb24",
+            "content": {
+                "en": "______. It&apos;s magic."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f0d9daaa1f5fd7ff16c376d196eb12cb592b532",
+            "content": {
+                "en": "______. That&apos;s what I want written on my tombstone."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba9d47b0b162a7e660af86deec6e8a9d07ad8951",
+            "content": {
+                "en": "______. The stuff nightmares are made of."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5741ffb18c2ddb477bbf8248fbff1ebe21159e4b",
+            "content": {
+                "en": "______. Worst. Costume. Ever."
+            },
+            "pick": 1
+        }
+    ]
+}

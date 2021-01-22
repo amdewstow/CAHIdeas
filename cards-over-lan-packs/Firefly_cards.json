@@ -1,0 +1,634 @@
+{
+    "id": "Firefly_cards",
+    "name": "Firefly cards",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_9a68f2787eac739085bc6280a58a86427c4ec797",
+            "content": {
+                "en": "A black mark on the Companion registry."
+            }
+        },
+        {
+            "id": "w_7ecaa1a360d089df65e33b0aea200a049195edf1",
+            "content": {
+                "en": "A broken catalyzer."
+            }
+        },
+        {
+            "id": "w_e24cf021224c310e7acd92e8ffd6873fa1ba3949",
+            "content": {
+                "en": "A Callahan full-bore auto lock with customized trigger double cartridge thorough gauge, named Vera."
+            }
+        },
+        {
+            "id": "w_6747b10ba6878559611707c13fbdccc7a3a1c292",
+            "content": {
+                "en": "A dual to the death."
+            }
+        },
+        {
+            "id": "w_9e50d6465c7a0b96fba6dd41f819f74a12ca7039",
+            "content": {
+                "en": "A historical laser pistol."
+            }
+        },
+        {
+            "id": "w_af4825e0b67768a4b7d1ab4084a1b2a3ffe122a0",
+            "content": {
+                "en": "A leaf on the wind."
+            }
+        },
+        {
+            "id": "w_a61eaec02446ae8cc717c8d6870ccbc67a364159",
+            "content": {
+                "en": "A mutated cow fetus."
+            }
+        },
+        {
+            "id": "w_a3982054d72a4e6b8e6370a0260c7d0e15cce059",
+            "content": {
+                "en": "A preacher among thieves."
+            }
+        },
+        {
+            "id": "w_ebcde21df2e9422a0bdae82d17dafc4efba2b202",
+            "content": {
+                "en": "A pretty, floral bonnet."
+            }
+        },
+        {
+            "id": "w_aff2efa6f521ee77e17d8911fbf758dea9344d5e",
+            "content": {
+                "en": "A very special level of hell."
+            }
+        },
+        {
+            "id": "w_c27c12d4b843151827b6a4bba149247b73394d83",
+            "content": {
+                "en": "Advanced swordplay."
+            }
+        },
+        {
+            "id": "w_16b3c7d0f829ecc8dad12a930c91455962de62fc",
+            "content": {
+                "en": "Aiming to misbehave."
+            }
+        },
+        {
+            "id": "w_686b97cba6d7f7e477bdea2dc8dbaf022c309c8c",
+            "content": {
+                "en": "An odd swan carving."
+            }
+        },
+        {
+            "id": "w_12c59d2d230a4ceac2ffe287af3aaf1b885aa69e",
+            "content": {
+                "en": "Beating a lawman senseless."
+            }
+        },
+        {
+            "id": "w_39df2f0cae2465e8cfb6f4b8755b7b8961a8be5c",
+            "content": {
+                "en": "Becoming one with Serenity."
+            }
+        },
+        {
+            "id": "w_3eea41c5f8997d538ce241941b79ac4855ec3a9b",
+            "content": {
+                "en": "Bedroom roleplay as dinosaurs, with Wash."
+            }
+        },
+        {
+            "id": "w_80f9398371e5d987912440376057d14d3762e89c",
+            "content": {
+                "en": "Being aroused at the sight of Mal naked in the desert."
+            }
+        },
+        {
+            "id": "w_1857e82185f6b9213e7c968d7bd00f31222769af",
+            "content": {
+                "en": "Being raped to death, eaten and sewn into clothing. Hopefully in that order."
+            }
+        },
+        {
+            "id": "w_cf759cce00b0049d2d3a18616309c1e1aca4e71c",
+            "content": {
+                "en": "Being rough handled by Jayne and likin' it."
+            }
+        },
+        {
+            "id": "w_77d9eb1a1d806b1571a425eb775c39e1f02ce192",
+            "content": {
+                "en": "Being strangely turned on by River&apos;s skill with blades."
+            }
+        },
+        {
+            "id": "w_f9ef06539bf138cab3127e5861b731a5b142c169",
+            "content": {
+                "en": "Being tortured by Niska 'til dead, over and over."
+            }
+        },
+        {
+            "id": "w_80d5108a98ba6ca8f68038b3caa7a3b6dcc59819",
+            "content": {
+                "en": "Bleeding from every orafice."
+            }
+        },
+        {
+            "id": "w_fb9e12a268a2fa16305e3e2de32e54ed3358dbf7",
+            "content": {
+                "en": "Book&apos;s enormous afro."
+            }
+        },
+        {
+            "id": "w_10db9987224ce38026092cc8ec69eb2dd603712e",
+            "content": {
+                "en": "Burning the land and boiling the sea."
+            }
+        },
+        {
+            "id": "w_ada4bc628d53576b303b36bded3f7b9ae49df98d",
+            "content": {
+                "en": "Captain Tightpants."
+            }
+        },
+        {
+            "id": "w_217950885bc2f7349609ccb8cb848ada3fa7aa56",
+            "content": {
+                "en": "Central planet privilege."
+            }
+        },
+        {
+            "id": "w_63540403b104224a03099e1524dd2d223a6c9f4c",
+            "content": {
+                "en": "Desperately wanting to be a client of Inara's."
+            }
+        },
+        {
+            "id": "w_0904cac78ec59baa7505188cce69cca337a204ac",
+            "content": {
+                "en": "Dressin' up as a space cowboy for Hallowe'en."
+            }
+        },
+        {
+            "id": "w_dd1dae89c75d89fa117eb177bd6fe3ed2c974d36",
+            "content": {
+                "en": "Earth-That-Was."
+            }
+        },
+        {
+            "id": "w_1e978138b6572ef48bff724844be9a0efd8c9651",
+            "content": {
+                "en": "Fixing the Bible&apos;s contradictions."
+            }
+        },
+        {
+            "id": "w_e71533f6e1bdeef5e108ddb585b0a80ae167af18",
+            "content": {
+                "en": "Floatin' away in space, forever."
+            }
+        },
+        {
+            "id": "w_dd939a767b36a1e8f54e6170ab4fbfe6d6687de6",
+            "content": {
+                "en": "Fresh strawberries."
+            }
+        },
+        {
+            "id": "w_f96e7c4ad8a64e02651a2f52468dd14a1b74f52f",
+            "content": {
+                "en": "Goin' down with your ship."
+            }
+        },
+        {
+            "id": "w_1027312b83597dd46117fe0f64ec18f824e1442d",
+            "content": {
+                "en": "Having a sexual fetish for Reavers."
+            }
+        },
+        {
+            "id": "w_34d3b423cb8b1cb6fd73ed816c73e86694c239fd",
+            "content": {
+                "en": "Imminent violence!"
+            }
+        },
+        {
+            "id": "w_816a5ff4529b2053a703ddfd624b14927e7b0aa5",
+            "content": {
+                "en": "Inara&apos;s silk-clad breasts."
+            }
+        },
+        {
+            "id": "w_a6ad1d1f1a044e905eb4fe207a3555f2975256d1",
+            "content": {
+                "en": "Kaylee&apos;s fine umbrella."
+            }
+        },
+        {
+            "id": "w_bc7bea14f1d9f192a0517292aa9bebf00a5a6d7f",
+            "content": {
+                "en": "Kaylee&apos;s giant pink dress."
+            }
+        },
+        {
+            "id": "w_7685197435ce60f6a89a6d52f69a6f706d1186fa",
+            "content": {
+                "en": "Killing people with my brain."
+            }
+        },
+        {
+            "id": "w_a5cb0cc72ea2b4eca74a7395f6d516c4c99f31bb",
+            "content": {
+                "en": "Kissing a shirtless Simon."
+            }
+        },
+        {
+            "id": "w_87bf8a4ca0944b7b66fefc0558ce55c8ca9af6a1",
+            "content": {
+                "en": "Learning that the ship is not called \"Firefly\"."
+            }
+        },
+        {
+            "id": "w_82ed6a9de35ee274ab2f7ebc4f8758df95ff87fc",
+            "content": {
+                "en": "Leavin' atmo in an awful hurry."
+            }
+        },
+        {
+            "id": "w_254f5c737aeefddffaaf505fa9540b53efa83690",
+            "content": {
+                "en": "Little geisha dolls with big heads that wobble."
+            }
+        },
+        {
+            "id": "w_0e0509a92ab35b34b68ca3c0e0a1d569783c8f3b",
+            "content": {
+                "en": "Mail order corpses."
+            }
+        },
+        {
+            "id": "w_d8398fea1fc45913bcc0e58ef38dee960f9a53cd",
+            "content": {
+                "en": "Making people watch."
+            }
+        },
+        {
+            "id": "w_f6e13b598348811e3da2f4a8506dbe4e3a9d3fb1",
+            "content": {
+                "en": "Mistaking Companions for whores."
+            }
+        },
+        {
+            "id": "w_71772c809eeb575a8afdb0b9334e3492ac09bb22",
+            "content": {
+                "en": "Mudder&apos;s Milk."
+            }
+        },
+        {
+            "id": "w_4d139701be3e6669ee01c066d5ca6abbbf02d711",
+            "content": {
+                "en": "Nathan Fillion."
+            }
+        },
+        {
+            "id": "w_777e884bf73a7de9c347f72ca29dc3878b5d41d7",
+            "content": {
+                "en": "Nubile slave girls."
+            }
+        },
+        {
+            "id": "w_0b7d322b2786424c13a5733a999dca94573d0474",
+            "content": {
+                "en": "People who talk at the theatre."
+            }
+        },
+        {
+            "id": "w_daca42fa5e29c057ea74a1e8970c7ec62dfe9c6f",
+            "content": {
+                "en": "Sadistic medical experiments."
+            }
+        },
+        {
+            "id": "w_9c402aac97ea9b64eda958de30d4f47f4d9c24c8",
+            "content": {
+                "en": "Saffron \/ Bridgette \/ Yolanda."
+            }
+        },
+        {
+            "id": "w_392400ee50f578fd84ca994b61691ea97761aff3",
+            "content": {
+                "en": "Sexin' up Kaylee in the engine room."
+            }
+        },
+        {
+            "id": "w_5214be9f0c0ed51d7db5e64807f2fb1fb62f0fa2",
+            "content": {
+                "en": "SHINY!!!"
+            }
+        },
+        {
+            "id": "w_451de6a2ab31a48c1cfc098f2571183d11b90c5a",
+            "content": {
+                "en": "Significant glances and incessent laughing."
+            }
+        },
+        {
+            "id": "w_b385c6ff1f1ba8eb95c2122c356fa85c5bfb434b",
+            "content": {
+                "en": "Space Xander."
+            }
+        },
+        {
+            "id": "w_2de9ce62d18bb397fc84f00760154ec1e733d5ff",
+            "content": {
+                "en": "Stealing from the rich, selling to the poor."
+            }
+        },
+        {
+            "id": "w_b324414fc8f0ca34660e3ac7dc6a8add9d21033b",
+            "content": {
+                "en": "The Alliance cruiser, Magellan."
+            }
+        },
+        {
+            "id": "w_c2badd1ab708da68030d91ff1dc7f09c2379fac7",
+            "content": {
+                "en": "The ass-end of the 'verse."
+            }
+        },
+        {
+            "id": "w_bf370ffac680f6a60a914c16c780e45c40899d56",
+            "content": {
+                "en": "The Bible&apos;s fuzzy teachings on kneecapping."
+            }
+        },
+        {
+            "id": "w_6a9416d189016626c24d075b36915e3235e091f6",
+            "content": {
+                "en": "The Blue Sun Corporation."
+            }
+        },
+        {
+            "id": "w_ffde0be7950c4802e019476b3ca20ca138584ea7",
+            "content": {
+                "en": "The Browncoats."
+            }
+        },
+        {
+            "id": "w_78e1452ee481b752abde1e914d98c02c9a1093f3",
+            "content": {
+                "en": "The chain of command."
+            }
+        },
+        {
+            "id": "w_c3dbe3a126f221056981b996ec830cdfe41d4b0b",
+            "content": {
+                "en": "The Companions Guild."
+            }
+        },
+        {
+            "id": "w_e514ffd64243cb38d55149526fd50cb0a1e91e51",
+            "content": {
+                "en": "The Firefly-class transport, Serenity."
+            }
+        },
+        {
+            "id": "w_2879e07273da6f94e6229750a7919151f305c89e",
+            "content": {
+                "en": "The Good Night Kiss."
+            }
+        },
+        {
+            "id": "w_10d124ba12008d04561a687ed08f3de005a9db71",
+            "content": {
+                "en": "The hero of Canton, the man they call Jayne."
+            }
+        },
+        {
+            "id": "w_7a84954c38cd1a6267941acea49aea06195f1f6d",
+            "content": {
+                "en": "The Jayne hat."
+            }
+        },
+        {
+            "id": "w_2f4478a51d90aec298d999755f3006dd34ee218c",
+            "content": {
+                "en": "The Operative."
+            }
+        },
+        {
+            "id": "w_0ca1205e3eae09ec5d9ae2c27d96392060a800f5",
+            "content": {
+                "en": "The Pax."
+            }
+        },
+        {
+            "id": "w_ab9bb9a2b304cf9ae2cb1277c5333b59713044d3",
+            "content": {
+                "en": "The writings of Shan Yu."
+            }
+        },
+        {
+            "id": "w_3aaa03ad41ba2e1afd304ab5a3d3f30fc7130fae",
+            "content": {
+                "en": "Two by two. Hands of blue."
+            }
+        },
+        {
+            "id": "w_3d81daa2d9bac58deedf5ec292f4c859cbe40e54",
+            "content": {
+                "en": "Wash&apos;s miniature dinosaurs."
+            }
+        },
+        {
+            "id": "w_2677aabe5e67a8e8aeaa7348797eff65aa57817e",
+            "content": {
+                "en": "Whoring."
+            }
+        },
+        {
+            "id": "w_30a479ad7baef116c2080b698d54681fb808a710",
+            "content": {
+                "en": "Zo&#235;&apos;s legs, and where her legs meet her back."
+            }
+        },
+        {
+            "id": "b_ae66b07fe347c25dab4f03dd5a56b4f22cf8aa06",
+            "content": {
+                "en": "Before Hands of Blue, ______ was sent to apprehend the Tams."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b4035d61af9f73fefa703c9c3351c9d916f412f",
+            "content": {
+                "en": "During her appointments, Inara thinks about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e7a6c67ecc31cba7b4b3608ab774b4d270d22822",
+            "content": {
+                "en": "Firefly should have ended with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b153c21d7644a0eec3a68c2ac252daa64504ea27",
+            "content": {
+                "en": "Firefly, Season 2: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c73b7153a2c4645e0ae1e8c409b848c9bd2416a",
+            "content": {
+                "en": "I am ______ ; watch how I soar."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_623e493dc07064b8f82574972dbc160981aeb6c7",
+            "content": {
+                "en": "In the latest mail pick-up, Mal receives ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4767ffd808e04d81f3b0b4b9698f507a039cbed2",
+            "content": {
+                "en": "Inara&apos;s next client will be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a5c2cbe340e69aed6a0d6dee23a05cb035743d5f",
+            "content": {
+                "en": "Jayne betrays the crew for a boat-load of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_084c0661860e7f8069d38cd706acbe34f74d8b21",
+            "content": {
+                "en": "Next, on Firefly: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1e40ecd8c7d3172c12208c743a240cbc64daab1d",
+            "content": {
+                "en": "Oh, my God. What can it be? We're all doomed!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e39d22fd965dd1824fa424566f172d4a73c3b5d",
+            "content": {
+                "en": "Our shiny crew&apos;s next job will be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fd03f32387bad657aab5ccdd2584ce5850f7a730",
+            "content": {
+                "en": "Serenity will never be the same after ______ was added."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e9158e443ff09e08e6c339e35d336f8ea15984a",
+            "content": {
+                "en": "Simon&apos;s next attempt to cure River will be with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b5cacb0304dc706a7df0ccf8ddfa1eb8fa9e9a67",
+            "content": {
+                "en": "The next Hero of Canton: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6564bf183ce8ff0739dfc89966f523c4738094c7",
+            "content": {
+                "en": "The Reavers are bored with raping and murdering. What will they turn to next?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2274d3e2f6f6d4aae4ecdc8db4456816fccac7f9",
+            "content": {
+                "en": "What new product is Blue Sun coming out with this year?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_15d696369fd684a471fac5ae08801d98da31c0ae",
+            "content": {
+                "en": "What new torture techniques was Niska developing?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac215051fc3c7ff931945428c3113cf559a13e7e",
+            "content": {
+                "en": "What will be taught next year at The Academy?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b0bc4a76e296552b296ca447349bfdc23d2c6408",
+            "content": {
+                "en": "What will be the Alliance&apos;s next secret weapon?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_27bf5062c90c8b405f6b0edbdadc97c30c9d2c1b",
+            "content": {
+                "en": "What will Kaylee have to jury-rig Serenity with next?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_042b889c92600e62b9ffda4ca8150198f30eeb57",
+            "content": {
+                "en": "What will Serenity&apos;s next cargo be?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_13eeccf5d25c89c6593ef1730db19b2f6ac55bc2",
+            "content": {
+                "en": "What&apos;s the shinyest?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_827212c458ffbc1c776f9ef50cd91b9b885c63fa",
+            "content": {
+                "en": "Who will attempt to seduce Mal next?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cabfaa82d7d56c355cfeb159f5fd1cb995750be5",
+            "content": {
+                "en": "Why will Mal be shot next?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_890eb16701cb1c5ca6e031170c5b7a289ac064ba",
+            "content": {
+                "en": "______ was caught in the engine room, with ______."
+            },
+            "pick": 2
+        }
+    ]
+}

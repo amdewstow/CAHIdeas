@@ -1,0 +1,1362 @@
+{
+    "id": "The_Walking_Dead_Expansion",
+    "name": "The Walking Dead Expansion",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_45499de0ba7b593b0e10c9ad8fb20c2107e7bb11",
+            "content": {
+                "en": "A barn that&apos;s perfect for storing human bodies."
+            }
+        },
+        {
+            "id": "w_1a7f9cec016e90fc9be1b8934ad007700ee122d7",
+            "content": {
+                "en": "A big macho man who uses his muscles for good."
+            }
+        },
+        {
+            "id": "w_f5e0bee336273bbd4d22c981d201e353e43fce70",
+            "content": {
+                "en": "A big, dangerous guy who wants to kill us."
+            }
+        },
+        {
+            "id": "w_502c5aede675090af785bb4fcd2b400aedbe4c3e",
+            "content": {
+                "en": "A black character whose catchphrase is \"Aw hell naw\"."
+            }
+        },
+        {
+            "id": "w_6e17bb48a6779af8271c2fbf735b4472d83d4a0a",
+            "content": {
+                "en": "A bond of friendship greater than any force in the universe."
+            }
+        },
+        {
+            "id": "w_3dcbcb5ba1080f90594769b9a93b4fd4d95419b4",
+            "content": {
+                "en": "A bottomless well of horrors."
+            }
+        },
+        {
+            "id": "w_90388eeff246845b13cfc0fd1993942bf7082642",
+            "content": {
+                "en": "A catholic priest that actually respects boundaries."
+            }
+        },
+        {
+            "id": "w_e81f1f3ccf3b71eee57c22ba0bd4328f69b9428b",
+            "content": {
+                "en": "A charred corpse clawing its way out of the flames."
+            }
+        },
+        {
+            "id": "w_d2115ed204cf25a37b1ceae72851d5dc1a52481f",
+            "content": {
+                "en": "A child beckoning me into the woods."
+            }
+        },
+        {
+            "id": "w_71065539e0b9c6bfda77afe12edf1e5d63c23ff0",
+            "content": {
+                "en": "A conveniently-timed thunder clap."
+            }
+        },
+        {
+            "id": "w_6a97ebda011097263886f0112f48b77804131160",
+            "content": {
+                "en": "A corpse with hope in its eyes."
+            }
+        },
+        {
+            "id": "w_fd9dd19114f04b3876b006e76578f2a00c02c5f5",
+            "content": {
+                "en": "A crossbow bolt straight to the heart."
+            }
+        },
+        {
+            "id": "w_5935f9b66d00c1c93550800aa6af62347e9ee33a",
+            "content": {
+                "en": "A dead guy."
+            }
+        },
+        {
+            "id": "w_ad1ba5daed10f1a23e09c44121b5a0a1200e3942",
+            "content": {
+                "en": "A decomposing toddler."
+            }
+        },
+        {
+            "id": "w_04a8fefb31c7469a87e0830716cc813ab8f376d1",
+            "content": {
+                "en": "A diverse cast of likable characters."
+            }
+        },
+        {
+            "id": "w_2084ec0ee1017142116bb89ed95a6e56f9283e43",
+            "content": {
+                "en": "A fascinating mullet."
+            }
+        },
+        {
+            "id": "w_0df91635875119ce8d042586fa7d96c4055639c9",
+            "content": {
+                "en": "A figment of the imagination."
+            }
+        },
+        {
+            "id": "w_8b0eec88b7015a02e3aa1775ea4a09094e337e87",
+            "content": {
+                "en": "A fucking hatchet."
+            }
+        },
+        {
+            "id": "w_98ab0a978d698cd8098c0d5463a90c5bd424eddd",
+            "content": {
+                "en": "A full pantry, a warm bed, and advanced plumbing."
+            }
+        },
+        {
+            "id": "w_66f950fd8d13e0acefc8dfe4c5e08834cfde3b72",
+            "content": {
+                "en": "A good dog."
+            }
+        },
+        {
+            "id": "w_db53fb6c014211bc40673630e63dd46dc2689666",
+            "content": {
+                "en": "A graveyard smash."
+            }
+        },
+        {
+            "id": "w_9be12207f0c86c627ecb1f0b678b26fa2e4d3401",
+            "content": {
+                "en": "A guy named Rick."
+            }
+        },
+        {
+            "id": "w_dba2eb833a49cc129a2c2fef7a48c8fcdfb3c12b",
+            "content": {
+                "en": "A horsey!"
+            }
+        },
+        {
+            "id": "w_e90fb0bed4d424204b221c0307dbe96a82599329",
+            "content": {
+                "en": "A human corpse dangling from a meat hook."
+            }
+        },
+        {
+            "id": "w_ec574d7d507044fe455daa5991c444dc6f7fb51a",
+            "content": {
+                "en": "A motherfucking crossbow."
+            }
+        },
+        {
+            "id": "w_b35490b03948c2fe1f45684d8411622dfe53444c",
+            "content": {
+                "en": "A person full of blood."
+            }
+        },
+        {
+            "id": "w_2dcf36a8a5ce7295be541891c502c371a05721bb",
+            "content": {
+                "en": "A secret tribe of seafaring lady warriors."
+            }
+        },
+        {
+            "id": "w_e8207cefd002017e3b481bed15bb33fe2c3777d1",
+            "content": {
+                "en": "A simpler time when men were men and women were sex slaves who did laundry."
+            }
+        },
+        {
+            "id": "w_8857d0363d716ebdd93c43c43e35e86f0b0909e7",
+            "content": {
+                "en": "A slowly expanding puddle of blood."
+            }
+        },
+        {
+            "id": "w_d931014c177c0b6f2b37c9ac3de373db8ed04e22",
+            "content": {
+                "en": "A stab wound, an explosion, and a fall from a great height."
+            }
+        },
+        {
+            "id": "w_679707cf5bccf865e2c08a255d582338a320e691",
+            "content": {
+                "en": "A tank. A motherfucking tank. Can you believe that?"
+            }
+        },
+        {
+            "id": "w_99df2f038a179307eac076db93c27d314921633f",
+            "content": {
+                "en": "A total misinterpretation of the source material."
+            }
+        },
+        {
+            "id": "w_190cd5b212abed3590015096c3e09aba0f96fa07",
+            "content": {
+                "en": "A very dead baby."
+            }
+        },
+        {
+            "id": "w_756cdf76b7b756286f5fca54cc27256bf4487296",
+            "content": {
+                "en": "A whole entire barn."
+            }
+        },
+        {
+            "id": "w_ebc97498d87ab5962d338b4652d68f87ebf6b62a",
+            "content": {
+                "en": "Abandoning a racist on a rooftop."
+            }
+        },
+        {
+            "id": "w_02a97ff0342314ca7a4881c1e09202c639f4ae7c",
+            "content": {
+                "en": "Aimlessly floating downriver."
+            }
+        },
+        {
+            "id": "w_90867252572ab086761cb9834a2d947084f0d574",
+            "content": {
+                "en": "All out war."
+            }
+        },
+        {
+            "id": "w_4ffa127ab0f6c5a543a5bc550e82b2899ec47209",
+            "content": {
+                "en": "All the flesh melting off of my body."
+            }
+        },
+        {
+            "id": "w_03edb0832a4b090310d9d086d9f5cf19c342d8fd",
+            "content": {
+                "en": "All these dead bodies."
+            }
+        },
+        {
+            "id": "w_64af22da3d04c5ef8ff9a52ad54fa43903c1533a",
+            "content": {
+                "en": "An 80% mortality rate."
+            }
+        },
+        {
+            "id": "w_10c3db0f0eb7ceb088e9fa30e305b3ff0152a21a",
+            "content": {
+                "en": "An emotional gravity that can only be created by a good book or the death of your firstborn."
+            }
+        },
+        {
+            "id": "w_db5dc72ea90be0ce83b2b95a20311be810966635",
+            "content": {
+                "en": "An entire church congregation\u2019s collective screams."
+            }
+        },
+        {
+            "id": "w_75d96e88ae1d8d61dfbf0016d4ad822babd866ab",
+            "content": {
+                "en": "An incestuous manipulative necro-pedophile rapist with a Fu Manchu who chops people\u2019s heads off for fun."
+            }
+        },
+        {
+            "id": "w_aa007063d6f9a6df47ed3ac3ee3b348b543c2a16",
+            "content": {
+                "en": "An unfortunate misinterpretation of the Bible."
+            }
+        },
+        {
+            "id": "w_034444c3fff3e451926deee596c90adc1286d298",
+            "content": {
+                "en": "An unnecessary amount of tigers."
+            }
+        },
+        {
+            "id": "w_4597e9240a5f8502a7d8640c0fec6c26f9aa2ffb",
+            "content": {
+                "en": "Another show about a bland frowning white man with stubble."
+            }
+        },
+        {
+            "id": "w_4b70cca99cfef60fc0e568f0a2b15fabb5f235db",
+            "content": {
+                "en": "Begging God for the sweet release of death."
+            }
+        },
+        {
+            "id": "w_10a2a032bfe969e3f492770c884eb70af32aff44",
+            "content": {
+                "en": "Being a goddamn badass."
+            }
+        },
+        {
+            "id": "w_e2fd5a48db6dbc16918086219bd05328036be4c7",
+            "content": {
+                "en": "Being all stinky."
+            }
+        },
+        {
+            "id": "w_6cc18810a6afcc56a748e4a78aa6d4ee58ea4db3",
+            "content": {
+                "en": "Being impaled and escaping from death by the sheer power of my own will to live."
+            }
+        },
+        {
+            "id": "w_3f032fcdc2377e044d9ec65b2078698b78c467d8",
+            "content": {
+                "en": "Being missing and presumed dead."
+            }
+        },
+        {
+            "id": "w_32a45fe542e1d4b39999b3f6bb6caad173a42c32",
+            "content": {
+                "en": "Being so sad all the time."
+            }
+        },
+        {
+            "id": "w_e6ee81c647c38b72c65b1fca3f1f497fb5397784",
+            "content": {
+                "en": "Being tricked, backstabbed, and quite possibly bamboozled."
+            }
+        },
+        {
+            "id": "w_9f76d459816aa453f5ff875aeae66d5a9007852f",
+            "content": {
+                "en": "Biochemical warfare."
+            }
+        },
+        {
+            "id": "w_9af2b14eb38313774a15d2afff34c6caeb0fcffd",
+            "content": {
+                "en": "Bleeding and crying and stuff."
+            }
+        },
+        {
+            "id": "w_2ad5e92c24d61ff6c74acf6db5f8c43e9f495980",
+            "content": {
+                "en": "Bleeding everywhere."
+            }
+        },
+        {
+            "id": "w_849759e40063446cdb941e697d02be3a02d3f664",
+            "content": {
+                "en": "Blood and guts all over me."
+            }
+        },
+        {
+            "id": "w_3527548df126e98ef89efc1a1c5b8941d298ba35",
+            "content": {
+                "en": "Botching an execution."
+            }
+        },
+        {
+            "id": "w_32a83b101fddcdcd991b2f86e4d806ac2678870f",
+            "content": {
+                "en": "Burning a man&apos;s eyelids off with a hot iron."
+            }
+        },
+        {
+            "id": "w_a08a8349f6f4a3229c9de0a0aea165f94417ebc0",
+            "content": {
+                "en": "Burning half my face off with a waffle iron."
+            }
+        },
+        {
+            "id": "w_ccc0537e7053265d29c45dc3a68cb23438f91056",
+            "content": {
+                "en": "Burning people alive."
+            }
+        },
+        {
+            "id": "w_fe345e609367d281c4103998b0dbb15b70719251",
+            "content": {
+                "en": "Bustin' into tears."
+            }
+        },
+        {
+            "id": "w_cff531dbf3a0dcd81e8bd9f962bf94e8f0f4795c",
+            "content": {
+                "en": "Changing my pronouns to \"your majesty&rdquo;."
+            }
+        },
+        {
+            "id": "w_01d7eb087c123ce4b8b8e577d199ee63cf660f1f",
+            "content": {
+                "en": "Chaos and bloodshed."
+            }
+        },
+        {
+            "id": "w_9d098917ece5b5c463e486dc623b87d81ba606c7",
+            "content": {
+                "en": "Childhood innocence."
+            }
+        },
+        {
+            "id": "w_9af429011d5abd92a4e5bce205e28dd28a47e570",
+            "content": {
+                "en": "Chronic masturbation!"
+            }
+        },
+        {
+            "id": "w_71d838c70c91a16ba0fb6793225bd383a751c74d",
+            "content": {
+                "en": "Cicadas up the wazoo."
+            }
+        },
+        {
+            "id": "w_0e5af02ac44e1ccecbbd5bfa27bd783445a2e4b8",
+            "content": {
+                "en": "Closing my eyes for the last time."
+            }
+        },
+        {
+            "id": "w_aeabcccbd249bf373ade3f79730e5e2dcb767ab7",
+            "content": {
+                "en": "Collapsing in grief."
+            }
+        },
+        {
+            "id": "w_ffab39f7fff5485543411827c261890180503357",
+            "content": {
+                "en": "Coming into someone\u2019s life, making them care, and then just checking out."
+            }
+        },
+        {
+            "id": "w_20d2ee714b159c7d4dbe88d7d51d1a9dd116c2de",
+            "content": {
+                "en": "Confessing my sins."
+            }
+        },
+        {
+            "id": "w_3f8c63078a27d15101fa9a0b018e11bf465d5aaa",
+            "content": {
+                "en": "Crushing the skulls of enemies underfoot like autumn leaves."
+            }
+        },
+        {
+            "id": "w_268962d0a7fa8da9e138b54e0ba2510b6a13a2ed",
+            "content": {
+                "en": "Crying about the dead baby."
+            }
+        },
+        {
+            "id": "w_f611e285d8d452a3db246e1749237e99ff90105e",
+            "content": {
+                "en": "Crying in the shower."
+            }
+        },
+        {
+            "id": "w_2c30e76624a7f7f7a8bb825953f837c26732702a",
+            "content": {
+                "en": "Crying into a bottle of peach schnapps."
+            }
+        },
+        {
+            "id": "w_93af2b0beaa4ef3cb217309c3e6d0c8f345e0bdc",
+            "content": {
+                "en": "Cutting down children with a katana."
+            }
+        },
+        {
+            "id": "w_5e7c0c6808c03d573d056490ca69b3fed200c1fd",
+            "content": {
+                "en": "Cutting off a boy\u2019s tongue as a power move."
+            }
+        },
+        {
+            "id": "w_76833a0e5db0d503ba47408c66ef07ff78dab1fd",
+            "content": {
+                "en": "Dangling from a noose."
+            }
+        },
+        {
+            "id": "w_323fd6a6cbe0a1477ee3b84a36144354a5b503a9",
+            "content": {
+                "en": "Death on a scale that can only be described as \"biblical\"."
+            }
+        },
+        {
+            "id": "w_4fb942b604555cfaf70d9e11f153c95c502afde5",
+            "content": {
+                "en": "Debilitating childhood trauma."
+            }
+        },
+        {
+            "id": "w_6a4440575240d3055494fd8c44909afdbda7ae7f",
+            "content": {
+                "en": "Decapitating a farmer."
+            }
+        },
+        {
+            "id": "w_f0b1c51157e15067f0a725581e1a63b3edebb724",
+            "content": {
+                "en": "Decaying away into nothingness."
+            }
+        },
+        {
+            "id": "w_04a8d8d100a10c25b1b2c597f222e0fdd69c8acd",
+            "content": {
+                "en": "Demanding that everyone lower their weapons right now so we can talk this out."
+            }
+        },
+        {
+            "id": "w_dadccf6f66a72b32a3035203b85edf84384cba86",
+            "content": {
+                "en": "Dismemberment."
+            }
+        },
+        {
+            "id": "w_091adb3d656d12c643e00ada533e7dc63feb8190",
+            "content": {
+                "en": "Drifting in and out of consciousness."
+            }
+        },
+        {
+            "id": "w_5424573a5832c8e692cc0d2bcc0fb1ddd2ef964a",
+            "content": {
+                "en": "Dubious pseudoscientific nonsense."
+            }
+        },
+        {
+            "id": "w_c8a3c455c267d672852bc07eea679e63527ddd42",
+            "content": {
+                "en": "Dying in my bed surrounded by my friends and family."
+            }
+        },
+        {
+            "id": "w_07d8a4108c0864060b616305387357dbe6aab422",
+            "content": {
+                "en": "Dying right now in a fiery explosion due to the carelessness of a friend."
+            }
+        },
+        {
+            "id": "w_414d66c033d04652d13140ce4ffa4734f299aa7b",
+            "content": {
+                "en": "Eating many little girls."
+            }
+        },
+        {
+            "id": "w_43b765ea6cc1a2a12f8d10fd02f83b9613732cd8",
+            "content": {
+                "en": "Endless fields of corpses."
+            }
+        },
+        {
+            "id": "w_d943b9420a618fee7c6b6ad75eca46fc2555c0b5",
+            "content": {
+                "en": "Fairly violent seizures."
+            }
+        },
+        {
+            "id": "w_e2322d953d03180de5cbaba95f1dd40b08c08607",
+            "content": {
+                "en": "Falling down an elevator shaft."
+            }
+        },
+        {
+            "id": "w_c30d855b78ce489e121c095ea60436e4859abdca",
+            "content": {
+                "en": "Falling into a deathlike slumber for several months."
+            }
+        },
+        {
+            "id": "w_8c1c616dfa85533a70f35c96dc4fd8109c6cb8f1",
+            "content": {
+                "en": "Falling into a ravine."
+            }
+        },
+        {
+            "id": "w_854434027226ff0d53da0ab804e6e63db4afcbc5",
+            "content": {
+                "en": "Fear mongering."
+            }
+        },
+        {
+            "id": "w_82ed470d5a40f27592a5c8b5df1a7462fe18df45",
+            "content": {
+                "en": "Finding the strength to go on."
+            }
+        },
+        {
+            "id": "w_23f05bf20c7ac348c8401fdb8744e8f1a8ef144c",
+            "content": {
+                "en": "Gargling blood as I lie dying on the floor."
+            }
+        },
+        {
+            "id": "w_6cc93d61f251a94cd81d6df239b0144488f8266d",
+            "content": {
+                "en": "Getting bonked on the head and becoming unconscious."
+            }
+        },
+        {
+            "id": "w_16472ce4543136efc86554bebaa5c08bc51623a0",
+            "content": {
+                "en": "Getting caught in a bear trap."
+            }
+        },
+        {
+            "id": "w_09137ae58739eef2bc1fa3a535ef23f798afd3aa",
+            "content": {
+                "en": "Getting clubbed."
+            }
+        },
+        {
+            "id": "w_ef6582f11f2cca829a9e9b51f3dad5c7ad02b479",
+            "content": {
+                "en": "Getting everybody killed."
+            }
+        },
+        {
+            "id": "w_9f559fae812c18e44dc8ae09712c2c810ca3ddc8",
+            "content": {
+                "en": "God, guns, grits, and gravy."
+            }
+        },
+        {
+            "id": "w_7748709f5e13a70b71e9c69cc0f6bae60d6ce3bf",
+            "content": {
+                "en": "Going cannibal."
+            }
+        },
+        {
+            "id": "w_b9bcf14654751e0a28ec96e39c4c01c9b81564d7",
+            "content": {
+                "en": "Going fucking berserk."
+            }
+        },
+        {
+            "id": "w_0f4e52f7372f2ed666cf67db533d922ebb744105",
+            "content": {
+                "en": "Going out in a blaze of glory."
+            }
+        },
+        {
+            "id": "w_4c8ec658e4c82fa77db3c0fa93e1ce2e313f09de",
+            "content": {
+                "en": "Grunting in dismissal."
+            }
+        },
+        {
+            "id": "w_4f24124eb65a75247b27dfe3e2f79e2fc74c3698",
+            "content": {
+                "en": "Grunting repeatedly, like a man."
+            }
+        },
+        {
+            "id": "w_7ed863f055f7f01b611acd09351bd0c04480cb11",
+            "content": {
+                "en": "Hearing for the first time that my child bit someone."
+            }
+        },
+        {
+            "id": "w_34eedef7b3fbae3532cdfc4404d34f6338e843ca",
+            "content": {
+                "en": "Hiring the guy who made Ghost Rider 2: Spirit of Vengeance and just expecting everything to turn out okay."
+            }
+        },
+        {
+            "id": "w_6a624551768b0da497aa2f7967452b1f380aebc2",
+            "content": {
+                "en": "Holding me tight and telling me everything will be okay."
+            }
+        },
+        {
+            "id": "w_ac4a08e8e5edaa0174e057a8c47f56dc54cee128",
+            "content": {
+                "en": "How revolutionary trains were."
+            }
+        },
+        {
+            "id": "w_a91aafa85611091edffcba5a78c0e3b96ae251ee",
+            "content": {
+                "en": "Infant chunks."
+            }
+        },
+        {
+            "id": "w_9d7532ec0cbd4756da26752f29d50a91c4d30581",
+            "content": {
+                "en": "Just surviving somehow."
+            }
+        },
+        {
+            "id": "w_5cdc61124d027b209664bc04b1ad71e66a63c6c0",
+            "content": {
+                "en": "Killing all the men."
+            }
+        },
+        {
+            "id": "w_1b71b17dc0a38e6b708942b42e6e44cca95aee68",
+            "content": {
+                "en": "Killing someone and wearing their face."
+            }
+        },
+        {
+            "id": "w_a0e3c37a75c18dd9fe5c9c1e15898817d8928a8d",
+            "content": {
+                "en": "Killing without remorse."
+            }
+        },
+        {
+            "id": "w_c38eaecebcd8bff9642e2dea7b111fa5487f5fea",
+            "content": {
+                "en": "Latching onto a man&apos;s throat and biting out his pulsing jugular."
+            }
+        },
+        {
+            "id": "w_0fc05d7a110946819381ce83bee0a665abb50c13",
+            "content": {
+                "en": "Long, solemn silences."
+            }
+        },
+        {
+            "id": "w_4d17b8cbd43fb02eaf9747e18c5d08a60ad5eb23",
+            "content": {
+                "en": "Losing my favorite arm."
+            }
+        },
+        {
+            "id": "w_31959d1ac9abb84cf9e13dde30e4a745330679e3",
+            "content": {
+                "en": "Losing my grip on reality."
+            }
+        },
+        {
+            "id": "w_23c8e4aa96e915486a130b0d83ce68df4adbb507",
+            "content": {
+                "en": "Losing the will to live."
+            }
+        },
+        {
+            "id": "w_db968dfdeac612dad4bb44435329f50919b6db76",
+            "content": {
+                "en": "Lying down in the dirt and letting the earth slowly reclaim me."
+            }
+        },
+        {
+            "id": "w_c6f3adc05b1b3fbaa84136b37bf8c4adf7f28c59",
+            "content": {
+                "en": "Making an example of this kindly old man here."
+            }
+        },
+        {
+            "id": "w_02042e84df7bf2cca932de013508468f33a32fde",
+            "content": {
+                "en": "Mass graves."
+            }
+        },
+        {
+            "id": "w_28f172d36d92fea02ef23c154fdd9d4678b3f226",
+            "content": {
+                "en": "Masturbating to my dead spouse\u2019s final voicemail message."
+            }
+        },
+        {
+            "id": "w_8d9cad10b729d722db2d929010908a11158a78ee",
+            "content": {
+                "en": "Me and the other wolf boys."
+            }
+        },
+        {
+            "id": "w_24af85c0b25dd11c0f6547571ace8003d1850ae8",
+            "content": {
+                "en": "Meat from a can."
+            }
+        },
+        {
+            "id": "w_043147db1cabd12c844a1ae49541399ed613d971",
+            "content": {
+                "en": "Murmuring to myself that this isn't real, that this isn't happening, that I need to wake up."
+            }
+        },
+        {
+            "id": "w_7c58f4a621b027f2aa0f9af81844878ec1001896",
+            "content": {
+                "en": "My daddy, the congressman."
+            }
+        },
+        {
+            "id": "w_f9e0ca5aeb3433191b40dc2cac0135631dd8f68e",
+            "content": {
+                "en": "My first shower in months."
+            }
+        },
+        {
+            "id": "w_db840683b13704e2f34798c014a7154f803520b1",
+            "content": {
+                "en": "My slowly draining sanity."
+            }
+        },
+        {
+            "id": "w_d21864b347e1df02573cf45ea2c9a93ca6909448",
+            "content": {
+                "en": "My trusty hacksaw."
+            }
+        },
+        {
+            "id": "w_f8b3aaab0043142bfe3abeac550b839fe339d513",
+            "content": {
+                "en": "Napalm."
+            }
+        },
+        {
+            "id": "w_b6de9d3b3e300b6e1845087c2c1262bf6d64afbd",
+            "content": {
+                "en": "Nearly forming a coherent sentence."
+            }
+        },
+        {
+            "id": "w_0867643fd6542d2672acbeb135957198400f7c43",
+            "content": {
+                "en": "Needless cruelty."
+            }
+        },
+        {
+            "id": "w_d7fe9622d1e73d4b334769da4c747697ba2dfb96",
+            "content": {
+                "en": "Norman Reedus\u2019 son, Mingus Reedus."
+            }
+        },
+        {
+            "id": "w_f4d36ce9f4cfaf9c289e9ed5601d07cfd8173910",
+            "content": {
+                "en": "Ominous whistling."
+            }
+        },
+        {
+            "id": "w_961f4b2b72fefe057ab4fa6621ba2ecf4f74352c",
+            "content": {
+                "en": "Our capitalist overlords."
+            }
+        },
+        {
+            "id": "w_0560dbbc389bdc60a4b0d70c6b4598fbd1627607",
+            "content": {
+                "en": "Our most basic primal instincts."
+            }
+        },
+        {
+            "id": "w_c2be02728e299e8c06ca4b9cd884686a1caea9e3",
+            "content": {
+                "en": "Our random and cruel universe."
+            }
+        },
+        {
+            "id": "w_8cba07d42d1ed59b29be1823a43abef65e1fdca0",
+            "content": {
+                "en": "Partial decapitation."
+            }
+        },
+        {
+            "id": "w_1a52ff952ee06e76ce1775de50bda6833d50d061",
+            "content": {
+                "en": "Physical abuse."
+            }
+        },
+        {
+            "id": "w_634b15adf41970e8fa832d3178a26f08ace9925c",
+            "content": {
+                "en": "Punishment."
+            }
+        },
+        {
+            "id": "w_ea36363dc368e52ffd9e3e41daf6ba3d37d8f52c",
+            "content": {
+                "en": "Quietly sobbing around a mouthful of dick."
+            }
+        },
+        {
+            "id": "w_db2055d2b5bcdb91855d1a3ade2334eb0fabc6c4",
+            "content": {
+                "en": "Rapidly deteriorating peace talks."
+            }
+        },
+        {
+            "id": "w_c87812e8ab55bef26a276ee2d069e70742763e19",
+            "content": {
+                "en": "Raping, pillaging, and plundering."
+            }
+        },
+        {
+            "id": "w_6b7e88ca5df395d5c567d7039725f501a3268330",
+            "content": {
+                "en": "Realizing that I\u2019m the asshole."
+            }
+        },
+        {
+            "id": "w_8537d89a0622976c7ac8a2ca84d95d50f0be55cf",
+            "content": {
+                "en": "Refugees that aren't so bad after all."
+            }
+        },
+        {
+            "id": "w_268f676835b124db11fc741ad1a9aaa68037dc4c",
+            "content": {
+                "en": "Repopulating the earth."
+            }
+        },
+        {
+            "id": "w_a1909476ed838a2700e83d118be29bb8bae043d2",
+            "content": {
+                "en": "Rinsing off all the blood."
+            }
+        },
+        {
+            "id": "w_a79f64b3e914206ae2680a8a7985417fb4174603",
+            "content": {
+                "en": "Ripping an elderly boy open."
+            }
+        },
+        {
+            "id": "w_2460e247b517dd008c2de654f988c90a8cbef5ba",
+            "content": {
+                "en": "Ripping open a pregnant woman and tearing out the screaming blood-soaked fetus."
+            }
+        },
+        {
+            "id": "w_975e2a019f7d6c868fbe6a02591fdd514b7bca84",
+            "content": {
+                "en": "Rolling around in the grass because I am a severed head."
+            }
+        },
+        {
+            "id": "w_80f61d063eaa6819c9f87cabe915b3e1554e4810",
+            "content": {
+                "en": "Roundhouse kicking a man in the face."
+            }
+        },
+        {
+            "id": "w_0e54f607418738ab9e9d12bfdb048f3dcb8aba32",
+            "content": {
+                "en": "Scooting under a dumpster."
+            }
+        },
+        {
+            "id": "w_805049db2428fa874ae08197475fd5457392578a",
+            "content": {
+                "en": "Sensitive cowboys just looking for love."
+            }
+        },
+        {
+            "id": "w_5b5f5ba90603c32a6dd68a8a57bbccc92c7ebc4b",
+            "content": {
+                "en": "Several knives."
+            }
+        },
+        {
+            "id": "w_62510122829d56c6ab1a5a43c472448c77d74731",
+            "content": {
+                "en": "Shit that happens."
+            }
+        },
+        {
+            "id": "w_d08d0a53fa5d820aab52b4bbfaf49326b985f672",
+            "content": {
+                "en": "Shock value."
+            }
+        },
+        {
+            "id": "w_dfee75250d091a028375a7d6b9b5b39acbab4de1",
+            "content": {
+                "en": "Shooting a propane tank and it&apos;s exploding and now we\u2019re all on fire."
+            }
+        },
+        {
+            "id": "w_769e89ca62e14e0657a64110cafc59ba0fbc83a9",
+            "content": {
+                "en": "Shooting on sight."
+            }
+        },
+        {
+            "id": "w_18a436379b0a9f77ea7462e0739cdbb7b0725f3e",
+            "content": {
+                "en": "Shooting people with guns like a big boy."
+            }
+        },
+        {
+            "id": "w_c27c35ba5c183b13e7b56e7703e38770f982eef0",
+            "content": {
+                "en": "Shuffling off this mortal coil."
+            }
+        },
+        {
+            "id": "w_bf056ca9c793d2773a6dc44962d8df78ff36ff8d",
+            "content": {
+                "en": "Signing up for AMC Premiere and then regretting signing up for AMC Premiere."
+            }
+        },
+        {
+            "id": "w_af9ce0c8e7a8f653efad3d7b4857715fd9fb2c62",
+            "content": {
+                "en": "Sitting in the corner and thinking about what you've done."
+            }
+        },
+        {
+            "id": "w_6a781e742aa23425a4ccc45b3e70bdfcdde0509a",
+            "content": {
+                "en": "Skin. Just the skin."
+            }
+        },
+        {
+            "id": "w_897292dc299cf40da84b6a9ec78de50ecc24c63f",
+            "content": {
+                "en": "Slamming into a table and perishing."
+            }
+        },
+        {
+            "id": "w_41de5fb855e9dcbfd651a6b430f89e2f5510545d",
+            "content": {
+                "en": "Slowly bleeding out."
+            }
+        },
+        {
+            "id": "w_f317fe3b0c967a9af30af2d77cf33391cc5cf9ed",
+            "content": {
+                "en": "Slowly rotating on a stick over a roaring fire."
+            }
+        },
+        {
+            "id": "w_e89a16fdcaf64520fb00fbfb2692382525864c66",
+            "content": {
+                "en": "Slowly wringing the life out of this fella."
+            }
+        },
+        {
+            "id": "w_fa35e8c730f7123301730125bf94da6d66f973aa",
+            "content": {
+                "en": "Smashing into a window at full speed."
+            }
+        },
+        {
+            "id": "w_6899441ce515fc7eeab171d2b243f57ca1cc92ba",
+            "content": {
+                "en": "Society."
+            }
+        },
+        {
+            "id": "w_14df9496fcec809f66919ae5162071b20ef115ff",
+            "content": {
+                "en": "Southern values."
+            }
+        },
+        {
+            "id": "w_1e9103f67328bd0e1dc97413df9063a4e0aed7a2",
+            "content": {
+                "en": "Spending quality time at home with what remains of my family."
+            }
+        },
+        {
+            "id": "w_594689ab9f0fee16a2364e96339818c65978fb9e",
+            "content": {
+                "en": "Spluttering and convulsing."
+            }
+        },
+        {
+            "id": "w_28281768f54cf9b48e4adb373edb8c78414e110c",
+            "content": {
+                "en": "Spreading Socialism to all who will listen."
+            }
+        },
+        {
+            "id": "w_b0805f9125de1998443e89e5481016f2d8f6db0d",
+            "content": {
+                "en": "Stabbing me with knives."
+            }
+        },
+        {
+            "id": "w_5dcad09e7baa5235657154dad456ab076bda0656",
+            "content": {
+                "en": "Still being alive, I guess."
+            }
+        },
+        {
+            "id": "w_2eae063b12831f4f88c9b709be8e1a8609708d67",
+            "content": {
+                "en": "Stuff and things."
+            }
+        },
+        {
+            "id": "w_9bc6d43574968e2fabafa49d321ad82fbca51f9e",
+            "content": {
+                "en": "Suddenly being forty years old."
+            }
+        },
+        {
+            "id": "w_144c5567f1083f05dbe963be576355c9c8b11388",
+            "content": {
+                "en": "Suffering."
+            }
+        },
+        {
+            "id": "w_0239e3d6f3c9277028e3987a8a5224763e7ac8c8",
+            "content": {
+                "en": "Taking a head as a trophy."
+            }
+        },
+        {
+            "id": "w_ca7f43270d963f721a6072680acb0c09ed8da001",
+            "content": {
+                "en": "Tearfully putting down my best bro."
+            }
+        },
+        {
+            "id": "w_05fa960a30675db574d76a4998810e7e8c6cc4c1",
+            "content": {
+                "en": "The baby inside me."
+            }
+        },
+        {
+            "id": "w_7d5ed5100f0805dac3a21daca28c784d08603d07",
+            "content": {
+                "en": "The benefits of suicide."
+            }
+        },
+        {
+            "id": "w_8c7e3302f4b477c84e3e654e9e1e645d29ac66f9",
+            "content": {
+                "en": "The blood. Oh God, the blood."
+            }
+        },
+        {
+            "id": "w_c91b8e70c8d15e0343c18e19cbaac3d35fb1a761",
+            "content": {
+                "en": "The choke hold."
+            }
+        },
+        {
+            "id": "w_587d6a166131ecaa2c546cbdcc0fdb210581e620",
+            "content": {
+                "en": "The easy way out."
+            }
+        },
+        {
+            "id": "w_42ff01f386d50516489bd9f63318eb75596eba16",
+            "content": {
+                "en": "The eerie squelch that emanates from a grown man\u2019s head when you crush his temple with a crowbar."
+            }
+        },
+        {
+            "id": "w_8fdde81eb0b0c75e8d1d15d9fe782565ae500893",
+            "content": {
+                "en": "The end of civilization."
+            }
+        },
+        {
+            "id": "w_2c2fc9481153671daa1f510c001b6756ebeb24f2",
+            "content": {
+                "en": "The end of the fucking world."
+            }
+        },
+        {
+            "id": "w_7d00a59d0a77f267d7eb04f8d0c3d30d60021c12",
+            "content": {
+                "en": "The gallows."
+            }
+        },
+        {
+            "id": "w_1383768db7df343bf94ec113b9c1ad21a554dbcc",
+            "content": {
+                "en": "The guilt that pervades my very being."
+            }
+        },
+        {
+            "id": "w_d1661ec16d36b08cfdad3554bc77ea5ed54da376",
+            "content": {
+                "en": "The gun I keep on my person at all times."
+            }
+        },
+        {
+            "id": "w_043c067e96275aee7f8b389a99f33622d40207c9",
+            "content": {
+                "en": "The inherent trust I place in my father."
+            }
+        },
+        {
+            "id": "w_fb7a4b48373cb776afd2994ab93d5d053738cff9",
+            "content": {
+                "en": "The lone desperado riding into town."
+            }
+        },
+        {
+            "id": "w_a6f5d0827bf7e8fc5ab86858c5452e175bed2179",
+            "content": {
+                "en": "The moral ambiguity of my violent actions."
+            }
+        },
+        {
+            "id": "w_52a6a6d55defc44d087a5a08e0098265ae299415",
+            "content": {
+                "en": "The most powerful thing of all: friendship."
+            }
+        },
+        {
+            "id": "w_388452b2d8d85ff40f4ecf0ecd193f21d9978b44",
+            "content": {
+                "en": "The piked skull of the last person who dared cross into our land."
+            }
+        },
+        {
+            "id": "w_ea8c4c9edd26fbef4149266b164c5ba983ca54c4",
+            "content": {
+                "en": "The pleasure I experience from dissecting my sibling."
+            }
+        },
+        {
+            "id": "w_2174d0fa6b49fa83a08877fc8f6b70fcbd2078dc",
+            "content": {
+                "en": "The rash and emotionally driven impulses of a thirteen-year-old boy."
+            }
+        },
+        {
+            "id": "w_700e69137c8a888e9c1beaf023c093a57b2236e9",
+            "content": {
+                "en": "The reality that we're all going to die, and there will be no one to remember our stories."
+            }
+        },
+        {
+            "id": "w_ec55591516e2c6321cdf3b7bb0f9a63859cf97cd",
+            "content": {
+                "en": "The smell of rotting meat."
+            }
+        },
+        {
+            "id": "w_7a70cc7fff9aa1933b0ce53751609aaa7b652a7a",
+            "content": {
+                "en": "The sound of breaking bones."
+            }
+        },
+        {
+            "id": "w_5edb3903f82871955a23efbd8b1696f3525806c3",
+            "content": {
+                "en": "The visceral pleasure of revenge."
+            }
+        },
+        {
+            "id": "w_8d8105560520b65c735d2a1a0bb79a78d6044b5c",
+            "content": {
+                "en": "This curious and highly inventive structure called a windmill."
+            }
+        },
+        {
+            "id": "w_a74c7039a399f7d9b7752cd27fcbcee252051db7",
+            "content": {
+                "en": "This red machete that I promised to kill you with."
+            }
+        },
+        {
+            "id": "w_b34e95d0143f8c30c5dcd4fd1d5242a724e2e413",
+            "content": {
+                "en": "Unnecessary profanity."
+            }
+        },
+        {
+            "id": "w_342960ac25bd77681a8b023ee6dcc18a3e777da8",
+            "content": {
+                "en": "Visiting my son in prison."
+            }
+        },
+        {
+            "id": "w_98c0ff77164f6c1d00b8950fcc109dafc9fa19c1",
+            "content": {
+                "en": "Waking up in an abandoned hospital."
+            }
+        },
+        {
+            "id": "w_f90aaf9273d2450b28547f9f956dba5d478955a4",
+            "content": {
+                "en": "Wearing a trench coat to let everyone know you\u2019re hip and mysterious."
+            }
+        },
+        {
+            "id": "w_a0ec93cfe88866d11001b05c1ae638b8c8ec8511",
+            "content": {
+                "en": "Wearing an eyepatch and being a bad guy."
+            }
+        },
+        {
+            "id": "w_383d3d9eefaaab5d3d2878ffe120f5353feae805",
+            "content": {
+                "en": "Wearing skin suits to infiltrate their ranks."
+            }
+        },
+        {
+            "id": "w_325cf6f34458edcb36d083e555d93b8a4a0d3b04",
+            "content": {
+                "en": "Wearing the ears of the men I\u2019ve killed."
+            }
+        },
+        {
+            "id": "w_fd86e20b149002b5b72d4bec961bc1256cd373d1",
+            "content": {
+                "en": "Wrapping barbed wire around a baseball bat to memorialize my cancer-stricken wife and beating an Asian boy to death with it."
+            }
+        },
+        {
+            "id": "b_5cabe2bdd50866de73f791e4af4e1b6776970f31",
+            "content": {
+                "en": "Don\u2019t open, ______ inside."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f15645fd4f27cc93e1cb7fd8f87afb39b8494ddf",
+            "content": {
+                "en": "I can\u2019t profess to understand God\u2019s plan. Christ promised the resurrection of the dead. I just thought He had ______ in mind."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f5cc29423326571090732bc66896bb27c50ce37",
+            "content": {
+                "en": "I\u2019m looking for my family. They\u2019re ______. Can you help me?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_40dc9a4ead7f1fec18d7385cf5620958ade754b8",
+            "content": {
+                "en": "Listen, damnit. You step outside, you risk your life. You take a drink of water, you risk your life. And nowadays you breathe, and you risk your life. Every moment now you don't have a choice. The only thing you can choose is what you're risking it for: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_90f2f8228c27d79e9b8c841a12a515a9470b9da8",
+            "content": {
+                "en": "Mother Fuckers. They're going to feel pretty stupid when they find out they're fucking with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1862f2592d8ea1238c280989e3f3f08743e36611",
+            "content": {
+                "en": "There&apos;s no way you can ever be ready for it. I try to be, but I can't. The best we can do now is avoid ______ as long as we can, keep one step ahead."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_60ab41a997794c17b7f66c0d80fa6549f09a740d",
+            "content": {
+                "en": "This is how we survive: we tell ourselves that we are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b3c03f2a793114d1bf46d11a79155417f39cd5a",
+            "content": {
+                "en": "What happens when the countdown reaches zero? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_87552d33202ea09233c0b372bff4fb85e985079d",
+            "content": {
+                "en": "When you care about people, ______ is kind of part of the package."
+            },
+            "pick": 1
+        }
+    ]
+}

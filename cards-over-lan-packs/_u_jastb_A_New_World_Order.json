@@ -1,0 +1,144 @@
+{
+    "id": "_u_jastb_A_New_World_Order",
+    "name": "\/u\/jastb A New World Order",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_c92aa9e8d0dc629bf51443230a25a9f7f0df65b9",
+            "content": {
+                "en": "A do-nothing Congress."
+            }
+        },
+        {
+            "id": "w_1ca17ae80151829c532b2e735b51f669997a4ea2",
+            "content": {
+                "en": "A never ending tax audit."
+            }
+        },
+        {
+            "id": "w_883fea86e156a1a5813a9a2f3eb90eab4ed429d0",
+            "content": {
+                "en": "A Presidential appointment that makes both MSNBC and Fox News anchors cry for the same reason."
+            }
+        },
+        {
+            "id": "w_f4bc6428757b42852983ea9217ff8b153f406aee",
+            "content": {
+                "en": "A White House So White."
+            }
+        },
+        {
+            "id": "w_c3cc635808fa2c23a0cd5eb9cb5fa0c4946ade7b",
+            "content": {
+                "en": "Americans"
+            }
+        },
+        {
+            "id": "w_1a7808e6858a9e217720753a2463dbd036e1a8c8",
+            "content": {
+                "en": "An arrogance so great even Vladimir Putin does a double take."
+            }
+        },
+        {
+            "id": "w_d38111912bf4b8bff48cb32206c1b15cca73ac28",
+            "content": {
+                "en": "Being a puppet of the far Right."
+            }
+        },
+        {
+            "id": "w_1d46de09692241913e4ea4fe933c48ca79227a30",
+            "content": {
+                "en": "Canada building a wall at their own expense to keep illegal immigrants from the United States out as they flee a Trump Presidency."
+            }
+        },
+        {
+            "id": "w_1e8e32d602fc9ad445c060b2c99be10fd752c85a",
+            "content": {
+                "en": "Canadians"
+            }
+        },
+        {
+            "id": "w_e2787c99c5a89abd63d46601c80bff1e95e428d5",
+            "content": {
+                "en": "Donald Trump"
+            }
+        },
+        {
+            "id": "w_5815d433ccd8c515c140d4843bf7db7e5e84fd06",
+            "content": {
+                "en": "Fulfilling political promises... from a certain point of view."
+            }
+        },
+        {
+            "id": "w_b42e6ebe9a154c9efac77a796d64fd667f621ee4",
+            "content": {
+                "en": "Locker room talk."
+            }
+        },
+        {
+            "id": "w_f9c80ff83a11c33c4f3ef30344473b2d308bc63f",
+            "content": {
+                "en": "Making America Great Again."
+            }
+        },
+        {
+            "id": "w_5668fdfb907aaf6266128678d8ac7c5a6069ef6f",
+            "content": {
+                "en": "Texans"
+            }
+        },
+        {
+            "id": "w_96ee6ea994f287b1f5ddf9bc9c24c2ab45773f6a",
+            "content": {
+                "en": "The cast of Hamilton lecturing the Executive branch on the constitution."
+            }
+        },
+        {
+            "id": "w_31e0976de6ed9191b460adf7c9cc6dd76c7951fe",
+            "content": {
+                "en": "The murderers, the drug dealers, the rapists."
+            }
+        },
+        {
+            "id": "w_805ecab0ffd1878c9afd1726a88d87e4030e7bb9",
+            "content": {
+                "en": "Trying to explain to a 5-year old why mommy and daddy have to leave the country."
+            }
+        },
+        {
+            "id": "w_24f4ef2e2c58debe1095c615bd95ba2e6c816447",
+            "content": {
+                "en": "Watching the Simpsons episode where Lisa Simpson foretells the future."
+            }
+        },
+        {
+            "id": "w_ec45b08c5204c3610145297602320f80e83fb311",
+            "content": {
+                "en": "Winning the popular vote but losing the election... twice in two decades."
+            }
+        },
+        {
+            "id": "b_ae7f778105502e9af3888fe0393572fcdc1f9c8d",
+            "content": {
+                "en": "A Twitter war with POTUS that results in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f1b6dce94120deeebc5e7ab31430dc8ec8c0ace",
+            "content": {
+                "en": "I&apos;m surprised President Trump&apos;s first executive action wasn't ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a8d53ab768b8092a4512fb937476115173ec26ca",
+            "content": {
+                "en": "Now I know why Mexico&apos;s willing to build the wall at their own expense... it&apos;s to keep ______ out."
+            },
+            "pick": 1
+        }
+    ]
+}

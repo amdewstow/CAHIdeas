@@ -1,0 +1,72 @@
+{
+    "id": "Thanksgiving",
+    "name": "Thanksgiving",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_4709a98f027ea3654f0b4d2d21e53940ae8396e3",
+            "content": {
+                "en": "Celebrating genocide by eating turkey with friends and family"
+            }
+        },
+        {
+            "id": "w_7784ea05acdecea9e953582d0d9c09aa9ef1765b",
+            "content": {
+                "en": "eating an entire turkey all on your own."
+            }
+        },
+        {
+            "id": "w_ea8e548c0261a5c368a69f2be9d0d9ba70248989",
+            "content": {
+                "en": "Enduring your family&apos;s racist comments to try and maintain the 'Happy Holidays' vibe."
+            }
+        },
+        {
+            "id": "w_7a4bc389afe7963010ef62fdc12f6908a86e3c54",
+            "content": {
+                "en": "Stuffing a turkey by making sweet love to its hollowed carcass."
+            }
+        },
+        {
+            "id": "w_7d221f3b67756a8f6003dba39e1a4e938bdb23fb",
+            "content": {
+                "en": "Taking bets with the family on how long before Christmas your sister dumps her Boyfriend of the year."
+            }
+        },
+        {
+            "id": "w_c618e89cfd66c7cb42e02620bc801ab2e3e674c7",
+            "content": {
+                "en": "The Christmas shadow that shows up in early October."
+            }
+        },
+        {
+            "id": "w_e5813db708e1b0536d1c1a817da8d17bdf18c700",
+            "content": {
+                "en": "The sense of holiday spirit you feel when buried to the hilt in the cold, uncooked guts of your thanksgiving turkey"
+            }
+        },
+        {
+            "id": "b_f5baa514bb87eaf3aed94211abee4b59af8b8ef5",
+            "content": {
+                "en": "For a Thanksgiving meal your family will be talking about all year, try stuffing the turkey with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_977e6e61864fb0e889f2b469a1b5a36b68826939",
+            "content": {
+                "en": "this year on Black Friday I got an incredible deal on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ec3bd1a920bcc4c11e20ec58d0c9878f9ce45914",
+            "content": {
+                "en": "What did Michael Jackson get 50% off on Black Friday?"
+            },
+            "pick": 1
+        }
+    ]
+}

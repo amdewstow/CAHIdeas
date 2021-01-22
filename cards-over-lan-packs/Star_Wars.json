@@ -1,0 +1,1472 @@
+{
+    "id": "Star_Wars",
+    "name": "Star Wars",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_9032b99aaee124304a754008cc5ae35c47056452",
+            "content": {
+                "en": "A big fish."
+            }
+        },
+        {
+            "id": "w_717fe5387f6e302b417da1b1027413916bc3bc16",
+            "content": {
+                "en": "A bigger fish."
+            }
+        },
+        {
+            "id": "w_e0304b8090c8a87f48f7a9fda044762b58012242",
+            "content": {
+                "en": "A double murder government barbecue."
+            }
+        },
+        {
+            "id": "w_a9788f3aa6bfc5c951e60331ae307f76184947b6",
+            "content": {
+                "en": "A fish even bigger than the biggest fish."
+            }
+        },
+        {
+            "id": "w_f688750095642b2b59893775651124fe6dd699ec",
+            "content": {
+                "en": "A fish."
+            }
+        },
+        {
+            "id": "w_f0ab4b5dae558ab68b15c0148b705c97913604b5",
+            "content": {
+                "en": "A giant tape worm!"
+            }
+        },
+        {
+            "id": "w_e15faf4405b288ee102f8a88dfcbb42422233dec",
+            "content": {
+                "en": "A grown man throwing a temper tantrum."
+            }
+        },
+        {
+            "id": "w_3c5c5d4cb56cc96d10d8292525b51acbf60627d9",
+            "content": {
+                "en": "A hallway full of corpses."
+            }
+        },
+        {
+            "id": "w_4f38ba101ffa435bd3e004e2340f70ed4b27c798",
+            "content": {
+                "en": "A hilarious name that correlates accurately to your body mass."
+            }
+        },
+        {
+            "id": "w_47f282fb2cb3cddd9ee05bad76a85fce8251afb6",
+            "content": {
+                "en": "A J.J. Abrams lens flare."
+            }
+        },
+        {
+            "id": "w_21a4f8bfddaf6894bd529a2d0b3d8e8bc2ee134d",
+            "content": {
+                "en": "A man of your talents."
+            }
+        },
+        {
+            "id": "w_6985f1099377537b0bc43501f9eab5444a3f4c98",
+            "content": {
+                "en": "A man with a scrotum where his face should be and a face where his scrotum should be."
+            }
+        },
+        {
+            "id": "w_727f6ce3839ba33b3106b40a93395a823398294f",
+            "content": {
+                "en": "A metaphor for Jesus."
+            }
+        },
+        {
+            "id": "w_e7fd3b10bc5936bb6d77a0fdfd7b3c05be8ff8dd",
+            "content": {
+                "en": "A random coughing fit."
+            }
+        },
+        {
+            "id": "w_fbc6db254ed0ec43e6aa8f4f2e41a8837a012a03",
+            "content": {
+                "en": "A sand vagina with a beak."
+            }
+        },
+        {
+            "id": "w_f83c53db611ce42cc822463393cd52cf14b25f31",
+            "content": {
+                "en": "A shitty family reunion."
+            }
+        },
+        {
+            "id": "w_a6ce9a0e7a4e8c8e6dfffd5261c6d7e77f5ff1d7",
+            "content": {
+                "en": "A spooky severed hand!"
+            }
+        },
+        {
+            "id": "w_54d4d826d23a5da348288ce92fb15f776768b2bd",
+            "content": {
+                "en": "A thicc boi."
+            }
+        },
+        {
+            "id": "w_46e0df555b9f453720e4f746a304a7e67c34eff6",
+            "content": {
+                "en": "A vehicle that is just a wheel."
+            }
+        },
+        {
+            "id": "w_1b95a36abe43667d74cb5106b89b14640c3aad49",
+            "content": {
+                "en": "A welcome surprise."
+            }
+        },
+        {
+            "id": "w_72c77f61d99bca2f381d138d7c7ad68fc45c497a",
+            "content": {
+                "en": "A wise peace-loving monk that teaches children to kill for the government."
+            }
+        },
+        {
+            "id": "w_1a813c3e8b9d1b3fd7da4616035da83a12917e21",
+            "content": {
+                "en": "An army of live teddy bears."
+            }
+        },
+        {
+            "id": "w_2cf6d60060d7b7407862bdd2065d0ac9b276aa58",
+            "content": {
+                "en": "An entire orchestral choir&apos;s collective screams."
+            }
+        },
+        {
+            "id": "w_95d97d67c5a9486868ef7f747d5bf37c7d4610f8",
+            "content": {
+                "en": "An even older hermit man who legitimately is not a pedophile."
+            }
+        },
+        {
+            "id": "w_ddc2d7beb1d877115f228364ec58b185d6863027",
+            "content": {
+                "en": "An octopus that can read minds."
+            }
+        },
+        {
+            "id": "w_42cc10fde39bdec0dbac4d1efecc16d3019eb76f",
+            "content": {
+                "en": "An old hermit man who is definitely not a pedophile."
+            }
+        },
+        {
+            "id": "w_e4ca605685d3f8da8470bc234c7534e7c46aa1f4",
+            "content": {
+                "en": "Ancient weapons and hokey religions."
+            }
+        },
+        {
+            "id": "w_0bd67cc0e30be9dd5016c927d4d79ba21675b6d3",
+            "content": {
+                "en": "Asthma."
+            }
+        },
+        {
+            "id": "w_64847d4250bcbe1dfabe923f9e277406a50823ff",
+            "content": {
+                "en": "Attempted suicide."
+            }
+        },
+        {
+            "id": "w_ad84853296423e82cc8a5a98be0a3d1c68d43146",
+            "content": {
+                "en": "Auditory and visual hallucinations."
+            }
+        },
+        {
+            "id": "w_cf142ad7b512062d82eb6a7896b31677e4a294b9",
+            "content": {
+                "en": "Being an orphan."
+            }
+        },
+        {
+            "id": "w_6135d7f9a6bbea1e5f5ba527e83357ff0bae6bcf",
+            "content": {
+                "en": "Being serenaded by a shirtless John Williams."
+            }
+        },
+        {
+            "id": "w_7cf2fda2acad946787055044dd13db57e62eeb56",
+            "content": {
+                "en": "Being short."
+            }
+        },
+        {
+            "id": "w_58123024d5cc0525a5737361bba77cfe54d36a5f",
+            "content": {
+                "en": "Being watched."
+            }
+        },
+        {
+            "id": "w_d97abfa6972a13b1c2e606b9aeae2f3573c371f0",
+            "content": {
+                "en": "Black protagonists."
+            }
+        },
+        {
+            "id": "w_32a4a677ee410d889c7cd59e6bbbbbb5e8ad2a76",
+            "content": {
+                "en": "Blowing this thing and going home."
+            }
+        },
+        {
+            "id": "w_d89e588a9e54bec9d43740fff83c5020c119ffec",
+            "content": {
+                "en": "Blowing up from the inside."
+            }
+        },
+        {
+            "id": "w_8976dd35a76fb931c4ffa80f863f95c3fabeceb3",
+            "content": {
+                "en": "Blue milk."
+            }
+        },
+        {
+            "id": "w_37abaabf46df462080426b0e83b3758e7a605ce8",
+            "content": {
+                "en": "Carrie Fisher&apos;s coke nail."
+            }
+        },
+        {
+            "id": "w_3dc52af3c45f5dac89a566f907de1474e624a217",
+            "content": {
+                "en": "Carrie Fisher&apos;s dog."
+            }
+        },
+        {
+            "id": "w_5cd3fe41e8f5ab857f7e0ad333ab41d04076bc77",
+            "content": {
+                "en": "Changing your entire world view over the course of a thirty second opera montage."
+            }
+        },
+        {
+            "id": "w_5d4f125cc0c1935427b39100e1be40159fe8e29f",
+            "content": {
+                "en": "Chest-high pants."
+            }
+        },
+        {
+            "id": "w_2acc5e01ef440abc82a4d4684e5a11044dc1e2dd",
+            "content": {
+                "en": "Child soldiers."
+            }
+        },
+        {
+            "id": "w_970acb2e65f252a7c7d1df9811ad6bb08fd91618",
+            "content": {
+                "en": "Choking people with your mind."
+            }
+        },
+        {
+            "id": "w_391e087039cd9f12021810f641ea60b17d86ae5d",
+            "content": {
+                "en": "Concentrating really hard."
+            }
+        },
+        {
+            "id": "w_d057ddd1928e58c0c1bd843e377dcd6c4ab3d319",
+            "content": {
+                "en": "Cutting a bitch."
+            }
+        },
+        {
+            "id": "w_d097b17f614604378880a444b8b09b3cffb15779",
+            "content": {
+                "en": "Daddy touching his wand to mine."
+            }
+        },
+        {
+            "id": "w_3daa9cc5f3ff887eb0d0ed2d855efef8a339e0ef",
+            "content": {
+                "en": "Daddy&apos;s severed head."
+            }
+        },
+        {
+            "id": "w_aaf6b950ae95a83174829f94347acfd9979bf0e9",
+            "content": {
+                "en": "Dating within the workplace."
+            }
+        },
+        {
+            "id": "w_f030699371a1fb73b6b02c48dfa8f1d82475f463",
+            "content": {
+                "en": "Defenestration."
+            }
+        },
+        {
+            "id": "w_7b3d58ced475af09f9e11f50bb7571770dbf8b55",
+            "content": {
+                "en": "Disney milking cash off CGI copies of you long after your death."
+            }
+        },
+        {
+            "id": "w_b6a29d4f2436e678d5395fe93d9a07ad06b63364",
+            "content": {
+                "en": "Disney&apos;s first-ever onscreen anus."
+            }
+        },
+        {
+            "id": "w_e85ef130ae88a3c35554647bec8ff6bc0b942625",
+            "content": {
+                "en": "Doing what you're told."
+            }
+        },
+        {
+            "id": "w_050aac9f2de6c6c5fb89f26a26f037b4914317e3",
+            "content": {
+                "en": "Drinking straight from the udder."
+            }
+        },
+        {
+            "id": "w_59490dddf17f7bfb4fe3ca22fd7763dad9f45bb3",
+            "content": {
+                "en": "Drug money."
+            }
+        },
+        {
+            "id": "w_b065a3c0c3bb26e29f2003ef24780270147137ae",
+            "content": {
+                "en": "Dying because you're sad."
+            }
+        },
+        {
+            "id": "w_f04c8ccd2104e1cc5bc6c45f4102ea813160ff54",
+            "content": {
+                "en": "Dying in combat."
+            }
+        },
+        {
+            "id": "w_3bcd7aa29425b3c1dc2034f126eb4c384c470921",
+            "content": {
+                "en": "Dying in moonlight, strangled by your own bra."
+            }
+        },
+        {
+            "id": "w_00630821a3520dd86b6373bdc6e4d74cdddff9c9",
+            "content": {
+                "en": "Eloping."
+            }
+        },
+        {
+            "id": "w_3de2670c8a178095e5500584cf56cd2655fc024b",
+            "content": {
+                "en": "Embracing evil for economic gains."
+            }
+        },
+        {
+            "id": "w_4592654009ee9f20616fea9653945f87892dab4f",
+            "content": {
+                "en": "Ewan McGregor&apos;s tight asshole."
+            }
+        },
+        {
+            "id": "w_98254004af5ce142eaf8e39c5de4115c9dafda9e",
+            "content": {
+                "en": "Fading away into nothingness."
+            }
+        },
+        {
+            "id": "w_197d69967299291213b937340998949d8877439f",
+            "content": {
+                "en": "Failing to think things through."
+            }
+        },
+        {
+            "id": "w_e2322d953d03180de5cbaba95f1dd40b08c08607",
+            "content": {
+                "en": "Falling down an elevator shaft."
+            }
+        },
+        {
+            "id": "w_db17b5b20d34fd18ce0a8404e429b1f560466f24",
+            "content": {
+                "en": "Female role models."
+            }
+        },
+        {
+            "id": "w_6c607287c886c4d8a6c72f7a636db29c322f5942",
+            "content": {
+                "en": "Firing my load right in the hole."
+            }
+        },
+        {
+            "id": "w_a22884d4f39a02a91c6024cc80fbf1d5242420be",
+            "content": {
+                "en": "Flying half a ship."
+            }
+        },
+        {
+            "id": "w_f06f00d2c35a161bed421759460e8e911b46f695",
+            "content": {
+                "en": "Following your dreams."
+            }
+        },
+        {
+            "id": "w_99931348d653bfa2e4b3bf8b03bd6e5132d90577",
+            "content": {
+                "en": "Formulating a successful battle plan in less than thirty seconds."
+            }
+        },
+        {
+            "id": "w_f57737d1ecb2b8bbb500ecfec65c25c91be52904",
+            "content": {
+                "en": "Fratricide."
+            }
+        },
+        {
+            "id": "w_7427e846313171ca924466abdee87ee332379c71",
+            "content": {
+                "en": "Furries... in space!"
+            }
+        },
+        {
+            "id": "w_16e067c86de0e58cb1e532f6cc2fe4b800b4e920",
+            "content": {
+                "en": "Gambling on a child&apos;s life."
+            }
+        },
+        {
+            "id": "w_010421d38e85cbb561c5aa112905be22979f3d4d",
+            "content": {
+                "en": "George Lucas' idea of romance."
+            }
+        },
+        {
+            "id": "w_aef2c6029657ade853a977059fe5e8cb34209679",
+            "content": {
+                "en": "George Lucas' thought process."
+            }
+        },
+        {
+            "id": "w_a50a28808f116d9e4e392dfd27491b306a1bd784",
+            "content": {
+                "en": "Getting betrayed."
+            }
+        },
+        {
+            "id": "w_93478dcdb5e42e2f203a5930ea651e6b443515dc",
+            "content": {
+                "en": "Getting choked by your sex slave like the bad bad master you are."
+            }
+        },
+        {
+            "id": "w_d613c5116c2c59c7d7b794eabbf05e296eb81dd1",
+            "content": {
+                "en": "Getting cut in half."
+            }
+        },
+        {
+            "id": "w_abfa5d158f17c5b5b6a25a292ccf986ffa6fc5fe",
+            "content": {
+                "en": "Getting frozen."
+            }
+        },
+        {
+            "id": "w_0ad0377861a8b256358479a6c3b506680369116a",
+            "content": {
+                "en": "Getting hit on by a nine year old."
+            }
+        },
+        {
+            "id": "w_6b2d3d55dd5d0f432e30b724cac62aab8977b904",
+            "content": {
+                "en": "Getting knocked the fuck out."
+            }
+        },
+        {
+            "id": "w_ffbbea500db3e6533eeef45a6bf2878e046cddb0",
+            "content": {
+                "en": "Getting mauled."
+            }
+        },
+        {
+            "id": "w_c93187377955b4fecf107aef1a95b496b2445fd2",
+            "content": {
+                "en": "Getting put up for adoption."
+            }
+        },
+        {
+            "id": "w_425353e97bf408c42bc8fa616317c9321442cabc",
+            "content": {
+                "en": "Getting radicalized and joining a violent religion to justify mass murder and the annihilation of a democratically elected government."
+            }
+        },
+        {
+            "id": "w_209d560b339fa35a38b0dff342b6eee85f58d33a",
+            "content": {
+                "en": "Getting smashed like the bad dirty garbage you are."
+            }
+        },
+        {
+            "id": "w_8f8892ff3bb3e4be62b4407ceb2a6b684cd22994",
+            "content": {
+                "en": "Getting sold to the highest bidder."
+            }
+        },
+        {
+            "id": "w_dbf1bc2daaea22bd59baa72df7d7122fc789c73d",
+            "content": {
+                "en": "Getting stuck in the elevator."
+            }
+        },
+        {
+            "id": "w_9a00bbbdc8dc7d70062a28532cf7acc5b9552499",
+            "content": {
+                "en": "Going out like a bitch."
+            }
+        },
+        {
+            "id": "w_71a70f87ba184a670064e0c1ed8efe9e66fa679a",
+            "content": {
+                "en": "Growing old, retiring to space Florida, and dying."
+            }
+        },
+        {
+            "id": "w_f1461b389d49ae2cebd2b25544c2070e7bb844fa",
+            "content": {
+                "en": "Gwendolyn Christie&apos;s hulking form."
+            }
+        },
+        {
+            "id": "w_360ae8329e19b89f91fc0b4a2c60f4f835b72084",
+            "content": {
+                "en": "Handcuffing famed child actor Jake Lloyd."
+            }
+        },
+        {
+            "id": "w_7a1e7d0d076fcd3c385e4a5838c20480ce76fcfb",
+            "content": {
+                "en": "Harrison Ford grumbling to himself as he breaks his legs."
+            }
+        },
+        {
+            "id": "w_5e02f742709d3177e4484dd997e432050a7d5427",
+            "content": {
+                "en": "Having a bad feeling about this."
+            }
+        },
+        {
+            "id": "w_201de352e349dbe0b38871427ecbbf7688d90268",
+            "content": {
+                "en": "Having a hand deep inside of you."
+            }
+        },
+        {
+            "id": "w_31e99676041435c8cfb903a975ef6f173b07c3a7",
+            "content": {
+                "en": "Having so much fun killing people."
+            }
+        },
+        {
+            "id": "w_7a9e361619b37a04abd5b3ac2ea05eb1c546e012",
+            "content": {
+                "en": "Hayden Christensen&apos;s attempts to not seem creepy."
+            }
+        },
+        {
+            "id": "w_49832402648c10c67e7af739a9b842c0f7f66700",
+            "content": {
+                "en": "Hayden Christensen&apos;s career."
+            }
+        },
+        {
+            "id": "w_23345cd45fafd722cd26ad6129f3159a90f1a5e2",
+            "content": {
+                "en": "Hiring somebody to hire somebody to do a job that somebody hired you to do."
+            }
+        },
+        {
+            "id": "w_61f294dc8e4a72cffd2bf368d22f7afb4f6f95f5",
+            "content": {
+                "en": "Hitler but if he was a scrawny ginger."
+            }
+        },
+        {
+            "id": "w_b3467ffbf413ea3f11028207594448f51a165901",
+            "content": {
+                "en": "Hope."
+            }
+        },
+        {
+            "id": "w_decd4ce7350612cedfa1dccab17f84acdd76e54b",
+            "content": {
+                "en": "How dramatically damage-immune energy shields would revolutionize warfare."
+            }
+        },
+        {
+            "id": "w_f0fa8b87e4aca4125332bf22bde94829d2333da0",
+            "content": {
+                "en": "Impersonating a deity."
+            }
+        },
+        {
+            "id": "w_c19d78e225585d69ce377b6e0a187732fb53daf7",
+            "content": {
+                "en": "Intergalactic racial stereotypes."
+            }
+        },
+        {
+            "id": "w_a6d11aa050ff8a9ea6e8a2c6f61c7c5d78fcc78d",
+            "content": {
+                "en": "Invasion."
+            }
+        },
+        {
+            "id": "w_ff8a2781ce9dd818ac402d9e4d9aa776c8df7dae",
+            "content": {
+                "en": "It being a trap."
+            }
+        },
+        {
+            "id": "w_d8c295edf4023861e594eef9e7543b1d56ebe267",
+            "content": {
+                "en": "Jar Jar Binks, blessed be his name."
+            }
+        },
+        {
+            "id": "w_77b752d9e678dcc21d86e90d7bc84cecf81e43f4",
+            "content": {
+                "en": "Jetpacking away into the night."
+            }
+        },
+        {
+            "id": "w_e7d7dc0f6a6dfbc2ba0478fab30ccef361f3cd65",
+            "content": {
+                "en": "Kamikazeing an aerial vehicle into a populated structure, thereby killing thousands of people."
+            }
+        },
+        {
+            "id": "w_2ef205f1cf3635f387845abb84d4ade91ae8dc3c",
+            "content": {
+                "en": "Killing my steed for warmth."
+            }
+        },
+        {
+            "id": "w_af1b9326b53b930647ecba28865d5e3de26c74c8",
+            "content": {
+                "en": "Killing younglings."
+            }
+        },
+        {
+            "id": "w_3e835c5566ab585edaf5e5908872ea895caa22a8",
+            "content": {
+                "en": "Liam Neeson&apos;s right fist."
+            }
+        },
+        {
+            "id": "w_98e9c4d7333086e355977c7e348620941c9f8aea",
+            "content": {
+                "en": "Lighting your best bro on fire."
+            }
+        },
+        {
+            "id": "w_0d62d6a250f0f0c80c8e712face7c1a358059ea6",
+            "content": {
+                "en": "Linking everything political back to the holocaust."
+            }
+        },
+        {
+            "id": "w_23c8e4aa96e915486a130b0d83ce68df4adbb507",
+            "content": {
+                "en": "Losing the will to live."
+            }
+        },
+        {
+            "id": "w_9e16f2ac67216d22dda9d3556d2404d2f6d07a1d",
+            "content": {
+                "en": "Many bats."
+            }
+        },
+        {
+            "id": "w_3aac15a8e9aad60900793abbb7022aec07513246",
+            "content": {
+                "en": "Mark Hamill&apos;s Twitter account."
+            }
+        },
+        {
+            "id": "w_34ab32fd8294ca0f49957a28230d7f544219caf9",
+            "content": {
+                "en": "Meeting your father in-law for the first time."
+            }
+        },
+        {
+            "id": "w_ef8f66480462124649bd1f5caed38e65d96fec00",
+            "content": {
+                "en": "My absent father."
+            }
+        },
+        {
+            "id": "w_9bacd3b3f824cc8fd494db6008193479ff18d8b8",
+            "content": {
+                "en": "My first kiss."
+            }
+        },
+        {
+            "id": "w_ffc2fd6ef77e4785fa5a0e98715cc82d995fa118",
+            "content": {
+                "en": "My little green friend."
+            }
+        },
+        {
+            "id": "w_0a739892dd6bb245c75b359f440afebcf10a3dad",
+            "content": {
+                "en": "My point of view."
+            }
+        },
+        {
+            "id": "w_fdafa76522a740839fac2754527306ca52f153bb",
+            "content": {
+                "en": "NASCAR but all the cars can fly and children die piloting them."
+            }
+        },
+        {
+            "id": "w_e062456bcef8d68ed7ed809c355ad73772d9ce59",
+            "content": {
+                "en": "Nostalgia."
+            }
+        },
+        {
+            "id": "w_81815e801ac86d7602b995591525809ad10ff517",
+            "content": {
+                "en": "Not just the men, but the women, and the children too."
+            }
+        },
+        {
+            "id": "w_06b669f21500b2cf6cc4ec047d7caa15f5341b20",
+            "content": {
+                "en": "Numerous hostages."
+            }
+        },
+        {
+            "id": "w_bfb3ae5476f906860aa3478f2d186e71197590a3",
+            "content": {
+                "en": "Peter Cushing&apos;s cheek bones."
+            }
+        },
+        {
+            "id": "w_a6d6d95b785b2a5eefd4893795ff8584eb4fe106",
+            "content": {
+                "en": "Photoshopping Natalie Portman&apos;s head onto a naked body."
+            }
+        },
+        {
+            "id": "w_975b1c63bc49a3d8f819b196e0811df4e619a1dc",
+            "content": {
+                "en": "Piggyback riding."
+            }
+        },
+        {
+            "id": "w_6d193be8fdfbe8dd0e2c7ac48cbdebf90714d0a0",
+            "content": {
+                "en": "Plot armor."
+            }
+        },
+        {
+            "id": "w_7a395e21e06c46c2995c2f5c49fc92694d04e397",
+            "content": {
+                "en": "Podracing."
+            }
+        },
+        {
+            "id": "w_ae611139e950a7a400f3533ba3bb7623db439df4",
+            "content": {
+                "en": "Poorly timed quips."
+            }
+        },
+        {
+            "id": "w_3b51f7d106f62aacf11679e0f0132b1af60e0752",
+            "content": {
+                "en": "Popping LSD so hard you start seeing crystal foxes."
+            }
+        },
+        {
+            "id": "w_853a43c473163bd34ce17b05bb7aa9c51fa2c66a",
+            "content": {
+                "en": "Porgs."
+            }
+        },
+        {
+            "id": "w_d754f6112184531ebde88a716da12ee97cb31595",
+            "content": {
+                "en": "Prioritizing an animal over a human child."
+            }
+        },
+        {
+            "id": "w_e34e045f15bb50118a78bd6eb1dfa51e0d7f9afe",
+            "content": {
+                "en": "Public executions."
+            }
+        },
+        {
+            "id": "w_89775f7a05c945ed095a56a2e4d1509cfc315eb6",
+            "content": {
+                "en": "Quitting your day job."
+            }
+        },
+        {
+            "id": "w_76da41404e7c8e5ea2490cffb44c1e45758c64f6",
+            "content": {
+                "en": "Realizing you are not unique."
+            }
+        },
+        {
+            "id": "w_5871b4adeabad5bb5bbef6dc710f205a34a56ba4",
+            "content": {
+                "en": "Rolling around on the floor because I am a severed head."
+            }
+        },
+        {
+            "id": "w_bbabf13e3096fe12ae8a666c4cad10d2c9183899",
+            "content": {
+                "en": "Samuel L. Jackson&apos;s beautiful, shiny head."
+            }
+        },
+        {
+            "id": "w_d8ccd62e31ccfe96013b9e747830daff6dffc5ce",
+            "content": {
+                "en": "Sand getting fucking everywhere."
+            }
+        },
+        {
+            "id": "w_22dd7ca7c0fef24613bcb28c452da348bca1236a",
+            "content": {
+                "en": "Some sort of emu, I think."
+            }
+        },
+        {
+            "id": "w_39783b77dce4073c7373835bc06d581f207c2b14",
+            "content": {
+                "en": "Some sort of giant rentable screaming parrot gecko."
+            }
+        },
+        {
+            "id": "w_9c2845a73f35a570ff73448d706b013a38a2808b",
+            "content": {
+                "en": "Space drugs."
+            }
+        },
+        {
+            "id": "w_2a87fc93dadb39f4e77fb9bcb7faefd5f34e0ed4",
+            "content": {
+                "en": "Space nazis."
+            }
+        },
+        {
+            "id": "w_fcfa146c211f69d216a3a53fdb073f552a5df8a7",
+            "content": {
+                "en": "Speaking too soon."
+            }
+        },
+        {
+            "id": "w_99bb41fa6f9b7a0174759c08b0e1a3ac4604811c",
+            "content": {
+                "en": "St-st-st-stutters."
+            }
+        },
+        {
+            "id": "w_3869343989bd9037c1ec4f6f23910316e94a6daa",
+            "content": {
+                "en": "Starring off into the sunset."
+            }
+        },
+        {
+            "id": "w_be91aa1c81da939d15917b07a8c3a73b31d7ae20",
+            "content": {
+                "en": "Suddenly turning into a raisin."
+            }
+        },
+        {
+            "id": "w_a173739fbf4ba62a911001940fa2a764c9fe1890",
+            "content": {
+                "en": "Synchronized marching."
+            }
+        },
+        {
+            "id": "w_27066e470c9530641af7df525b6c850f740c3c34",
+            "content": {
+                "en": "Ten years of pent up sexual rage."
+            }
+        },
+        {
+            "id": "w_0df964942028825867c18f3b871ef5eeb3067f26",
+            "content": {
+                "en": "Test tube babies."
+            }
+        },
+        {
+            "id": "w_5f1fd94538560b5f59ec257761657fd56d71ebdd",
+            "content": {
+                "en": "The biggest fish."
+            }
+        },
+        {
+            "id": "w_bfa6e1966dbb603275be2e2f4f2553f602ff9a9e",
+            "content": {
+                "en": "The droids you're looking for."
+            }
+        },
+        {
+            "id": "w_3fe4698609c0e85e3a2023dabfd0e6c30dfbc723",
+            "content": {
+                "en": "The extinction of the natives."
+            }
+        },
+        {
+            "id": "w_f9f66fb1bc29731a80d6460b750a63e4d1fbf7ab",
+            "content": {
+                "en": "The government totally being able to do something about the slave trade but doing nothing."
+            }
+        },
+        {
+            "id": "w_f7d6c0fdc12e81c5609f11e6e30ad790a4780838",
+            "content": {
+                "en": "The high ground."
+            }
+        },
+        {
+            "id": "w_b9cbdd4cddb29afa5d46736e4d211d79429050a1",
+            "content": {
+                "en": "The inescapable capitalistic powerhouse of Disney."
+            }
+        },
+        {
+            "id": "w_35f7edc1c2938b948aecee3b28ef25cbc8db8ada",
+            "content": {
+                "en": "The Jedi way."
+            }
+        },
+        {
+            "id": "w_f3948ad15a028e3f2887f43cec26820cf26c272f",
+            "content": {
+                "en": "The length of Adam Driver&apos;s face."
+            }
+        },
+        {
+            "id": "w_2459b7e09379819769ac85e244ec4ebca4d1621f",
+            "content": {
+                "en": "The many people who died to get you to this point."
+            }
+        },
+        {
+            "id": "w_c09e5031aba91d1092dc5a49d34b4d430088693d",
+            "content": {
+                "en": "The Max Rebo Band&apos;s hit song \"Jedi Rocks\"."
+            }
+        },
+        {
+            "id": "w_7aebf86cd45b4fd28e8e24b76056786ea0d54787",
+            "content": {
+                "en": "The representation of African Americans in 80s action cinema."
+            }
+        },
+        {
+            "id": "w_ed3fc921cfe8e667031faebe732ebc37f070b52b",
+            "content": {
+                "en": "The senate."
+            }
+        },
+        {
+            "id": "w_2fb00edf7a0aa52115725306c1613f7d4a84a90f",
+            "content": {
+                "en": "The sexual appetites of a slug."
+            }
+        },
+        {
+            "id": "w_9824c794bcdba38b59d9f4e650f2797998256f0f",
+            "content": {
+                "en": "The smell of burning flesh."
+            }
+        },
+        {
+            "id": "w_f6fb40e79b91d48382d95da903703ef43df2323b",
+            "content": {
+                "en": "The sudden, unexplained appearance of an entire army."
+            }
+        },
+        {
+            "id": "w_41a2744b51d1854c0d046c62a8acb77ed36376c6",
+            "content": {
+                "en": "The sudden, unexplained disappearance of an entire army."
+            }
+        },
+        {
+            "id": "w_af9a0baf08b904c87434b6b741a7808f7a262620",
+            "content": {
+                "en": "The taste of salt."
+            }
+        },
+        {
+            "id": "w_5a9b9b2f5b803878522cee7dea1b01927862da0c",
+            "content": {
+                "en": "The tragedy of Darth Plageuis the Wise."
+            }
+        },
+        {
+            "id": "w_a160adb93496b253d9a7d9fc4df484e550df5b47",
+            "content": {
+                "en": "The tree that killed my friend."
+            }
+        },
+        {
+            "id": "w_a432f5216dbeb984782896ee66ff1be65cbe65e5",
+            "content": {
+                "en": "These super important Sasquatch people that are crucial to the war effort."
+            }
+        },
+        {
+            "id": "w_2c04d974fe78d53a7e9254fe204ab804946130d8",
+            "content": {
+                "en": "This sweet rat tail!"
+            }
+        },
+        {
+            "id": "w_fba924cb7a542434bb2c114477af12188d6f56e1",
+            "content": {
+                "en": "Thousands of battle droids."
+            }
+        },
+        {
+            "id": "w_10db3b225c0135b3d2bee1d6dd2dcc5b14e26a42",
+            "content": {
+                "en": "Thunderous applause."
+            }
+        },
+        {
+            "id": "w_d0a5668b083fa7cf25833d999af937a7bda576a8",
+            "content": {
+                "en": "Tightening these restrains."
+            }
+        },
+        {
+            "id": "w_9cd83c26f3bd42af85b5c7a976bd5761d52b192e",
+            "content": {
+                "en": "Trade negotiations."
+            }
+        },
+        {
+            "id": "w_02aa224b55b8401f4ee5cf16b9943435d281f9c1",
+            "content": {
+                "en": "Treason."
+            }
+        },
+        {
+            "id": "w_a5840ad6a52c16b8f0c79b5cc668b66f940e351a",
+            "content": {
+                "en": "Trying so hard to die."
+            }
+        },
+        {
+            "id": "w_cbdcddf1bd19fc5715652d42f7773293e07d0585",
+            "content": {
+                "en": "Trying to be cool and then not being cool."
+            }
+        },
+        {
+            "id": "w_4a9a3310c3e744fdc1712ec8c10d0083b4ef6228",
+            "content": {
+                "en": "Twincest."
+            }
+        },
+        {
+            "id": "w_5c49db4b2ff8d4b7fbc1b4419256b0818ea70036",
+            "content": {
+                "en": "Unexpected Peter Mayhew."
+            }
+        },
+        {
+            "id": "w_5107b800bb10ee69737ccdc6ee939bfffefb763e",
+            "content": {
+                "en": "Unleashing the power of the sun as Sunny D commanded."
+            }
+        },
+        {
+            "id": "w_f8cf9f9cc8e1c5726efb322b155e25063d01afd8",
+            "content": {
+                "en": "Using the force."
+            }
+        },
+        {
+            "id": "w_bde8d8afb110f960b63e008eab44956cd1543b31",
+            "content": {
+                "en": "Verbal abuse."
+            }
+        },
+        {
+            "id": "w_a56dbf113a322433282fdab52f74ae0be1e0f8b0",
+            "content": {
+                "en": "Waking up naked and leaking."
+            }
+        },
+        {
+            "id": "w_2017539c8a08b9983f690be3c4f0cb1fb6ea90b3",
+            "content": {
+                "en": "Waking up to the local pedophile."
+            }
+        },
+        {
+            "id": "w_54a28ab07866c084d8a1fbfb7625eeb73aca2d41",
+            "content": {
+                "en": "Watching people die."
+            }
+        },
+        {
+            "id": "w_e5781fa5ec3c214170bdf4ebd50bdaeb1450b559",
+            "content": {
+                "en": "Weaponizing the bass drop."
+            }
+        },
+        {
+            "id": "w_5e9864390e3dd140fe2193e03fe885fbfed3d307",
+            "content": {
+                "en": "Whoever Roger is."
+            }
+        },
+        {
+            "id": "w_cc41bb0a81c891322fc1f5d65948463f54c251e3",
+            "content": {
+                "en": "Winning."
+            }
+        },
+        {
+            "id": "b_6c89cede97b4f23f9983c29f99afab7c371996cd",
+            "content": {
+                "en": "And I thought ______ smelled bad on the outside!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c80955484aa61fb27994096fa39c1579b2a43919",
+            "content": {
+                "en": "At last, we will reveal ______ to the Jedi. At last, we will have our revenge."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_648a0e545a8c1df36974d351059cfb25cb832ef5",
+            "content": {
+                "en": "Be careful not to choke on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ad209eaf1d1b4e8cc7f4a16fa9018ae19698d6a",
+            "content": {
+                "en": "Congratulations. You are ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5beeb8922660fa799783fef67e1005f16ebffd8f",
+            "content": {
+                "en": "Do you know the truth about your parents? They were ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab86c1cf50cc298ebf5ca06322bceb8e85c7093e",
+            "content": {
+                "en": "Fear leads to anger. Anger leads to hate. Hate leads to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7d5aaa9d01de1c96c160e84937a90b4b6e85c51a",
+            "content": {
+                "en": "He has control over ______ and ______! He&apos;s too dangerous to be left alive!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_91e9e349273a3d2c4886517a2e012059f9c59ca6",
+            "content": {
+                "en": "I am altering ______. Pray I don't alter it further."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a920946fb02fea5d614b13ca21bdedb5b00c1438",
+            "content": {
+                "en": "I am ______, like my father before me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a3eb3b6fae35ae995fe7beeaa9b6f826de658b37",
+            "content": {
+                "en": "I don't like ______: it&apos;s course, rough, irritating, and it gets everywhere."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3dcf6433aa68bcc7f5c116b48ab40ca99600e011",
+            "content": {
+                "en": "i find ______ disturbing."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8bfa48ad5d97cd621e0dbe4ac1de605796d5b6d6",
+            "content": {
+                "en": "I have brought peace, freedom, justice, and ______ to my new empire!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_809e4a18e5ace97b2149376c07270e02968fa13e",
+            "content": {
+                "en": "I see through the lies of ______. I do not fear ______ as you do."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9bec8a6dfb3280982514cbc225c68f25761bdb50",
+            "content": {
+                "en": "I&apos;m afraid ______ will be quite operational when your friends arrive."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e65438b4a81a5b2027943ecec14489355137444",
+            "content": {
+                "en": "I&apos;m being torn apart. I want to be free of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba0988c1e441b3a9060325d767476dcac37b4a57",
+            "content": {
+                "en": "I&apos;m one with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f5dbc050e729dc80e5c18687eae77109cbc60e09",
+            "content": {
+                "en": "I've been ______ a little bit each day since you came back into my life."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d896c3769088d136622e07a48b95198181f606cd",
+            "content": {
+                "en": "I've seen ______ only once before. It didn't scare me enough then. It does now."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1a623be896f62d9f81636879c5f5154f5c21d22c",
+            "content": {
+                "en": "If you strike me down, I shall become ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_03a7771178f8108a68d5a2af90c4e6ed7eb66d44",
+            "content": {
+                "en": "In his latest film, Andy Serkis portrays a CGI version of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2238b3fb8f190a977d822c3535bb3f97a0136466",
+            "content": {
+                "en": "It&apos;s time for ______ to end."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17ec45da7b97db0a71a0383ba9e20035910baad3",
+            "content": {
+                "en": "Join me, and together, we can rule ______ as father and son!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_71b0c194d6811f15ab813ce5c707139d3fafbac6",
+            "content": {
+                "en": "Let ______ die. Kill it, if you have to."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f44583046b7dbce6482ad6d38c6a62a5512ea6c5",
+            "content": {
+                "en": "Only a Sith deals in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e41777ca2c803b5e2622e7b20161e3d0bdbd098",
+            "content": {
+                "en": "Rebellions are built on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5517b394a73bdd896cec5ce4c622af0d3acf7896",
+            "content": {
+                "en": "Save the Rebellion! Save ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12e77359bff8d0ba26d580a68f2981234fb8ab14",
+            "content": {
+                "en": "Show me again, the power of ______, and I'll let nothing stand in our way."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_458d5df34308df552764f2759641e5468988f74f",
+            "content": {
+                "en": "So this is how liberty dies: with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1409a3f87a749468c589fcd844ec4b0858aeeb62",
+            "content": {
+                "en": "That&apos;s no moon, that&apos;s ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_22e4606ffb6ed6053e658a09b38fd8f8a5aad1c1",
+            "content": {
+                "en": "The circle is now complete. When I left you, I was but the learner; now I am ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3cacee0cfc23d7e0106b0e9b2003837c46a3f46f",
+            "content": {
+                "en": "The greatest teacher, ______ is."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_492adb20f5c1413d83398692e4f9ec2c064c1a96",
+            "content": {
+                "en": "The soldiers' fates were sealed when ______ appeared at the end of the hallway."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e4c0aec1829a771edb0467f55fedc5e4297c197",
+            "content": {
+                "en": "Twice the ______, double the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0296129c32fdf8daa13ef222eb712cdec692afcf",
+            "content": {
+                "en": "We're going to win this war not by fighting ______, but by saving ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_98f5014fe77edc3a2d0bcc38e11b045451ea634e",
+            "content": {
+                "en": "What about the ______ attack on ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6190cf4d2c6ccbf11ace0cd8688d400e613dd845",
+            "content": {
+                "en": "What did my parents sell me off for?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c78be854433b9910771c9b087655644b8aa58a59",
+            "content": {
+                "en": "What is it they've sent us?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_398ea2d4b5e615075852b4b0e94f5864ae51270a",
+            "content": {
+                "en": "Why does everyone want to go back to ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bce91a33cb04f5ef8804fb58f59d1eeeb5288ea6",
+            "content": {
+                "en": "You were the chosen one! It was said that you would destroy ______, not join them!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_91e36d69547968b10220d0694eff7a3fbed55eff",
+            "content": {
+                "en": "You will never find a more wretched hive of scum and villainy than ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7326ac81a17b1dd9f198e66da05fb9d9c85ae67",
+            "content": {
+                "en": "______ could only mean one thing: ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e19e90d9b72c357a8f144835e8f2774e78da506c",
+            "content": {
+                "en": "______ does not make one great."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd3327a45ffcaf7b8f978c2bb4e93165149573a5",
+            "content": {
+                "en": "______ is constantly being underestimated."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c5208184fc67fafeb840c2c8e72e820daf15cea",
+            "content": {
+                "en": "______ is the spark that will light the fire that'll burn ______ down!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_16c0eb1107e80eaffd79c0dff159e6f30958baac",
+            "content": {
+                "en": "______ will be with you. Always."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab47135fa214bdeedaaa9977241b09d5458dcb84",
+            "content": {
+                "en": "______. It&apos;s a trap!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_97555a579cacb0322de07f04b3f9ae6858c70ac2",
+            "content": {
+                "en": "______? A man of your talents?"
+            },
+            "pick": 1
+        }
+    ]
+}

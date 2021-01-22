@@ -1,0 +1,133 @@
+{
+    "id": "Early_2000_s_Nostalgia_Pack",
+    "name": "Early 2000's \"Nostalgia\" Pack",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_9050ad64f74f05cca07f903eb7730dbc8eaca1ef",
+            "content": {
+                "en": "a Razor scooter to the ankle (I'm pretty sure this is in the original deck)"
+            }
+        },
+        {
+            "id": "w_8831a9c7bd973191634d2a0112385dda3b2743bf",
+            "content": {
+                "en": "a silly bandz shaped like emotional turmoil"
+            }
+        },
+        {
+            "id": "w_742ba1fd72c041bce5927163ce97c57d94022548",
+            "content": {
+                "en": "actually voting for Pedro making 'fetch' happen"
+            }
+        },
+        {
+            "id": "w_6d0fc02bed76c925548729d5baa21cec890bdb98",
+            "content": {
+                "en": "apple bottom jeans and the boots with the fur"
+            }
+        },
+        {
+            "id": "w_354dbda488d4880b00ce25559cc3f826b54bd7c5",
+            "content": {
+                "en": "B-A-N-A-N-A-S"
+            }
+        },
+        {
+            "id": "w_80131dae3138965e03c2bb21b4b8d02736768bd0",
+            "content": {
+                "en": "being Fergalicious"
+            }
+        },
+        {
+            "id": "w_21d2924f94c0b5c038d168bde3c5c456bf760d10",
+            "content": {
+                "en": "Blockbuster Video"
+            }
+        },
+        {
+            "id": "w_2b87917d05a99df2ddfd66b92378b5a751698dec",
+            "content": {
+                "en": "covering your entire body in Livestrong bracelets until there is nothing left"
+            }
+        },
+        {
+            "id": "w_e561bb682eb150ef8abc07865a0b7f9408d48d17",
+            "content": {
+                "en": "joining the black parade"
+            }
+        },
+        {
+            "id": "w_31dcafb65ec6650939b80c6c72ca2034fe7ca37f",
+            "content": {
+                "en": "Numa Numa"
+            }
+        },
+        {
+            "id": "w_be7020517b459fa04c93f39350f8c1889709dd51",
+            "content": {
+                "en": "RAWR XD"
+            }
+        },
+        {
+            "id": "w_1606db00aa372e5ab25a76bea445ad6b9ae7850f",
+            "content": {
+                "en": "Swiper, swiping"
+            }
+        },
+        {
+            "id": "w_605e1a3a7536cf5859c17c336382497626dd0bff",
+            "content": {
+                "en": "t-pain&apos;s autotune"
+            }
+        },
+        {
+            "id": "w_46646e430d015031dda1c9ef0a319a7f384f0b1b",
+            "content": {
+                "en": "the less attractive Jonas brother"
+            }
+        },
+        {
+            "id": "w_f466b8cf09def2a488b5ac5b0b03f7ed3303d888",
+            "content": {
+                "en": "the subtle nuance of crafting the perfect AIM handle"
+            }
+        },
+        {
+            "id": "w_a3f0c735f3a2c40c3f2849c70225920554f40b2a",
+            "content": {
+                "en": "wearing five popped collars at the same time to create the ultimate popped collar"
+            }
+        },
+        {
+            "id": "b_8be9d37b5fdae53e02e09c8fa632974b0542cf72",
+            "content": {
+                "en": "If you're from Africa, then why are you ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_53d3f34b7ff2da04efe1f1a1c39f0e1cb24e6449",
+            "content": {
+                "en": "What team? ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da12f3714b985904f4ab7312efe365b5e9ca55ae",
+            "content": {
+                "en": "When I was a young boy, my father took me into the city to see ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f714401366c6bd1c685f77600ab3148a50b4dbe1",
+            "content": {
+                "en": "______: It means 'I love you' in dinosaur."
+            },
+            "pick": 1
+        }
+    ]
+}

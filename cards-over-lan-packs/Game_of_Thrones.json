@@ -1,0 +1,2393 @@
+{
+    "id": "Game_of_Thrones",
+    "name": "Game of Thrones",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_15618376b52e88e250cb3d6ef329f751287bc422",
+            "content": {
+                "en": "'Winter is Coming'"
+            }
+        },
+        {
+            "id": "w_11d9f5d14697a7343201dc65eb933110a7b0a339",
+            "content": {
+                "en": "10,000 horses"
+            }
+        },
+        {
+            "id": "w_d8e6b0a79d99ff56e957890c5280ef8ed8eb7ed8",
+            "content": {
+                "en": "A badass cello solo."
+            }
+        },
+        {
+            "id": "w_dee7914452f3b682de9a7edc5dc5788d48578cf3",
+            "content": {
+                "en": "A big black wolf."
+            }
+        },
+        {
+            "id": "w_f1239acc9734cdc3d54bc9f76d931ba5bc374922",
+            "content": {
+                "en": "A bigger, blacker wolf."
+            }
+        },
+        {
+            "id": "w_2494be5bff70ab4ff23affda5494434a72e13c8f",
+            "content": {
+                "en": "A corpse-like magical morgue-lover that&apos;s definitely not gonna turn out to be a villain."
+            }
+        },
+        {
+            "id": "w_fc76dc8cc27e30ee4e4aeeaab9cde18c0c21e009",
+            "content": {
+                "en": "a crannogman with a hard-on"
+            }
+        },
+        {
+            "id": "w_6b92ce1cf731c3726435947a71b07ba1c18fc528",
+            "content": {
+                "en": "A crannongman with a hard-on."
+            }
+        },
+        {
+            "id": "w_4f79c3b721f49aa0ee7e6188dead93d877d45b46",
+            "content": {
+                "en": "A crappy golden hand."
+            }
+        },
+        {
+            "id": "w_785704390fa8d2404550e5cb11ce14687bcab1e1",
+            "content": {
+                "en": "a crown of molten gold"
+            }
+        },
+        {
+            "id": "w_540c400ba88aaffcbb9161826edf4201031df847",
+            "content": {
+                "en": "a Dothraki wedding"
+            }
+        },
+        {
+            "id": "w_cd1d13244c3bd6e9a6042d9668ff4db66ee04d5b",
+            "content": {
+                "en": "a dream of spring"
+            }
+        },
+        {
+            "id": "w_0617bb669f5bdccff958f9941281f43a10070e91",
+            "content": {
+                "en": "a dwarf riding a pig"
+            }
+        },
+        {
+            "id": "w_0de0df97f809635b2046e3ce5c197e20f89c56b2",
+            "content": {
+                "en": "a faceless man"
+            }
+        },
+        {
+            "id": "w_a6ce21265bcc857048a1289f9ee7c625bd19ed51",
+            "content": {
+                "en": "A girl."
+            }
+        },
+        {
+            "id": "w_20479d55044312c471a4d0483ea6db8b61d1b42d",
+            "content": {
+                "en": "A goddamn flaming zombie polar bear."
+            }
+        },
+        {
+            "id": "w_5f86da1a4a0d1afd9c59cd5969b4364ce8555bcb",
+            "content": {
+                "en": "A hail of arrows."
+            }
+        },
+        {
+            "id": "w_9d410829f5410e166698237086d323e75516f3ef",
+            "content": {
+                "en": "A ham-fisted metaphor for climate change."
+            }
+        },
+        {
+            "id": "w_cf0d2a5f8bdfd3df068e7f730b9c0b9f19afbff2",
+            "content": {
+                "en": "A kid who enjoys killing prostitutes way too much."
+            }
+        },
+        {
+            "id": "w_37e960dc4032fa1617a239e24f281d315a8216fc",
+            "content": {
+                "en": "A leech that can tell you the future."
+            }
+        },
+        {
+            "id": "w_472a36494472e6a6ca200bb202e6761f136a8ede",
+            "content": {
+                "en": "A little boy in the wrong place at the wrong time."
+            }
+        },
+        {
+            "id": "w_1c8ee2793e4b9d3db901c60504d343d73b35d7dd",
+            "content": {
+                "en": "a loaded crossbow"
+            }
+        },
+        {
+            "id": "w_3e8758114564566f064ec695d50a48f5c76c2514",
+            "content": {
+                "en": "A long, unforgiving winter."
+            }
+        },
+        {
+            "id": "w_2e0a79c413aae0ddc11305fb0ddc8fe9e1c7f3f2",
+            "content": {
+                "en": "A love that transcends generations and blood relation."
+            }
+        },
+        {
+            "id": "w_a7335386c31ad2194de9eededfecbdcd480ce063",
+            "content": {
+                "en": "A man."
+            }
+        },
+        {
+            "id": "w_54887c3d3d3fa63a11db2dd9fbe97cac7bbf0960",
+            "content": {
+                "en": "A masterbating giant."
+            }
+        },
+        {
+            "id": "w_355ff7bd60805bd298ca58ac23c436925d1cc813",
+            "content": {
+                "en": "a masturbating giant"
+            }
+        },
+        {
+            "id": "w_399534f23fe734f604afeea7ca6a08fe202b2b70",
+            "content": {
+                "en": "A Other orgy."
+            }
+        },
+        {
+            "id": "w_8f7a962e681dd69ba22f4396f40363872f847546",
+            "content": {
+                "en": "A pimp with political aspirations."
+            }
+        },
+        {
+            "id": "w_3b21e285f82f9a2cac8df68f1c40bc77e23df3e9",
+            "content": {
+                "en": "a scale from the dragon that flamed you"
+            }
+        },
+        {
+            "id": "w_99e2f32eb38fec374bb6b1f3c36fcea9efb2ef29",
+            "content": {
+                "en": "A scenario in which zigzagging means the difference between life and death."
+            }
+        },
+        {
+            "id": "w_4edb44696708c0787733b154ce0b35bc63bcee30",
+            "content": {
+                "en": "a shadow-baby"
+            }
+        },
+        {
+            "id": "w_08966e81e1158889dcd9a4eb068e3b1aa333cc07",
+            "content": {
+                "en": "A stunning lack of chest hair."
+            }
+        },
+        {
+            "id": "w_ba08127128268f6d7cfb716f537a0b37fc9098bc",
+            "content": {
+                "en": "a troupe of mummers"
+            }
+        },
+        {
+            "id": "w_f63c262f28adaefe3a4aeba87695eaae51251118",
+            "content": {
+                "en": "a Valyrian steel blade"
+            }
+        },
+        {
+            "id": "w_f02c5fc5bccbabf8ad7bc3059a59cef44becefe9",
+            "content": {
+                "en": "a white walker&apos;s frozen genitalia"
+            }
+        },
+        {
+            "id": "w_26f2ebf7817ba724338c8dc04bf082efa6d68f89",
+            "content": {
+                "en": "A world without Asians."
+            }
+        },
+        {
+            "id": "w_3808e96c6506c1d6b4f914fb3d6ec471bab4b61b",
+            "content": {
+                "en": "All the things you can\u2019t do with one hand."
+            }
+        },
+        {
+            "id": "w_3c1d53006b1a3e81e586a91eaea66981232214fc",
+            "content": {
+                "en": "Almost not having sex your cousin."
+            }
+        },
+        {
+            "id": "w_e822ee5d3e835c59daf7a35260f1fcd910c097d1",
+            "content": {
+                "en": "An entire episode of Game Of Thrones devoted to a housefly."
+            }
+        },
+        {
+            "id": "w_edf7d00f768cd2a483c125850f3f409a7238fe38",
+            "content": {
+                "en": "an entire khalasar"
+            }
+        },
+        {
+            "id": "w_d6cb3562f4626ce126f124491b077874740bbb39",
+            "content": {
+                "en": "An episode of Game of Thrones performed entirely by sock puppets."
+            }
+        },
+        {
+            "id": "w_d22c255fd4f31cdc7adb8c5ee63c00529e6f1a1e",
+            "content": {
+                "en": "An old lady with nothing left to lose."
+            }
+        },
+        {
+            "id": "w_1c3353a9fb69d6acd81da2b71a26f2844ede277f",
+            "content": {
+                "en": "an Other orgy"
+            }
+        },
+        {
+            "id": "w_c45e711645e636da8036e06d01f69be2a0492c4f",
+            "content": {
+                "en": "An unspoken rule that all dwarves must have beards."
+            }
+        },
+        {
+            "id": "w_7a165ec81e7a0e9cf30abc343f5329100076f73c",
+            "content": {
+                "en": "Appointed as Hand of the King"
+            }
+        },
+        {
+            "id": "w_3f5f6bce6f24b97bd77cb6fb20ebfbaa9437b405",
+            "content": {
+                "en": "Arya"
+            }
+        },
+        {
+            "id": "w_3d6aa6b7bd7e8e134805463af3e4603d33037b89",
+            "content": {
+                "en": "Arya Stark"
+            }
+        },
+        {
+            "id": "w_1fb7f474ce8926aa786fafd1f122d3d4e847b5fe",
+            "content": {
+                "en": "Asking a teenage girl if she&apos;s 'bled yet'"
+            }
+        },
+        {
+            "id": "w_571809acfdc27846a315174d309e5702c35ef609",
+            "content": {
+                "en": "Bald cunts."
+            }
+        },
+        {
+            "id": "w_ffe06b0d87ba1b14b7ab532c74960b048e06342b",
+            "content": {
+                "en": "Barack Obama&apos;s Red Wedding reaction video"
+            }
+        },
+        {
+            "id": "w_0605443df40c7417c0c35bc7cc6f8191207fa778",
+            "content": {
+                "en": "bastards in their fathers' eyes"
+            }
+        },
+        {
+            "id": "w_113e7327a3a76a5a9485e27026f4a4a2b58f0394",
+            "content": {
+                "en": "Bees?"
+            }
+        },
+        {
+            "id": "w_a1da124b634803a6df31c6bb8e378ba0f62c2629",
+            "content": {
+                "en": "Beheaded on the steps of the Sept of Baelor"
+            }
+        },
+        {
+            "id": "w_3f8e7c9d1042e0b45aa44be3bdadfe1ad42af55e",
+            "content": {
+                "en": "Beheading a man for having no honor"
+            }
+        },
+        {
+            "id": "w_619eb02f131093a8f8b289b24bd7925934476763",
+            "content": {
+                "en": "Being adopted by a Northern hellbeast."
+            }
+        },
+        {
+            "id": "w_1a2d994f7c094e71b1a68487a11649e13e1d595d",
+            "content": {
+                "en": "Being an inspiring strong female actress but still having to get naked for money."
+            }
+        },
+        {
+            "id": "w_b87251f0c01d98244628500bbeed1e75046ea149",
+            "content": {
+                "en": "Being chased by a t-800 that looks like a 12 year old girl."
+            }
+        },
+        {
+            "id": "w_576afa544e02b1d5d426f3f8e1dd5a780590d71d",
+            "content": {
+                "en": "Being forced to marry an abusive king"
+            }
+        },
+        {
+            "id": "w_bac844bf3ded7d31e9ec8a94021560820bb86411",
+            "content": {
+                "en": "Being impaled."
+            }
+        },
+        {
+            "id": "w_36b966eabd1a9581280ae03d40f1f8e850b20c4b",
+            "content": {
+                "en": "Being unable to fool anyone with that topknot."
+            }
+        },
+        {
+            "id": "w_56378a74cc31b871857f4382848d2f5623bd0a7b",
+            "content": {
+                "en": "between the legs of the Titan"
+            }
+        },
+        {
+            "id": "w_e0e27e7d54c1d16bd4c0d7209ef6e4402618bdb6",
+            "content": {
+                "en": "Beyond the Wall"
+            }
+        },
+        {
+            "id": "w_80bda1387f6855940daa2e3bf1651da79c1f7461",
+            "content": {
+                "en": "bitch-slapping Joffrey"
+            }
+        },
+        {
+            "id": "w_bf34d7c5cdee6bac5be0e72277cc2c485bb43864",
+            "content": {
+                "en": "Blackwater Bay"
+            }
+        },
+        {
+            "id": "w_ad1d9f9a2cf76be7fca10d3bd8489daa6e7470e1",
+            "content": {
+                "en": "blood magic"
+            }
+        },
+        {
+            "id": "w_470b338d238e751aab340ba40ab3bf46bd9105f8",
+            "content": {
+                "en": "Born a bastard"
+            }
+        },
+        {
+            "id": "w_0f74e231c343d601c16571a4aa3c3f16bb17d00a",
+            "content": {
+                "en": "bowl of brown"
+            }
+        },
+        {
+            "id": "w_4d77a736d40b54de10cb6a1e2dceebf08ccc4fa8",
+            "content": {
+                "en": "Bran Stark"
+            }
+        },
+        {
+            "id": "w_a9c7679990059f9d9c534f3869d2e2e85fc2858d",
+            "content": {
+                "en": "bread and salt"
+            }
+        },
+        {
+            "id": "w_16ffa4236997ccf034ceb6176037f886f891fa00",
+            "content": {
+                "en": "Breastfeeding your creepy son until he&apos;s 9 years old"
+            }
+        },
+        {
+            "id": "w_e68e951f7a8a2200bb628aea50d3cf56fe07701d",
+            "content": {
+                "en": "Bringing dishonor to the family name."
+            }
+        },
+        {
+            "id": "w_6ea67f839ccb6520de04ac69c4a06ef90e9a94d8",
+            "content": {
+                "en": "Bronn&apos;s curved dagger"
+            }
+        },
+        {
+            "id": "w_14744801c69c25be4724198d7804e1dec27d449d",
+            "content": {
+                "en": "Brooding."
+            }
+        },
+        {
+            "id": "w_07b91ab943d15c4902ed0c55e9d78fdf7b60c58b",
+            "content": {
+                "en": "Brought home a new baby bastard for your wife to hate"
+            }
+        },
+        {
+            "id": "w_41feaa27508229d627d2f94aeb2ffcf7d6860bcd",
+            "content": {
+                "en": "Budget concerns."
+            }
+        },
+        {
+            "id": "w_a6187bb4a1bd2dd2571b3756b6dea915eadd6fc9",
+            "content": {
+                "en": "Built a 700 foot high wall to keep out bad things"
+            }
+        },
+        {
+            "id": "w_3691547d614b72bc84f48466733ec6b26758ec5c",
+            "content": {
+                "en": "Burn victims."
+            }
+        },
+        {
+            "id": "w_e20bba09f14a37fc9c47a6e97941a45a80c84d2b",
+            "content": {
+                "en": "Butchered by White Walkers and arranged in an artful pattern"
+            }
+        },
+        {
+            "id": "w_eb6978341345eda5ae7a8247fad9ddaa97fdde97",
+            "content": {
+                "en": "Carried by Hodor"
+            }
+        },
+        {
+            "id": "w_10e5657a017b59a2ee8fb1ee6cfad0eb818e1152",
+            "content": {
+                "en": "Catelyn Stark, Lady of Winterfell"
+            }
+        },
+        {
+            "id": "w_4b48a0a948426128e61315f0bc46cfece8e54c27",
+            "content": {
+                "en": "Catelyn&apos;s everflowing river of tears"
+            }
+        },
+        {
+            "id": "w_074725397880f3804e26e097ad3cf9b61ca35fc8",
+            "content": {
+                "en": "cave sex"
+            }
+        },
+        {
+            "id": "w_9ccd5084705f9c359face895917f0f50afffbcc4",
+            "content": {
+                "en": "Cersei Lannister, the Queen"
+            }
+        },
+        {
+            "id": "w_9212d04f35aae3e9b7d07033bdeb354e23eaa95e",
+            "content": {
+                "en": "Changed things from the book, infuriating fans"
+            }
+        },
+        {
+            "id": "w_4899af78c454c7d2d908632dfbd257c0985bf43b",
+            "content": {
+                "en": "Chataya&apos;s pleasure house"
+            }
+        },
+        {
+            "id": "w_b979835af36958f6b263eea183997d301b6ac1ad",
+            "content": {
+                "en": "Choosing between an all powerful God of fire and magic, and the God of trees, but only some trees."
+            }
+        },
+        {
+            "id": "w_f2bd5bf4ea231c79188e9f5da6024d8e4e0a79e9",
+            "content": {
+                "en": "Climbed the wrong wall at the wrong time"
+            }
+        },
+        {
+            "id": "w_bd3f151c6ed2248b6ca0870696db0e7703da81bf",
+            "content": {
+                "en": "Conquering the continent with dragons"
+            }
+        },
+        {
+            "id": "w_ee54b8f388ee787241be4bc3e2eb7c8538c36e65",
+            "content": {
+                "en": "Cousin cuddling."
+            }
+        },
+        {
+            "id": "w_868571017fe5ea4f13a75bc2f1588a56c1088e16",
+            "content": {
+                "en": "Cripples."
+            }
+        },
+        {
+            "id": "w_df81c8b69f47f9db731d5d747de0a599189dd276",
+            "content": {
+                "en": "Cutting off your enemies' heads and mounting them on spikes"
+            }
+        },
+        {
+            "id": "w_74b518ed5512d0ca1abf57120656a3191375da5e",
+            "content": {
+                "en": "dance"
+            }
+        },
+        {
+            "id": "w_7651247c146bb218556dedff20b28ab1478e8823",
+            "content": {
+                "en": "Danerys Targaryen, Khaleesi of the Dothraki"
+            }
+        },
+        {
+            "id": "w_4fb942b604555cfaf70d9e11f153c95c502afde5",
+            "content": {
+                "en": "Debilitating childhood trauma."
+            }
+        },
+        {
+            "id": "w_8d9e26b58e0bfeb4d3e8b3c449266ea82e32d1f9",
+            "content": {
+                "en": "Destroying the entire slavery industry."
+            }
+        },
+        {
+            "id": "w_3b867f5be996242ce5d14e08a92b834746688df0",
+            "content": {
+                "en": "Direwolves"
+            }
+        },
+        {
+            "id": "w_98f28f26bfc6ccd826814014aebaf06d63880aae",
+            "content": {
+                "en": "Donating your children to an actual demon."
+            }
+        },
+        {
+            "id": "w_3daa07172f1c8d708a860edadd40eaee86961ac6",
+            "content": {
+                "en": "Dorthraki accent."
+            }
+        },
+        {
+            "id": "w_600d826eb3e60f95dd3c337b4b2ef446eb38ce66",
+            "content": {
+                "en": "Dothraki accent"
+            }
+        },
+        {
+            "id": "w_93946da29f9f50d7689c40530e65b917a5847154",
+            "content": {
+                "en": "Dothraki mating rituals"
+            }
+        },
+        {
+            "id": "w_8fc2604372c618b6272409e715e614babbd3471a",
+            "content": {
+                "en": "Dracarys"
+            }
+        },
+        {
+            "id": "w_0ee3189e6d386a8c075096899e2c88179f56a210",
+            "content": {
+                "en": "Dragon Porn"
+            }
+        },
+        {
+            "id": "w_113a6cefb3fc9a15ff2b8d1978cc4ec1ed0b583c",
+            "content": {
+                "en": "Dragons"
+            }
+        },
+        {
+            "id": "w_0255dd3373a4e3cc5aebae3a2584aa6f589e079b",
+            "content": {
+                "en": "Dying mid-crap."
+            }
+        },
+        {
+            "id": "w_6d15ba8b69e41cd6aca1393ee3aa89456ff67e01",
+            "content": {
+                "en": "Ed Sheeran, out of nowhere."
+            }
+        },
+        {
+            "id": "w_2aa94e019c40858c574e54731ae09a5d3e2938cd",
+            "content": {
+                "en": "Eddard Stark guest starring on Chopped."
+            }
+        },
+        {
+            "id": "w_f2bd4bc2642b1ae10d05771647ece60dbfc2cac7",
+            "content": {
+                "en": "Emilia Clarke&apos;s world famous nipples."
+            }
+        },
+        {
+            "id": "w_83dbef9f84473c9683df4d3bb3579ca278634ec4",
+            "content": {
+                "en": "Endless fields of dead corpses, and one live one."
+            }
+        },
+        {
+            "id": "w_e16dd8e2a434cd9e994c72f672cfa3c9a36a3d39",
+            "content": {
+                "en": "Epic orchestral music with a choir and violins and everything."
+            }
+        },
+        {
+            "id": "w_fcacbc359572a41a3811e57817e125649b54f082",
+            "content": {
+                "en": "Every fucking chicken in this room."
+            }
+        },
+        {
+            "id": "w_9f02be58561c2671a12e4ab5d2c10c47fb07b930",
+            "content": {
+                "en": "Explaining complicated plot with lots of naked women around"
+            }
+        },
+        {
+            "id": "w_0a6c3630c3976124b634140a25df90715b5db4ae",
+            "content": {
+                "en": "Firebombing the shit out of those people."
+            }
+        },
+        {
+            "id": "w_ceb4d67cd70808c643e947d63b465e9bf3db0180",
+            "content": {
+                "en": "Flea Bottom furries"
+            }
+        },
+        {
+            "id": "w_68f7f5f628d20d30143d00e94f29c59b39c152da",
+            "content": {
+                "en": "Fondled by your brother on your wedding day"
+            }
+        },
+        {
+            "id": "w_12b0fbc2ee7ca6bd2d71ab36accaae83830145e5",
+            "content": {
+                "en": "Foreskin."
+            }
+        },
+        {
+            "id": "w_3daa49635e66e6c6ba6316892a4a0fa8e79fc18d",
+            "content": {
+                "en": "Found enough wolf cubs for all the children"
+            }
+        },
+        {
+            "id": "w_86efbb576c7075f52ecfc6c98821a06e3082b329",
+            "content": {
+                "en": "Fucking your own bride with a wooden cock."
+            }
+        },
+        {
+            "id": "w_c78c2145a78b242f375025f8b0e88533fe5bf51d",
+            "content": {
+                "en": "George RR Martin"
+            }
+        },
+        {
+            "id": "w_5aa09f38dd7627cfe6b58871d13ccfc9322a7998",
+            "content": {
+                "en": "Getting resurrected but then dying again."
+            }
+        },
+        {
+            "id": "w_e94ff3da2eef686ed2f3f41e4e0bfbf5bece3b6c",
+            "content": {
+                "en": "Getting shanked by a bunch of preschoolers."
+            }
+        },
+        {
+            "id": "w_093329a2ae471b9d5da18812140a53f0fe09b02f",
+            "content": {
+                "en": "Gratuitous nudity."
+            }
+        },
+        {
+            "id": "w_f253bf5e1a72ab96442b50faf30e8bd205c62b8f",
+            "content": {
+                "en": "griffins"
+            }
+        },
+        {
+            "id": "w_969b335dc3f8f186859c3b61024e3dd5b83b7a9a",
+            "content": {
+                "en": "growing stronger"
+            }
+        },
+        {
+            "id": "w_b0c65bf2a21c864101f343f864d6af74ba31769f",
+            "content": {
+                "en": "grumpkins and snarks"
+            }
+        },
+        {
+            "id": "w_f520b072e5cfeb74893127ea30aa119bd1d173ad",
+            "content": {
+                "en": "Happy shitting."
+            }
+        },
+        {
+            "id": "w_5520be062d6d86f7eb9749d7c63ec9f0bed749e5",
+            "content": {
+                "en": "Having a giant wolf for a pet"
+            }
+        },
+        {
+            "id": "w_d1ce9d20a40c2a5c4e5c85e7a4fb229cce23a13f",
+            "content": {
+                "en": "Having more money than friends."
+            }
+        },
+        {
+            "id": "w_28245632b731e03092e8d46d2d2130e7f97639b5",
+            "content": {
+                "en": "Having three dragons, an armada, and zero regard for civilian casualties."
+            }
+        },
+        {
+            "id": "w_cdd642334430fbbb5c68b6871810bf5eefa01bbb",
+            "content": {
+                "en": "Head kababs."
+            }
+        },
+        {
+            "id": "w_77faf96729e5163c6e0c73a77a0e7e9c52cb5ca5",
+            "content": {
+                "en": "hear me roar"
+            }
+        },
+        {
+            "id": "w_7beae811224527c25e9ce408b41b3516053164e9",
+            "content": {
+                "en": "her weight in sapphires"
+            }
+        },
+        {
+            "id": "w_f591cb2df1425c4fe1272e1db8e8f0e8cc48d107",
+            "content": {
+                "en": "Hodor singing the GoT theme song"
+            }
+        },
+        {
+            "id": "w_28c371ee6c9394c4f4a357299e6fd13e85b19c8a",
+            "content": {
+                "en": "HODOR!"
+            }
+        },
+        {
+            "id": "w_3960356040b98eacdf92bea21e043ad694d3104c",
+            "content": {
+                "en": "Hodoring"
+            }
+        },
+        {
+            "id": "w_a53ee5d24034754fa16f91f95bf63b65da913d1e",
+            "content": {
+                "en": "Holding the door for someone, and consequently dying."
+            }
+        },
+        {
+            "id": "w_9a5d803436fa0fb74c3bd039f9b43cfce812cb06",
+            "content": {
+                "en": "homoerotic overtones"
+            }
+        },
+        {
+            "id": "w_b011227d2ef72b612b2140acb90843f631a684ef",
+            "content": {
+                "en": "HOT PIE!"
+            }
+        },
+        {
+            "id": "w_8da55d802fa9d15cb5f2b04d2fa734c8db7b5339",
+            "content": {
+                "en": "Hot soapy shit soup."
+            }
+        },
+        {
+            "id": "w_7ec3dcbda8c08bcbe1cd504eed9398ef5c76b70c",
+            "content": {
+                "en": "House Lannister"
+            }
+        },
+        {
+            "id": "w_02c30ed6c6c0d91ce00ae72e46d7776c1e818123",
+            "content": {
+                "en": "House Stark"
+            }
+        },
+        {
+            "id": "w_be61ec9b8caafdc0561a178babe217f295468457",
+            "content": {
+                "en": "House Targaryen"
+            }
+        },
+        {
+            "id": "w_0b378daa02820c0cbe03858a8a0ca63bd52f0026",
+            "content": {
+                "en": "Incest, hot twin on twin action"
+            }
+        },
+        {
+            "id": "w_93bf5456b1a8494fb68f3695a62f0480d40826e2",
+            "content": {
+                "en": "Increased ratings with the use of gratuitous nudity"
+            }
+        },
+        {
+            "id": "w_67e9882cdf1fc7544860b67d8c33818614293e60",
+            "content": {
+                "en": "it rhymes with freak"
+            }
+        },
+        {
+            "id": "w_384758f4507650d97c6284a6a5f834bcd11e610d",
+            "content": {
+                "en": "Jaime Lannister, 'The Kingslayer'"
+            }
+        },
+        {
+            "id": "w_6ed4bed2b05175cf75d1692d0651aa4c2b004e54",
+            "content": {
+                "en": "Jaime&apos;s sword hand"
+            }
+        },
+        {
+            "id": "w_9978f3f917548d7b2362ca51b6402b36055e5243",
+            "content": {
+                "en": "Joffrey Baratheon, the Prince"
+            }
+        },
+        {
+            "id": "w_b50d7e13f19a0bd25c8c59c76def4dd0e6418e3e",
+            "content": {
+                "en": "Joining the Night&apos;s Watch"
+            }
+        },
+        {
+            "id": "w_06bfdca4383668ebf98ff0b8c49ee279cf3b5488",
+            "content": {
+                "en": "Jojen&apos;s dreams"
+            }
+        },
+        {
+            "id": "w_cc170e9a8b4c44a479702316cbd0bb22b155aab1",
+            "content": {
+                "en": "Jon Snow&apos;s real parents"
+            }
+        },
+        {
+            "id": "w_b588534979d775823aaffdd9902cee38120781b1",
+            "content": {
+                "en": "Jon Snow&apos;s thousand yard stare"
+            }
+        },
+        {
+            "id": "w_82b6f276225f1fbde1dcc3ff9fd567cad358fac6",
+            "content": {
+                "en": "Jon Snow&apos;s total lack of knowing things"
+            }
+        },
+        {
+            "id": "w_180614c08750c69ed8c1b7d916f59d6c571ef6d8",
+            "content": {
+                "en": "Jon Snow, the bastard"
+            }
+        },
+        {
+            "id": "w_cf4a137bbb626be8c47a4ffd494a81522f0b20f9",
+            "content": {
+                "en": "Khal Drogo&apos;s stallion"
+            }
+        },
+        {
+            "id": "w_cc649c23552f633cfd5f0ffc3c01ef4315f530dd",
+            "content": {
+                "en": "Khal Drogo, Dothraki horse lord"
+            }
+        },
+        {
+            "id": "w_1943b69db41e398e9191f117ff04e14141723ae8",
+            "content": {
+                "en": "Khaleesi"
+            }
+        },
+        {
+            "id": "w_bdc094374d16363dd9eb841168e03c8dda67a794",
+            "content": {
+                "en": "Killed by a member of the Kingsguard"
+            }
+        },
+        {
+            "id": "w_564eaf0d29179e8c18b245d4c90cc55852731b9a",
+            "content": {
+                "en": "killing"
+            }
+        },
+        {
+            "id": "w_4ac5bd428fea6d5fd175a8e00a3e04d7ec19f37e",
+            "content": {
+                "en": "Killing children because God told you to."
+            }
+        },
+        {
+            "id": "w_1b71b17dc0a38e6b708942b42e6e44cca95aee68",
+            "content": {
+                "en": "Killing someone and wearing their face."
+            }
+        },
+        {
+            "id": "w_6ce9f05c18901fc04d2aebbab83369c127e8c5cc",
+            "content": {
+                "en": "Kin slaying."
+            }
+        },
+        {
+            "id": "w_d01316d986755f7cb036d5ff67e9155794eaae8d",
+            "content": {
+                "en": "King Robert Baratheon, First of His Name, King of the Andals and the First Men, Lord Protector of the Realm"
+            }
+        },
+        {
+            "id": "w_331b93884dd4d006a42b12516596b6a5c71da1e2",
+            "content": {
+                "en": "Kings&apos;s Landing"
+            }
+        },
+        {
+            "id": "w_fc40dd4181e65417bffca0b7f61fefe87f8daa55",
+            "content": {
+                "en": "Lady"
+            }
+        },
+        {
+            "id": "w_8ea097b2732362815248cfaf10c40c06ad953c3f",
+            "content": {
+                "en": "Lannister twincest"
+            }
+        },
+        {
+            "id": "w_63b364eae870c2fa4eed5d747073a4b23392521c",
+            "content": {
+                "en": "Learning the prince is a bastard and the product of incest"
+            }
+        },
+        {
+            "id": "w_b37ffacca58f0f2e8f77df56ae5238afce70eb5c",
+            "content": {
+                "en": "Legitimizing your bastard son so that the family house may last another generation."
+            }
+        },
+        {
+            "id": "w_8e385f53b66c1ed7bcfe16711dba9045bde14d27",
+            "content": {
+                "en": "lemoncakes"
+            }
+        },
+        {
+            "id": "w_bd6a37ec79dbbef8f1f2d7cd0e0912eccc780821",
+            "content": {
+                "en": "Littlefinger"
+            }
+        },
+        {
+            "id": "w_3c93ef6042919adf7250bd703f95eaf339d2add9",
+            "content": {
+                "en": "Lord Varys, the Spider"
+            }
+        },
+        {
+            "id": "w_2237ba519e9ec0ca1e38d7a42f8505e692cac0f1",
+            "content": {
+                "en": "Lysa Arryn&apos;s breast milk"
+            }
+        },
+        {
+            "id": "w_25977a72b0d64a7a3d7363308d0420484983f19e",
+            "content": {
+                "en": "Maester Qyburn"
+            }
+        },
+        {
+            "id": "w_b177d9d0c36f2e564b8fdf3e64a42d1dee65fd46",
+            "content": {
+                "en": "Making daddy proud."
+            }
+        },
+        {
+            "id": "w_ed5ad345d7910a4e21bc6445ab52d2cc22f2a63e",
+            "content": {
+                "en": "Making millions of fans cry by killing off beloved characters"
+            }
+        },
+        {
+            "id": "w_a3b09d0158d49547f919c2601362532dab911496",
+            "content": {
+                "en": "making the eight"
+            }
+        },
+        {
+            "id": "w_430393e961ea626194d6a0aa5d281b01b0d9d24b",
+            "content": {
+                "en": "Making your husband love you through cunning use of reverse cowgirl"
+            }
+        },
+        {
+            "id": "w_6bbee8ca41b49a12d42bbd86450a8a7b08d89d3c",
+            "content": {
+                "en": "Manticore Venom"
+            }
+        },
+        {
+            "id": "w_90adbd9621de1a4bb6e7bcd5254bac6e44c54ab4",
+            "content": {
+                "en": "meat &amp; mead"
+            }
+        },
+        {
+            "id": "w_75bc89315a2c7204b4e9cd7b00565b9c1181d8f7",
+            "content": {
+                "en": "Melisandre&apos;s flaming pyre"
+            }
+        },
+        {
+            "id": "w_631b30d9d2183dd8e80d299ecd98a3cd1a556e23",
+            "content": {
+                "en": "milk of the poppy"
+            }
+        },
+        {
+            "id": "w_4354f8784740e12cf8dce0e9aa9e77c7bf091d8b",
+            "content": {
+                "en": "more boobs"
+            }
+        },
+        {
+            "id": "w_954b230a2356fb7f73df5ea5a823ad0191ad349e",
+            "content": {
+                "en": "Multiple stab wounds."
+            }
+        },
+        {
+            "id": "w_5336505e7a0698e7ff19b7de71e12d9f844f5db8",
+            "content": {
+                "en": "My bag full of human faces."
+            }
+        },
+        {
+            "id": "w_0838786c2a282ae8d8b31c8c6addb24720888124",
+            "content": {
+                "en": "My missing penis."
+            }
+        },
+        {
+            "id": "w_99876fd95be9af676fc07d05b67a15b2175171f3",
+            "content": {
+                "en": "My third cousin, so technically it&apos;s okay."
+            }
+        },
+        {
+            "id": "w_34e75a378470059532ad0d8b58c1a395e5e9da01",
+            "content": {
+                "en": "Ned Stark&apos;s head"
+            }
+        },
+        {
+            "id": "w_baacd27ceecc8feaf72d48c08b470791d10573ed",
+            "content": {
+                "en": "Ned Stark, Lord of Winterfell, Warden of the North"
+            }
+        },
+        {
+            "id": "w_dd60283ddeedf4ecd83b59d50d7925e9df11c148",
+            "content": {
+                "en": "Needle"
+            }
+        },
+        {
+            "id": "w_125d874e637659cbc79e468c6baf431d89154160",
+            "content": {
+                "en": "Negotiated a wedding no one will like"
+            }
+        },
+        {
+            "id": "w_f649ab8a42696983d4bf38888b3cb20b47ba8780",
+            "content": {
+                "en": "No one."
+            }
+        },
+        {
+            "id": "w_3c3d06dd9705a4bf58adead9a19fec25fc51eab2",
+            "content": {
+                "en": "None of this matters. Winter is coming."
+            }
+        },
+        {
+            "id": "w_c03538680cc2f3a532049041071b4c702e4723d4",
+            "content": {
+                "en": "Patricide."
+            }
+        },
+        {
+            "id": "w_98c756b83f87f4f8b1e530415d20a148db48729e",
+            "content": {
+                "en": "Paying the iron price."
+            }
+        },
+        {
+            "id": "w_57a1aa1f1a3cf364ae840e0bf8ca8c81d726dad2",
+            "content": {
+                "en": "Penis prosthetics."
+            }
+        },
+        {
+            "id": "w_5508876b76344cb1a968c58aa675216d01cbc8d9",
+            "content": {
+                "en": "Peter 'Littlefinger' Baelish"
+            }
+        },
+        {
+            "id": "w_d6b92131a39c3fd287d119e743aa94776490fe78",
+            "content": {
+                "en": "Pissed off of the Wall just because"
+            }
+        },
+        {
+            "id": "w_66f99141a2b962b6714a279ae2de9484524de95e",
+            "content": {
+                "en": "pissing off the edge of the Wall"
+            }
+        },
+        {
+            "id": "w_9448a1497aef17804243e08081f2ff2b4a695396",
+            "content": {
+                "en": "Podrick Payne&apos;s sexual prowess"
+            }
+        },
+        {
+            "id": "w_fa280c3e82ca607bb48053acebf029aecf027d8a",
+            "content": {
+                "en": "polishing his helmet"
+            }
+        },
+        {
+            "id": "w_859631a480281a1fc5eebd690d47c5a1d3d7c4f2",
+            "content": {
+                "en": "Pretending to be one of the guys but really being a psychotic child assassin with wolf telepathy."
+            }
+        },
+        {
+            "id": "w_99a85a555b86f6e2dcea8672f277af3a49c1b50a",
+            "content": {
+                "en": "Prince Doran&apos;s gout"
+            }
+        },
+        {
+            "id": "w_3ff1a113ce2408af4bb0aaa3f0dc5f48703e8ef1",
+            "content": {
+                "en": "Public outrage."
+            }
+        },
+        {
+            "id": "w_e3da62c1c3632534c07ff5d7b376f9591f3a54cc",
+            "content": {
+                "en": "Raising your husband&apos;s bastard son as your own"
+            }
+        },
+        {
+            "id": "w_7116c648d52d85091fb152fda42128fc60390e44",
+            "content": {
+                "en": "Ramsey&apos;s sausage"
+            }
+        },
+        {
+            "id": "w_fb1e7f68a3054711c86be4fcae5adeb9a2e94dd8",
+            "content": {
+                "en": "ravens"
+            }
+        },
+        {
+            "id": "w_b6193490099e0b60e7dedc12fa26e210094aed49",
+            "content": {
+                "en": "Renly&apos;s tourney lance"
+            }
+        },
+        {
+            "id": "w_47a6d09385beb718afddce6480c9ec76d21a4b9e",
+            "content": {
+                "en": "Riding off to join your best friend&apos;s rebellion"
+            }
+        },
+        {
+            "id": "w_aeb64293a69eb39316566d0b9f2aea929ddc260a",
+            "content": {
+                "en": "Robb Stark, heir apparent of Winterfell"
+            }
+        },
+        {
+            "id": "w_33ff2379ade2858e80dc5555a08f825831ed678a",
+            "content": {
+                "en": "Rode a dragon, like a boss"
+            }
+        },
+        {
+            "id": "w_15d87c722d3289322504a8000f030e8e0c5bf0b6",
+            "content": {
+                "en": "Roose Bolton&apos;s used leeches"
+            }
+        },
+        {
+            "id": "w_f7ad7d2bd139c58eaeb3a62aaee244390c6509b9",
+            "content": {
+                "en": "Ros the whore"
+            }
+        },
+        {
+            "id": "w_536ae67795f3d651649d23bfc6e554913e3febcf",
+            "content": {
+                "en": "Ros, the red-headed whore"
+            }
+        },
+        {
+            "id": "w_ec2127c5c0881175e3237ac7f64fb15752ba436d",
+            "content": {
+                "en": "Rowing forever."
+            }
+        },
+        {
+            "id": "w_94e0e16def1fbfc71caf297d451ae4bf6be17474",
+            "content": {
+                "en": "Running a whorehouse, which is better than owning ships"
+            }
+        },
+        {
+            "id": "w_6897ceeb24f6824df29af9f4c020a73a83deadba",
+            "content": {
+                "en": "Sandsnake fanfiction"
+            }
+        },
+        {
+            "id": "w_4337ce5e4095e565d51e0ef4c80df1fecf238b29",
+            "content": {
+                "en": "Sansa"
+            }
+        },
+        {
+            "id": "w_5ac98d78127b7aa44e911b96d1e0d901ddcf8ac1",
+            "content": {
+                "en": "Sansa Stark, betrothed to Prince Joffrey"
+            }
+        },
+        {
+            "id": "w_2d722a52e06ed90a68efb7ad6666e3b4e7ea7bd5",
+            "content": {
+                "en": "Sean Bean&apos;s 9323rd death scene."
+            }
+        },
+        {
+            "id": "w_2981bdce8242324c3a66b86560e452de5cc6c87a",
+            "content": {
+                "en": "Seized the Iron Throne by any means necessary"
+            }
+        },
+        {
+            "id": "w_e434866ee7b376d211307495ea82c58c18eae32f",
+            "content": {
+                "en": "Selling your sister to Dothraki nomads"
+            }
+        },
+        {
+            "id": "w_4035a68255490de244ff4721d6a99c06f8b2fe45",
+            "content": {
+                "en": "Ser Illyn Payne&apos;s hollow mouth hole"
+            }
+        },
+        {
+            "id": "w_e6465877e13b7c0e1b3d903f36025a93b4234cd6",
+            "content": {
+                "en": "Shame."
+            }
+        },
+        {
+            "id": "w_0f3a78805f74dc301bf3d889d5b5d9e07807fb8f",
+            "content": {
+                "en": "shitting gold"
+            }
+        },
+        {
+            "id": "w_70cf3c05ec4662ebb44a85ca834337430a39a2ba",
+            "content": {
+                "en": "Shitting in a bucket so you never have to leave the couch while you binge watch Game of Thrones."
+            }
+        },
+        {
+            "id": "w_3f2ab55d972180bcf9dfd1282d14899e5ba49ab1",
+            "content": {
+                "en": "Skagosi unicorns"
+            }
+        },
+        {
+            "id": "w_f5c15c21523a8495c05d3833aa4fb0829ce3c3d5",
+            "content": {
+                "en": "Slapping Joffrey. Repeatedly."
+            }
+        },
+        {
+            "id": "w_e259ea3e51bd4466ba8725cab1eb860649a57afb",
+            "content": {
+                "en": "Slowly bleeding out in a field in the middle of fucking nowhere."
+            }
+        },
+        {
+            "id": "w_3349797eaa9ac2d6ff408cd88469bc9a457e429c",
+            "content": {
+                "en": "Some asshole who keeps going around drawing faces on trees and telling people they're magical."
+            }
+        },
+        {
+            "id": "w_91b7861a89fc07faa475fddb3dbf462941c1651c",
+            "content": {
+                "en": "Some violence, some nudity, and foul language."
+            }
+        },
+        {
+            "id": "w_94d7e61d86fe3df1b720fa097507497073699727",
+            "content": {
+                "en": "Spent an entire reign chasing boars and fucking whores"
+            }
+        },
+        {
+            "id": "w_b302005559aabf14d218dd222a7ef4da1f0402f7",
+            "content": {
+                "en": "Spoilers from the next book"
+            }
+        },
+        {
+            "id": "w_fc726d09712b2b292ee1bdfb124200682496b721",
+            "content": {
+                "en": "Started a pointless vendetta with another House"
+            }
+        },
+        {
+            "id": "w_c7cb2bc6a6e155a3b0718c1bcd76ae941a82bb1e",
+            "content": {
+                "en": "Sticking them with the pointy end."
+            }
+        },
+        {
+            "id": "w_1933593bf41b82c44b8a301c86a1cac79d5eaf8d",
+            "content": {
+                "en": "Swore an oath to the old gods and the new"
+            }
+        },
+        {
+            "id": "w_58edc75e5208bda01fd03f04f51feee9cb1a042d",
+            "content": {
+                "en": "taking the throne"
+            }
+        },
+        {
+            "id": "w_489d090b1dc4d5fb8e344220a1e67975a3bb2cae",
+            "content": {
+                "en": "Talking too much."
+            }
+        },
+        {
+            "id": "w_4a20ebab04ef36f2c50a9aaadaafcf149e62eb3a",
+            "content": {
+                "en": "tansy tea the three-eyed raven"
+            }
+        },
+        {
+            "id": "w_b1f8a8fd4aa493cdd86bb8b0ddb9f8cfc472ee07",
+            "content": {
+                "en": "Tansy tea."
+            }
+        },
+        {
+            "id": "w_d33c94756517d732fbb3a743c0dcd37e1a05b439",
+            "content": {
+                "en": "Tears of Lys"
+            }
+        },
+        {
+            "id": "w_549516fd1beaa33164bbb4aeb0ca5bc3c804ebb7",
+            "content": {
+                "en": "That bear I had sex with one time."
+            }
+        },
+        {
+            "id": "w_73dd07f6f5da5ddf06390111840f6678950e442b",
+            "content": {
+                "en": "The almighty squid-god."
+            }
+        },
+        {
+            "id": "w_f2ca8da608395a6b474d6841c9b67d4dcb0fef17",
+            "content": {
+                "en": "The average life expectancy of a Forrester."
+            }
+        },
+        {
+            "id": "w_da155038fe7a53279339a79d0deac98e49338cf4",
+            "content": {
+                "en": "The Bear and the Maiden Fair"
+            }
+        },
+        {
+            "id": "w_8248af250d70ca5867b46940ec5f93035c33500b",
+            "content": {
+                "en": "the burnt side of the Hound&apos;s face"
+            }
+        },
+        {
+            "id": "w_0c5f9c3f1fb316874d403376e97f832566bd4281",
+            "content": {
+                "en": "the champion&apos;s \"purse\""
+            }
+        },
+        {
+            "id": "w_4c5cfbe45bfa8aa440729ebbad6322a1c679248d",
+            "content": {
+                "en": "the Dothraki word for \"handjob\""
+            }
+        },
+        {
+            "id": "w_7696813f40468d7dc1b3cf3adfdf3f0f50273470",
+            "content": {
+                "en": "the faith of the Seven"
+            }
+        },
+        {
+            "id": "w_425b8c05dc8395c59858f43dcfe087e3348c4883",
+            "content": {
+                "en": "The gap between Maisie Williams' eyes."
+            }
+        },
+        {
+            "id": "w_c34160eff5e08e0b3e91e22ee998edcc049364ed",
+            "content": {
+                "en": "the gold price"
+            }
+        },
+        {
+            "id": "w_48e0ee258d7929b63a123add5b397c4b0326acc0",
+            "content": {
+                "en": "the Horn of Winter"
+            }
+        },
+        {
+            "id": "w_8face7dd2665fc1adc083740444145da81460794",
+            "content": {
+                "en": "the iron price"
+            }
+        },
+        {
+            "id": "w_856b1936e0f9fdc3096f58a97773051e4b330093",
+            "content": {
+                "en": "The Iron Throne"
+            }
+        },
+        {
+            "id": "w_f8347eb0fb977e0f1c1965ca685995b3f2d86a14",
+            "content": {
+                "en": "the kraken rises"
+            }
+        },
+        {
+            "id": "w_17db12f93e7e53e733d3eb0a2fbef99a448fd575",
+            "content": {
+                "en": "the long, slimy, smooth tentacles of a kraken"
+            }
+        },
+        {
+            "id": "w_e14bcf78dcb6b72299138ea84c6948002401c199",
+            "content": {
+                "en": "the Meereenese Knot"
+            }
+        },
+        {
+            "id": "w_bc340d91f459a4c6e789a54e34ce97edca94c96b",
+            "content": {
+                "en": "the mother fuckin' Red Viper!"
+            }
+        },
+        {
+            "id": "w_5bc69142942e427198aa9cdf025ba5c0572646b1",
+            "content": {
+                "en": "The Mountain&apos;s massive cock"
+            }
+        },
+        {
+            "id": "w_473c4a830af28c286d36d7f823609bfb9d16209c",
+            "content": {
+                "en": "The Night&apos;s Watch"
+            }
+        },
+        {
+            "id": "w_7effa69099b69aacfe61bed95024ed1ebe98fd20",
+            "content": {
+                "en": "the nipple of an unsullied"
+            }
+        },
+        {
+            "id": "w_3da3613d196ca48e62d703ca2c4e1e7dc96033c4",
+            "content": {
+                "en": "The old gods and the new"
+            }
+        },
+        {
+            "id": "w_c7c3fbfac478f42e5e65c2ebfaa042535f5697f5",
+            "content": {
+                "en": "the old ways"
+            }
+        },
+        {
+            "id": "w_1d34169b3a2ac763905d8673b584b839102346ed",
+            "content": {
+                "en": "the Onion Knight&apos;s severed fingertips"
+            }
+        },
+        {
+            "id": "w_87fc57c09706f075b681564252e7c8fb290cc35e",
+            "content": {
+                "en": "The only two black cast members hooking up."
+            }
+        },
+        {
+            "id": "w_4dafbd4437c44c91c76c51dbb3edd3cf78dd58b6",
+            "content": {
+                "en": "the prick of a rose&apos;s thorn"
+            }
+        },
+        {
+            "id": "w_61d97ab922dd675fd19dcce4eee43770cbd7c2b6",
+            "content": {
+                "en": "the proud and noble House Manwoody"
+            }
+        },
+        {
+            "id": "w_6a7f3da38d046ae35f95c321e112d1e02a7ec296",
+            "content": {
+                "en": "The proud and noble House of Manwoody."
+            }
+        },
+        {
+            "id": "w_feed1acefd4c1408bbea45576dbc8472ab9ad0e7",
+            "content": {
+                "en": "the public bathroom at Harrenhall"
+            }
+        },
+        {
+            "id": "w_2162d545fc8fb16ca7b03dba01f9ebae5748833e",
+            "content": {
+                "en": "The Seven Kingdoms"
+            }
+        },
+        {
+            "id": "w_89d852a8b38973205ba3316bebe21e46251024a7",
+            "content": {
+                "en": "The things I do for love."
+            }
+        },
+        {
+            "id": "w_405c65b73876db9f4f00c2f094cd8519ac4d8d4a",
+            "content": {
+                "en": "The three-eyed raven."
+            }
+        },
+        {
+            "id": "w_26ef351d78f13732bc3d48de4d750cf5cedb81dd",
+            "content": {
+                "en": "the Tickler"
+            }
+        },
+        {
+            "id": "w_9d88438bcd4bdb01cbf4ca09249b3e861f685969",
+            "content": {
+                "en": "the truth about Jon and Sam"
+            }
+        },
+        {
+            "id": "w_727cc732ba562f7796243a18b73fd3eb4b05161f",
+            "content": {
+                "en": "The Wall"
+            }
+        },
+        {
+            "id": "w_ce9c6ca7d44dc90ca58eb6ec927589ea06f32bf5",
+            "content": {
+                "en": "the wintery abode of white walkers"
+            }
+        },
+        {
+            "id": "w_53b57b4872e5595d3e311141bf11d2d140ab4f35",
+            "content": {
+                "en": "Theon Greyjoy, Ned Stark&apos;s youthful ward"
+            }
+        },
+        {
+            "id": "w_dcc83137fec195f1cc357df904099ccb75a3c16a",
+            "content": {
+                "en": "Theon\u2019s favorites toy."
+            }
+        },
+        {
+            "id": "w_c82b31e9dd97e49cae7cca5c3eebd060075f8b8d",
+            "content": {
+                "en": "Thinking of the children."
+            }
+        },
+        {
+            "id": "w_e985e46f000de68fb6c65e5739a6e54d491abe29",
+            "content": {
+                "en": "Throwing a boy out of a window to cover up incest"
+            }
+        },
+        {
+            "id": "w_e266d1511884b60384c0fd67db61b759f7a77022",
+            "content": {
+                "en": "Trusting Littlefinger"
+            }
+        },
+        {
+            "id": "w_4a9a3310c3e744fdc1712ec8c10d0083b4ef6228",
+            "content": {
+                "en": "Twincest."
+            }
+        },
+        {
+            "id": "w_8800071c44f79dfb47f2e7b115c2b005618fc5ab",
+            "content": {
+                "en": "Tyrion"
+            }
+        },
+        {
+            "id": "w_bc1d71eb35e757b3fb6bdd76126207cfc95ac0ea",
+            "content": {
+                "en": "Tyrion Lannister, 'The Imp'"
+            }
+        },
+        {
+            "id": "w_3fd556d75069a5de58d3d7ec84440bbb9a305926",
+            "content": {
+                "en": "Tywin&apos;s disappointed father face"
+            }
+        },
+        {
+            "id": "w_f30bcb94e582d43ee1b9f161c1ec04933aa0091f",
+            "content": {
+                "en": "Unexpected penis."
+            }
+        },
+        {
+            "id": "w_44da07336892fcbb8cd3cff455ae2e55ce763d25",
+            "content": {
+                "en": "Vargo Hoat&apos;s beard fetish"
+            }
+        },
+        {
+            "id": "w_6cd4b1775251a29bbc1596c428f7caaf43c6dc7f",
+            "content": {
+                "en": "Varys&apos;s root and stem"
+            }
+        },
+        {
+            "id": "w_167be7a9e37616d5d857d4e0de14ff044007cc60",
+            "content": {
+                "en": "virginity"
+            }
+        },
+        {
+            "id": "w_1c517901b7ec63b22ccae38f826b261660f08467",
+            "content": {
+                "en": "waking the dragon"
+            }
+        },
+        {
+            "id": "w_b23dc4f61a547b3b3a8cb0ec486a0285977a3912",
+            "content": {
+                "en": "Waking up without a penis."
+            }
+        },
+        {
+            "id": "w_a5cb19c883829ea75b7830fa01d39c6b19149b0f",
+            "content": {
+                "en": "Walder Frey&apos;s puckered lips"
+            }
+        },
+        {
+            "id": "w_d81287912b2e918dac6dd9fb3c2e2ff864b363df",
+            "content": {
+                "en": "Walder Fry&apos;s puckered lips."
+            }
+        },
+        {
+            "id": "w_0c4917a829024c16827a5d82c405ca6cbc1c1663",
+            "content": {
+                "en": "Walking the dragon."
+            }
+        },
+        {
+            "id": "w_383d3d9eefaaab5d3d2878ffe120f5353feae805",
+            "content": {
+                "en": "Wearing skin suits to infiltrate their ranks."
+            }
+        },
+        {
+            "id": "w_9272419dacb843d749688b9931fde194183aa6d3",
+            "content": {
+                "en": "Westeros"
+            }
+        },
+        {
+            "id": "w_e1d33c43c96c7d037270ee47d16deaa44b6a83e6",
+            "content": {
+                "en": "When the state establishes a church and its leader cuts your hair and makes you walk naked down the street while the peasants throw poop at you because you had sex with your hot brother."
+            }
+        },
+        {
+            "id": "w_6adb80530319f8b2ed40ab114bbdea080f5e7678",
+            "content": {
+                "en": "When you expect a night of sweet lovin' but get leeches on your dick instead."
+            }
+        },
+        {
+            "id": "w_a3d831be0fbbbb7382be06120902663af6ec8d6e",
+            "content": {
+                "en": "where whores go"
+            }
+        },
+        {
+            "id": "w_5762e0485d7d690b0dc26141eab09d087306014c",
+            "content": {
+                "en": "White Walkers"
+            }
+        },
+        {
+            "id": "w_581dfc9233d4bfcc3378878298404a4fe8e5f91a",
+            "content": {
+                "en": "Wight supremacists."
+            }
+        },
+        {
+            "id": "w_f72b91d6744dcd6686d6ed6f0bd0da803ebf041d",
+            "content": {
+                "en": "wildfyre"
+            }
+        },
+        {
+            "id": "w_a1e9e0cd74e331eaec2300365899a8e3d7b566b2",
+            "content": {
+                "en": "Winterfell"
+            }
+        },
+        {
+            "id": "w_81d91c90d63c28e705febc536585aecf39acfa36",
+            "content": {
+                "en": "Ygritte&apos;s lusty longbow"
+            }
+        },
+        {
+            "id": "w_8a41a44b80aadb58769df0b11ac82c5122b3d5a9",
+            "content": {
+                "en": "Young Grif"
+            }
+        },
+        {
+            "id": "b_d665b71664d3658b405b03d37543fb563a47d284",
+            "content": {
+                "en": "A Dothraki wedding without ______ is considered a dull affair."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_612e4ad1fab6ec500643298bdffd4f52bd359b14",
+            "content": {
+                "en": "A Lannister always pays ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_56846fb3a7f4fd98338b8617ce5f477c288a7752",
+            "content": {
+                "en": "A man without ______ is a man without power."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_909574f1da274487f5ea3853699b856cf1237d3a",
+            "content": {
+                "en": "After a tragic encounter with ______, the Kingslayer&apos;s hand was replaced with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_29d0940373819475673f58ebb8e0cc4e42b53cd4",
+            "content": {
+                "en": "After I was caught ______, I was forced to join the Night&apos;s Watch."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d2c0370d81c7e5887504ffe20d6ace9ec633464",
+            "content": {
+                "en": "All hail ______! King of ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f1df4632be7508cb635d3ddca691685643155abc",
+            "content": {
+                "en": "All men must ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6a6000e0bd55b10e270cb7a3d74789b1c4998cd0",
+            "content": {
+                "en": "At the Red Wedding, Robb Stark lost his ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c6e77b1af133e52d3405bbe31af9328bbcd91467",
+            "content": {
+                "en": "Because of ______, Danerys was called ______ by everyone."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c812b42b0f61c9062c5a6e45b65d4f0c9aadc1d9",
+            "content": {
+                "en": "Before losing his package, Varys&apos;s favorite passtime was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0a9b6743ad2ae603ee079478e5463800bf1e050",
+            "content": {
+                "en": "Before losing his package, Varys&apos;s favorite pastime was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8c7f4bf2824a314c40ea7a8fb1a41f5c81bcb19a",
+            "content": {
+                "en": "Brace yourselves, ______ is coming."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd2114fb417de180dd65d0557a4dcbf1f410cfd7",
+            "content": {
+                "en": "Chaos is a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ac4a6c9afc2370a85edf7c8bf30d3800e509a83",
+            "content": {
+                "en": "Daenerys Targaryen, 1st of Her Name, Queen of Meereen, The Andals, The Rhoynar and The First Men, Lord of the 7 Kingdoms, Khaleesi of the Great Grass Sea, ______, The Unburnt, Mother of Dragons."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7196c82ba6c8dc948f2dbbbe601b83548ed0f8cc",
+            "content": {
+                "en": "Daenerys Targaryen, First of Her Name, Queen of Meereen, The Andals, The Rhoynar and The First Men, Lord of the Seven Kingdoms, Protector of the Realm, Khaleesi of the Great Grass Sea, Breaker of Chains, ______, The Unburnt, Mother of Dragons."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dbd518cf1b0ba0821e9267a5aaaad92e4c67fe1b",
+            "content": {
+                "en": "Daenerys Targaryen, First of Her Name, Queen of Meereen, The Andals, The Rhoynar and The First Men, Lord of the Seven Kingdoms, Protector of the Realm, Khaleesi of ______, ______, ______, ______, Mother of Dragons."
+            },
+            "pick": 4
+        },
+        {
+            "id": "b_224fa7c0710e36bd1f544b64197fe93f17ba5427",
+            "content": {
+                "en": "Dark wings, dark ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b98104b15fc0e24b41436eb11ae98850fbaa7c6b",
+            "content": {
+                "en": "Describe Game of Thrones with one card."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_58ca0dd7a2d5d896f4241c2a864aebb2433b2850",
+            "content": {
+                "en": "Despite his best efforts, King Robert filled his reign with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7e3f5d46a6571390c5693c3c58471700794b945",
+            "content": {
+                "en": "Everyone fears ______&apos;s ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4e6e2a2032e5039395c881dd24d972889d5c108b",
+            "content": {
+                "en": "First lesson, stick them with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c297fa95796ea01db72a26765fe3b7e20b1d2fbc",
+            "content": {
+                "en": "Having fallen prey to ______, the King lies dying."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d48b801a1a401ddaa44cd8a6a98509986501c86e",
+            "content": {
+                "en": "Hodor only ever says ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_80ecfe07017cd42dd2d8c7d340c015edb6406862",
+            "content": {
+                "en": "I hereby sentence you to die by ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18f3796c5af6d60dce8da5563857153077a6424c",
+            "content": {
+                "en": "I may be ______, but I won\u2019t be ______ while I have men fight for me."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_19ce68441f93e54f92d7351fa9f6bda3d1e04573",
+            "content": {
+                "en": "I prayed to the Gods &ldquo;Take ______ away. Make it die.&rdquo;"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4e71704c96cb2163ed167190d735c991be8db47e",
+            "content": {
+                "en": "I will take what is mine with ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9bafbf50e6d9bd544d1babb9f54a856e3e389c75",
+            "content": {
+                "en": "I'll take what is mine with ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_59dd5f79a705f8d6ba7b2edf9052779ab398a5b3",
+            "content": {
+                "en": "If I had a direwolf, I'd name it ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e02bb50aab088fad2b14f70d5c3eb97e7b134977",
+            "content": {
+                "en": "If Ned Stark had ______, he never would have ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fbdbb6814a048ea0314593bd8dcfb8d67679826d",
+            "content": {
+                "en": "If Westeros had porn, the most popular would feature ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1b4adfbea71c9fc75e1132f04aa5e45b95155ea5",
+            "content": {
+                "en": "If you can't defeat your enemies in battle, there&apos;s always ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c6a3cdfc5ef1aec1ddfce8ca8be277b393a85059",
+            "content": {
+                "en": "In exchange for his sister, Viserys was given ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9c772d912ab5d433b6e8f988de100bf15d15be6",
+            "content": {
+                "en": "In his next book, George RR Martin will spend 500 pages to describe ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e7900d692584c312f005252d48395bc5b4923831",
+            "content": {
+                "en": "In his next book, GRRM will spend 500 pages to describe ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d09c3fff25f5f8df9bbca7fe54caf33c72ae7ded",
+            "content": {
+                "en": "In the game of ______ you win or you ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f625bfd2cf8a504e2e86437cc3d1e08ca4f908d7",
+            "content": {
+                "en": "In the House of the Undying, Danny saw a vision of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0a4eccbd7f81d99eccd23d8fcb9d52909212d1fa",
+            "content": {
+                "en": "In the House of the Undying, Dany saw a vision of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8233080520db54713548d87aef1f9bf15fcc9e22",
+            "content": {
+                "en": "In the name of ______, first of his ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d96b205fb0dc9f888d2ad2928d92dc76cd23e9fe",
+            "content": {
+                "en": "In the next Game of Thrones book, George R. R. Martin said ______ will ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e8562ca8e75d94b6a9fe8413b018142fd93ac685",
+            "content": {
+                "en": "In ______, you win or you lose."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44430ab2953b5ae35a01dbccba034834265d8324",
+            "content": {
+                "en": "It is rare to meet a Lannister who shares my enthusiasm for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3eeb950f6c56a362d7667b29814fe09783572e04",
+            "content": {
+                "en": "I\u2019m not going to stop ______. I\u2019m going to break ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b7e85992b5d441625f258196d08548d5ff249f3e",
+            "content": {
+                "en": "I\u2019ve known a great many clever men. I\u2019ve outlived them all. Do you know why? I ignored ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_968add774f313d74f04ef432770128a43d1fd18d",
+            "content": {
+                "en": "Khal Drogo&apos;s morning ritual included ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4a7111f4445416f222bf9a49c7e82528bdc009bf",
+            "content": {
+                "en": "Last time Cersei had too much to drink, she had a bad experience with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_96e01b56a9ab6284f6a75d40fb3f38c953c52327",
+            "content": {
+                "en": "Littlefinger&apos;s nickname was a direct result of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5efb928852bfcf6a3de1b0fa9cc2ddb2f86b184e",
+            "content": {
+                "en": "Maester Luwin forged one of his links by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b002a59c2e55add24417c7911af66cb4aff40d25",
+            "content": {
+                "en": "My brother has his ______, and I have my ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_dc364dfbe9818627796742a0c83ce289271a15b1",
+            "content": {
+                "en": "My mother taught me not to throw stones at ______, but my father taught me: aim for ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3ad29d88fcee37e00b6f9d094ced52a4e69c2222",
+            "content": {
+                "en": "My worst nightmare is meeting ______ face to face."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab0def7df875f599bc337ed4c9daafbd85067bab",
+            "content": {
+                "en": "Olly, bring me ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f94923e814c884a130992977c2c1e77ac57baeae",
+            "content": {
+                "en": "On her wedding day, Daenerys was presented with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5aa8cb30e372a4305baef0dcba5a33a763284cf0",
+            "content": {
+                "en": "One needs ______ to make the eight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08bddfa8d61f0a051674c53293614ed3bafd8dce",
+            "content": {
+                "en": "PICK 2 The mind needs ______ like a sword needs a ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0f7893616caf43882786a82c3ecab58d0eff8090",
+            "content": {
+                "en": "Robert Baratheon secretly gave ______ to each of his bastards at their births."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_068dd3474b3d525d3f8f1c3b9075804a75777860",
+            "content": {
+                "en": "The man who passes the sentence should swing the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c57efaefbf3f9524e24f0a227a1af306b31dfd0d",
+            "content": {
+                "en": "The mind needs ______ like a sword needs a ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_286fa47ebc7461cda6b5168564ea6b75c783bb9c",
+            "content": {
+                "en": "The next Game of Thrones book will be titled ______ of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bd25a568adb9977fde1eed14dcf53b14d26db0c3",
+            "content": {
+                "en": "The next time you raise a hand to me will be the last time you have ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccf12095ba74fb0f0435ecab4d19ed99e2bc8e72",
+            "content": {
+                "en": "The night is dark and full of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_58876b8b69125baab74793abe7640db91dc03bd9",
+            "content": {
+                "en": "The only game that matters is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_096066b7d371062cc1e8ace2c47b487eadd2bcc5",
+            "content": {
+                "en": "The things I do for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d514cd6a56f06b56291708b8a5adf0ba8ee9d2e6",
+            "content": {
+                "en": "There is no word for ______ in Dothraki."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_51962f544d10ef0a066ca931cfb485a4d4a3891c",
+            "content": {
+                "en": "There is only one thing we say to ______: &ldquo;Not today&rdquo;."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed0cc258efd7b480bef5d9765c28d92b93597dec",
+            "content": {
+                "en": "Varys sometimes wishes his missing goods were replaced with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20d48ad95b47400d060b10eeb0d4bb0ad5b9f77b",
+            "content": {
+                "en": "What is ______ may never die."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3531be930652acb8f49145d36b5b37137e8c7d7",
+            "content": {
+                "en": "When Daenerys emerged from the fire, her first wish was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12cfa745ef4eb828f4446078dc299bd52ca4b653",
+            "content": {
+                "en": "When King Joffrey wants to have fun, he asks for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67f80b31b758ed70418aac8046b9d1487a237f68",
+            "content": {
+                "en": "When traveling the Kingsroad, one should always bring ______ for good luck."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7fa3c1b22097a92ccdcbb2baa02975f52638920b",
+            "content": {
+                "en": "When travelling the Kingsroad, one should always bring ______ for good luck."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3e5d59412c8a968c054626170140f0e0558c549",
+            "content": {
+                "en": "You know ______, Jon Snow."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d14a6a37b664248231d338564464b179868934a0",
+            "content": {
+                "en": "Your joy will turn to ______ in your mouth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21d3518aa2526ce1ba2ffb788e6353eb79f108c8",
+            "content": {
+                "en": "You\u2019re shit at ______, you know that?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_447c1472340868ee10f550b4d0a80f68df4914d6",
+            "content": {
+                "en": "______ cuts deeper than swords."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa71205155e26eb53c90f876213299fe2228ecea",
+            "content": {
+                "en": "______ for me, little bird."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3746046400412751d9e39c721c472872164c7f0a",
+            "content": {
+                "en": "______ have always preyed on ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_488c6afdddffd85f797ba05c1ff2566560330846",
+            "content": {
+                "en": "______ is coming."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_25d71249eb8b367e0e620e2f50f723e1d7acfe94",
+            "content": {
+                "en": "______ was proclaimed the true king of the Seven Kingdoms."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_26c886a07408a308302eea65b725692cbf47b235",
+            "content": {
+                "en": "______ won the Iron Throne with the help of ______."
+            },
+            "pick": 2
+        }
+    ]
+}

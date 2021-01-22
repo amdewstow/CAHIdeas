@@ -1,0 +1,1662 @@
+{
+    "id": "Cards_Against_Equestria_Regular_s_Pack",
+    "name": "Cards Against Equestria - Regular's Pack",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_dcda4809a14adf5e9cb0853c8dd3e8d478189f06",
+            "content": {
+                "en": "!hug for everypony."
+            }
+        },
+        {
+            "id": "w_fa5b09a69b19b61246c9e6215bb38467a9cd6088",
+            "content": {
+                "en": "'Murica!"
+            }
+        },
+        {
+            "id": "w_e34b8c364255194630ed34d392e9c97eec1d8de9",
+            "content": {
+                "en": "A can of juicy Pussy&acirc;&bdquo;&cent;."
+            }
+        },
+        {
+            "id": "w_347eecaa9f16b32ce994a3b449d638e4a3cd8971",
+            "content": {
+                "en": "A New Skype Group."
+            }
+        },
+        {
+            "id": "w_a479925646be78da05b962867865815acd9b66b9",
+            "content": {
+                "en": "A Skype call so intense it overheats Twilight&apos;s computer."
+            }
+        },
+        {
+            "id": "w_4f2407bceb39edf5f1aab636fe3399cffc4d6136",
+            "content": {
+                "en": "A Tavy hug-tackle."
+            }
+        },
+        {
+            "id": "w_d5bbf8ab586120423b037031f25f2a2c07509e4e",
+            "content": {
+                "en": "Abandoned warehouses."
+            }
+        },
+        {
+            "id": "w_7b5237e6d5b08ceabf52681990d82fa1adeddd6e",
+            "content": {
+                "en": "Ajax."
+            }
+        },
+        {
+            "id": "w_89c5457144147aab7a15969dcff90456482208bb",
+            "content": {
+                "en": "An inside joke."
+            }
+        },
+        {
+            "id": "w_f8199ef157d3bcc13f147b1305776187b482e3ed",
+            "content": {
+                "en": "Another 24-hour Skype call."
+            }
+        },
+        {
+            "id": "w_7d204296346ce2a4fff50ae88fa3deab276b8151",
+            "content": {
+                "en": "Araxnus."
+            }
+        },
+        {
+            "id": "w_84a05ca91988e8223fed27274bf3d459b3754507",
+            "content": {
+                "en": "Archive."
+            }
+        },
+        {
+            "id": "w_62a254967121bb6e8a0774089c96af57c1377eac",
+            "content": {
+                "en": "ARGLEBARGLE!"
+            }
+        },
+        {
+            "id": "w_c8bc0d70552ead2dedcb6394d56242b4e7339e9f",
+            "content": {
+                "en": "Ban hammer."
+            }
+        },
+        {
+            "id": "w_2d0c568e74c30e48dc32e16a737e829903c7bdf5",
+            "content": {
+                "en": "Banned by DerpyBot."
+            }
+        },
+        {
+            "id": "w_d110026baaba1ab4576b2215f767bd358a031855",
+            "content": {
+                "en": "BASS CANNON!"
+            }
+        },
+        {
+            "id": "w_4a481158914d4d4159ddc6ea45e342aedacbf9d1",
+            "content": {
+                "en": "Batmare."
+            }
+        },
+        {
+            "id": "w_899d71220f4637431bb4d8dda1338340a29f9bba",
+            "content": {
+                "en": "Because I'm evil."
+            }
+        },
+        {
+            "id": "w_6feb0d86c641b6d83c9c6916edd69ab18d67595a",
+            "content": {
+                "en": "Becca."
+            }
+        },
+        {
+            "id": "w_381f6107bac80842d624c03c8090b6506c754ee2",
+            "content": {
+                "en": "BerryPunch."
+            }
+        },
+        {
+            "id": "w_705572efddf69c9b718d7e5767a8c7582904290d",
+            "content": {
+                "en": "Bethiebo&apos;s expert flufflegasping."
+            }
+        },
+        {
+            "id": "w_3ce6caacf7bc8e40bd79aeca53003bf0452df86d",
+            "content": {
+                "en": "Betty Crocker."
+            }
+        },
+        {
+            "id": "w_52e5a270b9b30317b9620328bc6455e8b601fb0a",
+            "content": {
+                "en": "Booty booty booty booty rockin everywhere!"
+            }
+        },
+        {
+            "id": "w_f5ba88a50bee346cdda6055f2eed3d200f63eb39",
+            "content": {
+                "en": "Botabuse."
+            }
+        },
+        {
+            "id": "w_466f0466882b7bcfdc1846fa9f7653ea9492355e",
+            "content": {
+                "en": "BRITISH!!"
+            }
+        },
+        {
+            "id": "w_db192f4ac3260cb69542fc1f5b30fed28a61257e",
+            "content": {
+                "en": "BrotherPunk."
+            }
+        },
+        {
+            "id": "w_f6fed2a3762e33b846a83eef9e671c47015d9dba",
+            "content": {
+                "en": "By a remote tarantula."
+            }
+        },
+        {
+            "id": "w_d6f79b093c9e09e32108477fe19a0436a35c8fa5",
+            "content": {
+                "en": "Canternet."
+            }
+        },
+        {
+            "id": "w_e36c2b6fa00afef85595f47c2a1d12d9b6988bed",
+            "content": {
+                "en": "Changeling_Derpy."
+            }
+        },
+        {
+            "id": "w_7d92030ce23c061fbb1afda64c9c54fd74b556f9",
+            "content": {
+                "en": "Chaotic Harmony&apos;s latest sadfic."
+            }
+        },
+        {
+            "id": "w_968c4adc34ff21082bb94e6c2f6b552cd088b0f8",
+            "content": {
+                "en": "Chaotic-Harmony."
+            }
+        },
+        {
+            "id": "w_80b73aafcbeadfd702727799d0ca7fe19fce4d49",
+            "content": {
+                "en": "Chibi-Ponies."
+            }
+        },
+        {
+            "id": "w_ee0fb5c9cc0010d7882c500db81c145c208417cf",
+            "content": {
+                "en": "Cobalt&apos;s bigger, bluer, raging wingboner."
+            }
+        },
+        {
+            "id": "w_7e349c3fd4a9dee2936a2b5a32c81b40297b3971",
+            "content": {
+                "en": "Cobalt&apos;s raging wingboner."
+            }
+        },
+        {
+            "id": "w_abf8c680dff1fcb2ae89f3611e6d3f505af084c4",
+            "content": {
+                "en": "CobaltSky."
+            }
+        },
+        {
+            "id": "w_92b6c38ad2483504c55997cec761ef099fd38680",
+            "content": {
+                "en": "Coding advice from Rylius."
+            }
+        },
+        {
+            "id": "w_d652d895ba5d3ee92490c3bdf85ebf0a82956cbe",
+            "content": {
+                "en": "Coding while picking your nose with your toe."
+            }
+        },
+        {
+            "id": "w_39676018d150054d079889b738b3db535f0bd759",
+            "content": {
+                "en": "Crouching-Brony hidden clopfics."
+            }
+        },
+        {
+            "id": "w_36b245f9877b943e8de870baba0ffb6cf90e0c0f",
+            "content": {
+                "en": "Cuddly Rylius Pone."
+            }
+        },
+        {
+            "id": "w_739ce0ef81413288f1e72c30f4bdb6698c32013c",
+            "content": {
+                "en": "Cursing at Ponyscape."
+            }
+        },
+        {
+            "id": "w_5c6bdb640116a1a4b6aa9bcf601960e1fef638f8",
+            "content": {
+                "en": "Dan vs. FiM."
+            }
+        },
+        {
+            "id": "w_9e161a37c5725a745f9d05d2b8116ecafc377a52",
+            "content": {
+                "en": "Dark Aura, aka, Spitfire, aka, Thunderlane, aka, Flim, aka, Iron Will, aka, Shining Armor, aka..."
+            }
+        },
+        {
+            "id": "w_151fb271f963bf6b65ed675d71bd3ae02ff4c4ae",
+            "content": {
+                "en": "Dark Aura."
+            }
+        },
+        {
+            "id": "w_8567e8a50f071acc1a8f0a0956ef60bb67bfc28d",
+            "content": {
+                "en": "DarkAura&apos;s 'special' script."
+            }
+        },
+        {
+            "id": "w_70b931d5c2c098d6a0ca6bc0e9af90e52ec183f6",
+            "content": {
+                "en": "De-railed conversation."
+            }
+        },
+        {
+            "id": "w_1c677fba8a544ce7db69c51a9d2394dfc1e6b541",
+            "content": {
+                "en": "DerpyBot."
+            }
+        },
+        {
+            "id": "w_e910ee877875cbfcafb40ee8a8e54addf54db403",
+            "content": {
+                "en": "Dev_Nights."
+            }
+        },
+        {
+            "id": "w_abee2f24c146c06216ba52481fd6457d428f4493",
+            "content": {
+                "en": "Dinky using !lullabye immediately upon being woken for school."
+            }
+        },
+        {
+            "id": "w_3c88b7dff414d649aec26318c9bf661694a7542c",
+            "content": {
+                "en": "DinkyBot."
+            }
+        },
+        {
+            "id": "w_e1bee78d8dc54e92c76297ea519964884a9b96c8",
+            "content": {
+                "en": "DISRESPECT YOUR SURROUNDINGS!"
+            }
+        },
+        {
+            "id": "w_cca435e5e640b1e3b44cfcea2935b3e74c6bf760",
+            "content": {
+                "en": "DUHR DUHR DUHR DUHR."
+            }
+        },
+        {
+            "id": "w_2428f94cfdb33581948bdf48286203e4d19418d2",
+            "content": {
+                "en": "EFN Regulars: The Movie."
+            }
+        },
+        {
+            "id": "w_70895372860e29a59fb76db4425e4bb617bd0d65",
+            "content": {
+                "en": "EightTrack."
+            }
+        },
+        {
+            "id": "w_fbc09dd0a09c47ccb0109a135455a881e026d850",
+            "content": {
+                "en": "Elmer Fudd reading a clopfic."
+            }
+        },
+        {
+            "id": "w_3212b73833d12862a9a09a79892aeccff93480b7",
+            "content": {
+                "en": "ERRDURDURDURDURDURDURDURDURDURDURDURDURDURDUR."
+            }
+        },
+        {
+            "id": "w_dbe46b857d66136fa6eeaf40c0b57fe8641991f5",
+            "content": {
+                "en": "Eywind."
+            }
+        },
+        {
+            "id": "w_a097f67596e9b7ad3f27df1e305cce8a8c8dfbb3",
+            "content": {
+                "en": "Falling asleep in a Skype call."
+            }
+        },
+        {
+            "id": "w_32bf25c0cb0b0ec788bd33eabd603a2cad1d557c",
+            "content": {
+                "en": "Final Draft."
+            }
+        },
+        {
+            "id": "w_aa4b4e82bc4c490c8ef84243fb572398268806d5",
+            "content": {
+                "en": "Finnfinn."
+            }
+        },
+        {
+            "id": "w_fcfc0fec609a6f9d3cadddb667ae910b4f417b3e",
+            "content": {
+                "en": "Flashy."
+            }
+        },
+        {
+            "id": "w_4e917061760f967baa2dcd066fc41df1a50305e0",
+            "content": {
+                "en": "FlutterDashie and Kutos Tulpae."
+            }
+        },
+        {
+            "id": "w_989f48dbdbe2ed5d241cc329e44dbf50800ac079",
+            "content": {
+                "en": "FlutterDashie."
+            }
+        },
+        {
+            "id": "w_4c34deb9183fbfc4d7dff6a87fc4c89cfff17b21",
+            "content": {
+                "en": "Fuck you guys!!"
+            }
+        },
+        {
+            "id": "w_ef53bcc43f4222c8f6cb04881c0990395a9493ee",
+            "content": {
+                "en": "GET IN THE DAMN CALL!"
+            }
+        },
+        {
+            "id": "w_c1461c979725aea91503cb6afbed706360e7f486",
+            "content": {
+                "en": "Gims."
+            }
+        },
+        {
+            "id": "w_f1ac3e27661b6dac1ab833d1367133f8b2183739",
+            "content": {
+                "en": "Ginger Sparkle."
+            }
+        },
+        {
+            "id": "w_a6f2a3f06036b4b08132873d672edc4852b6957a",
+            "content": {
+                "en": "GingerBread&apos;s mirror friend."
+            }
+        },
+        {
+            "id": "w_08a5280a9f618ecd13f7b1f93466aa9af6ddf01b",
+            "content": {
+                "en": "Heat Wave&apos;s Birds."
+            }
+        },
+        {
+            "id": "w_77a6514a3527fe8caccbab7cb857f6a88ee2c07c",
+            "content": {
+                "en": "Heat Wave&apos;s Hiiiiii."
+            }
+        },
+        {
+            "id": "w_42351204a53bcfd893c981c8a27457ee6c7c1bde",
+            "content": {
+                "en": "Heat Wave&apos;s Thunder Typing."
+            }
+        },
+        {
+            "id": "w_8aa9d7c35700e179bf3cb6e482fef87e8032ea9c",
+            "content": {
+                "en": "Heat Wave."
+            }
+        },
+        {
+            "id": "w_74ebf01e90496128c4d2113b2be4b059ee530874",
+            "content": {
+                "en": "Heat_Wave&apos;s masturbating birds."
+            }
+        },
+        {
+            "id": "w_94b2f1a8374bd3efa9d4992bfeed2556d19fe187",
+            "content": {
+                "en": "Heat_Wave&apos;s meateating birds."
+            }
+        },
+        {
+            "id": "w_8c29b5ab323e987c16217ea8cd1cfa8545019db9",
+            "content": {
+                "en": "Hennet&apos;s backpack o' porn."
+            }
+        },
+        {
+            "id": "w_1658b6f1aa48f5004fc1634b8f1bcc648f650d50",
+            "content": {
+                "en": "Hennet&apos;s bike."
+            }
+        },
+        {
+            "id": "w_f66d811c05a959bff28cc4f258fe0306769cad9d",
+            "content": {
+                "en": "Hennet&apos;s Butt Pimple."
+            }
+        },
+        {
+            "id": "w_3dc36b35d5016eba507f2603533fc37fbdafa3fa",
+            "content": {
+                "en": "Hennet&apos;s ME time."
+            }
+        },
+        {
+            "id": "w_91d71bafc7c68f536588e9fa47215ce135e2e83c",
+            "content": {
+                "en": "Hennet303."
+            }
+        },
+        {
+            "id": "w_9e9a8a023212de681d0fa24d38d3dd38371673f3",
+            "content": {
+                "en": "Hhhhrrrrrrrnnggggg!"
+            }
+        },
+        {
+            "id": "w_b58d64f71f9302861c7df963c101fbb5487ae2e1",
+            "content": {
+                "en": "Hisha."
+            }
+        },
+        {
+            "id": "w_94c058c139de144e880a44c8f5c3a6d19c46c948",
+            "content": {
+                "en": "Hishalicious."
+            }
+        },
+        {
+            "id": "w_ce3b46e710ab9824ecc8048bed3d0d5004366493",
+            "content": {
+                "en": "Hisha_The_Unicorn."
+            }
+        },
+        {
+            "id": "w_a0a08a5b959002a00cf23b839b28c00f3001435e",
+            "content": {
+                "en": "Hyde."
+            }
+        },
+        {
+            "id": "w_b2bb2c5c3f3e72e3b920ba9571a1832dbd3c3a4f",
+            "content": {
+                "en": "Ikea Pony."
+            }
+        },
+        {
+            "id": "w_f53196362b41b24f18b53be9380213b8ba2b2eac",
+            "content": {
+                "en": "IM NIGHTMAREMOON! NIGHTMAREMOON!"
+            }
+        },
+        {
+            "id": "w_b1140dd5733bc42b906463b266163956474c64a8",
+            "content": {
+                "en": "Infinite."
+            }
+        },
+        {
+            "id": "w_7a938804e9d3d7c9507ef5880ca182b25d1cf2d2",
+            "content": {
+                "en": "ISky&apos;s raging blue penis."
+            }
+        },
+        {
+            "id": "w_2d0ef3ab769f650571c1def5f01af169e046ca2a",
+            "content": {
+                "en": "ISky."
+            }
+        },
+        {
+            "id": "w_449e18e177c8dcd3eeb1d11e920f98afcbe50ea8",
+            "content": {
+                "en": "James Corck&apos;s cork collection."
+            }
+        },
+        {
+            "id": "w_89e262340f6f69e535272685a9a157181149b190",
+            "content": {
+                "en": "JetGrey&apos;s hidden clop fic."
+            }
+        },
+        {
+            "id": "w_f8cfd671cb76a94b2b61524626ff287426e32eb7",
+            "content": {
+                "en": "JetGrey&apos;s latest invention..."
+            }
+        },
+        {
+            "id": "w_ef154ca362851eeba1a9416dc52aab2c6cd30496",
+            "content": {
+                "en": "JetGrey."
+            }
+        },
+        {
+            "id": "w_014946f0b957f049d14bc03b6815e57fd2f1c6d0",
+            "content": {
+                "en": "Kibbles."
+            }
+        },
+        {
+            "id": "w_d49d09bf4b25b4d910cca42914edc348e38c5af5",
+            "content": {
+                "en": "Killa&apos;s Girlfriend."
+            }
+        },
+        {
+            "id": "w_6a4ede8ec0e37873a1b83ef7b0520d696391968a",
+            "content": {
+                "en": "Killa&apos;s hairy chest."
+            }
+        },
+        {
+            "id": "w_4321042cad31e55d02cf990854b2166369a36abe",
+            "content": {
+                "en": "Killa&apos;s watching you clop."
+            }
+        },
+        {
+            "id": "w_c913c147561a716bbf6cb3a117b693ea4796544a",
+            "content": {
+                "en": "Killagouge&apos;s profanity-laden rants."
+            }
+        },
+        {
+            "id": "w_5b9f3bf5d957b33386247fc18eb0abe01461ebea",
+            "content": {
+                "en": "Kittuns in bags."
+            }
+        },
+        {
+            "id": "w_11fb8afe24d3db2a7c4cb857cbee6aa11ed0f481",
+            "content": {
+                "en": "Kutos&apos;s Vibrating Chair."
+            }
+        },
+        {
+            "id": "w_f1e7aade75250529123bbe4ad7f6f79222511cc7",
+            "content": {
+                "en": "Kutos."
+            }
+        },
+        {
+            "id": "w_bf41e059f99ef4abd0b77b67428d43b8bcbe57a6",
+            "content": {
+                "en": "KutosSly."
+            }
+        },
+        {
+            "id": "w_f1f0d59d60bac6c34513377b17c3807be1e1690d",
+            "content": {
+                "en": "Lycan&rsquo;s Applebloom fetish."
+            }
+        },
+        {
+            "id": "w_1fae69e1d39901f134845a16f44aaae5a4a03169",
+            "content": {
+                "en": "Lycan&rsquo;s special Applebloom plushie."
+            }
+        },
+        {
+            "id": "w_6c60b8f1ffc04603ed2bc7bb6dab963a7c04eed2",
+            "content": {
+                "en": "Lycan."
+            }
+        },
+        {
+            "id": "w_fc38156cdacadeba44e1962bacfbd61aacc8513a",
+            "content": {
+                "en": "Making random voice impersonations in a Skype call."
+            }
+        },
+        {
+            "id": "w_de403799a17df866917b069cf7a0997a397dfa33",
+            "content": {
+                "en": "Mike Coltfield&apos;s goldfish."
+            }
+        },
+        {
+            "id": "w_0819e5ecafca9d84f5d5bb9f8c4549177b271599",
+            "content": {
+                "en": "Monty Python&apos;s Fish-Slapping dance."
+            }
+        },
+        {
+            "id": "w_34094e60e6710b3bdf4ebbfa5ce642bafb139af0",
+            "content": {
+                "en": "Mudfish."
+            }
+        },
+        {
+            "id": "w_be80f236384a41f74c760057d772b21d119915ef",
+            "content": {
+                "en": "Muppet."
+            }
+        },
+        {
+            "id": "w_b8c52b7c0f99bc97c7f8753cb7b7e621ac9f954a",
+            "content": {
+                "en": "Nash."
+            }
+        },
+        {
+            "id": "w_b54cfcbf59bbf770f5b59d4a0bb1c8a86c87dd89",
+            "content": {
+                "en": "Niblitz."
+            }
+        },
+        {
+            "id": "w_51958404c9c86271ef5498efdcb8c83f13819f3b",
+            "content": {
+                "en": "One-Trick Nation."
+            }
+        },
+        {
+            "id": "w_a0e03cd70908d1b5ab637ff18961024da65d4850",
+            "content": {
+                "en": "One-Trick&apos;s beer fueled truck."
+            }
+        },
+        {
+            "id": "w_c85ee1efd783f88bf98fbf40a319c45b7a14a044",
+            "content": {
+                "en": "One-Trick."
+            }
+        },
+        {
+            "id": "w_6038e8635dae83d78eebafced29ed7d389b07e8a",
+            "content": {
+                "en": "Orange Fluffy Seto Pone."
+            }
+        },
+        {
+            "id": "w_e83561a4d6ccab0a478a70926d94f3b0d3a49878",
+            "content": {
+                "en": "P0n3-Bot."
+            }
+        },
+        {
+            "id": "w_552a5ccc3b4c79603fc59cb7d2513943162d8b66",
+            "content": {
+                "en": "Parchie&apos;s closet harem."
+            }
+        },
+        {
+            "id": "w_41797d44cbb9ed50add657fce68c68e51f8133cd",
+            "content": {
+                "en": "Parchie&apos;s collection of AJ porn."
+            }
+        },
+        {
+            "id": "w_cbd5a7940280567af5a685ab3070d7013e541219",
+            "content": {
+                "en": "Parchment."
+            }
+        },
+        {
+            "id": "w_a416a7bbf41ec761698190b5a179eae1443751d6",
+            "content": {
+                "en": "PARCHY-FLAIL."
+            }
+        },
+        {
+            "id": "w_1142fef9c1cc1de58fe5911cfd59ef9966bef656",
+            "content": {
+                "en": "Parchys clop-fic couriers, you want it, we ship it."
+            }
+        },
+        {
+            "id": "w_965e1c1c2f45af3117bc39a871fd275cef93b0ba",
+            "content": {
+                "en": "Plushling[NLR]."
+            }
+        },
+        {
+            "id": "w_87a4ee599cf356878fc09e9570285d852211f758",
+            "content": {
+                "en": "Pokeymans."
+            }
+        },
+        {
+            "id": "w_6197e2981754b89e1ad50c030e42edf52f927e12",
+            "content": {
+                "en": "Princess Twilight."
+            }
+        },
+        {
+            "id": "w_c292f54128dfa113608e3afc0dc13bef0cbed16a",
+            "content": {
+                "en": "Putting kittuns in bags."
+            }
+        },
+        {
+            "id": "w_44565407df07408b110e382a8c78ee06636016cb",
+            "content": {
+                "en": "PvtChaos[NLR]."
+            }
+        },
+        {
+            "id": "w_5a1ae965cb9761305069b89a07b35d8769471efb",
+            "content": {
+                "en": "Rarity Vs. Giant Crab."
+            }
+        },
+        {
+            "id": "w_06392c65ded56ddf38c0722c52642ae61f45a97c",
+            "content": {
+                "en": "Regular Ordinary Swedish Meal Time."
+            }
+        },
+        {
+            "id": "w_14f7006737e401b136adc15ec598e0f37dda43f6",
+            "content": {
+                "en": "Right into the Crystal Empire."
+            }
+        },
+        {
+            "id": "w_be7b930c428ab51c48a725ab1ebe0eed54a7e2b7",
+            "content": {
+                "en": "Riiiiiiiiiiice crackers!"
+            }
+        },
+        {
+            "id": "w_6f0865404aa68f87089f81ae498f368b46c4f078",
+            "content": {
+                "en": "Rylius."
+            }
+        },
+        {
+            "id": "w_1ff9426329cb5c6eb9b3a3606c44e3b0d9ccad85",
+            "content": {
+                "en": "Seto and Talia Ship."
+            }
+        },
+        {
+            "id": "w_5ab856be5967caee78e61157036ce9963dec1b22",
+            "content": {
+                "en": "Seto&apos;s enchanted clopfics."
+            }
+        },
+        {
+            "id": "w_951fdd8b6fe20cb075345876350b4fa6e1fea86f",
+            "content": {
+                "en": "Seto&apos;s encrypted clop-pics."
+            }
+        },
+        {
+            "id": "w_c820c3ec827036d61c7bfe33ad160e673aa579df",
+            "content": {
+                "en": "Seto&apos;s Livestream."
+            }
+        },
+        {
+            "id": "w_872666cfbfa36ce0dfec0b0eff1c02ddb8329d42",
+            "content": {
+                "en": "Seto."
+            }
+        },
+        {
+            "id": "w_eedf4585d0ff5838a423ff7c6e7d4e3a1cd530d5",
+            "content": {
+                "en": "Seto[NLR]."
+            }
+        },
+        {
+            "id": "w_4252e424140dd104b4eaf94aae46c15c94254c79",
+            "content": {
+                "en": "Sharing Pussy&acirc;&bdquo;&cent; with all your friends."
+            }
+        },
+        {
+            "id": "w_eaafd7dcf9c0b47ac054f125a3b6d90b7c472c47",
+            "content": {
+                "en": "She move the fader back and forth! She move the fader back and forth!"
+            }
+        },
+        {
+            "id": "w_1577db6a57c0981a48b75b77585de8217c7e5d4b",
+            "content": {
+                "en": "Shirtless Skype Call."
+            }
+        },
+        {
+            "id": "w_bd96e7c307fe3721f5685b48fcce8f539cd92b27",
+            "content": {
+                "en": "Singing on Skype."
+            }
+        },
+        {
+            "id": "w_fda867fb154479973fcf1a3588b6e06a82ea1383",
+            "content": {
+                "en": "Sketchy Sounds."
+            }
+        },
+        {
+            "id": "w_5ab58522af7e346e96564eb556f5d58dfaac9ca6",
+            "content": {
+                "en": "Sketchy&apos;s Cup."
+            }
+        },
+        {
+            "id": "w_ec41fcc6887c4e6009eb839acfe5cc3de5c88bed",
+            "content": {
+                "en": "Sketchy&apos;s Drinking Game."
+            }
+        },
+        {
+            "id": "w_0eee23f06c1ff2985bb4db7cce73f59c6d04e1ec",
+            "content": {
+                "en": "Sketchy&apos;s enormous instrument."
+            }
+        },
+        {
+            "id": "w_7de6a3647d1e25c78b7346c13175d3981e1b09fe",
+            "content": {
+                "en": "Sketchy&apos;s mandolin."
+            }
+        },
+        {
+            "id": "w_b51e624fb8736d11bc20d3cd739318be2ef6f98b",
+            "content": {
+                "en": "Skipsy."
+            }
+        },
+        {
+            "id": "w_0b74fffcbd203b5ed3cd5c41c6408cdcaa2142fa",
+            "content": {
+                "en": "Snap_Shot."
+            }
+        },
+        {
+            "id": "w_fcff9d1fcd9c306b9b12edc5c93d9019fd1c3047",
+            "content": {
+                "en": "Snowblitz."
+            }
+        },
+        {
+            "id": "w_7e06a450c89ab260697f6ad9457027c9365bb63b",
+            "content": {
+                "en": "Soundspeed and Cobalt&apos;s not so subtle bromance."
+            }
+        },
+        {
+            "id": "w_d7ded7ce9cf83f12b32ece410f0d197fb7dfad08",
+            "content": {
+                "en": "Soundspeed&apos;s 'bugging' fly."
+            }
+        },
+        {
+            "id": "w_ba30c9fcb640a4e4f20d60dbd42ae5c1f3ffcb71",
+            "content": {
+                "en": "Soundspeed&apos;s mediocre fanfiction readings."
+            }
+        },
+        {
+            "id": "w_cbc93d0d981b4a40b7df31aff8011738c1a42ee6",
+            "content": {
+                "en": "Soundspeed&apos;s not so secret Applejack shrine ."
+            }
+        },
+        {
+            "id": "w_c5d1e93841f1bc3a211c420ff72b6b90722306b7",
+            "content": {
+                "en": "Soundspeed."
+            }
+        },
+        {
+            "id": "w_3f866eba4a95be885e127dd33eb085546f1e0765",
+            "content": {
+                "en": "Special time with Sketchy."
+            }
+        },
+        {
+            "id": "w_c5ad53b8d0cca82a54c47f3df07e1853b7bc040e",
+            "content": {
+                "en": "Stickpony."
+            }
+        },
+        {
+            "id": "w_a008f13b97ae0c72ccdaa18c0a8bdbd23108f857",
+            "content": {
+                "en": "Talia."
+            }
+        },
+        {
+            "id": "w_8b279915227230c3092e1289b23dcba0c075db73",
+            "content": {
+                "en": "Tavy&apos;s best ending ever!"
+            }
+        },
+        {
+            "id": "w_2ac4f3fc5eda015ea9d6e010fe69bb0b87126fd0",
+            "content": {
+                "en": "Tavy."
+            }
+        },
+        {
+            "id": "w_80bec70ece0ad4fea907cae0e5c88f12302f9b18",
+            "content": {
+                "en": "Tavying."
+            }
+        },
+        {
+            "id": "w_302b2a9eca61e6740c7ed660b77ad5e764c5d24a",
+            "content": {
+                "en": "The CAC drinking game. VALUE!!!"
+            }
+        },
+        {
+            "id": "w_916f263ea51f7de97b2929e01c369c5e5b37b422",
+            "content": {
+                "en": "THE ROYAL MODERATOR VOICE!!!!"
+            }
+        },
+        {
+            "id": "w_863b5895ceee3f0533c453047d6492b33cbb7a92",
+            "content": {
+                "en": "The Sketchy Sounds live songcast drinking game."
+            }
+        },
+        {
+            "id": "w_def1389a256f3391f87588e9d3af8d0b4eb44a8c",
+            "content": {
+                "en": "Tihan."
+            }
+        },
+        {
+            "id": "w_2693c105c505879cb29e4913df9d35f4013e72ce",
+            "content": {
+                "en": "Tree fiddy."
+            }
+        },
+        {
+            "id": "w_32db17d18ea9a26c3e123070333bbee08a167495",
+            "content": {
+                "en": "Trout."
+            }
+        },
+        {
+            "id": "w_af3545089ec6b813d4e2d1b951e6dc7bc7d534fe",
+            "content": {
+                "en": "Twilight&apos;s trout."
+            }
+        },
+        {
+            "id": "w_141aeff3dcd306886f3c7589346270dce772733d",
+            "content": {
+                "en": "Twilight[NLR]&apos;s Trout."
+            }
+        },
+        {
+            "id": "w_89f5498b48de40760c0a54e423218240d797e22a",
+            "content": {
+                "en": "Twilight_Sparkle[NLR]&apos;s fangasms."
+            }
+        },
+        {
+            "id": "w_44933ff4cf1eeffcf244ef60b2b89ace2f694206",
+            "content": {
+                "en": "Using !eightball for important life decisions."
+            }
+        },
+        {
+            "id": "w_6dfa08f0e9a83d755163a360a79ef97c3070a439",
+            "content": {
+                "en": "Vig Rickman."
+            }
+        },
+        {
+            "id": "w_18cb5077557c4f83959bef5c22edc0cfe2888fdf",
+            "content": {
+                "en": "Vigilant Watch."
+            }
+        },
+        {
+            "id": "w_b51eeb60687a1a1ccdaddfae7b9280a8d7630bc7",
+            "content": {
+                "en": "Wayne Brady."
+            }
+        },
+        {
+            "id": "w_4ee867afb1413e66d5099f187172ff4785814e83",
+            "content": {
+                "en": "Zeta."
+            }
+        },
+        {
+            "id": "b_6fb8d30e01a2d7defec9f85cc6bd711137ffd7b3",
+            "content": {
+                "en": "\/me glomps ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_74d642457b6303ef724cd2c47ba4e96283ed7476",
+            "content": {
+                "en": "A Let&apos;s react to the new MLP:FiM season left the regulars with a fit of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d6aa1f18a797064c15c9fe9ccfa6e3d0e0314dd7",
+            "content": {
+                "en": "A song about ______ left the chat in tears."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dcdd7b59765fe346625b35bef2ac601239cda470",
+            "content": {
+                "en": "An extreme vector challenge consisted of ______ being drawn in a ______ style."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ebcd83ad5027c5c5b6e60111e281f195446b2ffc",
+            "content": {
+                "en": "Because FUCK ______, that&apos;s why."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8f444ef732816acb902c1ce01fe275ddad5a452d",
+            "content": {
+                "en": "Brotherpunk shared a link of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b58469fa5a54abf38ae305b583c031f5bd2b16fd",
+            "content": {
+                "en": "CH made a blogpost about ______, because it was so amazing."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0f69beb77a8d888ae7aa0dd503d031c7d88d253c",
+            "content": {
+                "en": "Cobalt does clop with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de7531251fca844e34c0d3a8584d752e061383fb",
+            "content": {
+                "en": "Cobalt&apos;s next PMV will be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_417466d3b6c4c29d1f89769275954b9d48d37800",
+            "content": {
+                "en": "CobaltSky&apos;s next blind watch will be of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1a4a680070f00aafbddc373b4cae941019b40492",
+            "content": {
+                "en": "DarkAura was shocked to find Hennet traded his ______ for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cee4dcb0c4c6aa610bbd6cf06e4c1741704933bd",
+            "content": {
+                "en": "During the 24-hour Skype call, ______ kept linking ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6efb4685f001cf77d402029d4dd4e112b568c2be",
+            "content": {
+                "en": "Ever since ______ and ______ engaged in a steamy RP, the chat has never been the same."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_539ceec9dc281ce9a8c165353e8532981c9eb762",
+            "content": {
+                "en": "Ever since ______ posted ______ using derpy.me I never trusted their links again."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_35276e74fc59e2089c5ce3216c3b3d5a6d6d30b1",
+            "content": {
+                "en": "Flashy licks ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e6817969686e90a7b42f5c5c0ab5f11b3855ed0",
+            "content": {
+                "en": "Hennet paid ______ for a backpack full of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cdd97ccfda1e4cc2dff3045cc3dca1e9b8d99c2a",
+            "content": {
+                "en": "Hennet&apos;s backpack full of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78e5f7a8e506a7b643867814b3868bf55a15583c",
+            "content": {
+                "en": "Hourglass was disappointed when he saw ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_76014d6fa0c3d4198326631e570e5b524abc149e",
+            "content": {
+                "en": "I really wish I could untype ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b3b9afa56dc58d8cabae609dc33c36bbdc595e1d",
+            "content": {
+                "en": "JetGrey found his love when he was shipped with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bfac52baaf10d7a44665cdf483da365cd783f522",
+            "content": {
+                "en": "JetGrey&apos;s latest plan to take over Equestria involved using ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2348114f67b8b6b5a9bbc9688cae2ed984723b7e",
+            "content": {
+                "en": "Killa&apos;s secret fetish is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f6f33ee3199606ec8ce64dccbfaa178494a8bb16",
+            "content": {
+                "en": "Killagouge made a drawing of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_70596feac993a0a061c59d49be567b204b055cb2",
+            "content": {
+                "en": "NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8946eb5951271d96d510809aa8d1c5e632a50be4",
+            "content": {
+                "en": "Needs more ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fba0a79f3f88c979ce3ddb3498c137bb4757e9aa",
+            "content": {
+                "en": "NEVER click links in a conversation about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a1e1ff2e21edef652edfa50f5163882d8b1b490b",
+            "content": {
+                "en": "New shipping made: ______ x ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_045cda01cec7d40ba7cab7095fee9be852df89e4",
+            "content": {
+                "en": "Nobody expected Vegeta to read ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e4e9f75d07f96a20a4fe69a4888b45cd593521c5",
+            "content": {
+                "en": "One night Killa was alone and then ______ happened."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba117b34f3c66192a39ba0d7e8b6c031c33582ff",
+            "content": {
+                "en": "OneTrick joined onto the #EFR to find Brotherpunk posting links about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21569eb7614a82f9edf1f5c0e0f1b54ba35a4d5d",
+            "content": {
+                "en": "Put Godcard Here."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6b522546f3b620e4dcec86cfe452288ef14076cb",
+            "content": {
+                "en": "Recently Kim has started following a blog about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7f0c227049ca9f02401505b968e2623f9d4c4e31",
+            "content": {
+                "en": "Seto made a drawing of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d819673167fd8bd7941f82d8d605fd021c78d1c4",
+            "content": {
+                "en": "Soundspeed is secretly a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_345acb440227647886d5767281f32bd620a78551",
+            "content": {
+                "en": "Soundspeed secretly loves when his fans ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_faa9e977b71d2084e73c2b452b04e05fb561135a",
+            "content": {
+                "en": "Suddenly, ______ was eaten by Nightmare Moon."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20c58e632283d76dd7e7b0612d69565161aac85b",
+            "content": {
+                "en": "Tavy licks ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_306efa4ccf8530df6ff91b06a476ab5f31089376",
+            "content": {
+                "en": "Tavy snuggled with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d5c2f630566f716039a8820489b1529a26f2c62f",
+            "content": {
+                "en": "There are only two reasons to join the IRC: ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5c11f3babd8ef598df2545e260edf19366761687",
+            "content": {
+                "en": "This White Card needs to be a Black Card."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_977b828fbeaa3b9dcd8be7c5aa3a53e0b547ddc7",
+            "content": {
+                "en": "Today Seto will be scribbling ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1b81fa5ada5427c000ff73ce025477319ddb86e3",
+            "content": {
+                "en": "Tonight on Brony Breakdown, Saberspark interviews ______ about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1844b745da5f8759df0b06cb52ba8d75ccf1a3c5",
+            "content": {
+                "en": "Tonight on Sketchy&apos;s Live Songcast - Sketchy has trouble with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f6cedb7a9a2f331550b3ea07ffa6980e102600f2",
+            "content": {
+                "en": "Vigilant is going to fly ______ and ______ with him to Bronycon this year."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_10c6eee9e5510215ae7d2c812a188acfc0ad76e2",
+            "content": {
+                "en": "Vigilant is Watching ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_89b40556b7462f15e65a2d1bdab44d3284700d71",
+            "content": {
+                "en": "What does the regulars' chatroom smell like?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccb84ae785de5152259b5ea91119e41ddda3f634",
+            "content": {
+                "en": "What is FlutterDashie&apos;s favorite ship?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d58bf8cbb2f76e98e85b7af3714215fd4f80678",
+            "content": {
+                "en": "What is Soundspeed&apos;s favorite past-time?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f67c3c4393f7c618560d537b6c8a3dac0ed8e07a",
+            "content": {
+                "en": "When BrotherPunk isn't busy being Polish, he enjoys ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ec725634bfbe610146dce138b2516f9db99160b",
+            "content": {
+                "en": "When I&apos;m sitting on the toilet I like to think about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8df4614fe7fd49ca300352f7ac3dfed06a9dce01",
+            "content": {
+                "en": "When JetGrey unveiled his newest invention, no one thought it would be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f266c664e3938d2a98515e7c8378e1e3a6167457",
+            "content": {
+                "en": "When no one was looking, Deft Hoof stole ______. And that&apos;s terrible."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4dcea6cf0a3e5082ac022ac2c16e1b05ea1ffa5b",
+            "content": {
+                "en": "While playing Banned From Equestria (Daily), Parchment Scroll saw ______ doing ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7c98f7513713d92321bb88bb588f3bbe75aae1d5",
+            "content": {
+                "en": "Who does this Card Czar resemble?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cce7df7be3066bd0acaec017200f91dbfec4d3b4",
+            "content": {
+                "en": "Why can't we have nice things?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ece950902453876206106309a2776105095d193",
+            "content": {
+                "en": "Would the real ______ please ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1f624f763903a89cdd833f4f4c2e18a60db560bc",
+            "content": {
+                "en": "You there, boy! What day is this? Why Sir it&apos;s ______ Day!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aa31813bec2689d4b3ecb36161f4d6776b2df6eb",
+            "content": {
+                "en": "______ and ______ got into a slimy Nutella RP."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f669492fd275b81b267474bd9b90783093509721",
+            "content": {
+                "en": "______ automatically wins this round."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08b9d4340a2737a09af80cd5766647bd505fd983",
+            "content": {
+                "en": "______ Batman is BEST Batman!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_caf189d161497cc608fe53f1110c714345384a8f",
+            "content": {
+                "en": "______ broke Nerfley with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_093a707b01438a5bbcdbc4a02e1f7233c6548c42",
+            "content": {
+                "en": "______ can't sing for shit!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7bf7ee67d88451c9645bb69a6ce30f99e34f6566",
+            "content": {
+                "en": "______ caused Hennet to ragequit. AGAIN."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8e1c948a56100a023a856732ff70017b4b9e13c1",
+            "content": {
+                "en": "______ didn't get the rules. After 4 kicks and a ban."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dc495449f1de744e9bf6ba0180368a2d92eacc54",
+            "content": {
+                "en": "______ fangasmed about their fanart of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_956b797cbd762fe89b452971f587f192995fc25f",
+            "content": {
+                "en": "______ got banned from the channel for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_17bf79ff02275092b9d2c28c0d0068f58324e485",
+            "content": {
+                "en": "______ has no more potential anymore."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b068dea8b3618824dadcf05f48571d6a97cf36fc",
+            "content": {
+                "en": "______ has no power here."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_584be70cbf3dfc5c5c828b4fea1ac85a3af1caf8",
+            "content": {
+                "en": "______ is why I don't have ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5ddb12a6f8de0a2047c0f4c2c0f20106c30b96c7",
+            "content": {
+                "en": "______ joined the room to spam ______, then left."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f7b026d469368d0543a4e8143df070de26c898cd",
+            "content": {
+                "en": "______ kept doing ______ in our last Skype call."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0311f9af6d4f0cf879fef53340db4ce11e2c100e",
+            "content": {
+                "en": "______ made a joke about ______ before being banned to the moon."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_26dc4ed6464060d630f8688cf687e6adb4af661a",
+            "content": {
+                "en": "______ pls."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9758260408694f48fc80954be948f6a2de5fb6b8",
+            "content": {
+                "en": "______ poni."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7884853f1a0d03f650f23987a46a3120ffec668",
+            "content": {
+                "en": "______ ragequit after ______ posted ______"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_a2fa958f9f41a2634459a9b8e8092c4804ac1b51",
+            "content": {
+                "en": "______ randomly did ______ in last night&rsquo;s Skype call."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b6b6306be80eefd39b88292e9e2b6e34248a92c1",
+            "content": {
+                "en": "______ requested Chaotic Harmony to write about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b69e3d75a4599ec30500abf9eeae7298db58c351",
+            "content": {
+                "en": "______ sang a song about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e468c34c97cd4fed77010caf26176d0eb435da59",
+            "content": {
+                "en": "______ should be the next popular anime."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17f687b355a9708e66fa5ef46fb0befab3e9cc26",
+            "content": {
+                "en": "______ vs ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cdc3f3b1b529c7e52b725a9d0a528335e4d731fd",
+            "content": {
+                "en": "______ was broken when they saw ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5c99926adde0522886069bed89a8c856e2294a2f",
+            "content": {
+                "en": "______ was confused with ______ when they wore a dress."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1ce8aaa662ff227c800efb36b5ab2e9bb87285f3",
+            "content": {
+                "en": "______ was never the same after they were mass hugged in chat."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_61955e33c2e07130e8477b4632af991e9f8de7b7",
+            "content": {
+                "en": "______ was sleeping on the call while ______ were talking about ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_d03c0f239679d7623365f99a6d1d09dc151c7d6c",
+            "content": {
+                "en": "______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_055ef063bccc3c42fd3b1c42a5df03d3274340c2",
+            "content": {
+                "en": "______. ALL. OVER. EVERYTHING!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f111f384e39c3f4e2dff004264f21bdf229d0225",
+            "content": {
+                "en": "______. What did I just walk into?"
+            },
+            "pick": 1
+        }
+    ]
+}

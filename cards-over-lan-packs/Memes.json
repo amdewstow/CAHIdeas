@@ -1,0 +1,705 @@
+{
+    "id": "Memes",
+    "name": "Memes",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_3a489dde028fe0be27e23f3db6ef1d87ac36b12d",
+            "content": {
+                "en": "10 Guy"
+            }
+        },
+        {
+            "id": "w_f96bc0cb3dc860c29e45b5f385ca5bb77bff16b5",
+            "content": {
+                "en": "3rd World Success Kid"
+            }
+        },
+        {
+            "id": "w_ef1bf0a7b719df4712a7b5152ad80054b1ae15fd",
+            "content": {
+                "en": "90&apos;s Problems"
+            }
+        },
+        {
+            "id": "w_bdb4cee1bfe0f3f4079e5e78c02daf60b6a3def5",
+            "content": {
+                "en": "Aaand It&apos;s Gone"
+            }
+        },
+        {
+            "id": "w_5e0df96924c9607a60470c019ca87e75c959b3a9",
+            "content": {
+                "en": "Actual Advice Mallard"
+            }
+        },
+        {
+            "id": "w_231bbec4b2a171513079d3bf180292ab0701a883",
+            "content": {
+                "en": "Advice Dog"
+            }
+        },
+        {
+            "id": "w_0f0a920f14f5b5a13a9a6298f6e41a0187e760e0",
+            "content": {
+                "en": "Advice God"
+            }
+        },
+        {
+            "id": "w_fc4f141b7544333a0793a601a49f33ad374cc5ff",
+            "content": {
+                "en": "Almost Politically Correct Redneck"
+            }
+        },
+        {
+            "id": "w_450e4e95f2ffa944ff874355dc8430a2f3d877d6",
+            "content": {
+                "en": "Am I The Only One"
+            }
+        },
+        {
+            "id": "w_982a3cacbe458bf05a638362b03877a7541d72eb",
+            "content": {
+                "en": "Ancient Aliens"
+            }
+        },
+        {
+            "id": "w_38e47b8cb68edb2e1df51d8678d9b190f919472c",
+            "content": {
+                "en": "Annoyed Picard"
+            }
+        },
+        {
+            "id": "w_a05ff1f9962097e82213fe5a801c6877692d3adc",
+            "content": {
+                "en": "Annoying Childhood Friend"
+            }
+        },
+        {
+            "id": "w_a1bb28ff20f090a82a999a35f0e2941462700c4a",
+            "content": {
+                "en": "Annoying Facebook Girl"
+            }
+        },
+        {
+            "id": "w_d6dbfd74ef658e46b543d94abd86bf30213d77e2",
+            "content": {
+                "en": "Anti-Joke Chicken (Rooster)"
+            }
+        },
+        {
+            "id": "w_f62229cb616585c2aeca497e847c55d880d4aeb9",
+            "content": {
+                "en": "Awkward Penguin"
+            }
+        },
+        {
+            "id": "w_52c4a938097d05ab56be960605290688627e08f0",
+            "content": {
+                "en": "Back In My Day Grandpa"
+            }
+        },
+        {
+            "id": "w_268e4a061f682a1d5c766aca87282db3ec5e1df5",
+            "content": {
+                "en": "Bad Advice Mallard"
+            }
+        },
+        {
+            "id": "w_a89654abf0b31134750f3171bce0e57b136f66c2",
+            "content": {
+                "en": "Bad Luck Brian"
+            }
+        },
+        {
+            "id": "w_7a58e1b2bda4d032f66439423d8c20858dc10685",
+            "content": {
+                "en": "Bear Grylls"
+            }
+        },
+        {
+            "id": "w_0da89bb3694398bd107a8187594d4ce1ff0ffcd7",
+            "content": {
+                "en": "Brace Yourself"
+            }
+        },
+        {
+            "id": "w_5d61bdb1c6cd913da744693f153f47f21b09d0d4",
+            "content": {
+                "en": "Business Cat"
+            }
+        },
+        {
+            "id": "w_4897288402060e4976615fe36affb13ce461019b",
+            "content": {
+                "en": "Captain Obvious"
+            }
+        },
+        {
+            "id": "w_1d0550eedd8f6718f76b84aa549e593418b7d284",
+            "content": {
+                "en": "Chemistry Cat"
+            }
+        },
+        {
+            "id": "w_47d3892cba2774a15c2ae426e25bc6acc849cb87",
+            "content": {
+                "en": "College Freshman"
+            }
+        },
+        {
+            "id": "w_29de03dd013ef50f19a1c09051bde1748574fc69",
+            "content": {
+                "en": "College Liberal"
+            }
+        },
+        {
+            "id": "w_fb1d0fbb125e53633298b47a6787da3164f4ead6",
+            "content": {
+                "en": "Condescending Wonka"
+            }
+        },
+        {
+            "id": "w_19c3c04507454feef86827e778172ec3796b100c",
+            "content": {
+                "en": "Confession Bear"
+            }
+        },
+        {
+            "id": "w_aa3fd38d0be09af65a68e6f3655efbc69b308c3f",
+            "content": {
+                "en": "Confession Kid"
+            }
+        },
+        {
+            "id": "w_60d456e030078ce2623af32f706adf61b8a4801d",
+            "content": {
+                "en": "Confused Gandalf"
+            }
+        },
+        {
+            "id": "w_2895ad3b7667ab4a41eaee7523486c97d3ff1d65",
+            "content": {
+                "en": "Conspiracy Keanu"
+            }
+        },
+        {
+            "id": "w_ffbcf100114c7542a0b9483b602a945c58f1a60b",
+            "content": {
+                "en": "Courage Wolf"
+            }
+        },
+        {
+            "id": "w_352c6b2b81cb6a4f4deb277fa970b16817fceb6e",
+            "content": {
+                "en": "Dating Site Murderer"
+            }
+        },
+        {
+            "id": "w_0cc5ed94fda1c482f20503a50aa2ff17d2d0e357",
+            "content": {
+                "en": "Depression Dog"
+            }
+        },
+        {
+            "id": "w_4dd13fd74ee58d81baf89abcbbfacccbe8c76c8e",
+            "content": {
+                "en": "Drunk Baby"
+            }
+        },
+        {
+            "id": "w_5b44b4d8b30aeec83a21090a423c6a337699c58e",
+            "content": {
+                "en": "English Motherfucker"
+            }
+        },
+        {
+            "id": "w_0b18dd966a0734c20f49417ffd4b105cc6aaaf91",
+            "content": {
+                "en": "Evil Plotting Raccoon"
+            }
+        },
+        {
+            "id": "w_c4532f7c9a4b8846339ae5297d8e08698cf28352",
+            "content": {
+                "en": "First Day On The Internet Kid"
+            }
+        },
+        {
+            "id": "w_e9c82c311a95349753595000bcb92f8638714159",
+            "content": {
+                "en": "First World Cat Problems"
+            }
+        },
+        {
+            "id": "w_8ba543977dad65b1700a2dcb1bea18f80db81746",
+            "content": {
+                "en": "First World Problem"
+            }
+        },
+        {
+            "id": "w_60643d736a29300fc06ea1e1b3efac040f9664cf",
+            "content": {
+                "en": "Forever Alone"
+            }
+        },
+        {
+            "id": "w_189d47ed5bbfc6473d5b20018f8a9ef377afcd42",
+            "content": {
+                "en": "Forever Resentful Mother"
+            }
+        },
+        {
+            "id": "w_faf3145f63e7ead8e633afb4a010d140f6b975a3",
+            "content": {
+                "en": "Foul Bachelor Frog"
+            }
+        },
+        {
+            "id": "w_f550cfce93bb9503627b5fb033277e75c40b9a78",
+            "content": {
+                "en": "Foul Bachelorette Frog"
+            }
+        },
+        {
+            "id": "w_78be4e420857b2a59aa021e7172d77b4bb69a6d6",
+            "content": {
+                "en": "Friendzone Fiona"
+            }
+        },
+        {
+            "id": "w_280e0e7b2458974323283f0e5b6aeb79bbf2cd42",
+            "content": {
+                "en": "Frustrated Farnsworth"
+            }
+        },
+        {
+            "id": "w_aeb3812de6a4bbe6dc97bead687d2f67e9018ee6",
+            "content": {
+                "en": "Fuck Me, Right?"
+            }
+        },
+        {
+            "id": "w_9846b5acad56969bb4c25d685d206ce4ba5b27fb",
+            "content": {
+                "en": "Gangster Baby"
+            }
+        },
+        {
+            "id": "w_0013d13ac96732a1779a0be5a58ccbb83d5a4c38",
+            "content": {
+                "en": "Good Girl Gina"
+            }
+        },
+        {
+            "id": "w_4bc8fac41a73f74f6bc7fbe734b8305e63c4553b",
+            "content": {
+                "en": "Good Guy Greg"
+            }
+        },
+        {
+            "id": "w_e2e0e2e66574dd7d0323bdde4b76a9d17520a329",
+            "content": {
+                "en": "Grandma Finds The Internet"
+            }
+        },
+        {
+            "id": "w_b7267f88dd6ada0e7720554235a576160148883e",
+            "content": {
+                "en": "Grinds My Gears"
+            }
+        },
+        {
+            "id": "w_38417423668462d93021f70f3d432122695124c0",
+            "content": {
+                "en": "Grumpy Cat (Tard)"
+            }
+        },
+        {
+            "id": "w_7cd848eecdef419ccc6a20811a30416755a6243d",
+            "content": {
+                "en": "High Expectations Asian Father"
+            }
+        },
+        {
+            "id": "w_111b8635a8bee0c7588990aa894638f8560bedeb",
+            "content": {
+                "en": "Hipster Barista"
+            }
+        },
+        {
+            "id": "w_d8b9f6074f1dbc17f88443392205ea33a3d6eb0a",
+            "content": {
+                "en": "Horrifying House Guest"
+            }
+        },
+        {
+            "id": "w_d0a8ee757c0d5fc0988ef73f12e69d936167428d",
+            "content": {
+                "en": "HOUSEHOLD MAGICIAN"
+            }
+        },
+        {
+            "id": "w_b77317717d355206f76f23f1f05475ae4a7465a2",
+            "content": {
+                "en": "I Dare You Samuel Jackson"
+            }
+        },
+        {
+            "id": "w_63e162fe1eb5e3186ff669eaabccf1212f62c0a3",
+            "content": {
+                "en": "I Should Buy A Boat"
+            }
+        },
+        {
+            "id": "w_862554a1a7de262d5813b77f31d369ffa731a5d1",
+            "content": {
+                "en": "I Too Like To Live Dangerously"
+            }
+        },
+        {
+            "id": "w_13d646adbb401e5339a447ce14c4b19858d7fe6d",
+            "content": {
+                "en": "Idiot Nerd Girl"
+            }
+        },
+        {
+            "id": "w_b4224b009185ef083bc19090ad3e8c113d740b0f",
+            "content": {
+                "en": "Imgur World Problems"
+            }
+        },
+        {
+            "id": "w_59e5e36d0ea4c59ab6068459c08c24bf3851b444",
+            "content": {
+                "en": "Insanity Wolf"
+            }
+        },
+        {
+            "id": "w_c2273e598a14075a8ee65da749ab13661d3766fc",
+            "content": {
+                "en": "Joker Mind Loss"
+            }
+        },
+        {
+            "id": "w_9cb257aa4d5ec6c392ed6abfebefaf30f1768b84",
+            "content": {
+                "en": "Joseph Ducreux"
+            }
+        },
+        {
+            "id": "w_858583c5a596ce8eb0c2e9ec71c459185c073aaa",
+            "content": {
+                "en": "Lame Joke Eel"
+            }
+        },
+        {
+            "id": "w_6656670cc40801581ff031ed693c9802c315e464",
+            "content": {
+                "en": "Lame Pun Raccoon"
+            }
+        },
+        {
+            "id": "w_763f41ebe636b9f67ecf2720911d6806fc7c6682",
+            "content": {
+                "en": "Lazy College Senior"
+            }
+        },
+        {
+            "id": "w_deb45bb6d774d90a0401912465489bbe6be8683b",
+            "content": {
+                "en": "Lazy Spiderman"
+            }
+        },
+        {
+            "id": "w_c7b188eb89b6f12d5117be63565631de24e5cf08",
+            "content": {
+                "en": "Mad Advice Mallard"
+            }
+        },
+        {
+            "id": "w_0ba268a6d63ba9d71b28a9a54be45c6ce63f0d30",
+            "content": {
+                "en": "Mad Karma"
+            }
+        },
+        {
+            "id": "w_5857342f7e841c618bcd82734ae4260c97789314",
+            "content": {
+                "en": "Matrix Morpheus"
+            }
+        },
+        {
+            "id": "w_693e7170fe9bac1218ede3ed2d4e99cdb0e40493",
+            "content": {
+                "en": "Mayonnaise Patrick"
+            }
+        },
+        {
+            "id": "w_fa395f5625a7a7521d5cbbf54b3a8940be65132a",
+            "content": {
+                "en": "Musically Oblivious 8th Grader"
+            }
+        },
+        {
+            "id": "w_6ad3a5eda00222d4aa9b6b48b10909ee56db35c0",
+            "content": {
+                "en": "Not Sure Fry"
+            }
+        },
+        {
+            "id": "w_9632391f284a61aa72deab15d72154c6e478a354",
+            "content": {
+                "en": "Oblivious Suburban Mom"
+            }
+        },
+        {
+            "id": "w_cb6fd2729aadd7119722a1bea7b02e94ac8513d9",
+            "content": {
+                "en": "One Does Not Simply"
+            }
+        },
+        {
+            "id": "w_d44cdcbac94b244d87141221e8206bdc87f8cfb4",
+            "content": {
+                "en": "Overly Attached Girlfriend"
+            }
+        },
+        {
+            "id": "w_e4debc35702721ce1067f1040c1ce2bd6eac99ff",
+            "content": {
+                "en": "Overly Manly Man"
+            }
+        },
+        {
+            "id": "w_880aa91fade4019c29a5e9c3f716c4a9713d4aca",
+            "content": {
+                "en": "Paranoid Jigglypuff"
+            }
+        },
+        {
+            "id": "w_136df46eae2af9399a8b70a1af47fb5425695d3e",
+            "content": {
+                "en": "Paranoid Parrot"
+            }
+        },
+        {
+            "id": "w_f58eb185cc28dbbe3228ff36535d59aa499473b3",
+            "content": {
+                "en": "Pepperidge Farm Remembers"
+            }
+        },
+        {
+            "id": "w_098872660673a2acebe1e5806fd7ee6c1f966a47",
+            "content": {
+                "en": "Philosoraptor"
+            }
+        },
+        {
+            "id": "w_cdc98b566bac6645ba998a49755461340f0d98d9",
+            "content": {
+                "en": "Priority Peter"
+            }
+        },
+        {
+            "id": "w_5dafe2d514bcc9dc7c98d8bb537564382884f143",
+            "content": {
+                "en": "Rafiki The Wise"
+            }
+        },
+        {
+            "id": "w_764120a7127dc289a2919dcc6f4418d4ea38ea4f",
+            "content": {
+                "en": "Rasta Science Teacher"
+            }
+        },
+        {
+            "id": "w_6da4185b4af2689adb3d3494a7d9a1c70500d912",
+            "content": {
+                "en": "Redditor&apos;s Wife"
+            }
+        },
+        {
+            "id": "w_bcab5a852adf8ef5c4b0d7151cbb58cf46c5b93b",
+            "content": {
+                "en": "Revenge Band Kid"
+            }
+        },
+        {
+            "id": "w_afc0df360f912c58030b37160140c253eb32b52e",
+            "content": {
+                "en": "Schrute Facts"
+            }
+        },
+        {
+            "id": "w_56816175758188400d0781a7fe0f5629ae19f713",
+            "content": {
+                "en": "Scumbag Brain"
+            }
+        },
+        {
+            "id": "w_3fec10b22157d7ba88570ff2a55e38a0be89773f",
+            "content": {
+                "en": "Scumbag Stacy"
+            }
+        },
+        {
+            "id": "w_804e767576a98f52ecb8da9f6c9bea5e902e1d81",
+            "content": {
+                "en": "Scumbag Steve"
+            }
+        },
+        {
+            "id": "w_5f0aa4cd8a3c4461feed26ff5018b8288f84dd92",
+            "content": {
+                "en": "Sexually Oblivious Rhino"
+            }
+        },
+        {
+            "id": "w_a07b804e1f8f17d653eacc6b9eb6e82e004520a8",
+            "content": {
+                "en": "Sheltering Suburban Mom"
+            }
+        },
+        {
+            "id": "w_58e4d865786d1328f95f242a090f90426752cd41",
+            "content": {
+                "en": "Shut Up And Take My Money"
+            }
+        },
+        {
+            "id": "w_75ced3c37a4c7058732256968a18bd3cabc01bcb",
+            "content": {
+                "en": "Skeptical Flanders"
+            }
+        },
+        {
+            "id": "w_03792b772dfcf3f2bfa3ed1b0a6b74472523a855",
+            "content": {
+                "en": "Skeptical Third World Kid"
+            }
+        },
+        {
+            "id": "w_c14c131ebe9822cd9012a7f90df4c21a90cc08de",
+            "content": {
+                "en": "Slow Poke"
+            }
+        },
+        {
+            "id": "w_6685bb01e027a2c6563b25017b506348b1d8562f",
+            "content": {
+                "en": "Smug Spongebob"
+            }
+        },
+        {
+            "id": "w_5eefad4200bdb5f6c81b545971947bc54454bd03",
+            "content": {
+                "en": "Socially Awesome Penguin"
+            }
+        },
+        {
+            "id": "w_6f683304f3df4f625c6af19747851e0ecb36affc",
+            "content": {
+                "en": "Success Kid"
+            }
+        },
+        {
+            "id": "w_af173ad335a82b611c68d1582634a2708017f6fb",
+            "content": {
+                "en": "Successful Black Man"
+            }
+        },
+        {
+            "id": "w_f74efd95b6cbc17ab3e1abd672912cef3bf61302",
+            "content": {
+                "en": "Sudden Clarity Clarence"
+            }
+        },
+        {
+            "id": "w_50c95f186d12764c8df51c0cb004e962fcf037ed",
+            "content": {
+                "en": "Tech Impaired Duck"
+            }
+        },
+        {
+            "id": "w_9a36e5b93b09a73c8cb9f1d605bebf56d0d0c3a2",
+            "content": {
+                "en": "The Most Interesting Man In The World"
+            }
+        },
+        {
+            "id": "w_70a076866dae00c53876076827455c3f4edad1a4",
+            "content": {
+                "en": "The Rent Is Too High"
+            }
+        },
+        {
+            "id": "w_ee4d20c1fb452ae451c848f18bf39d620cc18bc5",
+            "content": {
+                "en": "Tough Spongebob"
+            }
+        },
+        {
+            "id": "w_3bc98408a559aebf29a6330edf321d94424168df",
+            "content": {
+                "en": "Unhelpful Highschool Teacher"
+            }
+        },
+        {
+            "id": "w_c207d02e9f23af524041c60cddd7be97034a393f",
+            "content": {
+                "en": "Unpopular Opinion Puffin"
+            }
+        },
+        {
+            "id": "w_26e8048c75fbdc9cd0ffe229cc0f1cc2ee745b61",
+            "content": {
+                "en": "Vengeance Dad"
+            }
+        },
+        {
+            "id": "w_5f7fbadb2801eb45abfaa3b3b34b43b98275a66a",
+            "content": {
+                "en": "What Year Is It?"
+            }
+        },
+        {
+            "id": "w_605c83e6c44c1bd24bee1ae0fd18d2e5e6905404",
+            "content": {
+                "en": "X, X Everywhere"
+            }
+        },
+        {
+            "id": "w_5f13b996d3aa8ec85d0ccc730c447048c08bd6eb",
+            "content": {
+                "en": "Y U NO"
+            }
+        },
+        {
+            "id": "w_5ea0b50feb6b5057c1a9f73156922ef07ead4ad0",
+            "content": {
+                "en": "Yeah That'd Be Great"
+            }
+        },
+        {
+            "id": "w_52e92b437a8ba812989291eb2dbedae0a84c2792",
+            "content": {
+                "en": "Yo Dawg Xzibit"
+            }
+        },
+        {
+            "id": "w_4185470dc58aadf557e083bbc392202afd52c881",
+            "content": {
+                "en": "You're Bad And You Should Feel Bad"
+            }
+        },
+        {
+            "id": "w_5bf0cbb76600a79e055198b1624d63c8c3a7d938",
+            "content": {
+                "en": "You're Gonna Have A Bad Time"
+            }
+        }
+    ]
+}

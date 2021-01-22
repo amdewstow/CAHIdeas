@@ -1,0 +1,249 @@
+{
+    "id": "The_Hopeful_Rejects_of_2017",
+    "name": "The Hopeful Rejects of 2017",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_22f4ebe0040c8427f10aac895a0958d3206f3d86",
+            "content": {
+                "en": "A benevolent philosopher-king raised from birth without privacy and under the killswitch of the masses."
+            }
+        },
+        {
+            "id": "w_d92e92a6f629946b1bff51fcebc2b76b59053a32",
+            "content": {
+                "en": "A large, orange, slovenly, lazy creature who loves TV and hates Mondays and whose passion for food and sleep is matched only by his hatred for diet and exercise."
+            }
+        },
+        {
+            "id": "w_41072d9e8f709d1af6420e3aa772a047914aef1d",
+            "content": {
+                "en": "A monkey in a lab coat."
+            }
+        },
+        {
+            "id": "w_2982d1693b5343e9521d5e1b435dc8e801f2a274",
+            "content": {
+                "en": "A very fancy piggy bank."
+            }
+        },
+        {
+            "id": "w_b4802692cafe475d690c8899ee4502319357e111",
+            "content": {
+                "en": "About 8,000 people, tops."
+            }
+        },
+        {
+            "id": "w_67ca9918f8ee9b0a451fe690cec4658828c510a6",
+            "content": {
+                "en": "American Superman, Ronald Reagan."
+            }
+        },
+        {
+            "id": "w_7b12f2da881c8d25a7df219a37c13ce4240262e8",
+            "content": {
+                "en": "Catnip for people."
+            }
+        },
+        {
+            "id": "w_f0498e0a5c922444c0278b4e81a918f976328838",
+            "content": {
+                "en": "Chainsawing a thousand demons in half."
+            }
+        },
+        {
+            "id": "w_b93bbe82e5f318179799c2cd24a12ce52b8e16f7",
+            "content": {
+                "en": "Convincing Republicans that Obama wrote the Second Amendment."
+            }
+        },
+        {
+            "id": "w_7b96c0330fcffadd08af9df4ef177ac033c6ad6c",
+            "content": {
+                "en": "Doing a very good job of convincing people that I'm not Santa Claus."
+            }
+        },
+        {
+            "id": "w_4b3d488d22a7eb62e36f292db95693bd09b4c788",
+            "content": {
+                "en": "Going to bed slightly closer to death than when I woke up."
+            }
+        },
+        {
+            "id": "w_a6ce275b57b432fcf43d5e2d4b14594d766a7d11",
+            "content": {
+                "en": "Lacing my clarinet reed with acid and playing alone in the woods."
+            }
+        },
+        {
+            "id": "w_6615b7f8f6a225a76fe608be59320fa07bdf3391",
+            "content": {
+                "en": "Painting with a broad brush."
+            }
+        },
+        {
+            "id": "w_ab965ff34035ead565a4dfd4daaaefad1ff92384",
+            "content": {
+                "en": "Raising money so I can have one last birthday party."
+            }
+        },
+        {
+            "id": "w_1fe85c048d4beb548784065d9f06b7588647a662",
+            "content": {
+                "en": "Sending unsolicited nudes and my address on a golden plaque to aliens."
+            }
+        },
+        {
+            "id": "w_d967ab09311741d5b5ba75c0e2174d15ff99caf6",
+            "content": {
+                "en": "The best part of the tiger."
+            }
+        },
+        {
+            "id": "w_7ff8862873fa348dc3a54456f5f2a4e43ef1d9d7",
+            "content": {
+                "en": "The most blatant act of corruption since Sauron started handing out free rings."
+            }
+        },
+        {
+            "id": "w_c91ee81c09711c5802d7d3ed1e0e424d7885c422",
+            "content": {
+                "en": "Unexpectedly waking up with underwear on."
+            }
+        },
+        {
+            "id": "w_0888fd09400993307339b68779c2a7eb6e28cea1",
+            "content": {
+                "en": "Writing the Great American novel."
+            }
+        },
+        {
+            "id": "b_6708dd4d474266237be8b0950912c762619f5f0a",
+            "content": {
+                "en": "After consultation with my Generals and military experts, please be advised that the United States Government will not accept or allow ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2da15b19fc1aa7a08d1428828e174f90a89e287",
+            "content": {
+                "en": "After years of railing against Obamacare, Paul Ryan finally had a chance to replace it with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3adfc847d714c10e2996dadff4d36f6a84c4e2c",
+            "content": {
+                "en": "Are you really ______? Because that&apos;s hot."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_befa391edd6ed17766949a6b51df2cd81ddfc589",
+            "content": {
+                "en": "At last, the ritual is almost complete. Only one thing remains: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b325e7cd6c3f8a34fc04bfcb7c2349bcea3cf413",
+            "content": {
+                "en": "At this point, I have more evidence that ______ exists than I do for God."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7cb1b70bd6980c7764da15adf7bf6ecc0947bb4a",
+            "content": {
+                "en": "How do you solve a problem like Maria?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da80707d56ea5faeef6850d606d8a844184e871e",
+            "content": {
+                "en": "I got the results of the test back. I definitely have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bbb89e9d94696ab9c6f75f7613f9b16078b8ac0d",
+            "content": {
+                "en": "I never thought I'd die by ______, but I always hoped I would."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9902e94165d280a22572efb4e6a643ce528c0a37",
+            "content": {
+                "en": "I've solved the mystery and I've gathered you all here to announce that one of you is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4c64b38a498abc97e749c2c8e6aacc8153376897",
+            "content": {
+                "en": "It&apos;s important that all great works of art contain ______ so that it doesn't anger God."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67a952094edd47ae2c21f5f2a27abbb222da56e6",
+            "content": {
+                "en": "Last night, I got the best sleep I've had in ages. The only thing I remember is dreaming about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_68084276ef32665ab36bc8fff5e929b24b25e14c",
+            "content": {
+                "en": "Look, this is all covered in my zeitgeist-defining self-published e-book: \"2017: The Year of ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_64e4910402cd6594796fd8323d3c9302d6eed77f",
+            "content": {
+                "en": "Me: ______. Also me: ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_254a5cb0829b30c79bd31100c8252703834b585e",
+            "content": {
+                "en": "My new favorite drink is called \"______.\" It&apos;s better than it sounds."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_47637d416a5d17181e5d5df952d24cfe930b7d62",
+            "content": {
+                "en": "NASA has announced the discovery of seven planets orbiting Trappist-1, all of which are potentially suitable for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a4b9dbfed0ad67536e62dac3767a738aa7722d41",
+            "content": {
+                "en": "The Pope has recently updated the requirements for sainthood, which now requires two miracles or one miracle and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddfa8d0fc27bd080b03714947369810836bfb776",
+            "content": {
+                "en": "This is fun and all, but it&apos;s not a real party until you're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_036f3bb110cba45151e835c7abce68a3489509dd",
+            "content": {
+                "en": "Why was I put on this Earth?"
+            },
+            "pick": 1
+        }
+    ]
+}

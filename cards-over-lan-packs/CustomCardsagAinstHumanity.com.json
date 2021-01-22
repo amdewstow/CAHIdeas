@@ -1,0 +1,450 @@
+{
+    "id": "CustomCardsagAinstHumanity_com",
+    "name": "CustomCardsagAinstHumanity.com",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_d92df1d02eef655125abe783c2d2fbb450a2df46",
+            "content": {
+                "en": "\"Get in my belly!\""
+            }
+        },
+        {
+            "id": "w_7e92414c74d7df490daa06dbb0fce0aa2a4be7bc",
+            "content": {
+                "en": "A black hole"
+            }
+        },
+        {
+            "id": "w_1a719ad57e3894be42a21a06c4242c9155f79c69",
+            "content": {
+                "en": "A wife"
+            }
+        },
+        {
+            "id": "w_5461b8ac85028f01026d3e5efe949eeb7bcf9104",
+            "content": {
+                "en": "All the cool kids are doing it."
+            }
+        },
+        {
+            "id": "w_6fd09ae1f5b61e87a70cce48fea4456968611416",
+            "content": {
+                "en": "Are you kidding me?"
+            }
+        },
+        {
+            "id": "w_fc6fae10db2bd0b625077d7c6d1b9a96925fd2b7",
+            "content": {
+                "en": "Banana"
+            }
+        },
+        {
+            "id": "w_b5e4517c787baf3e13bd634f7a7aaaac8ed5a6f3",
+            "content": {
+                "en": "BOOM!"
+            }
+        },
+        {
+            "id": "w_95c22b94798d8ea8e3bb9568f4aa962256f79043",
+            "content": {
+                "en": "Dick Chenney&apos;s shotgun skills"
+            }
+        },
+        {
+            "id": "w_e86bcd32c5f59bcbd5bc7bca21869f81e3988a33",
+            "content": {
+                "en": "Dog-meat burrito"
+            }
+        },
+        {
+            "id": "w_0d459cd6d208a66cc444f7d39daa569bc2e655df",
+            "content": {
+                "en": "Farting in an elevator"
+            }
+        },
+        {
+            "id": "w_73de810eceb323f568def206df3714236953b84e",
+            "content": {
+                "en": "GoPro"
+            }
+        },
+        {
+            "id": "w_cb2c37f6ec81cbbacc1b4784317619c211276a50",
+            "content": {
+                "en": "iPhone 6"
+            }
+        },
+        {
+            "id": "w_f1f92bd87d43e4b2c9f44d1804f03fb73f358ad5",
+            "content": {
+                "en": "Japanese schoolgirl."
+            }
+        },
+        {
+            "id": "w_7bdb00a30c24d5d2e7a6932021a6969ff6071dc2",
+            "content": {
+                "en": "Lady Gaga&apos;s boyfriend"
+            }
+        },
+        {
+            "id": "w_485f0cd1e54fb8a15808b2e550c1a0832b5e9122",
+            "content": {
+                "en": "Mounted camera"
+            }
+        },
+        {
+            "id": "w_c6ec8ebedd63ec3fdf1d70bb3645ee0897169530",
+            "content": {
+                "en": "People who say they put in 110%"
+            }
+        },
+        {
+            "id": "w_be0d1079db5040933126b954130ffb621fc52054",
+            "content": {
+                "en": "Pity sex"
+            }
+        },
+        {
+            "id": "w_647e92dd291f8dd060856e866b8e4718c8cb14db",
+            "content": {
+                "en": "Sexy vampire ninja"
+            }
+        },
+        {
+            "id": "w_3534c9f1e261b3724e7b927ec64f952f215b6ad0",
+            "content": {
+                "en": "That was easy"
+            }
+        },
+        {
+            "id": "w_992206b7c52878ad2d1d053297eba3ac10bbeda2",
+            "content": {
+                "en": "The tears of Chuck Norris"
+            }
+        },
+        {
+            "id": "w_12c07de2903de831c0f637aefa325daca377f7e9",
+            "content": {
+                "en": "White trash"
+            }
+        },
+        {
+            "id": "b_f9f9647645326a20c90bda28bbf7fbc3d095e4a6",
+            "content": {
+                "en": "A hot new alternative medical practice involves placing ______ in ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6b19f61249ea479b842767db95a3ed1425783a7c",
+            "content": {
+                "en": "A ______ mounted camera"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5461b8ac85028f01026d3e5efe949eeb7bcf9104",
+            "content": {
+                "en": "All the cool kids are doing it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7197ae68369f7829882d989cd72525c4f21b8bef",
+            "content": {
+                "en": "And the award for best costume goes to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c819ea0ab2a40e50582d3a857385e18bdf7306e4",
+            "content": {
+                "en": "Apparently the secret ingredient is just ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c05f9720fa3e03bc64947fef4ce79ffd9fac80d",
+            "content": {
+                "en": "Bieber \"reeked of ______\" when he was pulled over."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ef3445e362bbdcced64093dea61820aa120a5b0a",
+            "content": {
+                "en": "Bros before ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f4f6ee51bdeb8c1e49dcc6d06e89566daa678b9d",
+            "content": {
+                "en": "Currently the wallpaper on my computer is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ada227976eff401c71dff1e2a927f629f18423cc",
+            "content": {
+                "en": "guns don&apos;t kill people; ______ does!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_80de2b5d5c9863897e92f4d7eb01d8b5ece6179f",
+            "content": {
+                "en": "Hangover 4: ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78b9d236a29945af96c01743eb7bae338683ceab",
+            "content": {
+                "en": "I always call in sick to work when I have a bad case of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7f63bf19012913e032a0fddf99ae5873ec56ab00",
+            "content": {
+                "en": "I always carry ______ in my purse."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_429e961649c50b6abd9b5d732814f4b8c0107590",
+            "content": {
+                "en": "I am happy, when ______ stands up in the morning."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08d214ba922fe54fcad524866329117686cb4b02",
+            "content": {
+                "en": "I love the smell of ______ in the morning."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4cd69f7d26b157f6b41af38f4e7a84f751b9ca1d",
+            "content": {
+                "en": "I ordered a Pizza with ______, and when I got it, it was covered with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e3124ce1c381ef4dfb10aeeffcbace8055214126",
+            "content": {
+                "en": "I plan to name my next child ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f13beeed95c2c3c79ee550b41c8199604cfce4b2",
+            "content": {
+                "en": "If I owned www.______.com, I&apos;d get a ton of hits."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed348d0481871acacc404a96a6670422e12c23f3",
+            "content": {
+                "en": "If only freedom could be purchased with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0eac0e0387af120ae34b41e5f85ab015343e9d57",
+            "content": {
+                "en": "It&apos;s a website. A website about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a7b2b1a4902dd8a04bb156ff935239e96f35fe3",
+            "content": {
+                "en": "Justin Bieber won the ______ award."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b5f959b0e9b4d4b9817663f9fbb8cd66a63b934",
+            "content": {
+                "en": "Keep your friends close, but your ______closer."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dfeb710bd448f9c901e26f98be564c94b223de55",
+            "content": {
+                "en": "Lord of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2bcfc2803b8bfeb3168bf71d34708cb341843de9",
+            "content": {
+                "en": "No no no don't shake the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ee90c995a76556c33988868ba9a40f12ef1ef38",
+            "content": {
+                "en": "Only 69% of Americans eat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4df4af9a6f3634dade429f004bc29f5c2c584541",
+            "content": {
+                "en": "Popularity leads to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e9782b1c2ed77964b9cfac1389ba3a33107f38b8",
+            "content": {
+                "en": "Thank you Mario but our princess is in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fc52a0538b76535ebf45c3b960ddd97ee462e02c",
+            "content": {
+                "en": "That is an illegal amount of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2613c9a30f30ad305c9a7b890a0ece8da9ac0a5b",
+            "content": {
+                "en": "The next big Apple product is the is______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b178985938e3b8476715e86c5c3fc68bf651161",
+            "content": {
+                "en": "The power of love is useless against ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_172353a47e945ba96fa8dfd4d239399a60aaad8b",
+            "content": {
+                "en": "The real reason I&apos;ve gathered you all together today is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7749369d84127bacfcde1167fd121e751586dc5e",
+            "content": {
+                "en": "The secret ingredient in hot dogs is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5a49e1e3497a07b490a415d98d369ec3132fb141",
+            "content": {
+                "en": "The walking ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75cffa4d6ad36f4cbd52cdb4c92a9d68d1eccd29",
+            "content": {
+                "en": "We just bought a ______ for the office"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_27a62728d851c5dbda95dc6a6e9332554209b0bf",
+            "content": {
+                "en": "What is your greatest phobia?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a1c1418717474448f1553762fd5a4b522d7e503c",
+            "content": {
+                "en": "What makes you so special?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe14595caaf7671fa38e5d59264631aa6afca87a",
+            "content": {
+                "en": "When I am president, I will increase government funding of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1b60cfc3e89ef85b1fed10ec9dc430e65115cce",
+            "content": {
+                "en": "When I fart, I blame it on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d6491c05a9d494db1cb458241810d23721597572",
+            "content": {
+                "en": "When I go to work I ______ with my friend"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fd0bd24b4878a53100d52b9a19265fd6c472891a",
+            "content": {
+                "en": "When I&apos;m president, I promise to launch ______ to the moon."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4dff159c86024b294024ae04b0887bc57bc2be1a",
+            "content": {
+                "en": "You have my sword! my bow ! and my ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6a50bc7dbdff1619e6ad78c7990783d0ecebe928",
+            "content": {
+                "en": "You're in good hands with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1849fc200ebe8fa4d86ebcf9843505e0c2a481e0",
+            "content": {
+                "en": "______ are a little different in canada."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c66fd76475ba59d907ca5ff19bc3816ed747c3d6",
+            "content": {
+                "en": "______ for dummies."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9576898f56b9319c83540cd9f27b435d50daaa86",
+            "content": {
+                "en": "______ Is Obama&apos;s Pick for Next NSA Director."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_39296d2153cc9317208711cfb65924ab641da1fc",
+            "content": {
+                "en": "______ kills about 240 people in the US every year."
+            },
+            "pick": 1
+        }
+    ]
+}

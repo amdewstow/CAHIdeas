@@ -1,0 +1,747 @@
+{
+    "id": "Cords_Against_Trekkies",
+    "name": "Cords Against Trekkies",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_ea5b12c3c76edbb86da88bdcc9d91ab84e443e74",
+            "content": {
+                "en": "A bathroom no one ever uses."
+            }
+        },
+        {
+            "id": "w_e670ec80d4fcb1a7d3c6913beb328e81b10f0e1a",
+            "content": {
+                "en": "A Borg Queen with daddy issues."
+            }
+        },
+        {
+            "id": "w_3cec0d4659bbf279028dfe4397494efaef6f94c9",
+            "content": {
+                "en": "A box full of Tribbles."
+            }
+        },
+        {
+            "id": "w_9029305c6ac51e578eca3dce20377bccaf63f332",
+            "content": {
+                "en": "A Changeling that enjoys turning into a giant vagina at the most inappropriate times."
+            }
+        },
+        {
+            "id": "w_fde833a96336a3b35064d5433159328fb5283703",
+            "content": {
+                "en": "A clinically depressed Klingon who just wants a hug."
+            }
+        },
+        {
+            "id": "w_be75403579e0bd3579e43ef04ab60403a22823ef",
+            "content": {
+                "en": "A computer that just knows when you&rsquo;re talking to it."
+            }
+        },
+        {
+            "id": "w_fd0616d24d58e95fa10e2df21c99db158280b1a2",
+            "content": {
+                "en": "A Ferengi in a string bikini."
+            }
+        },
+        {
+            "id": "w_64efc0b6442254ede5c6b713da4b89ded57fb7f3",
+            "content": {
+                "en": "A First Contact Mission... In my pants!"
+            }
+        },
+        {
+            "id": "w_fc7b5843e01fee0b3d0aa767a7e60510691a6a0c",
+            "content": {
+                "en": "A flamboyantly gay Romulan."
+            }
+        },
+        {
+            "id": "w_1bfb3641732b3755974e395d189cbe62f70133d2",
+            "content": {
+                "en": "A hologram that can do your job better than you."
+            }
+        },
+        {
+            "id": "w_040e8b0d1e70c3d2c8b49b1a74789f8189fe9cb1",
+            "content": {
+                "en": "A hypospray full of Rooties."
+            }
+        },
+        {
+            "id": "w_db3ed3e4ef9ca31336129bac43e9107c5bc3c7a6",
+            "content": {
+                "en": "A Klingon cock ring."
+            }
+        },
+        {
+            "id": "w_1976d760968d5d93257341876fdd5987be267c87",
+            "content": {
+                "en": "A large gender-neutral Klingon."
+            }
+        },
+        {
+            "id": "w_3954fe900098f9c78fbb44c842c80b9a9e2e751a",
+            "content": {
+                "en": "A sexually confused Cardassian."
+            }
+        },
+        {
+            "id": "w_c0f48213e150657155597e6e3abe6709a822647c",
+            "content": {
+                "en": "A Sexy Borg, doing a sexy dance."
+            }
+        },
+        {
+            "id": "w_603e2e93933c07269fd1b5fe81c73f2c944affc3",
+            "content": {
+                "en": "All eight Weyoun&rsquo;s in a room performing bukkake on each other."
+            }
+        },
+        {
+            "id": "w_67b8741212975147df52b51091d461c6b0260552",
+            "content": {
+                "en": "An Alien species posturing with their shields up and weapons locked."
+            }
+        },
+        {
+            "id": "w_c1599d9208722ce713528d814a3232899ac43c70",
+            "content": {
+                "en": "Another Warp Core breach."
+            }
+        },
+        {
+            "id": "w_9867eed2e756562ea722f45e2287300acbc0cfe7",
+            "content": {
+                "en": "Ball slapping zero gravity sex."
+            }
+        },
+        {
+            "id": "w_a5a361fd79294cddfe77aad5456c09d0aa9a0f7a",
+            "content": {
+                "en": "Beating an empathy at poker."
+            }
+        },
+        {
+            "id": "w_5cb930448a379333b155c3b8d2e841761dfc1cc2",
+            "content": {
+                "en": "Becoming a Syntheholic."
+            }
+        },
+        {
+            "id": "w_09a5ff76f0b4781be5b08e10de61254c03bb36aa",
+            "content": {
+                "en": "Being blown, not sucked, into space."
+            }
+        },
+        {
+            "id": "w_4a939c450d1a2d79f7b7a7d4aef5b177b43015b3",
+            "content": {
+                "en": "Being rejected by the Borg for assimilation."
+            }
+        },
+        {
+            "id": "w_d1904caba41e2e4d485fbff0a19108b15df8c645",
+            "content": {
+                "en": "Being the guy that has to mop up the holosuite after one of Quark&rsquo;s X-rated simulations."
+            }
+        },
+        {
+            "id": "w_65d0a60ed6687e7db380955bd7e5e5069ea08ec9",
+            "content": {
+                "en": "Being the only one on the Away Teamwho&rsquo;s wearing a red shirt."
+            }
+        },
+        {
+            "id": "w_bc7a7e18da865526b8b74edf505ca774a8479a91",
+            "content": {
+                "en": "Bi-sexual Tribbles doing \"bi-sexual things\" in your Cheerios."
+            }
+        },
+        {
+            "id": "w_9e77f12e3ffde4f47bf00bd684c889a853af9d77",
+            "content": {
+                "en": "Blowing two guys in an alley for your next hit of Ketracel-White."
+            }
+        },
+        {
+            "id": "w_fdb5769058ed1a0e2ce8acae0b332f61bec25221",
+            "content": {
+                "en": "Boldly going where every man has gone before; without a condom."
+            }
+        },
+        {
+            "id": "w_3c93e1dc0ce623a8fe3d55579aecdb9589f5b361",
+            "content": {
+                "en": "Captain Kirk."
+            }
+        },
+        {
+            "id": "w_9b5fe736e45573fc270f91423e57c229d10a9bb4",
+            "content": {
+                "en": "Captain Picard."
+            }
+        },
+        {
+            "id": "w_d37a4c4708dc7a5d326007297d9af097d6eef382",
+            "content": {
+                "en": "Cardassian tickle porn."
+            }
+        },
+        {
+            "id": "w_860db47b60d973eb3875cea41827500a75f8209d",
+            "content": {
+                "en": "Commander Riker&rsquo;s fabulous beard."
+            }
+        },
+        {
+            "id": "w_fc8f42a83e670246861545c2fc99c497353c9547",
+            "content": {
+                "en": "Commander Sisko."
+            }
+        },
+        {
+            "id": "w_542b4688bf2bcdd16d9e20df0dc6f8202141d133",
+            "content": {
+                "en": "Concealing a boner in a spandex spacesuit."
+            }
+        },
+        {
+            "id": "w_bb5a3bbe7a7b30c3832a43cc8da79d6d1c7a0ad7",
+            "content": {
+                "en": "Contracting the Phage, on your dick."
+            }
+        },
+        {
+            "id": "w_9c12a2a8b0d9deed345eb2e971e44e16110ad1d8",
+            "content": {
+                "en": "Cosplaying as a Gorn; the sexy way."
+            }
+        },
+        {
+            "id": "w_76d9fbaf3e99527701033f7592e3e10cd4d332e9",
+            "content": {
+                "en": "Creating a massive chroniton field in your pants."
+            }
+        },
+        {
+            "id": "w_90dc4c0975475ad30f007dc7a4311186162b6535",
+            "content": {
+                "en": "Dabo Girls Gone Wild!"
+            }
+        },
+        {
+            "id": "w_b4f7bb38565744470171f64a838064423e450dc4",
+            "content": {
+                "en": "Dr. McCoy."
+            }
+        },
+        {
+            "id": "w_b94e99ce2de7bf1dc43dd7a8e01f95ff7dd81233",
+            "content": {
+                "en": "Dress uniforms that really are dresses."
+            }
+        },
+        {
+            "id": "w_effa44df007695de7fe0b228519775e04469d6eb",
+            "content": {
+                "en": "Eating chocolate to bury your depression."
+            }
+        },
+        {
+            "id": "w_a2d506bc5709d530b4bc3edf74aa29c434d2e724",
+            "content": {
+                "en": "Ejecting the warp core."
+            }
+        },
+        {
+            "id": "w_bc24d5e7530e42aa6ce82ea666ebc4462728d1da",
+            "content": {
+                "en": "Evasive maneuvers doing fuck all."
+            }
+        },
+        {
+            "id": "w_8d1c44e280aef41572d78ee7ff72192fe3d76cba",
+            "content": {
+                "en": "Getting it on, in a Jefferies Tube."
+            }
+        },
+        {
+            "id": "w_b073ba43d1358eb3ab0ca8d0ee1c99bec2f1f8c8",
+            "content": {
+                "en": "Givin&rsquo; her all she&rsquo;s got."
+            }
+        },
+        {
+            "id": "w_839090ac3e17d5b02d92574eaf34e4f4776cc23d",
+            "content": {
+                "en": "Going to red alert just as you&rsquo;re about to cum."
+            }
+        },
+        {
+            "id": "w_f329cee737cbc945490682ec6847b5595359e127",
+            "content": {
+                "en": "Gowron&rsquo;s crazy eyes."
+            }
+        },
+        {
+            "id": "w_a8d75a4735830b872171a3ef2f1881914b3f83c0",
+            "content": {
+                "en": "Gowron&rsquo;s secret tickle fetish."
+            }
+        },
+        {
+            "id": "w_8a142743ef909452637785229a4154df54384ab2",
+            "content": {
+                "en": "Gul Dukat."
+            }
+        },
+        {
+            "id": "w_8214d192c34a18b8fedbff15aa1feddec12399f5",
+            "content": {
+                "en": "Having an unlimited supply of expendable shuttlecraft."
+            }
+        },
+        {
+            "id": "w_2c0e982f748c9a61d18d7adef9cc38d102bec729",
+            "content": {
+                "en": "Having Kazon hair on your junk."
+            }
+        },
+        {
+            "id": "w_1ae61fedbfa0012bc830b8a1e42fd06decb6e0a6",
+            "content": {
+                "en": "Having sex... The Talaxian way."
+            }
+        },
+        {
+            "id": "w_341bee217e6eed4e3a732f71d0040c1e8fb46267",
+            "content": {
+                "en": "Having sexual fantasies about Kes...Only to realize later, that she was technically only three years old."
+            }
+        },
+        {
+            "id": "w_5549b69dca552907d6bebadda0629d9684999005",
+            "content": {
+                "en": "Having the unfortunate title of being Picard&rsquo;s \"Number Two\" ."
+            }
+        },
+        {
+            "id": "w_2cca5d85876217a06c4d130b0ee92ac14ce65b7b",
+            "content": {
+                "en": "Ignoring the Prime Directive."
+            }
+        },
+        {
+            "id": "w_47990d37ea60ecd5a7f5d6cfa821d043e307b8cd",
+            "content": {
+                "en": "Jello wrestling a Jem&rsquo;Hadar."
+            }
+        },
+        {
+            "id": "w_f401c526ccf4b12d49c1395e5cf8fc6a1cad39af",
+            "content": {
+                "en": "Jem&rsquo;Hadar who are overly proud of how well they do jazz hands."
+            }
+        },
+        {
+            "id": "w_19164a2d6c74b27b88def138ccfdfc0c7a9aeda8",
+            "content": {
+                "en": "Joining Starfleet and finding out that aliens really do want to give humans anal probes."
+            }
+        },
+        {
+            "id": "w_ada7428b7b9334048f803b4026d0fd8f78f94111",
+            "content": {
+                "en": "Klingon dungeon porn."
+            }
+        },
+        {
+            "id": "w_6031a52637c145ce24ffe80ac620687d508c5163",
+            "content": {
+                "en": "Masturbating to a holodeck program of yourself masturbating."
+            }
+        },
+        {
+            "id": "w_d619455eb4e4499a95904a6af3f75ca85860f51a",
+            "content": {
+                "en": "Materializing without clothes on."
+            }
+        },
+        {
+            "id": "w_0a61e6d5792b1fce2f4a26b38c5214960863d967",
+            "content": {
+                "en": "Miles O&rsquo;Brien&rsquo;s undying prejudice."
+            }
+        },
+        {
+            "id": "w_7a79496a9b5a5b0f45c019df26441d208b9cae2f",
+            "content": {
+                "en": "More exploding consoles."
+            }
+        },
+        {
+            "id": "w_56f996081fc36d02875b1078d847f70fa353aa31",
+            "content": {
+                "en": "Performing a prostate exam on a Klingon."
+            }
+        },
+        {
+            "id": "w_46d4e27db55c4a49591341806b35d2a4e385d364",
+            "content": {
+                "en": "Picard&rsquo;s \"O-face\" ."
+            }
+        },
+        {
+            "id": "w_b63bf4d9796aa24c779daada28d3cf260e1749f9",
+            "content": {
+                "en": "Playing with a Klingon&rsquo;s pain stick."
+            }
+        },
+        {
+            "id": "w_42c61ff5f2eac6086378ad7e79eb5d8e71b5f593",
+            "content": {
+                "en": "Replying to the Vulcan greeting of \"live long and prosper\" by throwing up the Shocker."
+            }
+        },
+        {
+            "id": "w_dcdb490b1c2a9a9c662ef339028f58fa30dc1ff1",
+            "content": {
+                "en": "Scotty."
+            }
+        },
+        {
+            "id": "w_b7f47a7c4abc05719b2ff525df682cc3d0397c54",
+            "content": {
+                "en": "Self-replicating dildos."
+            }
+        },
+        {
+            "id": "w_ac5d278802baef0dc524414e174edd81e63c237d",
+            "content": {
+                "en": "Self-sealing stem bolts."
+            }
+        },
+        {
+            "id": "w_41d287e681c65985852b18e9473d42f8cec32333",
+            "content": {
+                "en": "Shaka when the walls fell."
+            }
+        },
+        {
+            "id": "w_5ee17d874668984e8cf5652f3f69e6b412733677",
+            "content": {
+                "en": "Sleeping with your android crewmate."
+            }
+        },
+        {
+            "id": "w_d43cc3bef5404cbed04a88174c9b40ccd8f48b22",
+            "content": {
+                "en": "Space barbers."
+            }
+        },
+        {
+            "id": "w_f2c243c3095dd1b389f7d533d95a89980f7858d2",
+            "content": {
+                "en": "The Dominion."
+            }
+        },
+        {
+            "id": "w_ca6e139c642aa7ba4053b1a89a0747a55e31c1f4",
+            "content": {
+                "en": "The Earth-shattering revelation that J.J. Abrams might put a Klingon in the background of the new Star Wars movie. Space Herpes."
+            }
+        },
+        {
+            "id": "w_f60c39f03d258f9b7dac15dd5929c0c2df1f7db0",
+            "content": {
+                "en": "The flaccid dick of the Grand Nagas."
+            }
+        },
+        {
+            "id": "w_99e45d16f90d76cc50ef01db4a28c66c78aad080",
+            "content": {
+                "en": "The Maquis."
+            }
+        },
+        {
+            "id": "w_05c91aa4428a3fc3b42754d3bfcfc880f3e678e9",
+            "content": {
+                "en": "The Obsidian Order."
+            }
+        },
+        {
+            "id": "w_b1bbf2459cef6866b729ed01f0eee32aeca8f995",
+            "content": {
+                "en": "The Picard Maneuver."
+            }
+        },
+        {
+            "id": "w_c6f96129d94f2f8d76388c068f36f00e22165d91",
+            "content": {
+                "en": "The Tal Shiar."
+            }
+        },
+        {
+            "id": "w_9b9f92ca84e795a508fa6d8ebd479512be681049",
+            "content": {
+                "en": "Trying to convince your girlfriend to paint her body green so that you can do it the \"Kirk way\" ."
+            }
+        },
+        {
+            "id": "w_54971d27dc4728c3536b69cb261af64f0cafc355",
+            "content": {
+                "en": "Two Ferengi shitting in the air-lock."
+            }
+        },
+        {
+            "id": "w_0ccd6c05afd3757237af6c7a493e754f50bd5cef",
+            "content": {
+                "en": "Using contractions in spite of your programming."
+            }
+        },
+        {
+            "id": "w_a1c8c7906ff7906d9c5c75b4dc5c2bef05b8661f",
+            "content": {
+                "en": "Using the holodeck to satisfy your sexual depravities."
+            }
+        },
+        {
+            "id": "w_0528f9b7c61a2b34c6f700988a483a113f3049d5",
+            "content": {
+                "en": "Using the lateral sensors to spy on girls."
+            }
+        },
+        {
+            "id": "w_14f097d3e44a9847bb29d7d8ad69f4e690b14904",
+            "content": {
+                "en": "Wesley Crusher."
+            }
+        },
+        {
+            "id": "w_86cbb13ea355ba8589deb76825643f84a2d9d842",
+            "content": {
+                "en": "Wormhole aliens."
+            }
+        },
+        {
+            "id": "w_c717e263167c1ae0d3efb4de1602c115b7e2347a",
+            "content": {
+                "en": "Wort&rsquo;s sexy thong."
+            }
+        },
+        {
+            "id": "b_800c97158248732858335baaca5b8cd3c369f0d5",
+            "content": {
+                "en": "A common saying among Romulans is, \"Never turn your back on ______\" ."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5b4a7bd378fe9aad99613f16236e7f59c6210f88",
+            "content": {
+                "en": "All hands to battlestations. Divert emergency power to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_855f75ba1109f53b0cf39084ee13efa7ffee1190",
+            "content": {
+                "en": "And like a thousand other commanders on a thousand other battlefields, I wait for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1aa922b70d8c5d5d0a8c56a6c00ab503760e68af",
+            "content": {
+                "en": "Borg nanoprobes are the perfect solution for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a87d53250addda324c045eb353805cfd2528ffa1",
+            "content": {
+                "en": "Damn it Jim! I&rsquo;m a doctor not ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bb745ef6908c3e09eec468089db06e55cf71d96",
+            "content": {
+                "en": "Data calls his latest poem \"Ode to ______\" ."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea2527a13c8e0a59d37d2521f80987e00fb05aba",
+            "content": {
+                "en": "Flair is what marks the difference between artistry and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1ac4b7b58c48268a45a21106ad3276f3f0ec3741",
+            "content": {
+                "en": "for ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f6d016a2c36ddb8a8025bdd60b42d5c33da5996",
+            "content": {
+                "en": "I fall asleep each night with ______ in my hands."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b1e853ed93a9fb613677a86f4aaf9dac3323d8c",
+            "content": {
+                "en": "If the warp drive fails to activate, the results could be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_757e4ba2116a85a057a018aacd2970fa14cc034d",
+            "content": {
+                "en": "It&rsquo;s called the Neutral Zone because ______ is forbidden."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_707fa2c485ac55d744122742a0bd8f7a523bfb71",
+            "content": {
+                "en": "Laws change depending on who&rsquo;s making them, but ______ is justice."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9e625409fa355136ba17d9d1443b2b0445f2a1ec",
+            "content": {
+                "en": "Lieutenant, you are looking at the only man to beat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0d5d3409f4d9c693703e90a0b0692fc4893f1acf",
+            "content": {
+                "en": "Logic is the beginning of wisdom, not ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f48991b04751887909349ac81a4260c354ad06de",
+            "content": {
+                "en": "No starship would be complete without ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_31b08ffd3e3e25bfa75ee2793f3feed0eecf4d8f",
+            "content": {
+                "en": "Red Alert. Shields up. All hands prepare"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9afa0663ba3c2084e9e7af6d38abec9e8fca6de5",
+            "content": {
+                "en": "Some are born great. Some achieve greatness. And some have ______ thrust upon them."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7abc5124509305f1cf3544f2f3783e174e7b9ed7",
+            "content": {
+                "en": "Space is ______ and ______ wrapped in darkness and silence."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5dcf9eb858343c61055636c8a847a114e26dafbc",
+            "content": {
+                "en": "Star Trek III: The Search for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8f3ec0e195894ff183704450ba3156c9c9d7cdea",
+            "content": {
+                "en": "Starfleet was founded to seek out new life and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f9f9cd051c941839e4162b6f94ff68ed583fd13",
+            "content": {
+                "en": "Thanks to ______, we were able to miraculously avoid a warp core breach at the last second."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca8e579b7a7465f7470aa330788d8d401f99bb0f",
+            "content": {
+                "en": "The best part of my fictional holodeck future was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94afb12729c91ff419e43ac117df5d001cd7ce2b",
+            "content": {
+                "en": "The lesser-known \"Klingon High Council of ______\" ."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b0793a57b782296c6cead600f81593bb461ec5ab",
+            "content": {
+                "en": "The line must be drawn here! This far, and no farther! I shall make them pay for ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5d076a6f113f976fcea0e49714fbcf42900d64f",
+            "content": {
+                "en": "The needs of the many outweigh the needs of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_142df86ee5967bfc22d9b4f2bccdbcb656d4e07d",
+            "content": {
+                "en": "The new Starfleet uniform code: Command: Red. Operations: Gold. ______: Blue."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_97c0d0d0800e562ae8378b3fae5695fcd1e36e81",
+            "content": {
+                "en": "There was a time when you looked up at the stars and dreamed of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e4b12614938a12b0cc3028ce1490939b552c67a8",
+            "content": {
+                "en": "There&rsquo;s nothing left but dried bones and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e7b90a806dd4ce5db0d8a99064bfbe394ac5a3f",
+            "content": {
+                "en": "What am I going to spend my first bar of gold-pressed latinum on?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6e527d9704dff0771b586c3bd8e5284ec29d5782",
+            "content": {
+                "en": "What was the best thing I learned at Starfleet Academy?"
+            },
+            "pick": 1
+        }
+    ]
+}

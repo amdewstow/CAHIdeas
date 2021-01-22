@@ -1,0 +1,702 @@
+{
+    "id": "CAC_Fan_Group_Expansion",
+    "name": "CAC Fan Group Expansion",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_442cdf84ec84de2474dfba9422b045c064c36f05",
+            "content": {
+                "en": "\/b\/"
+            }
+        },
+        {
+            "id": "w_7b08f1588e30f22688f7368bd8dc25a387dc8d99",
+            "content": {
+                "en": "\/mlp\/"
+            }
+        },
+        {
+            "id": "w_7db06e767943ce57d5cffc79397225550bd1ac17",
+            "content": {
+                "en": "Acquiring the Golden Sword and fighting them irl"
+            }
+        },
+        {
+            "id": "w_8e5aef96a646b6dd623030f81a30561024be8c6d",
+            "content": {
+                "en": "All agreeing on the comics being good, even though we don't read them"
+            }
+        },
+        {
+            "id": "w_ec4c649c939b59ebea124282ba0e0e245a969fcf",
+            "content": {
+                "en": "Anthony&apos;s mustache"
+            }
+        },
+        {
+            "id": "w_fc90cd838023f0d469f53bcc80d500bff88295b0",
+            "content": {
+                "en": "Atmospark"
+            }
+        },
+        {
+            "id": "w_2ae0db359ff36b0eddeb009ee6e23cfea4356108",
+            "content": {
+                "en": "Awkward silence..."
+            }
+        },
+        {
+            "id": "w_6d11b432b7cc55eb4433b76a3e475f01677f0230",
+            "content": {
+                "en": "Bat Ponies"
+            }
+        },
+        {
+            "id": "w_18e3634b922c46b8fbf7eba99e1c301615e3c1f4",
+            "content": {
+                "en": "Being Subscribed to Mart on YouTube"
+            }
+        },
+        {
+            "id": "w_3ddb99b6e1f6bd86ec2e2d619846a9cdd31018ed",
+            "content": {
+                "en": "Bernd"
+            }
+        },
+        {
+            "id": "w_fed9809ad7155dc0cf3f31d579acea0c6961c071",
+            "content": {
+                "en": "Bernd Pizza"
+            }
+        },
+        {
+            "id": "w_4e10fad15a3cf166f34acbc398a6f97dfdcdb262",
+            "content": {
+                "en": "Body Pillows"
+            }
+        },
+        {
+            "id": "w_dfdcae0fcf6c9f79943b66bf0095d861b1a2fc98",
+            "content": {
+                "en": "Bumping the Blood of Christ"
+            }
+        },
+        {
+            "id": "w_c0e277d0ab508147fb08c64d5018ce226a7e60c4",
+            "content": {
+                "en": "Buttz"
+            }
+        },
+        {
+            "id": "w_d7cc746c853cb43aac7b94fcbe494517cdd08ec9",
+            "content": {
+                "en": "Buy the Golden Sword"
+            }
+        },
+        {
+            "id": "w_b52be34eecba7049a38423939fe52dd28c259c6e",
+            "content": {
+                "en": "CARD DUMP!"
+            }
+        },
+        {
+            "id": "w_9999e5f76658dd84436d2fe8b025a70067cdf9b2",
+            "content": {
+                "en": "Commander Senpai"
+            }
+        },
+        {
+            "id": "w_eed64c57f6d9ccdc7103b259e327d6f2000f0294",
+            "content": {
+                "en": "Crazy Pastels"
+            }
+        },
+        {
+            "id": "w_84b77e24e189111f2b3d36e15f1e81e6229cae72",
+            "content": {
+                "en": "Crazy&apos;s Skype Call House of Fun"
+            }
+        },
+        {
+            "id": "w_2e8283a2cf38f0afbf628724118d4118f41d14a1",
+            "content": {
+                "en": "Cutie Art Crusaders"
+            }
+        },
+        {
+            "id": "w_e738c7d89afb7a9acb548496f7ce7ca8d6b2a2f0",
+            "content": {
+                "en": "Echo"
+            }
+        },
+        {
+            "id": "w_47a539fefc4ea509a54de1a05430bb39168d4302",
+            "content": {
+                "en": "Eillah"
+            }
+        },
+        {
+            "id": "w_78ffa96cea3cafb964841b9d3fb5b8007dda80b6",
+            "content": {
+                "en": "Eillah aka Hallie aka Michelle aka Smiley aka Ayla aka..."
+            }
+        },
+        {
+            "id": "w_3ea5873aea5022d23e0ec10e774f0c80c5c1c57b",
+            "content": {
+                "en": "Eillah&apos;s Dirty Mind"
+            }
+        },
+        {
+            "id": "w_933ccb05c8f877e018f3adca7a399215c40492a3",
+            "content": {
+                "en": "Estrogen, what&apos;s that?"
+            }
+        },
+        {
+            "id": "w_f946eb500a90624cdda6398d32f0f8424b8d76f6",
+            "content": {
+                "en": "Everyone is Mart"
+            }
+        },
+        {
+            "id": "w_2b9af7205de6b8d1d9d1e060c51fcccb376b3163",
+            "content": {
+                "en": "Florence"
+            }
+        },
+        {
+            "id": "w_0d4b6e5adc21a7640d1900d8c06cb1ab65cabe03",
+            "content": {
+                "en": "Fluffy I Hate You All"
+            }
+        },
+        {
+            "id": "w_a1701eff354938e29e379c862ef9b9ad45597ce3",
+            "content": {
+                "en": "Flutterguy"
+            }
+        },
+        {
+            "id": "w_0415a52a271251a2a6dec93fb61470d00b2a94d1",
+            "content": {
+                "en": "Frozen Synapse"
+            }
+        },
+        {
+            "id": "w_817122cee4bb37d4c69213986b9b047c34c2bc8e",
+            "content": {
+                "en": "Glyph"
+            }
+        },
+        {
+            "id": "w_88decab0c6b9359b38d5b42fd2212140047912c7",
+            "content": {
+                "en": "Glyph is god"
+            }
+        },
+        {
+            "id": "w_ddcf2fb278698d2cfa20d78fd901b191c048f795",
+            "content": {
+                "en": "Goblins with Too Much Hair Gel"
+            }
+        },
+        {
+            "id": "w_724b61a6d3dfa39bb0b0ee6ae9122865b3726b19",
+            "content": {
+                "en": "I miss Soarin..."
+            }
+        },
+        {
+            "id": "w_65d90646b7bca005ef5b4ea9c3570c83dccf94d6",
+            "content": {
+                "en": "Landmine Pony"
+            }
+        },
+        {
+            "id": "w_cecf9d66bd844ab91d8720e8cee2431fc581f9e7",
+            "content": {
+                "en": "Lindmine is best pony"
+            }
+        },
+        {
+            "id": "w_9ab05374769e86bbfffbf26293d014a8c630f8c8",
+            "content": {
+                "en": "Linking KarpetShark&apos;s blogs"
+            }
+        },
+        {
+            "id": "w_07fa34687663df37011c20307891fc525b77bbe3",
+            "content": {
+                "en": "Making characters at two o'clock in the morning"
+            }
+        },
+        {
+            "id": "w_195a3eaacd67e14b1bafe2fa35ce96f38258a424",
+            "content": {
+                "en": "Making our own album for the hell of it"
+            }
+        },
+        {
+            "id": "w_f66a2d71f989961d552ec87b386dba35d83d3ea5",
+            "content": {
+                "en": "Making R34 of each other"
+            }
+        },
+        {
+            "id": "w_42fda82964ba5085123f67b0354bc682fdf4f9ae",
+            "content": {
+                "en": "Making your friends mad on purpose"
+            }
+        },
+        {
+            "id": "w_85276c440ada1cf3939ab1461773f14369064d05",
+            "content": {
+                "en": "Mart"
+            }
+        },
+        {
+            "id": "w_ee763fd35362847a01b26135da2db874a5f17088",
+            "content": {
+                "en": "MASTER OF PUPPETS!!11!1!"
+            }
+        },
+        {
+            "id": "w_4d579a56841bf888a1fa06d8ad81be9619a66909",
+            "content": {
+                "en": "Mentioning Pok&Atilde;&copy;hidden every call"
+            }
+        },
+        {
+            "id": "w_3d0d3ae9b656eb2a90071bc7619a6839faf22747",
+            "content": {
+                "en": "Meti"
+            }
+        },
+        {
+            "id": "w_f4d086676f43d13453a4a7e0aba381f1153499a1",
+            "content": {
+                "en": "Meti doesn't like anything"
+            }
+        },
+        {
+            "id": "w_45afb5294649d4991c0ed6664f5aa7feeeff4a2c",
+            "content": {
+                "en": "Meti using long words wrong while trying to sound smart"
+            }
+        },
+        {
+            "id": "w_a0bbd5bacc3f55aa34b8e3f0856e989cfa98f7df",
+            "content": {
+                "en": "Meti&apos;s Harem of Waifus"
+            }
+        },
+        {
+            "id": "w_f8c38b2167c0ab6d7c720e47c2139428d77d8b6a",
+            "content": {
+                "en": "Michael"
+            }
+        },
+        {
+            "id": "w_ee27929623e2e5214f6be5ecb9cee919cf63ee16",
+            "content": {
+                "en": "Michelle"
+            }
+        },
+        {
+            "id": "w_a3f006430e348f25c86bdbb9a580c27152563256",
+            "content": {
+                "en": "My Waifu!"
+            }
+        },
+        {
+            "id": "w_ebb563722c0ebbc168dfa141222e062b0e85e858",
+            "content": {
+                "en": "Nanomachines, Son!"
+            }
+        },
+        {
+            "id": "w_008982293b663fd2c38889df5d88fe82269eb4bd",
+            "content": {
+                "en": "Not Safe For Work"
+            }
+        },
+        {
+            "id": "w_724718d6801bd6a556ad31a75cc7cca5ccce5d16",
+            "content": {
+                "en": "Oh my"
+            }
+        },
+        {
+            "id": "w_1a457fd4ad595ba108013f40376a03d6e5e027fa",
+            "content": {
+                "en": "Pinkie Dash"
+            }
+        },
+        {
+            "id": "w_c29aeab5e635d4cba42dec2bac317bfd74da37e3",
+            "content": {
+                "en": "Playing Through the Fire and the Flames on Air Guitar"
+            }
+        },
+        {
+            "id": "w_61a9e1d400dd5834d93c72cb1dc8e5cd6afee8de",
+            "content": {
+                "en": "Pooping in bushes"
+            }
+        },
+        {
+            "id": "w_ef76064a20af3ede21de897ff20bf7d73af0435a",
+            "content": {
+                "en": "Princess Rainbow Sparkle"
+            }
+        },
+        {
+            "id": "w_20d7a38a269d594f8be63d45e28f6e6e75221401",
+            "content": {
+                "en": "Pronouncing Eillah wrong"
+            }
+        },
+        {
+            "id": "w_75d110ae9355b471e08c282995435f187e07a44b",
+            "content": {
+                "en": "Rainbow Plasma"
+            }
+        },
+        {
+            "id": "w_d835308ddb322c4307e5659b5436b7d9a9213b6b",
+            "content": {
+                "en": "Rarity&apos;s Bigger Blacker Dick 2: The Electric Boogaloo"
+            }
+        },
+        {
+            "id": "w_4f9bb20c32807aa911b034ceefb8bafb30e115b1",
+            "content": {
+                "en": "Roll a D20"
+            }
+        },
+        {
+            "id": "w_55cd9ae419865708b90d17d1aee764534287a914",
+            "content": {
+                "en": "Roll to Grapple"
+            }
+        },
+        {
+            "id": "w_d96567c43dd56ac20dc6f1722dc3ef7710f09d09",
+            "content": {
+                "en": "Sail-chan"
+            }
+        },
+        {
+            "id": "w_e0dc0fcd6bb189a82bbd81e26e81fac4a5255f82",
+            "content": {
+                "en": "Sharknado"
+            }
+        },
+        {
+            "id": "w_c03c3f11141e4f7cfde28b4c9c19f3096b198ecd",
+            "content": {
+                "en": "Shibi"
+            }
+        },
+        {
+            "id": "w_39ed6e7ca7bd02ccf87677f23ba9288aca812ba6",
+            "content": {
+                "en": "Shibi&apos;s 4chan links"
+            }
+        },
+        {
+            "id": "w_04394623981485be67d8ec6b12a998105a5baaff",
+            "content": {
+                "en": "Shipping everyone with everything"
+            }
+        },
+        {
+            "id": "w_bf720c1d5aa2dcfa0434a9c9feedd8939c00f6c7",
+            "content": {
+                "en": "Shut up, I&apos;m trying to read the cards!"
+            }
+        },
+        {
+            "id": "w_bbec85a068e0ea0418e6fe2fa49d5caaa99033e7",
+            "content": {
+                "en": "Slow escalation of laughter to put in a good card"
+            }
+        },
+        {
+            "id": "w_32cdffaf1d1e5c4f4b5e98c14074b462046db772",
+            "content": {
+                "en": "Smooth Sailing&apos;s smooth, smooth voice"
+            }
+        },
+        {
+            "id": "w_14a147b523956d79cfe05bf66e9136b6378fafff",
+            "content": {
+                "en": "Smooth Systematically Silencing Swearing"
+            }
+        },
+        {
+            "id": "w_7be2b841b61e5d6184786a6ce51151a75aeefab1",
+            "content": {
+                "en": "So much Fallout: Equestria"
+            }
+        },
+        {
+            "id": "w_a3b856080d506f69d5b04ac31eb14d4490100118",
+            "content": {
+                "en": "Soarin"
+            }
+        },
+        {
+            "id": "w_2a61b77052d8a478d85aef8548f8371783d7c388",
+            "content": {
+                "en": "Someone forgetting to add Commander to the Skype call"
+            }
+        },
+        {
+            "id": "w_607c05f949629386d23d3ceb36122eb5c84c8b9c",
+            "content": {
+                "en": "Speck"
+            }
+        },
+        {
+            "id": "w_76ce312eb0311248ff98a96cf96b76a236fd20fa",
+            "content": {
+                "en": "Splash"
+            }
+        },
+        {
+            "id": "w_3f8a11044d2e8031ce4aa89269016d9476a998fd",
+            "content": {
+                "en": "SplashxPrincessRainbowSparkle"
+            }
+        },
+        {
+            "id": "w_14586968d409f41c5f1ad263c41c33a9fd17ada5",
+            "content": {
+                "en": "Sporadically bursting into song over Skype"
+            }
+        },
+        {
+            "id": "w_75c87062f18856ab139897759bd8f327a4fd947f",
+            "content": {
+                "en": "Sporadically changing the RP into an ERPG"
+            }
+        },
+        {
+            "id": "w_09cee08de6d9905df4d09aa97929ffdd559e8d5e",
+            "content": {
+                "en": "Storm Shield winz lol"
+            }
+        },
+        {
+            "id": "w_5697506afe813b809246e1e68f9156b0d5171c64",
+            "content": {
+                "en": "Taking two hours just to make a simple character"
+            }
+        },
+        {
+            "id": "w_052a153f87913f182b02c35c480caa8d402b19b9",
+            "content": {
+                "en": "The Clop Room"
+            }
+        },
+        {
+            "id": "w_dfce401d2c008a8018760c2bb1cb239bbb1b6c7d",
+            "content": {
+                "en": "The Unicorn Master Race"
+            }
+        },
+        {
+            "id": "w_b8c84d3f4f535e20b17e30cc92733877a7e86eca",
+            "content": {
+                "en": "Top Bat"
+            }
+        },
+        {
+            "id": "w_d1b6b2f9792d4292c033f3001eb90feff01e21d8",
+            "content": {
+                "en": "Touchpad&apos;s magnificent butt"
+            }
+        },
+        {
+            "id": "w_0d3ae7442956a581ac8ab729c33050400d0f1b4f",
+            "content": {
+                "en": "Wesley"
+            }
+        },
+        {
+            "id": "w_0f95ea864ec601714707954b1d3687e9224ca484",
+            "content": {
+                "en": "What does the fox say?"
+            }
+        },
+        {
+            "id": "w_36054d48b233193203ce5b4773072d5f0331b876",
+            "content": {
+                "en": "You're a faget"
+            }
+        },
+        {
+            "id": "w_d4dde75ca731d6afffc873406bc9b30fd639401e",
+            "content": {
+                "en": "Zeta"
+            }
+        },
+        {
+            "id": "w_9093d68a598aace13dd29ba11ef0dec42e49def6",
+            "content": {
+                "en": "[Landmine Intensifies]"
+            }
+        },
+        {
+            "id": "b_34c2b7ab0babe97876351fd64db458f685d005b4",
+            "content": {
+                "en": "All hell broke loose on deviantart when ______ change their name to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8ab60e5693c2a14980e28c8bb96c555fc3c85be9",
+            "content": {
+                "en": "Enjoy the ______, Fuckers!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f27d71184724ae3b3ba5bf8cfb5bede7263c801a",
+            "content": {
+                "en": "Everyone laughed when the White Card ______ was submitted."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b59a0bf5c1a2f3082e0735d2ba726d0b854e804d",
+            "content": {
+                "en": "Everyone went silent when ______ did ______ in the RP."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_69dc5cdbf0f7929c21a0c947475026a6d07383d8",
+            "content": {
+                "en": "Guys, I have an important question. ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c773380012902dcdc43a0633c3b546a0d2b98b76",
+            "content": {
+                "en": "Hey guys, not to spoil this, but ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_98105147aa4f7028c6572c3fe3232502ce7fd8cb",
+            "content": {
+                "en": "I couldn't go to bed because ______ was happening in the Skype call."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_32dc8f7af143d47b88b0a01a17dd84c37d5bef97",
+            "content": {
+                "en": "I hate it when people keep posting ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_447a11c580afd134ab77ba7256106a17dbb9241a",
+            "content": {
+                "en": "I joined the Skype call while everyone was talking about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_707e1fdf212e01026935a3884613cb7315bfee47",
+            "content": {
+                "en": "Meti ended the campaign on a dark note when ______ killed ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a8ba6cf401c55dcbb77199cefdbdd582c2fb55c5",
+            "content": {
+                "en": "Posting NSFW pictures of ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9c740f315571c01b143e0fc65d57c21504ec34c6",
+            "content": {
+                "en": "Roll a D20 for a ______ check."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_515f37410580975ece98d515d009a9a66bd50533",
+            "content": {
+                "en": "Someone called Eillah ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0f95ea864ec601714707954b1d3687e9224ca484",
+            "content": {
+                "en": "What does the fox say?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0f72ee96dafde5a066bd9be2e8f3a644c3700b4",
+            "content": {
+                "en": "______ ate breadsticks in front of ______ because it was funny."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8e6cf334af5a760501f9dd268161dbf74cf6153c",
+            "content": {
+                "en": "______ rustled ______&apos;s jimmies with ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_888e5ee07cb8acba69220fe11ef8a38916ae41d9",
+            "content": {
+                "en": "______ set off the Landmine."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d35db8c49a9753f35f63abc3f3f9e4ef4b10d58",
+            "content": {
+                "en": "______ should totally be the voice of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_356211b8d93baecdf1ecaa95e776e0e5787b2fd0",
+            "content": {
+                "en": "______ swore a blood oath because they did ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_67342abfd9d9eecbe311b184b5f2f3941005e752",
+            "content": {
+                "en": "______ was a Changeling the whole time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6da7089fb596b2014a1378d3d5ea1352e3f1adc3",
+            "content": {
+                "en": "______&apos;s life was complete when they were shipped with ______."
+            },
+            "pick": 2
+        }
+    ]
+}

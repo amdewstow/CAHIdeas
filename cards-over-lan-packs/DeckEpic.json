@@ -1,0 +1,545 @@
+{
+    "id": "DeckEpic",
+    "name": "DeckEpic",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_2042fc810f3843bc2f94a8871893b86d68f7e142",
+            "content": {
+                "en": "A habanero blowjob."
+            }
+        },
+        {
+            "id": "w_411d0051bdecbd2aec3dccca8e7af20aaec2365b",
+            "content": {
+                "en": "A live episode of Burn Notice, broadcast from the Houston city morgue."
+            }
+        },
+        {
+            "id": "w_f0c00cbdf792aebd8466a2cf9bab8763bf72ee31",
+            "content": {
+                "en": "A spree of Houston bank robberies."
+            }
+        },
+        {
+            "id": "w_9b998899cb7833c199fa12f7505cdfa8e3a89837",
+            "content": {
+                "en": "An Eastern European gang bang."
+            }
+        },
+        {
+            "id": "w_7906a74f18c905680cd7e229fd65335c76b07b99",
+            "content": {
+                "en": "Bellaire High School drinking parties."
+            }
+        },
+        {
+            "id": "w_5f5eb87e6bd3b7428810b5c56b9f28c677db7bb1",
+            "content": {
+                "en": "Bellaire High School on lockdown."
+            }
+        },
+        {
+            "id": "w_546f5f2894bfede9f852a6f1f8c809cb18b69b5d",
+            "content": {
+                "en": "Bellaire High School talent shows."
+            }
+        },
+        {
+            "id": "w_3447dfabecfc981367f70ad504990703a424dcac",
+            "content": {
+                "en": "Bellaire High School&apos;s pathetic rendition of Hamlet."
+            }
+        },
+        {
+            "id": "w_6069ed5cabb6133e7ae906e4117dae541c83a2a3",
+            "content": {
+                "en": "Burn Notice: the movie."
+            }
+        },
+        {
+            "id": "w_d7a53ce975c0ffaa44f454ebe6508c008964e61d",
+            "content": {
+                "en": "Customer service at Epic Software Group."
+            }
+        },
+        {
+            "id": "w_c976720ffb80ffc96e8d34c0c1fffc375be2e2bc",
+            "content": {
+                "en": "dildo"
+            }
+        },
+        {
+            "id": "w_ca297bef169dc4cc345c1fb00157034345c8fc07",
+            "content": {
+                "en": "Dirty, aging hippies from University of Houston continuing to play Ultimate Frisbee. Give it up, assholes."
+            }
+        },
+        {
+            "id": "w_22add55e7a97415e8bf56e9faa92413d443bbc07",
+            "content": {
+                "en": "Dismembered body parts found in the Houston city dump."
+            }
+        },
+        {
+            "id": "w_80bc9f96e524b3c35c17211746598d37baccd489",
+            "content": {
+                "en": "Fast food restaurants in Houston."
+            }
+        },
+        {
+            "id": "w_067fb3fc165db1a44d9c12f62a99162d02579261",
+            "content": {
+                "en": "Friendly Houston neighbors holding hands."
+            }
+        },
+        {
+            "id": "w_d51ead12077b67c5018106a7d3203f790103215f",
+            "content": {
+                "en": "Good Houston bitches gone bad."
+            }
+        },
+        {
+            "id": "w_6ff53c00427913a10e3c6139b6040e911e56aff8",
+            "content": {
+                "en": "Grad week at University of Houston."
+            }
+        },
+        {
+            "id": "w_6555706a5276790f5927530d525bd96b59d198b3",
+            "content": {
+                "en": "Guster&apos;s poorly executed guest appearance on The Shield."
+            }
+        },
+        {
+            "id": "w_8dde6721ec1d2b7496d19205a729645a56e3e322",
+            "content": {
+                "en": "Houston being hit by a plague of locust. And ebola."
+            }
+        },
+        {
+            "id": "w_7264edde315377d3cddfbadfe64536035590ceac",
+            "content": {
+                "en": "Houston nursing homes."
+            }
+        },
+        {
+            "id": "w_1078603b807db30186026e3363db9017f89e842b",
+            "content": {
+                "en": "Houston public access television."
+            }
+        },
+        {
+            "id": "w_23a0d2883c3386b5eb0369d82aef5620ecc4c9db",
+            "content": {
+                "en": "Houston traffic."
+            }
+        },
+        {
+            "id": "w_59072bdfcdd5238161d00ddbc7e010a9c6693319",
+            "content": {
+                "en": "Houston&apos;s sad attempt at attracting tourists."
+            }
+        },
+        {
+            "id": "w_289562a4ccf6d863aa3f61964d37dd3b4150167e",
+            "content": {
+                "en": "Juggalos."
+            }
+        },
+        {
+            "id": "w_d5d5b159ebfaa994063e9619bec8d8bea0c969ba",
+            "content": {
+                "en": "Ladyboys in the Phillipines."
+            }
+        },
+        {
+            "id": "w_4b55ae92313d72380abc69d1a8847e3054c0e56d",
+            "content": {
+                "en": "LIPS Steel Horse Trail Ride 2011."
+            }
+        },
+        {
+            "id": "w_8f116ec6b0f1bd9016e9963cfe90e33b5b0f3c4a",
+            "content": {
+                "en": "Lorena Bobbit."
+            }
+        },
+        {
+            "id": "w_d2af2948f916afeae52b68e9aacda2537a0cd2d8",
+            "content": {
+                "en": "Lunch meetings with the Westbury Christian School Anime Club. KAWAI~ ^_^"
+            }
+        },
+        {
+            "id": "w_004be1a05027faab241ff7531e149b626e815f6d",
+            "content": {
+                "en": "Middle management at Epic Software Group."
+            }
+        },
+        {
+            "id": "w_957fd759c82ef11c43f035a752c90faea4859504",
+            "content": {
+                "en": "Mud brick homes from Olde Timey Houston."
+            }
+        },
+        {
+            "id": "w_bd3fe61459534e1b078526e146d9ba950af95b71",
+            "content": {
+                "en": "My browser history."
+            }
+        },
+        {
+            "id": "w_da6c703ec5a741ebfd9347d32fdc2d67d1c44424",
+            "content": {
+                "en": "My sexual experimentation at University of Houston-Downtown."
+            }
+        },
+        {
+            "id": "w_c2eefd2b2c4f84de55424b63886da408ac6a4b19",
+            "content": {
+                "en": "New-age healers peddling hemp and crystals at a Houston farmer&apos;s market."
+            }
+        },
+        {
+            "id": "w_ee07a30bc3515bea549807bcfe192f40835d4112",
+            "content": {
+                "en": "Paychecks from The Switch."
+            }
+        },
+        {
+            "id": "w_7589ef4295757b8620416f35b538cb443b125b71",
+            "content": {
+                "en": "Pedantic tards in the Houston newspaper&apos;s online comments section."
+            }
+        },
+        {
+            "id": "w_a5be86b63d75b856cd5c043e18913b15f08142ea",
+            "content": {
+                "en": "Poverty-stricken residents of Houston ."
+            }
+        },
+        {
+            "id": "w_a66a0e1bc6fcaad45e9c97708d9ae949738d39b4",
+            "content": {
+                "en": "Preppy kids from Westbury Christian School."
+            }
+        },
+        {
+            "id": "w_12441f0653932043df3596d0296668632613e334",
+            "content": {
+                "en": "Public swimming pools in Houston."
+            }
+        },
+        {
+            "id": "w_cc4a8d1c19a7509550da3c84fe4aadeb234f66df",
+            "content": {
+                "en": "Restaurants in Houston."
+            }
+        },
+        {
+            "id": "w_535522a4523b6fe15e278935747d6b7c55de0b3a",
+            "content": {
+                "en": "Sex after LIPS Steel Horse Trail Ride 2011 without taking a shower."
+            }
+        },
+        {
+            "id": "w_acec9d887cfdc0932668199dc56d16757ff25f7f",
+            "content": {
+                "en": "Sexy University of Houston sorority hoes."
+            }
+        },
+        {
+            "id": "w_a6e1935fd3f81be3f55a0ee0a7a617993da0d9bf",
+            "content": {
+                "en": "Sketchy mobile homes parked in suspicious places around Houston."
+            }
+        },
+        {
+            "id": "w_88da2deca24d68597bc9590947039ab43975a0ac",
+            "content": {
+                "en": "Socially awkward gomers who wallflower at University of Houston parties."
+            }
+        },
+        {
+            "id": "w_5bbeb4dc827803fba3356c435e033eed890ec164",
+            "content": {
+                "en": "Street performers in Houston tourist hotspots."
+            }
+        },
+        {
+            "id": "w_d47addb194b30cfce1f84c47b475e58b13c4aecd",
+            "content": {
+                "en": "That guy from University of Houston-Downtown whose primary method of communicating is quoting Will Ferrell movies."
+            }
+        },
+        {
+            "id": "w_c1edce1d30c78fd179194d474f70ca59b1d5c389",
+            "content": {
+                "en": "That ugly ass cheerleader at Westbury Christian School."
+            }
+        },
+        {
+            "id": "w_88593ff5ec00c6d1a54a14f8098a8d766cc41d8a",
+            "content": {
+                "en": "The Bellaire High School chess club."
+            }
+        },
+        {
+            "id": "w_0e8c0c9f01787a30889afd380aea9fdd892ddbfc",
+            "content": {
+                "en": "The Bellaire High School debate team."
+            }
+        },
+        {
+            "id": "w_52c152d90397a007da3b244ee5b8dbe61b3d0554",
+            "content": {
+                "en": "The Bellaire High School Football team."
+            }
+        },
+        {
+            "id": "w_dbb7311e614163b462677ef111a4ef84bdf61a8a",
+            "content": {
+                "en": "The Bellaire High School marching band."
+            }
+        },
+        {
+            "id": "w_e24cf0914500ca48873e7bbb9d2ed7d85fe1458a",
+            "content": {
+                "en": "The Bellaire High School newspaper."
+            }
+        },
+        {
+            "id": "w_79a28e251aa76d6f43cd9bb97d1952658d9c13c1",
+            "content": {
+                "en": "The Bellaire High School soccer team."
+            }
+        },
+        {
+            "id": "w_5e6b071da898c17d23d5f45c4050fb7299620bd0",
+            "content": {
+                "en": "The foreign language department at Bellaire High School."
+            }
+        },
+        {
+            "id": "w_4098f6f9666e30630ba7fd15610fc34f1a3d1da9",
+            "content": {
+                "en": "The glorious Houston city museum."
+            }
+        },
+        {
+            "id": "w_d76a6d60d7482c8d623a0b56b94fa4b1680f4ba9",
+            "content": {
+                "en": "The highly infectious rash spreading throughout Houston."
+            }
+        },
+        {
+            "id": "w_eae75214ed60d86bd71e51f25daf72649701e86e",
+            "content": {
+                "en": "The Houston city council."
+            }
+        },
+        {
+            "id": "w_997b0d02924efe647ac18211f406465ed1f20dc3",
+            "content": {
+                "en": "The Houston Neighborhood Watch."
+            }
+        },
+        {
+            "id": "w_559044ab9b2c7657f92729b60d4a9ce7c9061921",
+            "content": {
+                "en": "The Houston social elite."
+            }
+        },
+        {
+            "id": "w_c8c993f00199db58c77a1a48d3c768361c4af793",
+            "content": {
+                "en": "The lack of fun things to do in Houston."
+            }
+        },
+        {
+            "id": "w_d088d4f9b22b384b1715235a06d8e2edd4e8158d",
+            "content": {
+                "en": "The library lizards at Bellaire High School."
+            }
+        },
+        {
+            "id": "w_6592f9be207d51e18094dcb1811810aafc36183a",
+            "content": {
+                "en": "The lift-bros at the University of Houston gym."
+            }
+        },
+        {
+            "id": "w_ed3ae2fa0e9b5119129f1e7f5903b183c092c58f",
+            "content": {
+                "en": "The millions of people, throughout time, who have died in and around Houston."
+            }
+        },
+        {
+            "id": "w_67e53833fd47d0adf06fb39a14c0c06206ef9652",
+            "content": {
+                "en": "The shockingly high dropout rate at Bellaire High School."
+            }
+        },
+        {
+            "id": "w_ab0c6fde9551afa273bda7907bb41b0872bce614",
+            "content": {
+                "en": "The theatre kids at University of Houston-Downtown."
+            }
+        },
+        {
+            "id": "w_0d22dbd0f8ffae924dd8b6621068b262827436ba",
+            "content": {
+                "en": "The value of a communications degree from University of Houston. LOL."
+            }
+        },
+        {
+            "id": "w_ec2d8a53a976c09e9d6ca76fc776e58e3114c5a0",
+            "content": {
+                "en": "The way the manager at Houston McDonald&apos;s &copy; looks at you."
+            }
+        },
+        {
+            "id": "w_c3ac8ffc8b2381d500a94fe33f3ed7780d89d00b",
+            "content": {
+                "en": "The Westbury Christian School cheerleaders."
+            }
+        },
+        {
+            "id": "w_c403d658a1731bc248100300270b84298eebbcf1",
+            "content": {
+                "en": "The Westbury Christian School chess club."
+            }
+        },
+        {
+            "id": "w_cbf8358a44819267a77e2448130835ab152ee4f3",
+            "content": {
+                "en": "Them thick Houston girls."
+            }
+        },
+        {
+            "id": "w_be115dca29e791557ae29b5d7fe1a0553b5a384d",
+            "content": {
+                "en": "Those pathetic campaign commercials for local Houston politicians."
+            }
+        },
+        {
+            "id": "w_79ebb6f19f5e4fc0ef454ccc0266cdcc631e30ef",
+            "content": {
+                "en": "University of Houston-Downtown frat parties."
+            }
+        },
+        {
+            "id": "w_d2208216f4313a68d0a0fed002f2a2dd85ce2995",
+            "content": {
+                "en": "University of Houston-Downtown stoners."
+            }
+        },
+        {
+            "id": "w_0b769fc26405ab339741a8810867377a9b4cf50b",
+            "content": {
+                "en": "Used tampons."
+            }
+        },
+        {
+            "id": "w_3625a35750962864d5daeb8f8d88dcddd4765928",
+            "content": {
+                "en": "Weed dealers in Houston."
+            }
+        },
+        {
+            "id": "w_5030dc0c69b3810f6fb00d1115ebfe953b41091f",
+            "content": {
+                "en": "Westboro Baptist Church."
+            }
+        },
+        {
+            "id": "w_4bff6acb50b5dc0b4d604b6c8d288f02df556d1a",
+            "content": {
+                "en": "Westbury Christian School graduates."
+            }
+        },
+        {
+            "id": "w_2a3900364533ba8870fe12140db4535d248e99ca",
+            "content": {
+                "en": "Westbury Christian School PTA meetings that resulted in fistfights."
+            }
+        },
+        {
+            "id": "w_75d33cff1b9d550908367d1b8a46b1f690978a65",
+            "content": {
+                "en": "Westbury Christian School&apos;s 50 year reunion."
+            }
+        },
+        {
+            "id": "w_ccbb6aaa66ffb6576f7a710765366a7c7daf9bf6",
+            "content": {
+                "en": "Westbury Christian School&apos;s pathetic rendition of Hamlet."
+            }
+        },
+        {
+            "id": "w_5f4b79c5e616bbcb445895ad6c8b64a797a4a791",
+            "content": {
+                "en": "Westbury Christian School&apos;s wonderful technology classes."
+            }
+        },
+        {
+            "id": "b_8635d7f86c769394550fdeb0cc7f55965921a49d",
+            "content": {
+                "en": "A witch doctor offers you immortality. Unfortunately, you have to cuddle with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ffae77c2704ec4259756f95e13ade00fcb67fb61",
+            "content": {
+                "en": "Epic Software Group is going to revolutionize the industry with their brand new ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_db5ead1b6bcc104eb0096c3d9a10fb6950a96600",
+            "content": {
+                "en": "In the alternate dimension version of This Is Spinal Tap, the main character falls in love with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5deed1e8d3fbc66de776391cf90f1e55f588ab6c",
+            "content": {
+                "en": "The best way to help the homeless population of Houston would be to give them ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_966d8673f1deced675862ab8fc1f8b997cfdaac1",
+            "content": {
+                "en": "University of Houston should probably start teaching a class on ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e20888d2d97d1855c551c7948ff6cb824730ba39",
+            "content": {
+                "en": "University of Houston&apos;s newest professor got their PHD studying ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe7ea49074f66ab4f7dba8753040b67824b80e86",
+            "content": {
+                "en": "What do most Houston crimes involve?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_85e38f0c9b0cc2a5bffaa9fe915e029d708135cd",
+            "content": {
+                "en": "What makes Houston the best place to raise children?"
+            },
+            "pick": 1
+        }
+    ]
+}

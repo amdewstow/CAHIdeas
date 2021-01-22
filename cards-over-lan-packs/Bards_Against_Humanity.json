@@ -1,0 +1,250 @@
+{
+    "id": "Bards_Against_Humanity",
+    "name": "Bards Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_2f3544b42d1bccf521b5f2a7ac8b987a6d884464",
+            "content": {
+                "en": "A band made up entirely of brothers."
+            }
+        },
+        {
+            "id": "w_97c1d8bf951b987baf7abdc1ab51422a06cfc301",
+            "content": {
+                "en": "A drinking binge in a brothel with Falstaff."
+            }
+        },
+        {
+            "id": "w_d065bfb8ce9ac330cca373c0df87deca97515e7c",
+            "content": {
+                "en": "A gravedigger."
+            }
+        },
+        {
+            "id": "w_d9f99c12b2efccd0c8309ec0f6f5533445db8c58",
+            "content": {
+                "en": "A jello mold of Yorick&apos;s skull ."
+            }
+        },
+        {
+            "id": "w_e50d7b87586bb7710361001760cde4fdc81d0f61",
+            "content": {
+                "en": "A magical storm, summoned from a toilet plunger ."
+            }
+        },
+        {
+            "id": "w_a48933576c50201558518bf65a969b46b25bdce5",
+            "content": {
+                "en": "A man playing a woman pretending to be a man."
+            }
+        },
+        {
+            "id": "w_508d3d1eb31f4292e46a8939234338ba456fccf6",
+            "content": {
+                "en": "A pound of flesh."
+            }
+        },
+        {
+            "id": "w_7a67e68464bcc9b49f5ecbd1e65bf01fb66f8faa",
+            "content": {
+                "en": "A production of The Merry Wives of Windsor where every p art is played by Sir Ian McKelle n."
+            }
+        },
+        {
+            "id": "w_efe1c8accb808278bade406adfa9a2b11559cb45",
+            "content": {
+                "en": "A sexy man with a British accent quoting Shakespeare."
+            }
+        },
+        {
+            "id": "w_e96768e33ebb28eac2950d201f5e818e2aadc73e",
+            "content": {
+                "en": "A sonnet with an extra syllable."
+            }
+        },
+        {
+            "id": "w_1dff3c903da802c0b533bc7ac2f8f0c6e7121310",
+            "content": {
+                "en": "A statue of your wife that comes alive for no apparent reason."
+            }
+        },
+        {
+            "id": "w_4d8405c6557f6cc3be603a82628204dfe5e7892b",
+            "content": {
+                "en": "A violent yet pensive Akira Kurosawa remake of A Comedy of Errors."
+            }
+        },
+        {
+            "id": "w_2519f9d8d42e47416409ac3f646d983fc7ef9059",
+            "content": {
+                "en": "Being cruel to be kind."
+            }
+        },
+        {
+            "id": "w_2429b0259b65411a3136346842b70eca0a6a0a4f",
+            "content": {
+                "en": "Being true to thine own self."
+            }
+        },
+        {
+            "id": "w_183b73dcc4405bdc5cfca2cda9ed4d3f3f743e43",
+            "content": {
+                "en": "Bottom&apos;s head, turned into an ass."
+            }
+        },
+        {
+            "id": "w_8c3ae52b2d1c1b513def8a9e6c936826d11d5f36",
+            "content": {
+                "en": "Country matters."
+            }
+        },
+        {
+            "id": "w_5e5af981ab01eeff916eec64e51ba6bf4dfffd26",
+            "content": {
+                "en": "Dogberry."
+            }
+        },
+        {
+            "id": "w_0b081168360e99d04239ebbd146626b5d13c2bd3",
+            "content": {
+                "en": "Flowery Elizabethan English prose about a boner."
+            }
+        },
+        {
+            "id": "w_5db357ea68b6467c5876a9b5ea64693dfe78b188",
+            "content": {
+                "en": "Henry VI, Part VIII: Henry Takes Manhattan."
+            }
+        },
+        {
+            "id": "w_ef69174a2e093a6598790f77f7500e14d4d657c1",
+            "content": {
+                "en": "Her C's, her U's, and her T's."
+            }
+        },
+        {
+            "id": "w_d5c179d690ed25a1a5e9f351b6791eabc11cc91f",
+            "content": {
+                "en": "King James I&apos;s soiled kilt."
+            }
+        },
+        {
+            "id": "w_16eb2045ecc0efd4dc5df5ea037d0ef61a6be296",
+            "content": {
+                "en": "King Lear&apos;s fool."
+            }
+        },
+        {
+            "id": "w_565d3d1d881bf26d18706ea610169cd34dbc5727",
+            "content": {
+                "en": "Othello, played by a white man with a southern accent and a lisp."
+            }
+        },
+        {
+            "id": "w_166a8faf33f8ddfae41416f7f22939c19d779482",
+            "content": {
+                "en": "Replacing Romeo&apos;s poison with Red Bull and Viagra."
+            }
+        },
+        {
+            "id": "w_2c3965009d51ec82b60476607ff7bc15e9823b78",
+            "content": {
+                "en": "Running naked backstage at a play shouting \"MacBeth!\""
+            }
+        },
+        {
+            "id": "w_15a2eaa8dc82be0b6bb09ffd6f9f290d689390f4",
+            "content": {
+                "en": "Taming an actual shrew."
+            }
+        },
+        {
+            "id": "w_99723ec1d9db70cbc2a299ca59dec3c49a01e19d",
+            "content": {
+                "en": "The crack of doom ."
+            }
+        },
+        {
+            "id": "w_3ec0081ac6a0e52601c20b77a58cf85669ec888e",
+            "content": {
+                "en": "The dogs of war."
+            }
+        },
+        {
+            "id": "w_7f8420a1ace39f1105a0f19002b066c69ea74766",
+            "content": {
+                "en": "The Globe Theater, filled with porridge."
+            }
+        },
+        {
+            "id": "w_13161990b1f11110f6ecf7429dc26f40358a90cd",
+            "content": {
+                "en": "The lost Shakespearean History of Henry VII."
+            }
+        },
+        {
+            "id": "w_d2874804fc5438c21aecd8c0117fb57ce536d3ed",
+            "content": {
+                "en": "The puppies of war!"
+            }
+        },
+        {
+            "id": "w_f2072036eef54a936b62fbcc53021259a372cf2b",
+            "content": {
+                "en": "The whirligig of time ."
+            }
+        },
+        {
+            "id": "b_1a0dfd127b7847f4660c412961618b49339f0101",
+            "content": {
+                "en": "Exit, pursued by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ae2a5d2a1af3a41daf60f8214c74b85092427970",
+            "content": {
+                "en": "If ______ be the food of love, play on, give me excess of it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_53e688660d0f19adee038a893c1f62afafb81d37",
+            "content": {
+                "en": "Shakesp eare&apos;s newly discovered sequel: Much Ado About ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8f7bac5057b062508aa1c64adf94675d0b200fa5",
+            "content": {
+                "en": "Shall I compare thee to ______? Thou art more lovely and more temperate."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3716f51a6de2f6a921fc144da50c7b71855016fe",
+            "content": {
+                "en": "The fool doth think he is wise, but the wise man knows himself to be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d40b4c8c6ec3fee56d1d4195a68751976cbcc26a",
+            "content": {
+                "en": "Uneasy l ies the head that wears ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e56622af5fee00e24a8a3748f095ec95c7ad34c",
+            "content": {
+                "en": "What&apos;s in a name? That which we call ______ by any other name would smell as sweet ."
+            },
+            "pick": 1
+        }
+    ]
+}

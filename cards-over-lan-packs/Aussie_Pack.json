@@ -1,0 +1,2023 @@
+{
+    "id": "Aussie_Pack",
+    "name": "Aussie Pack",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_a76567fba35e596523a641b13e018f5db3f6036e",
+            "content": {
+                "en": "\"You're terrible, Muriel!\" Aboriginals."
+            }
+        },
+        {
+            "id": "w_b39ce4f357f295bf059880b7fff0bae66ead8f26",
+            "content": {
+                "en": "50 years of dribbled shit caked in Derryn Hinch&apos;s beard"
+            }
+        },
+        {
+            "id": "w_c1e3a566837bfdba67276444a584f61274208b43",
+            "content": {
+                "en": "80s TV telethons"
+            }
+        },
+        {
+            "id": "w_c088127c946a674f848216490ce054d784791359",
+            "content": {
+                "en": "A 10-pound Pom."
+            }
+        },
+        {
+            "id": "w_fe4a3ab661cc1ed79a191356c008edf5926bcc8e",
+            "content": {
+                "en": "A boogie board bag full of drugs."
+            }
+        },
+        {
+            "id": "w_23c91e0b436933e962eb06c0f54a2db6f9085009",
+            "content": {
+                "en": "A box jellyfish&apos;s box"
+            }
+        },
+        {
+            "id": "w_43bb42645602cbd592b60a1b364a6609379d8c4a",
+            "content": {
+                "en": "A cat skin hat"
+            }
+        },
+        {
+            "id": "w_4053ca75c5aee3667d27497ba6ae2ff2c9faba8a",
+            "content": {
+                "en": "A Chiko Roll"
+            }
+        },
+        {
+            "id": "w_185b442f676ba1c12f04cebac27a958f988e05f8",
+            "content": {
+                "en": "A dingo actually stealing a baby"
+            }
+        },
+        {
+            "id": "w_e1626988f28427bf16a6ad7ffda9c44ece0340f9",
+            "content": {
+                "en": "A dropbear viciously mauling the face off a tourist"
+            }
+        },
+        {
+            "id": "w_17c3ac917aa1ecee48f7a4c2834d8be5a5bc4c35",
+            "content": {
+                "en": "A fried out combie."
+            }
+        },
+        {
+            "id": "w_1987ddf77d66ce9ad1f198351c0b1b10d46f26c7",
+            "content": {
+                "en": "A gigantic saltwater crocodile named Sweetheart."
+            }
+        },
+        {
+            "id": "w_574a710d4e5f256fb89760a6847f219c5d6e370b",
+            "content": {
+                "en": "A Golden Gaytime"
+            }
+        },
+        {
+            "id": "w_766b51c2f660e130b7b1c0739a3fb99687bdc36a",
+            "content": {
+                "en": "A goon bag"
+            }
+        },
+        {
+            "id": "w_d3580218b27dc6990281094b85ebc97c9a827c5e",
+            "content": {
+                "en": "A Holden ute with custom rims."
+            }
+        },
+        {
+            "id": "w_6026303e896c282509eacec398974c7bce2c4bcc",
+            "content": {
+                "en": "A low-budget Australian film."
+            }
+        },
+        {
+            "id": "w_716c6aa6af97c5842172d363013a6174b928c542",
+            "content": {
+                "en": "A meat pie floater"
+            }
+        },
+        {
+            "id": "w_0593b362e9cb6d8c5bc2c4634012681a7972b434",
+            "content": {
+                "en": "A Neighbours vs. Home And Away death match"
+            }
+        },
+        {
+            "id": "w_43abca9cc19e0fdfbdd08b929d719cf8354943b6",
+            "content": {
+                "en": "A nice cold one after a hard day&apos;s yakka."
+            }
+        },
+        {
+            "id": "w_cb268f05ae6f6d95812def7cfdd3aab77c7349b2",
+            "content": {
+                "en": "A NT News headline"
+            }
+        },
+        {
+            "id": "w_8af7cc86d8adefa442c98ce4dba0469e70b82c11",
+            "content": {
+                "en": "A pair of extra tight, bright red footy shorts."
+            }
+        },
+        {
+            "id": "w_a03950b297820a62190ee64099f3124bc2ddd4f4",
+            "content": {
+                "en": "A platypus. The animal God created with all of the leftover parts."
+            }
+        },
+        {
+            "id": "w_a0cbfb624939cb5feed039d09046fe32fa996a24",
+            "content": {
+                "en": "A pub with no beer."
+            }
+        },
+        {
+            "id": "w_073087a01592123179f1d3cefc2c1b0613325db2",
+            "content": {
+                "en": "A redback under the dunny seat."
+            }
+        },
+        {
+            "id": "w_996bfa892ba44ec4cbb89838762be5d9edb91006",
+            "content": {
+                "en": "A singlet, Ugg boots, and a beanie."
+            }
+        },
+        {
+            "id": "w_4a11b7bbff9530a7297f82964f6571b5eced8a06",
+            "content": {
+                "en": "A stingray barb through the chest."
+            }
+        },
+        {
+            "id": "w_07a0f1141aa60a9c288ce75b6cff7fcae2bc0f86",
+            "content": {
+                "en": "A taxi driver who speaks english and knows the way"
+            }
+        },
+        {
+            "id": "w_8ad9059ca1fc208b3302e232f4d95fb1d2222f9f",
+            "content": {
+                "en": "A whole tours-worth of INXS' cocaine"
+            }
+        },
+        {
+            "id": "w_ba7bd0e2a5f0fa05d411d7ad7a03ccc176644716",
+            "content": {
+                "en": "Aborigines getting their own back by convincing whites to eat anything by claiming that it&apos;s \"Bush Tucker\""
+            }
+        },
+        {
+            "id": "w_1439fe38538da7c40aa2cf8f7a253829e272e52a",
+            "content": {
+                "en": "Adam Hill&apos;s prosthetic leg"
+            }
+        },
+        {
+            "id": "w_b5f2af1919daaa72419399577cf749bbaafc8fda",
+            "content": {
+                "en": "Adelaide: Drier than a nun&apos;s nasty."
+            }
+        },
+        {
+            "id": "w_288dcc367fc283141ce353036c37386e2c2b12df",
+            "content": {
+                "en": "An island of exiled convicts."
+            }
+        },
+        {
+            "id": "w_97cc17ee7975397861119667649679b7bba3a1ef",
+            "content": {
+                "en": "Andrew Gaze&apos;s ball-handling"
+            }
+        },
+        {
+            "id": "w_618ff7fff9d01df8a9cf82e8c93be055fb24adfb",
+            "content": {
+                "en": "Anything that causes Alf Stewart to declare he&apos;s \"had a gutful\""
+            }
+        },
+        {
+            "id": "w_35bfb762771ec19b62f7a487fa2d5b342acc5d35",
+            "content": {
+                "en": "Asylum seeker boats."
+            }
+        },
+        {
+            "id": "w_30017a853ee004f0ce41d17c90395ae0030ffc0b",
+            "content": {
+                "en": "Auntie Jack."
+            }
+        },
+        {
+            "id": "w_5ed4650a40fbbe013ee093362eb747a742c3cf44",
+            "content": {
+                "en": "Aussie rules football."
+            }
+        },
+        {
+            "id": "w_ceafb51e2b0783d53dd620019dff3aa66708a26f",
+            "content": {
+                "en": "Australia"
+            }
+        },
+        {
+            "id": "w_85b80ae531305874bae611fd0fa501c59ec38245",
+            "content": {
+                "en": "Baby-eating dingoes."
+            }
+        },
+        {
+            "id": "w_ef573a1526ce879f992ced5df5dbb639aa33cf3b",
+            "content": {
+                "en": "Bali belly."
+            }
+        },
+        {
+            "id": "w_63f601a6aa5ac997d134b716bc2069dcae466698",
+            "content": {
+                "en": "Beating England at the Ashes."
+            }
+        },
+        {
+            "id": "w_9957880da357c3bf0f6fd0027d639f5e937489f3",
+            "content": {
+                "en": "Beating the crap out of school kids with nothing but one thong."
+            }
+        },
+        {
+            "id": "w_ccfdfbf5fc1bec1925b0c1cdd95d052a826c8ffd",
+            "content": {
+                "en": "Being attacked by magpies while riding your bike."
+            }
+        },
+        {
+            "id": "w_eaf5905a04268888b456018f8256df983eb7b53b",
+            "content": {
+                "en": "Being strip searched by customs all because of a forgotten banana in the suitcase"
+            }
+        },
+        {
+            "id": "w_db9c45d9402b2a00d2efe933484e3e9ecd45fa52",
+            "content": {
+                "en": "Being tasered in the balls by Victorian Police."
+            }
+        },
+        {
+            "id": "w_5754b07e393799206a3f8a58d28e90de4c9951fb",
+            "content": {
+                "en": "Being the best man and having first crack at the bridesmaids"
+            }
+        },
+        {
+            "id": "w_da2381f4867ddb8c56dda4a95e05e7d25adb29ac",
+            "content": {
+                "en": "Ben Cousin&apos;s freezer full of ice"
+            }
+        },
+        {
+            "id": "w_d3091eb9d1bf5738901fd17ceb0d279732a854e8",
+            "content": {
+                "en": "Bert Newton in the buff, hairpiece removed."
+            }
+        },
+        {
+            "id": "w_6dd3c7693425ef2844ba1ad4cc39ccc91e3b53f2",
+            "content": {
+                "en": "Bindi Irwin&apos;s blossoming womanhood"
+            }
+        },
+        {
+            "id": "w_91e2426a7d5e7ba46a7de54007d003f81ec27636",
+            "content": {
+                "en": "Bitten in the crotch by an inland taipan."
+            }
+        },
+        {
+            "id": "w_05cc5eab4fe69ce04495159af7a714ec123aee00",
+            "content": {
+                "en": "Blowing up Sydney Harbour Bridge each and every New Years Eve"
+            }
+        },
+        {
+            "id": "w_bc1cb5a00fc7c6ec72ee3426e2c01063404154a4",
+            "content": {
+                "en": "Boat people"
+            }
+        },
+        {
+            "id": "w_9f429e644c7fbe893d6aaa1518eb0624d7cbfb2e",
+            "content": {
+                "en": "Body surfing with Prime Minister Harold Holt"
+            }
+        },
+        {
+            "id": "w_686a2e67a7949087b8336943fb794753ad5b488c",
+            "content": {
+                "en": "Bogans."
+            }
+        },
+        {
+            "id": "w_73b52b70e7b01ef7213bef8fe3e1e3aed84afdc9",
+            "content": {
+                "en": "Brenton Fevola, drunk, wearing a dress, brandishing a 10\" dildo"
+            }
+        },
+        {
+            "id": "w_0f4cd6d63c4d5b905b02af5c73ab21ac01672f9a",
+            "content": {
+                "en": "Budgie smugglers"
+            }
+        },
+        {
+            "id": "w_86ef234f64b3edcdbba50302b30e8bb5565ce8ed",
+            "content": {
+                "en": "Bundy rum and cola on tap."
+            }
+        },
+        {
+            "id": "w_5711fbe2cd1850732a4da745aab9f19fb1becf39",
+            "content": {
+                "en": "Camels gone wild."
+            }
+        },
+        {
+            "id": "w_afcd68a91426b13c0c74b7848b1dace32796a7b3",
+            "content": {
+                "en": "Captain Cook raping and pillaging his way across the south seas"
+            }
+        },
+        {
+            "id": "w_641190642c3cbe698c9b1623280c5c6ed080eb83",
+            "content": {
+                "en": "Cheap wine and a three-legged goat"
+            }
+        },
+        {
+            "id": "w_6136e466a3e065456c4835100fd3e31856434f00",
+            "content": {
+                "en": "Choking worse than Greg Norman"
+            }
+        },
+        {
+            "id": "w_d788e1a669cc2d47e0c3f124948061975f11a8e1",
+            "content": {
+                "en": "Christmas Island. Santa&apos;s summer home."
+            }
+        },
+        {
+            "id": "w_0c694e4aa6921e7da7b52e588edba5da36b36cbf",
+            "content": {
+                "en": "Chroming."
+            }
+        },
+        {
+            "id": "w_9055a342928ff48bf745a6d9d9b6b704615efe7d",
+            "content": {
+                "en": "Climbing to the top of Uluru, then doing a big poo."
+            }
+        },
+        {
+            "id": "w_4c9bf6d8326337f0f087f2da835318121f7a75d2",
+            "content": {
+                "en": "Coffee table sessions at Don Lane&apos;s house"
+            }
+        },
+        {
+            "id": "w_1b327f599f64146305113b61b504c1e23533f822",
+            "content": {
+                "en": "Collingwood supporters"
+            }
+        },
+        {
+            "id": "w_a8294af93db7a32eaad1479d2ff3eb6e7461661f",
+            "content": {
+                "en": "Committing suicide after listening to another depressing John Schumann song"
+            }
+        },
+        {
+            "id": "w_b890219753d9c0ae1881d28bcebdb655c75b848f",
+            "content": {
+                "en": "Croc attacks."
+            }
+        },
+        {
+            "id": "w_5d754fd746699bda4bacd4a0bce8f3a9218aeed5",
+            "content": {
+                "en": "Dame Edna."
+            }
+        },
+        {
+            "id": "w_0f76c89bbfd330bac62dc601ca97f006dd234fd9",
+            "content": {
+                "en": "Dancing at a silent disco - even though you don't have the headphones."
+            }
+        },
+        {
+            "id": "w_19b50fdd7f4ef023bc7747a6ea1bf01021588e96",
+            "content": {
+                "en": "Digging up the missing Bee Gees, or burying the remaining one."
+            }
+        },
+        {
+            "id": "w_35a1e26c6e418218e78b48f0ce0e36326492db49",
+            "content": {
+                "en": "Discovering the boomerang."
+            }
+        },
+        {
+            "id": "w_01bf69636a66bb6c835559fbd775c299593a7e02",
+            "content": {
+                "en": "Disowning and expelling Rupert Murdoch"
+            }
+        },
+        {
+            "id": "w_00712d7ae980718bebab08c7e6d2a30b1a76b2f4",
+            "content": {
+                "en": "Dodging bull sharks in Sydney Harbour."
+            }
+        },
+        {
+            "id": "w_407c4ffa9a696b418732f9fd942d7f432fa76688",
+            "content": {
+                "en": "Doing a Harold Holt."
+            }
+        },
+        {
+            "id": "w_621f5e07f840c42ee7894dffa7643d8f2e1fb9f5",
+            "content": {
+                "en": "Doing mad burnouts in your Holden ute"
+            }
+        },
+        {
+            "id": "w_bf2a2f97688cef9ca76424005d12b103dca9cf50",
+            "content": {
+                "en": "Don Bradman whacking his balls against the wall"
+            }
+        },
+        {
+            "id": "w_f5b54fa4a3ac5981570060abb3013b1fc8a52b98",
+            "content": {
+                "en": "Dropping acid and claiming you can see the Dreamtime"
+            }
+        },
+        {
+            "id": "w_09deaad02450d228fc94a88b4f979466fea3797e",
+            "content": {
+                "en": "Eating a plate full of wriggling witchety grubs."
+            }
+        },
+        {
+            "id": "w_753bd5f5b8a5d20610bef38b460a1ade53a5ec88",
+            "content": {
+                "en": "Eating the animals on the coat of arms"
+            }
+        },
+        {
+            "id": "w_130209b2405a0e64a94b12839f0e9d588f61e296",
+            "content": {
+                "en": "Eating Vegemite."
+            }
+        },
+        {
+            "id": "w_6575176d0676a98c10bc6cb0f8d193626f94c5db",
+            "content": {
+                "en": "Egg-fueled Dutch ovens."
+            }
+        },
+        {
+            "id": "w_02834372aec6f8820c8235134978c75efba09691",
+            "content": {
+                "en": "Embracing all cultures in our great land, except for Kiwis, Lebos, Wogs, Chinks, Poms, and Towel-heads."
+            }
+        },
+        {
+            "id": "w_eba201b0db804d92306f66724deca170f14fd651",
+            "content": {
+                "en": "Essendon&apos;s \"supplement\" program"
+            }
+        },
+        {
+            "id": "w_25859353e5bf783f02d1af8b2b60a1397cfda51d",
+            "content": {
+                "en": "Faceless men."
+            }
+        },
+        {
+            "id": "w_5717dabeacb4c4e139407c538959f7cd0ccdf71a",
+            "content": {
+                "en": "Faking an Aussie accent."
+            }
+        },
+        {
+            "id": "w_e1526126560c1161403bd708a41aa7b0f95cadfa",
+            "content": {
+                "en": "Fatso the Fat Arsed Wombat"
+            }
+        },
+        {
+            "id": "w_23c5443eb465cc29c98ac90609a5898ce8c2aad7",
+            "content": {
+                "en": "Flying Qantas and hoping for the \"Ralph Fiennes\" treatment"
+            }
+        },
+        {
+            "id": "w_0822b9988b0b08e922d99609654fde5cbc864dab",
+            "content": {
+                "en": "Frogmarching all the Kiwis to the nearest boat or plane and shipping them home"
+            }
+        },
+        {
+            "id": "w_2088d5ff233441af7fff4720e841a7286ef8fe8e",
+            "content": {
+                "en": "Frogs in your toilet."
+            }
+        },
+        {
+            "id": "w_f8cb7a69b5823db1642d3714da7db7f2f9af8beb",
+            "content": {
+                "en": "Frolicking naked in the outback."
+            }
+        },
+        {
+            "id": "w_e039785673301aad5b8bdac4bd757638ec9ef637",
+            "content": {
+                "en": "Fudge packers"
+            }
+        },
+        {
+            "id": "w_c0d3e93f1dad3bed349c2772eb6aa964213ddb20",
+            "content": {
+                "en": "Genetically engineering sugar gliders by forcing a possum to hump a bat"
+            }
+        },
+        {
+            "id": "w_13fa12e3bb2bfaae406894a0ba8db129f7d26803",
+            "content": {
+                "en": "Getting high on eucalyptus leaves."
+            }
+        },
+        {
+            "id": "w_0a6057a1bf6d15d4988f7c784038030fe1405286",
+            "content": {
+                "en": "Getting late night text messages from Shane Warne."
+            }
+        },
+        {
+            "id": "w_e88b28376c281760a1e66e75838970d82c93c077",
+            "content": {
+                "en": "Getting locked up in Alf Stewart&apos;s rape dungeon"
+            }
+        },
+        {
+            "id": "w_e8a8d6e06f033e4587d4db60098a4c2939f3c47b",
+            "content": {
+                "en": "Getting stung in the eyes by a box jelly."
+            }
+        },
+        {
+            "id": "w_551be80040fb5269b2bc22c4f122dafab77f8313",
+            "content": {
+                "en": "Getting your budgie smugglers stolen whilst backpacking through Thailand."
+            }
+        },
+        {
+            "id": "w_ff708e93e95442fb5d478f570efa13c7675d1c2a",
+            "content": {
+                "en": "Giggling every time an American says they \"root for their team\""
+            }
+        },
+        {
+            "id": "w_0718765534e8542fd232fc5f5c41b49063867441",
+            "content": {
+                "en": "Giving a great white shark a cuddle"
+            }
+        },
+        {
+            "id": "w_224c0faecad138ef7d84f816aee43662a04d8ea3",
+            "content": {
+                "en": "Giving a test to immigrants that no Aussie could correctly answer."
+            }
+        },
+        {
+            "id": "w_5df715b8fb822254cbe274126fbd5f3206cc8e8b",
+            "content": {
+                "en": "Goonbags"
+            }
+        },
+        {
+            "id": "w_96978d93dd75fdb3f6f71e8417d6b89166d2314c",
+            "content": {
+                "en": "Grey Nomads"
+            }
+        },
+        {
+            "id": "w_82a208f31358535064c3964d5f4261f225a251f5",
+            "content": {
+                "en": "Hair at the gate"
+            }
+        },
+        {
+            "id": "w_bf91e8da281f0b5d4960d1ae429101ef1d188e00",
+            "content": {
+                "en": "Hand washing Kerry Saxby&apos;s walking shorts"
+            }
+        },
+        {
+            "id": "w_95fa7de1121e5d3c864a6a2d1fc9a255a456f0b7",
+            "content": {
+                "en": "Having an Aussie accent."
+            }
+        },
+        {
+            "id": "w_2a4289664444f9dc5c69c561af7aaa94f314492a",
+            "content": {
+                "en": "Hiding a midget in a wombat&apos;s pouch."
+            }
+        },
+        {
+            "id": "w_fe80c28147d1c5c7e6d6ae68e64646f7dc9cb5d5",
+            "content": {
+                "en": "Hitch-hiking with Ivan Milat."
+            }
+        },
+        {
+            "id": "w_f0b1f1229961d366f3e2b4c4eacc22aa8560b9a9",
+            "content": {
+                "en": "Holding an interfaith peace summit in Cronulla"
+            }
+        },
+        {
+            "id": "w_678f0daa4a9e7af27d0322b6fb2bee8ef77b1e02",
+            "content": {
+                "en": "Horse-mounted police."
+            }
+        },
+        {
+            "id": "w_f7defb4f540e5cc02bd83904ac77621be3194d7d",
+            "content": {
+                "en": "Hugh Jackman&apos;s glistening abs."
+            }
+        },
+        {
+            "id": "w_dd38978e50f18d1ff8fcdaea05e4a3fb8734df85",
+            "content": {
+                "en": "Immigrants."
+            }
+        },
+        {
+            "id": "w_60b3bddf2f126590b260ae2999b58833cf677602",
+            "content": {
+                "en": "Improving anything by including Sophie Monk"
+            }
+        },
+        {
+            "id": "w_1437c41ce27717123b93caf0c134cfb67ee00643",
+            "content": {
+                "en": "Japanese whaling ships."
+            }
+        },
+        {
+            "id": "w_11d93d5ce83b4402b35b415f642bbb30fc9e2bd7",
+            "content": {
+                "en": "Jason &amp; Kylie."
+            }
+        },
+        {
+            "id": "w_c9f23a708b2c9199ce71619e0b5267ecfa088a59",
+            "content": {
+                "en": "John \"The Voice\" Farnham."
+            }
+        },
+        {
+            "id": "w_5af20a7c5557291e960ca18621125b0f309bcdd4",
+            "content": {
+                "en": "John Farnham&apos;s 16th farewell tour"
+            }
+        },
+        {
+            "id": "w_84992aa15b7d0893a557a2b6dbaa2c0f1f202067",
+            "content": {
+                "en": "John Howard&apos;s eyebrows."
+            }
+        },
+        {
+            "id": "w_6c65efa775b839c3df4e11ce90b5d2546ffd84cf",
+            "content": {
+                "en": "John Jarratt: fixing houses by day, chopping up backpackers by night."
+            }
+        },
+        {
+            "id": "w_dff3c9464261e62cb1d65749fc6682dc748e71d7",
+            "content": {
+                "en": "John Paul Young&apos;s oral hygiene"
+            }
+        },
+        {
+            "id": "w_51eadd5cef9b6eae33d555fa5e837b75ba117e68",
+            "content": {
+                "en": "Johnny Diesel using Jennifer Keyte&apos;s coit to open his coke bottle"
+            }
+        },
+        {
+            "id": "w_b3a051ce3705139449184831c369a225b1000542",
+            "content": {
+                "en": "Judith Lucy&apos;s nasal twang"
+            }
+        },
+        {
+            "id": "w_618cdb971a6f9b0ad594e4081ffcfa10ea4b2636",
+            "content": {
+                "en": "Julia Gillard&apos;s marital status."
+            }
+        },
+        {
+            "id": "w_aad92beb2a979f4609b96f242d1cdebb54b08d4f",
+            "content": {
+                "en": "Julian Assange&apos;s innocence."
+            }
+        },
+        {
+            "id": "w_a5e9ef1a34c1a87ad9da6bd6ac6d55651eb9d6ed",
+            "content": {
+                "en": "Karl Stefanovic"
+            }
+        },
+        {
+            "id": "w_7c127e6862c23cd72022305e868eb398338f3c45",
+            "content": {
+                "en": "Kerry Packer. Australia&apos;s Jabba the Hutt"
+            }
+        },
+        {
+            "id": "w_5f08496882130fb847d2fc45d4fa27b1673dd7cb",
+            "content": {
+                "en": "Kevin '07."
+            }
+        },
+        {
+            "id": "w_b0f95181d9088885ec5333319b219c259d370406",
+            "content": {
+                "en": "King-hitting."
+            }
+        },
+        {
+            "id": "w_f6ed043d204adc3f6971338cdb5a111615a7cad9",
+            "content": {
+                "en": "Kissing a fish full on the mouth."
+            }
+        },
+        {
+            "id": "w_ddcd0950d6109d1704124a6c7733951267de85e3",
+            "content": {
+                "en": "Kiwi accents."
+            }
+        },
+        {
+            "id": "w_3161c897d7fb0290d9d7f6c53e532b373d18d878",
+            "content": {
+                "en": "Knowing that all native creatures are 100% deadly"
+            }
+        },
+        {
+            "id": "w_548c95d278bf2ab53ab39c0f7b4bef03c8533b89",
+            "content": {
+                "en": "Koala rape."
+            }
+        },
+        {
+            "id": "w_fb5ffab4bdbf1dbcd0713f8fd416fa27337647d3",
+            "content": {
+                "en": "Kylie Minogue&apos;s hotpants."
+            }
+        },
+        {
+            "id": "w_717b6701c27ee37e1f4f568656fcba24853703be",
+            "content": {
+                "en": "Labelling any chick who won't sleep with you a lesbian"
+            }
+        },
+        {
+            "id": "w_f15095549d228ae190d5f08a3f0c48aa3b58215b",
+            "content": {
+                "en": "Laughing at tourists trying to get their boomerang back."
+            }
+        },
+        {
+            "id": "w_49c70a90ae524512de72cde15a868c56c13774ff",
+            "content": {
+                "en": "Least we forget."
+            }
+        },
+        {
+            "id": "w_eaafd2990263f9b06e7a8b961a14ea3f46d59a3d",
+            "content": {
+                "en": "Lobbing a Polly Waffle into the local swimming pool"
+            }
+        },
+        {
+            "id": "w_4f05110df0abe3f9a3c1580061c8015073f63558",
+            "content": {
+                "en": "Lying to Centrelink to get more money"
+            }
+        },
+        {
+            "id": "w_6beac45f64614070242f8f60ceb5ed7ff4dfac1e",
+            "content": {
+                "en": "Lynching any foreigner who says, \"Throw another shrimp on the barbie\""
+            }
+        },
+        {
+            "id": "w_2c3696be94aaa0afd43b691b1138cf66130f1a6f",
+            "content": {
+                "en": "Maccas"
+            }
+        },
+        {
+            "id": "w_941535a677de174b7079935bd8c35b2f3a659bd2",
+            "content": {
+                "en": "Mad Monday football hijinx"
+            }
+        },
+        {
+            "id": "w_92f67fc5d75477cbc36388922e75b50002bae0c9",
+            "content": {
+                "en": "Mandatory detention"
+            }
+        },
+        {
+            "id": "w_381cc6c76997510b61d9d55328c750d654d8b63d",
+            "content": {
+                "en": "Martin Bryant"
+            }
+        },
+        {
+            "id": "w_d1152c78ebb530f9a22297aeaa4b971556ffda72",
+            "content": {
+                "en": "Meat tray raffles"
+            }
+        },
+        {
+            "id": "w_f7e22828f5e22ab62a95f98001fbb16834a7eef9",
+            "content": {
+                "en": "Meatloaf&apos;s performance at the AFL Grand Final"
+            }
+        },
+        {
+            "id": "w_3c6e2b1fa49df1394bb986c5984228c1a68cbbb2",
+            "content": {
+                "en": "Milo Kerrigan"
+            }
+        },
+        {
+            "id": "w_aeff26a4ab1868ae6933ae18a8eab4c097835e69",
+            "content": {
+                "en": "Mining for oil in the Great Barrier Reef."
+            }
+        },
+        {
+            "id": "w_7484042089425c2433a0d233246e2c2ff48acd27",
+            "content": {
+                "en": "Mining giants."
+            }
+        },
+        {
+            "id": "w_7fa09fd4e9b2a1ca1cc7cdb864a1e447e3057bfc",
+            "content": {
+                "en": "Myf Warhurst&apos;s chesticles"
+            }
+        },
+        {
+            "id": "w_8342b061a1d4d84afb8d04296e2c9008203431c4",
+            "content": {
+                "en": "Ned Kelly"
+            }
+        },
+        {
+            "id": "w_48133876a4cd6f58e88145bb162e2611acc7934f",
+            "content": {
+                "en": "Outdoor dunnies with a view."
+            }
+        },
+        {
+            "id": "w_45a4b655320082ec7ec952bc7e953ad55aa2588b",
+            "content": {
+                "en": "Owner of a fish &amp; chips shop."
+            }
+        },
+        {
+            "id": "w_a59efda78cb8e5336faec2720b9fb693d5d65c6f",
+            "content": {
+                "en": "Paul Hogan"
+            }
+        },
+        {
+            "id": "w_001465560c8f556f03d50ed766da3f1be6b79831",
+            "content": {
+                "en": "Paul Hogan&apos;s ancient, leathery skin"
+            }
+        },
+        {
+            "id": "w_2c932b3077e4e94ccbd4d29232e170375a37ae45",
+            "content": {
+                "en": "Pauline Hanson vs. Sarah Palin on Mastermind"
+            }
+        },
+        {
+            "id": "w_e9a6c1cb01a10e47aeef99a7b15116a38a4c47f7",
+            "content": {
+                "en": "Pauline Hanson&apos;s fire crotch"
+            }
+        },
+        {
+            "id": "w_705b70310a0f1d08e790e0003c4b7f9243658b3b",
+            "content": {
+                "en": "Paying no more than $250 for jousting sticks. Depending on the condition."
+            }
+        },
+        {
+            "id": "w_de67e3e23ab583f99ef46f0829b3484516643f78",
+            "content": {
+                "en": "People smugglers."
+            }
+        },
+        {
+            "id": "w_9c25dfb06c730ad888703b874bef0729945bcb31",
+            "content": {
+                "en": "Photo bombing"
+            }
+        },
+        {
+            "id": "w_834378c3eb6eb8ec34ce94e60b8d61511e725ef4",
+            "content": {
+                "en": "Polishing your balls on your white pants"
+            }
+        },
+        {
+            "id": "w_bccfceaef8d62bf3601948557efe0f35fdd6c57b",
+            "content": {
+                "en": "Puking your guts up after drinking a whole box of goon."
+            }
+        },
+        {
+            "id": "w_6146ea296ed1d9f7da307bc5eba74a12fa67feb3",
+            "content": {
+                "en": "Pulling a knife on a mugger, saying, \"That&apos;s not a knife. This is a knife!\""
+            }
+        },
+        {
+            "id": "w_2850c3b2a03a047e2570066fed84650c118511b7",
+            "content": {
+                "en": "Putting tomato sauce on your dick, wrapping it in a piece of bread with and shouting \"Dinner&apos;s up!\""
+            }
+        },
+        {
+            "id": "w_38b3a6067f90ccc3bf738457866c0787ab3aa7cd",
+            "content": {
+                "en": "Rangas."
+            }
+        },
+        {
+            "id": "w_06ac315501ab845823fa6d7cd39258887923211e",
+            "content": {
+                "en": "Ray Martin&apos;s fibreglass hairpiece"
+            }
+        },
+        {
+            "id": "w_20aa9af102b92b9527b7be2e80ad618ea6dc68d9",
+            "content": {
+                "en": "Reach-arounds"
+            }
+        },
+        {
+            "id": "w_b6275e1ea6e3405ed5b33ed241bc5c3032e30a80",
+            "content": {
+                "en": "Recalcitrants."
+            }
+        },
+        {
+            "id": "w_7be3a062408d85bb0767bffc2fd99814ed4578c8",
+            "content": {
+                "en": "Rene Rivkin&apos;s golden anal beads."
+            }
+        },
+        {
+            "id": "w_d6deb0f91c06c1ef6c634537830f5a50413239c4",
+            "content": {
+                "en": "Riding a kangaroo for transport"
+            }
+        },
+        {
+            "id": "w_af5322cbd845ba0b892a14463a53ca190d372455",
+            "content": {
+                "en": "Riots on Christmas island."
+            }
+        },
+        {
+            "id": "w_3f546a056f8564ff794fd12704eecb4fefd39136",
+            "content": {
+                "en": "Rolf Harris singing about \"Two Little Boys\""
+            }
+        },
+        {
+            "id": "w_3feb6d539a02c8443c633af5b9312b40235ebe59",
+            "content": {
+                "en": "Running over cane toads just to hear that awesome \"pop\" noise"
+            }
+        },
+        {
+            "id": "w_efb2ac26af4bdc495ff04dae71f6d72f66b0a9f2",
+            "content": {
+                "en": "Sam Newman&apos;s geriatric libido"
+            }
+        },
+        {
+            "id": "w_3c86200b789ea7aeb64d42619e3c781aea9b9787",
+            "content": {
+                "en": "Saying you're sorry."
+            }
+        },
+        {
+            "id": "w_af7d986c96bc301e784e5a84f6fd40c20a88c9bd",
+            "content": {
+                "en": "Schoolies."
+            }
+        },
+        {
+            "id": "w_763e5d45a926f69800e96b531375992e6e522c6a",
+            "content": {
+                "en": "Sending boat people home yet still enjoying their delicious cuisine"
+            }
+        },
+        {
+            "id": "w_4725bf3d91519c388945f0ed7a0bbe8d0d8a3b54",
+            "content": {
+                "en": "Sending petrol discount vouchers to Aboriginal communities"
+            }
+        },
+        {
+            "id": "w_3f7c984f5090c9d5899b2abaed6cadd73c7bf38e",
+            "content": {
+                "en": "Sexting Warnie"
+            }
+        },
+        {
+            "id": "w_6d3ca327f1aee11cc07902a67b4f41d52eafc6ed",
+            "content": {
+                "en": "Sharting"
+            }
+        },
+        {
+            "id": "w_a22c84ee9de9f7cbde9cd27de5b29c8179d9eec4",
+            "content": {
+                "en": "Slapping tar on the cuts of a freshly shorn sheep"
+            }
+        },
+        {
+            "id": "w_54ad0526f3ec9de5257554372e449ac8c8059083",
+            "content": {
+                "en": "Slip. Slop. Slap."
+            }
+        },
+        {
+            "id": "w_5790230a6e03c6a11c5e29bc5f636b0d68f2a0bf",
+            "content": {
+                "en": "Smallpox infected blankets"
+            }
+        },
+        {
+            "id": "w_f7c6d59b3e8087daa73f1df3fd66b2306f8f6bf8",
+            "content": {
+                "en": "Smelling John Hopoate&apos;s finger"
+            }
+        },
+        {
+            "id": "w_1419378dff617fe8f416049184288050dd6172f5",
+            "content": {
+                "en": "Snowtown"
+            }
+        },
+        {
+            "id": "w_1a2fc3c5680bd051dbba7338178d0a1bec268659",
+            "content": {
+                "en": "SPF 50+ sunscreen."
+            }
+        },
+        {
+            "id": "w_55cd0462384cbba0ec71bf3492092ec411f5077f",
+            "content": {
+                "en": "Spouting Scientology dogma"
+            }
+        },
+        {
+            "id": "w_f73d24132c0dd3e5cf20c3fbdd79e158ad1c00c2",
+            "content": {
+                "en": "Star Trek: The Stolen Generation"
+            }
+        },
+        {
+            "id": "w_938b9600df3a4d275e458adf71532469c3a15945",
+            "content": {
+                "en": "Starfishing in bed"
+            }
+        },
+        {
+            "id": "w_5b6a4e5e7d3abeef576f867cd1e3d3743627f867",
+            "content": {
+                "en": "Stinger season."
+            }
+        },
+        {
+            "id": "w_c8a77db6f3b3547d6135508cfd446d1cc929bf7e",
+            "content": {
+                "en": "Stopping the boats."
+            }
+        },
+        {
+            "id": "w_841b87312e733750ad653e13c027502ef6f3a563",
+            "content": {
+                "en": "Swallowing a fly"
+            }
+        },
+        {
+            "id": "w_e48437bab47e5a577e8615d05e91c95266bff2d1",
+            "content": {
+                "en": "Swearing an oath to destroy Eddie Maguire"
+            }
+        },
+        {
+            "id": "w_79dd8647a030bb3774cb8883e6b48ea24cf14097",
+            "content": {
+                "en": "Sydney: Gayer than Renee Geyer gaying it up at the Gay Mardi Gras."
+            }
+        },
+        {
+            "id": "w_930c17994c68f31713d92acffe6e019837b38a9c",
+            "content": {
+                "en": "Taking a speccy at a wedding just to catch the bride&apos;s garter"
+            }
+        },
+        {
+            "id": "w_8659046c6ec966d503f0ca5feeeb66731edc4119",
+            "content": {
+                "en": "Tasmania. Australia&apos;s arsehole."
+            }
+        },
+        {
+            "id": "w_a20c8ea81fd6cdb273016d382cc6416e1cf60454",
+            "content": {
+                "en": "Telling strangers that a snake bit you on the cock and you need them to suck out the poison"
+            }
+        },
+        {
+            "id": "w_a97e8c005b99fe53caee13442ebbc86f62de8ff0",
+            "content": {
+                "en": "Tent-hopping at a scout jamboree"
+            }
+        },
+        {
+            "id": "w_bb847948f02dece564cbda6b4d33d20ab06c1be0",
+            "content": {
+                "en": "The ANZACs"
+            }
+        },
+        {
+            "id": "w_225a35f20bcbf02930e166f9c8c9a67a4c38e364",
+            "content": {
+                "en": "The backyard cricket Ashes."
+            }
+        },
+        {
+            "id": "w_b094e16526b3428f6b454b4588fe10c714bdb1f3",
+            "content": {
+                "en": "The coal industry."
+            }
+        },
+        {
+            "id": "w_22fb203ab0c9fc2bcdc8bd2ab98743ae0611a594",
+            "content": {
+                "en": "The complimentary wheel of cheese"
+            }
+        },
+        {
+            "id": "w_524e950ff14353d0a1a0856f06af759786982be5",
+            "content": {
+                "en": "The dulcet tones of Richie Benaud."
+            }
+        },
+        {
+            "id": "w_d8c2ef19c82d44d602622987fcf15cfcc6f60dd4",
+            "content": {
+                "en": "The free-loading Governor General"
+            }
+        },
+        {
+            "id": "w_57009f752dd991f3f7ac86087261d89dd4fde8d0",
+            "content": {
+                "en": "The friggin' Kiwis."
+            }
+        },
+        {
+            "id": "w_03df13390c1aa2f1f0c3a8317669484f544c6b58",
+            "content": {
+                "en": "The fumes from an unserviced long drop"
+            }
+        },
+        {
+            "id": "w_8a9080583048389cc7a17aaf31e049a89043e928",
+            "content": {
+                "en": "The Great Debate."
+            }
+        },
+        {
+            "id": "w_52915dcbf74b667d364eed79ec3b3181094b2358",
+            "content": {
+                "en": "The mystery ingredients inside a Chiko Roll"
+            }
+        },
+        {
+            "id": "w_69cf0d056da2bd4d03223b0272b6785d71344b53",
+            "content": {
+                "en": "The Port Arthur Massacre."
+            }
+        },
+        {
+            "id": "w_3c01f68c3ff3f19959c623c03384d88b841d8d36",
+            "content": {
+                "en": "The Stolen Generation."
+            }
+        },
+        {
+            "id": "w_1cf8705680947060a0149a81ca0afcda093eab5b",
+            "content": {
+                "en": "The tears of a 65 year old Kings Cross hooker"
+            }
+        },
+        {
+            "id": "w_7ac55965f27073a8aff02b2b0e3b7d7c66c1f351",
+            "content": {
+                "en": "The two meanings of \"Up there Cazaly\"."
+            }
+        },
+        {
+            "id": "w_ff25451bac6aa67f08abef81ce8ea7cfffe585ce",
+            "content": {
+                "en": "The White Australia Policy."
+            }
+        },
+        {
+            "id": "w_67a79162a7002e30975e2547adbb46d1218ae834",
+            "content": {
+                "en": "Thumbing a lift from Ivan Milat"
+            }
+        },
+        {
+            "id": "w_e95b219e7d878b72498ba8494c814a88e105238c",
+            "content": {
+                "en": "TimTam slamming a glass of Merlot."
+            }
+        },
+        {
+            "id": "w_f26d83d53c4bea97a229ee40433382853a7cb32c",
+            "content": {
+                "en": "Tony Abbott"
+            }
+        },
+        {
+            "id": "w_e8feb6d76c8f5f6e98d1c8072e0c202a97763cd0",
+            "content": {
+                "en": "Tony Abbott&apos;s moral standards."
+            }
+        },
+        {
+            "id": "w_690407d9db3a03d14c9b16fde08be82acec50809",
+            "content": {
+                "en": "Touching the Queen&apos;s arse on national TV."
+            }
+        },
+        {
+            "id": "w_da47cf45064daff7cfe4546eb6c5ab0897328ac0",
+            "content": {
+                "en": "Toxic uranium mines."
+            }
+        },
+        {
+            "id": "w_5962a7c236cfbc28cae940d0a7a6c59c56d16360",
+            "content": {
+                "en": "Tropical cyclones."
+            }
+        },
+        {
+            "id": "w_ebeb8f15059167d097e7c7506bf42c3b61ad9cc8",
+            "content": {
+                "en": "Trying to find the \"soft bit\" when doing it with an echidna"
+            }
+        },
+        {
+            "id": "w_a4b496c032f23408ff6089ea624623f87808864b",
+            "content": {
+                "en": "Turning the boats back"
+            }
+        },
+        {
+            "id": "w_75a86ffb9a5e954cb534946ebac952406ef699e8",
+            "content": {
+                "en": "Two in the pink and one in the stink."
+            }
+        },
+        {
+            "id": "w_fafa771d4d81981852d2258b72553e1aa2867df3",
+            "content": {
+                "en": "Ugg boots"
+            }
+        },
+        {
+            "id": "w_828f11a96e59177ede99deb46891a63331ce0d87",
+            "content": {
+                "en": "Uluru. The world&apos;s biggest ant hill."
+            }
+        },
+        {
+            "id": "w_b65c9655d448209129b43377fca1aeac40b7602e",
+            "content": {
+                "en": "Using military force to liberate Cairns from the Chinese"
+            }
+        },
+        {
+            "id": "w_aac9bb267176704b6ad395442aa7fd518a9404d3",
+            "content": {
+                "en": "Using your baby bonus to buy a new TV"
+            }
+        },
+        {
+            "id": "w_fab55d392f13f933740afe5a9873986ffb492342",
+            "content": {
+                "en": "Vegemite"
+            }
+        },
+        {
+            "id": "w_8cf208cd8608b36f5202a6ea0a1b888abd7c5a84",
+            "content": {
+                "en": "Venomous snakes, spiders, jellyfish, and platapuses."
+            }
+        },
+        {
+            "id": "w_220e0332a0d12be0b068aedfac23c63beed6104a",
+            "content": {
+                "en": "Watching 'Rage' until 5 in the morning."
+            }
+        },
+        {
+            "id": "w_c0fc7b24678f0b9aad09095efe32cfe509e14c7f",
+            "content": {
+                "en": "Watching test cricket live."
+            }
+        },
+        {
+            "id": "w_d44746fd2285b2858e72002f7629370854548c6e",
+            "content": {
+                "en": "Wombat spunk"
+            }
+        },
+        {
+            "id": "w_228d5fed9877c96d364ed0ffb14b6537181bc2dd",
+            "content": {
+                "en": "Working in the outback for so long that emus start to look sexy"
+            }
+        },
+        {
+            "id": "w_9b4995aa3dc36e84577bf9881f8ac2224e9115b1",
+            "content": {
+                "en": "Your dad, uncle and grandad all wearing matching budgie smugglers"
+            }
+        },
+        {
+            "id": "b_3fd9307e4cdcc49272257f7f5cded4f2eadd6b23",
+            "content": {
+                "en": "\"On Today\/Tonight we'll expose Sydney&apos;s black market trade in ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8efa4e11289259920af6992dec6e9b5876028b39",
+            "content": {
+                "en": "90% of the fauna will kill you, the other 10% are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e0924634e3e5151e45da6f00b98510c8655f1a31",
+            "content": {
+                "en": "A hard-earned thirst needs ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_be94109d250145596cb34f1a78bfbdcbc60b9944",
+            "content": {
+                "en": "A new Aussie religion has surfaced, based on the teachings of ______ and his\/her talent of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4b5cd588becd4b02ba63aeaaa3fd574645cdcab0",
+            "content": {
+                "en": "ABC is supporting local content by showing a new series about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de1080bad9502de64434d3f004966d649c80bef1",
+            "content": {
+                "en": "After a visit to Nimbin, we all became irreversibly ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe79c328b1bab5fa10b1ae4f2dc889c362fb8bde",
+            "content": {
+                "en": "After Cyclone Tracy hit, the only thing left was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e831a481f6e0f7ca31e0ab2941865fbedb4b689f",
+            "content": {
+                "en": "Asuie: You call that a Knife, this is a knife. Kid: That&apos;s not a knife, that&apos;s a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_007d337fffec0ca49dde4c1c1f17016b8b943fa6",
+            "content": {
+                "en": "At the Buck&apos;s Night, it&apos;s fairly common for the groomsmen to impersonate ______ while ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2b172061d52647a6df7cf11b11246f883ec5fe09",
+            "content": {
+                "en": "Aussie BBQ sausages. A perfect blend of ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f576dd8569ef0aea8bf66d5c007a328522f7cf3f",
+            "content": {
+                "en": "Aussie humour is like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_121491eb6f0fa930e401e86cafb977127c52befb",
+            "content": {
+                "en": "Aussies at the Winter Olympics? Not unless ______ becomes a sport."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3e0cf90f54c66fe13878f2b06a546c6238f792f",
+            "content": {
+                "en": "Australia is known as the Land Down Under because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bdd45b4ffb98938274281708855b716a58a8849c",
+            "content": {
+                "en": "Australia officially apologises to the world for Peter Allen. We didn't realise he'd start ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bbbdd561d870ff804a9f65b019e30bed04963397",
+            "content": {
+                "en": "Australia will become a republic when ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba7ba97155986af41feba1f20504b6cf6053158b",
+            "content": {
+                "en": "Australia. The ______ country."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b090d2443795202fae2ebf4141935a6bf4b9b346",
+            "content": {
+                "en": "Australians all let us rejoice for we are ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3c89144b7a46993cebc15df65fd239b702e1306d",
+            "content": {
+                "en": "Australians all let us ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0c2ffcf092c570b750a3969d53f2b0a0f6a317d5",
+            "content": {
+                "en": "Baz Luhrmann&apos;s new film features ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f9a2ae7b65e5f0242a993870d6bdab0dbe9ee6c1",
+            "content": {
+                "en": "Baz Luhrmann&apos;s next blockbuster: \"Australia 2: ______.\" starring ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5df2c38a2371e15a948d2d89d9d6454eefabef59",
+            "content": {
+                "en": "Before producing the world&apos;s best wines, the Barossa Valley was renowned for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a2baacfc6016eea3df1f34aae8a74d4955ba8bf",
+            "content": {
+                "en": "Before the music world discovered Air Supply, the duo earned a living by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e856566fd38fd0d9d376886515957a4eeff62c8",
+            "content": {
+                "en": "Coming up on 60 Minutes, ______ expresses views on ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d1788245771fd1532b3dd07269a8a881235d690b",
+            "content": {
+                "en": "Crikey! Now there&apos;s a ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a4676eac860236d50aee1ab93d6dbad061f03ec",
+            "content": {
+                "en": "Crown Princess Mary has introduced the Danes to the Aussie tradition of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_500a9a79aae4b427e8df95c9ccadf143c09b3d5d",
+            "content": {
+                "en": "During the tea break at The Ashes, it was great to see ______ telling the world about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e634fb4d1f859196e01273aec48b0b6b9dc036e6",
+            "content": {
+                "en": "Earliest Aboriginal cave paintings showed that becoming a man involved ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_96b5edefb8db556380e46974ab697d3ccd7555f8",
+            "content": {
+                "en": "Even ______ can kill you in Australia"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_04bc22d8e56e46387df5db14eae20b36a618b036",
+            "content": {
+                "en": "Every time Tony Abbott speaks, he ends up ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c5f55caa7bb2527aee807c19fcfe81aacd607a28",
+            "content": {
+                "en": "Giving Make-a-Wish foundation kids ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f7a64b1f509ec755606535be0ffa4fd73833efc",
+            "content": {
+                "en": "I feel like ______ tonight."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_65ccede088b0f910907a8dc44fd4a44f4b7131ae",
+            "content": {
+                "en": "I just can't get you out of my head. Boy, ______ is all I think about."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_30116625063af2691327c005c2c75441c7dcd091",
+            "content": {
+                "en": "I love a sunburnt country, a land of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_15738441c2becba830e123b8eb9cf894c9bfe081",
+            "content": {
+                "en": "I spent my last Centrelink cheque on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e2a77db23cd5159f0d39a40ad2d99ec1b1bee348",
+            "content": {
+                "en": "In a new policy, the Australian government will now use ______ to stop the boats."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_50d6e120bdb02fdc9d5e8bb92d53714fec30c6ec",
+            "content": {
+                "en": "In Australia, Facebook is filtered from displaying anything to do with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a46ac7405a3233f9a69b0be7ed8ec25f4a3d8b05",
+            "content": {
+                "en": "In cricket, what is the 12th man&apos;s only duty?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6540a9c49af8d74fbcb8740035fda0889fc1ffe3",
+            "content": {
+                "en": "In Hamish and Andy&apos;s Asian Gap Year, expect to find the guys ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2889832a5e6b3b356bc7f86eed32d31d9f5fc31",
+            "content": {
+                "en": "In return for letting Armed Forces establish a base at Pine Gap, the USA will assist us with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_85e26976a334181d345cea1ef47ebe3adb1c6048",
+            "content": {
+                "en": "In the year 1770, Captain James Cook discovered ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_040f8ac412ca7eab7ca25f1d81debdf3d407f9dd",
+            "content": {
+                "en": "It has been discovered that ______ is the main ingredient in meat pies."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8305f7dba4c95fa4e050c54ef0edd36c8f1b98a8",
+            "content": {
+                "en": "It&apos;s all ______ to me!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ce6462f78914c81840acb58207bec9454714746",
+            "content": {
+                "en": "Life. Be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_72e29767b94eeb6d575789e6afaf866dbc556b21",
+            "content": {
+                "en": "Meditation is all about emptying your mind, and focussing on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cbf391b9038cc1b57870c6eb4a5feb47465bafbd",
+            "content": {
+                "en": "Midnight Oil&apos;s most controversial album is titled \" ______ : Our Australian Shame.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_996b8f32ea7de2935f722d23fd0bc216a902b53b",
+            "content": {
+                "en": "Myer&apos;s Boxing Day sale comes with the exclusive offer of ______ for everyone."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08f15974e7d07a834d44b2516f2cb5a300a5208d",
+            "content": {
+                "en": "Now extinct, the Diprotodon fed mainly on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_212b93bdc6936aeb309e24ebb83dcca1138b7077",
+            "content": {
+                "en": "Olivia Newton John&apos;s husband was found on a remote island and the only thing he could remember was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8941814dcfbd6a628965eb305da5c140d6e06beb",
+            "content": {
+                "en": "Priscilla ______ of the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_07f427d309fe2c0be1c78403434a3f99047059f2",
+            "content": {
+                "en": "Slip another ______ on the barbie."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84b776cada34d9cb22add64c5c4956f33034d5eb",
+            "content": {
+                "en": "That&apos;s not a ______, this is a (re-read first blank)."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff273551a2cc0c709d00094d8dc654d1829d7b09",
+            "content": {
+                "en": "That&apos;s not a ______. This is a ______. (One card)"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2f626163c524ba87142a2c9c725e184b28751806",
+            "content": {
+                "en": "That&apos;s when good neighbours become good ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0242b0a0d9cbc49e83754859781d606f02cacd60",
+            "content": {
+                "en": "The ARIAs were cancelled after a terrorist plot was discovered involving ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b9c2853185eaef6ee1bfa7b23ae1b8894a8047c",
+            "content": {
+                "en": "The Australian cricket team has won the Ashes thanks to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57d417636fbb7c07b01facad1ad56b40e9c05ee3",
+            "content": {
+                "en": "The best way to celebrate Australia Day usually involves ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2cd160b4198fd96fbaec3154287f452bdff796b1",
+            "content": {
+                "en": "The best way to kill cane toads: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f4c3e7de22520f443e620a071e19a419bfd07678",
+            "content": {
+                "en": "The best way to stop the boats is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_56e364bfc8f49860d05a1dbe3081f038bdb4aafb",
+            "content": {
+                "en": "The Curiosity Show ran for 20 years, teaching ______ about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_97da0d9bca1208c9d522b28577bb39530f845a0d",
+            "content": {
+                "en": "The current issue of Women&apos;s Weekly shows Ita Buttrose on the cover, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a9129d30da0b5e6bb1d4700341e1c018788c016d",
+            "content": {
+                "en": "The Garibaldi Mettwurst Saga was caused when ______ was accidently mixed in with the unprocessed meat."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_722c37923a47701d54fc4dac3ab587b74d792101",
+            "content": {
+                "en": "The hole in the ozone layer over Australia is mainly caused by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_91a278ec1201c81eb5657f50e1ec97afa6b8933c",
+            "content": {
+                "en": "The main differences between South Aussies and Vics are ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_afff7e83c5b64d47176e455c47d4a7bee8adf5ca",
+            "content": {
+                "en": "The paintjob pf the Holden Kingswood will even withstand ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d878069e30408f953efd049bdab8bf5ac942fbc9",
+            "content": {
+                "en": "The Portuguese actually settled Australia in 1521, but they turned around as soon as they saw ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bd6d3b1d3fa421eb98b667727b57fa1ee99c279",
+            "content": {
+                "en": "The real reason the car industry closed down was due to a shortage of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8d1c2931d358ea61790e60d864fb4b380144b4b",
+            "content": {
+                "en": "The scariest thing you're likely to encounter in the outback is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0db7dda4e9be3b6ebe4634445ee8d78c6677614",
+            "content": {
+                "en": "The strangest part of the Federal Election was when the Prime Minister confirmed increased funding for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e30fca6711943600b82d568132d6d664a934ed93",
+            "content": {
+                "en": "There&apos;s nothing like ______ in Australia."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_950075960c76cb7eb448d90be68780ab4983a769",
+            "content": {
+                "en": "This Summer, most Australians will take ______ to the beach"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_51360b5cc015692a73f7c74921b7266ab6d5e5ad",
+            "content": {
+                "en": "This year, the half time entertainment at the AFL Grand Final will be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df5bc906d341ecb19a24ae0d783c5f1179744e80",
+            "content": {
+                "en": "Those forest mushrooms seemed fine until ______ ate them and started ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7daf81457db5801a350c9107de7b9c114b7f1004",
+            "content": {
+                "en": "To become 'True Blue' requires ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a195453798b9d5061ad3937fc9d1426e6aac948f",
+            "content": {
+                "en": "Tonight on 60 minutes, we expose ______ and also ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_90f51387cfb2dc2e828ec992b476c88cf0fa97ad",
+            "content": {
+                "en": "Two things that will help you survive the Aussie Outback: ______ and ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7e17ac6f8011353b966d530dd490414968b54068",
+            "content": {
+                "en": "We're happy little Vegemites as bright, as bright can be. We all enjoy ______ for breakfast, lunch and tea."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fb0cf2b463e175dc406acae7c75177f640bca58e",
+            "content": {
+                "en": "What did Humphrey B. Bear do in his last episode that lead to the show being cancelled?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2fa56cacc50df13d708986c6779a9bd1b06f29f5",
+            "content": {
+                "en": "What gives Foster&apos;s beer its distinctive taste?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_058587d3e63fd05820a6ac91340b6516495f90e3",
+            "content": {
+                "en": "What we thought was nuclear trsting in the Pacific was actually ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7594c4a549e64637da09cf971331810e7b6a7228",
+            "content": {
+                "en": "When man landed on the moon, The Parkes Observatory was the first to know about the astronauts need of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3d2083a13ca3ba11742ebf547ad20860138e043",
+            "content": {
+                "en": "When the first fleet landed, the colonists celebrated by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_562848cc231507758bf9e856f92b38dc1f502cdb",
+            "content": {
+                "en": "Whilst cruising down King&apos;s Cross, I saw ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_89a4b6fdb6559c6e4ed6f17f053f68d6a703a3af",
+            "content": {
+                "en": "You never never know if you never never ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eaa4b11644d38a5b0c22c32f771109699a8a05e4",
+            "content": {
+                "en": "You've gotta love Canberra. It&apos;s the only place where ______ is legal."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cb38d5e65d2cd9f5fdc6cd3f5d2aa638bfbcf6c6",
+            "content": {
+                "en": "Young Talent Time was just a front, giviing Johnny access to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94cb92c892548669a71f2509b298a50322b0e893",
+            "content": {
+                "en": "______ : done dirt cheap."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bdd7227b26a2bff8b6a1ba7636434e4195f1fb47",
+            "content": {
+                "en": "______ Is now causing traffic jams in Sydney."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f44f01212627bdf68ffb4ba6d995d8e3a4dda619",
+            "content": {
+                "en": "______, the Australian Way of Life."
+            },
+            "pick": 1
+        }
+    ]
+}

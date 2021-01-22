@@ -1,0 +1,148 @@
+{
+    "id": "Heathers",
+    "name": "Heathers",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_7f8fb6f5e889db24fd83acec81f3933ed464259e",
+            "content": {
+                "en": "A marked up copy of Moby Dick"
+            }
+        },
+        {
+            "id": "w_27403e042c6478710bcbb65600c344684b590983",
+            "content": {
+                "en": "A slushee"
+            }
+        },
+        {
+            "id": "w_f21de70e60294a14536046cd638eefce2b628f21",
+            "content": {
+                "en": "A wake up cup of liquid drainer"
+            }
+        },
+        {
+            "id": "w_a1ac68bf5ec5f35853c2d80679f295980a54b216",
+            "content": {
+                "en": "A zoo lion with a remote control bomb up its butt"
+            }
+        },
+        {
+            "id": "w_aa293cc4cc38c41b6bc67240aa56d3f7b96b1283",
+            "content": {
+                "en": "Going to Egypt... With a girl"
+            }
+        },
+        {
+            "id": "w_a7c0c13c7074db9d37bd7253c81e330087f255e2",
+            "content": {
+                "en": "Heather"
+            }
+        },
+        {
+            "id": "w_d18befc3e13253a35b57c7f1b2ace9cd1ee58ea2",
+            "content": {
+                "en": "Ich L&uuml;ge bullets"
+            }
+        },
+        {
+            "id": "w_5668a62337a7a11e268dd2a8bbb84a72b1d42e2a",
+            "content": {
+                "en": "Just a couple of broken bones"
+            }
+        },
+        {
+            "id": "w_bf1bfed9e332b94576d3d750f15d80145b025e50",
+            "content": {
+                "en": "Mineral water"
+            }
+        },
+        {
+            "id": "w_e8c00bf8f335bc2acacff9375cd4dc5c81c9013f",
+            "content": {
+                "en": "My dead gay son"
+            }
+        },
+        {
+            "id": "w_77b4e582a9d0e8db5a7819431df17282244cb1ae",
+            "content": {
+                "en": "Pasta, lots of oregano"
+            }
+        },
+        {
+            "id": "w_2c1237c5ddd7723bb4ef2bc5e777c7ec63947c2e",
+            "content": {
+                "en": "Teenage Suicide"
+            }
+        },
+        {
+            "id": "w_df4ded432f0b0f306ce1a7c0149495b5e5487a18",
+            "content": {
+                "en": "The most spooky ass question I ever heard"
+            }
+        },
+        {
+            "id": "w_5e3cddb37eb9a653fb7b52de66b55e35c3ae0bec",
+            "content": {
+                "en": "Two pairs of pants"
+            }
+        },
+        {
+            "id": "w_e9fe06ea0e92a2175e06e578ffa63bbd9ed8cfa2",
+            "content": {
+                "en": "Veronica Sawyer"
+            }
+        },
+        {
+            "id": "b_f8c3cdf303e9e14ba262feda8c4af675b9b1947e",
+            "content": {
+                "en": "Don't blame me, blame ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ef34ccf8956989943a9923f577214c433446d54",
+            "content": {
+                "en": "If you don't have a Brewski in your hand, you might as well be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e469ffd949d0d499b5b2d600e7ba8a1c6a295a5a",
+            "content": {
+                "en": "Is it murder? No look, here&apos;s ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ef5dbc221cfa9d8822aca95544d5dc1eccf7a691",
+            "content": {
+                "en": "These aren't bombs, they're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_42c87d91d173edb5af3ebb4dfa03dfbbfadf6cc5",
+            "content": {
+                "en": "What&apos;s under the gym?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f53e7ae1ebf30878c6cb67cb9e14355ad05fdc5",
+            "content": {
+                "en": "______ killed the dinosaurs, darling"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a8d168eac8d6473692b15798e9f97f7eba79a0b",
+            "content": {
+                "en": "______. Lick it up, baby, lick it up."
+            },
+            "pick": 1
+        }
+    ]
+}

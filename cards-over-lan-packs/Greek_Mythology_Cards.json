@@ -1,0 +1,906 @@
+{
+    "id": "Greek_Mythology_Cards",
+    "name": "Greek Mythology Cards",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_6e95edf96e98d8fd95ca70cbefc566329cd1f226",
+            "content": {
+                "en": "\"Cupbearer\" ;) ;)"
+            }
+        },
+        {
+            "id": "w_71a8fc0f61a6929d8699b8b1ef1fdce62f878f42",
+            "content": {
+                "en": "12 impossible tasks"
+            }
+        },
+        {
+            "id": "w_469ff6b05a56d4100e9820e9265b0da58dab43bd",
+            "content": {
+                "en": "A crown of golden laurels"
+            }
+        },
+        {
+            "id": "w_326cc6af0a4782076b2e0e58be0ef91d528337f4",
+            "content": {
+                "en": "A freak discus accident"
+            }
+        },
+        {
+            "id": "w_4f518903e5e3043be69485966846dd7f48b92308",
+            "content": {
+                "en": "A Gods damn pomegranate"
+            }
+        },
+        {
+            "id": "w_56d4001e008569059734fbcb7f81cf7417c8b211",
+            "content": {
+                "en": "A group of flesh-eating, horny lesbians naked in the woods"
+            }
+        },
+        {
+            "id": "w_8d68779d82f12cd4b660311290d3439e9acc5b77",
+            "content": {
+                "en": "A peacock"
+            }
+        },
+        {
+            "id": "w_9af9a4231cb27f72310a68c410db2922f836e8b6",
+            "content": {
+                "en": "A prophecy"
+            }
+        },
+        {
+            "id": "w_0570af0ad23e4aeb434b5fb6cec03e77a30585ba",
+            "content": {
+                "en": "A sword forged from the blood of your enemies"
+            }
+        },
+        {
+            "id": "w_5fea31f29dead7e9df9307899a7476497c15f538",
+            "content": {
+                "en": "A three headed dog named spot"
+            }
+        },
+        {
+            "id": "w_2fd40ae8d40c1bb1805453f1ee511ddf57d4aa48",
+            "content": {
+                "en": "A thyrsus handling class"
+            }
+        },
+        {
+            "id": "w_47082355997f312c2d9a92e5d5f14852e39c9d41",
+            "content": {
+                "en": "A woman, fully armored, springing from your skull"
+            }
+        },
+        {
+            "id": "w_7529e3275a96cc2d955a7dda2a2e2785d7406fac",
+            "content": {
+                "en": "Ajax, the man of a thousand brand names"
+            }
+        },
+        {
+            "id": "w_e99ddf0e19e979235e1e5ca41eb1200bc0deb286",
+            "content": {
+                "en": "All nine Muses in perfect harmony"
+            }
+        },
+        {
+            "id": "w_b3c2c227459fc217f614753fc6302ac68c026491",
+            "content": {
+                "en": "Ambrosia and Nectar"
+            }
+        },
+        {
+            "id": "w_57315677c3f6b908aa58884f70b44fc3676e14a5",
+            "content": {
+                "en": "An underground maze of death"
+            }
+        },
+        {
+            "id": "w_05609fa04adbf91ba3a3580e7063dcec3bbdba2e",
+            "content": {
+                "en": "Another damned constellation"
+            }
+        },
+        {
+            "id": "w_753d6dd7f683c58b04ea1ad161bfbb180b11f20f",
+            "content": {
+                "en": "Aphrodite"
+            }
+        },
+        {
+            "id": "w_633a74f5d793800c6e2802a1bf2f0da8529143a3",
+            "content": {
+                "en": "Apollo"
+            }
+        },
+        {
+            "id": "w_ed4c30717c069a9d320b3ac31712cba48af0f180",
+            "content": {
+                "en": "Aquila"
+            }
+        },
+        {
+            "id": "w_4cab7415715aeeacf1486a352267ae82c0efb220",
+            "content": {
+                "en": "Ares"
+            }
+        },
+        {
+            "id": "w_2a52519e206546b4ffe31c3383ab4858c17235ff",
+            "content": {
+                "en": "Artemis"
+            }
+        },
+        {
+            "id": "w_66b41760975be9a82c254ecc73fa1b48d2a918f4",
+            "content": {
+                "en": "Asclepius' cure"
+            }
+        },
+        {
+            "id": "w_7f3342f30bf4c3977d537b68719b3f6636e25cb1",
+            "content": {
+                "en": "Athena"
+            }
+        },
+        {
+            "id": "w_f45728c22bf9c31f94174f56a55865196c383fdd",
+            "content": {
+                "en": "bees"
+            }
+        },
+        {
+            "id": "w_17dfcc21c5ad35d0d5b70a673b58190bcad484e3",
+            "content": {
+                "en": "Being Born out of sea foam"
+            }
+        },
+        {
+            "id": "w_a78ccfbc6b09a5618a4777c5a3367871f84b43ee",
+            "content": {
+                "en": "Being turned into a flower by your lover"
+            }
+        },
+        {
+            "id": "w_c292ba37081c6f16eb34724aed9879e88657f62f",
+            "content": {
+                "en": "Calliope&apos;s \"short\" stories"
+            }
+        },
+        {
+            "id": "w_f4a161fbd795de5afb281f1392e9da929fd66bb9",
+            "content": {
+                "en": "Cheating at the Olympics"
+            }
+        },
+        {
+            "id": "w_8ecc44cbb263c7a4dbb0885f514f5f0908cad44d",
+            "content": {
+                "en": "Committing high treason at your local symposium"
+            }
+        },
+        {
+            "id": "w_568116ff94d3240defcb5e5d5878769908e679d1",
+            "content": {
+                "en": "Consensual butt sex"
+            }
+        },
+        {
+            "id": "w_991e0f98103366285137d4fc0cffdced2d58334c",
+            "content": {
+                "en": "COVID-19"
+            }
+        },
+        {
+            "id": "w_de0fdfd175e6268a08645994a33105e5abb33015",
+            "content": {
+                "en": "Crashing the Sun Chariot"
+            }
+        },
+        {
+            "id": "w_76f65c0bee1a30bab7cc8271429618952879a020",
+            "content": {
+                "en": "Cross dressing festivals!"
+            }
+        },
+        {
+            "id": "w_9cd3586bc47c42373e65c30db5cf7bfff2c7e00c",
+            "content": {
+                "en": "Demeter"
+            }
+        },
+        {
+            "id": "w_11e4f23a8c71adaebfa08bc19dcc0818107aa893",
+            "content": {
+                "en": "Dionysus"
+            }
+        },
+        {
+            "id": "w_5001e2b598ff2bedc1eb91da0a92203e44a6c272",
+            "content": {
+                "en": "Divine bestiality"
+            }
+        },
+        {
+            "id": "w_d5afae4f9f42bf3be1bc77c1cecc0f54ee56eb79",
+            "content": {
+                "en": "Drunk satyrs"
+            }
+        },
+        {
+            "id": "w_7fc25b04d0eec851b4f5913c5488bb6cfed14a51",
+            "content": {
+                "en": "EARTHQUAKES"
+            }
+        },
+        {
+            "id": "w_463c31354e1c8a60ae7eb03a33d0e0df36d59f14",
+            "content": {
+                "en": "Eating your children to avoid usurpation"
+            }
+        },
+        {
+            "id": "w_0bea3202edbf4abc722a41f9a5fb96535e0166d0",
+            "content": {
+                "en": "Eris"
+            }
+        },
+        {
+            "id": "w_a316c8d797f20041c16988c1ccbbb840362555f0",
+            "content": {
+                "en": "Fixing a headache with an axe"
+            }
+        },
+        {
+            "id": "w_dbe29691a49ac6a1cfdc8a334d6246557b75dece",
+            "content": {
+                "en": "Flying too close to the sun, melting your wings, and dying"
+            }
+        },
+        {
+            "id": "w_ca47738decc8bf8cad4373fc8e20f35ad36fe765",
+            "content": {
+                "en": "Forging a cow suit to fuck a bull"
+            }
+        },
+        {
+            "id": "w_3529ef824b11a7beb344a28c4bd3602054ed0dc9",
+            "content": {
+                "en": "Fully bisexual Gods"
+            }
+        },
+        {
+            "id": "w_62607a1c6ad228c9ca9d2e24af27e955c6f79666",
+            "content": {
+                "en": "Ganymede, the \"cupbearer\""
+            }
+        },
+        {
+            "id": "w_b5bd7b9bf798493666ed91c81bfbf602950ea12f",
+            "content": {
+                "en": "Gazing upon a God and all their Glory"
+            }
+        },
+        {
+            "id": "w_41858598b4ddd98f9a428697fcd7772599c2d462",
+            "content": {
+                "en": "Getting a literal golden shower"
+            }
+        },
+        {
+            "id": "w_e6d8391d59b5ebd4624c323954afbfc47b518572",
+            "content": {
+                "en": "Getting abducted by a giant eagle and offered a job"
+            }
+        },
+        {
+            "id": "w_acad9bc97e8652ae6c79b3ab11636952266504a5",
+            "content": {
+                "en": "Growing a child on your calf"
+            }
+        },
+        {
+            "id": "w_4a510f82b02e2bc25bfe45e8b12b9a02efe4438c",
+            "content": {
+                "en": "Hades"
+            }
+        },
+        {
+            "id": "w_c994fb33a970b326a2e015adde49fb7cb6187870",
+            "content": {
+                "en": "Healthy relationships with your brothers and sisters"
+            }
+        },
+        {
+            "id": "w_c98c633b7688d20a1434ca7af43c5e06925d790f",
+            "content": {
+                "en": "Hephaestus"
+            }
+        },
+        {
+            "id": "w_31f2f540b9965e4f439c3e97feab2fd98f20066b",
+            "content": {
+                "en": "Hera"
+            }
+        },
+        {
+            "id": "w_26b12bde70ae09fe131a167463624c4e46b602b0",
+            "content": {
+                "en": "Hestia"
+            }
+        },
+        {
+            "id": "w_a5128cc2fbb94c900969253e7f83ed160948a586",
+            "content": {
+                "en": "Hiding inside a wooden horse, entering a city, and sacking it from the inside"
+            }
+        },
+        {
+            "id": "w_07ab3e022ad0739905532a01661b903e9309b8c8",
+            "content": {
+                "en": "However long it took Odysseus to return home"
+            }
+        },
+        {
+            "id": "w_54c982155de5c219ddc11499d391ccfa73a8c5c4",
+            "content": {
+                "en": "Inventing horses"
+            }
+        },
+        {
+            "id": "w_cf5559d9f5a5c237c04e46255f806fe94f5628f0",
+            "content": {
+                "en": "Joining the Hunt"
+            }
+        },
+        {
+            "id": "w_6b23d6f0677dcb25989c638f46f9fba1de1d4537",
+            "content": {
+                "en": "Kidnapping a married woman, starting a war, and destroying your city"
+            }
+        },
+        {
+            "id": "w_bda9a7de956d000ec163b50fd4cd44f7a4bf3e96",
+            "content": {
+                "en": "Killing your father and marrying your mother"
+            }
+        },
+        {
+            "id": "w_4c05ab188effeb4030d50e461703c456fcf022be",
+            "content": {
+                "en": "Le fou d'coudre (Love at first sight &amp; struck by lightning in French)"
+            }
+        },
+        {
+            "id": "w_edca01217471b6539484f2f7e9597e08d58112e0",
+            "content": {
+                "en": "Making out with Aphrodite"
+            }
+        },
+        {
+            "id": "w_fbad106c3dbedc710653dc3f6d97a9f5487e3b9a",
+            "content": {
+                "en": "More cursed than Thebes"
+            }
+        },
+        {
+            "id": "w_6572525668568c170249504895468723b4c87944",
+            "content": {
+                "en": "Naming your mistress' child after your wife"
+            }
+        },
+        {
+            "id": "w_3c68c26ec53cf236cfb4131a456d871bff41ff0a",
+            "content": {
+                "en": "Never ending child birth"
+            }
+        },
+        {
+            "id": "w_15c60e679884098d6e3aae7baaf59f431b344b57",
+            "content": {
+                "en": "One very horny swan"
+            }
+        },
+        {
+            "id": "w_8c9ce33191cd11f4df017eec0a178e17dde2bb68",
+            "content": {
+                "en": "Pan"
+            }
+        },
+        {
+            "id": "w_c3dee26af8a3ebc6563a090bc64952e4694715b0",
+            "content": {
+                "en": "Parties on Mount Olympus"
+            }
+        },
+        {
+            "id": "w_f197e819e7bf7afa10170ba474af88f68b95249d",
+            "content": {
+                "en": "PLAGUES"
+            }
+        },
+        {
+            "id": "w_11557577326a5237f92d568c42068dc7b9c17f8e",
+            "content": {
+                "en": "Poetry with no rhyme or rhythm"
+            }
+        },
+        {
+            "id": "w_8e27c6ced8b3e449531419e753d0ec379fb1d013",
+            "content": {
+                "en": "Poseidon"
+            }
+        },
+        {
+            "id": "w_12ae96637726cda4fa656321a93bd1dc070c5cde",
+            "content": {
+                "en": "Pushing a boulder up a steep hill for all of eternity"
+            }
+        },
+        {
+            "id": "w_61865776dc73495b5ce24c3f7fbd591aaa86817c",
+            "content": {
+                "en": "Returning home from war only to be murdered by your mother and daughters"
+            }
+        },
+        {
+            "id": "w_571823f12625fe698437c8b78c9366feee7ccd85",
+            "content": {
+                "en": "Running naked through the woods"
+            }
+        },
+        {
+            "id": "w_76102afbda621e36f73832a8c6120e158756d14b",
+            "content": {
+                "en": "Sirens who sing about the winning lottery numbers"
+            }
+        },
+        {
+            "id": "w_136cfeffb62266131d3a272ec7cf37866016c850",
+            "content": {
+                "en": "SNAKES! Why is it ALWAYS snakes?!"
+            }
+        },
+        {
+            "id": "w_f4daaeee298ec09cf5463bde2699d4ed3f75fa02",
+            "content": {
+                "en": "Sparagmos"
+            }
+        },
+        {
+            "id": "w_22f34ba7c3903ab5986cd6e67fbd6ed4db944534",
+            "content": {
+                "en": "Spontaneous human combustion"
+            }
+        },
+        {
+            "id": "w_e112721e560cdbe420faf3cd3f46160b6638ec29",
+            "content": {
+                "en": "Stealing a sip from Dionysus' cup and getting LIIIIIIIIIIIITTTTT"
+            }
+        },
+        {
+            "id": "w_71b23971e95382153a053d0239b80a6bb33ea9bf",
+            "content": {
+                "en": "Stealing an entire herd of cattle"
+            }
+        },
+        {
+            "id": "w_ff378a4a9f0f93308a4cb4523dd7fca4495349e1",
+            "content": {
+                "en": "The damned souls of Hades' underwear"
+            }
+        },
+        {
+            "id": "w_9adc88e34c8bd190b247edf78b4873a6475c6ab8",
+            "content": {
+                "en": "The Dogs of War"
+            }
+        },
+        {
+            "id": "w_bd7f1bd9ffdca1bab62ba2acc740760a348ef045",
+            "content": {
+                "en": "The entire Spartan army"
+            }
+        },
+        {
+            "id": "w_7e4c82b0d0b6b8662b3f7503b6eceb3b0efe9af2",
+            "content": {
+                "en": "The face Apollo makes when you sing off key"
+            }
+        },
+        {
+            "id": "w_3886ef7c67356cea61f408794d5cd49b96f70a7c",
+            "content": {
+                "en": "The golden fleece"
+            }
+        },
+        {
+            "id": "w_be68b6a211a391550fec0b66d1621442ebe06024",
+            "content": {
+                "en": "The impregnable walls of Troy"
+            }
+        },
+        {
+            "id": "w_3006983835634835461f48b643387ed69344a14c",
+            "content": {
+                "en": "the Moon"
+            }
+        },
+        {
+            "id": "w_315a4a0fd98df3e144b66cb35f1039e459f2cff4",
+            "content": {
+                "en": "the Sun"
+            }
+        },
+        {
+            "id": "w_353683cbdbe79816e5107ad2f4c51ee339975dc7",
+            "content": {
+                "en": "The weight of the world on your shoulders"
+            }
+        },
+        {
+            "id": "w_54d1ecff17bead082d4327126527525c0fece88a",
+            "content": {
+                "en": "The wrath of Hera"
+            }
+        },
+        {
+            "id": "w_cd21bf7d57a9667290f118652356944a22cb4584",
+            "content": {
+                "en": "Trojan condoms"
+            }
+        },
+        {
+            "id": "w_52310ba8bd290757f052aad18242bee7c41f6a7b",
+            "content": {
+                "en": "Turning everything into gold"
+            }
+        },
+        {
+            "id": "w_f362aff42ce7e4e5fe351078eafce0e7a13bf195",
+            "content": {
+                "en": "Turning into a tree to avoid Olympians"
+            }
+        },
+        {
+            "id": "w_43f8eca936ccbbdb5356282f9b3ca61e2480a1f9",
+            "content": {
+                "en": "Turning your haters into dolphins"
+            }
+        },
+        {
+            "id": "w_9b0951541a4892a3d3223184dc384cd625101305",
+            "content": {
+                "en": "Turning your mistress into a cow and sending her to Egypt"
+            }
+        },
+        {
+            "id": "w_48aca8a1fa32c0de008e035e5a445216f6bfe6f2",
+            "content": {
+                "en": "Turning your sister&apos;s stalker into a constellation"
+            }
+        },
+        {
+            "id": "w_c5023da762d47de3f5bacedab6f3a58d939e8526",
+            "content": {
+                "en": "Waking up naked at the place where the three roads meet"
+            }
+        },
+        {
+            "id": "w_e7dc08df39e64235c14d9ed1b3ca03343a78e8d2",
+            "content": {
+                "en": "Wandering around the ocean for 12 years"
+            }
+        },
+        {
+            "id": "w_b125dfdb3ac452236d376517ce38e0852de2e666",
+            "content": {
+                "en": "Wine pouring out from a nymph&apos;s breasts"
+            }
+        },
+        {
+            "id": "w_8ed801ec03177f3fa1a07774ddd9abebc553eaf3",
+            "content": {
+                "en": "Wining a bet with nothing but an olive tree"
+            }
+        },
+        {
+            "id": "w_0093edc3abc07bdec91d7aaaa812118b59df0952",
+            "content": {
+                "en": "Zeus"
+            }
+        },
+        {
+            "id": "w_b97640102a0b5ce11951ff7183f4b56b3124d97c",
+            "content": {
+                "en": "Zeus having yet another affair"
+            }
+        },
+        {
+            "id": "w_f81dc56fba66ccf16eca981390e230e66fa1d1d7",
+            "content": {
+                "en": "Zeus' parenting skills"
+            }
+        },
+        {
+            "id": "b_a71a1bfcae9e30c6855ae1421f6c2d7ad370f5f3",
+            "content": {
+                "en": "Anyone ______ has no chance of survival in Hades."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cbde9e1a7bdb203d88df0274587ce5f9ae7bc541",
+            "content": {
+                "en": "As a good luck ritual before battle, Achilles and Patroclus enjoy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8d1f2885404f14eb6bfd1eae04ba0ed7fd99b53c",
+            "content": {
+                "en": "At the banquet, the emperor served ______ to his guests."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0bc803edb5516f09f966eaa62be4432dfc34c918",
+            "content": {
+                "en": "Before the ritual the priestess bathed herself in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1baa5701463ef4bf0bc7c65f340cbbec5cb99a51",
+            "content": {
+                "en": "Eros just made you madly in love with ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de90f8de0f9de652d9670de6be7fa217250217d2",
+            "content": {
+                "en": "For stealing the fire, Prometheus was sentenced to ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_135cd1a7d9b7696f07dda4716f5c81cfaaff3aec",
+            "content": {
+                "en": "Hephaestus threw ______ over Ares and Aphrodite."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee877ce6eff01c9736867c3ed003cdf7e4ed52c8",
+            "content": {
+                "en": "Hera caught Zeus fucking ______ again!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_52f4bd27da10c09117a7f35391b6bbbc1c9dc453",
+            "content": {
+                "en": "Heracles only narrowly prevailed over ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b663baeb92c1089388162be8b81d1f25bab3ee6",
+            "content": {
+                "en": "Heracles' infamous task of having to deal with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b616bdad37d07946bc5e1703ada5673d54cbe7ab",
+            "content": {
+                "en": "Hermes' basement actually contains ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d1e2884e3ca241f121e3347256465abf50e56ef3",
+            "content": {
+                "en": "I wanted sleep, my Muse wanted an entire oprea about ______. The Muse won."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_690c1aa46a0fd4ec774ba2840c2ca8c30f9b9342",
+            "content": {
+                "en": "Instead of guiding the dead to the underworld, Hermes was seen ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e79ce81ac1c992a8a3c5bb797f80cfd2bbb66430",
+            "content": {
+                "en": "Narcissus loves ______ more than himself."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c0a23c633880fbbacc67b78eb7138b9d0b5c220",
+            "content": {
+                "en": "Never invoke ______ without ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_86224840415ed3422ada595c00ca3bb40002a8a1",
+            "content": {
+                "en": "Not even Dionysus was drunk enough for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_db5bad10b6379ae7e2cf09061f578042fa7fe61c",
+            "content": {
+                "en": "Sing in me, Muse, and through me tell the story of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_06f5196c7d7ea3447aa97bc442822cc69486b262",
+            "content": {
+                "en": "Socrates shocked everyone with his discourse on______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d4d17d57ec492080f91608e69d69ffecea2a172e",
+            "content": {
+                "en": "The Gods work in mysterious ways. For example ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2df32df220266c188f7eb5a2c663929d85deafca",
+            "content": {
+                "en": "The Hero needs ______ on their quest."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c3381def8dd351a787d91e07440b7ca3628b9983",
+            "content": {
+                "en": "The oracle at Delphi told me I should be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c0c098e3ec0dcaa151c6615c8d41a6bff7998ed",
+            "content": {
+                "en": "The priest(ess) was surprised when their God demanded ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18dcf22b14f2a42deaca16496ba27a073197113b",
+            "content": {
+                "en": "The ______ that launched a thousand ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d8b0ce6f698b8b2ff14ef8fde5390cc88afc09f4",
+            "content": {
+                "en": "This time Apollo sent Thebes a plague of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ded4f209896b797e6826f9a2c58295c40ffadf5",
+            "content": {
+                "en": "Unleash the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd0558ee36b02c6f88a63d68a024e97a18a173c2",
+            "content": {
+                "en": "WAR! What is it good for? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b930fe45fbd90f2603c9ee635a7f5e0fdea62bd",
+            "content": {
+                "en": "We shall sacrifice ______ to appease the Gods."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_40970c20c79c551f3cf9be3b635841f287a14c33",
+            "content": {
+                "en": "What Do you do with a drunken satyr earlie in the morning? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7a7cad838d5ccc86ed143a37ab7f1511b82040d0",
+            "content": {
+                "en": "What would Athena turn you into after you anger Her? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddefd04dcc419f535c053e7d046a63705a6213d8",
+            "content": {
+                "en": "When the planets align, ______ is unleashed."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddc7cd64f85cc2af560daa9912502f32a0b96347",
+            "content": {
+                "en": "Whispers speak of a mysterious room at the top of Mount Olympus dedicated to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_16e5c0ec31a9e7a2f5051b2d7dbbe4174861821c",
+            "content": {
+                "en": "You know you're in trouble when Hermes sends you ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_177c3042b7a8682c1344b2b6cdc8fbbccd65c8cf",
+            "content": {
+                "en": "Zeus called, He wants His ______ back."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_228e7d13ac8668cb416da12c76e9e2ca05d13e12",
+            "content": {
+                "en": "Zeus was spotted ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e3e2c1a4f7c0f515201af64140c443127cc324ed",
+            "content": {
+                "en": "______ the Kraken&apos;s replacement"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f935211e9928f29be2039ecb3984862d4989e7b4",
+            "content": {
+                "en": "______ too kinky even for Zeus"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f95e2a8dce888621b75593af3ffa3e016b21655",
+            "content": {
+                "en": "______! Muse inspired, Goddess approved."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8cc17ec2a8c7fb078c673ad8dfb8a0da38952471",
+            "content": {
+                "en": "______! Terpsichore&apos;s new dance trend!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b631cef2f3da39966d25d48a95006e4315a5c3d9",
+            "content": {
+                "en": "______, God of ______."
+            },
+            "pick": 2
+        }
+    ]
+}

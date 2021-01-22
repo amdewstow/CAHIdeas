@@ -1,0 +1,2204 @@
+{
+    "id": "Alternia",
+    "name": "Alternia",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_1bf4c90ea0393249e6349ebdfae0f0999d62efb8",
+            "content": {
+                "en": "\"Apple Juice.\""
+            }
+        },
+        {
+            "id": "w_977ee4eafae77f2cce9cc6873195ce5c38dcecbb",
+            "content": {
+                "en": "'Rails with pails."
+            }
+        },
+        {
+            "id": "w_3e42ac02545fb365ce827a75f6bf42f89b28f8c0",
+            "content": {
+                "en": "A bull penis cane."
+            }
+        },
+        {
+            "id": "w_5a56618ba9208bb81347cc3324be3d38f200d9ba",
+            "content": {
+                "en": "A chip in your heart that forces you to love."
+            }
+        },
+        {
+            "id": "w_91afeca01cee1c0af746309cbb1ebb142967dfc9",
+            "content": {
+                "en": "A dead Ms. Paint."
+            }
+        },
+        {
+            "id": "w_664c29f82b21f522e0ba6cb89ffcedbc429e3df6",
+            "content": {
+                "en": "A dominant Kankri."
+            }
+        },
+        {
+            "id": "w_79937edef87f4d4632aeed70c448c6b61a928359",
+            "content": {
+                "en": "A five minute video of Cronus giving Kankri a blowjob."
+            }
+        },
+        {
+            "id": "w_0f5457bd8cfa7f737a210e6fbdba519ee7f4990a",
+            "content": {
+                "en": "A mighty wwizard of wwhite science."
+            }
+        },
+        {
+            "id": "w_6b7adffd2fa3e35f8159f6a6a60899b020eb4f5e",
+            "content": {
+                "en": "A Nicolas Cage body pillow."
+            }
+        },
+        {
+            "id": "w_5e7e709ea6bc491900ef3bb2c4301e4cf4a1b578",
+            "content": {
+                "en": "A painting of a horse attacking a football player."
+            }
+        },
+        {
+            "id": "w_50244e2fde31956c73f4877d5b9ec8e2e015f7d5",
+            "content": {
+                "en": "A rapist cuttlefish."
+            }
+        },
+        {
+            "id": "w_d3b15675d7009fec4eb20a62e25c8b45256e2f26",
+            "content": {
+                "en": "A slaughtered sperm whale."
+            }
+        },
+        {
+            "id": "w_20665deb774206a794149b5a98a1e306c8037a42",
+            "content": {
+                "en": "A Strider sandwich."
+            }
+        },
+        {
+            "id": "w_bb28eedd084097b653493620d24c8e3a8bb52e7c",
+            "content": {
+                "en": "A VrisKan waffle."
+            }
+        },
+        {
+            "id": "w_2323840dcc02f47091219b08458f14bb5ec19fa1",
+            "content": {
+                "en": "Actual blind people who cosplay Terezi."
+            }
+        },
+        {
+            "id": "w_686a8760555123dc6f77b633072445d9d3626ab6",
+            "content": {
+                "en": "Alternian fine art."
+            }
+        },
+        {
+            "id": "w_709518866fd90444e0deeb846bf9e7da2bbf94fa",
+            "content": {
+                "en": "Alternian rainbow-drinker romance novels."
+            }
+        },
+        {
+            "id": "w_0efade6d096fa77553054b6a4aa6371da54d2763",
+            "content": {
+                "en": "An acrobatic fucking pirouette."
+            }
+        },
+        {
+            "id": "w_92fca748dc916135d5d4e3b7a8a1c709e4c3148b",
+            "content": {
+                "en": "Andrew Hussie."
+            }
+        },
+        {
+            "id": "w_d4787dd0aa234eca54022b440ce207db1a8c2762",
+            "content": {
+                "en": "Anonymous Soporifics Support."
+            }
+        },
+        {
+            "id": "w_6fa81074d350c3065838afea171db90ee25aeef2",
+            "content": {
+                "en": "Aradia Bot."
+            }
+        },
+        {
+            "id": "w_82a9d87979a864ffddc4c9427872c5cbbf8dec18",
+            "content": {
+                "en": "Aradia Megido."
+            }
+        },
+        {
+            "id": "w_9461478c890415671e47f9f4d8d0f8433857fd45",
+            "content": {
+                "en": "Aranea Serket."
+            }
+        },
+        {
+            "id": "w_11b82cbb1ed71da625f611c1d19132ecce025582",
+            "content": {
+                "en": "Aranea&apos;s exposition stand."
+            }
+        },
+        {
+            "id": "w_242a544175f405d98ece13a51118ff00a38876ad",
+            "content": {
+                "en": "Arguing over troll sexuality."
+            }
+        },
+        {
+            "id": "w_f5c279d698afd030dc8a21425889988d7ba56e7f",
+            "content": {
+                "en": "Arthour the lusus."
+            }
+        },
+        {
+            "id": "w_ab2e53b4131ac7f71fc6b09af3120f4c8f664f23",
+            "content": {
+                "en": "AVATAR."
+            }
+        },
+        {
+            "id": "w_599fde288f7c76b8589f79ec17b13f55c226d675",
+            "content": {
+                "en": "Baby Dave."
+            }
+        },
+        {
+            "id": "w_7ea9afb1bdd77ca7fb3c51e35e3a24bd30fd3283",
+            "content": {
+                "en": "Bard Quest."
+            }
+        },
+        {
+            "id": "w_ca6310dd6ffdc8690814e053f7571ac38d04e066",
+            "content": {
+                "en": "Beating the shit out of Terezi."
+            }
+        },
+        {
+            "id": "w_f0e644bed7c4aa029524807255e082976dd0d742",
+            "content": {
+                "en": "Bec Noir."
+            }
+        },
+        {
+            "id": "w_5257662eabb647acff3ca4823197a14820dbf709",
+            "content": {
+                "en": "Becoming Tumblr famous."
+            }
+        },
+        {
+            "id": "w_30918045a665c50344d3b3b6ad342e0e4bdc972a",
+            "content": {
+                "en": "Being fuck deep in meowcats."
+            }
+        },
+        {
+            "id": "w_be76b0aeed3f19f5a6fb7ecdcd7066b41525fe4e",
+            "content": {
+                "en": "Being in a relationship with a non-Homestuck."
+            }
+        },
+        {
+            "id": "w_4fbf69b52fa1f6c7268828218063fe06450d1abe",
+            "content": {
+                "en": "Being locked in a Prospitian prison."
+            }
+        },
+        {
+            "id": "w_9578e45878d5e68df54aa6b44e84221208e18626",
+            "content": {
+                "en": "Being the other guy."
+            }
+        },
+        {
+            "id": "w_020a0e1039a22efb3e59fff32b8fa290b7390885",
+            "content": {
+                "en": "BETTY FUCKING CROCKER."
+            }
+        },
+        {
+            "id": "w_4528e2137d4f28070688e301a58ff93427b6adff",
+            "content": {
+                "en": "Binge reading every fanfiction for a pairing and then hating yourself a little bit."
+            }
+        },
+        {
+            "id": "w_aa770a47ecd1e9876d9f0ed7051ecc23e4f9cf5f",
+            "content": {
+                "en": "BL1ND JUST1C3."
+            }
+        },
+        {
+            "id": "w_f0665d14614e94e99be5f70198d3600a58b12dbc",
+            "content": {
+                "en": "Blackrom orgies."
+            }
+        },
+        {
+            "id": "w_16d0ee47f95a43b53696e8f62d10ba305f692aee",
+            "content": {
+                "en": "Bro and Dave banging while Rose watches."
+            }
+        },
+        {
+            "id": "w_65649fa4efc053d3386ed83bd329ad1d9b6dad34",
+            "content": {
+                "en": "Bro&apos;s rapping ventriloquism act."
+            }
+        },
+        {
+            "id": "w_594fa4088b9de5b27e75ae8af2bb163a4c0d493b",
+            "content": {
+                "en": "Bro."
+            }
+        },
+        {
+            "id": "w_fa73d47842e6f1635aa1601f8f39b64bfdc3856f",
+            "content": {
+                "en": "BUCKETS."
+            }
+        },
+        {
+            "id": "w_77b42e6c91fabf460d3f1bc66f08c7931391abe3",
+            "content": {
+                "en": "Butler Island."
+            }
+        },
+        {
+            "id": "w_0c4dc58b3552b9005635b8c6f373a893972c3194",
+            "content": {
+                "en": "C4NDY R3D BLOOD"
+            }
+        },
+        {
+            "id": "w_f511a6c66f2e539e9022450c114da56f698edec5",
+            "content": {
+                "en": "Caledscratch."
+            }
+        },
+        {
+            "id": "w_842ec61472721154387e7d9e8a44c1564f341f6b",
+            "content": {
+                "en": "Caliborn."
+            }
+        },
+        {
+            "id": "w_d83b45e13b9adf2e0651026f56aaf4bb71ea683c",
+            "content": {
+                "en": "Caliginous speed dating."
+            }
+        },
+        {
+            "id": "w_93661f127708c71182a3bfbe263704cc21ee6fcd",
+            "content": {
+                "en": "Calliope."
+            }
+        },
+        {
+            "id": "w_7d22185c44d085924c7a7cc8d4faad3f627df324",
+            "content": {
+                "en": "Can Town."
+            }
+        },
+        {
+            "id": "w_30c85ce35bfc5e708a5927df392e11e570d7d997",
+            "content": {
+                "en": "Cards Against Alternia."
+            }
+        },
+        {
+            "id": "w_1d6ec4fc8cffae606b9609b68d1dd1cf13d0b290",
+            "content": {
+                "en": "Carlos Maraka."
+            }
+        },
+        {
+            "id": "w_3960748e18c8bde12a3a0e00eec5e8bcf53f1700",
+            "content": {
+                "en": "Casey."
+            }
+        },
+        {
+            "id": "w_6eb0c7f7665c7894daa4646d492aca584f48c6f4",
+            "content": {
+                "en": "Centaur milk."
+            }
+        },
+        {
+            "id": "w_b5a2d087c284dfafe385b3c06833c202decba1b1",
+            "content": {
+                "en": "Charging down halls, shouting profanities and being silly."
+            }
+        },
+        {
+            "id": "w_9ec91537ad32cc103e598a0828347f23e0fcefc6",
+            "content": {
+                "en": "Cherub m-preg."
+            }
+        },
+        {
+            "id": "w_c5b4b4ec0e3a378453ae6a90208b8abe56cd5fcc",
+            "content": {
+                "en": "Cherub mating rituals."
+            }
+        },
+        {
+            "id": "w_ec5817281c7e20116e3715f62729adf98ae418bf",
+            "content": {
+                "en": "Chest of WHIMSY."
+            }
+        },
+        {
+            "id": "w_84f0184154308707090434f8f9da43120b95fda0",
+            "content": {
+                "en": "Cliched JohnKat fanfiction."
+            }
+        },
+        {
+            "id": "w_53aba7b616d36cab25d2b0094b44736956b6de7b",
+            "content": {
+                "en": "Cod Palace."
+            }
+        },
+        {
+            "id": "w_e456bbe6ecddd9af0c2f40ac692e97a1a4d6966d",
+            "content": {
+                "en": "Cod Tier Gamzee."
+            }
+        },
+        {
+            "id": "w_153e430e9f01e6c8bfa0c2ed8a3d4e4cd3a7e801",
+            "content": {
+                "en": "Cosplay sex."
+            }
+        },
+        {
+            "id": "w_f9bda1da9a9f09d576848bdf1f62ec585043ab7a",
+            "content": {
+                "en": "Cosplayers who do photo shoots in bondage (God bless them)."
+            }
+        },
+        {
+            "id": "w_b83cbcc76148ff63631f7cedac4fb36e4b65b4d5",
+            "content": {
+                "en": "Crabdad."
+            }
+        },
+        {
+            "id": "w_26f4f2af84af62cd2a6bbbb2509b9406380f3e56",
+            "content": {
+                "en": "Cronus actually getting laid."
+            }
+        },
+        {
+            "id": "w_38d2fa4769a39a7ba6795fa2d7622bfa9d150eeb",
+            "content": {
+                "en": "Cronus Ampora."
+            }
+        },
+        {
+            "id": "w_e1ab962f171a10040003999755fd70c99cc99ae6",
+            "content": {
+                "en": "Dad Egbert\/Dad Crocker."
+            }
+        },
+        {
+            "id": "w_83a6b7d12f47e2836b1c40a74c3bd4c337b18efe",
+            "content": {
+                "en": "Dad&apos;s pipe."
+            }
+        },
+        {
+            "id": "w_74500394420264f92c6132d28626cd09774683f3",
+            "content": {
+                "en": "Damara Megido wearing white at her wedding."
+            }
+        },
+        {
+            "id": "w_dfccdaeb36929eda97acb2783918b2c615294c59",
+            "content": {
+                "en": "Damara Megido."
+            }
+        },
+        {
+            "id": "w_144948f206e7a9f408d3f2dad237bf910656ada2",
+            "content": {
+                "en": "Dante Basco."
+            }
+        },
+        {
+            "id": "w_ccea12285bd1658a8fbfb79185fb78906d64338c",
+            "content": {
+                "en": "Dating exclusively within the fandom."
+            }
+        },
+        {
+            "id": "w_b89afe148856f6a971086847e399bfdab8f458d8",
+            "content": {
+                "en": "Dave Strider."
+            }
+        },
+        {
+            "id": "w_a6433ae7a71380527241c83eb099568b7b234ee7",
+            "content": {
+                "en": "Dead parents."
+            }
+        },
+        {
+            "id": "w_1017eca1255c005f9bd07a965d5284457f489333",
+            "content": {
+                "en": "Destroying clocks."
+            }
+        },
+        {
+            "id": "w_f7af03dfbabfeee4a5485e273e08c667c3fada7c",
+            "content": {
+                "en": "Developing a deep fear of the sound of clown horns after becoming a Homestuck."
+            }
+        },
+        {
+            "id": "w_d6beb6df8ead6d74d804d10975a0d047ff02ff0d",
+            "content": {
+                "en": "Dirk Strider."
+            }
+        },
+        {
+            "id": "w_5d55bb3a6c77eb2fabeb1dce0f5c6a183d648fa5",
+            "content": {
+                "en": "Discovering Sollux is red-blue colorblind."
+            }
+        },
+        {
+            "id": "w_507a1eb1c22fdd38611ba65dae6b6541c6fc9757",
+            "content": {
+                "en": "Doc Scratch."
+            }
+        },
+        {
+            "id": "w_b86254ce5ba16086f3c83bb7f5bde952fce37ac8",
+            "content": {
+                "en": "Drawing pornography for Caliborn."
+            }
+        },
+        {
+            "id": "w_fc8e49af8370a7b42528dc29a292fd9c43d1335f",
+            "content": {
+                "en": "Elf tears."
+            }
+        },
+        {
+            "id": "w_6e8e4ee9b1b217f0746acd806095fefcd0eae135",
+            "content": {
+                "en": "Equius cumming so hard he blows a hole straight through his partner."
+            }
+        },
+        {
+            "id": "w_dec6722f9a0c5e2e3751f68a8af1e5a082404fe4",
+            "content": {
+                "en": "Equius Zahhak."
+            }
+        },
+        {
+            "id": "w_bb5a24ddd55f2745217bcfc595041a8622882805",
+            "content": {
+                "en": "Eridan Ampora."
+            }
+        },
+        {
+            "id": "w_67074bcf6e09639577ab953b75d75d2028e19885",
+            "content": {
+                "en": "Eridan crying after pailing Vriska for the first time."
+            }
+        },
+        {
+            "id": "w_a70d581a9840a86f779c30c9812887dcd6ea95c7",
+            "content": {
+                "en": "Eridan stripping to make rent."
+            }
+        },
+        {
+            "id": "w_03fc1dfc64ea123918d72059f0b2a0046a1adcbe",
+            "content": {
+                "en": "Falling into a pool of lava."
+            }
+        },
+        {
+            "id": "w_7613f52ffdb59c12edc32be98e9dc460ed990012",
+            "content": {
+                "en": "Fat Vriska."
+            }
+        },
+        {
+            "id": "w_ecf35433c592377ef9cab9d5e01d4bc972522e27",
+            "content": {
+                "en": "Faygo."
+            }
+        },
+        {
+            "id": "w_bdb90cf5cbb34a8bd1e1ffe34ccbd874bfa49229",
+            "content": {
+                "en": "Feferi Peixes."
+            }
+        },
+        {
+            "id": "w_1b5ecc3ff71d22275b4fd2390eeac9557bb0a9ed",
+            "content": {
+                "en": "Fiduspawn."
+            }
+        },
+        {
+            "id": "w_263d2d696bfc799ababe6ead50a1d21b49b94cae",
+            "content": {
+                "en": "Fifty fucking Nepetas."
+            }
+        },
+        {
+            "id": "w_fc5275034465b6ae6a2d76b9ff4b0ce349f9c3fb",
+            "content": {
+                "en": "Filling all of your quadrants."
+            }
+        },
+        {
+            "id": "w_07117aaf45a861e96e4b7c1b78db458d4dcdc58c",
+            "content": {
+                "en": "Finding grey paint on your bathroom door three weeks after the last meetup."
+            }
+        },
+        {
+            "id": "w_ee70b87c2c5b8a79ba398c0d324b58314e61478e",
+            "content": {
+                "en": "Fis)( puns!"
+            }
+        },
+        {
+            "id": "w_1c9a560c78e84749947196a58c992fac0586f779",
+            "content": {
+                "en": "Flighty broads."
+            }
+        },
+        {
+            "id": "w_813ef73a393b9f3bce98e57fc2f0649c77f4f032",
+            "content": {
+                "en": "Flipping the fuck out."
+            }
+        },
+        {
+            "id": "w_394aa0b3e81d38e9e5145831b882bac9b82adb56",
+            "content": {
+                "en": "Game Bro Magazine."
+            }
+        },
+        {
+            "id": "w_4df5dab87139d1ebaba5b8d9eb1404d0395d2b31",
+            "content": {
+                "en": "Gamzee Makara."
+            }
+        },
+        {
+            "id": "w_26805ecb317e768ff438ccbdcc68821c6b44bd27",
+            "content": {
+                "en": "Geromy."
+            }
+        },
+        {
+            "id": "w_5df57ac5335fe3cd83efa498889a919e4df64988",
+            "content": {
+                "en": "Getting forked by a 2x3dent."
+            }
+        },
+        {
+            "id": "w_6ecbb5ffc10b2858f26ed63162b709258bbaffcf",
+            "content": {
+                "en": "Going to the bark side."
+            }
+        },
+        {
+            "id": "w_7469c8d4df7f6c1947c88696d79c0d6968780e75",
+            "content": {
+                "en": "Grandpa Harley\/Grandma English."
+            }
+        },
+        {
+            "id": "w_3416493c96ccba17126bc000dafa9a5e9be7d18f",
+            "content": {
+                "en": "Grimbark Jade."
+            }
+        },
+        {
+            "id": "w_3b266abf52cdaf6127caed6edd7b42f7e21eeb04",
+            "content": {
+                "en": "Groincobblers."
+            }
+        },
+        {
+            "id": "w_5b81998dce33969d041e44bdfb89e818d8c919e5",
+            "content": {
+                "en": "Gross misinterpretations of your favorite character."
+            }
+        },
+        {
+            "id": "w_13af8a2b977a121ef4eeb15c5d9acf3f508c5729",
+            "content": {
+                "en": "Hateclown on the side."
+            }
+        },
+        {
+            "id": "w_5afa7795b2854041206d4e5375251fc1421ae72e",
+            "content": {
+                "en": "Having STRONG surprise buttsex."
+            }
+        },
+        {
+            "id": "w_c279a744f529c87d2e209ec34055c21ed0ec20d7",
+            "content": {
+                "en": "Hellmurder Island."
+            }
+        },
+        {
+            "id": "w_8ff3acf5a5147eafe706af82093257857936af8d",
+            "content": {
+                "en": "Hemostuck."
+            }
+        },
+        {
+            "id": "w_7518cd898a5b8133e41678caac7d79569a1920a8",
+            "content": {
+                "en": "Her Imperious Condescenscion."
+            }
+        },
+        {
+            "id": "w_0cd4abafb1813dbf28b8420aa103ffe1f6b7021d",
+            "content": {
+                "en": "Homesmut Voices."
+            }
+        },
+        {
+            "id": "w_8318ebcdecdafea380e8d0b8376430d568725e2c",
+            "content": {
+                "en": "Homestuck stealing all the fans from Hetalia and then subsequently watching all its fans leave for OFF and Danganronpa."
+            }
+        },
+        {
+            "id": "w_177addde748eebbbc41abcafc1a3ea4251c8a069",
+            "content": {
+                "en": "Homestuck."
+            }
+        },
+        {
+            "id": "w_b75668250a514e635ff99594a2d84fe1a9752a64",
+            "content": {
+                "en": "Homosuck."
+            }
+        },
+        {
+            "id": "w_ce9a2de83469d02974e777f2803164f60ed2f37f",
+            "content": {
+                "en": "HONK HONK, MOTHER FUCKER."
+            }
+        },
+        {
+            "id": "w_147cf481312084910016650a2c23433c01ba8cbc",
+            "content": {
+                "en": "Horsearoni."
+            }
+        },
+        {
+            "id": "w_f0034b544ac02df610d1a7d1e5b01ca3f3954d67",
+            "content": {
+                "en": "Horuss Zahhak."
+            }
+        },
+        {
+            "id": "w_4cb29628ec8fa8debf5ec757f2f60fd539052b4a",
+            "content": {
+                "en": "Hot crossplayers."
+            }
+        },
+        {
+            "id": "w_8404949a0c403ade6f1f3deec9bdca70371a272b",
+            "content": {
+                "en": "Hunk Rump Magazine."
+            }
+        },
+        {
+            "id": "w_62309a8e43ea6ba58422cf4fe7e4718746c7b124",
+            "content": {
+                "en": "Hussie constantly breaking copyright and then telling his fans to not break his copyright."
+            }
+        },
+        {
+            "id": "w_93eabb4fc64423bcdc0faaaabb73aa84ed62141f",
+            "content": {
+                "en": "Hussie constantly breaking copyright."
+            }
+        },
+        {
+            "id": "w_fbe555032c2524291ea68ad21a1945078a42b8fd",
+            "content": {
+                "en": "Hussie jacking it to our tears of anguish."
+            }
+        },
+        {
+            "id": "w_a7b4a41a03309ef217bbddc6429a8bd40a17e7b5",
+            "content": {
+                "en": "Jade Harley."
+            }
+        },
+        {
+            "id": "w_11ef791a401df4b7c4cf7db868f58c313ac2381c",
+            "content": {
+                "en": "Jailbreak."
+            }
+        },
+        {
+            "id": "w_6847f444a4eefb19ae28dba65c25357a93e3e3be",
+            "content": {
+                "en": "Jake English standing there like a fucking idiot."
+            }
+        },
+        {
+            "id": "w_8208f8e18815c44e58525123e688ddd30b642734",
+            "content": {
+                "en": "Jake English."
+            }
+        },
+        {
+            "id": "w_835ad5463a591bb05a659b779f3f3fd6a254fe5d",
+            "content": {
+                "en": "Jane Crocker."
+            }
+        },
+        {
+            "id": "w_8ad9db0b3515ccdf7b028010e9ba840b1acad828",
+            "content": {
+                "en": "John Egbert."
+            }
+        },
+        {
+            "id": "w_70ed7c5d543d5181147970cea15fdce21ccf9ab4",
+            "content": {
+                "en": "Just KNOWING that Slick is going to stab Ms. Paint."
+            }
+        },
+        {
+            "id": "w_52c6ee38b5a05f48f575011796f54c7ee8163541",
+            "content": {
+                "en": "Kanaya destroying Cantown."
+            }
+        },
+        {
+            "id": "w_95155754a4a2d1a36fe986d322aa3a74e02f743f",
+            "content": {
+                "en": "Kanaya Maryam."
+            }
+        },
+        {
+            "id": "w_be768c09926ed1705e2e6de2a2115d6943b6ff6b",
+            "content": {
+                "en": "Kanaya&apos;s ashen promiscuity."
+            }
+        },
+        {
+            "id": "w_5e16d76e230f242b956993608933e6d2461e687b",
+            "content": {
+                "en": "Kankri Vantas."
+            }
+        },
+        {
+            "id": "w_993f0153a2fe073551f92080fc8c0ee67033afe4",
+            "content": {
+                "en": "Karkat actually topping, for once."
+            }
+        },
+        {
+            "id": "w_4ffc504a9b8b6c567bd9e5463f69cc95a92c98f2",
+            "content": {
+                "en": "Karkat dying of a burst blood vessel mid-rant."
+            }
+        },
+        {
+            "id": "w_30c346a3cb1a3741e93c4757cbc9a00eb7d0ccaf",
+            "content": {
+                "en": "Karkat going through puberty before every other troll and being, like, nine feet tall."
+            }
+        },
+        {
+            "id": "w_94ce4dc1dd6c1c1397608d5d6a94a7dd58fbd149",
+            "content": {
+                "en": "Karkat Tantrum Bingo."
+            }
+        },
+        {
+            "id": "w_6ae0b8c2a58b46fa31ae0a09f573e111e87a7b57",
+            "content": {
+                "en": "Karkat Vantas."
+            }
+        },
+        {
+            "id": "w_5aeb8e22a9d9985a59e969e48b5e44fe6e8d0068",
+            "content": {
+                "en": "Kawaii Yaoi."
+            }
+        },
+        {
+            "id": "w_1f71caadee580ff2337d434d0c09aaf40f4bfad2",
+            "content": {
+                "en": "Kurloz Makara."
+            }
+        },
+        {
+            "id": "w_b48cd4ea798469aea0ee7faa1c72235551344c63",
+            "content": {
+                "en": "Lame bucket jokes."
+            }
+        },
+        {
+            "id": "w_08b4c3724e7810fcb0b5891c1d708b927922138c",
+            "content": {
+                "en": "Latula Pyrope."
+            }
+        },
+        {
+            "id": "w_ee5f7915c02d57080a9d5cd73a4c76e03ef773d2",
+            "content": {
+                "en": "Laying back and thinking of Alternia."
+            }
+        },
+        {
+            "id": "w_27c8bc0167fd9ebebad9ccadc505ea6b85a0c80a",
+            "content": {
+                "en": "Leprechaun m-preg."
+            }
+        },
+        {
+            "id": "w_c509bf2e94bc0fe1d0d8d67d711b2736f399dabf",
+            "content": {
+                "en": "Liberty. Reason. Justice. Civility. Edification. Perfection. MAIL."
+            }
+        },
+        {
+            "id": "w_1815763d9fca6ef8c496b1f9c1997f94a10e26a1",
+            "content": {
+                "en": "Lil' Cal&apos;s dead eyes."
+            }
+        },
+        {
+            "id": "w_5220151084ce1022acaf49be0944d05336802684",
+            "content": {
+                "en": "Little children who poop hard in their baby ass diapers."
+            }
+        },
+        {
+            "id": "w_03cd1f6cf0ca3e6d4c3009a0575182f516819dd8",
+            "content": {
+                "en": "Lord English."
+            }
+        },
+        {
+            "id": "w_61d6327526a48e53e180c98fd241de3fa855e5f1",
+            "content": {
+                "en": "Lucky Charms."
+            }
+        },
+        {
+            "id": "w_95b393ecb2bfe44af3512b318d34e0a36f5b95d3",
+            "content": {
+                "en": "Maid Equius."
+            }
+        },
+        {
+            "id": "w_1e800c6bd3aa27b7eecabd319b40a8696a6d1957",
+            "content": {
+                "en": "Maple Hoof."
+            }
+        },
+        {
+            "id": "w_6942ab19bd8c13846b8a1bf9e3d765b38529e430",
+            "content": {
+                "en": "March Eridan."
+            }
+        },
+        {
+            "id": "w_b80988917296d54c80613c6cc607214983fb948d",
+            "content": {
+                "en": "Masturbating while thinking of your OTP."
+            }
+        },
+        {
+            "id": "w_5412268dc1c69b45904003dd3a056505704da9c5",
+            "content": {
+                "en": "Maxing out your credit cards to buy Homestuck merchandise."
+            }
+        },
+        {
+            "id": "w_f1da820b7f944ab99a1aeaa9b73bb76c3befc435",
+            "content": {
+                "en": "Meenah Piexes."
+            }
+        },
+        {
+            "id": "w_a628ea31595a400c8884ba76bb7c7aebb2b9c424",
+            "content": {
+                "en": "Meulin Leijon."
+            }
+        },
+        {
+            "id": "w_c9701c02993dbce6d1ba30591570321c4978d5a2",
+            "content": {
+                "en": "Mierfa Durgas."
+            }
+        },
+        {
+            "id": "w_40d04bdfce9f91b4e1d66a3019c2fa2cd9fde83d",
+            "content": {
+                "en": "Mind honey."
+            }
+        },
+        {
+            "id": "w_ec6b3d432148e0d408cc32060e254bef44955239",
+            "content": {
+                "en": "Mister Dude, Sir Brah, Dood Dude, Vitamin D, Dude Esquire."
+            }
+        },
+        {
+            "id": "w_4ad389237a3098d66c45eedbe121fe3bb39fdbdd",
+            "content": {
+                "en": "Mituna Captor."
+            }
+        },
+        {
+            "id": "w_7ff87ab7020bf40b62ff85a318e27e3dbed38b05",
+            "content": {
+                "en": "MS Paint Adventures."
+            }
+        },
+        {
+            "id": "w_8df692c9afac65f9aa6811b704e016c6fd70b392",
+            "content": {
+                "en": "MSPARP."
+            }
+        },
+        {
+            "id": "w_0afaba074c780998e456e2add15cec2e78f6c3db",
+            "content": {
+                "en": "Murdering angels."
+            }
+        },
+        {
+            "id": "w_709f805779a4714e4947f88ceaa343ca6fb85611",
+            "content": {
+                "en": "Muscle beasts."
+            }
+        },
+        {
+            "id": "w_30e5c6470443796ed0d0dd0f0572ffd95f1df753",
+            "content": {
+                "en": "My Little Hoofbeast: Moirailigence Is Magic."
+            }
+        },
+        {
+            "id": "w_47a21d62b17e1e14aaf258eee98877b3a40da173",
+            "content": {
+                "en": "Nektan Whelan."
+            }
+        },
+        {
+            "id": "w_6d74c5b57c082d73ce74ad407b2886f660f16b7b",
+            "content": {
+                "en": "Neophyte Redglare."
+            }
+        },
+        {
+            "id": "w_3d5fbe28136db806f5ccf1d33733e987d9e3fa5b",
+            "content": {
+                "en": "Nepeta Leijon."
+            }
+        },
+        {
+            "id": "w_bebdfb1aea13d231641af8de10a5ef0d917db802",
+            "content": {
+                "en": "Nepeta violently mauling people with bad ships."
+            }
+        },
+        {
+            "id": "w_cfc7b8a001884d0138e9690067eedc26b721ce47",
+            "content": {
+                "en": "Never being able to look at apple juice, milk, buckets, or knitting needles without feeling a little bit uncormfortable."
+            }
+        },
+        {
+            "id": "w_96eac718eddeaa534943b0deed7e778b64b2fe2d",
+            "content": {
+                "en": "Never dating a Serket."
+            }
+        },
+        {
+            "id": "w_11dd3cd128dad4cf024b16b59b26da3578ed66a6",
+            "content": {
+                "en": "Nic Cage saying \"boner.\""
+            }
+        },
+        {
+            "id": "w_3f37b5fd2ae6a12980583701fc2cb34e85ab447a",
+            "content": {
+                "en": "No homo."
+            }
+        },
+        {
+            "id": "w_f5d68e2416becf806cc6e5fd3e20e436eaf55ad4",
+            "content": {
+                "en": "Noping the fuck out of there."
+            }
+        },
+        {
+            "id": "w_3bbd4bc174dd42744283441ada5ad00fa4043960",
+            "content": {
+                "en": "Not shipping it."
+            }
+        },
+        {
+            "id": "w_0590ed3fb464ee3dfca22b00bc5d2ee975ee0cd1",
+            "content": {
+                "en": "Nyehs and wwehs."
+            }
+        },
+        {
+            "id": "w_0c553837d05094f584c8e8bd16c649c47da405e6",
+            "content": {
+                "en": "Only cosplaying male characters when you get pregnant."
+            }
+        },
+        {
+            "id": "w_6f56b4aada312967cfa3807fc622e7087e4f6053",
+            "content": {
+                "en": "Overtaking entire conventions."
+            }
+        },
+        {
+            "id": "w_875536420125a51f2c3c39d4b322d4e6178cde2a",
+            "content": {
+                "en": "Paint splatters that look like troll cum."
+            }
+        },
+        {
+            "id": "w_62f71b758786aa2acb40f63a2e36c8186da2128b",
+            "content": {
+                "en": "PantsKat."
+            }
+        },
+        {
+            "id": "w_e776a4b1511c10976e48e43bf0b3db9521221d37",
+            "content": {
+                "en": "Paradox slime."
+            }
+        },
+        {
+            "id": "w_0e20b9a33cd29ed175ccb5948fee43bdd54911a8",
+            "content": {
+                "en": "Petstuck."
+            }
+        },
+        {
+            "id": "w_58b6baef0dea31d4f89286c6fa87ce3f3431f6bb",
+            "content": {
+                "en": "PipeFan413."
+            }
+        },
+        {
+            "id": "w_324c3619fe03016322db6f54170e710d76ed11dc",
+            "content": {
+                "en": "Plush Rump Magazine."
+            }
+        },
+        {
+            "id": "w_82080bf21049985ada55f2ca91af83a1ebc57f91",
+            "content": {
+                "en": "Plush rump."
+            }
+        },
+        {
+            "id": "w_8a2630e96fc992d4ad4c48b1c280b169a0a85e6a",
+            "content": {
+                "en": "Porrim Maryam."
+            }
+        },
+        {
+            "id": "w_6ee559dfcb298f7fa8b0b7e7e1255d4fc801a4ef",
+            "content": {
+                "en": "Porrim&apos;s condom stash."
+            }
+        },
+        {
+            "id": "w_f5546557d81b653b6dc820dc5ca32960aabc916c",
+            "content": {
+                "en": "Post-apocalyptic shroudwear."
+            }
+        },
+        {
+            "id": "w_f285b85c76128a6628fc8a395accae6a8f0d77a1",
+            "content": {
+                "en": "Problem Sleuth."
+            }
+        },
+        {
+            "id": "w_5201f0150f6ce00a5531e1a1d5a8ce78d2ab957d",
+            "content": {
+                "en": "Recuperacoon."
+            }
+        },
+        {
+            "id": "w_f6c3e929d190dc1cee01fc1cabe96d89be8a5b8e",
+            "content": {
+                "en": "Remembering that awkward time when Karkat called Future arachnidsGrip \"FAG.\""
+            }
+        },
+        {
+            "id": "w_ca0833fe8c809024e1295f12bdb4aaa028afcfb6",
+            "content": {
+                "en": "Rose and Kanaya snuggling."
+            }
+        },
+        {
+            "id": "w_efeb5fe0654ac14a052fcb5248cbda90a9cec7d9",
+            "content": {
+                "en": "Rose Lalonde."
+            }
+        },
+        {
+            "id": "w_d03dc8f0a66b8e943d5a6c7cc6116b63d8a93c71",
+            "content": {
+                "en": "Roxy Lalonde."
+            }
+        },
+        {
+            "id": "w_dd8212999990559849a5ee869f3e6476e07044f0",
+            "content": {
+                "en": "Rufio."
+            }
+        },
+        {
+            "id": "w_1020a4e629d346f32031eb44c98e75ce11ca448a",
+            "content": {
+                "en": "Rufioh Nitram."
+            }
+        },
+        {
+            "id": "w_0768df8635caafa09b32268ca3348e8d10620c6c",
+            "content": {
+                "en": "Sacred leggings."
+            }
+        },
+        {
+            "id": "w_237b183ed6d7ca53a5a6e0bd8f2d19a3e4c8a4ea",
+            "content": {
+                "en": "SBAHJ hentai doujinshi."
+            }
+        },
+        {
+            "id": "w_5320d0e1156e71edee87430236ab5e55d7488462",
+            "content": {
+                "en": "SCIENCE WAND!"
+            }
+        },
+        {
+            "id": "w_73881bf938cb2b114309791ecb178bed03b84d6c",
+            "content": {
+                "en": "Seadweller dick fins."
+            }
+        },
+        {
+            "id": "w_1ec098ffbb748c3e74814a3cd8ebcafb6b826c22",
+            "content": {
+                "en": "Selling your soul to Hussie."
+            }
+        },
+        {
+            "id": "w_3dbdf6560197ec36589e7624db58bd82d63a0cb6",
+            "content": {
+                "en": "Shippers."
+            }
+        },
+        {
+            "id": "w_137412c9946e83b8cbe015cc4aa9ea42cacc7b23",
+            "content": {
+                "en": "Shipping it."
+            }
+        },
+        {
+            "id": "w_329c004b516343e1bbd623083d8e729c7eee6007",
+            "content": {
+                "en": "Shipping the fuck out of something."
+            }
+        },
+        {
+            "id": "w_2f17d32a94d82e11dfb1b830a901b0ba3591b9bb",
+            "content": {
+                "en": "Ships ending in -cest."
+            }
+        },
+        {
+            "id": "w_f821512aebe5e65dc9bace5630a8908c3d0802ae",
+            "content": {
+                "en": "Shitty swords."
+            }
+        },
+        {
+            "id": "w_0aba614f5a3a60e0ea6b32e58861b983c760677d",
+            "content": {
+                "en": "Shopping with Terezi."
+            }
+        },
+        {
+            "id": "w_1abfd4b6375dbdae650d4538a7c7b877a0d05954",
+            "content": {
+                "en": "Sick fires."
+            }
+        },
+        {
+            "id": "w_103f597a0b4245671a604fd82e2aada721efa609",
+            "content": {
+                "en": "Skipping to Act 5."
+            }
+        },
+        {
+            "id": "w_9daebc2e7da86d2f1fb6e0b8b1ebd3181c1720e0",
+            "content": {
+                "en": "Sleeping ten people to a room at conventions."
+            }
+        },
+        {
+            "id": "w_9845ff93e0855d9935ad58b8efb593e7ac53dc29",
+            "content": {
+                "en": "Sloppy inter-species makeouts."
+            }
+        },
+        {
+            "id": "w_361badd60ee18d03ab4cbd08e01d3885368dcab6",
+            "content": {
+                "en": "Smuppets."
+            }
+        },
+        {
+            "id": "w_5724318bbd044e26928ef1111ae5df5079cca156",
+            "content": {
+                "en": "Sobbing uncontrollably while reading fanfiction."
+            }
+        },
+        {
+            "id": "w_dfb0ac3268998df569f2dedf73d18d4021f6be7d",
+            "content": {
+                "en": "Sollux Captor."
+            }
+        },
+        {
+            "id": "w_929486d2b86a967309ad2ec847f2b419eeeeca1c",
+            "content": {
+                "en": "Sopor pies."
+            }
+        },
+        {
+            "id": "w_0205f74811c98c1513c1a00fefb7b481101451a2",
+            "content": {
+                "en": "SORD."
+            }
+        },
+        {
+            "id": "w_ea465a8bbb81642de067383ca935f9beff0ae859",
+            "content": {
+                "en": "Soul portraits."
+            }
+        },
+        {
+            "id": "w_edde33756f95544f244f370c306d4e51f10ba00f",
+            "content": {
+                "en": "Species-swap fanfics."
+            }
+        },
+        {
+            "id": "w_96a10eb6184724015acbea9ee92fe2b3b579f6f3",
+            "content": {
+                "en": "Spidermom."
+            }
+        },
+        {
+            "id": "w_2d62d40211f1ef490e0c86a2b1c130915c7a2628",
+            "content": {
+                "en": "Staying up to three AM, cleaning the grey off every surface of your hotel room in a desperate bid to not get fined."
+            }
+        },
+        {
+            "id": "w_5ab45da973ff7300552a151f8fb1778f912fbaca",
+            "content": {
+                "en": "Stridercest."
+            }
+        },
+        {
+            "id": "w_8fd97a9f445ef1a840d5ae9e77a4b3621482986d",
+            "content": {
+                "en": "Sugoi Yuri."
+            }
+        },
+        {
+            "id": "w_efcc3696bd351a88ed60524c00601e4fdbc802d9",
+            "content": {
+                "en": "sweet bro and hell jeff."
+            }
+        },
+        {
+            "id": "w_616e61fdfb5c156ecd8f5bdecbe7016901787504",
+            "content": {
+                "en": "TAB."
+            }
+        },
+        {
+            "id": "w_0214a317710115c6a28e2b770bc333fe5b42206d",
+            "content": {
+                "en": "Tavros Nitram."
+            }
+        },
+        {
+            "id": "w_13c0fb434714b3c93ca232af0e662aa096d19e56",
+            "content": {
+                "en": "Telling Sollux what happens to male bees after sex."
+            }
+        },
+        {
+            "id": "w_b40b779b21949bdf77cd4ea3eafa45b0405e24a5",
+            "content": {
+                "en": "Tentabulges."
+            }
+        },
+        {
+            "id": "w_f851cb3cbef4dae981c1963af4e1543f55f4c33f",
+            "content": {
+                "en": "Tentative thank-you stabs."
+            }
+        },
+        {
+            "id": "w_facb4213207ac2824facc7bcd32d7d15a6ef3734",
+            "content": {
+                "en": "Terezi Pyrope."
+            }
+        },
+        {
+            "id": "w_80805affd9f12fc5e139aa41c485ecbf54e69913",
+            "content": {
+                "en": "That dead crow with the sword through it."
+            }
+        },
+        {
+            "id": "w_0c7f557e006d99985579a79dfd2c4c3215255123",
+            "content": {
+                "en": "That human vacation with the giant red chimney-ass-hole."
+            }
+        },
+        {
+            "id": "w_f15ffd63e9aeb5296d1aeb8cc2d1d746e457757a",
+            "content": {
+                "en": "That shitty apple."
+            }
+        },
+        {
+            "id": "w_77ce246c2781357ff73a2784abe3d709f4242372",
+            "content": {
+                "en": "That wonderful feeling when you take off your binder."
+            }
+        },
+        {
+            "id": "w_93bbd3d460974baee9bce566c43de22ce084329b",
+            "content": {
+                "en": "The \"special attachments\" we ALL know that Equius gave to AradiaBot."
+            }
+        },
+        {
+            "id": "w_d632ddbcccf4a2d198632cc8dc5d4185044983d5",
+            "content": {
+                "en": "The 7th Gate."
+            }
+        },
+        {
+            "id": "w_a821c1c33077e53488c39bd39d72899da86eed1d",
+            "content": {
+                "en": "The animes."
+            }
+        },
+        {
+            "id": "w_1405200b90345b6fd732b8b3ee573da87b884a3e",
+            "content": {
+                "en": "The Dildo of Oglogoth."
+            }
+        },
+        {
+            "id": "w_05809f75286de70edf10562ea8de6b965a384a88",
+            "content": {
+                "en": "The Disciple."
+            }
+        },
+        {
+            "id": "w_09f8a1e8b8d6d16664302e30064a84a1fcceeeaa",
+            "content": {
+                "en": "The Dolorosa."
+            }
+        },
+        {
+            "id": "w_d347e2541e2e186af57299d6473843699bad3f3a",
+            "content": {
+                "en": "The E%ecutor\/Expatri8 Darkleer."
+            }
+        },
+        {
+            "id": "w_19cd5eda71a85802aea451ee3ce9a7cfc5778323",
+            "content": {
+                "en": "The Exiles."
+            }
+        },
+        {
+            "id": "w_913975ba4042caeaad2ca65616cf0969c49ddd4b",
+            "content": {
+                "en": "The Felt."
+            }
+        },
+        {
+            "id": "w_6c01414ac6d2592f8f3640c1c925d2f854fda34b",
+            "content": {
+                "en": "The gays."
+            }
+        },
+        {
+            "id": "w_9d259fb06722a620ac0e0ce3acbf2e2a75d745b1",
+            "content": {
+                "en": "The glory that is BroJohn."
+            }
+        },
+        {
+            "id": "w_fdc88e747368d52d3958b88cb0d3857aef78fd31",
+            "content": {
+                "en": "The Grand Highblood."
+            }
+        },
+        {
+            "id": "w_f98a51c94ba6a18069a186770153e0d06e8decdf",
+            "content": {
+                "en": "The Great Hiatus of 2013."
+            }
+        },
+        {
+            "id": "w_d031037492cbb2261394939031a3bf74208ccb45",
+            "content": {
+                "en": "The green sun."
+            }
+        },
+        {
+            "id": "w_a6ef674512231f282d19b80116f5014ba715c8d9",
+            "content": {
+                "en": "The guy who fingered an Ampora."
+            }
+        },
+        {
+            "id": "w_bcd363b4adcb7ce2807b7955ed23ed588971cf6d",
+            "content": {
+                "en": "The Handmaid."
+            }
+        },
+        {
+            "id": "w_4e441e7385ed407dc1f4714dee0f1a699dcf3abe",
+            "content": {
+                "en": "The hemospectrum."
+            }
+        },
+        {
+            "id": "w_6a65bb8d5911e5972fbb56156ca81f38f243bbeb",
+            "content": {
+                "en": "The Hilarocaust."
+            }
+        },
+        {
+            "id": "w_a6ad914a4023f234164aa2d518d33bf325f3c666",
+            "content": {
+                "en": "The Homestuck drinking game (do a shot every time someone dies!)"
+            }
+        },
+        {
+            "id": "w_ed8428cb8c3d7a9f6657998d09a4009c5e64faf7",
+            "content": {
+                "en": "The Insane Clown Posse."
+            }
+        },
+        {
+            "id": "w_111c035b0c38e3fc864a143585de55bda1135ab9",
+            "content": {
+                "en": "The little red arm-swingy-dealy thing or whatever it is called."
+            }
+        },
+        {
+            "id": "w_237e345cfa7e7ee753bc7cea98cb002413d19a89",
+            "content": {
+                "en": "The Marquise Spinneret Mindfang."
+            }
+        },
+        {
+            "id": "w_2eef8dd4f1f109eb73f0f2f6484466632b6fa7a2",
+            "content": {
+                "en": "The Mayor."
+            }
+        },
+        {
+            "id": "w_51ad73ec778986f6f9ed4dc8ddf6a876eac56bab",
+            "content": {
+                "en": "The mere concept of the Olive Garden."
+            }
+        },
+        {
+            "id": "w_4c6f9802ecd8eed6ab547ae2e3037c9c256b248b",
+            "content": {
+                "en": "The Midnight Crew."
+            }
+        },
+        {
+            "id": "w_659e159ee8a13e4b99ca33ac60bfb90f9e0f5bd3",
+            "content": {
+                "en": "The noises Mituna makes during sex."
+            }
+        },
+        {
+            "id": "w_a8636425d23eb9683fdf304272aa67c9728e6f3d",
+            "content": {
+                "en": "The Orphaner Dualscar."
+            }
+        },
+        {
+            "id": "w_15b59f5ad0f0602b617fa6085d56488f26a3580f",
+            "content": {
+                "en": "The Psiionic."
+            }
+        },
+        {
+            "id": "w_b10578fd018cd33639e1701734b150284e1e11b4",
+            "content": {
+                "en": "The ridiculous fact that some people communicate without luminous rear ends."
+            }
+        },
+        {
+            "id": "w_ace10178a69ed8d08ba035115ef13d872bf66ccf",
+            "content": {
+                "en": "The Shipping Olympics."
+            }
+        },
+        {
+            "id": "w_787c25f90b163e937ceadf99f4a4905bc2b915aa",
+            "content": {
+                "en": "The significant purposes, biologically speaking, of troll nipples."
+            }
+        },
+        {
+            "id": "w_f73fff218a273d2d6c4ad6d2a7d1910671375355",
+            "content": {
+                "en": "The slammer."
+            }
+        },
+        {
+            "id": "w_a80698d9fb475a8818d1a8d2603b60bd8c48691f",
+            "content": {
+                "en": "The Sufferer\/The Signless."
+            }
+        },
+        {
+            "id": "w_e9fc64fe6ec92d41b5c64b84d7bdbe9cca8cae01",
+            "content": {
+                "en": "The Summoner."
+            }
+        },
+        {
+            "id": "w_fb088daa47800ab000b606389cf36e5d1c403b97",
+            "content": {
+                "en": "The sweat-drenched, rippling muscles of several truly majestically endowed hoofbeasts."
+            }
+        },
+        {
+            "id": "w_89b2548b0b36ef547eaba554ff5c550d6be1b514",
+            "content": {
+                "en": "The undeniable fact that Gamzee did nothing wrong."
+            }
+        },
+        {
+            "id": "w_22bf0f7280dac7fd9cdc0e64f8564a04d49ae9f4",
+            "content": {
+                "en": "The Wrinklefucker."
+            }
+        },
+        {
+            "id": "w_978369fa4652d469a3313d904604370dabb38203",
+            "content": {
+                "en": "Toilet displacement."
+            }
+        },
+        {
+            "id": "w_ab6278f9bfaa2596fb183b27c951f6344b89abe4",
+            "content": {
+                "en": "Topping from the bottom."
+            }
+        },
+        {
+            "id": "w_b3adb565463fa89549d3e9a950dd00aad1d9eb39",
+            "content": {
+                "en": "Triggers."
+            }
+        },
+        {
+            "id": "w_a7b765dd0b59362d3b7fbb99b547ceadf43074a1",
+            "content": {
+                "en": "Troll blood."
+            }
+        },
+        {
+            "id": "w_b0f6ccb4a468727acc6f0fef72a0aa162f6175f1",
+            "content": {
+                "en": "Troll horns."
+            }
+        },
+        {
+            "id": "w_8268009fb4bc080762bee4db6fbd8951ede99ddf",
+            "content": {
+                "en": "Troll Will Smith."
+            }
+        },
+        {
+            "id": "w_c71da669dc6c2e0cbe4e531ab7caa73176741797",
+            "content": {
+                "en": "Trolls misunderstanding what \"Bucket List\" means."
+            }
+        },
+        {
+            "id": "w_15b3d43edd9e03d29646c183fe3cc7d2b9e4ce49",
+            "content": {
+                "en": "Tumblr spoilers."
+            }
+        },
+        {
+            "id": "w_79d404eb2a4ba7f088e9b549c43cb8329f4c5a31",
+            "content": {
+                "en": "Tumblr user Egberts."
+            }
+        },
+        {
+            "id": "w_5f1a9b4b3a83e35fb53ff6db4848991fc9d0e62a",
+            "content": {
+                "en": "Tumblr user Pizza."
+            }
+        },
+        {
+            "id": "w_90238805b395efc3f76a92972f109dde163f7d8f",
+            "content": {
+                "en": "Tumblr."
+            }
+        },
+        {
+            "id": "w_0f4b2b3518d63bf4bb6047eed0114ae45832dada",
+            "content": {
+                "en": "Unreal air."
+            }
+        },
+        {
+            "id": "w_3404b7c5e007754ed59838849a4feb64007341e2",
+            "content": {
+                "en": "UPD8!!!!!!!!"
+            }
+        },
+        {
+            "id": "w_a31fe0facd64e787ea265bafc662cf39143ed913",
+            "content": {
+                "en": "UPS delivery woman Nepeta."
+            }
+        },
+        {
+            "id": "w_6db9b3335a066196809918d03fa9458638b188f5",
+            "content": {
+                "en": "Viceroy Bubbles von Salamancer."
+            }
+        },
+        {
+            "id": "w_e9c81f6c8eb7c85f21b9ca380c81b0f7ab30ec53",
+            "content": {
+                "en": "Violent Blackrom sex."
+            }
+        },
+        {
+            "id": "w_ed9ff1dd47ad01182987bb59b30860e87eeb08f8",
+            "content": {
+                "en": "Vodka Mutini."
+            }
+        },
+        {
+            "id": "w_2918b981fe119a541b80dcb61e1b9f30ce4a8c3f",
+            "content": {
+                "en": "Vodka."
+            }
+        },
+        {
+            "id": "w_106d28d3fed4b4694711fb988c4a169503a940c0",
+            "content": {
+                "en": "Vriska dying after being stabbed by Terezi."
+            }
+        },
+        {
+            "id": "w_137b26b255b9bd21a8439c61f80c1714e893832b",
+            "content": {
+                "en": "Vriska Serket."
+            }
+        },
+        {
+            "id": "w_983075acc4f01cb3e1a21a61f9f78da884b0f684",
+            "content": {
+                "en": "Warhammer of Zillyhoo."
+            }
+        },
+        {
+            "id": "w_1b57c855b34f73f8d5845a0e1a821a4810a0becc",
+            "content": {
+                "en": "What pumpkin?"
+            }
+        },
+        {
+            "id": "w_e24e61166c135cfbe93d65d76ea7a8dfcad9f07b",
+            "content": {
+                "en": "When your favorite character dies."
+            }
+        },
+        {
+            "id": "w_912bbead00b4b4cf9830e16e439db547a7356241",
+            "content": {
+                "en": "where MAKING THIS HAPEN"
+            }
+        },
+        {
+            "id": "w_c1de404a17c5fcd05055cc2c0364c31422b2f0f8",
+            "content": {
+                "en": "Willingly filling buckets with Eridan."
+            }
+        },
+        {
+            "id": "w_1978f5033be6121660a83facc20ebd18649d2e12",
+            "content": {
+                "en": "Wondering if Meenah has a pitch crush on John, what with the attempted stabbings."
+            }
+        },
+        {
+            "id": "w_f590d321c08040ae20f486096258019ffbc6f329",
+            "content": {
+                "en": "World building!"
+            }
+        },
+        {
+            "id": "w_1f84a238d933e31987e1b645bc578d6e8d0ca68a",
+            "content": {
+                "en": "Your 300 pound matronly freight-train."
+            }
+        },
+        {
+            "id": "w_07a63365eecd8ad806439b8c1eb544cae321d0fa",
+            "content": {
+                "en": "Your lusus giving you \"The Talk.\""
+            }
+        },
+        {
+            "id": "w_7b6662c44ad3ea53abbd60d74e2dd682e8f7f92a",
+            "content": {
+                "en": "Your Mary Sue fantroll."
+            }
+        },
+        {
+            "id": "w_9d5bf571083b4ebb638e6acae534211ca1031bbd",
+            "content": {
+                "en": "Your privilege."
+            }
+        },
+        {
+            "id": "w_de011af44470567888a2eff28ca18c44fe1df79e",
+            "content": {
+                "en": "Your significant other coming home and finding you in full grey cosplay."
+            }
+        },
+        {
+            "id": "b_ef4d7d915489c1bbdf8dca7a54b0710cd6d91747",
+            "content": {
+                "en": "\"Sacred leggings\" was a mistranslation. The Sufferer actually died in Sacred ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_68856f68b053c73dd99ef5ca91da6f219c077930",
+            "content": {
+                "en": "AG: Who needs luck when you have ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8c6525d6287ae48e527e116d6c50508b1974c185",
+            "content": {
+                "en": "All ______. All of it!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cf6e18017292208fad05d537e6548a143a3c1274",
+            "content": {
+                "en": "Calliborn wants you to draw pornography of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d64918952230ec7f59bdfde344eb555ce32f046c",
+            "content": {
+                "en": "Dave Strider likes ______, but only ironically."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_328c18647295d316488ed2c335424ed8b8dcf6aa",
+            "content": {
+                "en": "Equius beats up Eridan for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d7dcae1b9da3d888dad49d8960306240266b466",
+            "content": {
+                "en": "Feferi secretly hates ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b5a6ec486e59eb12a763afd1849bcc251a54996f",
+            "content": {
+                "en": "For his birthday, Dave gave John ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_43ae8a01d58872ec8a2cee56bc94542c34a71f33",
+            "content": {
+                "en": "Gamzee not only likes using his clubs for juggling and strifing, he also uses them for______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d3b25ab345c9814170f7953e83b643cc00c3081",
+            "content": {
+                "en": "Getting a friend to read Homestuck is like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0a522ee2109e476338c14a5a15b6068b6251420a",
+            "content": {
+                "en": "How do I live without ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5ae0035f677c832c789bd1ab5a5b4b9c9419d05",
+            "content": {
+                "en": "Hussie died on his quest bed and rose as the fully realized ______ of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_caddc589fa91f2f4048b238671ff8f4ca38cea7f",
+            "content": {
+                "en": "Hussie unintentionally revealed that Homestuck will end with ______ and ______ consummating their relationship at last."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0cdf119efbb0f78e56eba9d91efa204200980e37",
+            "content": {
+                "en": "I finally became Tumblr famous when I released a gifset of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_036de5d771cbddb90517ff00364d6e12bc897712",
+            "content": {
+                "en": "I just found ______ in my closet it is like fucking christmas up in here."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0cd88619de299969fba61ce06cc10d493afbc26d",
+            "content": {
+                "en": "I warned you about ______, bro! I told you, dog!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ce3a7bfcacac6f95c401ea467bb7e7231c3e34e4",
+            "content": {
+                "en": "In the final battle, John distracts Lord English by showing him ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0ab95a5717fa67b4c95e1fe42cdf9b98c206669",
+            "content": {
+                "en": "John is a good boy. And he loves ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_25e9aea15f934d4fe0148dcde575b2843982d0be",
+            "content": {
+                "en": "John may not be a homosexual, but he has a serious thing for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab86452043be0eba68c4a559241d77ca7edde5f4",
+            "content": {
+                "en": "Kanaya tells Karkat about ______ to cheer him up."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_938f18c78e344b7f489c08d113f0e2977fc5c445",
+            "content": {
+                "en": "Karkat gave our universe ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_132632421a96d797b45026a0588044f16ddf165c",
+            "content": {
+                "en": "Latula and Porrin have decided to teach Kankri about the wonders of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5b73512c002dfdbd8532ba0d9781506468ec2d96",
+            "content": {
+                "en": "Little did they know, the key to defeating Lord English was actually ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0db5caf25cb1e0981ada550ac02b60882e0437df",
+            "content": {
+                "en": "Nanna baked a cake for John to commemorate ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_51f3cc19e7172b73a5a44b2010f94b22c29ea035",
+            "content": {
+                "en": "Nepeta only likes Karkat for his ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0c6df4911b8bd1bf0b3185bbff152dbe40cce2f",
+            "content": {
+                "en": "Porrim made Kankri a sweater to cover his ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e4a6aefd7feee1a4518f65cd033b9cff23ba0696",
+            "content": {
+                "en": "Problem Sleuth had a hard time investigating ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fbd818b1c407c466a003914b4e6310eba8f3c6b6",
+            "content": {
+                "en": "Rose was rather disgusted when she started reading about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5b497c4b18fd54ae45b3b4ecbc230cb62960dc1",
+            "content": {
+                "en": "Terezi can top anyone except ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac94cab19c7f61b65663314a7f7978ce52a6c02b",
+            "content": {
+                "en": "The next thing Hussie will turn into a sex joke will be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a99e9f9a1cd1c0cd53cc3e211fdd34ba4e9c737a",
+            "content": {
+                "en": "The only way to beat Vriska in an eating contest is to put ______ on the table."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c984a1bfd02e5f4f9b54c53746a899e1541d9e90",
+            "content": {
+                "en": "The real reason Terezi stabbed Vriska was to punish her for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33470168e348a5641386073d4a665f43c250c676",
+            "content": {
+                "en": "The secret way to achieve God Tier is to die on top of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bd25ea8b53122066094a57ff52fce46f13dfd046",
+            "content": {
+                "en": "The thing that made Kankri break his vow of celibacy was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cce8b4fe1c685fcaea77e6ae917ac09cd238f1ad",
+            "content": {
+                "en": "Turns out, pre-entry prototyping with ______ was not the best idea."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_006c0fbf35121978b31d35fbdf01c360ea1334df",
+            "content": {
+                "en": "Vriska killed Spidermom with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_65085a2a61b9892f5a4117229fa4fce78e1494db",
+            "content": {
+                "en": "Vriska roleplays ______ with Terezi as ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9c0bcacb55401417834d72c0a9a197b124a3cce0",
+            "content": {
+                "en": "Wear ______. Be ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1bb65fbc1a23bc3839a67db1e87314fe98a39f1d",
+            "content": {
+                "en": "What did Jake get Dirk for his birthday?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bfde1bb82c78d64d42952066a38ed48db1d472c",
+            "content": {
+                "en": "What is the worst thing that Terezi ever licked?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b330bfed6c6db19b65dfa5b35f3f4a8a82a3ad9b",
+            "content": {
+                "en": "What is your OT3? (Draw 2, play 3.)"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_74f5d906be7117541f5894424fba35a9c436e101",
+            "content": {
+                "en": "What makes your kokoro go \"doki doki\"?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de6ab8dc932dcc14b827a6c913b87533c33996cd",
+            "content": {
+                "en": "What&apos;s in the box, Jack?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78dec7e8fd5b75846a9a2ce58c215b45cc5a212a",
+            "content": {
+                "en": "When a bucket is unavailable, trolls with use ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0e91d9dc9bf6cad8a10407e1f57b98be7163ab7",
+            "content": {
+                "en": "When Dave received ______ from his Bro for his 9th birthday, be felt a little warm inside."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6a3823de770dd7da881e3445b959501eb3f8c7bc",
+            "content": {
+                "en": "Whenever I see ______ on MSPARP, I disconnect immediately."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_23246346ef56255e398bf786367dd7586c28d234",
+            "content": {
+                "en": "where doing it man. where MAKING ______ HAPEN!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ad01248d1dce860b4b008dcea85ef3b51990707f",
+            "content": {
+                "en": "Your name is JOHN EGBERT and boy do you love ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_246675685774dccd4ffce8398908101832ba3f17",
+            "content": {
+                "en": "______ makes the Homestuck fandom uncomfortable."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a6e9a9346e69b02e1810878ed2f1deb3a7acb24",
+            "content": {
+                "en": "______ stays awake at night, crying over ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3ecae11823a56adeda25418f55d6614244b625c9",
+            "content": {
+                "en": "______ totally makes me question my sexuality."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b9b193dd984e1dc141130a616ad580ffbebf09b",
+            "content": {
+                "en": "______. It keeps happening!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_92fdd7dab8be9aab6445c2f30c600af0f2920f3c",
+            "content": {
+                "en": "______. On the roof. Now."
+            },
+            "pick": 1
+        }
+    ]
+}

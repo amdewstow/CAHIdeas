@@ -1,0 +1,618 @@
+{
+    "id": "Cards_Against_My_Sanity",
+    "name": "Cards Against My Sanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_fad4f5dc7efac7c6158380eadc9f5e56b35b6c05",
+            "content": {
+                "en": "A blow comb."
+            }
+        },
+        {
+            "id": "w_eafe12faa8d27a8792e15efd6457cf5d59ef0912",
+            "content": {
+                "en": "A case of Hulkamania being the reason you killed someone."
+            }
+        },
+        {
+            "id": "w_52ad2c194d42cb4e83a9818db6645f39730c9008",
+            "content": {
+                "en": "A customer with literally a million questions."
+            }
+        },
+        {
+            "id": "w_f6bb63977cb5061d5c7cad3912199e51d7722967",
+            "content": {
+                "en": "A fucking awesome epidural."
+            }
+        },
+        {
+            "id": "w_6e88e77fb0319c2d27a748d3ba532577937073f2",
+            "content": {
+                "en": "A glass coffee table."
+            }
+        },
+        {
+            "id": "w_a8292bfe2e626fc0e3494925473d3115753d8f18",
+            "content": {
+                "en": "A good samaritan&apos;s deep dark secret."
+            }
+        },
+        {
+            "id": "w_e6abf616999e87be69abac76609dc15e23c4a036",
+            "content": {
+                "en": "A lesbian ironically getting pleasure from a dildo."
+            }
+        },
+        {
+            "id": "w_c0f7a1910aa6aac8618007ad812d18bb95144d28",
+            "content": {
+                "en": "A scrawny spinster."
+            }
+        },
+        {
+            "id": "w_09cff74e78ccabc24d3ebded8e12738ef267e206",
+            "content": {
+                "en": "A slightly butch Eydie Gorm&Atilde;&copy;"
+            }
+        },
+        {
+            "id": "w_212761864d9a847bcb271e15d241c5d593f6a20f",
+            "content": {
+                "en": "Actually getting robbed on the highway."
+            }
+        },
+        {
+            "id": "w_ce034007698b8d002a30512c7ae44c72e5216a98",
+            "content": {
+                "en": "Alopecia."
+            }
+        },
+        {
+            "id": "w_b9452a237346c306405a001957b28d3ebf292c3e",
+            "content": {
+                "en": "Applauding a relative taking a turn for the worse."
+            }
+        },
+        {
+            "id": "w_79a153bc798fd44684062a42a0a897daafed95f9",
+            "content": {
+                "en": "Ass pimples."
+            }
+        },
+        {
+            "id": "w_b2447e35a67d8b9f9b61287b108d13b7fa69095b",
+            "content": {
+                "en": "Band camp."
+            }
+        },
+        {
+            "id": "w_e1c346981e355832d83f3cee263cce31f7e564c3",
+            "content": {
+                "en": "Beanie Babies."
+            }
+        },
+        {
+            "id": "w_e62850e80f6ee6f0a1f2756d29e5453b14907e9f",
+            "content": {
+                "en": "Beefy feminists."
+            }
+        },
+        {
+            "id": "w_96a1d35fc3d81596f1e9f0c7392fd2ef43b074ab",
+            "content": {
+                "en": "Being a surprisingly decent backseat driver."
+            }
+        },
+        {
+            "id": "w_0e10bbb99ff28dab585e4f49d973d94fec9eedfe",
+            "content": {
+                "en": "Being on the tallest row of seats at a baseball game and attempting to aim your pee towards home plate."
+            }
+        },
+        {
+            "id": "w_2069d6dfe26fc35b3f43a28810766b0d99dae0cf",
+            "content": {
+                "en": "Being the caboose of a train."
+            }
+        },
+        {
+            "id": "w_5ab9802a3e43c0e18f9bc41257f4cfda7019e65e",
+            "content": {
+                "en": "Being the DUFF."
+            }
+        },
+        {
+            "id": "w_fba7e289ae064f1f2df388f640a0d9b9a75432f6",
+            "content": {
+                "en": "Being the only person playing Runescape."
+            }
+        },
+        {
+            "id": "w_d818d18e51c80313996c907110fb7f6f3d914179",
+            "content": {
+                "en": "Believing in that fairytale where bisexuals exist."
+            }
+        },
+        {
+            "id": "w_e7950405a5313c66a2a45a153fbd725378f11523",
+            "content": {
+                "en": "Burning your bra."
+            }
+        },
+        {
+            "id": "w_790057f67a317a143c5c5a60580e52aa40da5d91",
+            "content": {
+                "en": "Charro."
+            }
+        },
+        {
+            "id": "w_79621cb3881db8f45573b1cdd6e0c152ac6dc20e",
+            "content": {
+                "en": "Chuck Barry."
+            }
+        },
+        {
+            "id": "w_158d5998bfd9d471aa59844ab3a05d6720ad85e0",
+            "content": {
+                "en": "Churros."
+            }
+        },
+        {
+            "id": "w_afd183a2d5fe0096ba70fa2b4bfb2e1a47e596ae",
+            "content": {
+                "en": "Cussing until the children explode."
+            }
+        },
+        {
+            "id": "w_e1532c798f4572fe5469ae97a88d7d52460d089c",
+            "content": {
+                "en": "Diabetes testing supplies."
+            }
+        },
+        {
+            "id": "w_8ebb9209da48c126901723e99bbc7fcefceb6bfe",
+            "content": {
+                "en": "Ebony people."
+            }
+        },
+        {
+            "id": "w_65b0544784e999ff7f126e0a0f8d0c43887250c9",
+            "content": {
+                "en": "Eliminating the party-crashers by any means necessary."
+            }
+        },
+        {
+            "id": "w_df71e9f7e2421e401fc416a1fe55d626172999ad",
+            "content": {
+                "en": "Epic Charizard-on-Pikachu hentai."
+            }
+        },
+        {
+            "id": "w_877e80e245581cae58cd5651532f982d25e37274",
+            "content": {
+                "en": "Explaining to your friends why you are still playing Yu-Gi-Oh! in your 50's."
+            }
+        },
+        {
+            "id": "w_8f71985cdae8368241556e7dedfcffe11897a0a3",
+            "content": {
+                "en": "Farting in the microwave."
+            }
+        },
+        {
+            "id": "w_6daa54ec4035734af59612f819bfa3d4325de637",
+            "content": {
+                "en": "Flipping off toddlers and running away."
+            }
+        },
+        {
+            "id": "w_137c63db6f0b3852e8bf165b1db0b81a2e8d223f",
+            "content": {
+                "en": "Fucking on top of a gantry crane."
+            }
+        },
+        {
+            "id": "w_37c6b39ba3cc645d64d24999ea7a12ab6e023db6",
+            "content": {
+                "en": "Gay birds."
+            }
+        },
+        {
+            "id": "w_dadf5c108fce1ae2b0eb5c7b0529a8575e5694d6",
+            "content": {
+                "en": "Gordon the Big Blue Engine."
+            }
+        },
+        {
+            "id": "w_b5d34004f1ff4e6a8039a983b000edc61d5fb459",
+            "content": {
+                "en": "Gummy vitamins."
+            }
+        },
+        {
+            "id": "w_7e8457a099babdcddd7e2a71a75fcdfbc921a9b3",
+            "content": {
+                "en": "Gypsies, tramps, and theives."
+            }
+        },
+        {
+            "id": "w_0fb7a07d27a0a527731cbc9c5ef01b6f373e1119",
+            "content": {
+                "en": "Having a lengthy erotic conversation with a bot on a dating website, without realizing it was a fake profile."
+            }
+        },
+        {
+            "id": "w_14f3b76d52bf5975105a2b280ce7ce4ce8c71b1a",
+            "content": {
+                "en": "Having a trap door on your porch."
+            }
+        },
+        {
+            "id": "w_fd4d814cde50e720626a99b503082446afc8c0e7",
+            "content": {
+                "en": "Having an actual pencil for a dick."
+            }
+        },
+        {
+            "id": "w_1c488b0df11c4e5a938d8067a3793ee4b6ddafd8",
+            "content": {
+                "en": "Having DSLs."
+            }
+        },
+        {
+            "id": "w_6ad6fa2d77a8d2661232f05ca3a2f3de55461cae",
+            "content": {
+                "en": "Hijacking Meals on Wheels."
+            }
+        },
+        {
+            "id": "w_dd189283efaa3251999c5f4881914b17aabd50e6",
+            "content": {
+                "en": "Identifying as a \"bottom.\""
+            }
+        },
+        {
+            "id": "w_8ff79d49d24ad13dc132bf98ff2c45cecb431e76",
+            "content": {
+                "en": "Identifying as a \"top.\""
+            }
+        },
+        {
+            "id": "w_4bd293f8cc7f0e026481d18d3077249f7bc60aab",
+            "content": {
+                "en": "Iggy Azalea."
+            }
+        },
+        {
+            "id": "w_4018f01b5b6156d6bf0c13a29bf7abd0af2f9391",
+            "content": {
+                "en": "Insufficient funds."
+            }
+        },
+        {
+            "id": "w_f659c7022b711af90f40d60c769878728d5c1e8c",
+            "content": {
+                "en": "Intense arm wrestling."
+            }
+        },
+        {
+            "id": "w_7a1d0604e77dc80a9e3db935bbd471f524faae22",
+            "content": {
+                "en": "Irreversible brain damage."
+            }
+        },
+        {
+            "id": "w_eadf13bad96f3fa414acc1db112225dfb4c2a266",
+            "content": {
+                "en": "Lisa Lampanelli."
+            }
+        },
+        {
+            "id": "w_0ffb63b58b4764cc17397b48d449ae3cb62c24b3",
+            "content": {
+                "en": "Listening to grandma crying in her bedroom with your ear to the door without her knowledge."
+            }
+        },
+        {
+            "id": "w_70a3756ef59538ea276fc601fee3436d1cae2fb1",
+            "content": {
+                "en": "Making sure all the personalities consent."
+            }
+        },
+        {
+            "id": "w_d54f3a866a4dee36b5559434ef6e78313f79ef86",
+            "content": {
+                "en": "Motorboating."
+            }
+        },
+        {
+            "id": "w_a693d3dd17f3269db07601f9d81b5af29a06b8b3",
+            "content": {
+                "en": "My so-called life."
+            }
+        },
+        {
+            "id": "w_f54379ae113f301481430ed09cd51d0882b4ef41",
+            "content": {
+                "en": "Noodles."
+            }
+        },
+        {
+            "id": "w_253ee50dea810ceea25f0a5a1ccdbe345f33e659",
+            "content": {
+                "en": "OJ Simpson watching The Simpsons."
+            }
+        },
+        {
+            "id": "w_7a5b079add9aa7e1664bc7da17e739722dd88341",
+            "content": {
+                "en": "Overpowering a leper colony."
+            }
+        },
+        {
+            "id": "w_61515e52d45a94ce948cd31ac8e7a971cafdc3ee",
+            "content": {
+                "en": "Picking your nose with scissors."
+            }
+        },
+        {
+            "id": "w_3360e008d2bd5abec8be0d8fbeec9f1f6ef0982a",
+            "content": {
+                "en": "Pistol whipping a farmer."
+            }
+        },
+        {
+            "id": "w_883b934d312e11bc1d360efd6229941be8aef1ee",
+            "content": {
+                "en": "Rap lyrics."
+            }
+        },
+        {
+            "id": "w_96ca36bc87fdd00b76efd154842c892e39b47c8c",
+            "content": {
+                "en": "Scallions."
+            }
+        },
+        {
+            "id": "w_110d6cd23ec149222a43963fa41fb6eb9511c87c",
+            "content": {
+                "en": "Secretly jacking off in line at the DMV 'til completion, twice."
+            }
+        },
+        {
+            "id": "w_50610db5c56892737e7e8984b7ff2189542b4213",
+            "content": {
+                "en": "Shop-lifting."
+            }
+        },
+        {
+            "id": "w_be3f2e5931db61cc247578641eb00af425255248",
+            "content": {
+                "en": "Shurikens."
+            }
+        },
+        {
+            "id": "w_436b12dc0c0400957dd247cc90960c3598571eb7",
+            "content": {
+                "en": "Snuff porn."
+            }
+        },
+        {
+            "id": "w_da6688e41725541dc1b6c43464803c5fd6f74aa2",
+            "content": {
+                "en": "Soiled bedsheets."
+            }
+        },
+        {
+            "id": "w_7e84968e92816b4f424476a598891d7181311cbf",
+            "content": {
+                "en": "Still having a dedicated MySpace page."
+            }
+        },
+        {
+            "id": "w_0e40da27e6e3cea9bc298abd4068f97d29b5eab1",
+            "content": {
+                "en": "Streaking."
+            }
+        },
+        {
+            "id": "w_34be86bdc794c39e57668eca7c4878a73ca507c4",
+            "content": {
+                "en": "Taping your eyes closed."
+            }
+        },
+        {
+            "id": "w_adeb1a1f7816941db5ba8de4463e15ba40718436",
+            "content": {
+                "en": "Telling a St. Olaf story."
+            }
+        },
+        {
+            "id": "w_283c031b4d2a8c9c01ef2239cb786c69f4817253",
+            "content": {
+                "en": "The Black Friday Massacre."
+            }
+        },
+        {
+            "id": "w_f3dc5b2254b5c7a449abb2e77b3d6195ed86b007",
+            "content": {
+                "en": "The Chilean Miners Playgirl Calendar."
+            }
+        },
+        {
+            "id": "w_a00c5d106d92539b2acb4fa3ec298f17b6a91d2e",
+            "content": {
+                "en": "The entire cast of MST3K."
+            }
+        },
+        {
+            "id": "w_3892fc33e16ebf9e905c6cd7472194cde86d3ec8",
+            "content": {
+                "en": "The Ghost of Billy Mays."
+            }
+        },
+        {
+            "id": "w_332eec1f00da853ffdda67d909fd26030105b631",
+            "content": {
+                "en": "The porn parody of The 700 Club."
+            }
+        },
+        {
+            "id": "w_b76a341f651c87becd16def4efdfa82f7d59147a",
+            "content": {
+                "en": "Too much hot sauce."
+            }
+        },
+        {
+            "id": "w_c036fbf7ab8cbabdf3daf652f29bc9bdb9d7d1d7",
+            "content": {
+                "en": "Trapazoids."
+            }
+        },
+        {
+            "id": "w_e68d6df3b43df0008a8e4ef9ab8719bd11b4dbdc",
+            "content": {
+                "en": "Urine breath."
+            }
+        },
+        {
+            "id": "w_a9fe7eab391c25057b1c3fc54dda0396d9c4890d",
+            "content": {
+                "en": "Using apple sauce as a lube."
+            }
+        },
+        {
+            "id": "w_b047a28d3fd41bc7267f01abe98436b9cd0dfd80",
+            "content": {
+                "en": "Using mustard as cologne."
+            }
+        },
+        {
+            "id": "w_cf53910a97d039bc52730c8c1cda43d69d554368",
+            "content": {
+                "en": "Wriggling in a puddle of treacle."
+            }
+        },
+        {
+            "id": "w_2fa46fb6a5c4bac44698d5805c3fab68ed4e4dae",
+            "content": {
+                "en": "Your unhealthy Taco Bell obsession."
+            }
+        },
+        {
+            "id": "w_0392fbad9f61f2b2ed7a0efc7417983f2690d717",
+            "content": {
+                "en": "Zsa Zsa Gabor&apos;s mammoth cuntlips."
+            }
+        },
+        {
+            "id": "b_5955f6e0a89a6959cf1feadd59ac41ce9247803e",
+            "content": {
+                "en": "At the last family reunion, everyone gathered around the living room and watched home videos of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_acbaf9ff2bfe430ab8fb1adef04ebb65098df48b",
+            "content": {
+                "en": "I finally discovered that the secret ingredient in my grandmother&apos;s pasta sauce is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1bd8a926628373a75816a9af58b15283c93318b9",
+            "content": {
+                "en": "I hope I&apos;m not late to ______ class today! Professor ______ will kill me!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a44d325dc60b7b5f32d34e29c902097e95a062e2",
+            "content": {
+                "en": "I never liked ______ because I have had better experiences with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_16fd0ddb4ef62e3b33d78635ca2703737312acf0",
+            "content": {
+                "en": "I've decided my screen name on OkCupid will be ______ and ______ put together."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ed752f104e1558aff52c62bfa1ee08529b685801",
+            "content": {
+                "en": "It was bound to happen. ______ has taken over the world."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_caa8d926f16010f97d80deb0366345c5d7b4cee9",
+            "content": {
+                "en": "Live from New York! It&apos;s ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e1088ef44e02134533df0e5f3cbd9135b5a012c",
+            "content": {
+                "en": "My neighbor is a suspicious fellow. This morning I saw him dumping ______ into his trashcan."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d14fef75d7f0e08e78975a4b9c642971b022a5e4",
+            "content": {
+                "en": "Nothing says \"I love you\" like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_54c96151f206bd4594322a08cf2806a6bfe86e12",
+            "content": {
+                "en": "On The Price is Right, you have a chance to win ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bcb4b26d1da6fbb6aa02ae9a285cbc0f07e2f200",
+            "content": {
+                "en": "The last time I went to the State Fair, I saw an outdoor exhibit on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f0c19e0bcd56d539e3dc58cceffd988e33b418e",
+            "content": {
+                "en": "Today on the Howard Stern Show: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a59cfbec5425ef3b0bb71ca72a66cd549a17535e",
+            "content": {
+                "en": "What put an abrupt end to the funeral?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_05802026e6e97006354579ee41f41420f60e7837",
+            "content": {
+                "en": "What was the last thing you whispered into your date&apos;s ear?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d73444e969f3d1f343e4f1dc8910d063bed6f853",
+            "content": {
+                "en": "______ always makes me laugh every time I see it."
+            },
+            "pick": 1
+        }
+    ]
+}

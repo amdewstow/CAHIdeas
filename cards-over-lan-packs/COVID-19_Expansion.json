@@ -1,0 +1,5995 @@
+{
+    "id": "COVID_19_Expansion",
+    "name": "COVID-19 Expansion",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_f9e68fbf9452a52f4b32a68209ef95c340f01bce",
+            "content": {
+                "en": "$1,200 Trump Bucks."
+            }
+        },
+        {
+            "id": "w_639af51905595d95ecb4f2ae7f601b8d31f37aaa",
+            "content": {
+                "en": "20 tons of bat shit."
+            }
+        },
+        {
+            "id": "w_69037f6a1a0eaae28feea86209e44b8aef680342",
+            "content": {
+                "en": "24-hour media coverage."
+            }
+        },
+        {
+            "id": "w_cf0bc533fb8de3db78f979be0e4ec018c852bf56",
+            "content": {
+                "en": "29 minutes of a rat-faced Englishman telling me sad facts."
+            }
+        },
+        {
+            "id": "w_044031148053b2a55be8b20c02cc40d70ddc2ed8",
+            "content": {
+                "en": "400 of the required 30,000 ventilators."
+            }
+        },
+        {
+            "id": "w_9bc8f4d919db8bae47a9196b34666a7e8ea8cada",
+            "content": {
+                "en": "50 mg of Zoloft daily."
+            }
+        },
+        {
+            "id": "w_734885cd9751f8a2e1c69d5654f7b91ea12eaa1a",
+            "content": {
+                "en": "A 3% mortality rate."
+            }
+        },
+        {
+            "id": "w_2685bc59c34a023c8e3576bb88a731cc1979d5e3",
+            "content": {
+                "en": "A 55-gallon drum of hand sanitizer."
+            }
+        },
+        {
+            "id": "w_76393ce1961c080d364ec6e4b6a2f5cf1f723aa2",
+            "content": {
+                "en": "A 7-hour decontamination bath."
+            }
+        },
+        {
+            "id": "w_195d0bf74475d1d71cbc60e6faa8c2290301f527",
+            "content": {
+                "en": "A bad time to be a libertarian."
+            }
+        },
+        {
+            "id": "w_45499de0ba7b593b0e10c9ad8fb20c2107e7bb11",
+            "content": {
+                "en": "A barn that&apos;s perfect for storing human bodies."
+            }
+        },
+        {
+            "id": "w_fff4d72d532e9dcab8fd32aa1cae4eba8d399a8a",
+            "content": {
+                "en": "A bidet."
+            }
+        },
+        {
+            "id": "w_1fe0f912f2d03b6be845246e04b1c41067301860",
+            "content": {
+                "en": "A bunker full of canned goods and ammunition."
+            }
+        },
+        {
+            "id": "w_94955452b94a4d929981f7ec4d295283c346c0b1",
+            "content": {
+                "en": "A Catholic priest that actually respects boundaries for once."
+            }
+        },
+        {
+            "id": "w_baf2197182794bd2c44c7fdd912c5c268150a196",
+            "content": {
+                "en": "A cloud of joylessness and aerosolized virus particles that slowly encompasses the earth."
+            }
+        },
+        {
+            "id": "w_16b515dcaa863ff1ba4930a2c6ccd59bab5449d5",
+            "content": {
+                "en": "A cold and indifferent universe."
+            }
+        },
+        {
+            "id": "w_197edabf8447b9d59ebe794041b34568f5e39a90",
+            "content": {
+                "en": "A complete inability to understand anyone else&apos;s perspective."
+            }
+        },
+        {
+            "id": "w_8867abb9dbc50ceefba165947ea0b37e0f23fcf2",
+            "content": {
+                "en": "A compromised immune system."
+            }
+        },
+        {
+            "id": "w_3d25465d7b58aceb5c6c2bc18583f33fdc02df3e",
+            "content": {
+                "en": "A cough and a sudden urge to travel."
+            }
+        },
+        {
+            "id": "w_d1d83e6881a04f4cfd15558041e627d535be8974",
+            "content": {
+                "en": "A cure for Coronavirus."
+            }
+        },
+        {
+            "id": "w_e87f7b7ba8b25449745521f47440c2abbfb4cb82",
+            "content": {
+                "en": "A dark future full of troubles."
+            }
+        },
+        {
+            "id": "w_5935f9b66d00c1c93550800aa6af62347e9ee33a",
+            "content": {
+                "en": "A dead guy."
+            }
+        },
+        {
+            "id": "w_543b5b3d24eec597e3851b52b9be9936342fbe54",
+            "content": {
+                "en": "A deserted stretch of highway."
+            }
+        },
+        {
+            "id": "w_05841558ad688528f44648b9c0edf2fef5fa936d",
+            "content": {
+                "en": "A doctor shortage."
+            }
+        },
+        {
+            "id": "w_4710ade3e3d0be87a0d70ee47701da9836b32006",
+            "content": {
+                "en": "A dream team of our nation&apos;s greatest scientific minds and Mike Pence for some reason."
+            }
+        },
+        {
+            "id": "w_94b3705cc15101a652e5b487e4a19ccda77aa80b",
+            "content": {
+                "en": "A father and son fighting each other over the last scrap of bread."
+            }
+        },
+        {
+            "id": "w_d3b59f46f75a50b100111c641e017b13c58f8b28",
+            "content": {
+                "en": "A freshly-sorority-less sorority girl."
+            }
+        },
+        {
+            "id": "w_98ab0a978d698cd8098c0d5463a90c5bd424eddd",
+            "content": {
+                "en": "A full pantry, a warm bed, and advanced plumbing."
+            }
+        },
+        {
+            "id": "w_25626d44f922a290eba73c2c1c87c73d2e78b534",
+            "content": {
+                "en": "A full-on panic attack."
+            }
+        },
+        {
+            "id": "w_c9b95191e40a4077396bac88ea7d6316f2b3fde7",
+            "content": {
+                "en": "A fun, sexy, fatal time at Miami Beach."
+            }
+        },
+        {
+            "id": "w_40cd18bec65fc3e98bba660bc2c96c037aa5c82b",
+            "content": {
+                "en": "A funeral home dumpster that&apos;s unfortunately full."
+            }
+        },
+        {
+            "id": "w_f75ceded4fa7afbef01031de75df331147c9862c",
+            "content": {
+                "en": "A global pandemic."
+            }
+        },
+        {
+            "id": "w_015809dc823c1c87e0a8c6c10aae9b13cb0a0c91",
+            "content": {
+                "en": "A gnawing sense of dread."
+            }
+        },
+        {
+            "id": "w_95de5fb8a7e14b5f5bce4b5267123b04766723ff",
+            "content": {
+                "en": "A grandma-sized coffin."
+            }
+        },
+        {
+            "id": "w_6870d4cb3ee82567f23ef424cb53b3212fcf4924",
+            "content": {
+                "en": "A grocery store receipt that would suggest I am a single man who loves Cheetos and pooping."
+            }
+        },
+        {
+            "id": "w_cab476f3debe5ffc56484bafb309d2b173fdf8f6",
+            "content": {
+                "en": "A hazmat suit full of farts."
+            }
+        },
+        {
+            "id": "w_0c752319f15517e5a8d262d577fbedb779686ee2",
+            "content": {
+                "en": "A hooker with a heart of gold and a severe case of COVID-19."
+            }
+        },
+        {
+            "id": "w_88cee9c62814697c5be761da98fff47d978807ad",
+            "content": {
+                "en": "A lab mouse that simply refuses to die."
+            }
+        },
+        {
+            "id": "w_4e1231fdf9b473b374c74090a609a46b89254db3",
+            "content": {
+                "en": "A law that allows factories to dump toxic waste into children&apos;s mouths."
+            }
+        },
+        {
+            "id": "w_631184c11f9777702cf4838ccb8cac03cab997ba",
+            "content": {
+                "en": "A legitimate reason to commit suicide."
+            }
+        },
+        {
+            "id": "w_0b3843a844fc3974c4a66ef89585c5d3a7deffd5",
+            "content": {
+                "en": "A liberal bias."
+            }
+        },
+        {
+            "id": "w_218d9bdb1b31f0ec91c07570f495f14d4e8b295e",
+            "content": {
+                "en": "A life expectancy of five days."
+            }
+        },
+        {
+            "id": "w_3a112ece3c798f08b582fc0570e7a0f82ffaa8b1",
+            "content": {
+                "en": "A lifetime of sadness."
+            }
+        },
+        {
+            "id": "w_d8277d4973ee653782d37abd24f7355b6f1e8398",
+            "content": {
+                "en": "A living wage."
+            }
+        },
+        {
+            "id": "w_4b274cc09133aa68944c178fc6d2a0f79d73b55d",
+            "content": {
+                "en": "A lone tumbleweed silently drifting down a vacant city block."
+            }
+        },
+        {
+            "id": "w_9ae2d43776673aeffafa2a3fc05d17c19587ac0f",
+            "content": {
+                "en": "A long Zoom meeting with no obvious purpose."
+            }
+        },
+        {
+            "id": "w_c57cfa33a082d5f0f6758288c0919887721ea9e6",
+            "content": {
+                "en": "A long, hard day of not being able to find work."
+            }
+        },
+        {
+            "id": "w_34972d21cb34e3197f6e35d94ca57a5827f107ab",
+            "content": {
+                "en": "A long, unforgiving quarantine."
+            }
+        },
+        {
+            "id": "w_9febcd021c2f07e820987c7d9a8875d9a49c6fe6",
+            "content": {
+                "en": "A low standard of living."
+            }
+        },
+        {
+            "id": "w_4ac408b13f5a631feb4c1bd7088ca757d451df24",
+            "content": {
+                "en": "A motherfucking flamethrower."
+            }
+        },
+        {
+            "id": "w_b9da0efab87d0f076aaea13a84801cbf974579fe",
+            "content": {
+                "en": "A never-ending homework load."
+            }
+        },
+        {
+            "id": "w_fdeb8dac629e017fa8046abbefa88c744ea847a3",
+            "content": {
+                "en": "A night alone with the kids."
+            }
+        },
+        {
+            "id": "w_2384c145a7df0a9c32d99a415d080742c5f3b226",
+            "content": {
+                "en": "A nurse but he&apos;s a man."
+            }
+        },
+        {
+            "id": "w_dd35eac10f10858d704bd6678954351bc54837fc",
+            "content": {
+                "en": "A penny, a chip, and a used napkin."
+            }
+        },
+        {
+            "id": "w_9084e3fca3624a3d756cad77ac5b7b11abadfb53",
+            "content": {
+                "en": "A perfectly secluded lake-side cabin where I can ride this thing out in peace."
+            }
+        },
+        {
+            "id": "w_02611117808c8b07998d602bbe1c07d21fde98d6",
+            "content": {
+                "en": "A plague unto our people."
+            }
+        },
+        {
+            "id": "w_989c8dd8f42924f0e78a5b08799ca34089c0f22e",
+            "content": {
+                "en": "A plentiful toilet paper that gives splinters called tree bark."
+            }
+        },
+        {
+            "id": "w_c5a7657102698998bd65fe54cbaf61b14a8f0e11",
+            "content": {
+                "en": "A poop emergency."
+            }
+        },
+        {
+            "id": "w_562102a5bb1909427b72e0b769fe0ab66f4eab3a",
+            "content": {
+                "en": "A possible Chinese person."
+            }
+        },
+        {
+            "id": "w_f1f2429801a80a68119bf9419fa2bc48905f0008",
+            "content": {
+                "en": "A president who is just as fat and stupid as I am."
+            }
+        },
+        {
+            "id": "w_bda393bde9623f635e23106341c57802293fd8ab",
+            "content": {
+                "en": "A protracted siege."
+            }
+        },
+        {
+            "id": "w_f25b0fea807bd7e74b6acbf18e8ba9f943e9208a",
+            "content": {
+                "en": "A proud first responder."
+            }
+        },
+        {
+            "id": "w_aa15524c46eb792d40aa1140f4e1bb7f808270a7",
+            "content": {
+                "en": "A radical rethinking of employment-based healthcare."
+            }
+        },
+        {
+            "id": "w_374ab72bb0f7f5929f23ece258d0781ca11881cf",
+            "content": {
+                "en": "A rat with Coronavirus and a little hat."
+            }
+        },
+        {
+            "id": "w_39b6aade051c7721ff39a935a2527ea41f43635c",
+            "content": {
+                "en": "A real bitch of a situation."
+            }
+        },
+        {
+            "id": "w_c6f8af51e7e7d525277165ee4e3b128ba7ebe03d",
+            "content": {
+                "en": "A severe breach of the Hippocratic oath."
+            }
+        },
+        {
+            "id": "w_4ea084684b9a440c2611c6f0550ed98a750a943a",
+            "content": {
+                "en": "A short dance so you won't think about the pandemic for 10 minutes."
+            }
+        },
+        {
+            "id": "w_68af3c5a7c1feb4c3182b3ab85a3cc8e1e477b3c",
+            "content": {
+                "en": "A single-payer healthcare system."
+            }
+        },
+        {
+            "id": "w_6b4a402fd88ba16ad4747668e80e51d924accd99",
+            "content": {
+                "en": "A slow death."
+            }
+        },
+        {
+            "id": "w_85f47f308bf64c220605ff0290b7411554de69fb",
+            "content": {
+                "en": "A sterile, joyless, bland existence."
+            }
+        },
+        {
+            "id": "w_63d6c74a0a9b23bb44185aba8f9df05e287ba712",
+            "content": {
+                "en": "A test kit."
+            }
+        },
+        {
+            "id": "w_ef64178125b59a2f25e816618177d626f4234e95",
+            "content": {
+                "en": "A tired and emotional mother of three."
+            }
+        },
+        {
+            "id": "w_3d594274c41c9767630db82d8d81af7b2e649b1e",
+            "content": {
+                "en": "A toxic family environment."
+            }
+        },
+        {
+            "id": "w_3111b945dcd59e588a1e355e2b8d23426fd15def",
+            "content": {
+                "en": "A trillion-dollar stimulus package."
+            }
+        },
+        {
+            "id": "w_b3136a14a5a1e58a86687eac57bebead25b09c36",
+            "content": {
+                "en": "A vastly superior healthcare system."
+            }
+        },
+        {
+            "id": "w_190cd5b212abed3590015096c3e09aba0f96fa07",
+            "content": {
+                "en": "A very dead baby."
+            }
+        },
+        {
+            "id": "w_63595c1f019100e1ecc8b5ec2d07d2502d646a16",
+            "content": {
+                "en": "A video of a naked woman telling me nice things so I can masturbate despite my stress levels."
+            }
+        },
+        {
+            "id": "w_123d37d887e27ee1cfe1beff6a2a5085405828ae",
+            "content": {
+                "en": "A way to live that is stable and satisfying called &lsquo;moving to Canada\u2019."
+            }
+        },
+        {
+            "id": "w_93bebf7ab3cf1ef2c2a451b040b7a2ebfa8c3d69",
+            "content": {
+                "en": "A web of lies."
+            }
+        },
+        {
+            "id": "w_e9314e5c4a7378b6858bfdd02a59e298956e9268",
+            "content": {
+                "en": "A zero-risk way to make $1,200 from home."
+            }
+        },
+        {
+            "id": "w_d3aaf05e1e3f86f57ddb91343a16e84f281c7f70",
+            "content": {
+                "en": "A Zoom sext."
+            }
+        },
+        {
+            "id": "w_eb2dd99002f67a405266257ccb496f982bd85d20",
+            "content": {
+                "en": "Absolute certainty that I don't have Coronavirus."
+            }
+        },
+        {
+            "id": "w_3b0df19b0390b607b6303a3c45c9f7162f8a4a15",
+            "content": {
+                "en": "Accepting the way things are."
+            }
+        },
+        {
+            "id": "w_1b63df322728d88e4060adfd855702024ab2949c",
+            "content": {
+                "en": "Accidentally broadcasting an NSFW video to 5,000 people."
+            }
+        },
+        {
+            "id": "w_0de64c9f99e8a2b8d1d49bc0ef8c1bfc4b59eab6",
+            "content": {
+                "en": "Actually contributing to this household instead of just sitting on your lazy ass all day watching Gilmore Girls reruns."
+            }
+        },
+        {
+            "id": "w_a2d9ba204a925a43e9b6c35600c082d9aa8226da",
+            "content": {
+                "en": "Actually dying."
+            }
+        },
+        {
+            "id": "w_7762a4a4e0f103dabfa97eee9e0d6398f29c6aab",
+            "content": {
+                "en": "Adequate medical equipment."
+            }
+        },
+        {
+            "id": "w_eee9a189caf38f372a3ffc6e64c636a59687d22a",
+            "content": {
+                "en": "Advocating for the deaths of 2.2 million Americans."
+            }
+        },
+        {
+            "id": "w_ecee95f03e216bdb99f50fbaf889f8eaa477f4b1",
+            "content": {
+                "en": "Alienating my family members."
+            }
+        },
+        {
+            "id": "w_bc03017aba840531781437b6f4ddaa1474109aff",
+            "content": {
+                "en": "All but like 12 Americans living in poverty."
+            }
+        },
+        {
+            "id": "w_21f5ab993545fd6c2b92366309f99e6ce2cac9da",
+            "content": {
+                "en": "All my dead hopes and dreams."
+            }
+        },
+        {
+            "id": "w_3997a8607c7ae66c754b6b5dd8946a2c15f6f9f2",
+            "content": {
+                "en": "All my dead sisters."
+            }
+        },
+        {
+            "id": "w_b62753506ede791289c25999523f7f9ac3be2b40",
+            "content": {
+                "en": "All my friends dying."
+            }
+        },
+        {
+            "id": "w_5083272159142ae9773cc135c62fffe917350bf1",
+            "content": {
+                "en": "All of us. At home all day. Staring at the walls. Looking for answers."
+            }
+        },
+        {
+            "id": "w_b04fe302614bb9894aa82226d2aff144b16a8819",
+            "content": {
+                "en": "All the bacteria in a Chuck-E-Cheese."
+            }
+        },
+        {
+            "id": "w_03edb0832a4b090310d9d086d9f5cf19c342d8fd",
+            "content": {
+                "en": "All these dead bodies."
+            }
+        },
+        {
+            "id": "w_f24ce7c1d6da2a873620dbccfb51bda982174abd",
+            "content": {
+                "en": "Allowing mother nature to do her thing."
+            }
+        },
+        {
+            "id": "w_69faac46505eeec8cd396f974efe271dcf396856",
+            "content": {
+                "en": "America&apos;s crumbling healthcare system."
+            }
+        },
+        {
+            "id": "w_28d7b8cca5b8e4650a9f03df0d9c90d8155dec44",
+            "content": {
+                "en": "An abandoned Kmart parking lot just before dawn."
+            }
+        },
+        {
+            "id": "w_8aa7bec2ff4e42ef22a7ac38d18d2c3b2331b97d",
+            "content": {
+                "en": "An alternate universe in which Coronavirus has successfully eliminated all human life."
+            }
+        },
+        {
+            "id": "w_0dea8429d565981aca7a9170bbc0e7f4e73f26a3",
+            "content": {
+                "en": "An angry, vengeful God."
+            }
+        },
+        {
+            "id": "w_923b77d0abaa2fd7d74a229da6b93d50aa3d5417",
+            "content": {
+                "en": "An Asian, I think."
+            }
+        },
+        {
+            "id": "w_3951523075997ab2afefaa16868e99adb41877e2",
+            "content": {
+                "en": "An entrenched class system."
+            }
+        },
+        {
+            "id": "w_843e115e4dc32d676f998e657858e7f71f553de7",
+            "content": {
+                "en": "An especially moist handshake."
+            }
+        },
+        {
+            "id": "w_cf0369333d9e5d1c13bc9e2d460d293ad8530970",
+            "content": {
+                "en": "An extremely fast-acting and convenient way to die called Coronavirus."
+            }
+        },
+        {
+            "id": "w_f7b195d44c6eda82b61b01e99d2875be234ad1bb",
+            "content": {
+                "en": "An Italian meatball with the singular drive to kill."
+            }
+        },
+        {
+            "id": "w_2714a195e989091ce95ca4b94a6a83fd497f88d4",
+            "content": {
+                "en": "An old guy who&apos;s almost dead."
+            }
+        },
+        {
+            "id": "w_d83eae4dccff34bbbf07d816c7552bf2249e62d0",
+            "content": {
+                "en": "An old man passing away on a gurney."
+            }
+        },
+        {
+            "id": "w_5f837053be8434e155f6bc66a53ea7bb0d3cb3f1",
+            "content": {
+                "en": "An old man who just died."
+            }
+        },
+        {
+            "id": "w_b7624e298173d345aecea8adce1459e389944f87",
+            "content": {
+                "en": "An old people&apos;s home with little or no old people left."
+            }
+        },
+        {
+            "id": "w_58268d04003348a0fe55da836688af5415ddac88",
+            "content": {
+                "en": "An older man."
+            }
+        },
+        {
+            "id": "w_f9bce097a7aa828fde4ec8309ad9c9d82d9ba77d",
+            "content": {
+                "en": "An unexpected end to America\u2019s school shooting epidemic."
+            }
+        },
+        {
+            "id": "w_3b7e7b6e87a7befd367c0ffb9a2139241bb9820d",
+            "content": {
+                "en": "An unfortunate parade of misery."
+            }
+        },
+        {
+            "id": "w_4ac7278b7735021f5e9ca62b887b9adc6c4898be",
+            "content": {
+                "en": "Andrew Cuomo."
+            }
+        },
+        {
+            "id": "w_b9e9640869262cf5185c5e6bbfa962c152e1ab8d",
+            "content": {
+                "en": "Another shit hitting a fan situation."
+            }
+        },
+        {
+            "id": "w_529221e81c9e0dc1b31e4abcf603a1891d7f7274",
+            "content": {
+                "en": "Another shitty year."
+            }
+        },
+        {
+            "id": "w_dfa14ceb93d9e3360246042d79b56efb5dbe22fe",
+            "content": {
+                "en": "Anti-vaxxers."
+            }
+        },
+        {
+            "id": "w_8117c06e9448057aa4ccf9e4860b78665987fed1",
+            "content": {
+                "en": "Anything Asian."
+            }
+        },
+        {
+            "id": "w_5e9c71769bca3eaf856980bde32de2e0c9d3142b",
+            "content": {
+                "en": "Asia."
+            }
+        },
+        {
+            "id": "w_4593afc3185946f1f51c9d97ea0dc8b7de5ac855",
+            "content": {
+                "en": "Asians who aren't good at math."
+            }
+        },
+        {
+            "id": "w_01ec3ac56e2b7b05dd760659edc673a3b392955e",
+            "content": {
+                "en": "Ass eating."
+            }
+        },
+        {
+            "id": "w_0715e22a693c50cbaaab38882b0a07fd1458bbd0",
+            "content": {
+                "en": "Ass to mouth."
+            }
+        },
+        {
+            "id": "w_6169ca10f5cf003f8db76924e40e66248a2047fb",
+            "content": {
+                "en": "Asymptomatic spread."
+            }
+        },
+        {
+            "id": "w_aacb3c076371b0b21aa99d751f372c1a5a35dabc",
+            "content": {
+                "en": "Bad emotions I don't want."
+            }
+        },
+        {
+            "id": "w_8feb2b6a5094c5a9cb3ca81cc8e990b0314959f8",
+            "content": {
+                "en": "Baffling incompetence."
+            }
+        },
+        {
+            "id": "w_b524d9eb69391ef4b640ba31c7e0dd9f5bbea28f",
+            "content": {
+                "en": "Bearing with me as I learn how to use this new technology."
+            }
+        },
+        {
+            "id": "w_6828359b3e53f6e06d1064b791ecd16da0310105",
+            "content": {
+                "en": "Becoming increasingly concerned."
+            }
+        },
+        {
+            "id": "w_156610cf9011b1faf25af34f19a397fbd5d21c51",
+            "content": {
+                "en": "Becoming sad forever."
+            }
+        },
+        {
+            "id": "w_7d858fa524920b7fd02b5ef3fd074df531a5ff20",
+            "content": {
+                "en": "Being a busy adult with many important things to do."
+            }
+        },
+        {
+            "id": "w_4f98ee8f72bfdb59f87a6dd741d0dace08a9b536",
+            "content": {
+                "en": "Being a little more appreciative."
+            }
+        },
+        {
+            "id": "w_b1becccd43bffcf83b9c56f7da6406bac4843dde",
+            "content": {
+                "en": "Being a slave to the capitalist system."
+            }
+        },
+        {
+            "id": "w_3da0cb2409b9193279899b5114f94f35bb58c420",
+            "content": {
+                "en": "Being blind but having super strength but having Coronavirus but being invisible."
+            }
+        },
+        {
+            "id": "w_5623c77be9f1d0af7ecd7e68f141caa6f7853a85",
+            "content": {
+                "en": "Being Canadian."
+            }
+        },
+        {
+            "id": "w_6aac2522a158712a4bb38670d56a122d55f863de",
+            "content": {
+                "en": "Being chosen by God to die of Coronavirus."
+            }
+        },
+        {
+            "id": "w_c57b3f67bcd8b6faef1acf9a98e97398ddc9384a",
+            "content": {
+                "en": "Being horny and sad."
+            }
+        },
+        {
+            "id": "w_8c462b52be6beacf2626ce84e03c96c5d7ce66b5",
+            "content": {
+                "en": "Being in a constant state of anxiety."
+            }
+        },
+        {
+            "id": "w_c55cb2f4145e0eff4c992152e28fdbc8ae5ef36b",
+            "content": {
+                "en": "Being knowledgeable in a narrow domain that nobody understands or cares about, such as virology."
+            }
+        },
+        {
+            "id": "w_5e015f7baeb8b63a88362e1e5a32789bea404862",
+            "content": {
+                "en": "Being locked in a dog cage for a couple of days until we\u2019re sure there\u2019s no symptoms."
+            }
+        },
+        {
+            "id": "w_32a45fe542e1d4b39999b3f6bb6caad173a42c32",
+            "content": {
+                "en": "Being so sad all the time."
+            }
+        },
+        {
+            "id": "w_73a9b92718d6ab1e865d9851f912cc8dfd719c62",
+            "content": {
+                "en": "Being thankful your mom is alive and kicking."
+            }
+        },
+        {
+            "id": "w_c55d217c7e8cdb793b1de83d960ce1bdaed1d676",
+            "content": {
+                "en": "Being too old for this shit."
+            }
+        },
+        {
+            "id": "w_f00102bba6ce685175efaabce45f1235fcf4a9af",
+            "content": {
+                "en": "Being totally out of touch with the rest of the world."
+            }
+        },
+        {
+            "id": "w_6e27f96a9fad1cd7b2eb9504882e3392e4c33fc2",
+            "content": {
+                "en": "Being young and in love in New York City."
+            }
+        },
+        {
+            "id": "w_7d6a1aac6c9a247c3ac463181559554aef8ae61f",
+            "content": {
+                "en": "Being young and living in New York City."
+            }
+        },
+        {
+            "id": "w_b44a3e5d88d8b18cd1ee8dc2005e81f583065090",
+            "content": {
+                "en": "Big Beefy baseball boys that are gone."
+            }
+        },
+        {
+            "id": "w_b99953c205d09e63aa67b8bd981d3b89eaf39c2f",
+            "content": {
+                "en": "Big business, man."
+            }
+        },
+        {
+            "id": "w_50995972ef1067c9a21393ab2eb1c8cc4190acce",
+            "content": {
+                "en": "Big Italian women making the spicy sauce and dying of Coronavirus."
+            }
+        },
+        {
+            "id": "w_1a7a49d6726068e9d26740d4fed8b47d3015d7f7",
+            "content": {
+                "en": "Big pharma."
+            }
+        },
+        {
+            "id": "w_87f54377d126901896c27e4e4a5abe5843c20d36",
+            "content": {
+                "en": "Big, smart money boys tap-tapping on their keyboards and tanking the stock market."
+            }
+        },
+        {
+            "id": "w_a941df7d38dd30cfe6f6bf3472ce795be1712600",
+            "content": {
+                "en": "Bingeing and purging."
+            }
+        },
+        {
+            "id": "w_0d0c3a691aa262f18d52d7261fd06ece583bdbeb",
+            "content": {
+                "en": "Bingo night!"
+            }
+        },
+        {
+            "id": "w_9f76d459816aa453f5ff875aeae66d5a9007852f",
+            "content": {
+                "en": "Biochemical warfare."
+            }
+        },
+        {
+            "id": "w_ecc689dfc131fb439c9cd5ec4fc45b734a48bf39",
+            "content": {
+                "en": "Blaming the victim."
+            }
+        },
+        {
+            "id": "w_bf971b5fedf69a943a63b951465419db6a5c36dc",
+            "content": {
+                "en": "Blatant disregard of FDA regulations."
+            }
+        },
+        {
+            "id": "w_e60ae25ef1ab5802ed083968528ca3b58dd2c02d",
+            "content": {
+                "en": "Blowing up a hospital."
+            }
+        },
+        {
+            "id": "w_6241c60c098907e1382552c4a67a35e65f3c74cf",
+            "content": {
+                "en": "Boarded up buildings."
+            }
+        },
+        {
+            "id": "w_8b10a910fc6281f29d2c89ed41b8987084dcf191",
+            "content": {
+                "en": "Burying my only son."
+            }
+        },
+        {
+            "id": "w_fe345e609367d281c4103998b0dbb15b70719251",
+            "content": {
+                "en": "Bustin' into tears."
+            }
+        },
+        {
+            "id": "w_29270de7274571799b89f6699e856a7deec9626e",
+            "content": {
+                "en": "Buying all the Chef Boyardee in order to survive."
+            }
+        },
+        {
+            "id": "w_3f870c70fd8a8ec38875fd517fe0cd46d0399a04",
+            "content": {
+                "en": "Buying and returning clothes just to have someone to talk to."
+            }
+        },
+        {
+            "id": "w_745f3371fa2b598887c881d325df19019256e676",
+            "content": {
+                "en": "Buying healthcare stock and laughing all the way to the bank."
+            }
+        },
+        {
+            "id": "w_b377f55825941032ab67103ff23ebdebe7abbc6f",
+            "content": {
+                "en": "Buying virtual clothes for a Sim family instead of real clothes for a real family."
+            }
+        },
+        {
+            "id": "w_e57e4ece0c184358ace10e37bb4ac2d777b0c8af",
+            "content": {
+                "en": "Calculating the next masturbation window."
+            }
+        },
+        {
+            "id": "w_712c26ac1cb098db8f397979f420304b42c79181",
+            "content": {
+                "en": "Calling mom because it&apos;s just really hard and I miss her and I don't know anyone here."
+            }
+        },
+        {
+            "id": "w_d0bfdbb69a299a03af839bc52fc354acfe0250f7",
+            "content": {
+                "en": "Calling out my own name and slapping my own ass."
+            }
+        },
+        {
+            "id": "w_883479ceb54785943e0073327bd34834446fcfc3",
+            "content": {
+                "en": "Cards Against Humanity."
+            }
+        },
+        {
+            "id": "w_d7417cc4f10727fabb1a861b0f6ddd587c2827d2",
+            "content": {
+                "en": "Caring."
+            }
+        },
+        {
+            "id": "w_b8d94dedf13c8c6864c7a2e5fe004b0cf13932fa",
+            "content": {
+                "en": "Casual dismissiveness."
+            }
+        },
+        {
+            "id": "w_3252429d2fc3163c4482d936febbf5d6b8903bb2",
+            "content": {
+                "en": "Catching Coronavirus from an airport glory hole."
+            }
+        },
+        {
+            "id": "w_ad5b052d47232e8007cd4288545575bacc458bfd",
+            "content": {
+                "en": "Catching Coronavirus."
+            }
+        },
+        {
+            "id": "w_ec6399c10b2d28decab4ab0f026f1f78f1ef9bbf",
+            "content": {
+                "en": "Catching new and mysterious diseases from a dead bat."
+            }
+        },
+        {
+            "id": "w_cd56a492b9bad2fe842222ce0717e1220cc11b4e",
+            "content": {
+                "en": "Catching pneumonia and dying."
+            }
+        },
+        {
+            "id": "w_83c35b98be07d57ba94482cc012a178a82fc832e",
+            "content": {
+                "en": "Ceasing to breathe."
+            }
+        },
+        {
+            "id": "w_7d148244702cf26827b9d1c2870624c4641c1d5e",
+            "content": {
+                "en": "Charades!"
+            }
+        },
+        {
+            "id": "w_5b9eb04a24a10cbf815440774589021818681f16",
+            "content": {
+                "en": "Cheap cruise tickets."
+            }
+        },
+        {
+            "id": "w_f934830812d17b4abd8ce4f77af94f337e3b6736",
+            "content": {
+                "en": "Cheating at Solitaire like a fucking loser."
+            }
+        },
+        {
+            "id": "w_62aef5a5740417aaf688efed567c092842d91ffb",
+            "content": {
+                "en": "Child abuse."
+            }
+        },
+        {
+            "id": "w_65446ecdb45f75fca9f3e19265a8e9191317a2fd",
+            "content": {
+                "en": "China."
+            }
+        },
+        {
+            "id": "w_fece5b8a9cd4ddc3b1169a61f5587c12eb3278ce",
+            "content": {
+                "en": "Chinese people."
+            }
+        },
+        {
+            "id": "w_08188b1d6efe0082ee66fbb3641778bbb440a14f",
+            "content": {
+                "en": "Civilian casualties."
+            }
+        },
+        {
+            "id": "w_d5cab3944185da7b5f7b43f0e1a0c9e672a70224",
+            "content": {
+                "en": "Civilization."
+            }
+        },
+        {
+            "id": "w_2646b1d8c622918201e36f25f6818a262fe1c639",
+            "content": {
+                "en": "Clearing a bloody path through Walmart with a scimitar to get the last box of Kleenex."
+            }
+        },
+        {
+            "id": "w_6a8b6daac39ea9db2c8e03f3d009ab28d4138d10",
+            "content": {
+                "en": "Clenched butt cheeks."
+            }
+        },
+        {
+            "id": "w_0e5af02ac44e1ccecbbd5bfa27bd783445a2e4b8",
+            "content": {
+                "en": "Closing my eyes for the last time."
+            }
+        },
+        {
+            "id": "w_99b9d7baced6e7fa5f26722379a73f70bfc0ae2b",
+            "content": {
+                "en": "Coaching the 7th grade girls' basketball team via Skype."
+            }
+        },
+        {
+            "id": "w_aeabcccbd249bf373ade3f79730e5e2dcb767ab7",
+            "content": {
+                "en": "Collapsing in grief."
+            }
+        },
+        {
+            "id": "w_4bb3f3f1e7cefa378739fe5ecd3073f18e8df830",
+            "content": {
+                "en": "Collateralized debt obligations."
+            }
+        },
+        {
+            "id": "w_fda9b38cd3c82dc7272110096a94a15deafc149c",
+            "content": {
+                "en": "College."
+            }
+        },
+        {
+            "id": "w_5401bea81ebd72fc177a3f8f61835bbc42aa1194",
+            "content": {
+                "en": "Colony collapse disorder."
+            }
+        },
+        {
+            "id": "w_d440b10e2123648ee4fa2d61fe4813af088a8c73",
+            "content": {
+                "en": "Coming down with Coronavirus."
+            }
+        },
+        {
+            "id": "w_6612040f9860b18b6e975260a5a22477b5e61aba",
+            "content": {
+                "en": "Complaining about all the world&apos;s problems to my ball python, Worm."
+            }
+        },
+        {
+            "id": "w_46c6df9e01faa61022e41926edc7ec88078df01a",
+            "content": {
+                "en": "Completely unwarranted confidence."
+            }
+        },
+        {
+            "id": "w_288aa687b7bb4be4f4f5c2092f87d2cff992781c",
+            "content": {
+                "en": "Congress' flaccid penises withering away beneath their suit pants."
+            }
+        },
+        {
+            "id": "w_6f1224c47b81d8b1ad409df9fdbe6f741f8892b3",
+            "content": {
+                "en": "Conservative talking points."
+            }
+        },
+        {
+            "id": "w_8213b965b47b1c4bc51b1198ee18512a086cc549",
+            "content": {
+                "en": "Constant weeping."
+            }
+        },
+        {
+            "id": "w_bf8132fdf60fe233b1db257704d21c5860fe922c",
+            "content": {
+                "en": "Contaminating stuff."
+            }
+        },
+        {
+            "id": "w_dcf655223a615c313c1b30b1adf8013ee8dae2f1",
+            "content": {
+                "en": "Contracting Coronavirus."
+            }
+        },
+        {
+            "id": "w_114739ec8af1f4c80132adc3b59db93415a5ec41",
+            "content": {
+                "en": "Corona and lime."
+            }
+        },
+        {
+            "id": "w_114fcae45897ae4fd27fae4c7581d2255967778c",
+            "content": {
+                "en": "Coronavirus patients."
+            }
+        },
+        {
+            "id": "w_01b27a39ec3f734836afc062f541481a3f108e86",
+            "content": {
+                "en": "Coronavirus positive."
+            }
+        },
+        {
+            "id": "w_3c843694df757129f30b328e754ced030af545a9",
+            "content": {
+                "en": "Coronavirus, but it\u2019s an old Armenian hooker named Anahit."
+            }
+        },
+        {
+            "id": "w_be25a47b17c275e327ff1380a4bb29be57968fed",
+            "content": {
+                "en": "Coronavirus-related fatalities."
+            }
+        },
+        {
+            "id": "w_93662624b800c93d1819dbe0d768ada92ab7bd4d",
+            "content": {
+                "en": "Coronavirus."
+            }
+        },
+        {
+            "id": "w_79e4d885eb362f1b3c4beadd483c853fbbd959de",
+            "content": {
+                "en": "Coughing in people&apos;s faces."
+            }
+        },
+        {
+            "id": "w_f96e9b7cfb39650bab0cfef046e6e79577dd43c5",
+            "content": {
+                "en": "Coughing on old people."
+            }
+        },
+        {
+            "id": "w_272fe4578bc63293dce6d1c0a3d3052a27c55414",
+            "content": {
+                "en": "Coughing parties."
+            }
+        },
+        {
+            "id": "w_907020bb73ebd2899b72fd1185038a58a369161f",
+            "content": {
+                "en": "Coughing up a Cheez-It&reg;."
+            }
+        },
+        {
+            "id": "w_98073174b986b68ccfc6d115f734927becde20dd",
+            "content": {
+                "en": "Coughing up last night&apos;s blowjob."
+            }
+        },
+        {
+            "id": "w_8c800b19bc47f8143af22bd11dcd549dda304d1a",
+            "content": {
+                "en": "COVID-19."
+            }
+        },
+        {
+            "id": "w_c7cf22576508f4ec49410e6cd8a021b6c817c8d2",
+            "content": {
+                "en": "Crippling debt."
+            }
+        },
+        {
+            "id": "w_7a47d30f5c16a163252236423f4c80049cd52853",
+            "content": {
+                "en": "Crouching in a corner for the rest of my life."
+            }
+        },
+        {
+            "id": "w_bc759890522b1214f64767cdce5c04d73b831768",
+            "content": {
+                "en": "Crowdfunding my daughter&apos;s bone marrow transplant."
+            }
+        },
+        {
+            "id": "w_59759c03e8f759c9499a1858a04bee8152692462",
+            "content": {
+                "en": "Cruising along just below the poverty line."
+            }
+        },
+        {
+            "id": "w_268962d0a7fa8da9e138b54e0ba2510b6a13a2ed",
+            "content": {
+                "en": "Crying about the dead baby."
+            }
+        },
+        {
+            "id": "w_046bff81472e120301eb4b404d65eac2459b5a50",
+            "content": {
+                "en": "Crying and masturbating and crying some more."
+            }
+        },
+        {
+            "id": "w_03b828bd728a5cd9fba902e39c8309828371f320",
+            "content": {
+                "en": "Crying and shitting and eating spaghetti."
+            }
+        },
+        {
+            "id": "w_f611e285d8d452a3db246e1749237e99ff90105e",
+            "content": {
+                "en": "Crying in the shower."
+            }
+        },
+        {
+            "id": "w_2c30e76624a7f7f7a8bb825953f837c26732702a",
+            "content": {
+                "en": "Crying into a bottle of peach schnapps."
+            }
+        },
+        {
+            "id": "w_8150ca063e347e2d5aafb858a81a71d5b672983d",
+            "content": {
+                "en": "Cutting health funding."
+            }
+        },
+        {
+            "id": "w_5e86d3246738a15528b0917e84761838312735d9",
+            "content": {
+                "en": "Daddy&apos;s belt."
+            }
+        },
+        {
+            "id": "w_8ecb4d8f66ab1d877508f08a17382929f7b4b7c8",
+            "content": {
+                "en": "Darwinism."
+            }
+        },
+        {
+            "id": "w_61fb7fa71a8e5e9055ca19961695ecdf5578913e",
+            "content": {
+                "en": "Day drinking."
+            }
+        },
+        {
+            "id": "w_a6433ae7a71380527241c83eb099568b7b234ee7",
+            "content": {
+                "en": "Dead parents."
+            }
+        },
+        {
+            "id": "w_323fd6a6cbe0a1477ee3b84a36144354a5b503a9",
+            "content": {
+                "en": "Death on a scale that can only be described as \"biblical\"."
+            }
+        },
+        {
+            "id": "w_30f55e80df6da4ee77b87499174efca164f43deb",
+            "content": {
+                "en": "Death."
+            }
+        },
+        {
+            "id": "w_1eb1627b58a07ae2ffab4b5775c63a08359d46f1",
+            "content": {
+                "en": "Deceiving the American people."
+            }
+        },
+        {
+            "id": "w_1ef53bcc68bc3c6245e1f9d5007c026d1bb889e1",
+            "content": {
+                "en": "Deciding who lives and who dies."
+            }
+        },
+        {
+            "id": "w_71b7159c6de84b92ca8d0ec28f0e69192ab26097",
+            "content": {
+                "en": "Defying health officials."
+            }
+        },
+        {
+            "id": "w_8e7098becf88c50c43d42f822075a440567fdb4e",
+            "content": {
+                "en": "Delighting in the pain of others."
+            }
+        },
+        {
+            "id": "w_b04230bbf137b2b3c54711378cb5cd00942ff382",
+            "content": {
+                "en": "Depression."
+            }
+        },
+        {
+            "id": "w_afcbb56376c37f25484a32e32b293335e33213fa",
+            "content": {
+                "en": "Descending into madness."
+            }
+        },
+        {
+            "id": "w_b3cb1a1fd16e3699b428eba3aa53faf2855f4a1e",
+            "content": {
+                "en": "Desperately hurling insults at Donald Trump as he absorbs them into his rapidly-expanding body."
+            }
+        },
+        {
+            "id": "w_7340d5492925f1e17b97b2145f1c94a37937345b",
+            "content": {
+                "en": "Dining with cardboard cutouts of the cast of \"Friends\"."
+            }
+        },
+        {
+            "id": "w_d2863766d343efa33d82e7faf337266f1355ea2a",
+            "content": {
+                "en": "Disease."
+            }
+        },
+        {
+            "id": "w_29ce4aa59a6a0b3a713280d3a188f664e4b02eaf",
+            "content": {
+                "en": "Disrespecting the elderly."
+            }
+        },
+        {
+            "id": "w_62d16b33a8bf93159c217663e40132a9efbb14a7",
+            "content": {
+                "en": "Doctors."
+            }
+        },
+        {
+            "id": "w_7233097da3ee1f8c066260a860915726baf45c43",
+            "content": {
+                "en": "Doing your civic duty: nothing."
+            }
+        },
+        {
+            "id": "w_b9aae8468864e2cc5b5b68fc00d475505f6c5aa1",
+            "content": {
+                "en": "Donald Trump&apos;s latest fucking thing."
+            }
+        },
+        {
+            "id": "w_e866beb69a0c74b50055742d5b586b10d9eff5d2",
+            "content": {
+                "en": "Donald Trump&apos;s strange and narcissistic behavior."
+            }
+        },
+        {
+            "id": "w_8559c633721b4b42012d9fbbe87ac17d98024282",
+            "content": {
+                "en": "Donning gas masks."
+            }
+        },
+        {
+            "id": "w_d0417af0391a8e7b738aa51ef28bfba01550a7d2",
+            "content": {
+                "en": "Downplaying the apocalypse."
+            }
+        },
+        {
+            "id": "w_c89eef554142cdb773f454920dee0a515125e216",
+            "content": {
+                "en": "Drinking a bottle and a half of cough syrup and going into shock on the bathroom floor."
+            }
+        },
+        {
+            "id": "w_4ba37d231ec8243b3266540a598265b1f457f475",
+            "content": {
+                "en": "Drinking alone."
+            }
+        },
+        {
+            "id": "w_191f00417a565c3e47dbca7eaff7f7ed41f1e4e2",
+            "content": {
+                "en": "Drinking away my dead son&apos;s college fund."
+            }
+        },
+        {
+            "id": "w_9843bcfebb3647ec4d06b5eeef0e78ad6fa93d6b",
+            "content": {
+                "en": "Drinking enough alcohol to enjoy life for a few hours."
+            }
+        },
+        {
+            "id": "w_3aaa9c1d92962286e26f29ae29faeb8ff0f8a049",
+            "content": {
+                "en": "Drinking one last beer with Grandma before she dies."
+            }
+        },
+        {
+            "id": "w_bfa588121e2cae7da241e8f7cb86b6e53acfdfd6",
+            "content": {
+                "en": "Drinking white wine, dancing around the living room, and yelling at my children."
+            }
+        },
+        {
+            "id": "w_e7a86d77c2852971759296a9ea26daced6aeb66f",
+            "content": {
+                "en": "Drive-thru liquor stores."
+            }
+        },
+        {
+            "id": "w_47d0676955ba1e71a07849a32134bbcae2c5abc1",
+            "content": {
+                "en": "Driving to a Walmart parking lot and staring into the distance for eight hours."
+            }
+        },
+        {
+            "id": "w_1abfa2c52d3e7842c9df4f77e8c1c7461177fcc5",
+            "content": {
+                "en": "Dropping dead."
+            }
+        },
+        {
+            "id": "w_9e8b83741f3769c3d149534b61a8f4a68cc22508",
+            "content": {
+                "en": "Dropping like flies."
+            }
+        },
+        {
+            "id": "w_d0a5d31b3edbd3fb992611a6e00f8e18b8594737",
+            "content": {
+                "en": "Dry cough, fever, tiredness, and difficulty breathing."
+            }
+        },
+        {
+            "id": "w_9ac89575860821fa205c013b564c5bdd334b2e16",
+            "content": {
+                "en": "Dry heaving."
+            }
+        },
+        {
+            "id": "w_5424573a5832c8e692cc0d2bcc0fb1ddd2ef964a",
+            "content": {
+                "en": "Dubious pseudoscientific nonsense."
+            }
+        },
+        {
+            "id": "w_6361921f497c8a08ce16738dcaec8a49364e7310",
+            "content": {
+                "en": "Dying a virgin."
+            }
+        },
+        {
+            "id": "w_773a52b221f729247c7bc7f685c6cf637497b123",
+            "content": {
+                "en": "Dying alone and in pain."
+            }
+        },
+        {
+            "id": "w_4e53d9bdae2b90e6d840660297227ca6f91f9872",
+            "content": {
+                "en": "Dying at 20."
+            }
+        },
+        {
+            "id": "w_9ba5745078bd4e6f3d5c1e0ff9bc17ab1b2291f5",
+            "content": {
+                "en": "Dying of Coronavirus."
+            }
+        },
+        {
+            "id": "w_5b4be524886758443977b130e22199ac3ccf71b7",
+            "content": {
+                "en": "Dying."
+            }
+        },
+        {
+            "id": "w_0f270d8ade7db997087eccbd1ba1aa04df85f5ce",
+            "content": {
+                "en": "Eating a fucking raw ass bat."
+            }
+        },
+        {
+            "id": "w_016f69fef9717ac2236f8bb11e6d79e7991f184d",
+            "content": {
+                "en": "Eating a small dinner and then lying down again."
+            }
+        },
+        {
+            "id": "w_2c939e7dee8561ef764fab991f3b98d97e1fe785",
+            "content": {
+                "en": "Eating alone in front of the television."
+            }
+        },
+        {
+            "id": "w_524142114b8778a9373eab36ccf370270ca5d8bf",
+            "content": {
+                "en": "Eating bugs to survive."
+            }
+        },
+        {
+            "id": "w_0714a0c94a7e9547417d1b40246d0c69593f84e7",
+            "content": {
+                "en": "Eating green vegetables and staying under 25."
+            }
+        },
+        {
+            "id": "w_b0f4a1426afcf808d6e79b7a376b4a5c55611d2b",
+            "content": {
+                "en": "Eating soup in the nude."
+            }
+        },
+        {
+            "id": "w_243cb4f8f1f7f9db5de168f8c86f615b84c7824b",
+            "content": {
+                "en": "Emerging from the sea and rampaging through Tokyo."
+            }
+        },
+        {
+            "id": "w_ceeeba0f9d4357699628a3ed810b511fc50f7f12",
+            "content": {
+                "en": "Emotional unavailability."
+            }
+        },
+        {
+            "id": "w_81a9fcea1a6401c51e5c4e604b3c3b6903f80dfc",
+            "content": {
+                "en": "Emotions."
+            }
+        },
+        {
+            "id": "w_9fa327c3c60dd075e71cc93a91f8c9c3464670b0",
+            "content": {
+                "en": "Empty shelves."
+            }
+        },
+        {
+            "id": "w_3e2133fe05845a14424a0a1ab9a510f5995dae65",
+            "content": {
+                "en": "Ending the world."
+            }
+        },
+        {
+            "id": "w_43b765ea6cc1a2a12f8d10fd02f83b9613732cd8",
+            "content": {
+                "en": "Endless fields of corpses."
+            }
+        },
+        {
+            "id": "w_f4c9dceebc9efe6bb6423efd4b454545186a78a8",
+            "content": {
+                "en": "Endless stress."
+            }
+        },
+        {
+            "id": "w_cdc420e0e874c1734567bc41b8103063b7325b7d",
+            "content": {
+                "en": "Enough idiots to cause a serious public health crisis."
+            }
+        },
+        {
+            "id": "w_5c5dd6e743df1a638e1324db7640411758188b6d",
+            "content": {
+                "en": "Erratically explaining that some races are more responsible for the pandemic than others."
+            }
+        },
+        {
+            "id": "w_ff3dca7c0104f224bfd3011ca0e8e4d7d1b416f4",
+            "content": {
+                "en": "Even more money."
+            }
+        },
+        {
+            "id": "w_ae2ea8c8800c068be1c0231ec22a923f6d751832",
+            "content": {
+                "en": "Everybody getting killed except for Kanye."
+            }
+        },
+        {
+            "id": "w_f7b481c3f606b21fb53929cda2e18a1abfa90c25",
+            "content": {
+                "en": "Exercise, if that&apos;s a thing."
+            }
+        },
+        {
+            "id": "w_6e038587056d62186500a4a134f6ed87a913d7ae",
+            "content": {
+                "en": "Exposing the corrupting influence of money in politics."
+            }
+        },
+        {
+            "id": "w_1fb41f91f2423bce378c62c1e99f885e99844c45",
+            "content": {
+                "en": "Extra rations for my little girl."
+            }
+        },
+        {
+            "id": "w_1d335ae6b931000de9790c53a707b5c4969b238a",
+            "content": {
+                "en": "Extracting the maximum amount of money from naive consumers."
+            }
+        },
+        {
+            "id": "w_015f25c49773404c2f84bb367e49677d8122df7a",
+            "content": {
+                "en": "Faith healing."
+            }
+        },
+        {
+            "id": "w_f17dbaa73155a571e2627933680b80117ee7d9e8",
+            "content": {
+                "en": "Fake news."
+            }
+        },
+        {
+            "id": "w_64a7981a8b9614d5958879937a2816e914e45c0b",
+            "content": {
+                "en": "Falling over dead."
+            }
+        },
+        {
+            "id": "w_c801aea0bff6fbf9ce5a7a20b374e2d39a16c219",
+            "content": {
+                "en": "Family game night."
+            }
+        },
+        {
+            "id": "w_fae5588ff5dd672691597c78f801d1c1d2afbc01",
+            "content": {
+                "en": "Famine."
+            }
+        },
+        {
+            "id": "w_f2f2c806e65902b7368863120e4fdad0b6d80fd7",
+            "content": {
+                "en": "Father&apos;s cough."
+            }
+        },
+        {
+            "id": "w_bcb526372aadd1a7eb69b2d4c82da1f116d38996",
+            "content": {
+                "en": "Father&apos;s dying words."
+            }
+        },
+        {
+            "id": "w_854434027226ff0d53da0ab804e6e63db4afcbc5",
+            "content": {
+                "en": "Fear mongering."
+            }
+        },
+        {
+            "id": "w_9d2eadf76c284cf4556c2bbfac0ad293ed338f9d",
+            "content": {
+                "en": "Feeling like your whole world is collapsing."
+            }
+        },
+        {
+            "id": "w_7f1aad86945c1f172094f864e4a4b56214aa8fce",
+            "content": {
+                "en": "Feeling the future is hopeless and there will be no world for our children."
+            }
+        },
+        {
+            "id": "w_69b6703212a6412cf89df5a3632d8613b150e50c",
+            "content": {
+                "en": "Feeling unsafe."
+            }
+        },
+        {
+            "id": "w_2e1aa47b4b2f2051c6e1a30c7e65aac269bf21a8",
+            "content": {
+                "en": "Feeling what not having hope feels like."
+            }
+        },
+        {
+            "id": "w_e8c875fc5031bc2a3fa30b28dd5e5c1d2afc4bb5",
+            "content": {
+                "en": "Filing for unemployment."
+            }
+        },
+        {
+            "id": "w_adc9cdcc85b0f29da331f8a52738d125d9832abd",
+            "content": {
+                "en": "Finally appreciating doctors."
+            }
+        },
+        {
+            "id": "w_be447d9c64b1620efd49d129d666f77da40c2680",
+            "content": {
+                "en": "Finally understanding agoraphobia."
+            }
+        },
+        {
+            "id": "w_82ed470d5a40f27592a5c8b5df1a7462fe18df45",
+            "content": {
+                "en": "Finding the strength to go on."
+            }
+        },
+        {
+            "id": "w_7f63453f13f4269bb7b0ac515293121b8b18a40a",
+            "content": {
+                "en": "Five morons signing a lease together."
+            }
+        },
+        {
+            "id": "w_2b5bb5db91b087d4046183d94d6412eae1ca7c00",
+            "content": {
+                "en": "Flatlining."
+            }
+        },
+        {
+            "id": "w_ec5c612f83dba12c4e0f719379d238be1e222ef4",
+            "content": {
+                "en": "Flattening the curve."
+            }
+        },
+        {
+            "id": "w_e1d7352d6061d1b1307f35525fe495d8073fd952",
+            "content": {
+                "en": "Forcing a handjob on a dying man."
+            }
+        },
+        {
+            "id": "w_8096ad684cf1e1f88f789a86f9e40d918167e4e9",
+            "content": {
+                "en": "Forgetting everything you know about household cleaning products."
+            }
+        },
+        {
+            "id": "w_80ec75cde9d95e2925a9456985e4a11461741157",
+            "content": {
+                "en": "Forgetting to breathe and then dying."
+            }
+        },
+        {
+            "id": "w_1c58be08a6a4b5ed963fbf577d0f0b08eef30e7b",
+            "content": {
+                "en": "Fox News."
+            }
+        },
+        {
+            "id": "w_2ee7c79b48dca6f62abff093be08d4f7f4926241",
+            "content": {
+                "en": "Frantically writing spread rate equations on a chalkboard."
+            }
+        },
+        {
+            "id": "w_70d3f7c227bb559e67a4597e33bb97cfef24c996",
+            "content": {
+                "en": "Freaking out and shit."
+            }
+        },
+        {
+            "id": "w_f84a84ccbaf7c58c12e93b9765f8d30fa7bcaa49",
+            "content": {
+                "en": "Free two-day shipping with Amazon Prime."
+            }
+        },
+        {
+            "id": "w_102ec720a846c311e9833f8847b999645f7f7f4b",
+            "content": {
+                "en": "French fries that remind me of my dead father, who loved french fries."
+            }
+        },
+        {
+            "id": "w_cbfcb0eb805e359282d15c248efed044ccec5853",
+            "content": {
+                "en": "Fresh Air with Terry Gross."
+            }
+        },
+        {
+            "id": "w_99eee60e6210b3c4135f1acaa06bcd760e3a1a8b",
+            "content": {
+                "en": "Fucking a corpse back to life."
+            }
+        },
+        {
+            "id": "w_d98a548453b14ea7542ee8810a976a707f12a6b3",
+            "content": {
+                "en": "Fucking my sister."
+            }
+        },
+        {
+            "id": "w_47af7af7160037c0c78e82cb462d4ff9dc9bbd79",
+            "content": {
+                "en": "Fucking my wife."
+            }
+        },
+        {
+            "id": "w_78c00aa25a5bf527b475e32cfeca8fdae061399a",
+            "content": {
+                "en": "Fucking over future generations."
+            }
+        },
+        {
+            "id": "w_c128cf49bda9b19f649ca9d955bef2ecb285091d",
+            "content": {
+                "en": "Fucking up America&apos;s budget."
+            }
+        },
+        {
+            "id": "w_3f66277d655daf2b816cca16a21d48ba58fba544",
+            "content": {
+                "en": "Full-on socialism."
+            }
+        },
+        {
+            "id": "w_08bcc3d2a814fd7a3ce073d741d18aad36cba2f3",
+            "content": {
+                "en": "Funding science."
+            }
+        },
+        {
+            "id": "w_aff9b4dfe7dc0e089fa73b0aa0c3238dcaab10bc",
+            "content": {
+                "en": "Galloping around the hospital."
+            }
+        },
+        {
+            "id": "w_af683416cf3e24368f45ff4e7cdcda6500da7a41",
+            "content": {
+                "en": "General unhappiness."
+            }
+        },
+        {
+            "id": "w_f5a5f372f515aab0508846be813ab8be50c9aaef",
+            "content": {
+                "en": "Generally having no idea what&apos;s going on."
+            }
+        },
+        {
+            "id": "w_978da13426c53d35944d841c6a8d55862c4dddb0",
+            "content": {
+                "en": "Generational wealth."
+            }
+        },
+        {
+            "id": "w_9c15a14b18af97f209abb7811fd68b0b3429703f",
+            "content": {
+                "en": "Gently smothering an old man."
+            }
+        },
+        {
+            "id": "w_b46ff96efbd177e6f0f38802ecdc201d443f94a7",
+            "content": {
+                "en": "Genuine human connection."
+            }
+        },
+        {
+            "id": "w_60748fa04a100d6ed7a9459dcebff0f90a442ba1",
+            "content": {
+                "en": "Getting back to work."
+            }
+        },
+        {
+            "id": "w_5ebe8c907d01a676162f43eae0fcc4b059450699",
+            "content": {
+                "en": "Getting bitten by a radioactive spider and catching Coronavirus from it."
+            }
+        },
+        {
+            "id": "w_c063691ae7f605281030fe7bbbe2ff20bb72329b",
+            "content": {
+                "en": "Getting caught outside by the police and going to jail."
+            }
+        },
+        {
+            "id": "w_283880f8a30f400e2b2beea5350ca1393c83d8e8",
+            "content": {
+                "en": "Getting Coronavirus."
+            }
+        },
+        {
+            "id": "w_6f840e08956f229b9234dcc68cd028bed6ba5b0c",
+            "content": {
+                "en": "Getting depressed and super fat."
+            }
+        },
+        {
+            "id": "w_f7181227edb76fb8c6741b40af16ecf99f45bbc1",
+            "content": {
+                "en": "Getting down to business to defeat the virus."
+            }
+        },
+        {
+            "id": "w_2102628c462defb1fe26189d45df86cdcf4e4214",
+            "content": {
+                "en": "Getting eaten out while on the phone with Dad."
+            }
+        },
+        {
+            "id": "w_d95718d722eff3c1b17b1b61a2afee598d3ea34a",
+            "content": {
+                "en": "Getting evicted."
+            }
+        },
+        {
+            "id": "w_441836cf787f1f5a8c0bd7fb066a4f015b24a47e",
+            "content": {
+                "en": "Getting high with mom."
+            }
+        },
+        {
+            "id": "w_4f33e433eb04b0581d1413fe1bcd83c75073e842",
+            "content": {
+                "en": "Getting laid off."
+            }
+        },
+        {
+            "id": "w_232d2f3be1c7d6122772dfc1040832f3ca4b408a",
+            "content": {
+                "en": "Getting Mommy another beer."
+            }
+        },
+        {
+            "id": "w_6254def54a78b8f7c4a96f445f8d940ab459c18e",
+            "content": {
+                "en": "Getting the life-changing news that Grandma is alive and well."
+            }
+        },
+        {
+            "id": "w_bb7c5059b307338100cf0a3363f9bb8588e7975c",
+            "content": {
+                "en": "Getting your ass ate."
+            }
+        },
+        {
+            "id": "w_74887c32352f42a728d5004cd1318789c50b4dbb",
+            "content": {
+                "en": "Giving a man a steak and sending him on his way."
+            }
+        },
+        {
+            "id": "w_28f9ba1dadb01b27976a1261945a52d8d825463e",
+            "content": {
+                "en": "Giving Coronavirus whatever it wants so it leaves us alone."
+            }
+        },
+        {
+            "id": "w_92383c3f0d6961c265fd4821657050fb6f9da15b",
+            "content": {
+                "en": "Giving Dad a call."
+            }
+        },
+        {
+            "id": "w_5e57153b44a59e3889b5dde837d53ab4a878fbd7",
+            "content": {
+                "en": "Giving it a good scrub to make sure all the dirt is gone."
+            }
+        },
+        {
+            "id": "w_a033bec17208e22fc4f74a6be0cd3c1347838474",
+            "content": {
+                "en": "Giving one of those \"microwave dinners\" a whirl."
+            }
+        },
+        {
+            "id": "w_3dd6d688dd3f01fdf4f138dde39d8ef4ca83aa23",
+            "content": {
+                "en": "Giving up and going to Burger King."
+            }
+        },
+        {
+            "id": "w_3782a618b85ab5bf3e89ff495267441d2f65433b",
+            "content": {
+                "en": "Gluing dried macaroni to paper and mourning the loss of my son."
+            }
+        },
+        {
+            "id": "w_0b57a6a0026a44f9aad3e3c1dc5f5e93b536f421",
+            "content": {
+                "en": "Going an entire day without masturbating."
+            }
+        },
+        {
+            "id": "w_6c09a4a6f2e11f2ed4439f39ca6b12294ab51106",
+            "content": {
+                "en": "Going cuckoo and drowning your kids in the bathtub."
+            }
+        },
+        {
+            "id": "w_149c86803f635575dfcc3e26be9bbfadb9ffdf5c",
+            "content": {
+                "en": "Going inside at some point because of the pandemic."
+            }
+        },
+        {
+            "id": "w_2c267c78d137564c3ab196f5f461176b584ac2e5",
+            "content": {
+                "en": "Going into hiding."
+            }
+        },
+        {
+            "id": "w_00a61fff16d4340eeefff23598b5677cce900f41",
+            "content": {
+                "en": "Going outside and then remembering there\u2019s danger and then going back inside."
+            }
+        },
+        {
+            "id": "w_7fc5acd53852ad603b60c46a71fbaadbc85592d9",
+            "content": {
+                "en": "Going outside."
+            }
+        },
+        {
+            "id": "w_7d19f976b7fdc79bd776d6055f1347a2f17cc274",
+            "content": {
+                "en": "Going too far with science and bad things happening."
+            }
+        },
+        {
+            "id": "w_6e9df6b5fad9b9b0d3464a54aa8d3e5a356634de",
+            "content": {
+                "en": "Going viral."
+            }
+        },
+        {
+            "id": "w_7a08683b2ab9c9d84b9b2ecf5b666f97bf3298e9",
+            "content": {
+                "en": "Going with my gut and spending all my money on hand sanitizer."
+            }
+        },
+        {
+            "id": "w_92f1cd3fef69f5a5bb24497cec98345cdbc6b611",
+            "content": {
+                "en": "Good ol' fashioned face-to-face conversation."
+            }
+        },
+        {
+            "id": "w_59788f465f612be5594422d8a91cfcb08b419ddf",
+            "content": {
+                "en": "Grandma&apos;s big, beady eyes."
+            }
+        },
+        {
+            "id": "w_3f6eb94ed4676d9387fbe6f556637c2f4154d9ce",
+            "content": {
+                "en": "Grandma&apos;s toothless gums slapping together."
+            }
+        },
+        {
+            "id": "w_38591c5187de4d07c047d4f94f4d13d3b1323686",
+            "content": {
+                "en": "Grandma."
+            }
+        },
+        {
+            "id": "w_4b3baff246518954f30b753b4a76bf6a6053908d",
+            "content": {
+                "en": "Grandpa&apos;s ashes."
+            }
+        },
+        {
+            "id": "w_b97a3bdddc284a988cf390dded3e6295c30eb36c",
+            "content": {
+                "en": "Grandpa&apos;s frail, bony fingers."
+            }
+        },
+        {
+            "id": "w_05c2d6530791a750d5a7b2a251182f153d0b8488",
+            "content": {
+                "en": "Grandpa&apos;s shriveled body."
+            }
+        },
+        {
+            "id": "w_0f5f8f6722d5576de9cdec387108d44942690b11",
+            "content": {
+                "en": "Guaranteed respiratory failure."
+            }
+        },
+        {
+            "id": "w_9855a81dc2284634a4e27e2b31e5303a3bbd555a",
+            "content": {
+                "en": "Gulping some hand sanitizer."
+            }
+        },
+        {
+            "id": "w_cff41e2bff02244dbf6bfb1d85c67140c6116d55",
+            "content": {
+                "en": "Having $57 in the bank."
+            }
+        },
+        {
+            "id": "w_a8e393497ae141460290369e5b2f8db8efa7fbb9",
+            "content": {
+                "en": "Having a full-on mental breakdown."
+            }
+        },
+        {
+            "id": "w_406dda0bd69f5b4bf68cf0dc96da90aef5f430a6",
+            "content": {
+                "en": "Having a strong opinion about Obamacare."
+            }
+        },
+        {
+            "id": "w_1bf99b001e188accdc1c057bfa9a890df2279a6e",
+            "content": {
+                "en": "Having a tummy ache."
+            }
+        },
+        {
+            "id": "w_40faeb63a2eda7a5b6ca39fd37b4c3f77d2a81b3",
+            "content": {
+                "en": "Having difficulty coping with the death of a loved one."
+            }
+        },
+        {
+            "id": "w_f38725eeec4422a78df498a2ee1d87b6e9fecba5",
+            "content": {
+                "en": "Having fun, but not for very long."
+            }
+        },
+        {
+            "id": "w_ff957f64c9c2c1107d8cc3365ea8624cfdd48f14",
+            "content": {
+                "en": "Having no idea how to use an electric grill."
+            }
+        },
+        {
+            "id": "w_19581c07bf3a080cfab05c08552ba4d61a21434d",
+            "content": {
+                "en": "Having no idea what the fuck is going on."
+            }
+        },
+        {
+            "id": "w_3c9afa07868891cb0c784b1f239f0d9fa766dbc2",
+            "content": {
+                "en": "Having the audacity to breathe."
+            }
+        },
+        {
+            "id": "w_0149e41b569a824e1d49faebc1bd55c998c85a84",
+            "content": {
+                "en": "Having to leave your family behind."
+            }
+        },
+        {
+            "id": "w_4e5a54e30b7930d5295cee91265e604a18791f54",
+            "content": {
+                "en": "Healthcare.gov."
+            }
+        },
+        {
+            "id": "w_882578719dcd59570def2a87f34e700544764091",
+            "content": {
+                "en": "Helping the elderly."
+            }
+        },
+        {
+            "id": "w_d6e3c4339ffd7b3e5d3fc13ef58b254174b16d95",
+            "content": {
+                "en": "Hoarding toilet paper like some kind of weak-rectumed dragon."
+            }
+        },
+        {
+            "id": "w_de1c9883c97e6dc3fcdd20392b95c8cabc671d42",
+            "content": {
+                "en": "Holding Kyle&apos;s hand, just for a second."
+            }
+        },
+        {
+            "id": "w_bb12f06528115ee76dc5adb7f376df13d2b6b883",
+            "content": {
+                "en": "Holding up the line at Walgreens by trying to use an expired coupon."
+            }
+        },
+        {
+            "id": "w_5467c5eb6838234c671aafe0c50a67e92cfc8cd1",
+            "content": {
+                "en": "Hom Tanks."
+            }
+        },
+        {
+            "id": "w_1602a763f6db1f62728e673dc1a1b0518eb72b0e",
+            "content": {
+                "en": "Home video of Oprah sobbing into a Lean Cuisine&reg;."
+            }
+        },
+        {
+            "id": "w_4bec674666b140f5e00c8b308c1674aaa0e9935c",
+            "content": {
+                "en": "Homeless people."
+            }
+        },
+        {
+            "id": "w_b3467ffbf413ea3f11028207594448f51a165901",
+            "content": {
+                "en": "Hope."
+            }
+        },
+        {
+            "id": "w_f122f4f1b9abfaa5270e59d1be4d6f2d89f80645",
+            "content": {
+                "en": "Hospice care."
+            }
+        },
+        {
+            "id": "w_b6de66ba92048ea6665258bb2bf1cf172d12a543",
+            "content": {
+                "en": "Hospitalizing thousands."
+            }
+        },
+        {
+            "id": "w_31ed900af816b37814a67fdabad0b93e33a8f1d5",
+            "content": {
+                "en": "Hot doctors."
+            }
+        },
+        {
+            "id": "w_63b55677461046283513e73e546a2517430411b2",
+            "content": {
+                "en": "How boring the music has become."
+            }
+        },
+        {
+            "id": "w_6b8d589cac13992b6aa32879dfba4db4da10aa5e",
+            "content": {
+                "en": "How bright the sun is."
+            }
+        },
+        {
+            "id": "w_86439d138080587ef8c8d5d08af909b5c5202a06",
+            "content": {
+                "en": "How cool it is to not have Coronavirus."
+            }
+        },
+        {
+            "id": "w_815268b9b4583d4d3bd1af95b188afd9715cad27",
+            "content": {
+                "en": "How cool it is to smoke cigarettes."
+            }
+        },
+        {
+            "id": "w_c9af0218e11957ca016c899e42091c294165573a",
+            "content": {
+                "en": "How horrible it is that people who have never experienced racism find ways to justify it."
+            }
+        },
+        {
+            "id": "w_973d1ab898e37bdfe6819040af9f37ddd41b6141",
+            "content": {
+                "en": "How many Asians there are."
+            }
+        },
+        {
+            "id": "w_45e681fbeb7c3d223065117bd66370433e329e8e",
+            "content": {
+                "en": "How nice Tom Hanks is in person."
+            }
+        },
+        {
+            "id": "w_312a5f903f362d828632f37bc46cf5e44b1fa8be",
+            "content": {
+                "en": "How quiet the city is."
+            }
+        },
+        {
+            "id": "w_1b2b6fd161797919b8b82f775136267d926fe0dd",
+            "content": {
+                "en": "How sad it will be when Morgan Freeman catches Coronavirus."
+            }
+        },
+        {
+            "id": "w_e1d6382b7ed8c86f60138fce42817b6401d92e8c",
+            "content": {
+                "en": "However many old people we can afford to lose."
+            }
+        },
+        {
+            "id": "w_8455ce458283cec70f2d86fac3db7af2380e4ca5",
+            "content": {
+                "en": "Huffing and puffing and succumbing to lung failure."
+            }
+        },
+        {
+            "id": "w_077c17183987042c9bfb130a571070db3a5451b9",
+            "content": {
+                "en": "Human extinction."
+            }
+        },
+        {
+            "id": "w_72adde70c02f2be7f2d8f18cba7a67fc39674594",
+            "content": {
+                "en": "Human lives."
+            }
+        },
+        {
+            "id": "w_5b483f5138694630daf70e4e9c7d46d6ef084abe",
+            "content": {
+                "en": "Human trials."
+            }
+        },
+        {
+            "id": "w_b47e03556d1647572826dee04627ddc22eb7cd2a",
+            "content": {
+                "en": "Hungry, homeless college kids."
+            }
+        },
+        {
+            "id": "w_94e46e57330c1f58aff2c097f042833c6eebc8cd",
+            "content": {
+                "en": "Hurting those closest to me."
+            }
+        },
+        {
+            "id": "w_8d3f7a30e524852b58173e9b9f505f753c41d36a",
+            "content": {
+                "en": "Increasing economic and political polarization."
+            }
+        },
+        {
+            "id": "w_ec038d856d673720b155521d51af2e0299cc08bf",
+            "content": {
+                "en": "Indescribable loneliness."
+            }
+        },
+        {
+            "id": "w_1ad5457cd248e101f9dca08c4d4121ad62d47238",
+            "content": {
+                "en": "Insider trading."
+            }
+        },
+        {
+            "id": "w_7795c5c5d1e035661772f2fed912d6712462c6bb",
+            "content": {
+                "en": "Insufficient serotonin."
+            }
+        },
+        {
+            "id": "w_39270122cd2b6c4a6e3bba9ec7089da54084d60d",
+            "content": {
+                "en": "Intense lung pain."
+            }
+        },
+        {
+            "id": "w_6cc60cb50e3a360dcde71f865d2d7ac5015a4d43",
+            "content": {
+                "en": "Ironically buying a trucker hat and then ironically being a trucker for 38 years."
+            }
+        },
+        {
+            "id": "w_b4aacae9ff9dc25645c3f841bf6d1e063213a955",
+            "content": {
+                "en": "Irritable Bowel Syndrome."
+            }
+        },
+        {
+            "id": "w_3c800a7b6df21920d60ebc830802a3fea86732bc",
+            "content": {
+                "en": "Isolation."
+            }
+        },
+        {
+            "id": "w_d2f2c2379bff6e5ba46d1e7c816318a6eeb27a64",
+            "content": {
+                "en": "Italians."
+            }
+        },
+        {
+            "id": "w_b05cff9daf443e03d8e147e211f6c81324e1842a",
+            "content": {
+                "en": "Italy."
+            }
+        },
+        {
+            "id": "w_407e4afa3b765f871dd0be8847355f7b97de7ae4",
+            "content": {
+                "en": "Jerking it off-screen."
+            }
+        },
+        {
+            "id": "w_27204cc9a159c0cbe64a28baf681240513b9acbb",
+            "content": {
+                "en": "Jobs."
+            }
+        },
+        {
+            "id": "w_139ccc13fe264d72fde63129055251e1edf8d6db",
+            "content": {
+                "en": "Joe Biden."
+            }
+        },
+        {
+            "id": "w_1d05b766639758591b8ad842f3ef49d2648c2cfe",
+            "content": {
+                "en": "Just going for a walk around the park."
+            }
+        },
+        {
+            "id": "w_f2c687caf46cb28d2fb5d1649d55170f18e01b58",
+            "content": {
+                "en": "Just sobbing."
+            }
+        },
+        {
+            "id": "w_aa6af945c51611fdc419b40e7de5e6a9f7802086",
+            "content": {
+                "en": "Just the overall current state of things."
+            }
+        },
+        {
+            "id": "w_a26b940d6570ea7419781b64840784b95fd9d062",
+            "content": {
+                "en": "Killing anyone who steps foot on my property."
+            }
+        },
+        {
+            "id": "w_676c25946a2c3fe6ed493be52f21533dcae9c3ea",
+            "content": {
+                "en": "Killing civilians to own the Libs."
+            }
+        },
+        {
+            "id": "w_309993b94f5d234037a79721889864be9f6a5090",
+            "content": {
+                "en": "Kissing grandma on the forehead and turning off her life support."
+            }
+        },
+        {
+            "id": "w_c5c1101581e7fb95f671cb5ef9d132e501f1ea0a",
+            "content": {
+                "en": "Krispy Kreme Doughnuts."
+            }
+        },
+        {
+            "id": "w_0ea017376ede8708229c40dfa348fe7be1522d63",
+            "content": {
+                "en": "Large groups."
+            }
+        },
+        {
+            "id": "w_8f98dc4ecf349953793467ad9aea7559b7d80e4e",
+            "content": {
+                "en": "Laying a lifetime of burdens on young children."
+            }
+        },
+        {
+            "id": "w_25eb6cb396e4462e2aa45138815f87c53e72877a",
+            "content": {
+                "en": "Leading a country to war on false pretenses."
+            }
+        },
+        {
+            "id": "w_fc7f1d5e7fdd7fcc3d12ad05edf3ad2e3614564a",
+            "content": {
+                "en": "Learning about new and exciting versions of reality within the confines of a re-education camp."
+            }
+        },
+        {
+            "id": "w_40b22fefaa72c2e5dd159c543385691492d3a6ae",
+            "content": {
+                "en": "Letting Bernie Sanders rest his world-weary head on your lap."
+            }
+        },
+        {
+            "id": "w_f02f069ed64360eabb8e6cf95706c97cde3de3c1",
+            "content": {
+                "en": "Letting everyone down."
+            }
+        },
+        {
+            "id": "w_3ad5c9dceb85ce3be10ca69786548aa98c9ea41b",
+            "content": {
+                "en": "Letting everyone out of jail."
+            }
+        },
+        {
+            "id": "w_be016858ed3efd6789fc0b35bcf389e762994a12",
+            "content": {
+                "en": "Letting pawpaw die."
+            }
+        },
+        {
+            "id": "w_5af7cc3e11449818396d6858e809a8e47e519577",
+            "content": {
+                "en": "Letting yourself go."
+            }
+        },
+        {
+            "id": "w_47d2695010289c4d0ceb3a72c8caa46b9fd97cc4",
+            "content": {
+                "en": "Liberals."
+            }
+        },
+        {
+            "id": "w_1fdc8ebc5fd9265f1104616731cb6920db48ab2d",
+            "content": {
+                "en": "Licking everything and everyone."
+            }
+        },
+        {
+            "id": "w_440c919823ba30a9cb0ff52eb97f2aec3bd3c859",
+            "content": {
+                "en": "Licking feet."
+            }
+        },
+        {
+            "id": "w_5173e7ffc6acd6249660a2a7401dd3ea25b2b058",
+            "content": {
+                "en": "Licking the cake batter off of grandma&apos;s fingers."
+            }
+        },
+        {
+            "id": "w_705ad9376783d171af6f6f3e2a76377e78d87450",
+            "content": {
+                "en": "Licking the toilet as Mistress commands."
+            }
+        },
+        {
+            "id": "w_7b9488201ed7cf180cd9f77194e94e42412e2774",
+            "content": {
+                "en": "Life."
+            }
+        },
+        {
+            "id": "w_dd5a96b58727f1724aadd5dbc5cc537fef13e2e6",
+            "content": {
+                "en": "Little Timmy&apos;s stubborn refusal to go outside."
+            }
+        },
+        {
+            "id": "w_449013d0b0c88484b7303fc2bf427a901f8b7aa5",
+            "content": {
+                "en": "Living by the sword and dying by Coronavirus."
+            }
+        },
+        {
+            "id": "w_8c8e61bf63c45235399b50ad30e33bd5a34adaec",
+            "content": {
+                "en": "Long-distance anal sex."
+            }
+        },
+        {
+            "id": "w_3a643b5f1761ce873d2a2e2649dc70dd08422f6b",
+            "content": {
+                "en": "Losing a loved one to Fox News."
+            }
+        },
+        {
+            "id": "w_46be55370141509563e91c6de6d2d969e488d77a",
+            "content": {
+                "en": "Losing grandma to Coronavirus."
+            }
+        },
+        {
+            "id": "w_09bf4ff0b8b1da360ba26e9673d9341cbc60b28e",
+            "content": {
+                "en": "Losing grandpa to Coronavirus."
+            }
+        },
+        {
+            "id": "w_3dceb04068d9fbd11852ce1eb197d4ac406bb22f",
+            "content": {
+                "en": "Losing my son at 31."
+            }
+        },
+        {
+            "id": "w_522c3fa48fc52f1de1a8bd7be8bd9161fbdae0a3",
+            "content": {
+                "en": "Lying dead in the lobby of the doctor\u2019s office."
+            }
+        },
+        {
+            "id": "w_56a2a88b390a6623f3dd7a8d22b1c96b949a3af3",
+            "content": {
+                "en": "Lysol."
+            }
+        },
+        {
+            "id": "w_afbd0a13da3772da715658186513cdce940c1adf",
+            "content": {
+                "en": "Maintaining six feet of distance."
+            }
+        },
+        {
+            "id": "w_df00dfe3f3d2041d11154e03e29c60deff7a4aaa",
+            "content": {
+                "en": "Making America great again."
+            }
+        },
+        {
+            "id": "w_c6f3adc05b1b3fbaa84136b37bf8c4adf7f28c59",
+            "content": {
+                "en": "Making an example of this kindly old man here."
+            }
+        },
+        {
+            "id": "w_0e7c1124bcc08ea144196fb173949ba760bf2703",
+            "content": {
+                "en": "Making Dad cry."
+            }
+        },
+        {
+            "id": "w_93adc55fa066907ffb5ec71d075177d404ba05ad",
+            "content": {
+                "en": "Making every possible mistake."
+            }
+        },
+        {
+            "id": "w_9e16f2ac67216d22dda9d3556d2404d2f6d07a1d",
+            "content": {
+                "en": "Many bats."
+            }
+        },
+        {
+            "id": "w_02042e84df7bf2cca932de013508468f33a32fde",
+            "content": {
+                "en": "Mass graves."
+            }
+        },
+        {
+            "id": "w_ae3c85010e699118598031cf6897a44150940e8f",
+            "content": {
+                "en": "Mass hysteria on a global scale."
+            }
+        },
+        {
+            "id": "w_1ab24ec5438ff444d92f6abb1dc9778198f982f3",
+            "content": {
+                "en": "Masturbating and crying and masturbating some more."
+            }
+        },
+        {
+            "id": "w_7250142f3e3acbc6109b28f16c586f5c4faffc2d",
+            "content": {
+                "en": "Masturbating to a porn star who&apos;s dead now."
+            }
+        },
+        {
+            "id": "w_78299b6fd89595879d94a0305b82e8c31b6ba46c",
+            "content": {
+                "en": "Masturbating to my dead spouse&apos;s final voicemail message."
+            }
+        },
+        {
+            "id": "w_b5acb9ebc9470602f966563903586ae482489fe8",
+            "content": {
+                "en": "Mayhem, like me."
+            }
+        },
+        {
+            "id": "w_88034dbd6b43fb09e541bb92f0138559cd0ab94b",
+            "content": {
+                "en": "Me, an Asian man."
+            }
+        },
+        {
+            "id": "w_82d3ceb817dbb731d9e613a69042c045667d68f4",
+            "content": {
+                "en": "Men in ties talking all the time."
+            }
+        },
+        {
+            "id": "w_b62d99803d6e801213c807d87fa6f1166662e44c",
+            "content": {
+                "en": "Moral bankruptcy."
+            }
+        },
+        {
+            "id": "w_8d11a0c8f2fba56bc71f422b6af931e9a8b971ba",
+            "content": {
+                "en": "More dead old people than I anticipated."
+            }
+        },
+        {
+            "id": "w_d8103f1669457ea37fb617fb9b01bdc8e5485776",
+            "content": {
+                "en": "More soap!"
+            }
+        },
+        {
+            "id": "w_eb8ebf461efca0b8689d8ff2d3675a4b8dd6eb9e",
+            "content": {
+                "en": "Morphing into an ambulance."
+            }
+        },
+        {
+            "id": "w_50e693d17ef9e86e6b5c22fcc3fd1d54cb251da1",
+            "content": {
+                "en": "My arsenal of maladaptive coping mechanisms."
+            }
+        },
+        {
+            "id": "w_fc1fd1e64f3ddf24d2f5d41083ff3deef93509cd",
+            "content": {
+                "en": "My deepest condolences."
+            }
+        },
+        {
+            "id": "w_5063c5712ff554b97a432585125e222a3ea21833",
+            "content": {
+                "en": "My frail, aging body."
+            }
+        },
+        {
+            "id": "w_7ad42e895909205d87f23547254576801077051b",
+            "content": {
+                "en": "My illegal stash of stolen N95 masks."
+            }
+        },
+        {
+            "id": "w_f3ec882bfd55a97f4e70153a15a693450622bc01",
+            "content": {
+                "en": "My lifeless corpse."
+            }
+        },
+        {
+            "id": "w_f9464063f0bb087e64f761ca4e789d53b59d93b4",
+            "content": {
+                "en": "My little sister&apos;s deathbed confession."
+            }
+        },
+        {
+            "id": "w_db840683b13704e2f34798c014a7154f803520b1",
+            "content": {
+                "en": "My slowly draining sanity."
+            }
+        },
+        {
+            "id": "w_7c310bae3ed90c7f56732935755cdeef2508da91",
+            "content": {
+                "en": "Naked Zoom night."
+            }
+        },
+        {
+            "id": "w_9f2fd5aec0ae80c72232487e5ade49a9eb982fbb",
+            "content": {
+                "en": "New York City."
+            }
+        },
+        {
+            "id": "w_c9bb8f17bf4de45b9b6681faef88a280ffe89b47",
+            "content": {
+                "en": "Nodding solemnly, a vacant look in my eye, and acknowledging that we\u2019re fucked."
+            }
+        },
+        {
+            "id": "w_75b61b6056fd54949f18b1f169fa93559369f6a0",
+            "content": {
+                "en": "Not only having dry heaves but also wet ones."
+            }
+        },
+        {
+            "id": "w_f185bc87c09df60e14ba43997f9c97f4a4e2c0a6",
+            "content": {
+                "en": "Not really caring about other people."
+            }
+        },
+        {
+            "id": "w_c8f3b91456630e80ec65e355b6ef2ed11e21fcda",
+            "content": {
+                "en": "Not vaccinating my children."
+            }
+        },
+        {
+            "id": "w_91738cff307e49c18ea6cb88d0d0e7aa9e28aac6",
+            "content": {
+                "en": "Notifying next of kin."
+            }
+        },
+        {
+            "id": "w_dc1f30db1237e5ff0edb297785518f307093855a",
+            "content": {
+                "en": "Nurses."
+            }
+        },
+        {
+            "id": "w_40885fde676dbf279e89820f1c05769535a29bf6",
+            "content": {
+                "en": "One of those awesome lady nurses who understands your pain."
+            }
+        },
+        {
+            "id": "w_2c7aee012b09ff62b221d9700cf1d21c303a2809",
+            "content": {
+                "en": "Only a very small number of survivors."
+            }
+        },
+        {
+            "id": "w_80ad09e1795e872ffb50aad118bf38ff17ffd2f5",
+            "content": {
+                "en": "Only calling Mom to make sure she&apos;s ok."
+            }
+        },
+        {
+            "id": "w_55b9dc7a1aa4c472f1f4d6c062592dac6e75589b",
+            "content": {
+                "en": "Only caring about the short-term."
+            }
+        },
+        {
+            "id": "w_c0f87ae3fc7203063ae2c8f80c0534602a536ca7",
+            "content": {
+                "en": "Only having 15 dollars to spend."
+            }
+        },
+        {
+            "id": "w_3b2c08adfc37431527c7cde3a3d9d8de751d9866",
+            "content": {
+                "en": "Only showering once a month."
+            }
+        },
+        {
+            "id": "w_1e8212d79baa3c4c9eb1fd9edef2962fe448bf7b",
+            "content": {
+                "en": "Opening for business because we are a business."
+            }
+        },
+        {
+            "id": "w_961f4b2b72fefe057ab4fa6621ba2ecf4f74352c",
+            "content": {
+                "en": "Our capitalist overlords."
+            }
+        },
+        {
+            "id": "w_32a9acde1dd4c1bed0c41c937f5b058d8b3a1c95",
+            "content": {
+                "en": "Our nation&apos;s darkest hour."
+            }
+        },
+        {
+            "id": "w_c2be02728e299e8c06ca4b9cd884686a1caea9e3",
+            "content": {
+                "en": "Our random and cruel universe."
+            }
+        },
+        {
+            "id": "w_f9c589168c418c8da18cb76cb950056b69d64d78",
+            "content": {
+                "en": "Our shithole president."
+            }
+        },
+        {
+            "id": "w_a8a43781d6ea0757183f9ef3fab2fffd07e99a1d",
+            "content": {
+                "en": "Out-of-pocket expenses."
+            }
+        },
+        {
+            "id": "w_9b4b9e94397206debab7f6ab6bcb54de8b956c3a",
+            "content": {
+                "en": "Paid leave."
+            }
+        },
+        {
+            "id": "w_518592b3f3cd9afef2429a640602566f44596c12",
+            "content": {
+                "en": "Partying."
+            }
+        },
+        {
+            "id": "w_91fc040864ad975a7300b37dc00875f86d980dd5",
+            "content": {
+                "en": "Peaking."
+            }
+        },
+        {
+            "id": "w_7e13a414e7cde7e986d7e225097f80e4a071352d",
+            "content": {
+                "en": "Perhaps the end of the human race."
+            }
+        },
+        {
+            "id": "w_444613e65dfc992db70056ea597fafb221a6291b",
+            "content": {
+                "en": "Plague masks."
+            }
+        },
+        {
+            "id": "w_dcf861313048afd9cd6b4a9514aa92e1506da62b",
+            "content": {
+                "en": "Planning my child&apos;s funeral."
+            }
+        },
+        {
+            "id": "w_f54ce2e923284fb491543d8310f0daca0590ce2e",
+            "content": {
+                "en": "Playing Cards Against Humanity until we're in physical pain."
+            }
+        },
+        {
+            "id": "w_5033c1314382906516c6a63b9830f104c0f3cfe3",
+            "content": {
+                "en": "Playing doctor."
+            }
+        },
+        {
+            "id": "w_3cf284fd8795870a47cf20f22d938a90a7d5f559",
+            "content": {
+                "en": "Playing truth or dare with the kids."
+            }
+        },
+        {
+            "id": "w_74ed72c3a13ad5026b2a35502823a44322069f56",
+            "content": {
+                "en": "Politicizing a tragedy."
+            }
+        },
+        {
+            "id": "w_7cb2825faaf5441ed2471325f1783fc3556f1bf5",
+            "content": {
+                "en": "Pooping in the shower and waffle stomping it down the drain."
+            }
+        },
+        {
+            "id": "w_db308bdddf3f68f5212cc2c90aeb1be3a75a88fe",
+            "content": {
+                "en": "Poorly-timed ventilator shortages."
+            }
+        },
+        {
+            "id": "w_f4294a3a405d1bd5f649cb1b49319b35d50a9234",
+            "content": {
+                "en": "Praying the virus away."
+            }
+        },
+        {
+            "id": "w_53f1e8d29c48c7a0eee20090862617dac68b1e46",
+            "content": {
+                "en": "Praying."
+            }
+        },
+        {
+            "id": "w_b005986c4729d630991cb63500d5497bbf42adcf",
+            "content": {
+                "en": "Pretending I'm a doctor."
+            }
+        },
+        {
+            "id": "w_ad106d058025856b6052973f5c8a30f5b1323121",
+            "content": {
+                "en": "Pretending the Prozac is helping."
+            }
+        },
+        {
+            "id": "w_bcdf333d5940d37b38aaf4ecacd19499954f85e1",
+            "content": {
+                "en": "Pretending to be informed."
+            }
+        },
+        {
+            "id": "w_c9d1a33480f1682b7a175ac401efcc7e89e0489a",
+            "content": {
+                "en": "Prioritizing stoking racial tensions over the dissemination of accurate and life-saving information."
+            }
+        },
+        {
+            "id": "w_5db6663dbd19d9faf9719409fa747a423066f344",
+            "content": {
+                "en": "Putting poop back where it came from because we all know the cost of toilet paper these days."
+            }
+        },
+        {
+            "id": "w_9f0929072045829574996018b26d66391fb32bbb",
+            "content": {
+                "en": "Putting the elderly out of their misery."
+            }
+        },
+        {
+            "id": "w_e5f0f9ec1277714752e9b18a2d2e0de345e8ebf4",
+            "content": {
+                "en": "Putting up with shit from your boss, but now it\u2019s on Zoom."
+            }
+        },
+        {
+            "id": "w_3ff0ce83353bb4ca559cbb368f58616dfa143d7d",
+            "content": {
+                "en": "Putting you out of your misery."
+            }
+        },
+        {
+            "id": "w_b156d011ea78c2c3aa47490a000b091186e43959",
+            "content": {
+                "en": "Quarantine."
+            }
+        },
+        {
+            "id": "w_fb09dca237fc0b590c78f2cb4e45d02a829fe678",
+            "content": {
+                "en": "Rampant fear and doubt."
+            }
+        },
+        {
+            "id": "w_e53dd8666fbf7db67972867b08bf274ab99eeaa6",
+            "content": {
+                "en": "Realizing it\u2019s time for a divorce."
+            }
+        },
+        {
+            "id": "w_a03d57ea83e10927f5e7a60023a25476c4ff49d6",
+            "content": {
+                "en": "Realizing most of your social life consists of going out and spending money with people you hate."
+            }
+        },
+        {
+            "id": "w_e22a084a954c9b700a0e5b2493187f0b29a7dea6",
+            "content": {
+                "en": "Really fucking bad news."
+            }
+        },
+        {
+            "id": "w_6c6fcf6262c7fa6056398685b0d01d42a27f9c39",
+            "content": {
+                "en": "Really putting a damper on things."
+            }
+        },
+        {
+            "id": "w_142b3c87117ad0fff345eb9a6d04742e14912b49",
+            "content": {
+                "en": "Refusing to believe that I am racist."
+            }
+        },
+        {
+            "id": "w_8a109610d64e2d051b7d58e81361325d203534b9",
+            "content": {
+                "en": "Rent."
+            }
+        },
+        {
+            "id": "w_e6f4788dfec37dbecf5c7afba005675f768f22ae",
+            "content": {
+                "en": "Repeating history."
+            }
+        },
+        {
+            "id": "w_268f676835b124db11fc741ad1a9aaa68037dc4c",
+            "content": {
+                "en": "Repopulating the earth."
+            }
+        },
+        {
+            "id": "w_9746d272ecd21a6c24a209ed455f0606b816e6da",
+            "content": {
+                "en": "Restarting the economy."
+            }
+        },
+        {
+            "id": "w_f8eba6f74042d795973bd19a1a5c951593bef650",
+            "content": {
+                "en": "Rethinking this whole &lsquo;Capitalism\u2019 thing."
+            }
+        },
+        {
+            "id": "w_c8a897cfd72c2fd34948f93648bdd470ac8cfe22",
+            "content": {
+                "en": "Riding out the rest of existence in the sweet embrace of inanimate nothingness."
+            }
+        },
+        {
+            "id": "w_a26009dc9684b76489f183df35b6a39269616db7",
+            "content": {
+                "en": "Risking one\u2019s life for a pack of Oreos."
+            }
+        },
+        {
+            "id": "w_1b6ca2cc0efbfba03cba320c2a8bacde3ed47995",
+            "content": {
+                "en": "Rubbing pot roast on the screen door while my son licks it from the other side to avoid contact."
+            }
+        },
+        {
+            "id": "w_d5e937a5aae4891cd25e2e8151307b4bf3b7cb57",
+            "content": {
+                "en": "Rudy Giuliani&apos;s unfathomable incompetence."
+            }
+        },
+        {
+            "id": "w_10bd2bae72b1c7ea4c7d4446c0eed0d24a7cce0e",
+            "content": {
+                "en": "Running out of toilet paper."
+            }
+        },
+        {
+            "id": "w_cc541a2996c6583121f03c60b334d23e58171629",
+            "content": {
+                "en": "Running up to various homeless people and screaming \"go home\"."
+            }
+        },
+        {
+            "id": "w_968260f1d1f2e0f775a2a1651c9624c1475a5c74",
+            "content": {
+                "en": "Sacrificing Grandma to the Dow Jones."
+            }
+        },
+        {
+            "id": "w_774e3ca5e8cb95ec6378ce4ccdfca204532af001",
+            "content": {
+                "en": "SARS."
+            }
+        },
+        {
+            "id": "w_8d5881d5633be4e9e693f44df06d8f785c975334",
+            "content": {
+                "en": "Scoring cheap political points at the expense of the oppressed."
+            }
+        },
+        {
+            "id": "w_c78cde98561217bc384ee5024a998ef22dc84ed3",
+            "content": {
+                "en": "Screaming at the sky that this isn't real, that this isn't happening, that I need to wake up."
+            }
+        },
+        {
+            "id": "w_db03c94b34d686adb8d213eac0c2f5412965abb6",
+            "content": {
+                "en": "Screaming into the void."
+            }
+        },
+        {
+            "id": "w_407f631e6556301c774769a005596ba90e93c19e",
+            "content": {
+                "en": "Screaming through the phone at my piece of shit kid while trying to buy 98 things in the Walmart express lane."
+            }
+        },
+        {
+            "id": "w_02f815e11db34ab0a66f69a204af4bd4c5c2e44e",
+            "content": {
+                "en": "Scrubbing my hands until they\u2019re squeaky-clean."
+            }
+        },
+        {
+            "id": "w_63f2940b032d1ff1ca60a2277e3034d2faf0cbd2",
+            "content": {
+                "en": "Self-quarantine."
+            }
+        },
+        {
+            "id": "w_33500bb7fd505b063979c2c8cd661a04955c7c81",
+            "content": {
+                "en": "Shooting the first person who coughs."
+            }
+        },
+        {
+            "id": "w_aece6814e6742260702569bd95f06cad5050c5d0",
+            "content": {
+                "en": "Sighing in disapproval at the mention of China."
+            }
+        },
+        {
+            "id": "w_9c64b25290ba3f5b086a181a90e387cf10def066",
+            "content": {
+                "en": "Sitting alone eating a kumquat."
+            }
+        },
+        {
+            "id": "w_b186933f1225729510c12455c3bb291f960a2cfc",
+            "content": {
+                "en": "Sitting in the agonizing comfort of your own home."
+            }
+        },
+        {
+            "id": "w_656daa9f255b214d7c0e0693c4029dfa23946741",
+            "content": {
+                "en": "Sitting on Earth&apos;s largest couch."
+            }
+        },
+        {
+            "id": "w_2d846b67efc87f17ca7a03fae12c769497b6dfbf",
+            "content": {
+                "en": "Sitting on my son&apos;s bed thinking, \"I could kill him\"."
+            }
+        },
+        {
+            "id": "w_ea70f375bee4e99e61e344a9caa812ae97b4a4fe",
+            "content": {
+                "en": "Slowly going extinct."
+            }
+        },
+        {
+            "id": "w_1aee86b84fc0c0ed709a5fe1e5d789bec4663792",
+            "content": {
+                "en": "Slowly reaching the limit of my tolerance."
+            }
+        },
+        {
+            "id": "w_e8532c7d970aa3b68cd913792d705c6bae1f0511",
+            "content": {
+                "en": "Smiling half-heartedly."
+            }
+        },
+        {
+            "id": "w_e13a0c8af16dd7febc717c61f953e53f7d7b3c10",
+            "content": {
+                "en": "Smothering the globe in soap bubbles."
+            }
+        },
+        {
+            "id": "w_ea956d5a0e92afa51ee9b13cda5f03026c683041",
+            "content": {
+                "en": "So much winning."
+            }
+        },
+        {
+            "id": "w_8302a36afbbee087895a8a5ba17deb3686fe8956",
+            "content": {
+                "en": "Social distancing."
+            }
+        },
+        {
+            "id": "w_1f2752282694d38102d1e350748a427a87b74002",
+            "content": {
+                "en": "Social interaction."
+            }
+        },
+        {
+            "id": "w_c49c430119595bb8d6395b071f97b90981c85f51",
+            "content": {
+                "en": "Solidarity."
+            }
+        },
+        {
+            "id": "w_68aef7015d15074db37915cc49c58e4dfcab3d36",
+            "content": {
+                "en": "Solitude."
+            }
+        },
+        {
+            "id": "w_f0139db00840dc18ef450585f92ef27936210675",
+            "content": {
+                "en": "Some dude with a ponytail who talks about bureaucracy."
+            }
+        },
+        {
+            "id": "w_f944598fe6b8fc786ad324f60eb1d30bbd9dba31",
+            "content": {
+                "en": "Some guy who isn't funny named Anthony Fauci."
+            }
+        },
+        {
+            "id": "w_d64dcdcfdbfb638a2bd57ed5191c883aa47ba0b0",
+            "content": {
+                "en": "Some pretty hardcore themes for a furniture commercial."
+            }
+        },
+        {
+            "id": "w_9cd0c5f94c5dde2f3d26cd87717b0a8d23dca0af",
+            "content": {
+                "en": "Soul-crushing silence."
+            }
+        },
+        {
+            "id": "w_1e9103f67328bd0e1dc97413df9063a4e0aed7a2",
+            "content": {
+                "en": "Spending quality time at home with what remains of my family."
+            }
+        },
+        {
+            "id": "w_594689ab9f0fee16a2364e96339818c65978fb9e",
+            "content": {
+                "en": "Spluttering and convulsing."
+            }
+        },
+        {
+            "id": "w_9f819e63bbb8855bc87efa2ac33a44b2faea26e2",
+            "content": {
+                "en": "Spreading Communism to all who will listen."
+            }
+        },
+        {
+            "id": "w_e815ee4026ca1240d0ee39688ec35e1480431986",
+            "content": {
+                "en": "Spreading undetected through the population."
+            }
+        },
+        {
+            "id": "w_8018c7b4c553aee30ac1a8caf7108fe15f3f4e74",
+            "content": {
+                "en": "Spreading."
+            }
+        },
+        {
+            "id": "w_2ff7621e361ce0f1a1fe30d15a9712f6a6b910f6",
+            "content": {
+                "en": "Staring at a wall for a full eight hours."
+            }
+        },
+        {
+            "id": "w_6ff1eafa02500966d1f9e4c938a3418e6cc4b9ee",
+            "content": {
+                "en": "Starting to get the hang of this whole \"lawn care\" thing."
+            }
+        },
+        {
+            "id": "w_bc4bcc6bf24ed83cf5aa8a1d2548ed8d1d3eb5de",
+            "content": {
+                "en": "Staying home every night, downloading increasingly shameful pornography."
+            }
+        },
+        {
+            "id": "w_a64ae3ab862a2e997426d39e9d02782a5bf915e0",
+            "content": {
+                "en": "Staying indoors."
+            }
+        },
+        {
+            "id": "w_bf0a5ea605f8ef9b9b4db7d87cd52e720c202d59",
+            "content": {
+                "en": "Staying the fuck inside!"
+            }
+        },
+        {
+            "id": "w_64e94e4ed2273e9e95163b59880e384baa6c9b5c",
+            "content": {
+                "en": "Steak night!"
+            }
+        },
+        {
+            "id": "w_f2be567a8ae96f90250ab98ccccfc26bb669db18",
+            "content": {
+                "en": "Sticking with Trump through it all."
+            }
+        },
+        {
+            "id": "w_5dcad09e7baa5235657154dad456ab076bda0656",
+            "content": {
+                "en": "Still being alive, I guess."
+            }
+        },
+        {
+            "id": "w_d19592954831bbdfc2179a42ccb02437aca904d9",
+            "content": {
+                "en": "Still being on the fence about if I should have sex or not."
+            }
+        },
+        {
+            "id": "w_fcb12949c8e63e6f42d12f73f35a564f91f2b580",
+            "content": {
+                "en": "Stoking the flames of racism."
+            }
+        },
+        {
+            "id": "w_4ea6aa9daaec13ea11f57e12b51a1d9c0145647a",
+            "content": {
+                "en": "Stopping the spread of Coronavirus."
+            }
+        },
+        {
+            "id": "w_2c21c90cac6ce8941d9c32aeb8d4fb1865b08542",
+            "content": {
+                "en": "Storing nuts in my mouth for the next six months of quarantine."
+            }
+        },
+        {
+            "id": "w_b042f7dd35cd1932c345be63d156fccecb868f97",
+            "content": {
+                "en": "Stress-eating 15 jars of Nutella&reg;."
+            }
+        },
+        {
+            "id": "w_7c8e5b5c92ae7ad6c97b6131ec51a873eaeb954b",
+            "content": {
+                "en": "Succumbing to Coronavirus."
+            }
+        },
+        {
+            "id": "w_6da40a02acc1ad02afe945836d9a7f14a07f453a",
+            "content": {
+                "en": "Sudden death!"
+            }
+        },
+        {
+            "id": "w_ca944e01911b861ccd6fefcbc8a3fc19e12ee690",
+            "content": {
+                "en": "Suddenly becoming a socialist."
+            }
+        },
+        {
+            "id": "w_144c5567f1083f05dbe963be576355c9c8b11388",
+            "content": {
+                "en": "Suffering."
+            }
+        },
+        {
+            "id": "w_d78e23c80ed77528a57a8268c02afbf78e6654dd",
+            "content": {
+                "en": "Survival."
+            }
+        },
+        {
+            "id": "w_5e28eb80e39e7a2dc1529cd1cc151d4474f63448",
+            "content": {
+                "en": "Suspiciously Asian noodles."
+            }
+        },
+        {
+            "id": "w_b3286117017090f9db984776081ec7143e793c13",
+            "content": {
+                "en": "Takeout."
+            }
+        },
+        {
+            "id": "w_927bd99ea332c500b785f499ed6e78840c41a433",
+            "content": {
+                "en": "Taking my first dick in forever."
+            }
+        },
+        {
+            "id": "w_7b071b09de351add30332f0dc43aeaa2e804aaeb",
+            "content": {
+                "en": "Taking this time appreciate one another and reevaluate our lives."
+            }
+        },
+        {
+            "id": "w_521bf5b4609f2b6beecf14f5b63089fa7c60a797",
+            "content": {
+                "en": "Tearfully masturbating to reruns of \"The Daily Show\"."
+            }
+        },
+        {
+            "id": "w_4f0d7fe53e4042b2643f463ff4563e50d85f2fcd",
+            "content": {
+                "en": "Televangelists."
+            }
+        },
+        {
+            "id": "w_97c5ff5d0160cd97f9409dc6a137d6971b85c3b3",
+            "content": {
+                "en": "Telling a dying man to \"get back to work\"."
+            }
+        },
+        {
+            "id": "w_be62e572c0731bbe3a2ae1b1b33c84c9272c9213",
+            "content": {
+                "en": "Telling Dad I love him."
+            }
+        },
+        {
+            "id": "w_6042597529a7a0c8951337c0087f38e3de8ba5d4",
+            "content": {
+                "en": "Telling Grandma where I plan to bury her."
+            }
+        },
+        {
+            "id": "w_53d349821cbcf7dcbd85621f4b325513ac49471c",
+            "content": {
+                "en": "Telling your partner you love him but you can't have sex with him right now."
+            }
+        },
+        {
+            "id": "w_064e1251c7e7e81e89410412bed13445fdd633d5",
+            "content": {
+                "en": "Temporary socialism."
+            }
+        },
+        {
+            "id": "w_0780d7275d3a355f9266391f7b06a5d0109018ef",
+            "content": {
+                "en": "Testing negative."
+            }
+        },
+        {
+            "id": "w_faad93b863dc1d6913c1f48dd8c5bc8e196bc123",
+            "content": {
+                "en": "Testing positive."
+            }
+        },
+        {
+            "id": "w_473d07fad6b49cb78a690d1f61d1606ed2a7255c",
+            "content": {
+                "en": "That hot uncle you never get to see anymore."
+            }
+        },
+        {
+            "id": "w_64f62257366e412822761444178c6bfc3c49b83d",
+            "content": {
+                "en": "That time Dad was diagnosed with Coronavirus and died."
+            }
+        },
+        {
+            "id": "w_41ce73ed4499c1fb3526512a3658ca28ebb9b4c0",
+            "content": {
+                "en": "That wedding dress I never wore because the world ended."
+            }
+        },
+        {
+            "id": "w_657050970a0fc1ab3eaaf9bd64d60e1c73a86078",
+            "content": {
+                "en": "The .01% of bacteria Lysol&reg; is powerless to stop."
+            }
+        },
+        {
+            "id": "w_ad6f8b77ac69bc5eb1050847e494b32cebf6ddbc",
+            "content": {
+                "en": "The amount of poop one can produce in a day."
+            }
+        },
+        {
+            "id": "w_a155080b84d128faa549e5a266ae01c96c70e73a",
+            "content": {
+                "en": "The apocalypse."
+            }
+        },
+        {
+            "id": "w_5deba9901dfbf4498d6fbdaadcfd6177bd48c9ab",
+            "content": {
+                "en": "The bread lines."
+            }
+        },
+        {
+            "id": "w_001f593de82f29eacefb612f8da389cd18013b2a",
+            "content": {
+                "en": "The CDC."
+            }
+        },
+        {
+            "id": "w_2e51f83ebe7b38409df21a344d598adbab4016e8",
+            "content": {
+                "en": "The Chinese Virus."
+            }
+        },
+        {
+            "id": "w_e2321f33ed308401e2541098489faf985f73759b",
+            "content": {
+                "en": "The Ching-Chong Ding-Dong Foundation for Sensitivity to Orientals or Whatever."
+            }
+        },
+        {
+            "id": "w_33298503e1cb195c1404449390515c80b23f7299",
+            "content": {
+                "en": "The cobwebs in my vagina."
+            }
+        },
+        {
+            "id": "w_7937cd74fdd781f9b7ef41fd4f1cdfaa8d662039",
+            "content": {
+                "en": "The cold, hard truth that death is near."
+            }
+        },
+        {
+            "id": "w_4972d9d878b748e701a3733016efdea3f210e007",
+            "content": {
+                "en": "The comforting presence of a dog."
+            }
+        },
+        {
+            "id": "w_8c4040012e33ecfd3a655fba8313f212f6f1185c",
+            "content": {
+                "en": "The darkened times after the fall of man when the birds chirp no more."
+            }
+        },
+        {
+            "id": "w_e5116f16813bb84460ea87aaa931368d4dcf0dbd",
+            "content": {
+                "en": "The days of yore."
+            }
+        },
+        {
+            "id": "w_6f7175f5282d1cea0f21a5561811462c465257f5",
+            "content": {
+                "en": "The Democrat\u2019s greatest hoax: Coronavirus."
+            }
+        },
+        {
+            "id": "w_2f9c76116e6bbc48581f1927393d784fa9cb4d3e",
+            "content": {
+                "en": "The economy."
+            }
+        },
+        {
+            "id": "w_ff15d19cb668ef53a9b7980325d06f55e779157b",
+            "content": {
+                "en": "The elderly."
+            }
+        },
+        {
+            "id": "w_5e0b7423f53c5e863b976dab7a81a03370c3b72b",
+            "content": {
+                "en": "The end of America, at the very least."
+            }
+        },
+        {
+            "id": "w_8fdde81eb0b0c75e8d1d15d9fe782565ae500893",
+            "content": {
+                "en": "The end of civilization."
+            }
+        },
+        {
+            "id": "w_03e56fdbb59329352d30adf865101f45cb888330",
+            "content": {
+                "en": "The federal response to Coronavirus."
+            }
+        },
+        {
+            "id": "w_97fbece51f347ad7fddca12c0650f820ae1cf738",
+            "content": {
+                "en": "The feds."
+            }
+        },
+        {
+            "id": "w_c88e05240b1db31cd1d3cbd248db8b9bccbd2597",
+            "content": {
+                "en": "The Flu."
+            }
+        },
+        {
+            "id": "w_4aec7a36485b67c32c56eaf662bd513a89f5a727",
+            "content": {
+                "en": "The freak from that math problem who bought 42 watermelons but turned out to have the right idea."
+            }
+        },
+        {
+            "id": "w_dc2ed4dc78abc375b2841253d4fb926fe03fbbab",
+            "content": {
+                "en": "The horror and confusion of watching Donald Trump do something right."
+            }
+        },
+        {
+            "id": "w_987575b7d750b9d26f8ec33026247e5ac2f8e592",
+            "content": {
+                "en": "The hospital."
+            }
+        },
+        {
+            "id": "w_6253b483fd66c6e717f30dcbe85a6ee34581d0f9",
+            "content": {
+                "en": "The human body."
+            }
+        },
+        {
+            "id": "w_4b912ee7095e1b6b4ebbc220bd5779c65556a7de",
+            "content": {
+                "en": "The illusion of choice in a late-stage capitalist society."
+            }
+        },
+        {
+            "id": "w_f2ac8357a7c571f9a4ea584e1014b880dd2c1f8d",
+            "content": {
+                "en": "The impending collapse of the middle class."
+            }
+        },
+        {
+            "id": "w_ca883ecb7ac3eb32af17e71c3f32a719728b8ee5",
+            "content": {
+                "en": "The impending deaths of millions of your fellow humans."
+            }
+        },
+        {
+            "id": "w_648e9c7ce54a1dab29e89d3e9f56012eac7518d2",
+            "content": {
+                "en": "The importance of having fun."
+            }
+        },
+        {
+            "id": "w_0382b2717fad95132c2cc6b7439f9bac9431e3d6",
+            "content": {
+                "en": "The innate desire to drink alone."
+            }
+        },
+        {
+            "id": "w_dfc0d85dd416f6934533e4dcaf224ea673b060c8",
+            "content": {
+                "en": "The morbidly obese."
+            }
+        },
+        {
+            "id": "w_690eebb889e3a84fd29b4137a92ba2b447f11e90",
+            "content": {
+                "en": "The morose marathon that is life."
+            }
+        },
+        {
+            "id": "w_13ad8f37c6af3e852dfc03851e62069f1f2ae765",
+            "content": {
+                "en": "The mouth area."
+            }
+        },
+        {
+            "id": "w_73628daf196bf37d33b66e74d7a6d749eec12205",
+            "content": {
+                "en": "The New York stock exchange."
+            }
+        },
+        {
+            "id": "w_04dc8c0ff89ea684ede16cf06817f0e4e59b0835",
+            "content": {
+                "en": "The novel Coronavirus."
+            }
+        },
+        {
+            "id": "w_13a95d3e413ceffa0a6e4ffceb974a6b63a6eadc",
+            "content": {
+                "en": "The peaceful and nonthreatening rise of China."
+            }
+        },
+        {
+            "id": "w_c66ffbaa470577249125c8bf9b2a0444486374bc",
+            "content": {
+                "en": "The physical imperfection of an old man."
+            }
+        },
+        {
+            "id": "w_4dbab7273afd0cdeb89a3d62192c1e6408adb0e1",
+            "content": {
+                "en": "The piked skull of the last person who dared come within six feet of me."
+            }
+        },
+        {
+            "id": "w_b34393b03867f819ffc25bfaf4afef161abc94dd",
+            "content": {
+                "en": "The privilege of existing."
+            }
+        },
+        {
+            "id": "w_da8acf54742b52c291345e39c0e482fcc7926f7f",
+            "content": {
+                "en": "The profoundly handicapped."
+            }
+        },
+        {
+            "id": "w_4b52b465769b1be16eeba2a228a68e79f9ee9e9f",
+            "content": {
+                "en": "The promise of a better tomorrow."
+            }
+        },
+        {
+            "id": "w_de052e09eaeba4e0a0a5c581858afc4bc5591a91",
+            "content": {
+                "en": "The pure joy of a dog whose parents are always home."
+            }
+        },
+        {
+            "id": "w_8e7aebaf4f26b8df4c42f7fc87a93cda0a540b0e",
+            "content": {
+                "en": "The rapidly shifting political landscape we face today."
+            }
+        },
+        {
+            "id": "w_97f0f6786e9d076ca988bbf6fb1b4c4e7897bc6f",
+            "content": {
+                "en": "The real pillars of society."
+            }
+        },
+        {
+            "id": "w_700e69137c8a888e9c1beaf023c093a57b2236e9",
+            "content": {
+                "en": "The reality that we're all going to die, and there will be no one to remember our stories."
+            }
+        },
+        {
+            "id": "w_a9181116ecf7817c2bdc862b3a59bc732054c2a1",
+            "content": {
+                "en": "The sadness that I feel."
+            }
+        },
+        {
+            "id": "w_380f65a332faadfef195c119c8c49f455798965e",
+            "content": {
+                "en": "The SARS that took little Eustace this autumn past."
+            }
+        },
+        {
+            "id": "w_31bc9abb40624aab820309c5e8f58ae2e81f6b4a",
+            "content": {
+                "en": "The scientific process."
+            }
+        },
+        {
+            "id": "w_39e831e08b62bc0d4dc70f9c17b0fc009902a077",
+            "content": {
+                "en": "The second-best hospital in the area."
+            }
+        },
+        {
+            "id": "w_700edb135ecb28281fc1511e67120965d1839645",
+            "content": {
+                "en": "The shocking stupidity of the American public."
+            }
+        },
+        {
+            "id": "w_1da59c8fde4b758fe87d3d0ad666bf37d8779f05",
+            "content": {
+                "en": "The Spanish Flu epidemic of 1918."
+            }
+        },
+        {
+            "id": "w_e4561981e8e5d06ae0ccdf08d358cbbd9904cf67",
+            "content": {
+                "en": "The struggle."
+            }
+        },
+        {
+            "id": "w_c95c5ebb261b16b679b94b99e975f0f8ca327653",
+            "content": {
+                "en": "The survivors of President Trump&apos;s first term in office."
+            }
+        },
+        {
+            "id": "w_4658db41095815852b52bab772adc43be8dab8fb",
+            "content": {
+                "en": "The three billion people living in extreme poverty."
+            }
+        },
+        {
+            "id": "w_e990d74475f045546cd1c44582817473a5e37f1b",
+            "content": {
+                "en": "The total collapse of the global financial system."
+            }
+        },
+        {
+            "id": "w_53ace5810027dabd4290f1c6d7ffabdad86581c2",
+            "content": {
+                "en": "The truth."
+            }
+        },
+        {
+            "id": "w_b648727f05fbc15eb13652263f5460da8adc7fc2",
+            "content": {
+                "en": "The ungodly feats of efficiency that can be achieved when the rich fear consequences."
+            }
+        },
+        {
+            "id": "w_e868fb2b94d49a355cff0ecd6483efad88c8bf51",
+            "content": {
+                "en": "The untimely demise of my Italian trophy wife, Angelina."
+            }
+        },
+        {
+            "id": "w_de9fc344e0c5b776b488f5e6efcd2203eb83532f",
+            "content": {
+                "en": "The vacant streets and clear skies of Los Angeles."
+            }
+        },
+        {
+            "id": "w_7de4105bf1db72981eaaa9046cfe2bf82820bace",
+            "content": {
+                "en": "The violation of our most basic human rights."
+            }
+        },
+        {
+            "id": "w_69fb04e433bc11695db20575909e684d1cd2ebc7",
+            "content": {
+                "en": "The wonders of science!"
+            }
+        },
+        {
+            "id": "w_b247b9bb5a5bff8f6d88b52c7424dae58ddad348",
+            "content": {
+                "en": "The wonders of the Orient."
+            }
+        },
+        {
+            "id": "w_6dfdd8ea4a7b5c0e8c125822e4b66370ca7f2606",
+            "content": {
+                "en": "The worst pain imaginable. Times two!"
+            }
+        },
+        {
+            "id": "w_3609618211a58a94f87066624bc43cdc1fd99277",
+            "content": {
+                "en": "The wrath of God."
+            }
+        },
+        {
+            "id": "w_5beb2f7d09e9a3b315aeb1f503fc9114a7072cd3",
+            "content": {
+                "en": "The wrong week to quit drinking."
+            }
+        },
+        {
+            "id": "w_bad66055369b01d660927300ac950ef655eab08e",
+            "content": {
+                "en": "The Wuhan Flu."
+            }
+        },
+        {
+            "id": "w_73e61d4f3f84a6fbaee1f91d7b970a4732e01531",
+            "content": {
+                "en": "There being too many people around to reasonably get naked."
+            }
+        },
+        {
+            "id": "w_ff22e82ec0789f34df6eb93dfc839f48680fd21c",
+            "content": {
+                "en": "These kleptomaniacal rich men who run our government."
+            }
+        },
+        {
+            "id": "w_b21a04ef0c53dbeabc734e5e81638b5c0e089538",
+            "content": {
+                "en": "Thinking about conserving food and then eating six cans of ravioli."
+            }
+        },
+        {
+            "id": "w_9fec3164c4d314981aeb463510d3f3de7e41519a",
+            "content": {
+                "en": "This almost-safe cruise ship."
+            }
+        },
+        {
+            "id": "w_5484ee7e4ff8ecda3bb370236e80a9f934946e3c",
+            "content": {
+                "en": "This box I live in."
+            }
+        },
+        {
+            "id": "w_4eacc92ec11c2e8e4a1df6fe558b2b7a6596a14a",
+            "content": {
+                "en": "This cup in which I'm going to need a urine sample from you."
+            }
+        },
+        {
+            "id": "w_f7a1bf0ce919bef1e7dd89f1947737d1bdf007b9",
+            "content": {
+                "en": "This dead body I found."
+            }
+        },
+        {
+            "id": "w_14b7e818d780baa0dc6b28ef5297f8454094033b",
+            "content": {
+                "en": "This disaster that nobody could have predicted except every health official and data-driven simulations."
+            }
+        },
+        {
+            "id": "w_88a9801c583f65ad6a70b25f143254c8cfef013c",
+            "content": {
+                "en": "This old lady next to me who won't stop coughing."
+            }
+        },
+        {
+            "id": "w_865f060d4dc3ccdb556f8590db359275f435a1ed",
+            "content": {
+                "en": "Those who survive."
+            }
+        },
+        {
+            "id": "w_57163f7715a00a8be409ac0627ac4d4db20f24a4",
+            "content": {
+                "en": "Thoughts and prayers."
+            }
+        },
+        {
+            "id": "w_68beaace5268d231cf9fed92218622377d34cb08",
+            "content": {
+                "en": "Three consecutive seconds of happiness."
+            }
+        },
+        {
+            "id": "w_105148bfba8394edd9d3a9123845dbfd4cdc21ce",
+            "content": {
+                "en": "Three months in the hole."
+            }
+        },
+        {
+            "id": "w_e942d923d856dcdb6dc4f1ab1104692f2addf9e5",
+            "content": {
+                "en": "Throwing a tantrum and telling everyone not to touch you anymore."
+            }
+        },
+        {
+            "id": "w_2f241446fa53c984d864c23b23267caf176dfb94",
+            "content": {
+                "en": "Toilet paper."
+            }
+        },
+        {
+            "id": "w_2f0b0c7c737c19ac058d0ae91257794f624be60b",
+            "content": {
+                "en": "Tolerating my family."
+            }
+        },
+        {
+            "id": "w_b61a7ee5198a25ac759e44e52c578a14af4a232c",
+            "content": {
+                "en": "Tonic and gin."
+            }
+        },
+        {
+            "id": "w_2b048d3f217e121571a603af399cf3928284c11a",
+            "content": {
+                "en": "Toppling large governments."
+            }
+        },
+        {
+            "id": "w_0588bfe8289e4881bdcf75367879411b6b255948",
+            "content": {
+                "en": "Total fucking chaos."
+            }
+        },
+        {
+            "id": "w_1a0d8dba2289e680798bf04fed3c65a93bdd5bbf",
+            "content": {
+                "en": "Totally ignorant and delusional opinions."
+            }
+        },
+        {
+            "id": "w_f49a7919e0e335eb9a8ab87ddb4d29280c7c1f62",
+            "content": {
+                "en": "Totally ignoring your father&apos;s death wishes."
+            }
+        },
+        {
+            "id": "w_8edae42ba23622dd09a8c86b551b2156d002c050",
+            "content": {
+                "en": "Totally ineffective political satire."
+            }
+        },
+        {
+            "id": "w_c0f12fd5e50277271f86d99e57472f62e61c7c63",
+            "content": {
+                "en": "Totally unlearning all the baseball skills."
+            }
+        },
+        {
+            "id": "w_df46996515f6d2f03eff940d95e11e9cd2cbaaf9",
+            "content": {
+                "en": "Touching all the microphones."
+            }
+        },
+        {
+            "id": "w_a8d1b0c7b583e1432f5b8bb593e27289f2f3bde3",
+            "content": {
+                "en": "Touching everything."
+            }
+        },
+        {
+            "id": "w_169a93c9a061455d4d6d279a86cd0585eae818b2",
+            "content": {
+                "en": "Travelling."
+            }
+        },
+        {
+            "id": "w_893bdb6164cc421a018178b9c3b7526cb67b9ddc",
+            "content": {
+                "en": "Trillions of taxpayer dollars down the drain!"
+            }
+        },
+        {
+            "id": "w_d51559625acba9cf07ca962ee9737d35f72d483b",
+            "content": {
+                "en": "Trying to keep it together."
+            }
+        },
+        {
+            "id": "w_b4405457f640e12dd7e56949a9e1ee33a1d2abdd",
+            "content": {
+                "en": "Trying to maintain some semblance of civility."
+            }
+        },
+        {
+            "id": "w_da549d9a66607452072545971978504fb8360e97",
+            "content": {
+                "en": "Trying to pass the time by painting a picture."
+            }
+        },
+        {
+            "id": "w_0542c91df9001f6cc92d517a7be0383147a4427d",
+            "content": {
+                "en": "Trying to wake up from this nightmare."
+            }
+        },
+        {
+            "id": "w_04d3cd530151455223b7fbd57167330e8062446e",
+            "content": {
+                "en": "Turning 32."
+            }
+        },
+        {
+            "id": "w_040ae73d74f2fb6a42be3db559cd247d56d34c6b",
+            "content": {
+                "en": "Turning poor people against each other so they don't pay attention to economic inequality."
+            }
+        },
+        {
+            "id": "w_1acc83a07d759b6ddf6f8dffe7a1ea4712a55411",
+            "content": {
+                "en": "Tweaking my nipples a little before breaking down and crying."
+            }
+        },
+        {
+            "id": "w_f4f1447dca50c05c882162edcd7db299558339bc",
+            "content": {
+                "en": "Tweeting."
+            }
+        },
+        {
+            "id": "w_91073395fa45ee488b92428636350f270e3b12ea",
+            "content": {
+                "en": "Two bros chilling in a hot tub five feet apart because there\u2019s a global pandemic."
+            }
+        },
+        {
+            "id": "w_c721a3e7efeb46e9b66f7d0e3a0f71fb87ddea96",
+            "content": {
+                "en": "Two cancelled tickets to \"Hamilton\"."
+            }
+        },
+        {
+            "id": "w_f12cc054dcb2517ba3fa1c3ae6b516aecb58e9c5",
+            "content": {
+                "en": "Two hours on PornHub."
+            }
+        },
+        {
+            "id": "w_e6beee839a1b2a9c406b98225addce380e9bf8ed",
+            "content": {
+                "en": "Two young lovers with nothing better to do."
+            }
+        },
+        {
+            "id": "w_bed5d8215f0a91e79348962453f3750eaa162c26",
+            "content": {
+                "en": "Ugh."
+            }
+        },
+        {
+            "id": "w_5531aa5f7aef5c3929f30e8cefbb8e627ebe81e1",
+            "content": {
+                "en": "Underestimating the stupidity of the average American."
+            }
+        },
+        {
+            "id": "w_2d536a227b47b01f599dfb08be2257794be4253e",
+            "content": {
+                "en": "Unfathomable stupidity."
+            }
+        },
+        {
+            "id": "w_9d0eba657b0890da01d7b9c16d7043d147c45556",
+            "content": {
+                "en": "Unnecessarily sensual Zoom messages."
+            }
+        },
+        {
+            "id": "w_a94ded4bfe80a914c7cfe173877b5bcc0a324b71",
+            "content": {
+                "en": "Ushering in the apocalypse."
+            }
+        },
+        {
+            "id": "w_247beb62720529c85104caee9a629e5a75bbaadd",
+            "content": {
+                "en": "Using a FitBit to masturbate for 2 miles."
+            }
+        },
+        {
+            "id": "w_2437e76a1569aad9d6b9de15a2d27de39fee3197",
+            "content": {
+                "en": "Using a Smucker&apos;s Uncrustable&trade; as a maxi pad."
+            }
+        },
+        {
+            "id": "w_dce048d24b925af5017b2237748df32b4f00a9fd",
+            "content": {
+                "en": "Ventilators."
+            }
+        },
+        {
+            "id": "w_d83eb62675cd5f191c0c196aad4681ec6c3c9b37",
+            "content": {
+                "en": "Vigilante justice."
+            }
+        },
+        {
+            "id": "w_276b1fe13a8343b615be41744fd802fae855bab8",
+            "content": {
+                "en": "Voter suppression."
+            }
+        },
+        {
+            "id": "w_e17bfb683f50641030046f152ffdbd8346925614",
+            "content": {
+                "en": "War with China."
+            }
+        },
+        {
+            "id": "w_60dee12349b4d4e16a6b49864f784db7f18371a1",
+            "content": {
+                "en": "Wearing glasses and sounding smart."
+            }
+        },
+        {
+            "id": "w_4a493f5113c50dbe4c796733a1fccaecccf52b86",
+            "content": {
+                "en": "Weeding out the old and sick."
+            }
+        },
+        {
+            "id": "w_3c651429613e7be5c7882c52758fff0cfacdfe60",
+            "content": {
+                "en": "Well-deserved Coronavirus."
+            }
+        },
+        {
+            "id": "w_b3188ecdf1ea979ed31b05ce782d9e1dd18b06e5",
+            "content": {
+                "en": "What Dad has to say about Chinese people."
+            }
+        },
+        {
+            "id": "w_3f3e8a80481bc629d7ade43ed3710454dbbad241",
+            "content": {
+                "en": "Whatever is necessary to make life satisfactory."
+            }
+        },
+        {
+            "id": "w_66aa6276443fb9af03fb2c77054617cd56c5a3b8",
+            "content": {
+                "en": "When government loses control."
+            }
+        },
+        {
+            "id": "w_e93dcc8bbd6f6659e4b8189641d500f694f08538",
+            "content": {
+                "en": "When I choke and choke and choke."
+            }
+        },
+        {
+            "id": "w_c23e59657a138a3d5b229bd3186d972905296b81",
+            "content": {
+                "en": "Whichever one of you took a shit in the shower."
+            }
+        },
+        {
+            "id": "w_c3c17a033a92b9c7ce8ac16693c9435c3aa67c88",
+            "content": {
+                "en": "Whipping lower-class white men into a xenophobic frenzy."
+            }
+        },
+        {
+            "id": "w_7874cad5efdaccd0ed4a23bd66cf82f30e5aaedb",
+            "content": {
+                "en": "Whiskey to calm my nerves."
+            }
+        },
+        {
+            "id": "w_07f8ea9feae856562dbac085b177996089c6c0bb",
+            "content": {
+                "en": "Wifely duties."
+            }
+        },
+        {
+            "id": "w_5e726e351b036ed745d3157fda77ca622b36fb3a",
+            "content": {
+                "en": "Winking at old people."
+            }
+        },
+        {
+            "id": "w_03bf99df4acdc5d2ff66b326564775aab8115993",
+            "content": {
+                "en": "Wiping down every surface."
+            }
+        },
+        {
+            "id": "w_4906826769bafa49dd747f29e8ce4d2fdc762e28",
+            "content": {
+                "en": "Witnessing the decline of every industry."
+            }
+        },
+        {
+            "id": "w_625b25e58dd0b3d234d1a14cc154e41a41644452",
+            "content": {
+                "en": "Wondering if it&apos;s possible to get some of that salsa to go."
+            }
+        },
+        {
+            "id": "w_ffec5219b3ba183552fec99998855e45698987eb",
+            "content": {
+                "en": "Wondering why white people love baseball so much."
+            }
+        },
+        {
+            "id": "w_9cce4565d4c8abc7d2d497883cd6faac29574f66",
+            "content": {
+                "en": "Working from home."
+            }
+        },
+        {
+            "id": "w_40c9e69f7973bbeb9ab2a62ee97938f892e6bec4",
+            "content": {
+                "en": "Wrapping myself in a blanket and making a me burrito."
+            }
+        },
+        {
+            "id": "w_2805ff5ab1922b114c7f57ec1a980456c7726c61",
+            "content": {
+                "en": "Wuhan, China."
+            }
+        },
+        {
+            "id": "w_7228156a933b03e5277ac55f4f16e9bddee03fae",
+            "content": {
+                "en": "Xenophobia."
+            }
+        },
+        {
+            "id": "w_3f74ab490c2229ca862493b813c3496818e84640",
+            "content": {
+                "en": "Xi Jinping."
+            }
+        },
+        {
+            "id": "w_26173347934e3791684557dc6c3eb7c93b360bee",
+            "content": {
+                "en": "Yet another racist tweet."
+            }
+        },
+        {
+            "id": "w_d85c0a624ed0e949864d4c0d6feb8446d0387c40",
+            "content": {
+                "en": "Young students full of online education and debt."
+            }
+        },
+        {
+            "id": "w_b5c4a9ce7a4981234fe9037410f97d020e4bc504",
+            "content": {
+                "en": "Your corpse."
+            }
+        },
+        {
+            "id": "w_4ba13776bec76f8aaf8045a93f69ba21a9e0a1a3",
+            "content": {
+                "en": "Your enduring love and support."
+            }
+        },
+        {
+            "id": "w_26fe435f60b1defcfd681abc4bdf61770c103556",
+            "content": {
+                "en": "Your mother calling and saying she&apos;s had enough."
+            }
+        },
+        {
+            "id": "w_c9b73bd064d523f8b67d232bcf371f3229f096df",
+            "content": {
+                "en": "Zoom."
+            }
+        },
+        {
+            "id": "b_4d3599d0b67c6d1e1e5ed7d15097c2594bf1c5cb",
+            "content": {
+                "en": "16 people. 39 days of ______. One Survivor."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd6f33ac44aa493ea132c432afedf77f8982fd6b",
+            "content": {
+                "en": "A recent laboratory study shows that undergraduates have 50% less sex after being exposed to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_72e9d1c9896a84649e5be491fdc30577fdd5c4aa",
+            "content": {
+                "en": "A shocking new poll reveals 96% of Americans support ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_30ee21c1df17657d5ebe34404282b62a6338b8eb",
+            "content": {
+                "en": "A successful job interview begins with a firm handshake and ends with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a38e71e9b8253e3f5147146767f1eec6e6eb44fd",
+            "content": {
+                "en": "After years of ______, my wife is finally divorcing me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ca991d2705201b9dcc3a88effe1512ccefa612fb",
+            "content": {
+                "en": "Against the advice of health officials, Donald Trump recommended ______ as a cure for Coronavirus."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f42bc19403ce972ad041ed4ba756e9a66ed530e",
+            "content": {
+                "en": "Ahhhhhh. I deserve this. No interruptions, no conference calls, just ______ all day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12eebbc4a01abc8a92545363e2d51a42c1b57f7d",
+            "content": {
+                "en": "All classes today are cancelled due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b3926ec93c666b1a67beb57a79f1ffedcfbf001f",
+            "content": {
+                "en": "Alternative medicine is now embracing the curative powers of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bd5bfa7d91c13a3d062eea16aa74aea89573043d",
+            "content": {
+                "en": "Amazon says that if I like ______, I will also like ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4e49192b882b2bd23c9d2f092a5748c02fe8fb31",
+            "content": {
+                "en": "America is #1 in ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_06f3812440eaa2b05c73bda36cd41040ecb039a7",
+            "content": {
+                "en": "And if I only had one wish come true this year, It'd be for all the poor children of this world to have ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cb5d8eabe8a4bb0ea20ffa3ec9063aa1b6ccb925",
+            "content": {
+                "en": "Are you fucking kidding me? ______? On our anniversary?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ef7e7a55ff9bf197e90964aeea28d63b7f85f65",
+            "content": {
+                "en": "As a country, we need to ensure that single moms don't have to choose between ______ and getting treatment for COVID-19."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c9765ba9eeed487c9109e89a3afe4a16c5f098bb",
+            "content": {
+                "en": "As a kid, going to see grandma and grandpa meant having to sit through ______, whether we wanted to or not."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ed499af5a2b8f12fe78d2a1769367c3d0b41f1d",
+            "content": {
+                "en": "As you get older, you might lose your sense of childlike wonder. But no one ever outgrows ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0c6fc31aaafa6de82aeb0389c78ec1fb1c110d62",
+            "content": {
+                "en": "As your healthcare provider, I urge you to take some time for ______ each day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_358c3404b01262aed4c013fa7cb16f1c50d890de",
+            "content": {
+                "en": "Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e3cde6989e3fd6c870b3ca45114157fa18dc4e9b",
+            "content": {
+                "en": "Best you go back where you came from, now. We don't take too kindly to ______ in these parts."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17221ecd408b0651e1dc5ff7f4bd2a8a0f48b475",
+            "content": {
+                "en": "Billy, put that down! You know ______ is exactly how you catch Coronavirus!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e51322c6dcdb2c8f46bf7afa15604ca4edd25bc",
+            "content": {
+                "en": "Bitch, you look nasty. You look disgusting. You look like you're ______. Go home, bitch."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fd452a384bd752e5e91a88ec3b8f7895951a990e",
+            "content": {
+                "en": "Brandon, you need to leave your room for once. You're spending too much time with ______ for a boy your age."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b47f2040936651b01dd1248709f7cf7b69664b3b",
+            "content": {
+                "en": "But mooooom! I don't want ______ for dinner again!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_14c58901de1f62443f0db4184b6d23c13442c785",
+            "content": {
+                "en": "Call me a bad parent, but the only way I can get my toddler to calm down is with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_60d34e07969952fae130f034d6852939cdc717b6",
+            "content": {
+                "en": "Calm down, calm down, there&apos;s plenty of ______ to go around. Nobody&apos;s going to miss out."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_23e10276e219d2ddbf3cc0379942f807ec4f2a43",
+            "content": {
+                "en": "Can't you see? The Jews are behind everything: the banks, the media, even ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34bfb64ef1cc1402fbae94c12c3b7eb9f4962e91",
+            "content": {
+                "en": "CNN breaking news! Scientists discover ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4be7e8391e29552f212a9c616603f724f08f2acd",
+            "content": {
+                "en": "Congratulations! You've won an all expenses paid trip to ______. Have fun, and don't forget to pack ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1535b322547829b3094c5562a24160d94b3e0db6",
+            "content": {
+                "en": "Do you suffer from ______? Find instant relief with ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5c353dbc0bd23b5822ca52bf5d6ba23ea47e0f9f",
+            "content": {
+                "en": "Do you think you can stop ______? Do you want to bet your life on that?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f2ee704ad4c2f29c96a78025c5f6abc3678a556",
+            "content": {
+                "en": "Don't let ______ ruin ______. Seek help."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bdbfe21bc1f0692aaefa752bbff21695b00adfb2",
+            "content": {
+                "en": "Dude, do not go in that bathroom. There&apos;s ______ in there."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_278187e80d30a8881813a1c8ac8c8c892b7b1c36",
+            "content": {
+                "en": "Due to Coronavirus, Walmart no longer offers ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_61ed19189d624658f5c7b343a9df35b0a18e95bd",
+            "content": {
+                "en": "Due to COVID-19, ______ has hereby been cancelled."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dccb2da3fbcd8c35bd73706a61421f9737a29226",
+            "content": {
+                "en": "During the Coronavirus crisis, my dad got really into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_39f7fc5c7028055d86b489509136b8c5938c5249",
+            "content": {
+                "en": "Everyone, stop! ______ is not who we are! We are a nation of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_47e817b3f17a1b6968ea1b353d6a6904899af6fc",
+            "content": {
+                "en": "Extra, extra, read all about it! ______ is sweeping the nation!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_00de6026b00e98be0881dcad466ec644bee7c121",
+            "content": {
+                "en": "Federal law prohibits ______ on planes. Keep your seatbelt fastened at all times while the ______ sign is on. Keep your tray locked and in its upright position, and enjoy ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_e9aa4691685b83e0152d2f8affad1dd995ebafee",
+            "content": {
+                "en": "Few people know that ______ was created right here in my laboratory."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b181f5a9e08464f413f6d4425eaf5cdb7437309",
+            "content": {
+                "en": "Finally! A service that delivers ______ right to your door."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_73eae8a53e6f1f6c94f51201992aab48904ccc58",
+            "content": {
+                "en": "For family game night, my husband brought out ______. It was the most fun the kids have had in years!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7dd0fd08325153da50b44d5ad2cbcf61db53923a",
+            "content": {
+                "en": "For her last day on earth, the Make-A-Wish Foundation gave Katie ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe437153e045052008466f468068bcfda24929a9",
+            "content": {
+                "en": "FOR SALE: ______. Only used once."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c2d73dd3e327f0a2c60e03803a0525b1cca7adf",
+            "content": {
+                "en": "For violating quarantine, I hereby sentence you to death by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eb2e82046f0b9cb112e5ff1ddd067d83cff9ded3",
+            "content": {
+                "en": "Forget about curing cancer. We need to cure ______, before it&apos;s too late."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aeafca7e19383414ed8d3cd69e1ebd27d433793d",
+            "content": {
+                "en": "Four out of five doctors recommend ______. The fifth prefers ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_94df0af7e5cfb2b7d6151ddf6a06979b6946ce57",
+            "content": {
+                "en": "Friends don't let friends get involved with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0d2da7e2b2f65f51593bbcd31861da2b21c0414",
+            "content": {
+                "en": "George R. R. Martin says that ______ is preventing him from finishing his epic fantasy saga."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2591d7f25535e495f3a520bb8f618fa9ef30194c",
+            "content": {
+                "en": "God is dead. ______ killed Him."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0c2c55bbd9cf1486db2df7835967df06899de444",
+            "content": {
+                "en": "Good evening and welcome aboard ______. Next stop, ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_96edc682232f19417ffb3389c033f0525f4ef428",
+            "content": {
+                "en": "Good news is, I&apos;m ______. Bad news is, I&apos;m ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_755179539790c39afd08ca4116cd6507d9fe1f44",
+            "content": {
+                "en": "Graduates, as you enter this next phase of your lives, remember to never give up on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed078f1b185a41b1a2dcb23d73e3b9bebc070f6f",
+            "content": {
+                "en": "Have you heard? Gary was fired from McDonald&apos;s for placing ______ in Happy Meals&reg;."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5003efdddb96d83eaccbc2bbfdac60f7e7041045",
+            "content": {
+                "en": "Heavens no, I would never spank my children! I punish them with ______ instead."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8d4917e390e9da41345f0602a994f89008b922dc",
+            "content": {
+                "en": "Hello ______, my old friend. I've come to talk with you again."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21455ba860bba61354b0e1223c84e9869288fa05",
+            "content": {
+                "en": "Help me doctor, I've got ______ in my butt!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20068d730ca54d9630fb79978750bc634fc32368",
+            "content": {
+                "en": "HELP WANTED: Need assistance with ______. No experience necessary."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f251745603c9983ab25c148b75af30416184fb41",
+            "content": {
+                "en": "Here at Farmer&apos;s Insurance, we know ______ because we've seen ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4b0e3e478c83f35cd43969fefcd0c85f51c60e79",
+            "content": {
+                "en": "Here&apos;s what you can expect for the new year. Out: ______. In: ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_67cc26edbc322201955838db8fcfed539fe26b51",
+            "content": {
+                "en": "Hey baby, come back to my place and I'll show you ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0364ba1b3160c8b2bc755d84560601f65d00c8c2",
+            "content": {
+                "en": "Hey there, young scientists! Put on your lab coats and strap on your safety goggles, because today we're learning about ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7de21e072e43b7ad274158eedac727a6fb460dc",
+            "content": {
+                "en": "Hey! I&apos;m not racist! Some of my best friends are ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c706e4b17d49b837a779f5d14978832103a01731",
+            "content": {
+                "en": "Hey, I know ______ is bad, but it could be worse. It could be ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bb498c700c52498ae339d4782a83d0276f519cc4",
+            "content": {
+                "en": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"______.\" Can you explain?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_126c7b5711b5669d659b7568bb181db30bc61b97",
+            "content": {
+                "en": "Hide your kids. Hide your wife. ______ is coming."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e20a1f8a20b11a617958aeac37cbf17ef9eda42e",
+            "content": {
+                "en": "History shows that ______ is a frequent cause of societal collapse."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ddf75e2d9acfc0f171f4fd90e03906c1d742c44",
+            "content": {
+                "en": "Home is where ______ is."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57fe45aaca7582e2d25337722e7f5b325128a43e",
+            "content": {
+                "en": "How are you spending your $1,200? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fdce034c7bb238bd54d08ec19ffc32573a089d7",
+            "content": {
+                "en": "How can we attract more Coronavirus to our shores? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de5e0f00be0d4641e9739ffcced60854d9ec52be",
+            "content": {
+                "en": "How did I contract the coronavirus? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_98157930f1622945c0b9787b2df86eb55aec6ea0",
+            "content": {
+                "en": "How is Donald Trump getting rid of all the Coronavirus? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6574e8d220068c1adb8b205542fba3ba709b393",
+            "content": {
+                "en": "How is our youth pastor appealing to the new age of online worshippers? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8197deda87ec8e05115ff3dbc401dff7cdc52238",
+            "content": {
+                "en": "I ain't no bigot or nothin', but when my son told me he was ______, it was hard for me to swallow."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fafa4765faf86ab12a77fe9dd40d74430b304d7",
+            "content": {
+                "en": "I can't take it anymore. ______ is killing me!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0daa2fd4e1b86ffe42c0815adb3cad2c649d3d88",
+            "content": {
+                "en": "I don't agree with Trump about everything, but you gotta admit, the man&apos;s got a way with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4f2585cf7da624b078959c1b839115bb63195853",
+            "content": {
+                "en": "I don't care if it&apos;s just for one night! This is my room, too, and I won't put up with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ee8af97a72a155b933e73133ffa332883c00ba2",
+            "content": {
+                "en": "I don't know what happened, doctor. One moment we were ______, and the next she was  ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4499e8662686194cf157e7bbdc145a0d47b4a2c4",
+            "content": {
+                "en": "I drink to forget ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1b29762d39e32e0dd5e53862509553cb3c3e99d4",
+            "content": {
+                "en": "I haven't smiled since that fateful day, that day of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1187a9b38646277407c85e285771ef73d6d5adff",
+            "content": {
+                "en": "I just had the worst nightmare. ______ was ______, and everybody died."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3ec476aea80d22e9ebe47735e46e81531f3406a8",
+            "content": {
+                "en": "I keep hearing Mommy and Daddy yelling about ______. Are they getting a divorce?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93bc931ca238a0e6ae15279b2d92729bfbd8a73c",
+            "content": {
+                "en": "I never thought I'd die by ______, but deep down, I always hoped I would."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_80c02469f717b95b6d4ee6a1fab4298842adc593",
+            "content": {
+                "en": "I read this interesting Facebook post recently. Did you know vaccines cause ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_38ed63cb34f62e381651211fe908d8915af8c582",
+            "content": {
+                "en": "I see friends shaking hands, saying: how do you do? They're really saying: I love ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_23c78bb3db01ccc025cb6306b045da4b5bf413cf",
+            "content": {
+                "en": "I Survived ______ And All I Got Was This Lousy T-Shirt."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b2729317f48f332a1a95457cd4b324db3aeb2a8",
+            "content": {
+                "en": "I told the doctor I had ______ in my ass. Hey, it&apos;s better than admitting it was really ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6cf476e22771122cfc691360fb5af50cdf56f211",
+            "content": {
+                "en": "I want ______ at my funeral. It&apos;s only fitting."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e3db0946634e31934829bc449200f563830be6d9",
+            "content": {
+                "en": "I was watching porn for some good girl-on-girl action, but I didn't expect to see ______ there."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a7b610fa632ab73246b6bee8039b2c5f431c6c5",
+            "content": {
+                "en": "I&apos;m gonna vote for Trump. What do we have to lose? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_86631224d013b8f470662ad0d262fac96d565d4a",
+            "content": {
+                "en": "I&apos;m just gonna stay in tonight. You know, Netflix and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2537ada8d3e6fc1fa45866301967e6f5bdc8e503",
+            "content": {
+                "en": "I&apos;m no doctor, but I&apos;m pretty sure what you're suffering from is called \"______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7d10f9f0a9dd076656b78ebf145351eb5f0a1bf8",
+            "content": {
+                "en": "I&apos;m no doctor, but you should stay away from ______ while pregnant."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fdb52b50b7720d733e192955ddf91dcf4688ce61",
+            "content": {
+                "en": "I&apos;m not racist or anything, but white people really are the best when it comes to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd3f4bb39d6936fa255e1dd8704729a94bfc27dc",
+            "content": {
+                "en": "I&apos;m optimistic about the future. We're paving a path of ______ for generations to come."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d3b0eebd7f0a931ab21fb57c45502dfd0d62af4",
+            "content": {
+                "en": "I&apos;m sorry Gary, but there&apos;s just no room in the office budget for ______ this year."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c09046974708389fd2b18127f9a0d0dc214216c",
+            "content": {
+                "en": "I&apos;m sorry, Mrs. Chen, but there was nothing we could do. At 4:15 this morning, your son succumbed to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_594bb0d83997579a7453fcef020ed24fe0d4b2b5",
+            "content": {
+                "en": "I&apos;m sorry, Professor, but I couldn't complete my homework because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a8801304b90c3883a497638640004ca2cefdf660",
+            "content": {
+                "en": "I&apos;m sorry, sir, but your insurance plan doesn't cover medical costs related to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8cf2ebf320e897942f1d2fb9ac295010be2f4a20",
+            "content": {
+                "en": "I&apos;m sorry. I'd go to the funeral, but I&apos;m ______ that day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0bc535be12d2ba7ebbb251104d827bb915bb2406",
+            "content": {
+                "en": "I&apos;m telling you, man. It was the weirdest orgy I've ever seen. There was ______ everywhere, people were ______&hellip; I don't think I'll go back."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_158afd331ea6398694dd77d1e37cf331e14ad38e",
+            "content": {
+                "en": "I&apos;m tired of all the goddamn ______ in our country!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f9ed7c7cdf5e14622e23a7e873438fbba0463466",
+            "content": {
+                "en": "I'd also like to thank ______, for teaching me all I know about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3087957cd125f2417ccc715804ce0bfd2efaed40",
+            "content": {
+                "en": "I'd go to hell and back for ______ right now."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1ab87b4bc85eaaa31348e20f16cacdde45acf6f6",
+            "content": {
+                "en": "I'd like to announce I&apos;m quitting ______ so I can spend more time with my family amidst this pandemic."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8c96fe8dfd52c2a4bc44235756594c13496ddfa6",
+            "content": {
+                "en": "I've been in the ______ business so long, now that it&apos;s over, I don't know what else to do with my life."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4242eb4891b4d44ac45e290e2da0f9f066c30995",
+            "content": {
+                "en": "If grandpa tells us one more story about the time he and grandma tried ______, I&apos;m gonna throw a fit."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_159b90d0796ef016498313f371d1ce55cfcc055b",
+            "content": {
+                "en": "If it weren't for the novel Coronavirus, this country wouldn't be so full of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4f18084338b36b02d89ea63e6c6a76bbadc6da84",
+            "content": {
+                "en": "If you can't handle ______, you'd better stay away from ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e91fb78fad4a43ccec24b44f97fc8f0927f9a00e",
+            "content": {
+                "en": "If you take care of ______ now, you won't have to worry about ______ later."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e606a6ab39f458198f6e05095fd165578b87495e",
+            "content": {
+                "en": "If you've recently been diagnosed with ______, you may be entitled to financial compensation."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75f815bd3968346b34602c1e11348ffac21fad11",
+            "content": {
+                "en": "In a parallel universe where Hillary won, our biggest concern is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17480e38861085397b006724ffbb95f08809c66b",
+            "content": {
+                "en": "In a surprising move, the Constitution has been amended to guarantee the right to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d01a957b095a982dae0ce0b27ff20cc6a005814b",
+            "content": {
+                "en": "In a world ravaged by ______, our only solace is ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0fa0f6449a525df6c169818420495ad498f00c44",
+            "content": {
+                "en": "In global news today, China is receiving international condemnation for the government\u2019s handling of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12794d62269e1b7ed07c8bc693866f1982285c18",
+            "content": {
+                "en": "In hindsight, ______ at a child&apos;s birthday party was a bad idea."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_49f76a892da9f59c52d58f67ed2718fd3dcbfaba",
+            "content": {
+                "en": "In lieu of respirators, Trump announced today that for the time being he will supply all New York hospitals with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0660db9df74a8aa0f5fbd9483f6558db775f51bd",
+            "content": {
+                "en": "In line with our predictions, we find a robust correlation between ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_684c9f6aa7a4c2c29e6bfc76e21214f7061ebaf7",
+            "content": {
+                "en": "In order to curb overpopulation, scientists agree that ______ is the only viable solution."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_781795a590f2f027e043a217284ddd18cfefa21e",
+            "content": {
+                "en": "In order to make America great again, I will replace Justice Ginsburg with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aa2e032c8e61c8ea654da966363826c6ec7d7cba",
+            "content": {
+                "en": "In these troubled times, it&apos;s important for us to remember that there&apos;s ______ out there to make life just a little bit better."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7e3bef917c5ac965ba9d30a399e9f044fde28ad",
+            "content": {
+                "en": "In Trump&apos;s America, even ______ seems normal."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a031dfeecfce7e2952f1223dd52662835db5066",
+            "content": {
+                "en": "In what&apos;s being hailed as a major breakthrough, scientists have synthesized ______ in the lab."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e29ee72986c29d221b4910f40365b3f1cebb700b",
+            "content": {
+                "en": "Is ______ normal? Asking for a friend."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3c82aa3bb42a730ee00cce02d0cf7502cf8f0624",
+            "content": {
+                "en": "Isn't it incredible? Out of all of history, we exist at the same time as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a8ec9dcd5f1a058e50ccd5e6cf2f9e52361aaf2a",
+            "content": {
+                "en": "It should come as no surprise that ______ fucked up ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bb7c84c8e60766c7470c8436cf631c9873100f2a",
+            "content": {
+                "en": "It&apos;s beginning to look a lot like ______. ______ in every store. But the prettiest sight to see is the ______ that will be on your own front door."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_f14b779cee98c24329b2034687a9b217f8602831",
+            "content": {
+                "en": "It&apos;s great to have confidence, honey, but ______ really isn't something you should brag about."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da1ff7507c44aad2ad8d2c5598d51d69a6e39da6",
+            "content": {
+                "en": "I\u2019m a little dizzy, but I think it\u2019s just from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d30dc8d11431b16cda1cfa949b721e601f3fd375",
+            "content": {
+                "en": "Judge, I&apos;m clearly not fit for jury duty because I&apos;m ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b32d071323a043a21b944471de12e0b6d4988dbd",
+            "content": {
+                "en": "Just once, I'd like to hear you say \"Thanks, Donald Trump. Thanks for ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8fd9b92826996723724350fbc2607ddc4027f13",
+            "content": {
+                "en": "Life pro tip: ______ is an easy cure for depression."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_64d5ff758afe45aaede723fb2693b6b45a31dfed",
+            "content": {
+                "en": "Like ______, State Farm is there."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1553cbaab181426eeb225a3e6134aedd646a9093",
+            "content": {
+                "en": "Listen, damnit. You step outside, you risk your life. You take a drink of water, you risk your life. And nowadays you breathe&hellip; and you risk your life. Every moment now you don't have a choice. The only thing you can choose is what you're risking it for: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_91c766aeeefbd414047ca23078df44abde5dc3ef",
+            "content": {
+                "en": "Look on the bright side! If ______ doesn't work out, there&apos;s always ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2bcd5803308c0488a6fc774dff4bbd65e5bd6e76",
+            "content": {
+                "en": "Man, this is bullshit. Fuck ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cdcb7944a706dec123e630966716055e711c210b",
+            "content": {
+                "en": "Members of New York&apos;s social elite are paying thousands of dollars just to experience ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8828bd5854ae6186321051e0456f2a2f22fb8956",
+            "content": {
+                "en": "Money can't buy me love, but it can buy me ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0fd40789b6f2d3aaa66eb179a8d6dd6325a18fa4",
+            "content": {
+                "en": "Mr. President, the public is calling for your impeachment. How should we pacify the people? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2afd82afcccd8fa7d1e6951de2efa9bf1a5ed6f",
+            "content": {
+                "en": "My country, 'tis of thee, sweet land of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e641017cd7d43eab275c1e58e365eeadc39e6f94",
+            "content": {
+                "en": "My father is sick. I just found his ______ collection in the basement!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d775d11290a2569b7a513e11edb9b755470d7cf9",
+            "content": {
+                "en": "My transition from ______ to ______ was rough."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fe472b73a9d1d90c3ba21e3c6aba4c2121676695",
+            "content": {
+                "en": "Name ONE society that has benefited from ______. That&apos;s right, you can't."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3bd33649cc228d00e07082e34be5d2bf5dd888b5",
+            "content": {
+                "en": "Next on Stossel: why the government needs to stop ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bd5e9992453a394ba8756ab9e35c733fb26000a4",
+            "content": {
+                "en": "Next up on Fox News, why white people are angry about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6e332091db52b95cc500450a56e6ae558fa8b602",
+            "content": {
+                "en": "No, Gary, ______ is not a good reason to take the day off."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_694bbf1a8a9bc8db2ac57570e92778f9fc14774d",
+            "content": {
+                "en": "Nothing I learned about ______ could have prepared me for ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0cd4b4a13b4b4f3c957fa8e351a3251ff958a6f1",
+            "content": {
+                "en": "Nothing ruins a family reunion quite like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_62e5b529d5c3712759e7f13808e5c38fbdfb02ca",
+            "content": {
+                "en": "Oh geez. Maybe I shouldn't have left ______ and ______ in the room together."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9b518ae324208bd92629c00008b87416b8b5a982",
+            "content": {
+                "en": "Oh my god! ______ killed Kenny!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1de3aabcae3b7c0ac6fab3ed917e0a22a554290e",
+            "content": {
+                "en": "Oh my god, guys! Can we calm down about ______ for five fucking seconds?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7ede820eec1c3242e5a02ba585a34dbf88adad1",
+            "content": {
+                "en": "Oh shit! I just got ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aaff0e6bd8224eb26cd06b23b8bd46d7151a0bbe",
+            "content": {
+                "en": "On a long enough time scale, the survival rate of ______ drops to zero."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c8d08587bcc6c8f7890d70d0cbe316abb5e6b0d1",
+            "content": {
+                "en": "On a scale of ______ to ______, how badly would you rate your pain? ______"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_69a0d05cd0f8b694871c811ef2c8e0cc3719a535",
+            "content": {
+                "en": "One must sacrifice ______ in order to achieve ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b5535f0b421ec8367a5ce0d4b8a8de0a9decfd18",
+            "content": {
+                "en": "Only through ______ can we achieve ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_37fd75e87a49fbe7bb2a32e91ee9ff6592103e01",
+            "content": {
+                "en": "Only ______ can prevent ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e4eed5e40700ec2f0ea4ff50785ea2c181734234",
+            "content": {
+                "en": "Open up, this is Child Protective Services! We've received reports of ______ in this household!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c9881125dee35d8baf608330e46ecbcc26e79c28",
+            "content": {
+                "en": "Potential health risks have been associated with the use of ______. Call your doctor if you experience ______ or ______, as these may indicate the presence of serious side effects."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_4a818b48f5977481883c81a64d8c5a4822424ef7",
+            "content": {
+                "en": "President Trump decried CNN as \"fake news\" after they accurately reported that he was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_182221fe9ce142716f27ca041a9c65fb90162122",
+            "content": {
+                "en": "Remember kids, when grandma comes to visit, no ______. You wouldn't want to give her Coronavirus, would you?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0d17b7ca2382178072967d5de28d582c2f33af95",
+            "content": {
+                "en": "Rich folks like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8149088eb17cdeacc5b9234b54d3d7f325e87c7",
+            "content": {
+                "en": "Say, what does a guy need to do to get ______ around here?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f4c925f6c5163e8117c28bea5028ec0597a2b5ab",
+            "content": {
+                "en": "Science will never explain ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1e676ba8e90a993bced9cf9e490d1de237294e5",
+            "content": {
+                "en": "Scientists were so preoccupied with whether they could create ______, they didn't stop to think if they should."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b34be69e6da4f11080714044674d062e6c7ff0e7",
+            "content": {
+                "en": "Seriously guys, there&apos;s nothing funny about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_458d5df34308df552764f2759641e5468988f74f",
+            "content": {
+                "en": "So this is how liberty dies: with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b3632f33fff5b24f39f593199aeca183529fb1a",
+            "content": {
+                "en": "Some people said it was stupid of me to write my will at such a young age. But after I saw ______, I knew it was time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4f5ba3acd85a3e14dcb8123b832f4830213a9833",
+            "content": {
+                "en": "Sometimes I get the feeling the only thing standing between me and a lifetime of happiness is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_092fa275f731fb37c615c884054016cdcfc5a638",
+            "content": {
+                "en": "Studies show that conservatives tend to value ______ more than ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_631181413b09a7663817747fd89565ba6039f42b",
+            "content": {
+                "en": "Studies show that lab rats navigate mazes 50% faster after being exposed to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_257eec0182f575afdb5a10773d90c0d3463d1214",
+            "content": {
+                "en": "Studies show that liberals tend to value ______ more than ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3e98af178e0b2d942b2486359516f02beb8cce6e",
+            "content": {
+                "en": "Studies show that ______ may cause ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_53b83c16ce90ea8dfa88d03498464e661aa160f3",
+            "content": {
+                "en": "Suicide rates are on the rise, and studies show that the cause is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_305f14cdf9e6d5ff45127c1a1a1c69a1645f32d1",
+            "content": {
+                "en": "Thank you, Donald Trump. Thank you for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fcd315687cc38d421949a4b8764c8786a2e072b",
+            "content": {
+                "en": "That&apos;s bullshit! They can't fire me for ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36c8d96b3444fd014ec5c048b0a6c5d71405ea42",
+            "content": {
+                "en": "The alt-right claims that the COVID-19 outbreak was actually caused by ______. And in a weird, fucked up way, they're not wrong."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b73033e1910780ad1cec74cf897deda422741f2a",
+            "content": {
+                "en": "The bathroom was out of toilet paper, so I used ______ on my ass instead."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_caa9ecc9ac376c85fcbb3000ab964e6ce3f528aa",
+            "content": {
+                "en": "The cure to Coronavirus was under our noses the whole time. Who could've guessed it&apos;s ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33160d064035322c0cc6333881aeca6829d8ddcd",
+            "content": {
+                "en": "The healing process began when I joined a support group for victims of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_800b13750d8a09007e56b9906cd5b9e858f94ba6",
+            "content": {
+                "en": "The newest delicacy in China is ______ on a stick."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d447ecde73a18b36a54102e07c60ec9e0d82fa5e",
+            "content": {
+                "en": "The year is 2021. Society has succumbed to ______. The last survivors take refuge underground."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a42cc3f5f7192934a2975302755eff666803ee86",
+            "content": {
+                "en": "There&apos;s no other way. I have to travel back in time to stop ______ from ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5b82e93251a58235d2cb123c70e443039058a731",
+            "content": {
+                "en": "They're bringing Coronavirus. They're bringing ______. They're ______. And some, I assume, are ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_0971bad871ee330d99a07cf5e0c5eda10c272ecd",
+            "content": {
+                "en": "This is a realm of shadow, of famine, plague, and blight. This is a world of ______, and there is no place for light."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_60ab41a997794c17b7f66c0d80fa6549f09a740d",
+            "content": {
+                "en": "This is how we survive: we tell ourselves that we are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01d91850eae4dd1ad995034f1f0eddf69d8e130b",
+            "content": {
+                "en": "This is the prime of my life. I&apos;m young, hot, and full of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de7909c5c6794afa4671c7b916e1f169215f5754",
+            "content": {
+                "en": "This is the way the world ends. This is the way the world ends. Not with a bang but with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dcb12da2d53c923a8247675c7d61b706233a5e6b",
+            "content": {
+                "en": "This little piggy went to market. This little piggy stayed home. This little piggy had ______. This little piggy had none."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a2431951ce789dd0e2ea2e7afd4575cabc6ca7c",
+            "content": {
+                "en": "This year, instead of climate change, Republicans have decided not to believe in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1df596b62c9b1b1e951f5bdb42901e2bca3449e9",
+            "content": {
+                "en": "Times have changed. If you want meet people in New York, you gotta be down for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_018386cdcbeeb3ffdb39493c2fbdb4a7f710804d",
+            "content": {
+                "en": "To fix America&apos;s crumbling infrastructure, President Trump has pledged to personally fill every pothole in America with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_64ae161a1497a908671180302af45604a89d920f",
+            "content": {
+                "en": "To succeed in America, you need three things: ______, ______, and ______. In that order."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_28562d6d924ef13860b8cee361555f1c4bc9eab4",
+            "content": {
+                "en": "Today we mourn the loss of our dear friend, Jessica. She died how she lived: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab49b02900fa23494c4a0989091c3e034d9ed5f1",
+            "content": {
+                "en": "Tonight&apos;s top story: What you don't know about ______ could kill you."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0d3b20c44d633a8b1c94cec233bb889134db6e0",
+            "content": {
+                "en": "Try helping an elder across the street sometime, or volunteer at your local retirement home. Better yet, show them ______. The elderly love that."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5a1fcc01e15f4397da622cc323c2349ab4288904",
+            "content": {
+                "en": "TSA guidelines now prohibit ______ on airplanes."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7a13ff74c7f33eeb17cae09d5d764d8f4490e7d",
+            "content": {
+                "en": "Ugh! I just want to take ONE cross country flight that isn't ruined by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eb25e2718018bb00e6063d27bba658ddd74d036a",
+            "content": {
+                "en": "Wake up, sheeple! There&apos;s ______ in the water, all the trees are dying, and the government&apos;s been hiding ______ from us!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b916824b2620c9fc3c7981a265c66d86ce6ab5ca",
+            "content": {
+                "en": "We're hosting a charity fundraiser. ______ for Coronavirus patients!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_76573d12220f99c61437b0b9b0967d3eb6bd4855",
+            "content": {
+                "en": "Welcome to the Coronavirus Emergency Response Summit. Mr. President of the United States, how do you think we should best go about solving the pandemic? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f346be9f6b0a47936d0dc025fdd59c98c1967877",
+            "content": {
+                "en": "Well, since the world is ending, anyone interested in ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a1a827ae801b63dde3e007d5891a8fa3385e84b9",
+            "content": {
+                "en": "Well, there was no getting around it. The first line in Gary&apos;s obituary was always going to include ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_27279ba0fb1b00863463c035a9c44a97aeae8467",
+            "content": {
+                "en": "What brought the orgy to a grinding halt? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c48a7a838054967f9ad612131fd2fcd76f2b0647",
+            "content": {
+                "en": "What did I bring back from Mexico? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2157e1df1edbaca02b924589f79dcdc8d42b6f42",
+            "content": {
+                "en": "What do old people smell like? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3d03a25807f9ee3ef70b6a3e859f8fb330384e39",
+            "content": {
+                "en": "What don't you want to find in your Chinese food? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0c9095568ba6a2a9304e40f0e4c4b71b1ce674a8",
+            "content": {
+                "en": "What ended my last relationship? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_463bec077e4668eece4c7806e11d5c7a3d3611b0",
+            "content": {
+                "en": "What gets better with age? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8fddd2180f36dcc0a08b4b497e74fa8a41857e75",
+            "content": {
+                "en": "What is the essence of capitalism? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2e706cb34cfb2d0d1f232c626d7df60d6e4965e",
+            "content": {
+                "en": "What makes life worth living? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_48a5a10e7582c59731e4bcb4da819b6430166669",
+            "content": {
+                "en": "What sucks balls? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_160600e7c9c86c3fe1db666d722d20b5962a9c33",
+            "content": {
+                "en": "What&apos;s there a ton of in heaven? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee8264dd7a287308618ccdd35998d5af721ec282",
+            "content": {
+                "en": "When asked about the biggest threat facing the nation, 60% of Americans said ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f3df4db0e7da77b91cd56b1228b7765afdf6bc27",
+            "content": {
+                "en": "Who knew ______ could take a man down so quickly and efficiently?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9ebe65a22743a83f3db98d142104c97c9f562ed7",
+            "content": {
+                "en": "With the power of ______, we shall triumph over ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ca970cd1558250e2045310056eb4032dbe79f3f7",
+            "content": {
+                "en": "You better keep quiet about this. It'll be total chaos if you tell everyone that ______ is ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a9ac10af368fe0f4fde08c4a777dce7efb352fe6",
+            "content": {
+                "en": "You can't wait forever. It&apos;s time to talk to your doctor about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a114fc0f0722f6771c144ee57e995e83f914c584",
+            "content": {
+                "en": "______ is a lie perpetuated by the left wing media."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea0393596e8b3680cc76ba5ed9f0eaa78360a633",
+            "content": {
+                "en": "______ is a risk, but it&apos;s one I&apos;m willing to take."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_70bde4ef454df8c17d6837310a4b5c81aff3b982",
+            "content": {
+                "en": "______ is as American as Saturday barbecues and apple pie."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dfba0c97dca639c3c6d50a9fe3d9fc3be1d1138e",
+            "content": {
+                "en": "______ is better with friends."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d09c09cdf9e977a98e7c3b33fa3e85f116b11b51",
+            "content": {
+                "en": "______ is God&apos;s punishment for allowing ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_cb752fb907dc8616c407a31bd387725ba00e1a24",
+            "content": {
+                "en": "______ is where my life started going wrong."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6ff7d904ed1bbfd70b4a360ce00515e8fa69ecce",
+            "content": {
+                "en": "______ may pass, but ______ will last forever."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ddcafda2e04f38cb0ad0651a80cb2ffff72e349b",
+            "content": {
+                "en": "______ will never be the same after Coronavirus."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_13017452eac9ca19aefffcbd3b86f0ae72e4c48c",
+            "content": {
+                "en": "______. That&apos;s how I want to die."
+            },
+            "pick": 1
+        }
+    ]
+}

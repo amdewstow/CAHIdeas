@@ -1,0 +1,749 @@
+{
+    "id": "Daria_Against_a_Sick_Sad_World_Pack",
+    "name": "Daria Against a Sick, Sad World Pack",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_c0efafd9b7978297126a8a2da9bb19eb9229f0c0",
+            "content": {
+                "en": "A darker place where we can explore the melancholia that always accompanies true, unbridled passion"
+            }
+        },
+        {
+            "id": "w_5403d3233e5ae0a5ff26052969c577d0b2ef63e0",
+            "content": {
+                "en": "A family of ghosts be living in your house rent-free"
+            }
+        },
+        {
+            "id": "w_12567fbe1f206aa0a62fadfb668ab7796f290f2b",
+            "content": {
+                "en": "A heavy metal band famous for having a baboon on bass"
+            }
+        },
+        {
+            "id": "w_097cb3e5ac011220e4928a5084ec2178eb44f677",
+            "content": {
+                "en": "A herd of beautiful wild ponies running free across the plains"
+            }
+        },
+        {
+            "id": "w_bfb28d6daf6f7992c5cbf400b2fc5a9cd413901b",
+            "content": {
+                "en": "A phone-sex EMS dispatcher"
+            }
+        },
+        {
+            "id": "w_e18466d7c3abf22a83002324f5577ec4c9c3edeb",
+            "content": {
+                "en": "A pseudo-intellectual poser with accessories from the street fair"
+            }
+        },
+        {
+            "id": "w_305f1a4d6b58fd5ca95b6fb6c48f4daf8009c037",
+            "content": {
+                "en": "A senior high student who carves words into his arms"
+            }
+        },
+        {
+            "id": "w_173973d9331e51050991d84274b008fd3b397271",
+            "content": {
+                "en": "A stunning array of pod people"
+            }
+        },
+        {
+            "id": "w_dd1b759945707339df2253059ba1fd5c082611de",
+            "content": {
+                "en": "A toll collector wearing nothing but a smile"
+            }
+        },
+        {
+            "id": "w_f73d92e73428368ba4350aea9b95832313355b25",
+            "content": {
+                "en": "A vision of Christ in a half-eaten candy bar"
+            }
+        },
+        {
+            "id": "w_7e4e096b6219cfbf2bc5b49ccd2210d59104746f",
+            "content": {
+                "en": "An animal plastic surgeon"
+            }
+        },
+        {
+            "id": "w_edfa331a19de1ac8dfad126f4077d857ec1bc4bf",
+            "content": {
+                "en": "Animal Maulings on Home Video"
+            }
+        },
+        {
+            "id": "w_a986711bd807f9c08bbd36f7c7717bb21fc13d2f",
+            "content": {
+                "en": "Bats sneaking into your neighborhood disguised as cute flying squirrels"
+            }
+        },
+        {
+            "id": "w_5c982e779b60ce857928ded763ee1c60fbaaf622",
+            "content": {
+                "en": "Beating them off with a stick"
+            }
+        },
+        {
+            "id": "w_4327dfcea2482746ce91196aabb1327d6d2de3b8",
+            "content": {
+                "en": "Being alienated to the extent that it doesn't matter what you say because nobody&apos;s listening anyway"
+            }
+        },
+        {
+            "id": "w_0f4999201229b3f00d45a8bc76ab4b7e1d6af4bf",
+            "content": {
+                "en": "Being almost suspiciously good"
+            }
+        },
+        {
+            "id": "w_41661a986b907928d982aba9d1ea59c14edecd4b",
+            "content": {
+                "en": "Being blind, deaf and barely able to walk"
+            }
+        },
+        {
+            "id": "w_4f94748d8293d6284a2f032324dc8aa01a58106d",
+            "content": {
+                "en": "Being cute in a, you know, shallow, superficial way"
+            }
+        },
+        {
+            "id": "w_fcbe6994dcdc23bb3ba2a38afb971428cbd50eba",
+            "content": {
+                "en": "Being in that R.E.M. video where you can read everyone&apos;s minds"
+            }
+        },
+        {
+            "id": "w_1b1ec8db1c4416438e47cdd1da2c0ee40f1dfb0f",
+            "content": {
+                "en": "Being intellectually gifted and still morally bankrupt"
+            }
+        },
+        {
+            "id": "w_8d3b181517b14377add0238b06416b7a9d96cd6e",
+            "content": {
+                "en": "Being the hostess because it&apos;s so easy to get home at the end of the night"
+            }
+        },
+        {
+            "id": "w_80525ab755a1f79795e3dedc04e6c6586311b368",
+            "content": {
+                "en": "Being the President of the Fashion Club"
+            }
+        },
+        {
+            "id": "w_76616e9b8da0fa6b0810d50fb711a0f5c36058aa",
+            "content": {
+                "en": "Being too mature to get upset at somebody else&apos;s incredible, unbelievable, undeserved luck"
+            }
+        },
+        {
+            "id": "w_2147df7be1e8b2b5a84be508b92ad57d3502ab3f",
+            "content": {
+                "en": "Breast implants for chickens"
+            }
+        },
+        {
+            "id": "w_034ef6b25153e5fb3512fe0801d7f32eb928e322",
+            "content": {
+                "en": "Breathing"
+            }
+        },
+        {
+            "id": "w_fdf567a38403b9915de1d6d9bc05e26a4b44db01",
+            "content": {
+                "en": "Committing justifiable homicide"
+            }
+        },
+        {
+            "id": "w_92e6165bc34cc4519e75e92141b1a33b64f5cab0",
+            "content": {
+                "en": "Doing it for the opportunity to look inside people&apos;s houses and find out what screwed up tastes they have"
+            }
+        },
+        {
+            "id": "w_fcffa31f0fef8cb5d7d0034b0e291f30cf8649db",
+            "content": {
+                "en": "Doing something stupid for a guy"
+            }
+        },
+        {
+            "id": "w_6300f19a91779617b890739331a0866c45a750a7",
+            "content": {
+                "en": "Dr. Quinn, medicine moron"
+            }
+        },
+        {
+            "id": "w_1bff0202a1c77a2b81bd1ed21e67133a7bc36a1e",
+            "content": {
+                "en": "Dr. Shar&apos;s Pre-Implant Temporary Bust Augmentations: For evaluational purposes only (aka practice boobs)"
+            }
+        },
+        {
+            "id": "w_0df8a005922810985927915c1e9663709a54fa07",
+            "content": {
+                "en": "Drug-crazed rodents raiding your child&apos;s medicine cabinet"
+            }
+        },
+        {
+            "id": "w_733923e1a486a48f8e1380d45e280a293a7a2322",
+            "content": {
+                "en": "Fashion Club solidarity"
+            }
+        },
+        {
+            "id": "w_00b8bb9f88350e13b3156e2a925211253dcb7b0d",
+            "content": {
+                "en": "Finding some other way to feel so then you won't feel sad"
+            }
+        },
+        {
+            "id": "w_722e6af88384ac9bfe21fb81ef1beb2893801529",
+            "content": {
+                "en": "Forbidden fruit, man. Forbidden fruit"
+            }
+        },
+        {
+            "id": "w_8cb852f9c9e1eb6f677bd807f2e47dc3e1db57be",
+            "content": {
+                "en": "G-string grandmas"
+            }
+        },
+        {
+            "id": "w_66dac9676557e4b66f97888b079bc36ca45afca1",
+            "content": {
+                "en": "Getting old enough to run away"
+            }
+        },
+        {
+            "id": "w_e3fc594abeda974422e0b524e60c75d5e6acfe9d",
+            "content": {
+                "en": "Glitter berries"
+            }
+        },
+        {
+            "id": "w_a8f0284a64fed16572b33e9da9577e97e594d9eb",
+            "content": {
+                "en": "Going to the movies or like a theme park or out for a really fancy meal now and then AND to a concert if I know somebody who&apos;s got good seats and is renting a limo. You know, nothing special."
+            }
+        },
+        {
+            "id": "w_6e9d2d1b8c5a5e5dcd046090670c2edabfb9ae47",
+            "content": {
+                "en": "Helping the starving kids in the desert, or wherever"
+            }
+        },
+        {
+            "id": "w_2d3cc777f6113419e1007c683b41138dea2352cc",
+            "content": {
+                "en": "Homicidal house plants"
+            }
+        },
+        {
+            "id": "w_f636048599da0eaf9199fc86931ea00c7b043559",
+            "content": {
+                "en": "Hoping to buck the odds on teen marriage"
+            }
+        },
+        {
+            "id": "w_08c2feddd730d6509637b44260ebb5f4cec0e9fe",
+            "content": {
+                "en": "Injecting collagen into your lips in the shape of a smile"
+            }
+        },
+        {
+            "id": "w_e7f9ada0d703e86f5ab6b6e388d3983e57fc799c",
+            "content": {
+                "en": "Knowing those straight Cs in math would pay off someday"
+            }
+        },
+        {
+            "id": "w_376201d628bb92d4076b014db403789b15289e3a",
+            "content": {
+                "en": "Learning that my parents would rather I dropped from exhaustion than missed the opportunity to shred some congressman&apos;s incriminating phone bills"
+            }
+        },
+        {
+            "id": "w_7e06542b4a4fc400633f3faf346978d67122053d",
+            "content": {
+                "en": "Little cross-dressers and the women who love them"
+            }
+        },
+        {
+            "id": "w_ec3ba9efdef00244c92a88b68de30ecce091ea75",
+            "content": {
+                "en": "Making believe that you're at the mall"
+            }
+        },
+        {
+            "id": "w_c10420a67f47bad87e5ac2625f5760dfa0757cb1",
+            "content": {
+                "en": "Mass murders, serial killers, tortures, cannibals, and puppy kickers"
+            }
+        },
+        {
+            "id": "w_ae295115925da102079e7cf086c83703b2c75dba",
+            "content": {
+                "en": "Monkeys surfing the net and corrupting our kids"
+            }
+        },
+        {
+            "id": "w_f9ae2e1b520abc450b947f2bea493d7709b5b4f7",
+            "content": {
+                "en": "Nocturnal emissions"
+            }
+        },
+        {
+            "id": "w_4911392bac0b3116f7512d930e944da5c92e3dd0",
+            "content": {
+                "en": "Not having low self-esteem, but having low esteem for everyone else"
+            }
+        },
+        {
+            "id": "w_5a1290714fed991a670ac9611b4a08e87d62bb33",
+            "content": {
+                "en": "Only needing one fake boob"
+            }
+        },
+        {
+            "id": "w_4735a37e0e23aa6c205eba29fc1e27acee1988b0",
+            "content": {
+                "en": "People just like you, only more pathetic"
+            }
+        },
+        {
+            "id": "w_4f0f92cf0a0c10be6715d7af6c74479bc5232237",
+            "content": {
+                "en": "Pretending that your weird sister is your cousin or an exchange student so your much more popular friends won't judge you"
+            }
+        },
+        {
+            "id": "w_9f0b0a5ea3b10db98d3c03720bc4c839405144d8",
+            "content": {
+                "en": "Realizing there&apos;s no sadder sight on this earth than a football player trying to think"
+            }
+        },
+        {
+            "id": "w_9b35b590fbb0416d742031bfae7ae222f8b19829",
+            "content": {
+                "en": "Saving up for a second pair of pants"
+            }
+        },
+        {
+            "id": "w_adf7b0e982becacb977917ee251df8d48179daa8",
+            "content": {
+                "en": "Scaling the world&apos;s tallest pile of seagull droppings"
+            }
+        },
+        {
+            "id": "w_e93e7e298a150215246f90172075625b66449786",
+            "content": {
+                "en": "Screaming for more full-contact martial arts excitement"
+            }
+        },
+        {
+            "id": "w_b2ea6519ccb1e117e0288058494a726e7c8df149",
+            "content": {
+                "en": "Some freak named John Jacob Jingleheimer somebody"
+            }
+        },
+        {
+            "id": "w_be7a96d9866f72a5b0f8d7457d9025a4ae74b1eb",
+            "content": {
+                "en": "Standing proudly and proclaiming I AM!"
+            }
+        },
+        {
+            "id": "w_a4d74b458fc46965c1838b21b74b7ae8f81460e3",
+            "content": {
+                "en": "Surviving, growing tall and strong, only to squander all potential to become a TEACHER"
+            }
+        },
+        {
+            "id": "w_5d0991e7444aada5f57b829a6a958367986afdfb",
+            "content": {
+                "en": "The Cadbury Tales"
+            }
+        },
+        {
+            "id": "w_a945e578acd4a2b453571d3125f6e39db8b1c7b6",
+            "content": {
+                "en": "The chance to look inside into the house and laugh at their weird sense of style"
+            }
+        },
+        {
+            "id": "w_e0a62d63a124ad934b6226faf9fdcd2de558c7e2",
+            "content": {
+                "en": "The fly-fishing pathologist who uses human organs as bait"
+            }
+        },
+        {
+            "id": "w_6afc770f9f5161e053f59b3b53ce140eef3be9ac",
+            "content": {
+                "en": "The harsh light of reality"
+            }
+        },
+        {
+            "id": "w_9ccc24e6a1a3e5f98a2591e75f6a61c2da321007",
+            "content": {
+                "en": "The killer whale... with a license to practice law"
+            }
+        },
+        {
+            "id": "w_789ca0c5bffc65fdf16593cbe7091879857ae111",
+            "content": {
+                "en": "The most negative person I know"
+            }
+        },
+        {
+            "id": "w_027e947be602daab8d90a0b453aed409fa1d44fe",
+            "content": {
+                "en": "The nightmare story of an enchanted kiss gone horribly wrong"
+            }
+        },
+        {
+            "id": "w_74f5c86e3e40ac38fab2a695c0607fc7c73770f9",
+            "content": {
+                "en": "The president of the Fashion Club"
+            }
+        },
+        {
+            "id": "w_f98138ab8c3d3a982c582e7b0febda12df312b3b",
+            "content": {
+                "en": "Turning water into wine"
+            }
+        },
+        {
+            "id": "w_a94badc5e3289a6dae184952c05ad36140ea5193",
+            "content": {
+                "en": "Twenty-two thankless years"
+            }
+        },
+        {
+            "id": "w_09759b56c9a65cfa509e7554776083fe90d1a646",
+            "content": {
+                "en": "Ultracola"
+            }
+        },
+        {
+            "id": "w_b9d3d8feb4873f451a226f45c93cbbcda172f6e4",
+            "content": {
+                "en": "Umbilical cord sculpture"
+            }
+        },
+        {
+            "id": "w_e8f9115a9e0fc3d5799bdd83292cb18bd0446e0f",
+            "content": {
+                "en": "Underage road rage"
+            }
+        },
+        {
+            "id": "w_c362ef07de4b9d47008246bfdfacc2d46e098c13",
+            "content": {
+                "en": "Using our oceans as your own private toilet"
+            }
+        },
+        {
+            "id": "w_a39160ce7bb3998cd454ef3c122703db6ca4f8cb",
+            "content": {
+                "en": "Waiting here for you. We were born in this room, we grew up in this room, and we thought we would die alone. But, now that you've arrived our lives can truly begin."
+            }
+        },
+        {
+            "id": "w_6e9dbe5abb309ce903d2eec2267333fff1aec21f",
+            "content": {
+                "en": "Waking up late today. Or early. Whatever."
+            }
+        },
+        {
+            "id": "w_4fadb5b46e166040f0a5f050f98d2a2def18efe6",
+            "content": {
+                "en": "When the pudding has skin"
+            }
+        },
+        {
+            "id": "w_330bee6e379f64367e283efe5aa33c471e6d3ded",
+            "content": {
+                "en": "Your mortal integrity tearing your family asunder"
+            }
+        },
+        {
+            "id": "w_c7be2ec8262570ee55178334dc0a41487ed7c342",
+            "content": {
+                "en": "Yummy animal secretions"
+            }
+        },
+        {
+            "id": "b_f8700534b0c37d2b52c0d01f1a25d34b3a2ce776",
+            "content": {
+                "en": "\"As far as I&apos;m concerned, the only difference between school and prison is ______.\" - Quinn Morgendorffer"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fc0d3fd4556d741c7030b784c1a99373d4dddeb1",
+            "content": {
+                "en": "\"Dressing in black is a fashion statement! It&apos;s ______. It&apos;s ______. And it&apos;s slenderizing.\" - Quinn Morgendorffer"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_06167bd5ddad782ae91b041c619e3100e27db7e6",
+            "content": {
+                "en": "\"Gardner is telling us is that the writer of fiction has a duty that goes beyond the mere telling of a story. His or her job is to tell a story in such a way as to leave the reader with ______?\" - Mr. O'Neill"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e3c15650a6281cac6f30a5d85bb855e3e69b8c22",
+            "content": {
+                "en": "\"I don't stop you from ______, don't stop me from this.\" - Quinn Morgendorffer"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21f13faaf477bbef6c5f3863ddae50f3498017cc",
+            "content": {
+                "en": "\"I like ______. It makes me special\" - Daria"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5c0b4545052bfd6fb17745441c0987399b684a4b",
+            "content": {
+                "en": "\"If something makes you feel good like ______, there must be a corresponding painful side, like ______, and that it&apos;s just a fact of life.\" - Daria"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_79e332fde17e94fe71406901e23b9ab34489f92d",
+            "content": {
+                "en": "\"My goal is not wake up at 40 with the bitter realization that I've wasted my life on a job I hate, because I was ______ in my teens.\" - Daria"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e3becbfdd9cf32fb675bdf4d9f54e43241def752",
+            "content": {
+                "en": "\"Of course, she should divorce divorce him. He&apos;s ______!\" - Quinn Morgendorffer"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_188fed4ac0e4bbfb2902c061ec2a5fa62a689962",
+            "content": {
+                "en": "\"Power Yoga is a really good thing to do because inner beauty is just as important as ______.\" - Quinn Morgendorffer"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_29faa44b028c22b98d4055df66d12446e1f06faf",
+            "content": {
+                "en": "\"Pssst. Daria, what did you get for #1?\" - Kevin, \"The one about who I really am? Try ______.\" - Daria"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7a714d09ecda7fa1c2bb52a5e6d711411f3d0ee",
+            "content": {
+                "en": "\"Thank god for ______. Otherwise you'd never know whom your real friends are. \" -Daria"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8e9156ebedac92519fa77955d416f2c42f58a91b",
+            "content": {
+                "en": "\"We tell you over and over again that you're wonderful, and you just don't get it. What&apos;s wrong with you?\" - Helen"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_48a627ff8fc6cc5374c47dc308656e20ddda657d",
+            "content": {
+                "en": "\"Why couldn't I have been born during an influenza epidemic?\" - Mr. DeMartino"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_76d2a7ab0bf4b591fb6d0f5f348a72b7cb350ff4",
+            "content": {
+                "en": "All that matters in a relationship is that you like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_02db548abeb7c4977fbc284b22c230380f83a782",
+            "content": {
+                "en": "And the vocabulary word of the night is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e0e89c1b9646b54c894347fda7349aa7a7cea80c",
+            "content": {
+                "en": "Even though I&apos;m more popular, what&apos;s the one thing we do have in common?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93620fce2f4c821b8fc6576155e90ee1b0142a72",
+            "content": {
+                "en": "Favorite pastime: ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac79acd997c80498c4659ca261a624021eb93228",
+            "content": {
+                "en": "How am I going to get through this?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_61452e5fa8e0f315c9a22789daabd5f96ea77c1a",
+            "content": {
+                "en": "How come every five minutes I feel like I&apos;m going to throw up?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fb50ceaa90ec3194fc8464bdbc3806c7c3fec555",
+            "content": {
+                "en": "How did I show my father that I&apos;m not a communist?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93b33d25066383ebe4e5c10f64210b7abe171acf",
+            "content": {
+                "en": "I had a bad experience on that hill with the Girl Scouts. We kept ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_37dcd80b288fad5df253c392000a14914ac7fe35",
+            "content": {
+                "en": "I only feel like I&apos;m wasting my life when I&apos;m ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6325e67031d2248e5514be97b9cc9067938f6a87",
+            "content": {
+                "en": "I've been busy ______ all day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c4f35361a22f83a8fb55ba503cbf4163cd792bed",
+            "content": {
+                "en": "Isn't ______ for people who drop out of high school to pursue a career based solely on youth and looks, both of which are inevitably declared dead at age 25?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f6f2ccbb77cf1c85cf394e26c01bca2fd7286d18",
+            "content": {
+                "en": "It smells like- it smells like- ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4cb6b92af38a2b209dc17a33da065688d2a37e55",
+            "content": {
+                "en": "No life. No hope. No ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bba0bcadb48e6bde52eedb3271c22c8ce671d5ad",
+            "content": {
+                "en": "Oh, shut up, you bloody-______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_462d635a88b07f45a05d5086ad089286eae9f92e",
+            "content": {
+                "en": "There&apos;s no aspect, no facet, no moment in life that can't be improved with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e1b34d0642decdf683826a71aa6a1d61c95ab6e0",
+            "content": {
+                "en": "What are you bitching about now?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_69ce9a83ba57a111dfac0a11f314f65c8148aae8",
+            "content": {
+                "en": "What do you like to do after school?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57a988a4fb852ebcd5442e1c234a0c625c622430",
+            "content": {
+                "en": "What does ______ have to do with ______ - Tonight on Sick, Sad World."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_80483c59133762dd1a06f3ea83e293dabacf7405",
+            "content": {
+                "en": "What the hell are you talking about ?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c8ac43fe7c0075a2f13f39db0d8c31345c0b483",
+            "content": {
+                "en": "Where can I go to see a big good healthy dose of bad attitude?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3233783dafa63b7411c1c5cccaf3a38b47721514",
+            "content": {
+                "en": "Where have you girls been all of our lives?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b563283017b0190fcf251afb883e23e6646cef66",
+            "content": {
+                "en": "You don&apos;t suppose we could be in for ______ of epic proportions?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9598bd606064799fae09565ca2374484a9b0dd0d",
+            "content": {
+                "en": "You know I was thinking, if people in really poor countries can't get food, then how do they stay thin?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_208f4cabe8b3b0aa4ac01a2bd30543ff55355886",
+            "content": {
+                "en": "You've got the entire course memorized. How come you can't pass the test to get out?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_07dec1386dc24d49739b47c4c8338f986146a991",
+            "content": {
+                "en": "______, next on Sick, Sad World!"
+            },
+            "pick": 1
+        }
+    ]
+}

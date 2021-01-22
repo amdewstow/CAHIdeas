@@ -1,0 +1,810 @@
+{
+    "id": "Christmas_Against_Humanity_",
+    "name": "Christmas Against Humanity!",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_8c0cbaa1bc69353eaa67795726a70de68de8b71a",
+            "content": {
+                "en": "A Christmas Holocaust."
+            }
+        },
+        {
+            "id": "w_62851fdd8ebceebecef625a4d7cfaaf137edc622",
+            "content": {
+                "en": "A fuckload of coal."
+            }
+        },
+        {
+            "id": "w_7efc92c5c0289401b265f7959153a4a2a00f3f63",
+            "content": {
+                "en": "A gingerbread man living in a home made of his own flesh."
+            }
+        },
+        {
+            "id": "w_a3dd7db754f7c35a915c145dfa5b553c56804ace",
+            "content": {
+                "en": "A Santa Claus who is most definitely white."
+            }
+        },
+        {
+            "id": "w_687dfa16f272c8119b0abdfddb48275e947b2740",
+            "content": {
+                "en": "All-vegan Christmas tree decorations."
+            }
+        },
+        {
+            "id": "w_20a22d2ea3a6b698f5471d7097135746acd4b4d1",
+            "content": {
+                "en": "An uncanny correlation between a family&apos;s financial situation and Santa&apos;s generosity."
+            }
+        },
+        {
+            "id": "w_fab922e041dde3978a5b4e8da9243e56bf78b02e",
+            "content": {
+                "en": "Being nice in December so you can be a douche for the rest of the year."
+            }
+        },
+        {
+            "id": "w_7d81a76694af2b41a642c8965eb578aebb31c656",
+            "content": {
+                "en": "Black Santa."
+            }
+        },
+        {
+            "id": "w_cbf5084c3fc1a748afb83d4a4c9abcad9a0f63e5",
+            "content": {
+                "en": "Buying Christmas presents after Christmas when everything&apos;s on sale."
+            }
+        },
+        {
+            "id": "w_314dc9c9105adf766e68b2a5198d58b63af1b41b",
+            "content": {
+                "en": "Calling it 'X-mas' just to annoy people."
+            }
+        },
+        {
+            "id": "w_99de1e1d5481973b6d927dd455eef4f0374a9257",
+            "content": {
+                "en": "Candy Cane Cunt Wrapper."
+            }
+        },
+        {
+            "id": "w_b3d55421625eca460855a50b8b02199962d35867",
+            "content": {
+                "en": "Christmas 1933-1945."
+            }
+        },
+        {
+            "id": "w_8afa8d03e5089dc8d30b3e5f400c925f9a5f46aa",
+            "content": {
+                "en": "Christmas albums that all sound the same."
+            }
+        },
+        {
+            "id": "w_73c497f975d44a1724a6bd1a1e270946dc280292",
+            "content": {
+                "en": "Christmas carol dubstep."
+            }
+        },
+        {
+            "id": "w_7beadae6dc92fe95fd5fe6b91fe2550ad8bffe1c",
+            "content": {
+                "en": "Christmas carols."
+            }
+        },
+        {
+            "id": "w_0ed666a6c1adfefee56d13a5f01aaaafc2da8e4e",
+            "content": {
+                "en": "Christmas stocking onaholes."
+            }
+        },
+        {
+            "id": "w_9712dc0a58aa2a9d702e0597e90c8ba91cf9c1bb",
+            "content": {
+                "en": "Christmas."
+            }
+        },
+        {
+            "id": "w_49892cf5e177b02ca305c5d72dc458acd590c227",
+            "content": {
+                "en": "Cookies and milk."
+            }
+        },
+        {
+            "id": "w_8a5954a877cbf16bbc9a28bac1f48b5ec8561d35",
+            "content": {
+                "en": "Crossdressing Krampus."
+            }
+        },
+        {
+            "id": "w_97af3a2a2d6a7ef580697412cd241856e3a3bea4",
+            "content": {
+                "en": "Danny DeVito Christmas."
+            }
+        },
+        {
+            "id": "w_0a6c556e84cc373ea33867c2be4139b44eb33239",
+            "content": {
+                "en": "Elf boipussy."
+            }
+        },
+        {
+            "id": "w_27ca8148b34b0e111035b1623d30c32d51293b45",
+            "content": {
+                "en": "Elf revolution."
+            }
+        },
+        {
+            "id": "w_35529bfac9d1dc23c2835a9315261da6d498825c",
+            "content": {
+                "en": "Elf slavery."
+            }
+        },
+        {
+            "id": "w_510f20d3234b0f80bc5aaf5690c303fd462b72ca",
+            "content": {
+                "en": "Fruitcake."
+            }
+        },
+        {
+            "id": "w_e027d2b2bdb6b7f1676e90bf487cd427de488f8b",
+            "content": {
+                "en": "Getting groin-tickled by Santa&apos;s white beard."
+            }
+        },
+        {
+            "id": "w_25991d2bc5896dbfd35e79d5cbc9ba077af94898",
+            "content": {
+                "en": "Getting only 25 of the 28 presents on your list."
+            }
+        },
+        {
+            "id": "w_371a130dc1bba131fb1fec79201861509a0353f8",
+            "content": {
+                "en": "Gingerbread men."
+            }
+        },
+        {
+            "id": "w_f9bd9d29ce5dfcfba6211e0ee11136592eeb9b15",
+            "content": {
+                "en": "Gingerbread women."
+            }
+        },
+        {
+            "id": "w_ed6d4c74d3d786dde6ce56b45d840356a7c1357a",
+            "content": {
+                "en": "Giving a homeless person a gingerbread house."
+            }
+        },
+        {
+            "id": "w_550ffcee21c247fe2dbb28a0ad289013f685f16b",
+            "content": {
+                "en": "Half-price Christmas chocolates after Christmas."
+            }
+        },
+        {
+            "id": "w_fa314218a8550e97b1616f8c77fccc9ab0a0682e",
+            "content": {
+                "en": "Hard packages."
+            }
+        },
+        {
+            "id": "w_da2e69fd78fed1f6c0710c22feada9286287866c",
+            "content": {
+                "en": "Hot elf on elf action."
+            }
+        },
+        {
+            "id": "w_c217d30e82da6bcac4e5cc874d5e337f221d7bfd",
+            "content": {
+                "en": "Jesus taking Mary&apos;s virginity."
+            }
+        },
+        {
+            "id": "w_87bf19b353a17b2d7e165810415a47cb21b95eed",
+            "content": {
+                "en": "Jingle balls."
+            }
+        },
+        {
+            "id": "w_c82625cfead0430a5da63160c6f6616ee08055d5",
+            "content": {
+                "en": "Jingle bells."
+            }
+        },
+        {
+            "id": "w_aab0e62bf1abadd4fcf35f8175ba3a908548cbd4",
+            "content": {
+                "en": "Jizzing into Santa&apos;s milk."
+            }
+        },
+        {
+            "id": "w_66c670ef5cff42bb479d1b75d1ae5a437988d47d",
+            "content": {
+                "en": "Kids who care about the color of Santa&apos;s skin."
+            }
+        },
+        {
+            "id": "w_631238adbc55ea55dfd2f3c8c1aff557b9701ccc",
+            "content": {
+                "en": "MechaSanta."
+            }
+        },
+        {
+            "id": "w_f8e155a98aa8da00afec45c1952fa12925e12770",
+            "content": {
+                "en": "Oversized stockings."
+            }
+        },
+        {
+            "id": "w_565a2ceb50701538c09e41869e43ec7047620fd0",
+            "content": {
+                "en": "Placing the Christmas tree next to Burnie the Radiator."
+            }
+        },
+        {
+            "id": "w_73214657bc8c3afedff74fb8e92eefd7b373621d",
+            "content": {
+                "en": "Polar Express CGI."
+            }
+        },
+        {
+            "id": "w_d71b17326ca4ed7101b7b20eb0a42b3c7a17cfaf",
+            "content": {
+                "en": "Poop in the stocking."
+            }
+        },
+        {
+            "id": "w_5ea0439e9d22d9a8f8b27165efccbffdcb890d9b",
+            "content": {
+                "en": "Putting Christ in Christmas."
+            }
+        },
+        {
+            "id": "w_2cb2084f2a4913879aba3020a0c5f49d5a7a08a9",
+            "content": {
+                "en": "Reindeer droppings on the roof."
+            }
+        },
+        {
+            "id": "w_85b3a34751961e9caf71e611f4d8cd6bce4e2419",
+            "content": {
+                "en": "Reusing present wrapping to save money."
+            }
+        },
+        {
+            "id": "w_65210ce558a13ae1ab2b75232984f2b87bd96667",
+            "content": {
+                "en": "Rudolph&apos;s pent up sexual frustration."
+            }
+        },
+        {
+            "id": "w_b67aaf5e366b1ecd02655d6343bd7ce12f9781a0",
+            "content": {
+                "en": "Santa outsourcing to China."
+            }
+        },
+        {
+            "id": "w_2b6436f16fd58e13811f46b10a52022e3f76eaa5",
+            "content": {
+                "en": "Santa&apos;s bush of white pubes."
+            }
+        },
+        {
+            "id": "w_3c101fe4657343d2a89ea573049cd45dd28dfd17",
+            "content": {
+                "en": "Santa&apos;s creamy milk."
+            }
+        },
+        {
+            "id": "w_dbd752841dfd26280f938b28bccefb44e301a9e0",
+            "content": {
+                "en": "Santa&apos;s sex slave elf."
+            }
+        },
+        {
+            "id": "w_38f30239f0d8512b7210da80820c2fed8cf0cc41",
+            "content": {
+                "en": "Santa&apos;s sleigh."
+            }
+        },
+        {
+            "id": "w_c991a9438a81d892200bf6919d01313d1040496d",
+            "content": {
+                "en": "Semi-hard packages."
+            }
+        },
+        {
+            "id": "w_5aaa7195743bec79274579af7e9ef6349b253f56",
+            "content": {
+                "en": "Sitting on Santa&apos;s lap."
+            }
+        },
+        {
+            "id": "w_1733ad6e43c784f720991fb761bfc8cd6dda3506",
+            "content": {
+                "en": "Soft packages."
+            }
+        },
+        {
+            "id": "w_cb37513f3cb960d1cf7fc6c7c4b271461ec63593",
+            "content": {
+                "en": "Stealing Santa&apos;s sleigh."
+            }
+        },
+        {
+            "id": "w_a40daba15266b56eb4a297cf3561fec370bc6e2f",
+            "content": {
+                "en": "Tangled Christmas lights."
+            }
+        },
+        {
+            "id": "w_7620449c97b060adf6b54e2df9257788fa3b27a1",
+            "content": {
+                "en": "The Christmas spirit."
+            }
+        },
+        {
+            "id": "w_3e2c65180bb470cdb933272807ed3fafa8a0f418",
+            "content": {
+                "en": "The Christmas spirits."
+            }
+        },
+        {
+            "id": "w_76d95837dc9ced3f5f7d47592f36cd79f2cd240d",
+            "content": {
+                "en": "The clitoris within a pussy."
+            }
+        },
+        {
+            "id": "w_0db9e4f39922fcd6dda842d4688f2fc364c8fdda",
+            "content": {
+                "en": "The difficulty to finding presents for your parents."
+            }
+        },
+        {
+            "id": "w_9798e085bcc08059addc887c04b539c7eaa35ed2",
+            "content": {
+                "en": "The dissapointment of a Jewish child on the 25th."
+            }
+        },
+        {
+            "id": "w_d5843afa680766ea68f1224f799493536313e330",
+            "content": {
+                "en": "The image of a crucified Santa Claus."
+            }
+        },
+        {
+            "id": "w_c997fbe36e10ee69e3acd40f7f1471ac4d0b830b",
+            "content": {
+                "en": "The increase in suicide rates on Christmas Day."
+            }
+        },
+        {
+            "id": "w_ab47a5e73057b71f3d6b2e7796e6e0d9e8b35712",
+            "content": {
+                "en": "The North Pole, if you know what I mean."
+            }
+        },
+        {
+            "id": "w_f97d4ff8f5278eca1f1968497d8c781b131955bf",
+            "content": {
+                "en": "The North Pole."
+            }
+        },
+        {
+            "id": "w_e7ebdc536b863a10e084fa01ed6a2da7d9ea3732",
+            "content": {
+                "en": "The rest of the reindeer who no one gives a shit about."
+            }
+        },
+        {
+            "id": "w_3741732dc67e4141343687220934be7da3c033ae",
+            "content": {
+                "en": "The Star Wars Holiday Special."
+            }
+        },
+        {
+            "id": "w_96a924d8b2ae1e2c589a3425fee35657a256b12f",
+            "content": {
+                "en": "The systematic oppression of the entire elf race."
+            }
+        },
+        {
+            "id": "w_8ccb09a8519330bf9d47a6336c7149069dd27308",
+            "content": {
+                "en": "The Three Wise Men."
+            }
+        },
+        {
+            "id": "w_306112ec9dbf3393a0ecf263e3d6ebec548a576d",
+            "content": {
+                "en": "The war on Christmas."
+            }
+        },
+        {
+            "id": "w_e62883829f12eb8854b483351238cee9a1963f36",
+            "content": {
+                "en": "The whitest elf dick."
+            }
+        },
+        {
+            "id": "w_933106967cba0f1e84a0d57a650d673940d2ca6d",
+            "content": {
+                "en": "Ugly Christmas sweaters."
+            }
+        },
+        {
+            "id": "w_ed812f3a3ab31a5ab1714a5ae00b94c9c0d1fe73",
+            "content": {
+                "en": "Uncomfortable hugs from relatives you only see once a year."
+            }
+        },
+        {
+            "id": "w_ef05e5f8d22ff23989edcecc1d5903e14f42e92d",
+            "content": {
+                "en": "Using child labor to make toys for the first world."
+            }
+        },
+        {
+            "id": "b_74d2e32549a108b416dec1c65890df16ce92387c",
+            "content": {
+                "en": "After Rudolph got fired because of ______, Santa&apos;s #1 reindeer is ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_234496533bec6879858cce4473ad9253fc0d2686",
+            "content": {
+                "en": "And so they say, his ______ grew three sizes that day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff394216ecf2391958d0eafb8e3320ee1634bf24",
+            "content": {
+                "en": "Before the introduction of Christianity, Christmas was a pagan holiday celebrating ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a361b49a6e0d66bd2e29b2c7e0f3e4459c3aab96",
+            "content": {
+                "en": "Christmas is a time where we celebrate ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_759f85ccea70bc14db64321c0ca6c85d95e0370f",
+            "content": {
+                "en": "Christmas just hasn't been the same after ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_705e7535eae10c79282c378006b4b4bdeafe4655",
+            "content": {
+                "en": "Due to budget cuts, Santa has been replaced by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc58f66d2491563b1c5b73057d449ac355f1a050",
+            "content": {
+                "en": "During the 1914 Christmas Truce, soldiers of both sides came together to enjoy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ce7c052e36307d6c27539b4f2f07ddf881c93d3",
+            "content": {
+                "en": "Harrassed by Russian jets, Santa used ______ to defend himself."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2413725a827524a7b557aba9189a0364f9f7e605",
+            "content": {
+                "en": "Having run out of ______, Santa had to give children ______ instead."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d684374d981021171f7d4698a199f9aa0ea37c00",
+            "content": {
+                "en": "I hate being the youngest child, my sisters always get ______ and all I get is ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_377a5db2e07d82107c61f981e79affe5357fb937",
+            "content": {
+                "en": "I saw mommy kissing ______ underneath the mistletoe."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1fd1827569b7bf3814401a135bfb3f0a55472a0",
+            "content": {
+                "en": "I wished for ______, but all I got was ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e2c9af801a014307e722cfa2bbb2b265a6cb8af5",
+            "content": {
+                "en": "If I hear another Christmas song about ______..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_337de8633d0a8c16def5458ec2cbf0a6321e9ad7",
+            "content": {
+                "en": "If it hadn't been for ______, I would have been on Santas list of nice kids this year!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_241a4a9d12d465f4016828ae1952bde5987874cc",
+            "content": {
+                "en": "Instead of Happy Holidays and Merry Christmas, our workplace forces us to say ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7b5a252ca4274bc0e7ee97a08e27a790cf16f0c2",
+            "content": {
+                "en": "It got really awkward at Christmas this year because my parents got me ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c668e098d99a5ed308108b967158cad1591953bd",
+            "content": {
+                "en": "Jesus' birth was marked by the bright Star of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d7a0d2d09325a56d20a6fe75741fba9cb1ceee2",
+            "content": {
+                "en": "Little Timmy realized the Santa at the mall wasn't real because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b6230d40bc7cd5400b4c95a5457d0857c405730c",
+            "content": {
+                "en": "My family always has this strange tradition of putting ______ on the Christmas tree."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa142c149255a7093edbda31c0cc5a3df868fe67",
+            "content": {
+                "en": "My mom got me ______ and I got her ______. Awkward."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5401eab2b8616f5712458ee7b826c98f3ce77a1f",
+            "content": {
+                "en": "On the third day of Christmas, my true love gave to me: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6414911793e7a3a09086e99973c2fbb25dc3b12",
+            "content": {
+                "en": "PBS happily presents! A ______ christmas special!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34053e528fc9e00cca8f48679edcda117226ecbb",
+            "content": {
+                "en": "Rudolph the ______-nosed reindeer."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_662808b712691d8c3c1aa3278cda110929fab834",
+            "content": {
+                "en": "Santa brings ______ to nice children and ______ to naughty ones."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f0405ec5d76dc2cfabedfe872e29fa1400b76b80",
+            "content": {
+                "en": "Some kids use ______ and ______ instead of cookies and milk to reward Santa with."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c2eacd34b288be5c13f8dbbc9728d68f694158a5",
+            "content": {
+                "en": "The Three Wise Men came bearing gifts of ______, ______, and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_68620866585aa072e6b5c23ef85df7e48b1fea29",
+            "content": {
+                "en": "This year on Chirstmas Day, little Timmy at the orphanage was given ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_921e3e890a751d408a2a74e4846abd783b453ede",
+            "content": {
+                "en": "This year&apos;s hit Christmas song is about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0c3732002ef4e265ba556c7159e48079dc6f7f1e",
+            "content": {
+                "en": "This year, I was on Santa&apos;s ______ list."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eddc582b124fc9faa98f56bc13b3f0221c1f126e",
+            "content": {
+                "en": "This year, I was surprised to find out that the true meaning of Christmas is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_63a532e2dd81b0b3e5082f4c17d004509da0957e",
+            "content": {
+                "en": "This year, instead of coal, Santa will be giving naughty children ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ce98ac1362989aee7f20f06cda814d55195dcaed",
+            "content": {
+                "en": "This year, instead of Jesus and Mary in the Nativity scene, we put ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7ff22b06d16d4da1907171f3b56d998492ec295f",
+            "content": {
+                "en": "To beat the neighbors' Christmas display this year, my family put up ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7cd3f245e65e15901a7ddc49f371f6102d3097d6",
+            "content": {
+                "en": "Tonight, you will be visited by the Ghosts of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e8bd1fe9bd9affbff06a24c17dbfcab021bbc8b",
+            "content": {
+                "en": "Walmart gave its employees the Christmas present of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a2848b5e1dd59154d7601b42c4cc875b541d605a",
+            "content": {
+                "en": "We wanted to give the orphanage kids a memorable Christmas, but in retrospect, ______ as Santa wasn't the best call."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7f1f8bb021db6b58e841059046bf29a72eb2fc87",
+            "content": {
+                "en": "We wish you a merry ______ and a happy ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8dfc247105b26a922c3a8fef2cb7249bd31d7cf5",
+            "content": {
+                "en": "We wish you a ______ Christmas!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe5df7fc34a43a81c24369f4a9d79a2bc2a1cfcb",
+            "content": {
+                "en": "What I really want Santa to bring me for Christmas is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_859f7049fb9c6dfe096998b41b1cc0e55d8dd078",
+            "content": {
+                "en": "When I grew up, I found out that Santa was actually ."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e9e72458fd8a8ff10b70e6141f8e9fe6a71985a",
+            "content": {
+                "en": "With the reindeer on strike, this year Santa&apos;s sleigh is fueled by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7e37ca8d298d17a8f124e766b380772cf0cfa9d",
+            "content": {
+                "en": "You better watch out, you better not cry, you better not pout, I&apos;m telling you why: ______ is coming to town."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b30576228c2bbb16de0411bb4b29cee61591d34",
+            "content": {
+                "en": "______ came close to ruining Christmas, but with ______ we still had a good time."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6a80a89a9c8d40ec253e9d83d8e92899f44d80d7",
+            "content": {
+                "en": "______ did not appreciate my present of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b88f6d6b8316942597ea40d9052f87cb1557ed9d",
+            "content": {
+                "en": "______ is my favorite Christmas tradition."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_28675383e8ed9f3fc09d0cc9487c01087d15989e",
+            "content": {
+                "en": "______ is the hottest Christmas album this year!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4340a766e370e65975396d23caf5b01be8fdbda5",
+            "content": {
+                "en": "______ Night, ______ Night. All is ______, All is ______."
+            },
+            "pick": 4
+        },
+        {
+            "id": "b_8e77f5627ab4ff13dd62d275e95e5e102a586d6f",
+            "content": {
+                "en": "______ put me on the naughty list, but I redeemed myself with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_658051af23132fac7f0eafbeefd97d5cc077aaa8",
+            "content": {
+                "en": "______ was the finishing touch on the gingerbread house."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e1ddd4a363c5c809161c3dc1f641e0cc2c38f3b",
+            "content": {
+                "en": "______ was the hardest present to wrap."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_19c89ddda1d51111fc6d6a02b549c12485468bd9",
+            "content": {
+                "en": "______ was the perfect present for ______."
+            },
+            "pick": 2
+        }
+    ]
+}

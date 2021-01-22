@@ -1,0 +1,274 @@
+{
+    "id": "Spongebob",
+    "name": "Spongebob",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_4fd11955a8d2b9643819a8a7a1afd05455fbf0ea",
+            "content": {
+                "en": "A ghost who is obsessed with socks."
+            }
+        },
+        {
+            "id": "w_ccdb2697c99e21262ae8b9acc9f9f52dd742285a",
+            "content": {
+                "en": "A mysterious flying man who helps people."
+            }
+        },
+        {
+            "id": "w_d9e938fd72c3190d29724fcece23f9f6ca049e7e",
+            "content": {
+                "en": "A one-way ticket to pain."
+            }
+        },
+        {
+            "id": "w_dd35eac10f10858d704bd6678954351bc54837fc",
+            "content": {
+                "en": "A penny, a chip, and a used napkin."
+            }
+        },
+        {
+            "id": "w_94931f8f79282a59c2159ff893651c9ce3258004",
+            "content": {
+                "en": "A pie that was made in a bomb factory and it&apos;s a bomb."
+            }
+        },
+        {
+            "id": "w_b3c051d2cd9ed22f805e2744a0748994080ec12f",
+            "content": {
+                "en": "A sick rap duet between a thawed out caveman and a robot."
+            }
+        },
+        {
+            "id": "w_19e24763324757825362f04d1cc91827737e3d27",
+            "content": {
+                "en": "An actual, for-real gorilla."
+            }
+        },
+        {
+            "id": "w_21311e244d285570e1467ce8a56aafd6744f567f",
+            "content": {
+                "en": "An Alaskan bull worm."
+            }
+        },
+        {
+            "id": "w_f6f9313f0998ec606c865774dfefa6f257e4ce6d",
+            "content": {
+                "en": "An embarrassing photo of me at the Christmas party!"
+            }
+        },
+        {
+            "id": "w_e8ea46f2decaad5aebbda08ce939b77ad26882ed",
+            "content": {
+                "en": "Blowing me like the dirty bubble I am."
+            }
+        },
+        {
+            "id": "w_d3747d25252db1201f5d09db07f3a6332f6796a6",
+            "content": {
+                "en": "CHOCOLAAAAAAATE!!!!"
+            }
+        },
+        {
+            "id": "w_b799f261cf2531bbc89cadf9bfc8bebc22c45959",
+            "content": {
+                "en": "David Hasselhoff!?"
+            }
+        },
+        {
+            "id": "w_aebe8b39596293224600b0b2761061b49608bea6",
+            "content": {
+                "en": "Debauchery."
+            }
+        },
+        {
+            "id": "w_dbfb548134c3ac1760143fc2c03ac5cc48e1e0a2",
+            "content": {
+                "en": "Dueling an entire family of clams."
+            }
+        },
+        {
+            "id": "w_351b8bc042565ceeeb770c4dc5fe87c1a42f1b70",
+            "content": {
+                "en": "Dumb ol' Texas."
+            }
+        },
+        {
+            "id": "w_07d8a4108c0864060b616305387357dbe6aab422",
+            "content": {
+                "en": "Dying right now in a fiery explosion due to the carelessness of a friend."
+            }
+        },
+        {
+            "id": "w_db074c48f2023b4d98779e8f60a713a8f65b7636",
+            "content": {
+                "en": "Evil."
+            }
+        },
+        {
+            "id": "w_4364f61b274d36b2a1cfbf7c3c393ed947faf313",
+            "content": {
+                "en": "Firmly grasping it in your hand."
+            }
+        },
+        {
+            "id": "w_85148775d353d35a7cdbf5acc2cf75d7f1c743d9",
+            "content": {
+                "en": "Hailing the magic conch shell."
+            }
+        },
+        {
+            "id": "w_d9a526cbc7c69312b20d4b67107bc0c5dd114e85",
+            "content": {
+                "en": "Inflatable pants!!!"
+            }
+        },
+        {
+            "id": "w_e9eec0b24b34ba852f600f6fef7a4d82f82584f1",
+            "content": {
+                "en": "Meowing."
+            }
+        },
+        {
+            "id": "w_1eba59aa9a316aeea44f9b9fa1a16b76ef222dd0",
+            "content": {
+                "en": "Nose picking, chewing gum, and sand licking."
+            }
+        },
+        {
+            "id": "w_41610a541bb92ac5dc54d4843b874138067cb21f",
+            "content": {
+                "en": "Not a giraffe."
+            }
+        },
+        {
+            "id": "w_5902c8f402004cfa05f048aebea2463972ae5d4f",
+            "content": {
+                "en": "Not wearing any pants today."
+            }
+        },
+        {
+            "id": "w_db51b6091e7eb4459d67db3f58a6b498c2e67b73",
+            "content": {
+                "en": "Ripping my pants clean off."
+            }
+        },
+        {
+            "id": "w_992fb79601b136b6dff5e6d5a347f35076af667c",
+            "content": {
+                "en": "Roger, the egg who represents the fragility of all life."
+            }
+        },
+        {
+            "id": "w_238ef1c4a84e5646cb7cfd6435bdf37990ea1dc1",
+            "content": {
+                "en": "Stubbing my toe and crying for twenty minutes."
+            }
+        },
+        {
+            "id": "w_5c66fda32aab3176f439697bb717a3999221135e",
+            "content": {
+                "en": "Summoning a sea bear."
+            }
+        },
+        {
+            "id": "w_2f9e88cfcc99ba1c996341d35b869a9b5698ab97",
+            "content": {
+                "en": "The emotional agony of being unable to see my forehead."
+            }
+        },
+        {
+            "id": "w_5cfcef4cdda635f2992fb9f911d02c54a2a98ef9",
+            "content": {
+                "en": "The hair growing out of my liver spots."
+            }
+        },
+        {
+            "id": "w_28584dec11e85a4fec4b236f94a3ad49f1290dcc",
+            "content": {
+                "en": "The smelly smell of something that smells smelly."
+            }
+        },
+        {
+            "id": "w_19c5279457942d07fae6a55a2111802d79493ae5",
+            "content": {
+                "en": "Those darn city folk and their flying machines."
+            }
+        },
+        {
+            "id": "w_fd0ae90b09a39a3ebbf7d3d974cd40bb2e36ee0b",
+            "content": {
+                "en": "Torturing a man until he admits he&apos;s a robot."
+            }
+        },
+        {
+            "id": "w_2e50d09c60a6eb8cfeef8797915b2962f1db4d7d",
+            "content": {
+                "en": "Trying to enjoy this pizza but I can't because the delivery boy forgot my fucking drink."
+            }
+        },
+        {
+            "id": "w_7d1fb7b72de50d852e0cade4e05266d03d907dcb",
+            "content": {
+                "en": "Wearing a salmon suit."
+            }
+        },
+        {
+            "id": "w_b9fb428e25f44bc3dc6166361ef695d3a87dc78e",
+            "content": {
+                "en": "White stuff."
+            }
+        },
+        {
+            "id": "b_b5456753567279e6cac8e4b4a4014cc5d4ab3794",
+            "content": {
+                "en": "F is for friends who do ______ together. U is for you and ______. N is for ______ at any time at all down here in the deep blue sea."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_23e652d2533f6b4f9dd7cd16390255d3f249938e",
+            "content": {
+                "en": "How tough am I? How tough am I? I had a bowl of ______ for breakfast. Without any milk."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c595e1a2f1649ce57085031c295e6e5c7dde8f48",
+            "content": {
+                "en": "Let&apos;s take ______, and push it somewhere else!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_749066e570390aba567d6e75569019c9dbccc8ad",
+            "content": {
+                "en": "Silly Squidward. Everything&apos;s ______ in the future!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d35cf3e17c74c789430e9c6f966d0d489e0ac73c",
+            "content": {
+                "en": "These kids expected ______, but all they got was ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8335d70a66afd20dd805bd8ab2d388d61e96e306",
+            "content": {
+                "en": "What&apos;s in my secret box?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_139ba428887454514b9629b3990e36e47b095546",
+            "content": {
+                "en": "Yes! I've finally got it! After all these years, I now know that the Krabby Patty secret formula is ______!"
+            },
+            "pick": 1
+        }
+    ]
+}

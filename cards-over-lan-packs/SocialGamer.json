@@ -1,0 +1,187 @@
+{
+    "id": "SocialGamer",
+    "name": "SocialGamer",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_dc9673c32848002420507ab51ec1545fe9f0616f",
+            "content": {
+                "en": "A Canadian penny."
+            }
+        },
+        {
+            "id": "w_9e7ae410c924c3c7bbe93d62a1e0f800476d078d",
+            "content": {
+                "en": "Being banned from \/r\/pyongyang."
+            }
+        },
+        {
+            "id": "w_c530a468908ada1857f92a264a8580e18cd810be",
+            "content": {
+                "en": "Cleveland (it&apos;s not Detroit!)."
+            }
+        },
+        {
+            "id": "w_cc7e4910f0869eae1151d7fbd3eac0e8ab53e91c",
+            "content": {
+                "en": "dho&apos;s penis."
+            }
+        },
+        {
+            "id": "w_ac00a34051944b1651da3a164002e5f329b50b95",
+            "content": {
+                "en": "Dr. Phil."
+            }
+        },
+        {
+            "id": "w_04cfb6fa523db157df31056e25dc061641bbfc4d",
+            "content": {
+                "en": "Griffy&apos;s tits."
+            }
+        },
+        {
+            "id": "w_55196b78b323e6b434a8f19f9df4ddb5f580b481",
+            "content": {
+                "en": "Jonathan Coulton."
+            }
+        },
+        {
+            "id": "w_3b0e39aae60be01684602f302c23ce50193514dd",
+            "content": {
+                "en": "MC Frontalot."
+            }
+        },
+        {
+            "id": "w_1d2a3c8d6698e180f38b1e00741e6d1c086e38c5",
+            "content": {
+                "en": "Paul and Storm."
+            }
+        },
+        {
+            "id": "w_4474dc876efb740f26d4facda0154623eed309ac",
+            "content": {
+                "en": "Pretending you're Xyzzy."
+            }
+        },
+        {
+            "id": "w_4f543b6d169c8c908e6ae29e2fbe3603a7583b24",
+            "content": {
+                "en": "Suddenly realizing you're retarded."
+            }
+        },
+        {
+            "id": "w_6f47a498aa670649d42844b9273ef8420efae5fd",
+            "content": {
+                "en": "The best card in my hand."
+            }
+        },
+        {
+            "id": "w_7baad8edc31663a8d652d2705a0468e531f346c3",
+            "content": {
+                "en": "The biggest, blackest dick."
+            }
+        },
+        {
+            "id": "w_55ed88ea3174d41d91d50af23cea9b92f7c879a2",
+            "content": {
+                "en": "The Chilled Knife."
+            }
+        },
+        {
+            "id": "w_e551c3acc8b855f86aedadd978d748511d7a6c49",
+            "content": {
+                "en": "The League of Legends."
+            }
+        },
+        {
+            "id": "w_0f52cf355b0c24b167838a1f3459b655b6fcfb55",
+            "content": {
+                "en": "The lost city of Atlantis."
+            }
+        },
+        {
+            "id": "w_fdbed33753294b3df8f16a9dd6a1fe94fdbba0b3",
+            "content": {
+                "en": "The sound a single ThunderStix&#194;&reg; makes."
+            }
+        },
+        {
+            "id": "w_14b07cd12b906599e5f4e6aeb235d7661199cf86",
+            "content": {
+                "en": "The sound a single ThunderStix&reg; makes."
+            }
+        },
+        {
+            "id": "b_b04fbe7acead5bce8268a38495974e2ce40957a4",
+            "content": {
+                "en": "Alcoholic games of Clue&#194;&reg; lead to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4090aa1c0ce4adfb48cd0b1551373a8d7196a3cb",
+            "content": {
+                "en": "Alcoholic games of Clue&reg; lead to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b1aa2526559b5e05d17e53ffa83b3e96366da48a",
+            "content": {
+                "en": "At the last PAX, Paul and Storm had ______ thrown at them during \"Opening Band\"."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a1855730d8766401eae9f9d5abc8dd16540d1296",
+            "content": {
+                "en": "Don't slow down in East Cleveland or ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_891c1a1951c1f163a00b2a3bf27bcef79810906a",
+            "content": {
+                "en": "Drunken games of Pretend You're Xyzzy lead to ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_54a2cd1d40617687c6cbae9018ce9b6e9f5dbbdf",
+            "content": {
+                "en": "Who dunnit? ______ with ______ in ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_0e07a1ca25a7d90c14e05b25157898631595015a",
+            "content": {
+                "en": "______ has the \"mount\" keyword."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_124c82d0a1f2e69e72521bbd29a5ac5db8c8bc04",
+            "content": {
+                "en": "______ is the name of my ______ cover band."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_61a970900f1dfa49cbd690fbf002d858cb97b963",
+            "content": {
+                "en": "______ with ______ in ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_0ef4347b5031a8782a69d4d4cee75ed65ec8dd33",
+            "content": {
+                "en": "______.tumblr.com"
+            },
+            "pick": 1
+        }
+    ]
+}

@@ -1,0 +1,1422 @@
+{
+    "id": "Rooster_Teeth",
+    "name": "Rooster Teeth",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_e11bd746ec0181d702c9c2dfde95647d400d0ba7",
+            "content": {
+                "en": "#DantheMan."
+            }
+        },
+        {
+            "id": "w_3a585c114544bb3ecc430bf0faa53c6e40d05023",
+            "content": {
+                "en": "300,000 Gamerscore."
+            }
+        },
+        {
+            "id": "w_e2644dc22700dbee7cc0c25fac23068fa4c752d4",
+            "content": {
+                "en": "A bag of dicks."
+            }
+        },
+        {
+            "id": "w_7cce58b0220545a2425f9e2108c389d5f598ced1",
+            "content": {
+                "en": "A gay cave. A gayve."
+            }
+        },
+        {
+            "id": "w_c3c36994e1d75993c23e3cc0e141616dfc7810e7",
+            "content": {
+                "en": "A megalomaniac with a beard."
+            }
+        },
+        {
+            "id": "w_b7c6024a621509fa91ae8cd69575cc8684ee0bf9",
+            "content": {
+                "en": "A miniature Tower of Pimps."
+            }
+        },
+        {
+            "id": "w_e47638137375a77d5af189a28b5fc03156a4c343",
+            "content": {
+                "en": "A plan that involves Grif dying."
+            }
+        },
+        {
+            "id": "w_9447221744a6e15a4effafcc9f5dd5001b3ea7c4",
+            "content": {
+                "en": "A Ray-Cam masturbation moment."
+            }
+        },
+        {
+            "id": "w_86743797956067ccb332e34c63e5ddebd4ea753a",
+            "content": {
+                "en": "A squid orgy."
+            }
+        },
+        {
+            "id": "w_0ea162d19e1620ea82fb10700ef013ec34241085",
+            "content": {
+                "en": "A wet paper towel."
+            }
+        },
+        {
+            "id": "w_600f79a2cddf7ece2613f1d0d56697c9c740af27",
+            "content": {
+                "en": "Achievement City."
+            }
+        },
+        {
+            "id": "w_a5c6bd7b62011a82c7d7d93594a121ddf034f1bf",
+            "content": {
+                "en": "Achievement HORSE."
+            }
+        },
+        {
+            "id": "w_54b5ba0588838410027fc05a5da7152dbf385ce7",
+            "content": {
+                "en": "Achievement Hunter."
+            }
+        },
+        {
+            "id": "w_502876afb021a16253805fd9a69e623d34b7403c",
+            "content": {
+                "en": "Agent Maine \/ the Meta."
+            }
+        },
+        {
+            "id": "w_f9a7c5f553c4afe72f683c8b90085017898afaf4",
+            "content": {
+                "en": "Agent Texas \/ Allison."
+            }
+        },
+        {
+            "id": "w_d0c172f6e85b54a7c4afdf3fe2e0339923b1bdae",
+            "content": {
+                "en": "Agent Washington."
+            }
+        },
+        {
+            "id": "w_c4ed82992055cedcbb5ee9ab3c802c2a59543d58",
+            "content": {
+                "en": "AHWU."
+            }
+        },
+        {
+            "id": "w_ea0c238ae30bb6cbf2da17b28d1020a89181dccd",
+            "content": {
+                "en": "Andy the bomb."
+            }
+        },
+        {
+            "id": "w_8f5b12b64f53cd4c7f333069044a27e0baa37c5a",
+            "content": {
+                "en": "Bankrupting your company over a crane game."
+            }
+        },
+        {
+            "id": "w_4734e4124c9f721a7ad72e82d39d873fc0907707",
+            "content": {
+                "en": "Barbara Dunkelman."
+            }
+        },
+        {
+            "id": "w_824c99d4751dbd1e7d13de23d29727bd092c0c69",
+            "content": {
+                "en": "Beating a man to death with his own skull."
+            }
+        },
+        {
+            "id": "w_01c2d4f201392634aa547daca91335e3f6ca120f",
+            "content": {
+                "en": "Because bitches ain't shit."
+            }
+        },
+        {
+            "id": "w_2bd7149c44251a8eae5ce14a2d2bd4eec54eec38",
+            "content": {
+                "en": "Because people like grapes."
+            }
+        },
+        {
+            "id": "w_408c80769ba46a94e14522de3033f80ce710c840",
+            "content": {
+                "en": "Because they'd like it."
+            }
+        },
+        {
+            "id": "w_ed5d7e1c59f8db26dc19cbaccf2ed82d9e730083",
+            "content": {
+                "en": "Being trapped in a dog cage."
+            }
+        },
+        {
+            "id": "w_e56e3daad9732b16e50693a25171c089a156a9bb",
+            "content": {
+                "en": "Blood Gulch."
+            }
+        },
+        {
+            "id": "w_4670c1ec06066563ef4b5948014c97cbdd8cd0c0",
+            "content": {
+                "en": "Burnie Burns."
+            }
+        },
+        {
+            "id": "w_6dbb53c92e25064520b3bc53a68b222ae7f8289d",
+            "content": {
+                "en": "Caleb Denecour."
+            }
+        },
+        {
+            "id": "w_10393beb9ff471d7a6054878eeb81667aa0b9a97",
+            "content": {
+                "en": "Caleb&apos;s house."
+            }
+        },
+        {
+            "id": "w_a5d6927e3a9bc43a878b36c8b1ec000c764efca0",
+            "content": {
+                "en": "Calling dibs on a spaceship."
+            }
+        },
+        {
+            "id": "w_bd338c9f172fb116c6f134485b889b80b6121358",
+            "content": {
+                "en": "Camping, as a legitimate strategy."
+            }
+        },
+        {
+            "id": "w_1ba612e7054a035534246972e36faa176b665981",
+            "content": {
+                "en": "Cockbites."
+            }
+        },
+        {
+            "id": "w_5f6373a0c4fe86bda5df9217f3274056e865a816",
+            "content": {
+                "en": "Dexter Grif."
+            }
+        },
+        {
+            "id": "w_2d40d089bfaade828b4a84fd997f6ca56b331ef7",
+            "content": {
+                "en": "Dick Simmons."
+            }
+        },
+        {
+            "id": "w_d37a819f94293a2fc96600562aeb2285f05b2908",
+            "content": {
+                "en": "Discovering your long-lost Creeper parents."
+            }
+        },
+        {
+            "id": "w_3af2de6f9d1c10ddd8d2ad72d22a8010344caf30",
+            "content": {
+                "en": "Doing a dig-down."
+            }
+        },
+        {
+            "id": "w_084313fc36ce882721dac2bd5c974e1d8cc1c573",
+            "content": {
+                "en": "Doing a double barrel roll and immediately running someone over."
+            }
+        },
+        {
+            "id": "w_87b2f091fbd255ab4a49e8eb7007c296aaa3abec",
+            "content": {
+                "en": "Edgar the cow."
+            }
+        },
+        {
+            "id": "w_1b60596a6f1e41394a9e007406bb0d261081fab0",
+            "content": {
+                "en": "ENDERMAN!!!"
+            }
+        },
+        {
+            "id": "w_48e16ac46a0f802937129aef5c4a1512dbc20a85",
+            "content": {
+                "en": "Enwrong."
+            }
+        },
+        {
+            "id": "w_c572a0115c4e00cf260d6557c3d17a7cb9f069d8",
+            "content": {
+                "en": "Epsilon&apos;s laser face."
+            }
+        },
+        {
+            "id": "w_e3673b121bb6fc6bc10fd377df632eb091f84e0b",
+            "content": {
+                "en": "Evil Ryan."
+            }
+        },
+        {
+            "id": "w_9ef9e44c30d71339682e5fda50283783b81dc049",
+            "content": {
+                "en": "Faffy Waffle."
+            }
+        },
+        {
+            "id": "w_05a18e84c0af36df9ba475906dc9b894daa70629",
+            "content": {
+                "en": "Fails of the Weak."
+            }
+        },
+        {
+            "id": "w_30381b3f766526680dcf394f30f7a2ad3043ccc6",
+            "content": {
+                "en": "Fighting to the death on pigback."
+            }
+        },
+        {
+            "id": "w_7b9b0366d2dc445a7ac1d123974a0c29d18ad1ef",
+            "content": {
+                "en": "Flicking the bean."
+            }
+        },
+        {
+            "id": "w_04df60654e2c431d0b5eb51d9cdb18a46909e7d0",
+            "content": {
+                "en": "Flynt Coal."
+            }
+        },
+        {
+            "id": "w_7a1a2cc04d31b68511b7220d51dd179945d8b252",
+            "content": {
+                "en": "Frank \"Doc\" DuFresne."
+            }
+        },
+        {
+            "id": "w_a92d39fa5f6d985375dcb32e72a76568cc4ea2f1",
+            "content": {
+                "en": "Franklin Delano Donut."
+            }
+        },
+        {
+            "id": "w_e9492652c040e72f0594d83ace79666e91945a62",
+            "content": {
+                "en": "Front flip for style!"
+            }
+        },
+        {
+            "id": "w_43ad9c12b4a787a0d5bc99bc94b04f05ff14a391",
+            "content": {
+                "en": "Gavin Free."
+            }
+        },
+        {
+            "id": "w_59de22d4932a26fe0341a441bbedcbeb939465ff",
+            "content": {
+                "en": "Gavin&apos;s dick."
+            }
+        },
+        {
+            "id": "w_521175a57c09eb8c749b582bc2fae00ed810a0ea",
+            "content": {
+                "en": "Gavin&apos;s Trophy Room of Victory."
+            }
+        },
+        {
+            "id": "w_0c37c674a820842cff370eea2d2cbf8866eef219",
+            "content": {
+                "en": "Gavino."
+            }
+        },
+        {
+            "id": "w_490a35017ed29c5aee24d96ffede25d40804ba98",
+            "content": {
+                "en": "Geoff Lazer Ramsey."
+            }
+        },
+        {
+            "id": "w_3cbf492cf9b0a6caf509d76c879d8674af2d59f8",
+            "content": {
+                "en": "Geoff&apos;s cancer-curing laugh."
+            }
+        },
+        {
+            "id": "w_790cb3a17dcf97fdcb4d0a94f3f2bc4035090a60",
+            "content": {
+                "en": "Geoff&apos;s hobo beard."
+            }
+        },
+        {
+            "id": "w_d842c431ef9ab7eaf597853f6c581f60b7c4256a",
+            "content": {
+                "en": "Getting boned."
+            }
+        },
+        {
+            "id": "w_383734dd3cc74ede1e1d1a460619980aaae12abb",
+            "content": {
+                "en": "Getting minged up your quelch."
+            }
+        },
+        {
+            "id": "w_e69e61c68c9a41cb7173dc908b9b07e1f4b50835",
+            "content": {
+                "en": "Giving up and building a house."
+            }
+        },
+        {
+            "id": "w_ff8b3af944cb5d8b3e0299c7f97b60d7f62e34e7",
+            "content": {
+                "en": "Going cakeless."
+            }
+        },
+        {
+            "id": "w_ff31ba8162d0d98214180b8ff668782557d3bba3",
+            "content": {
+                "en": "Grand Theft Auto IV."
+            }
+        },
+        {
+            "id": "w_b0c8141352e2258df5e3a5ba1daf071f28fab0e5",
+            "content": {
+                "en": "Gubbins."
+            }
+        },
+        {
+            "id": "w_b14597de248e10e4b7b92986c8683023588f2796",
+            "content": {
+                "en": "Guffpap."
+            }
+        },
+        {
+            "id": "w_9cf52dd36470c9cd4640ac724551d183174de54a",
+            "content": {
+                "en": "Gus Sorola."
+            }
+        },
+        {
+            "id": "w_d1cd53707719cabca74374247b7b187fc7539903",
+            "content": {
+                "en": "Headlight fluid."
+            }
+        },
+        {
+            "id": "w_6be238af86566d23233e559cc261b39f420bdaaf",
+            "content": {
+                "en": "Immersion."
+            }
+        },
+        {
+            "id": "w_e9fcd664c99672c05355ca14d4a1c821fec06b03",
+            "content": {
+                "en": "In denial."
+            }
+        },
+        {
+            "id": "w_8a4244e78016161efd47a3aa93586783946cc03b",
+            "content": {
+                "en": "Jack Pattillo."
+            }
+        },
+        {
+            "id": "w_dd129591b9328448cf9a455b01db4c2cde5e5eab",
+            "content": {
+                "en": "Jack&apos;s beard."
+            }
+        },
+        {
+            "id": "w_1043720c870334ff6a184c1347347b2fc92e55a7",
+            "content": {
+                "en": "Jack&apos;s dick."
+            }
+        },
+        {
+            "id": "w_85f517d97a1c1bc44ff978275002f46c3ffc43cd",
+            "content": {
+                "en": "Joe the cat."
+            }
+        },
+        {
+            "id": "w_d111438ecadaff95befc8d8a6b195d865ad85d8b",
+            "content": {
+                "en": "Joel Heyman."
+            }
+        },
+        {
+            "id": "w_b25041a193b5e0d745c381a630f03e07e7f188e4",
+            "content": {
+                "en": "Killing Gavin."
+            }
+        },
+        {
+            "id": "w_9ffd422a53ca254c182957a40a167c31d61e2c01",
+            "content": {
+                "en": "Knobs."
+            }
+        },
+        {
+            "id": "w_8b79297cd68a844a76bd35534aa7113b07989fa2",
+            "content": {
+                "en": "Launching dump trucks off an unfinished bridge."
+            }
+        },
+        {
+            "id": "w_141ebab726ef19d3cc7691f8d49dc6a662bb5be9",
+            "content": {
+                "en": "Lavernius Tucker."
+            }
+        },
+        {
+            "id": "w_64c78a3f44b6c2c85b7054c7adc16eedf085b315",
+            "content": {
+                "en": "Leonard Church."
+            }
+        },
+        {
+            "id": "w_4e41f693d90a5975f856815347643a043c83faec",
+            "content": {
+                "en": "Lightish red."
+            }
+        },
+        {
+            "id": "w_881fb4312b87a86119491c32bc4e235fd6e18aa8",
+            "content": {
+                "en": "Lindsay Tuggey."
+            }
+        },
+        {
+            "id": "w_a66ff46dc005e891efa4d507fb4f19116699b93a",
+            "content": {
+                "en": "Lopez la Pesado."
+            }
+        },
+        {
+            "id": "w_59d86934641b20c79459aaf7ab711e034b9cf9ea",
+            "content": {
+                "en": "Losing an hour&apos;s worth of footage to a brief blackout."
+            }
+        },
+        {
+            "id": "w_1e66ed827c11b99352b93e039c6c4bc6dabb4a36",
+            "content": {
+                "en": "Man-Gobbler, the turkey bestiality movie."
+            }
+        },
+        {
+            "id": "w_9fbde7b1041c14df7b04a02584cc6796dd66fc66",
+            "content": {
+                "en": "Mark Nutt."
+            }
+        },
+        {
+            "id": "w_e56c738afbd25190ba3ddf8926ae2696f40c9fb9",
+            "content": {
+                "en": "Mavin slash fiction."
+            }
+        },
+        {
+            "id": "w_849cb1a205852925554be7d3900f5d83402b256a",
+            "content": {
+                "en": "Meatspin."
+            }
+        },
+        {
+            "id": "w_80ed1e79670765c9bdb6770b8f31ff01b9c132bd",
+            "content": {
+                "en": "Mega64."
+            }
+        },
+        {
+            "id": "w_0119a4f9f5d8f1f6cbe4f8601988d8e040f7f505",
+            "content": {
+                "en": "Michael J. Caboose."
+            }
+        },
+        {
+            "id": "w_0a4dc10f6cac67813b0d7ac174cc33ff1fce4ad1",
+            "content": {
+                "en": "Michael Jones."
+            }
+        },
+        {
+            "id": "w_8ee2c3e4f4495162e105ede24108aff73939bcef",
+            "content": {
+                "en": "Minecraft."
+            }
+        },
+        {
+            "id": "w_9f4af9a192b861b0a56d69e5fa115d411c8fa944",
+            "content": {
+                "en": "MOGAR!"
+            }
+        },
+        {
+            "id": "w_e03bf44b37d11ee36277c7625e78932f3741580f",
+            "content": {
+                "en": "Monoray."
+            }
+        },
+        {
+            "id": "w_d1e6e0da5f428ac896f264e488dd0dab9254154c",
+            "content": {
+                "en": "Montages no one will watch."
+            }
+        },
+        {
+            "id": "w_6aff2b2b7881810a97964d9fef2d15b4ce1e9fb5",
+            "content": {
+                "en": "Monty Oum."
+            }
+        },
+        {
+            "id": "w_fcfbd584c84a7b0459f1ea789f36904cb5fa58cd",
+            "content": {
+                "en": "MOTHERFUCKING TRIPLE SPIKES!"
+            }
+        },
+        {
+            "id": "w_60185519cbf66b97ef7604b82d91a17919e7028f",
+            "content": {
+                "en": "Omega \/ O'Malley."
+            }
+        },
+        {
+            "id": "w_4a59029c5e55d7492109c28131fe17f276b6df1d",
+            "content": {
+                "en": "Papa BrownMan."
+            }
+        },
+        {
+            "id": "w_48cf8b1264ad1e02fef88492b1dcb83e9d414349",
+            "content": {
+                "en": "Parkour."
+            }
+        },
+        {
+            "id": "w_eccc060838febcfa3b5fe7f03140af0e9c84cf39",
+            "content": {
+                "en": "Performing surgery in space."
+            }
+        },
+        {
+            "id": "w_93bb548734c00fafb2813a569cb2ccd4d74e8cd9",
+            "content": {
+                "en": "Picking up chicks in a tank."
+            }
+        },
+        {
+            "id": "w_8eb30acd975de12dca86e3330bba5b1caaff25e2",
+            "content": {
+                "en": "Plan G."
+            }
+        },
+        {
+            "id": "w_572f96473bb7dc963e1c5e7b7b857d96883f0906",
+            "content": {
+                "en": "Playing Hitler twice."
+            }
+        },
+        {
+            "id": "w_644340ac3251b109d3ba35f818762f06738a891f",
+            "content": {
+                "en": "Pongo."
+            }
+        },
+        {
+            "id": "w_585b252caa907b895699ddcf2bede32adc2e6d0e",
+            "content": {
+                "en": "Rage Quit."
+            }
+        },
+        {
+            "id": "w_1cdff36fdd399173146554b7fb0db349fbf19365",
+            "content": {
+                "en": "Randy Newman."
+            }
+        },
+        {
+            "id": "w_71fbee5f07295602e43cef46c5eb89b89d03151d",
+            "content": {
+                "en": "Randy Savage."
+            }
+        },
+        {
+            "id": "w_98def601626b9eec544b67440476ba94c6c4d50d",
+            "content": {
+                "en": "Ray Narvaez, Jr."
+            }
+        },
+        {
+            "id": "w_1c5e3acb14b554052b3d82e6d2cdd894b4b5ac05",
+            "content": {
+                "en": "Ray winning."
+            }
+        },
+        {
+            "id": "w_40626e5336e9502e772117eb208616ee6cc6e0f0",
+            "content": {
+                "en": "Ray&apos;s douche-cut."
+            }
+        },
+        {
+            "id": "w_e20905382bdd7145694d5eff729ce937e968fcff",
+            "content": {
+                "en": "Ray&apos;s sombrero."
+            }
+        },
+        {
+            "id": "w_e25234700d237366b87495f7a56c5521c88c6b43",
+            "content": {
+                "en": "Ray&apos;s wet sponge."
+            }
+        },
+        {
+            "id": "w_ce7aca27a27855863d1c69da438cae5b4ff6b6a7",
+            "content": {
+                "en": "Reaching a billion total views on YouTube."
+            }
+        },
+        {
+            "id": "w_314f9736f4ebfa1d613d8c9e910588dec8fe2048",
+            "content": {
+                "en": "Red vs. Blue."
+            }
+        },
+        {
+            "id": "w_e7184afdb2732cec213f9d9a7050beb6f93fbfc7",
+            "content": {
+                "en": "RoosterTeeth."
+            }
+        },
+        {
+            "id": "w_e5a7461c50feb7c5501528d6c49010baf2c95ed1",
+            "content": {
+                "en": "RT Animated Adventures."
+            }
+        },
+        {
+            "id": "w_e6c6d702c8b71526a9cda7ba63e8bdc43379383c",
+            "content": {
+                "en": "RT Confessions."
+            }
+        },
+        {
+            "id": "w_25f556d626f02aaa704577a8bd5a5e8df17c24a7",
+            "content": {
+                "en": "RT Shorts."
+            }
+        },
+        {
+            "id": "w_93b575dbc91b8cea010eaec4773b44d2ed02f050",
+            "content": {
+                "en": "RTX."
+            }
+        },
+        {
+            "id": "w_437e07ae39933c91b35ac6b60f5772e9123b917e",
+            "content": {
+                "en": "RWBY."
+            }
+        },
+        {
+            "id": "w_2f48176a563da7a9783c59ccfcc850db72ec8a5f",
+            "content": {
+                "en": "Ryan Haywood."
+            }
+        },
+        {
+            "id": "w_08655f76ad9e92dcd0e81a3909d3310e51245104",
+            "content": {
+                "en": "Sarge&apos;s funeral."
+            }
+        },
+        {
+            "id": "w_3cc69b9962831cbdf212dbad9453c8dbf8dbfdba",
+            "content": {
+                "en": "Sarge."
+            }
+        },
+        {
+            "id": "w_8f2aa0d01e2d48bca26f2558fd0b272e462b5aa1",
+            "content": {
+                "en": "Screen looking."
+            }
+        },
+        {
+            "id": "w_ea3905a9b7a2ad5be5677e4d965786565ddcc79b",
+            "content": {
+                "en": "Sheila the tank."
+            }
+        },
+        {
+            "id": "w_ea962137e90cd237219095972695fdbd7bf87978",
+            "content": {
+                "en": "Slapping the controller out of a competitor&apos;s hands."
+            }
+        },
+        {
+            "id": "w_3b8db17ca6356454359c8c7321520a9618d2b8fc",
+            "content": {
+                "en": "Slenderman."
+            }
+        },
+        {
+            "id": "w_5a0f640d149b558f762e4a758d0a338a13172973",
+            "content": {
+                "en": "Slo Mo Guys."
+            }
+        },
+        {
+            "id": "w_16039f8bd6dcfab4cc89b3189acfa7dcb521185c",
+            "content": {
+                "en": "Smegpot."
+            }
+        },
+        {
+            "id": "w_78a1aa3a8dc840fb504d7c9e6447a609baef6c95",
+            "content": {
+                "en": "Soggy bread."
+            }
+        },
+        {
+            "id": "w_c60d8dde618c92cdeeb60e5282b7ef6918e249a7",
+            "content": {
+                "en": "Something that is top."
+            }
+        },
+        {
+            "id": "w_8aa43fe95b7b0e41f7c91a4a1d69044b5b65ea01",
+            "content": {
+                "en": "Surgeon Simulator 2013."
+            }
+        },
+        {
+            "id": "w_ebbc976a56e957a72da431f5d8499897377ad199",
+            "content": {
+                "en": "Tackling Gavin to stop him from winning."
+            }
+        },
+        {
+            "id": "w_7cc42f3eadffbb8350831859d32ea1bc3cefd461",
+            "content": {
+                "en": "Team Gents."
+            }
+        },
+        {
+            "id": "w_d80c2ae314081aa2db0849cc9dcc12a60d7f21f3",
+            "content": {
+                "en": "Team Lads."
+            }
+        },
+        {
+            "id": "w_ae0d7a5fbc1435e78fa6aad3a6e514df49c98de9",
+            "content": {
+                "en": "Team Magnum Dong."
+            }
+        },
+        {
+            "id": "w_bf256280ad0381b89fc92c0f39222d6497934cd5",
+            "content": {
+                "en": "Team Neighborhood Watch."
+            }
+        },
+        {
+            "id": "w_4a9c6b757439057184b7ac35d1588dc71fc17044",
+            "content": {
+                "en": "Team Nice Dynamite."
+            }
+        },
+        {
+            "id": "w_10f1309739eee974dbd099ed6e90b155966b5642",
+            "content": {
+                "en": "Team-killing fucktards."
+            }
+        },
+        {
+            "id": "w_e5eb75f7f845597b44d44ecefed5f67f0e781905",
+            "content": {
+                "en": "The adventures of Batman and Randy Newman."
+            }
+        },
+        {
+            "id": "w_a42935fac7be8229c1beec0f766c3c07eb665a7c",
+            "content": {
+                "en": "The cardboard cutout of Gus."
+            }
+        },
+        {
+            "id": "w_54d1d304d2a136af878fcd17962da57b94d1a00e",
+            "content": {
+                "en": "The Crev."
+            }
+        },
+        {
+            "id": "w_9a26272959f05710c0c4d37b6898f5182323ebf1",
+            "content": {
+                "en": "The Frienderman."
+            }
+        },
+        {
+            "id": "w_2a354136c466894c5ad12142d3fe4a08f81223a1",
+            "content": {
+                "en": "The Internet Box."
+            }
+        },
+        {
+            "id": "w_efebc3c84e242944bec94bd334dc74783e5d11c9",
+            "content": {
+                "en": "The R&R Connection."
+            }
+        },
+        {
+            "id": "w_f786cfe5495c932ac50d2a2cce04c69ed4a51491",
+            "content": {
+                "en": "The Tower of Pimps."
+            }
+        },
+        {
+            "id": "w_16ee8573f9f928d0b3e8ac15e7328bce03511115",
+            "content": {
+                "en": "Throwing shit at the AHWU announcer."
+            }
+        },
+        {
+            "id": "w_0e42b4431dcf0de644288d31c516a47e6fa72baf",
+            "content": {
+                "en": "Trials PIG."
+            }
+        },
+        {
+            "id": "w_52ad3c1c3247f1139bb7886429ec4db9c6d865b9",
+            "content": {
+                "en": "Trying to eat a five-pound gummy bear in one sitting."
+            }
+        },
+        {
+            "id": "w_9281cf61ec10851e251d0af7adf2497fa8e66d4f",
+            "content": {
+                "en": "Tupperware."
+            }
+        },
+        {
+            "id": "w_844b93dab44ea459730213fb0bcd6f9b09fd082b",
+            "content": {
+                "en": "Two bases in the middle of a box canyon. Whoop-dee-fuckin'-doo."
+            }
+        },
+        {
+            "id": "w_8679e893b4c67ab1434ba6e55eeb15d1f00cb942",
+            "content": {
+                "en": "Two dumb cunts."
+            }
+        },
+        {
+            "id": "w_b7675168198faf80ae9f5b0e86e69bdfe8cc3e13",
+            "content": {
+                "en": "Upside-down Kerry."
+            }
+        },
+        {
+            "id": "w_6332c521d6bfb020bd881bc71947ce80cfa7b1e6",
+            "content": {
+                "en": "Using CPR to treat a bullet wound to the head."
+            }
+        },
+        {
+            "id": "w_d2d984ea18fcc820058e9531ec1082ff658bdf82",
+            "content": {
+                "en": "Wearing your headphones backwards during a podcast week after week."
+            }
+        },
+        {
+            "id": "w_fa9b341c3e6604673b94682e4c26601a6e0a1c60",
+            "content": {
+                "en": "X-Ray and Vav."
+            }
+        },
+        {
+            "id": "b_d84c28694014534f0b79e7a9422969db9cc094c9",
+            "content": {
+                "en": "After getting wasted at PAX, Burnie announced that \"I am ______!\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_59c19d1b067299c79e3467b7584d1fa838f04a41",
+            "content": {
+                "en": "Barbara sucks ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7ebcf4fd46f4a12619d8747670acac189659252",
+            "content": {
+                "en": "Close up of my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ac541572134ea6480b55f682e54659ca632f020",
+            "content": {
+                "en": "Come to Fort ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b9c5aa65bc480d41094edac81027b8c9c601aac",
+            "content": {
+                "en": "Describe yourself in one word\/phrase. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_118049418056a7f3023227934c1e428798a0379a",
+            "content": {
+                "en": "Detective ______ is down!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5d07ebaa6d6eac6803ddc8623712dffa8c35898",
+            "content": {
+                "en": "Does our house say \"We love ______?\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e804f78dc98bbc0a77281df4fdacc9d4368ca2b3",
+            "content": {
+                "en": "Dude, I got sixteen ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_80f45033f2e649c286fb5c61ee3a29a0549d8d4b",
+            "content": {
+                "en": "Fight, fight, fight, ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_27c011c65b5f0da8fdddafa463f48c1011714a32",
+            "content": {
+                "en": "Fuck it, I mean ______, right?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_74403aff220a14506fe80d2729de8bbe03ad5e62",
+            "content": {
+                "en": "I'ma smother you in my ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_70ddbed8c7bb5bbde635b6acbbbf6dae9e09b2cc",
+            "content": {
+                "en": "If Jack was frog and you kissed him, what would he turn into? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_90af56ec34a731f7ae8870b69f0d9cce05fd86ff",
+            "content": {
+                "en": "If you could fuck anyone in the world, who would you choose? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ec78701e4cccbf988c7506138f35a4775569ca19",
+            "content": {
+                "en": "If you could have any superpower, what would it be? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2206d25fc0f1f4c853afba66b9e8195455e66f97",
+            "content": {
+                "en": "If you got $1,000,000 per week, would you ______, but in the next day, you'd have to ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bafe2f710429c901dd952b51b161a64a63bf0ea8",
+            "content": {
+                "en": "If you were allowed to do one illegal thing, what would it be? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_29d866837ba34aefb6e1d9da05280b8fc9b7f380",
+            "content": {
+                "en": "It&apos;s a ______ out there."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ec76c0fd22656deb99a909744a01f5bf0746082",
+            "content": {
+                "en": "It&apos;s not my fault. Somebody put ______ in my way."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_52128e7ee08e9bd9e97667087359337239b4b286",
+            "content": {
+                "en": "Joel plays ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee21e85c763c39242d84ad2eadbb26fc1e316a78",
+            "content": {
+                "en": "Let&apos;s do ______ again! This is fun!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34d5d34783822887aa17d080a41fc3ad2030d88c",
+            "content": {
+                "en": "Lindsay could fuck up ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5784a357cd87a87517ff8bf5eab48ceca1c59481",
+            "content": {
+                "en": "LLLLLLLLLLLLLET'S ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6b45093fb05c17df36570827c28e20c8f279d63d",
+            "content": {
+                "en": "My name is ______, and I hate ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c74cc2c660dd5eed4327791799afb69f0a8744fa",
+            "content": {
+                "en": "My ______ is trying to die."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_59e3d17f89204f8452338b7a052b30cc58df3d08",
+            "content": {
+                "en": "No one in the office expected the bromance between ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e0020859ddd21c6f9b88f82c0a89f0c35a101fc0",
+            "content": {
+                "en": "On tonight&apos;s Let&apos;s Play, the AH crew plays ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7da080a7092d464d1149c98a7b33302e656ec295",
+            "content": {
+                "en": "People like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_719986c4e58f1bf1bacb250c0ff9e6ec26009028",
+            "content": {
+                "en": "RT Recap, featuring ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_317c3c6c9cf2d2c5b9e511a5676c79c78992651d",
+            "content": {
+                "en": "Select two cards to create your team name. ______, ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2da6e90b77eccbfad4f4ad8a698ea8f2b2d3b266",
+            "content": {
+                "en": "Shout out to my mom. Called my Teddy Bear ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_794e679b6de287a93bfca5bfa489bc55663cb1e7",
+            "content": {
+                "en": "Shout out to ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d4e38381114f86fb52a69e85c64aa6336ef3bf4",
+            "content": {
+                "en": "So, I was just walking along, until suddenly ______ came along and attacked me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_958807765797a85bbec4bfb9db3bcd26e0c3b716",
+            "content": {
+                "en": "Thanks to ______ for this week&apos;s theme song."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3456e3f5cbef38fd1339b88be3024d9be450c2bd",
+            "content": {
+                "en": "The next RvB cameo will be voiced by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2c0e090697cb2f19a1ae00c409e21d786491abe",
+            "content": {
+                "en": "The war&apos;s over. We're holding a parade in ______&apos;s honor. ______ drives the float, and ______ is in charge of confetti."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_88e006b16abf23599624552f1ba2cec31caa6136",
+            "content": {
+                "en": "They questioned Ryan&apos;s sanity after finding ______ in his house."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8193d056906c19ef6ae402fc8b12e4d5fcf7bb5f",
+            "content": {
+                "en": "This week on AHWU, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a090ce805f642ad6f960604f133e2a090e7a90ad",
+            "content": {
+                "en": "This week on Immersion, we are going to test ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cacb000c7c27e68c524d50391241a14e1079630",
+            "content": {
+                "en": "This week on VS, ______ challenges ______ to a game of ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_9a5a025a0c5b6c8e0bf94226997adafaf210479f",
+            "content": {
+                "en": "What are fire hydrants called in England? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5c0eb9fa2d1906e683e2bb11e546b602a5a2a238",
+            "content": {
+                "en": "What does Ryan&apos;s kid listen to? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f8649580e3fd4b96c548d7315940bc040645ec1",
+            "content": {
+                "en": "What is Game Night? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_464b781d5ea01feda967db9ccdf2679a5d5b0946",
+            "content": {
+                "en": "What is the meaning of life? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e30cd65c03bb85f17c2ced6ce189724c62b7197",
+            "content": {
+                "en": "What is the saddest thing you've ever seen? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f9d59946878c66b2e84f5fea426063ae4ead0eb4",
+            "content": {
+                "en": "What is the worst thing anyone could say in front of the police? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_37ebe00710992154716336a47b1356c4453ea016",
+            "content": {
+                "en": "What is your biggest feature? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7ef9ba8e2bddf395ee4e85fe2131ddc33990d7c",
+            "content": {
+                "en": "What is your favorite book? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7fcf7aaa59115e482c3cedcf5a630f8171b2b309",
+            "content": {
+                "en": "What is your mating call? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bbfdf0376d51a1fe1d8ba0b01c102d9be3912a51",
+            "content": {
+                "en": "What makes Caboose angry? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20d113ebe1f43dbf31ee43c18fed3898e45962c6",
+            "content": {
+                "en": "What makes Michael the angriest? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2983e2be02e66af02b812ca9ae2be33e2aacf7b0",
+            "content": {
+                "en": "What mysteries lie beyond Jack&apos;s beard? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_abaf42061d10470cac55e9a6bafe0bb0557b165c",
+            "content": {
+                "en": "What would be your chosen catchphrase? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f1afdccea97eea7993af5d8b0d0fad2baa78578",
+            "content": {
+                "en": "What&apos;s in Gavin&apos;s desk? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e15c2b2bda732a67fd083738107506c109bfe837",
+            "content": {
+                "en": "Where are we going for lunch? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cba816a07cf29a1b7937681d5f860706c2fcff75",
+            "content": {
+                "en": "Where does Ray belong? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b523da06ff1b9106ded169da4f7c6c8fca34904f",
+            "content": {
+                "en": "Who has a fake Internet girlfriend? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_566e32c42be84b9dd72f0b2f8cadd782d10a6bcd",
+            "content": {
+                "en": "Why are there six ______ when there are only four ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_879098c71f268a60edba55806651693da6d3ed9c",
+            "content": {
+                "en": "Why are we here? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_41fa2e5640da3dd5ed452424b9ec71f18f4276a6",
+            "content": {
+                "en": "Why is Geoff cool? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_97a5ed3287ae7c4c213ee1545a1f3a32d0f60313",
+            "content": {
+                "en": "Why was Michael screaming at Gavin? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ccd0aeeab2fd4383abe0304d6e2fa9cd25909eda",
+            "content": {
+                "en": "Would you guys still like me if my name was ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0cea733d5b857c3b325e9c9ae1bad6ba5d63aaf2",
+            "content": {
+                "en": "You threw it against the wall like a ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d183ed7efc8dc8f6fad25a716b36939a270a893",
+            "content": {
+                "en": "______ is probably a Venusaur kind of guy."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55877e72283237e7ea26ef640f7662f5c09dadc3",
+            "content": {
+                "en": "______ is the best ______ ever. Of all time."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_981f1708d07667ee7465767512adf01f95a40a07",
+            "content": {
+                "en": "______ is the greatest Canadian."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4db925ab2b5506b4e947891b9d0ede0771b343f6",
+            "content": {
+                "en": "______ is the worst on the Podcast."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_07891b90b7487b209820869dc067d6ebf40da0a6",
+            "content": {
+                "en": "______ is ______ as dicks."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f66e8017345d029550f3e935782b5136b677f1ff",
+            "content": {
+                "en": "______ wins! ______ is a horse!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_168624cd2cea6334a70e5ba23cf1362ae6ddbe07",
+            "content": {
+                "en": "______. That&apos;s top."
+            },
+            "pick": 1
+        }
+    ]
+}

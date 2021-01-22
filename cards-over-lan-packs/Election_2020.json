@@ -1,0 +1,158 @@
+{
+    "id": "Election_2020",
+    "name": "Election 2020",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_f47cc2f9535b401afc6d03a9230da70224c002ab",
+            "content": {
+                "en": "\"The beauty of me is that I'm very rich.\""
+            }
+        },
+        {
+            "id": "w_90eeb5979aa02e842d8daf33300da7c157354f47",
+            "content": {
+                "en": "A duffel bag of all Biden ballots"
+            }
+        },
+        {
+            "id": "w_5a4976a62454ea3ec57a291048db13ddc6d21ac9",
+            "content": {
+                "en": "America saying \"You're fired.\" to Donald Trump"
+            }
+        },
+        {
+            "id": "w_2cb9971fa3b4bf0d6afce9f77b96a1352f4cce99",
+            "content": {
+                "en": "Careerist politicians"
+            }
+        },
+        {
+            "id": "w_a7124e2e64e9a6d6f4b3470ea3b22412fda8450e",
+            "content": {
+                "en": "Donald Trump barricading the White House Doors."
+            }
+        },
+        {
+            "id": "w_fd7a23aff512a76808f504a7533097da5e4eb50a",
+            "content": {
+                "en": "Donald Trump screaming at the television and wildly waving his middle fingers out the White House window."
+            }
+        },
+        {
+            "id": "w_a12973ef2debcee020f9203cd906e8ada8ad47e7",
+            "content": {
+                "en": "Hiding my Trump ballot under my gimp suit in my closet so people don't find it."
+            }
+        },
+        {
+            "id": "w_4bdfed5d43848f50320d36ab27ff4e3bcbe284c0",
+            "content": {
+                "en": "Hunter Biden&apos;s crack pipe"
+            }
+        },
+        {
+            "id": "w_9b68006e57569f320de42fd3127cc456591a0fec",
+            "content": {
+                "en": "I'm Joe Biden and I forgot this message"
+            }
+        },
+        {
+            "id": "w_e19da08cd7f2534b22ef02a4e5723325d1074dff",
+            "content": {
+                "en": "If you didn't vote Biden then you ain't black."
+            }
+        },
+        {
+            "id": "w_68ec27adc66c52e667547522d5b347b368b00f90",
+            "content": {
+                "en": "Joe Biden and Donald Trump having a sword fight through the Whitehouse while riding jazzies."
+            }
+        },
+        {
+            "id": "w_ef78bfa238893b8f74eeffea330465569a04f30e",
+            "content": {
+                "en": "Joe Biden massaging my shoulders and smelling my neck"
+            }
+        },
+        {
+            "id": "w_6369c52fca8a811def12e804b2c5d012ad9a5698",
+            "content": {
+                "en": "Paying 750$ in taxes."
+            }
+        },
+        {
+            "id": "w_b56843d667fdb34eac9911ce89c86ac604c1502f",
+            "content": {
+                "en": "Poor kids that are just as bright and just as talented as white kids.\""
+            }
+        },
+        {
+            "id": "w_bf505791631a67430e35850c2bb16e0032e6cc32",
+            "content": {
+                "en": "Probably not leaving your kid alone with Joe Biden."
+            }
+        },
+        {
+            "id": "w_95e98516a0702b20bc27365aecea1db3a805716e",
+            "content": {
+                "en": "The dead coming back from the grave.....but to vote."
+            }
+        },
+        {
+            "id": "w_3fa28eb0abcab88d51379ee7c46f263a342bcebc",
+            "content": {
+                "en": "The Joe Biden Presidency: Alzheimer&apos;s and me."
+            }
+        },
+        {
+            "id": "w_4e8ed6fe7b853552197feb42723a955f14cc4e7f",
+            "content": {
+                "en": "The Presidency of Kamala Harris."
+            }
+        },
+        {
+            "id": "w_7282be48bf4ccbbb797c0fada3f0c93d9c907f37",
+            "content": {
+                "en": "This is terrible, this is the end of my presidency, I'm fucked"
+            }
+        },
+        {
+            "id": "b_f684bff35ea9926617596f113e61a78a082cd4b1",
+            "content": {
+                "en": "In a Waco like siege, former President Donald Trump held on to the White House taking ______ as hostages and a list of demands that involved ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9c24694ab4037dff72ba93e4b4200242a59684e4",
+            "content": {
+                "en": "In the future politicians will no longer launder bribes through family members, but instead a bribe will just be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9bcde59ab110434adca2c9c65506f8e1216d6989",
+            "content": {
+                "en": "Joe Biden&apos;s presidency could be best described as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd26dbaa88db2cd9ea186d37b961b6feda8fbcae",
+            "content": {
+                "en": "Unprecedented in American history the 2020 election went to sudden death with the two candidates facing off on the Whitehouse lawn. Joe \"______\" Biden and off the top rope Donald \"______\" Trump."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1dadca5f94986ec2d86faa33280439722f576957",
+            "content": {
+                "en": "What did cleaning crews find after Trump vacated the White House ______?"
+            },
+            "pick": 1
+        }
+    ]
+}

@@ -1,0 +1,653 @@
+{
+    "id": "Cards_Salute_Veterans_of_Other_Eras_",
+    "name": "Cards Salute Veterans of \"Other Eras\"",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_81a99db9fb475105a206b540b99b1b417fdb212a",
+            "content": {
+                "en": "2,000 Moroccan monkeys trained in detonating land mines."
+            }
+        },
+        {
+            "id": "w_78b5d5242b4dac1076a52707be9162c6156ad5f1",
+            "content": {
+                "en": "5 o'clock vodka"
+            }
+        },
+        {
+            "id": "w_b3f5748f83f99df82f928002e093141e4e27cd3a",
+            "content": {
+                "en": "72 virgins."
+            }
+        },
+        {
+            "id": "w_3bc192fe45bc96da99f1509c1ed2cabbee9a4f39",
+            "content": {
+                "en": "A 15 month vacation to the Third World."
+            }
+        },
+        {
+            "id": "w_d791fc65e874a46c83d8f84b3b4f7ab0ce2395c2",
+            "content": {
+                "en": "A bloated corpse getting a great tan"
+            }
+        },
+        {
+            "id": "w_80ea714a8fa00bdf17d458181507e13d47be4a80",
+            "content": {
+                "en": "A coalition of the willing"
+            }
+        },
+        {
+            "id": "w_27bad21fce88c83b3100e48636dd5d69f87e1047",
+            "content": {
+                "en": "A Dependapotamus."
+            }
+        },
+        {
+            "id": "w_9ced64413a52bd1b5992d6ec96103b3297deae88",
+            "content": {
+                "en": "A good reason to put dog tags in your boots"
+            }
+        },
+        {
+            "id": "w_dd0a90a13525ba456c120d16bbca3e0f582086b8",
+            "content": {
+                "en": "A reconnaissance vehicle that&apos;s too conspicuous to do reconnaissance"
+            }
+        },
+        {
+            "id": "w_7ebac118c14387e338285555e7b98f4e2565d7f0",
+            "content": {
+                "en": "A Side of Freedom Fries"
+            }
+        },
+        {
+            "id": "w_50fa97b4bb91c7479d151319ea7c835d458946b0",
+            "content": {
+                "en": "A stripper that brags she&apos;s been shot before and you haven't"
+            }
+        },
+        {
+            "id": "w_e007417b9b8ba104cec96ba265ea0320a56f5633",
+            "content": {
+                "en": "A weak exit"
+            }
+        },
+        {
+            "id": "w_a0110512036e6cd65aeac5b2e8a6fca204b4377d",
+            "content": {
+                "en": "Abusing your rank and privileges."
+            }
+        },
+        {
+            "id": "w_a93e2083ef71046a12217cfb7ad179ed09a2c955",
+            "content": {
+                "en": "Afghanistan Enduring Enough Freedom"
+            }
+        },
+        {
+            "id": "w_9bb68ae1d01900ffb50aa26833c6183094b7ce15",
+            "content": {
+                "en": "Al-jazeera: The best beheadings"
+            }
+        },
+        {
+            "id": "w_a965ada14bd38335f1dd71fd14ce7e7da939c722",
+            "content": {
+                "en": "An Iraqi child lobbing a hand grenade."
+            }
+        },
+        {
+            "id": "w_5f2d533e165987bc64b5d895aad2d71b48a3f355",
+            "content": {
+                "en": "an ISIS Toyota Commercial"
+            }
+        },
+        {
+            "id": "w_f7f3a841fbeca9d7e8f0bf265462c807e61ad65b",
+            "content": {
+                "en": "Angrily demanding a military discount"
+            }
+        },
+        {
+            "id": "w_105def6710ac1aa3546cc040b9cd6504c9bac0f5",
+            "content": {
+                "en": "Another bad dream"
+            }
+        },
+        {
+            "id": "w_7fb11bed17cf50283ab5ab7f3148af67f5e2d1c6",
+            "content": {
+                "en": "Asking a veteran if they have the PSTD, so you don't catch it"
+            }
+        },
+        {
+            "id": "w_41e3cf6f6f8e11aadaffdf68f98b8e84f7a40b97",
+            "content": {
+                "en": "Baghdad, the exotic jewel of the middle east"
+            }
+        },
+        {
+            "id": "w_0b238d36ac3699e3841dbb2c1b332a00c18f9716",
+            "content": {
+                "en": "Being all you can be"
+            }
+        },
+        {
+            "id": "w_862b175239d280c2f0979b840c5d4a51e75c5549",
+            "content": {
+                "en": "Being expendable"
+            }
+        },
+        {
+            "id": "w_6652c80d9a8041ac3797f30243763254737f5e2e",
+            "content": {
+                "en": "Being like a lab animal conditioned to ignore violence."
+            }
+        },
+        {
+            "id": "w_1ee9bd43a9158b9b754ef55f0d7d0bc56ad8aacb",
+            "content": {
+                "en": "Being operator as fuck!"
+            }
+        },
+        {
+            "id": "w_5d018d6201413d52fdbc73cea725b1e21f8da980",
+            "content": {
+                "en": "Being Someone Special"
+            }
+        },
+        {
+            "id": "w_4faa0a0c3ffb4611b390977ef57790bbea36ca92",
+            "content": {
+                "en": "Buddy Fuckers"
+            }
+        },
+        {
+            "id": "w_0cd9fbda790531a776f3d6da80298300bb220030",
+            "content": {
+                "en": "Centuries of tribal disputes and sectarian violence"
+            }
+        },
+        {
+            "id": "w_b1de3b970f2388d642cdac596d48439a70c7fe87",
+            "content": {
+                "en": "Chelsea Manning"
+            }
+        },
+        {
+            "id": "w_b8cbf770819dacef237b40177334112f9fe3e506",
+            "content": {
+                "en": "Depleted uranium."
+            }
+        },
+        {
+            "id": "w_b32f92bed7534d2f9485d82dcbc6c437cb6322c1",
+            "content": {
+                "en": "Don't ask but do tell."
+            }
+        },
+        {
+            "id": "w_977f1bcc6935754921068658de4f89801f11549d",
+            "content": {
+                "en": "Don't ask don't tell."
+            }
+        },
+        {
+            "id": "w_6552a1d06b4b726d9fda9ba16c0e8042cfb55604",
+            "content": {
+                "en": "Door kicks"
+            }
+        },
+        {
+            "id": "w_c71faae5c9f0e79e94a9554deb070b7e7f303e1e",
+            "content": {
+                "en": "Dust on your jump wings"
+            }
+        },
+        {
+            "id": "w_4428ca31fd6de561a875e0b75a6b3c28c322982b",
+            "content": {
+                "en": "Dying \"valiantly\" on the field of battle after accidentally taking a dump on a landmine."
+            }
+        },
+        {
+            "id": "w_aa6004218c5c78028b85c31a4fbdcf39e9ba3f40",
+            "content": {
+                "en": "Enthusiastically crossing the line between CPR and necrophilia."
+            }
+        },
+        {
+            "id": "w_ed85d8772139f2a00ae325cf8e6c30a950478c7e",
+            "content": {
+                "en": "Fallujah"
+            }
+        },
+        {
+            "id": "w_b930fcefbbb9a5feac472c71c0d93baa62868f15",
+            "content": {
+                "en": "Feeling so normal and well-adjusted"
+            }
+        },
+        {
+            "id": "w_fd1b2135d3e65cce3361fc6b2eeb6069ac4fd3cc",
+            "content": {
+                "en": "Filling sand bags with a teaspoon."
+            }
+        },
+        {
+            "id": "w_4d2906db5a8747ea87dc536c8cc1506001e59d3f",
+            "content": {
+                "en": "Firing your travel agent."
+            }
+        },
+        {
+            "id": "w_0a1f66f8ab7d6600b04ea2a34473288ea8645b24",
+            "content": {
+                "en": "Flies. Fucking. Everywhere."
+            }
+        },
+        {
+            "id": "w_ab436a170f0e1cd37b103bc28bc306f07a291ca8",
+            "content": {
+                "en": "Fobbits"
+            }
+        },
+        {
+            "id": "w_ab696f50b19caeb6e2a5f486f3f45fa89fbc0827",
+            "content": {
+                "en": "Friendly fire not being friendly"
+            }
+        },
+        {
+            "id": "w_d81ff228cd92a5c25509850a63d4543241050236",
+            "content": {
+                "en": "Getting divorce papers by email"
+            }
+        },
+        {
+            "id": "w_a8c86caae25a0f6421248808e3b5adfcdf993baf",
+            "content": {
+                "en": "Getting Stop Lossed"
+            }
+        },
+        {
+            "id": "w_7511a96b524ed58e9ffb2fa07a078e52fdab4941",
+            "content": {
+                "en": "Giving the weapons inspectors more time"
+            }
+        },
+        {
+            "id": "w_1377b9698be1dee0f411a31f6753ee8df307e1d3",
+            "content": {
+                "en": "Giving war a chance."
+            }
+        },
+        {
+            "id": "w_1f8923a3a34a7602cc01f0ef86662ad389adb773",
+            "content": {
+                "en": "Giving zero fucks about the Middle East."
+            }
+        },
+        {
+            "id": "w_503dcb0b0c2f6f0b8c6af9a845209fd3b90ad4f0",
+            "content": {
+                "en": "Guantanamo Baywatch"
+            }
+        },
+        {
+            "id": "w_9e840c42bb890de0181e42bcbcb63d380e9d03fc",
+            "content": {
+                "en": "Hogging"
+            }
+        },
+        {
+            "id": "w_df2b2620e2110db36a1be0412f0830faccb9329a",
+            "content": {
+                "en": "Human Shields"
+            }
+        },
+        {
+            "id": "w_2a1ac5b89bffebee1227b4dbcb507f9f997f7501",
+            "content": {
+                "en": "I wet my armor I was so scared."
+            }
+        },
+        {
+            "id": "w_db2dfdcae91a70e38d8193ed4bfa3713ef6e0cf4",
+            "content": {
+                "en": "Iraqi Army rifles: Never been fired and only dropped once"
+            }
+        },
+        {
+            "id": "w_841e46e02b2f134c3163f4bf045db2434424af58",
+            "content": {
+                "en": "ISIS suicide bomber actually hoping for 72 experienced sluts"
+            }
+        },
+        {
+            "id": "w_2bf34e9e11cc92c968046734c335ec830c511453",
+            "content": {
+                "en": "ISIS: Your friendly neighborhood fascist barbarians"
+            }
+        },
+        {
+            "id": "w_7aa98a5c010e9523f0f4cd43798d77f3de6964c6",
+            "content": {
+                "en": "Khalid Sheik Mohammed getting drinks are on the house."
+            }
+        },
+        {
+            "id": "w_09d07f7b5e3b5fdf2570e73d0cd3c41a57d0d4e9",
+            "content": {
+                "en": "Lots and lots of dead people"
+            }
+        },
+        {
+            "id": "w_422b9a87d52b15f8b59e55fc8e99ffe120d7426f",
+            "content": {
+                "en": "maintaining a good front sight picture"
+            }
+        },
+        {
+            "id": "w_0efda315467b1f265f7600f09e99f2a16c680815",
+            "content": {
+                "en": "mass casualties"
+            }
+        },
+        {
+            "id": "w_1eb4edf05b8cf3cc32c0701eece798ade3155608",
+            "content": {
+                "en": "Meeting interesting and exotic peoples of an ancient culture and&hellip;killing them"
+            }
+        },
+        {
+            "id": "w_e93dffb8612dafa32ed5af291726a4b21cecd266",
+            "content": {
+                "en": "Morally ambiguity"
+            }
+        },
+        {
+            "id": "w_7667f16806903054a16a12ac62232d6cf646f2e3",
+            "content": {
+                "en": "More like shoving shards of broken glass up your ass and sitting in a tub of Tabasco sauce kind of fun."
+            }
+        },
+        {
+            "id": "w_f5d0d1355c792591ea91af7fc548694944d7fe6b",
+            "content": {
+                "en": "Murphy&apos;s Law"
+            }
+        },
+        {
+            "id": "w_91c10f12d6d8d4043b5bba9999a24a9a2413667a",
+            "content": {
+                "en": "Muttering \"I fucking hate civilians\""
+            }
+        },
+        {
+            "id": "w_6a0c3e75569004c542f2673d23105e28dbd79bef",
+            "content": {
+                "en": "Not having to win a bunch of medals getting there"
+            }
+        },
+        {
+            "id": "w_bea44719233c10230f0fa84e33b6710a0bfcd61b",
+            "content": {
+                "en": "Not watching your buddies die face down in the sand for this"
+            }
+        },
+        {
+            "id": "w_c12df69642a8d9ffd5f4bde2f71f856153972e51",
+            "content": {
+                "en": "People who weren't captured."
+            }
+        },
+        {
+            "id": "w_aaf01b096eb8b9716a53ad68d6607e843670aa6a",
+            "content": {
+                "en": "Pre-emptive strike"
+            }
+        },
+        {
+            "id": "w_32afe4ca01097950a7d920a07de80e1871d377fd",
+            "content": {
+                "en": "Purposely triggering a war vets flashbacks"
+            }
+        },
+        {
+            "id": "w_4d943a4e7fd35595f2275725c61570970520e8a9",
+            "content": {
+                "en": "Raking dirt and picking up cigarette butts"
+            }
+        },
+        {
+            "id": "w_5be0b448d6621ffa2f4aa095c129b3a34c8a361c",
+            "content": {
+                "en": "Rationalizing the terrible things you have seen and done"
+            }
+        },
+        {
+            "id": "w_f804ea559f33892cb78bdffff42ce924d1debb69",
+            "content": {
+                "en": "Roadside bombs"
+            }
+        },
+        {
+            "id": "w_06558bbe5421d37bbce9061ae2ba80c56a2bbf12",
+            "content": {
+                "en": "Straight up fucking loving authority."
+            }
+        },
+        {
+            "id": "w_af3edc8912251410b44d1443642fe1b4295781c8",
+            "content": {
+                "en": "Suicide Bombers"
+            }
+        },
+        {
+            "id": "w_25d1edb4d331cc844d616b02becc261f69a4737f",
+            "content": {
+                "en": "The all day endeavor of sweeping the sunshine off the sidewalk."
+            }
+        },
+        {
+            "id": "w_ac21de0496ece2305d501b76e94b1a20b2800a14",
+            "content": {
+                "en": "The P.S.T.D. or whatever."
+            }
+        },
+        {
+            "id": "w_bf70f0f02e4bbbceff15dcee9c737f383516bcd6",
+            "content": {
+                "en": "Thunderous war cries of \"Jesus Christ, they're shooting at us!\" \"Every man for himself!\" \"Use the women and children as human shields! and \"Dear Jesus, don't let them get me!\""
+            }
+        },
+        {
+            "id": "w_4581f9a2a17cdbc63509f4bc85dfd5909276eafe",
+            "content": {
+                "en": "VA facilitated opiate addiction"
+            }
+        },
+        {
+            "id": "w_f7382e40f591fca7cb4713cf818f5e6cdeef582e",
+            "content": {
+                "en": "Veterans"
+            }
+        },
+        {
+            "id": "w_15c1a57826b62d17f8161fd08b3a2df0257dc9ce",
+            "content": {
+                "en": "Veterans hiring preference"
+            }
+        },
+        {
+            "id": "w_adc73966eb11c99d05693c12aa772bd605685b98",
+            "content": {
+                "en": "Washing your clothes in an Ammunition can and shitting in an MRE bag, it&apos;s like camping but better."
+            }
+        },
+        {
+            "id": "w_4143887a6c286edc52cd28ac70975bc4565f0c53",
+            "content": {
+                "en": "Well you signed up for it."
+            }
+        },
+        {
+            "id": "w_21c8f9efc76891d76d11ab31c623bbc1d098de45",
+            "content": {
+                "en": "what \"winning\" looks like"
+            }
+        },
+        {
+            "id": "w_9cc9b5761460fb10b77f1fc4d5f8f7ec1befd629",
+            "content": {
+                "en": "You know what, I'm just going to say it, I don't care you're a veteran."
+            }
+        },
+        {
+            "id": "b_706950eb4d1df9ce6148aac9aac32bdd8cf2eeb2",
+            "content": {
+                "en": "Civilian life is nothing I can't even get a job parking ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6fe5b152f57cc07d721bfd5a7a820bdbc5cb7bb8",
+            "content": {
+                "en": "Civilians will never understand the joys of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b62614fc7a14dc49e14d18c2d82a98f5ad47b59",
+            "content": {
+                "en": "He had a watch in training so they put him in the barracks trash can, the instructor would walk by kick the trash can and he'd pop out like the grouch and yell \"Sir the time is ______, sir!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bb1bbc0036d851d9f164fb7cc510e33ba6090ca9",
+            "content": {
+                "en": "He wouldn't stop humming in basic, so they ordered him inside his locker, whenever someone dropped a quarter through the vent hole, he had to sing ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b37b9a928f7170d68cb9cbc7966f12ef3d083f9c",
+            "content": {
+                "en": "I Came, I Saw, I Stayed for ______ : A tourist\u2019s guide to Afghanistan By Bowe Bergdahl"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0ec0eaaa80f34683500078d7ce9a3aed8c7fc277",
+            "content": {
+                "en": "I got to see a lot of the country side. We would take these real long walks and we were always looking for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c477f03f1153007e1b3f897beff28bc1264237cd",
+            "content": {
+                "en": "I&apos;m assigning you to bravo company, it&apos;s full of retards and fuck ups, hopefully with ______ you can elevate the sons a bitches a little."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bbc0f9065e58643aa03cd47d0dd222e8610a7544",
+            "content": {
+                "en": "In 2012 the US military repealed Don't Ask Don't Tell, now our service members can no longer play the gay card to get out of the military, but rather they must play the ______ card."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cdd760cadb5b058f52e20c2cbd0720527adf3502",
+            "content": {
+                "en": "Maybe you can be one of us, The few, the proud, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_138cda644b40985fe48bc667348da5219d284097",
+            "content": {
+                "en": "Military new &lsquo;Holistic Combat Medics\u2019 treat gunshot wounds with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cea19f00deb1a9a827c7e523a2aa8122106d0475",
+            "content": {
+                "en": "National Guardsmen report \u2019emotional scars from ______\u2019 after deployment to air-conditioned tent on US-Mexico border"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a2cf828a334e446d7206a825763f252280495e32",
+            "content": {
+                "en": "Private, those planes are trying to invade the base, I want a war cry of ______, at everyone you see fly overhead."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3f817ab83d87bfab6d75486015f9eff6a1bb80bb",
+            "content": {
+                "en": "Salutes in the 82nd Airborne Division should be the sharpest in the United States Army and rendered with the greeting of ______. Div. Pam 600-2"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6a3fdb723248fcea9a4ec571dfa187faa8fc732a",
+            "content": {
+                "en": "The best part about war in the middle east was______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ae4003f2754b1edeaf18c9fee80a55d77e440d3",
+            "content": {
+                "en": "The biggest lie my recruiter told me was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6724ddacd3e8b698387c9213bf84b93f5e788024",
+            "content": {
+                "en": "The hardest part of getting out of the military is ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd73f217eee0e0fe2a2984165c45c5fee2f15c88",
+            "content": {
+                "en": "The Taliban don\u2019t have video games. So why are they so violent?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b01bceb75b8b4ba5f755a5b0ca75f469d159a14",
+            "content": {
+                "en": "They sent him to Afghanistan they sent him to Iraq.He had but one thing to say when asked how he made it back. ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_161128db5f42f1cba645f4fabb54043d6d21315b",
+            "content": {
+                "en": "______ volunteers to remain behind in Afghanistan and fight Taliban if troops withdraw"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_641004ef43c6fe91560e360a6f8e9b2e806540cd",
+            "content": {
+                "en": "______?!! That&apos;s not thanking me for my service!"
+            },
+            "pick": 1
+        }
+    ]
+}

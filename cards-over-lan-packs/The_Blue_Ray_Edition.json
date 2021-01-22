@@ -1,0 +1,619 @@
+{
+    "id": "The_Blue_Ray_Edition",
+    "name": "The Blue Ray Edition",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_d2d06253fb90358da6edd0f67df56a4313012a59",
+            "content": {
+                "en": "60 fps."
+            }
+        },
+        {
+            "id": "w_c83d3eed9929532fe5ef5a81343c3e8e70b1eca8",
+            "content": {
+                "en": "A comedic roast gone too far."
+            }
+        },
+        {
+            "id": "w_d06560b55d9b44f8e6de7ca13bee2ae62a443787",
+            "content": {
+                "en": "A craving that only hands could satisfy."
+            }
+        },
+        {
+            "id": "w_b9c094da4749b99355cb0b0691d068b1d7ff95c5",
+            "content": {
+                "en": "A dance with the devil in the pale moonlight."
+            }
+        },
+        {
+            "id": "w_49649df2689ebe610a64d7b8c5c36ed2a90237ae",
+            "content": {
+                "en": "A fake American accent."
+            }
+        },
+        {
+            "id": "w_a2312d6f7436107c0b502b15f4be720f381d4de9",
+            "content": {
+                "en": "A gargantuan bag of dicks."
+            }
+        },
+        {
+            "id": "w_6e01a9b6fd7e084354531d35ee65e75a1e8b1c18",
+            "content": {
+                "en": "A legitimate psychological condition."
+            }
+        },
+        {
+            "id": "w_c3ae86b7768e2aad9860d0ba0fe2b733a135393c",
+            "content": {
+                "en": "A low carb diet relapse involving Krispy Kreme&reg; doughnuts."
+            }
+        },
+        {
+            "id": "w_d0c0caecfe53f4fd0aef2d80ab90161b00a4dece",
+            "content": {
+                "en": "A monologue of Quentin Tarantino caliber."
+            }
+        },
+        {
+            "id": "w_e8b6035bfffd3bc0e10cf6a2a58ee0e93e5e37ca",
+            "content": {
+                "en": "A rigamortis induced boner that no woman could resist."
+            }
+        },
+        {
+            "id": "w_f301fea20c47ced78c1b81e39b51503946a38022",
+            "content": {
+                "en": "A sippy cup filled with spicy dick milk."
+            }
+        },
+        {
+            "id": "w_adf0a92ed447fb9b88bd51c9008546bccc3a655e",
+            "content": {
+                "en": "A surgically accurate gaydar."
+            }
+        },
+        {
+            "id": "w_268b8579de340564fdb73dcb1e704f7409a3dda0",
+            "content": {
+                "en": "A transgender prostitute."
+            }
+        },
+        {
+            "id": "w_d5b0995bd202809482453eb801820eb8a7194539",
+            "content": {
+                "en": "A youtube black hole."
+            }
+        },
+        {
+            "id": "w_7062cd024b66878e708b0f4b71b97a97e85d3946",
+            "content": {
+                "en": "Actual cannibal, Shia LaBeouf."
+            }
+        },
+        {
+            "id": "w_c732976b2eb80ec6a4915cc24eb02cffbfbb5be5",
+            "content": {
+                "en": "Adam West Batman VS Christian Bale Batman."
+            }
+        },
+        {
+            "id": "w_5a31990c796282935de48ed78396f7174ec1dc95",
+            "content": {
+                "en": "Affirmative action."
+            }
+        },
+        {
+            "id": "w_f5de7bbfd19a8cd381b60230aeae2269d76a3efc",
+            "content": {
+                "en": "All natural, locally grown, organic bullshit."
+            }
+        },
+        {
+            "id": "w_75931b1a4a3f4230f46e488d9e0a88bbfcc444a4",
+            "content": {
+                "en": "An Assgasm."
+            }
+        },
+        {
+            "id": "w_cbfe7e5c0864e66d51f987bd528e967818a39329",
+            "content": {
+                "en": "An epic fail."
+            }
+        },
+        {
+            "id": "w_824f348cc7630c4e24d049d2e83b6abdbfa02648",
+            "content": {
+                "en": "An inside joke, like way inside."
+            }
+        },
+        {
+            "id": "w_e310af152494be416453c78c814e3cd61ca15fb9",
+            "content": {
+                "en": "Aspiring Youtubers."
+            }
+        },
+        {
+            "id": "w_3ed44830397e3286f10f0c542dd0e18e2a20dc4a",
+            "content": {
+                "en": "Bassists."
+            }
+        },
+        {
+            "id": "w_f706efff96966a79e5808f3f4fe1f0ce42de3c6c",
+            "content": {
+                "en": "Batfleck."
+            }
+        },
+        {
+            "id": "w_068d6198ca7ec8a59ed34a4d30c120dbb94ced26",
+            "content": {
+                "en": "Binge watching shows on Netflix&reg;."
+            }
+        },
+        {
+            "id": "w_64991accd1fae64042a1e800e28d744150545acb",
+            "content": {
+                "en": "Blood orgies!"
+            }
+        },
+        {
+            "id": "w_cd3dacadcb9cf4f1270dcb74e9479c9835341dea",
+            "content": {
+                "en": "Completely cracking under the pressure."
+            }
+        },
+        {
+            "id": "w_c4779401cde9c86c1225b5ac78f71ae8b9477df0",
+            "content": {
+                "en": "Death by horse fucking."
+            }
+        },
+        {
+            "id": "w_d03da9005f8bf34b24d11866993ed165d355aef1",
+            "content": {
+                "en": "Drummers."
+            }
+        },
+        {
+            "id": "w_1e4f5bb58d3c1742a0d6a0fad34111e8c8ea4e38",
+            "content": {
+                "en": "Dumpster diving for furniture."
+            }
+        },
+        {
+            "id": "w_c3a8b37d7f2d6a4fc91d4cb370c76ce0f0323e8d",
+            "content": {
+                "en": "Easy money."
+            }
+        },
+        {
+            "id": "w_4d3919293def031969e7da1e70892154f90410cf",
+            "content": {
+                "en": "Existential disagreements."
+            }
+        },
+        {
+            "id": "w_9a2aff344cce20ef61f1e05377a2ba9b482f16ad",
+            "content": {
+                "en": "Exploding kittens."
+            }
+        },
+        {
+            "id": "w_5741a98a523dd19f57ddd07e69b255845b4d2de2",
+            "content": {
+                "en": "Facebook stalking."
+            }
+        },
+        {
+            "id": "w_d08c3a7b6d142d37f0cae88e353c94064414172c",
+            "content": {
+                "en": "Falling in love for the first time."
+            }
+        },
+        {
+            "id": "w_5f1a4fe559cc2fea918654de55868e8cadf06ee0",
+            "content": {
+                "en": "Food carts."
+            }
+        },
+        {
+            "id": "w_e26f694656388174209c1a31e6f4aae866224e32",
+            "content": {
+                "en": "George R.R. Martin\u2019s Livejournal."
+            }
+        },
+        {
+            "id": "w_76c0997bac7ab4151c6288892e35a450dd678eed",
+            "content": {
+                "en": "Ghost Peppers."
+            }
+        },
+        {
+            "id": "w_da529910f77e7430e30584c2841904c00aa46537",
+            "content": {
+                "en": "Guitarists."
+            }
+        },
+        {
+            "id": "w_8680d1d7bbb7775e37b5e8f1208197ba1d41a152",
+            "content": {
+                "en": "Hitting a little too close to home."
+            }
+        },
+        {
+            "id": "w_8c19b2933337a72861b578bb342981df3aa4ba16",
+            "content": {
+                "en": "Intellectual Property."
+            }
+        },
+        {
+            "id": "w_13e6e482e37a9c53534b00b990344eeba1f9e784",
+            "content": {
+                "en": "Internet culture."
+            }
+        },
+        {
+            "id": "w_25fc37b9816a8e497a1667ffb03e19a9549377d9",
+            "content": {
+                "en": "Kombucha."
+            }
+        },
+        {
+            "id": "w_4ae3f213b016c10dee5e506cf18eedec2a4ce4af",
+            "content": {
+                "en": "Lying about something to seem cool."
+            }
+        },
+        {
+            "id": "w_a5c566d5fc183aa1aa59186edeff10b4c5dcb3d2",
+            "content": {
+                "en": "Making it Steampunk."
+            }
+        },
+        {
+            "id": "w_dbcc5c1ccd221709dc0425d83279b1a7c1c69838",
+            "content": {
+                "en": "Manic depression."
+            }
+        },
+        {
+            "id": "w_e21164338a79b6f1e24540aab55135659de6213e",
+            "content": {
+                "en": "My inevitable death."
+            }
+        },
+        {
+            "id": "w_694ffcb151359d3b58d1b7dce0fe007a61715c7b",
+            "content": {
+                "en": "My under utilized skills."
+            }
+        },
+        {
+            "id": "w_8f1ced799d4c1b506621c35f7ce682ee1ef38a79",
+            "content": {
+                "en": "Nickelback."
+            }
+        },
+        {
+            "id": "w_989915a30d12ee02e6d689d8d2023d23cfe6d1de",
+            "content": {
+                "en": "Nihilism."
+            }
+        },
+        {
+            "id": "w_0971a0a59f2ad4690e036d785bc6518186fae2ef",
+            "content": {
+                "en": "Obscure 70\u2019s rock bands only your father would know."
+            }
+        },
+        {
+            "id": "w_00345591cfa1fb59b0b41a17320aa442f6e15c11",
+            "content": {
+                "en": "Our dark lord and savior, Satan."
+            }
+        },
+        {
+            "id": "w_f0a829e859322d97a5a01902496866947be72324",
+            "content": {
+                "en": "Owning every season of Family Matters."
+            }
+        },
+        {
+            "id": "w_e2b38c21e3986015eaadbc6fe8cefaf219defc85",
+            "content": {
+                "en": "Owning every season of Full House."
+            }
+        },
+        {
+            "id": "w_9c8f619b41e091ca8e49cd3d6a669874b41acd42",
+            "content": {
+                "en": "People who actually think Taco Bell&reg; is Mexican food."
+            }
+        },
+        {
+            "id": "w_70dad9f00ad133601f6b8c3bf212c3501126c987",
+            "content": {
+                "en": "Playing The Sims&reg; all night."
+            }
+        },
+        {
+            "id": "w_8d7fd6506a7c0d3c01b118ac178e84e47aa26fa9",
+            "content": {
+                "en": "Porn addiction."
+            }
+        },
+        {
+            "id": "w_0bc44838ca8ea97e3176b2528cfd5f095bd14b27",
+            "content": {
+                "en": "Prophetic visions induced by psychedelic drugs."
+            }
+        },
+        {
+            "id": "w_cd3c1efb9a2882dec1caa8b6d3804f72ebc1012c",
+            "content": {
+                "en": "Quitting while you\u2019re ahead."
+            }
+        },
+        {
+            "id": "w_1f79171faf8b7e24a18b4b534dd7793919d924e4",
+            "content": {
+                "en": "Really really bad karaoke."
+            }
+        },
+        {
+            "id": "w_7d7269f0681b123f0c5104b72b2f6406c254b8b5",
+            "content": {
+                "en": "Recording your neighbors daily lives."
+            }
+        },
+        {
+            "id": "w_b06e3ad616b06b43a6ad792f0a6cbaa4a133e9cd",
+            "content": {
+                "en": "Registered sex offenders."
+            }
+        },
+        {
+            "id": "w_f2c5b437d77ca3277d9c79f40b54fad0e6334fc5",
+            "content": {
+                "en": "Resting bitch face."
+            }
+        },
+        {
+            "id": "w_734fd604ade264f4bf9da7af69ab5b6228bc1506",
+            "content": {
+                "en": "Roast beef pussy."
+            }
+        },
+        {
+            "id": "w_c604f0c9d5a01ee73e603e1446a142a7925fc0e8",
+            "content": {
+                "en": "Robin Williams suicide note."
+            }
+        },
+        {
+            "id": "w_51f3a2034a847af736bb8f2d7d390191ee337990",
+            "content": {
+                "en": "Spontaneous orgasms."
+            }
+        },
+        {
+            "id": "w_09a8376e95c8f08d5779295f700d591fdddc6122",
+            "content": {
+                "en": "Taking credit for someone else\u2019s work."
+            }
+        },
+        {
+            "id": "w_0bf039bf4b699054ca40699d1be8b87c76e3b5bc",
+            "content": {
+                "en": "That friend who&apos;s always talking about killing themselves, and it secretly makes you wish they would."
+            }
+        },
+        {
+            "id": "w_f1b9fc939f854690fa29f720d01d3d5bf4f68c23",
+            "content": {
+                "en": "That small window of time when food is expired but still edible."
+            }
+        },
+        {
+            "id": "w_e68f2c36b49b9bd416dfb54a545c45f1ea8658c8",
+            "content": {
+                "en": "The anti vaccine movement."
+            }
+        },
+        {
+            "id": "w_3214f944161f92267f5ef46b61db4ab34b6363af",
+            "content": {
+                "en": "The Blu Ray edition."
+            }
+        },
+        {
+            "id": "w_1e06bf0ea4490781edfcb0facb6f47d9487f3402",
+            "content": {
+                "en": "The controversial views expressed in the commentary."
+            }
+        },
+        {
+            "id": "w_4a2d16ff93ca72d524d2b1af834a5ed2d06dd645",
+            "content": {
+                "en": "The inevitable icy death of the universe."
+            }
+        },
+        {
+            "id": "w_cbf112248c9ba64af8d96297d9f6d2e778333a67",
+            "content": {
+                "en": "The keyboard player."
+            }
+        },
+        {
+            "id": "w_7059d4ae5711d0d65edfebe93756636297aafc11",
+            "content": {
+                "en": "The man juice diet."
+            }
+        },
+        {
+            "id": "w_bbc677c39edc3270ba2f31bce715b62c47ecd0e2",
+            "content": {
+                "en": "The Marvel Cinematic Universe."
+            }
+        },
+        {
+            "id": "w_00fdc1481259fce35476995ae355d9a4b0f18dab",
+            "content": {
+                "en": "The pure satisfaction of a perfectly timed &ldquo;That\u2019s what she said&rdquo; joke."
+            }
+        },
+        {
+            "id": "w_063d058c0fce6688cc532807e991e32daba15bf1",
+            "content": {
+                "en": "The rape of your childhood."
+            }
+        },
+        {
+            "id": "w_688c3431e9edde3645907cf82d2f2f56d4d0fb7d",
+            "content": {
+                "en": "The shit Mormons claim to believe."
+            }
+        },
+        {
+            "id": "w_c4acf0be3a035fb270b7cc0b0792738c526e80ff",
+            "content": {
+                "en": "The Super Mario Brothers movie."
+            }
+        },
+        {
+            "id": "w_3b8e0281b57f98149951760f482f95f891f2200a",
+            "content": {
+                "en": "The surprisingly good soundtracks of the Twilight movies."
+            }
+        },
+        {
+            "id": "w_c188140488134eed2dca34bcd4713b56921ea149",
+            "content": {
+                "en": "This shit is bananas, B A N A N A S!"
+            }
+        },
+        {
+            "id": "w_f9546fe07b20a650e6d33223043284d89b464af7",
+            "content": {
+                "en": "TLC reality shows."
+            }
+        },
+        {
+            "id": "w_fd95dff61fa7848232872a68638a4cd4974106e3",
+            "content": {
+                "en": "Torture porn."
+            }
+        },
+        {
+            "id": "w_71da775b0a303731ffab1ff4540d51f91e313833",
+            "content": {
+                "en": "Total isolation."
+            }
+        },
+        {
+            "id": "w_f9545fe7cd63d419f26c4d0edc9ea84d636fcaef",
+            "content": {
+                "en": "Trollface."
+            }
+        },
+        {
+            "id": "w_bceafbe43d4d84f2c6c7544bca7f2380dc900f2a",
+            "content": {
+                "en": "Urban Hippies."
+            }
+        },
+        {
+            "id": "w_270cb3f53a9445e572472a647854e6e32e51f107",
+            "content": {
+                "en": "What I\u2019d like to do to you."
+            }
+        },
+        {
+            "id": "w_da43418abfc81443d67846d6542ffb59c364ea24",
+            "content": {
+                "en": "YOLO BITCHES!"
+            }
+        },
+        {
+            "id": "w_4f58a49b045cdc7a3827aae35a62fa3305a73556",
+            "content": {
+                "en": "Your old Myspace profile."
+            }
+        },
+        {
+            "id": "b_306afa4928640fc1d124b96029513a5e77cb449a",
+            "content": {
+                "en": "Chronic fatigue is usually a sign of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67b45b9efb72116cd379dbedf94c398d7299c508",
+            "content": {
+                "en": "I bought the remastered version of ______ for the extended cut of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5f6e2171e5343d73981c3fc9c0b5a2d9afac3516",
+            "content": {
+                "en": "I couldn't sleep last night I was too distracted by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_15f4e439bd3c63eb7eaa26d97a7239d1e8fb0d9b",
+            "content": {
+                "en": "I wasn't a fan of ______ until I experienced it for myself."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_596b60d2ab4840a705afc0c66bc2a0bc90419461",
+            "content": {
+                "en": "I&apos;m suddenly having a massive craving for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ebe6d423265f6537b51e99a65d97948533bc671c",
+            "content": {
+                "en": "Life, liberty, and the pursuit of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6d1bd7d3a96ccac25e819cd91b5eba2d9aef147c",
+            "content": {
+                "en": "On this week&apos;s episode we will be having a serious discussion about ______, and how it affects ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2354dd6342a3d0814568f2f9f319680d4822fb46",
+            "content": {
+                "en": "Side effects may include ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6daf06e90033fb2b65cb8921029ced68a5138d25",
+            "content": {
+                "en": "______, because girls just wanna have fun."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff9c4c44e5caa922542039d259d7d1deeae7b0c2",
+            "content": {
+                "en": "______, the other white meat."
+            },
+            "pick": 1
+        }
+    ]
+}

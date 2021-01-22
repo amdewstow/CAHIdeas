@@ -1,0 +1,774 @@
+{
+    "id": "CAHgrognards",
+    "name": "CAH Grognards",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_c585ed14248b80e438f2cadade83e598c36bee69",
+            "content": {
+                "en": "4rries."
+            }
+        },
+        {
+            "id": "w_9cddd05538a34f0ddede1011bd36a89fb524c3f2",
+            "content": {
+                "en": "A kick to the dicebags."
+            }
+        },
+        {
+            "id": "w_8ab95832050b9eacb8920a6551af7045a77e74e8",
+            "content": {
+                "en": "A ratcatcher with a small but vicious dog."
+            }
+        },
+        {
+            "id": "w_9138c2f17e3c8efb362b67a546db982d8c7b1c66",
+            "content": {
+                "en": "Ale and whores."
+            }
+        },
+        {
+            "id": "w_d6e5803d79fb4a0f437ccc77ea8b441e15d56ccf",
+            "content": {
+                "en": "Amber Diceless Roleplaying."
+            }
+        },
+        {
+            "id": "w_bcc462bedec4a7adba43a0c3c704d09ed5f1dd48",
+            "content": {
+                "en": "BadWrongFun."
+            }
+        },
+        {
+            "id": "w_f5cefc2ad49cd68c6e4b412144a7c2dbe5b187d3",
+            "content": {
+                "en": "Bearded dwarven women."
+            }
+        },
+        {
+            "id": "w_ddf44a7968d9aa01ff0b9d213777ad977dc3a39a",
+            "content": {
+                "en": "Bigby&apos;s Groping Hands."
+            }
+        },
+        {
+            "id": "w_2c933cdc5954ef4237138c0a21a61f17f9a87488",
+            "content": {
+                "en": "Bigby&rsquo;s Groping Hands."
+            }
+        },
+        {
+            "id": "w_943e90564f008a1243d8e243282f5c81a27daa43",
+            "content": {
+                "en": "Black Tokyo."
+            }
+        },
+        {
+            "id": "w_f47437fd9e906d724852d0c34f6dc78f90f7946b",
+            "content": {
+                "en": "Boob plate armor."
+            }
+        },
+        {
+            "id": "w_19b7c806e03e1b27210e00377cfb4e17b0e57679",
+            "content": {
+                "en": "Bribing the GM with sexual favors."
+            }
+        },
+        {
+            "id": "w_7396acaab4df3830ec45767ff1d0e025826c689e",
+            "content": {
+                "en": "Cheetoism."
+            }
+        },
+        {
+            "id": "w_208e71bc63945332a9732d7caaf835109810bb0d",
+            "content": {
+                "en": "Comeliness."
+            }
+        },
+        {
+            "id": "w_4bdb6ee72304928f90411361c924d33e5f688d09",
+            "content": {
+                "en": "Cthulhu."
+            }
+        },
+        {
+            "id": "w_0076bdc7f4f0d9c9a7624fabc56e4426e2cbbc0c",
+            "content": {
+                "en": "Cultural Marxism."
+            }
+        },
+        {
+            "id": "w_ef64a2f270e99057e8d1ed73ed65b2c087c0db97",
+            "content": {
+                "en": "Dice animism."
+            }
+        },
+        {
+            "id": "w_1540b31113031a67f03ee17c5793ea7c0bc215c2",
+            "content": {
+                "en": "Dice inserted somewhere painful."
+            }
+        },
+        {
+            "id": "w_88c6d19e0511612fadb54cea449600b110339acc",
+            "content": {
+                "en": "Dildo of Enlightenment +2"
+            }
+        },
+        {
+            "id": "w_00a7a95253fa5cd1d8fb0280ef566420567b90dd",
+            "content": {
+                "en": "Dissociated mechanics."
+            }
+        },
+        {
+            "id": "w_af4e367a02951eff70e208e0364512caa884a55a",
+            "content": {
+                "en": "Dragon boobs."
+            }
+        },
+        {
+            "id": "w_7d89f9dfad81815e03cbafd9225a7dafe9cfcc00",
+            "content": {
+                "en": "Drizzt."
+            }
+        },
+        {
+            "id": "w_37186684de9900017ff77971faede14b1191e3b9",
+            "content": {
+                "en": "Drow blackface."
+            }
+        },
+        {
+            "id": "w_8f30230e3584851026f8403f79a31f58a5966a21",
+            "content": {
+                "en": "Dumbed down shit for ADD WoW babies."
+            }
+        },
+        {
+            "id": "w_7b22a06b4507837b030c7a5ba4996b31323af2bc",
+            "content": {
+                "en": "Dump stats."
+            }
+        },
+        {
+            "id": "w_0df3e827b3c1c115a856672a6ae86b11be2e0fc3",
+            "content": {
+                "en": "Dying during chargen."
+            }
+        },
+        {
+            "id": "w_b3dc60bab286a18bea84ade09bb4c8bf951cfc79",
+            "content": {
+                "en": "Eurocentric fantasy."
+            }
+        },
+        {
+            "id": "w_bd6320c3670b822c328473025ce0632df149aefb",
+            "content": {
+                "en": "FATAL."
+            }
+        },
+        {
+            "id": "w_b910b4e68417556cfeade5c268f34aee9e29e103",
+            "content": {
+                "en": "Fishmalks."
+            }
+        },
+        {
+            "id": "w_341ad29869226e153f3edac76339184e4da0a986",
+            "content": {
+                "en": "Fun Tyrant."
+            }
+        },
+        {
+            "id": "w_aac2dad122c3cebd10f4163be03a7aaa0634662a",
+            "content": {
+                "en": "Game balance."
+            }
+        },
+        {
+            "id": "w_c40829f9edc02e68f3add0569358901314ce7413",
+            "content": {
+                "en": "Gamer chicks."
+            }
+        },
+        {
+            "id": "w_fffe44796ccce28d99da2419b2199bd82bbb25b3",
+            "content": {
+                "en": "Gazebos."
+            }
+        },
+        {
+            "id": "w_3dbe0702b39cb4d4274794ca79dfae573e530ed7",
+            "content": {
+                "en": "Gazeebos."
+            }
+        },
+        {
+            "id": "w_6fbcfb4104ad867c25ae0449003230f7c64d8428",
+            "content": {
+                "en": "Gelatinous Cubes."
+            }
+        },
+        {
+            "id": "w_a81a9f2c24a1e9c8531e3e32fb6060b37c238379",
+            "content": {
+                "en": "Githyanki therapy."
+            }
+        },
+        {
+            "id": "w_dfc5295e8d95a98915abdf90b08e5cf6ebe18cb3",
+            "content": {
+                "en": "GNS theory."
+            }
+        },
+        {
+            "id": "w_e75f1b8d1f1cff40c13c7f9218d6a83c1bcd388d",
+            "content": {
+                "en": "Grimdark."
+            }
+        },
+        {
+            "id": "w_483bd7f7f6debe08f7167e49eed63fd583499619",
+            "content": {
+                "en": "Grinding levels."
+            }
+        },
+        {
+            "id": "w_9fc070c4de16569ce1587f41635ef016b279b3cd",
+            "content": {
+                "en": "Grognards Against Humanity."
+            }
+        },
+        {
+            "id": "w_4f7b9f73289c6c5ea97a2a1673900360815ebc5b",
+            "content": {
+                "en": "Gygaxian naturalism."
+            }
+        },
+        {
+            "id": "w_c5fa24d01c7fa8c9b4b208e6d1c7d3c637be5228",
+            "content": {
+                "en": "Healing Surges."
+            }
+        },
+        {
+            "id": "w_09b3fa012208ba24ba34b491eb95cee9da2259ca",
+            "content": {
+                "en": "Killfuck Soulshitter."
+            }
+        },
+        {
+            "id": "w_6e314a5277f963b7415caa0f73ec2ed060af20af",
+            "content": {
+                "en": "Kobolds."
+            }
+        },
+        {
+            "id": "w_ce832d2ac4d250d670e8d60ebc07d3349331e687",
+            "content": {
+                "en": "Lesbian stripper ninjas."
+            }
+        },
+        {
+            "id": "w_122b4f3dfe1d6f63a2f358d9d263fed3fd3c1c30",
+            "content": {
+                "en": "Lorraine Williams."
+            }
+        },
+        {
+            "id": "w_036ffc6ff3a904365f60d87cf8c3c261c6852ce6",
+            "content": {
+                "en": "Magic missile."
+            }
+        },
+        {
+            "id": "w_84718dc4ee5502af9efd2c0d1bed05b766024a59",
+            "content": {
+                "en": "Magical tea party."
+            }
+        },
+        {
+            "id": "w_1da97bd126b1eb6b2286608383573430567b7fe4",
+            "content": {
+                "en": "Maid RPG."
+            }
+        },
+        {
+            "id": "w_a21ae1abca4f5540ca7de5c86d44e50905327ed2",
+            "content": {
+                "en": "Mark Rein\"&cent;Hagen."
+            }
+        },
+        {
+            "id": "w_a6ccd4c1c3532ea277801b4b2a0d44111d39b6c5",
+            "content": {
+                "en": "Mark Rein&middot;Hagen."
+            }
+        },
+        {
+            "id": "w_f335ce30d208e4189fdbba1916cd728c1380da2e",
+            "content": {
+                "en": "Martial dailies."
+            }
+        },
+        {
+            "id": "w_5f3b949e2a4113895655461c7c68d768fbb5bc5b",
+            "content": {
+                "en": "Mike Mearls."
+            }
+        },
+        {
+            "id": "w_3ef0807d2d0c5b2399f3096f42020f4cc8cc0d47",
+            "content": {
+                "en": "Misogynerds."
+            }
+        },
+        {
+            "id": "w_e9e1b89b5b822235d7219cf936b0c1c1cad4fc30",
+            "content": {
+                "en": "Natural 20."
+            }
+        },
+        {
+            "id": "w_89b21600a129b6a493880686c819af80bbe78a19",
+            "content": {
+                "en": "Neckbeards."
+            }
+        },
+        {
+            "id": "w_58343451d8e9fb62e10b2c1aef99cb2db72d6736",
+            "content": {
+                "en": "Nude larping."
+            }
+        },
+        {
+            "id": "w_650352e8b2e367781c146fa79ff3f033c9edbd1c",
+            "content": {
+                "en": "Oozemaster."
+            }
+        },
+        {
+            "id": "w_90f338b75f4f54503326c0ffa94d07c4075aaa33",
+            "content": {
+                "en": "Owlbear&apos;s tears."
+            }
+        },
+        {
+            "id": "w_bd421f0bab740665004938c19646db20e326fb9a",
+            "content": {
+                "en": "Owlbear&rsquo;s tears."
+            }
+        },
+        {
+            "id": "w_df2b70faf2d77a7337a79ec30d40e8e1c388fc0b",
+            "content": {
+                "en": "Pissing on Gary Gygax&apos;s grave."
+            }
+        },
+        {
+            "id": "w_ca3475debf766f0376b33552d2c8fb2d4ab910ae",
+            "content": {
+                "en": "Pissing on Gary Gygax&rsquo;s grave."
+            }
+        },
+        {
+            "id": "w_a216b41750c06f3f4b06c1a39b3b654907862f82",
+            "content": {
+                "en": "Portable holes."
+            }
+        },
+        {
+            "id": "w_ec2e608e048005e699a1ba216c378cff08d74e71",
+            "content": {
+                "en": "Quoting Monty Python."
+            }
+        },
+        {
+            "id": "w_6eeac377e667c943820e1aeacc72275831e42f42",
+            "content": {
+                "en": "Random chargen"
+            }
+        },
+        {
+            "id": "w_33a10fc3153696002e2ccd1a07b4971e7684a583",
+            "content": {
+                "en": "Rape."
+            }
+        },
+        {
+            "id": "w_581b937c68382a1ee655dbd125573d6824630b33",
+            "content": {
+                "en": "Rapenards."
+            }
+        },
+        {
+            "id": "w_5c64e5d6d46dda8806645abae33daf68ad1bc18b",
+            "content": {
+                "en": "Rifts&acirc;&bdquo;&cent;."
+            }
+        },
+        {
+            "id": "w_0a0a7ec945efa2900736d0a14e6f8fef71e53ba4",
+            "content": {
+                "en": "Rifts&trade;."
+            }
+        },
+        {
+            "id": "w_9bdedf221176a77386133632dec547909693fd1d",
+            "content": {
+                "en": "Rocks fall, everyone dies."
+            }
+        },
+        {
+            "id": "w_50ec74e9ae8fc859eb9f32e8fce7fe20ddc92a03",
+            "content": {
+                "en": "Role-playing and roll-playing."
+            }
+        },
+        {
+            "id": "w_79b605fee11bf12a8852eed13da659b306999788",
+            "content": {
+                "en": "Ron Edwards&rsquo; brain damage."
+            }
+        },
+        {
+            "id": "w_5d9590905f2e986d1626caab8442c2547b297144",
+            "content": {
+                "en": "Ron Edwards' brain damage."
+            }
+        },
+        {
+            "id": "w_a7891f90bf00f4e15000be8874d2bb94fed4e393",
+            "content": {
+                "en": "RPG.net."
+            }
+        },
+        {
+            "id": "w_355228f46331869626ea2961a3955b9331216796",
+            "content": {
+                "en": "Sacred cows."
+            }
+        },
+        {
+            "id": "w_9b298f9e7374070b6dd35467c0e8468207abd9d6",
+            "content": {
+                "en": "Save or die."
+            }
+        },
+        {
+            "id": "w_ada341477190af0876fc452126b3ba3a8dc74114",
+            "content": {
+                "en": "Slaughtering innocent orc children."
+            }
+        },
+        {
+            "id": "w_685b1a127f26ec436d919f647f30c234a7cb2a80",
+            "content": {
+                "en": "Special snowflakes."
+            }
+        },
+        {
+            "id": "w_ec205f2d43262bc442d920effe7190a06000e6fa",
+            "content": {
+                "en": "Splugorth blind warrior women."
+            }
+        },
+        {
+            "id": "w_18f849d15480175169ca624243fdc9055c985185",
+            "content": {
+                "en": "Steampunk bullshit."
+            }
+        },
+        {
+            "id": "w_206738945237a4f5b81896f4fcab4df7b796c1e1",
+            "content": {
+                "en": "Steve Jackson&apos;s beard."
+            }
+        },
+        {
+            "id": "w_dfdf2cbc81e8c68ae87c503f9d223519cf2d9006",
+            "content": {
+                "en": "Steve Jackson&rsquo;s beard."
+            }
+        },
+        {
+            "id": "w_ffb52af48cad16ad9864e3f728e20d6262c2752f",
+            "content": {
+                "en": "Storygames."
+            }
+        },
+        {
+            "id": "w_3b53e124db6a7eb7703f006a05042eb8d35945ff",
+            "content": {
+                "en": "Swine."
+            }
+        },
+        {
+            "id": "w_413cbf245c4dd10c60b8d2d438b731ba0d24eb26",
+            "content": {
+                "en": "THAC0."
+            }
+        },
+        {
+            "id": "w_0d4d045b06e28502719a85725ce6c2fd0581b8d9",
+            "content": {
+                "en": "The Crisis of Treachery&acirc;&bdquo;&cent;."
+            }
+        },
+        {
+            "id": "w_a1a198ff62c2bd44068fe67afd556222d5c19a77",
+            "content": {
+                "en": "The Crisis of Treachery&trade;."
+            }
+        },
+        {
+            "id": "w_14ab3ca0a0de1e54fc4d7ad7855bf6c1cb158b0a",
+            "content": {
+                "en": "The entire Palladium Books&Acirc;&reg; Megaverse&acirc;&bdquo;&cent;"
+            }
+        },
+        {
+            "id": "w_e05d5a1b2f8b68248c6b4eaa8fecddcbb35d8c2a",
+            "content": {
+                "en": "The entire Palladium Books&reg; Megaverse&trade;"
+            }
+        },
+        {
+            "id": "w_2364528b76ecfffb88d319dbf5594092249face7",
+            "content": {
+                "en": "The Forge."
+            }
+        },
+        {
+            "id": "w_b7586b69a1b974c64a0cbcc8637acbec8f2aa768",
+            "content": {
+                "en": "The naked succubus in the Monster Manual."
+            }
+        },
+        {
+            "id": "w_252c2451456f6e17bf152c41dcd2ac9f039d3a16",
+            "content": {
+                "en": "The random prostitute table."
+            }
+        },
+        {
+            "id": "w_a51ea758506236250e536d9c89719bbb7bcbb00a",
+            "content": {
+                "en": "Total Party Kill."
+            }
+        },
+        {
+            "id": "w_28e37eecde5f6524b88a8bb30760d180997c0f66",
+            "content": {
+                "en": "Vampire: The Masquerade."
+            }
+        },
+        {
+            "id": "w_32d17d5af330360f20e104ad368c672081758f5d",
+            "content": {
+                "en": "Verisimilitude."
+            }
+        },
+        {
+            "id": "w_acfab70eb69a8b4dc64198716af7d036fffc798e",
+            "content": {
+                "en": "White privilege."
+            }
+        },
+        {
+            "id": "b_8b973d76f094b3f03814b7411dfe2d41829f070b",
+            "content": {
+                "en": "A true gamer has no problem with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_343d2223bf36942b78e669b6463c11037fa2303e",
+            "content": {
+                "en": "Alightment: Chaotic ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cbcdf7e4033e4c2dd6cce0f6d12dab96652c1aff",
+            "content": {
+                "en": "Alignment: Chaotic ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ec2c55a9decfb44dc34b53c74278324e0ace4e7",
+            "content": {
+                "en": "Back when I was 12 and I was just starting playing D&D, the game had ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78cc1c6cc32d7ca07ac8a4877105d27a977c20f3",
+            "content": {
+                "en": "Big Eyes, Small ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9015909d16db888931f70448b4eb066a9f994b49",
+            "content": {
+                "en": "D&D 4.0 isn't real D&D because of the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac01201d7376958cd57350753467930ff6a66729",
+            "content": {
+                "en": "Dnd 4.0 isn&rsquo;t real dnd because of the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3b880417a528e294a0db2bb995f064ebd80c2114",
+            "content": {
+                "en": "Elminster cast a potent ______ spell and then had sex with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d7f91d82d6d371b4bcff56774b19ac586a4119b1",
+            "content": {
+                "en": "In the grim darkness of the future there is only ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_03516eb0b757b47fdf96bf7c18fe0529edc6ee81",
+            "content": {
+                "en": "It&apos;s a D&D retroclone with ______ added."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1598fcf355d618f2fe88f48c385e43d6f49402c",
+            "content": {
+                "en": "It&rsquo;s a D&D retroclone with ______ added."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a993c500762081ab72246741629c839747d529a6",
+            "content": {
+                "en": "Linear Fighter, Quadratic ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d11c8428373bbc933225a0ce1ecae2c06e2e6e4a",
+            "content": {
+                "en": "My innovative new RPG has a stat for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7910353a74092f14484ef8ca5187dc8460650c4",
+            "content": {
+                "en": "Pathfinder is basically D&D ______ Edition."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a65f2fabcb6f0ca6a1ba563fbf98f8288c1f40fe",
+            "content": {
+                "en": "People are wondering why Steve Jackson published GURPS ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b0076dec1fc1ff77f7803c49c18eec61f20bfd59",
+            "content": {
+                "en": "Storygames aren&rsquo;t RPGs because of the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c863be1aafa5788af4bb0db54fc438f6b095d63a",
+            "content": {
+                "en": "Storygames aren't RPGs because of the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4a71aa9bd355a1cdb58026e9ea9da992b9738421",
+            "content": {
+                "en": "The Deck of Many ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_932b69540f837748916f7670d63fcc45dd67064f",
+            "content": {
+                "en": "The portal leads to the quasi-elemental plane of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fbe85ad360ff699c072e265e8097b1b7316913e6",
+            "content": {
+                "en": "The Slayer&apos;s Guide to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_335e8d629b78955764e1d680864f9dd600fe95c4",
+            "content": {
+                "en": "The Slayer&rsquo;s Guide to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d182b892081a3ccff7f199fb5c9a9de3e3a2cb96",
+            "content": {
+                "en": "The Temple of Elemental ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_034eac4686e2b21c02f87658a04042da582681f4",
+            "content": {
+                "en": "What made the paladin fall? ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_369baf998330d5a728b239045f12102960ed18e7",
+            "content": {
+                "en": "Worst character concept ever: ______, but with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9b4fb5bf9a42adce750740d521b92e5453d0704e",
+            "content": {
+                "en": "You are all at a tavern when ______ approach you."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6331832957d5ddc2b1f956c5e52e2b1f7b1476b0",
+            "content": {
+                "en": "You start with 1d4 ______ points."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c2912c9f24be6c8b5185fea2947ee5fafeaba311",
+            "content": {
+                "en": "______ : The Storytelling Game."
+            },
+            "pick": 1
+        }
+    ]
+}

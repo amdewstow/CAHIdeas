@@ -1,0 +1,303 @@
+{
+    "id": "Cards_Against_The_GOP",
+    "name": "Cards Against The GOP",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_c5aabfb0d59e9509e8d6297774363b57d942f071",
+            "content": {
+                "en": "A black guy"
+            }
+        },
+        {
+            "id": "w_2790920bb7d0316b554d6b327ad9dd5212032de3",
+            "content": {
+                "en": "A safe space that transcends? all plains of reality"
+            }
+        },
+        {
+            "id": "w_1e24c09d83d3ab66da40e2952fdb61f62f8cca98",
+            "content": {
+                "en": "Aggressively interrupting? someone on Fox News"
+            }
+        },
+        {
+            "id": "w_9383d2eb37531974f63b4d578c7c3251ba8c44e8",
+            "content": {
+                "en": "Air Bud 2016"
+            }
+        },
+        {
+            "id": "w_9945af4a44cf947a7380d2b5afdbe8e3c7db0cae",
+            "content": {
+                "en": "An animated lawyer turtle voiced by Ted Cruz"
+            }
+        },
+        {
+            "id": "w_255cec275728f2cde84e34b4888998f2dd489a14",
+            "content": {
+                "en": "Angrily referring to yourself as a \"taxpayer\""
+            }
+        },
+        {
+            "id": "w_934f4129e29f91c2fef50558b2d6fbec103cb675",
+            "content": {
+                "en": "Batman 2016"
+            }
+        },
+        {
+            "id": "w_a0ac87a0014362133782b8223d2e9b9af5ede976",
+            "content": {
+                "en": "Being a responsible, taxpaying adult"
+            }
+        },
+        {
+            "id": "w_2a0683bec1b5a6510bbecb05cc7de2d969718fbd",
+            "content": {
+                "en": "Being called an idiot even though you're a literal brain surgeon with 67 college degrees"
+            }
+        },
+        {
+            "id": "w_34b2635de0ebdb77a91b103c99df1a64163646e3",
+            "content": {
+                "en": "Being called racist for wanting people to abide by the law"
+            }
+        },
+        {
+            "id": "w_c5ee7d71b1c64aa4d17e21f0de774ac65ad30270",
+            "content": {
+                "en": "Being stuck with Donald Trump"
+            }
+        },
+        {
+            "id": "w_2f33bdc6315fa94f6bf97b8e206ced20b7d03646",
+            "content": {
+                "en": "Being surrounded by Bernie Sanders supporters"
+            }
+        },
+        {
+            "id": "w_82875cfe7260745e28e5f4dc7b797fe88501d784",
+            "content": {
+                "en": "Ben Carson phasing into a trance in the middle of a debate so that he can fight intergalactic demons on a metaphysical plane of existence"
+            }
+        },
+        {
+            "id": "w_f4baa29a916cea364c596440b22b18d89798b2ef",
+            "content": {
+                "en": "Build a wall"
+            }
+        },
+        {
+            "id": "w_1354b45fc2f47d95d205a8177976804031f2a6e3",
+            "content": {
+                "en": "Calling someone racist because they disagree with you"
+            }
+        },
+        {
+            "id": "w_b9e7d863e874441c7af619c5906219db9055c951",
+            "content": {
+                "en": "Comparing someone to a childmolester and later asking for their help"
+            }
+        },
+        {
+            "id": "w_5de81366a2bdf639200e753ccd1c4a6950dc4fe7",
+            "content": {
+                "en": "Completely madeup polls"
+            }
+        },
+        {
+            "id": "w_67a266c1adbc5347a2b554edb827fb7f9e799cbc",
+            "content": {
+                "en": "Donald Trump finally shutting up"
+            }
+        },
+        {
+            "id": "w_4d8531b66dd7757dc3efb53c9d2986ba5a6d8313",
+            "content": {
+                "en": "Donald Trump&apos;s tiny Raccoon hands"
+            }
+        },
+        {
+            "id": "w_23b6e5004117fce54d9cc0fb55e871a2a5e30211",
+            "content": {
+                "en": "Dr. Ben Carson&apos;s Rap Album"
+            }
+        },
+        {
+            "id": "w_53a0e24c40a0024524f2eb2937cc90ede9ae207d",
+            "content": {
+                "en": "Fighting ISIS"
+            }
+        },
+        {
+            "id": "w_749839632d2d1bf3efa71343403b19dc02f5ce24",
+            "content": {
+                "en": "Finally being able to use your assault rifle"
+            }
+        },
+        {
+            "id": "w_c6817746460c696b43a2e3506155733e699d4b11",
+            "content": {
+                "en": "Fiscal responsibility"
+            }
+        },
+        {
+            "id": "w_34fb928ec8d7d9ed57171771e124a5a5c2c2ce15",
+            "content": {
+                "en": "Fox News"
+            }
+        },
+        {
+            "id": "w_4331ea36e951a92dd18082212ba58fbcfe5a2193",
+            "content": {
+                "en": "Guns: the solution to every problem"
+            }
+        },
+        {
+            "id": "w_d3314a172c377295919b5b941dca1733c85c1b1f",
+            "content": {
+                "en": "Having influence in Ohio (as if that matters)"
+            }
+        },
+        {
+            "id": "w_08597778afc3fb3a6ef0ce1865facfeaff299b98",
+            "content": {
+                "en": "Having your birth certificate in your wallet to avoid all controversy"
+            }
+        },
+        {
+            "id": "w_325b13bd20502b00b880d98774b593c7b270fb67",
+            "content": {
+                "en": "Jeb Bush&apos;s sad face"
+            }
+        },
+        {
+            "id": "w_93332158a3119989d9f5685d12b9309ed1e27e12",
+            "content": {
+                "en": "John Cena 2016"
+            }
+        },
+        {
+            "id": "w_b244e00a934327a89cb32809bb9e2f4c30522c34",
+            "content": {
+                "en": "John Kasich, I guess"
+            }
+        },
+        {
+            "id": "w_67c8f4fa1b463e371c5faed4a0497a31ce329117",
+            "content": {
+                "en": "Loving the Mexican people"
+            }
+        },
+        {
+            "id": "w_3b80afceb324b23f8c6fbb87fa3c73a542ef6de5",
+            "content": {
+                "en": "Marco Rubio mocking Trump&apos;s penis"
+            }
+        },
+        {
+            "id": "w_334290efe9d1db5979be5e8ecf2ef136d282ffd3",
+            "content": {
+                "en": "Mispronouncing John Bohner&apos;s name"
+            }
+        },
+        {
+            "id": "w_3f8e188283a1850f2d1baa7e0087a63e8547cc41",
+            "content": {
+                "en": "Obama golfing 12 hours a day"
+            }
+        },
+        {
+            "id": "w_39bed5ea1506fc3a1ff283a8c0ffab8facc51445",
+            "content": {
+                "en": "Rand Paul"
+            }
+        },
+        {
+            "id": "w_12e14a1af958d2ddeeecba8ef0b8528fb8919aca",
+            "content": {
+                "en": "Reverse racism"
+            }
+        },
+        {
+            "id": "w_a9a57403a31496b50f01d41b869cd87649cc467d",
+            "content": {
+                "en": "Ronald Regan The White (\"I've come back at the turn of the tide...\")"
+            }
+        },
+        {
+            "id": "w_dad886896454713a23a81318ff6a9a93f9c570ad",
+            "content": {
+                "en": "Rupert Murdock as Emperor Palpatine"
+            }
+        },
+        {
+            "id": "w_dbf2eac72f4825842c355f87b455a2b360e5497b",
+            "content": {
+                "en": "Rush Limbaugh turning into an enormous green rage monster"
+            }
+        },
+        {
+            "id": "w_2285da55bdce63bd9643b20bb312207c232c86d7",
+            "content": {
+                "en": "Saying something extraordinarily racist to convey that someone else is being racist"
+            }
+        },
+        {
+            "id": "w_5c861f409bc32bb9e9e27c4020c4b7a841f1eeb5",
+            "content": {
+                "en": "Solving the abortion crisis by giving unborn children tiny guns"
+            }
+        },
+        {
+            "id": "w_430754ac83190dc277c7f1984c8a5108f03b8714",
+            "content": {
+                "en": "Some random white guy"
+            }
+        },
+        {
+            "id": "w_53bdd1d475ecd865fd5afe9a8d17711f3e51f920",
+            "content": {
+                "en": "Super delegates with actual super powers"
+            }
+        },
+        {
+            "id": "w_7a022d258a647eb21e58db16cca74cbbc4dfa0da",
+            "content": {
+                "en": "Teaching Kindergartener&apos;s selfdefense"
+            }
+        },
+        {
+            "id": "w_5feafeebf1184a90178c20de91ebf5e5000448ad",
+            "content": {
+                "en": "Ted Cruz being creepy"
+            }
+        },
+        {
+            "id": "w_04eca3e363d38523f3483c7db2d00758a55ea219",
+            "content": {
+                "en": "The Black Lives Matter movement"
+            }
+        },
+        {
+            "id": "w_79b4ad1f5c8c4f46954b9bdb74147b3081729b6c",
+            "content": {
+                "en": "The everchanging definition of racism"
+            }
+        },
+        {
+            "id": "w_6defbdf79b559bcb427407b157d040d22820ea9f",
+            "content": {
+                "en": "The red phone"
+            }
+        },
+        {
+            "id": "w_70d359246873597f1616af89e0fb69fd0d09fce5",
+            "content": {
+                "en": "Trickle Down Economics"
+            }
+        }
+    ]
+}

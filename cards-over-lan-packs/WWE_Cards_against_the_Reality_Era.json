@@ -1,0 +1,1075 @@
+{
+    "id": "WWE_Cards_against_the_Reality_Era",
+    "name": "WWE: Cards against the Reality Era",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_612ed71367300d141a61251da76a7d1c3326446f",
+            "content": {
+                "en": "$9.99"
+            }
+        },
+        {
+            "id": "w_782f8d1c28773b3d2ac55543e9d52a5b6c6e9f8c",
+            "content": {
+                "en": "A 90-day no compete clause."
+            }
+        },
+        {
+            "id": "w_1c1a53d28fc27c1003fe8e9362d2423f77a2a2b6",
+            "content": {
+                "en": "A B+ player"
+            }
+        },
+        {
+            "id": "w_2f175cfd63edaaea7184cf39b1b58d47aadb739a",
+            "content": {
+                "en": "A badly timed injury."
+            }
+        },
+        {
+            "id": "w_8f28834bad68daf2f5644e958674824608cd9e1c",
+            "content": {
+                "en": "A crusty Mr Socko."
+            }
+        },
+        {
+            "id": "w_5f5568fbce7fe14b4dc5ab6e45dafa64654509cb",
+            "content": {
+                "en": "A disappointing return by an Attitude Era superstar"
+            }
+        },
+        {
+            "id": "w_2f6e5ea13213956426576b9db4d150a9ffc68299",
+            "content": {
+                "en": "A flyin' Uso!"
+            }
+        },
+        {
+            "id": "w_63cc9b411a8cba2c9ce3c09c0e3db30a5fed131b",
+            "content": {
+                "en": "A guest appearance by Flo Rida"
+            }
+        },
+        {
+            "id": "w_b0904a6ff17734d90412f100e99d651bc42b3647",
+            "content": {
+                "en": "A heartfelt retirement speech that turns into using your finisher on John Cena."
+            }
+        },
+        {
+            "id": "w_fb569f06f7f7e203a538f0dcd2c7936b681a9c3b",
+            "content": {
+                "en": "A Judy Bagwell On A Pole Match."
+            }
+        },
+        {
+            "id": "w_6cab950df0ff62e08a717fd16e46c7c3e5b59a04",
+            "content": {
+                "en": "A misguided Fandango dance at a funeral."
+            }
+        },
+        {
+            "id": "w_0888edbde66f1ecee4e1ac158f18551242c6d0ba",
+            "content": {
+                "en": "A Paul Heyman Guy"
+            }
+        },
+        {
+            "id": "w_29264b13b2e2f3addbf82ec3a896957a1651d1cf",
+            "content": {
+                "en": "A pipe bomb"
+            }
+        },
+        {
+            "id": "w_2407df2ad8de2017fcf1b7d85d9e20193948e2ff",
+            "content": {
+                "en": "A psychopathic dentist."
+            }
+        },
+        {
+            "id": "w_c4651d19f9b422783c86298af9e4651ac988d293",
+            "content": {
+                "en": "A slobberknocker."
+            }
+        },
+        {
+            "id": "w_048ed68566612931f668f0f9c4b1c9455edb653e",
+            "content": {
+                "en": "A smaller, redder dick."
+            }
+        },
+        {
+            "id": "w_3f877a4b380fd729ec04cd7d848414187958ddd5",
+            "content": {
+                "en": "A tag team match, playa!"
+            }
+        },
+        {
+            "id": "w_bb2b65c393419af80d88a8935f5b7b4a076010ee",
+            "content": {
+                "en": "A Vince McMahon incest angle."
+            }
+        },
+        {
+            "id": "w_6c9b214aa15dfe9bc5a8cded65c09e855c660943",
+            "content": {
+                "en": "A WWE porno, produced by Val Venis."
+            }
+        },
+        {
+            "id": "w_37c36a7e623f84c9a6df03c4994c337f7dfba3af",
+            "content": {
+                "en": "AJ Lee."
+            }
+        },
+        {
+            "id": "w_917eb094f1e0f30bd95141838f993ff85774df2a",
+            "content": {
+                "en": "Alberto Del Rio&apos;s destiny"
+            }
+        },
+        {
+            "id": "w_164ad980d86d8aac42ca8adce504ed93b7c27fd8",
+            "content": {
+                "en": "An ass man."
+            }
+        },
+        {
+            "id": "w_116c7bedfbaab5beff38d2e60ae1f683b3fbe3a9",
+            "content": {
+                "en": "An evil clown."
+            }
+        },
+        {
+            "id": "w_5d37cfae4d1e112bf1347b8e0be92377ab36a760",
+            "content": {
+                "en": "An RKO outta nowhere."
+            }
+        },
+        {
+            "id": "w_b0a2a888a9ed4dc5d42065baa48bc84d3a886d59",
+            "content": {
+                "en": "Andre The Giant&apos;s Explosive Diarrhea"
+            }
+        },
+        {
+            "id": "w_bf14ff6fdc42e93e91a9168e35dd31a651be9ec4",
+            "content": {
+                "en": "Andre the Giant&apos;s ghost"
+            }
+        },
+        {
+            "id": "w_6851ff336d84b102a352a88b25f5c20759cb3ab6",
+            "content": {
+                "en": "Andre the Giant."
+            }
+        },
+        {
+            "id": "w_660475b811edecd945e2aa49b63354a0056b0920",
+            "content": {
+                "en": "Antonio Langston"
+            }
+        },
+        {
+            "id": "w_7ec7b22e9221580fad32ab768877270a218fca50",
+            "content": {
+                "en": "Austin 3:16."
+            }
+        },
+        {
+            "id": "w_859e596a454e3c692691b68a69ec1284ecf3fa42",
+            "content": {
+                "en": "BAD NEWS."
+            }
+        },
+        {
+            "id": "w_92654b51029e5836b5c7a2e0f594c21d513c9b47",
+            "content": {
+                "en": "Being humbled."
+            }
+        },
+        {
+            "id": "w_02c0daf28a8a3d4a3df2699c17a307efa69b93c5",
+            "content": {
+                "en": "Being more boring than Alberto Del Rio."
+            }
+        },
+        {
+            "id": "w_6201df1c63c9157c6a11b5a2c1d541ed99c3e8bf",
+            "content": {
+                "en": "Being powerbombed through a table."
+            }
+        },
+        {
+            "id": "w_44f6d41bd472de5d81547f2d7f060414246da145",
+            "content": {
+                "en": "Bo-lieving in the Shield"
+            }
+        },
+        {
+            "id": "w_464b325365de1d15d86d62c5ba268ddbcb550897",
+            "content": {
+                "en": "Bright lights, hyped crowd."
+            }
+        },
+        {
+            "id": "w_639a1bff98f76483bcb9dc32ec46e9c50b0cb638",
+            "content": {
+                "en": "Brodus Clay&apos;s mama"
+            }
+        },
+        {
+            "id": "w_f464aa02e68387126d05ceb59a4f07564caf4d14",
+            "content": {
+                "en": "Chris Benoit"
+            }
+        },
+        {
+            "id": "w_018728c8bc4da308ec07754ac2c513391d56677c",
+            "content": {
+                "en": "CM Punk chants"
+            }
+        },
+        {
+            "id": "w_4c2395d5fd8a9118d7a72a89597e565664a88bc2",
+            "content": {
+                "en": "Cookie-puss"
+            }
+        },
+        {
+            "id": "w_8d0a9d6b86e5366d4af2f4d51523ddb4684fee03",
+            "content": {
+                "en": "Daniel Bryan and John Cena comparing the Bellas in bed."
+            }
+        },
+        {
+            "id": "w_c6b805cef9241a124bb0423d7f81768784f7779c",
+            "content": {
+                "en": "Dr. Hung Lo."
+            }
+        },
+        {
+            "id": "w_96eed04bbd3eb2ed47e491ee727a3e82944c5c1b",
+            "content": {
+                "en": "Dr. Shelby"
+            }
+        },
+        {
+            "id": "w_2869c7d21e7957c16ea59294578ff12f64af81af",
+            "content": {
+                "en": "Dubya-See-Dubya."
+            }
+        },
+        {
+            "id": "w_c6d3baf2432eed30d6ae1b1813627c256486c432",
+            "content": {
+                "en": "Dying the day after delivering an eerily prophetic promo"
+            }
+        },
+        {
+            "id": "w_64d93d4192a2ba33ecd2c700bb8f503dd632843f",
+            "content": {
+                "en": "E-C-dub!"
+            }
+        },
+        {
+            "id": "w_da0e10dda034d7107b5784d2ac03ae04c847024f",
+            "content": {
+                "en": "ECW"
+            }
+        },
+        {
+            "id": "w_30a8df92f5ece92dc97ed030c5d983c46f9387e1",
+            "content": {
+                "en": "Edge&apos;s ruined spine"
+            }
+        },
+        {
+            "id": "w_15d790cea9545afbd8abfc0a62684da0430a3586",
+            "content": {
+                "en": "Fandango-ing"
+            }
+        },
+        {
+            "id": "w_be0e7e57e22eec6de626c8613cfb2859cb419432",
+            "content": {
+                "en": "Five-second poses, for those of you with the benefit of flash photography."
+            }
+        },
+        {
+            "id": "w_f225f61ca9cab02b6092c37c19afe4f636199ed8",
+            "content": {
+                "en": "Fruity pebbles"
+            }
+        },
+        {
+            "id": "w_afa84b57ef5437e727a3c8bdf0b4136c011886a2",
+            "content": {
+                "en": "Future endeavours."
+            }
+        },
+        {
+            "id": "w_c355fcaf007e715b907bcb839371ada62393655f",
+            "content": {
+                "en": "Giving birth to a hand."
+            }
+        },
+        {
+            "id": "w_a92bd5864518562f140671edcaef88c58d48eacb",
+            "content": {
+                "en": "Gore! Gore! Gore!"
+            }
+        },
+        {
+            "id": "w_b1cf7602c6be38ca1dc3bd2c002dbc735175a2ab",
+            "content": {
+                "en": "Having sex with Katie Vick."
+            }
+        },
+        {
+            "id": "w_314511a63d53963905b3ee0bdbc99c6ec46f16c7",
+            "content": {
+                "en": "Hooking up a coffin to a police car and dragging it around a cemetery."
+            }
+        },
+        {
+            "id": "w_6818d8405fe0966275e9a1c9ff836255522d8db5",
+            "content": {
+                "en": "Hulk Hogan&apos;s 6-inch python."
+            }
+        },
+        {
+            "id": "w_09edf888647a7f7f0de82435dc0854e4f4977fa9",
+            "content": {
+                "en": "Hulk Hogan."
+            }
+        },
+        {
+            "id": "w_7de32bb46890e98c8687f875dd4f09a93f8e21ae",
+            "content": {
+                "en": "IT BEGINS"
+            }
+        },
+        {
+            "id": "w_125942a10ce6b554fafda3ba50b3612d10f0c1cd",
+            "content": {
+                "en": "JAG THINDH"
+            }
+        },
+        {
+            "id": "w_c67856d7e10cf2da6fa15c425aae15135c018867",
+            "content": {
+                "en": "Jerry Lawler having a heart attack in the ring"
+            }
+        },
+        {
+            "id": "w_dfc73c7c00dd1d2b0886ffe6d8341fc8d247dcad",
+            "content": {
+                "en": "John Cena turning heel by attacking a Make-A-Wish child."
+            }
+        },
+        {
+            "id": "w_7be0b74db6c3fa7f59b44bd262fe4bf97a65a27c",
+            "content": {
+                "en": "John Cena."
+            }
+        },
+        {
+            "id": "w_685a041d7fafc90fff6d98d4baccaf2ef36ec176",
+            "content": {
+                "en": "JTG&apos;s inexplicable job security"
+            }
+        },
+        {
+            "id": "w_e47a13ee162e9ad8de8af39c3b6e19b18286e4bd",
+            "content": {
+                "en": "Juan Cena"
+            }
+        },
+        {
+            "id": "w_7d657cee75dc27679bbed7b0822b4993e9970df5",
+            "content": {
+                "en": "Kane&apos;s green DX attire."
+            }
+        },
+        {
+            "id": "w_f1dd747d83ea9ce90dd424e8859fa88484a471b4",
+            "content": {
+                "en": "Kharma&apos;s baby"
+            }
+        },
+        {
+            "id": "w_bd6614422984548365de2678b3ca16548aa6156a",
+            "content": {
+                "en": "Little Jimmy getting got."
+            }
+        },
+        {
+            "id": "w_611b140a7788e05a600da8f7c8234350e438d196",
+            "content": {
+                "en": "Lobster head."
+            }
+        },
+        {
+            "id": "w_d0d50244a5cfcbcc236dab9cfb9c4ad015c69a85",
+            "content": {
+                "en": "MAGGLE!"
+            }
+        },
+        {
+            "id": "w_eed94cdca87f0f7658d5fbbebbaeb529ec680298",
+            "content": {
+                "en": "Millions of dollars, millions of dollars!"
+            }
+        },
+        {
+            "id": "w_4740016ba68c9bed6e725226b138c8b2e0f4e365",
+            "content": {
+                "en": "Monday Night RAW."
+            }
+        },
+        {
+            "id": "w_97ecba2cbfcdff6a17daf8eebc760091ff5f58af",
+            "content": {
+                "en": "Mrs Foley&apos;s baby boy."
+            }
+        },
+        {
+            "id": "w_eb6748d80b8909eae06195a249982f90d843b125",
+            "content": {
+                "en": "Muting the commentary"
+            }
+        },
+        {
+            "id": "w_4995eaf55806c7d86129f50f9e74428ca16c71d2",
+            "content": {
+                "en": "MY CLIENT BROCK LESNAR CONQUERED THE STREAK!!!"
+            }
+        },
+        {
+            "id": "w_245c82b1d62fd20e6bc51b6ecf738e84f28ec3c0",
+            "content": {
+                "en": "Never being in the main event despite holding the WWE championship for over a year"
+            }
+        },
+        {
+            "id": "w_ed52853f88175db16483caba761766981e7740ca",
+            "content": {
+                "en": "NO! NO! NO!"
+            }
+        },
+        {
+            "id": "w_d3147d60711ee268a65921d125c0d834319da036",
+            "content": {
+                "en": "Paul Bearer&apos;s occult wife."
+            }
+        },
+        {
+            "id": "w_6cde0ecff9850777a8ae3cedfb53114e5d65f6db",
+            "content": {
+                "en": "Putting on a Kane mask and pretending to fuck a corpse."
+            }
+        },
+        {
+            "id": "w_da747a04016b02adac842ccd3b5902c131255f52",
+            "content": {
+                "en": "Randy Orton wearing pants"
+            }
+        },
+        {
+            "id": "w_848e9449a9a8b0a6bc06303fc5a8be0ce3a1eb8b",
+            "content": {
+                "en": "Randy Savage&apos;s slim jim."
+            }
+        },
+        {
+            "id": "w_a3823d91e44b46fab7cc8625b72d136a2132e85d",
+            "content": {
+                "en": "Rey Mysterio&apos;s knees"
+            }
+        },
+        {
+            "id": "w_a923a76ed1449e98751cac7860d5aa56f538d3c7",
+            "content": {
+                "en": "Sharing a shower with JBL."
+            }
+        },
+        {
+            "id": "w_574c27d94cfdc5d191e830e3e4faf76e31d45dc6",
+            "content": {
+                "en": "SIERRA, HOTEL, INDIA, ECHO, LIMA, DELTA. SHIELD."
+            }
+        },
+        {
+            "id": "w_3f090a33758acdedddc4e113fb85f70465fb804d",
+            "content": {
+                "en": "Sister Abigail"
+            }
+        },
+        {
+            "id": "w_52bd697ed228e43c92c69c862477149945a9bc2d",
+            "content": {
+                "en": "Some bad news."
+            }
+        },
+        {
+            "id": "w_26b59eba741c852121984ec8df982b3d9923d657",
+            "content": {
+                "en": "stack-o'-dimes neck"
+            }
+        },
+        {
+            "id": "w_53cb1f455d882f798601207af0839bff46ad3b46",
+            "content": {
+                "en": "Stardust"
+            }
+        },
+        {
+            "id": "w_120b69ea3df5fba510292d01bf447520521ba938",
+            "content": {
+                "en": "Stephanie&apos;s boobs."
+            }
+        },
+        {
+            "id": "w_8b52c6dbfd08702cb406e14132457cae1a00f7d8",
+            "content": {
+                "en": "Stone Cold Stunner."
+            }
+        },
+        {
+            "id": "w_b3ab71f7959d1d1ed6af778178641b511541f03f",
+            "content": {
+                "en": "Super Hero In Training."
+            }
+        },
+        {
+            "id": "w_f00c73e7d0d4318a3d54855c6516289389f2d42b",
+            "content": {
+                "en": "That brief, shining moment when the IWC&apos;s flavor of the month got over"
+            }
+        },
+        {
+            "id": "w_66e1f3acb75357bb9be83ac8a6ebeeb7494440d4",
+            "content": {
+                "en": "The executive vice president of talent relations"
+            }
+        },
+        {
+            "id": "w_77ad4e7d29f8d1990a75851ff176b9b48061b2f3",
+            "content": {
+                "en": "The fingerpoke of doom."
+            }
+        },
+        {
+            "id": "w_16ccdd1e1da67a09f1beb8853a575413bee1524c",
+            "content": {
+                "en": "The Godfather&apos;s STD train."
+            }
+        },
+        {
+            "id": "w_e0eccdaa684b8580d3426156a483deece7ffe661",
+            "content": {
+                "en": "The greatest match of all time: Melina vs. Alicia Fox"
+            }
+        },
+        {
+            "id": "w_a83afebfdb15d27aa5359ea07b67e0301364779c",
+            "content": {
+                "en": "The Mass Transit incident."
+            }
+        },
+        {
+            "id": "w_18625fee8a8e7e0e692998aa96bd3419e90fdf0c",
+            "content": {
+                "en": "The Miz girl"
+            }
+        },
+        {
+            "id": "w_025f943bac4f34c73de79c5e0d800eab70843a04",
+            "content": {
+                "en": "The New Nexus"
+            }
+        },
+        {
+            "id": "w_09ef1de496532ad1d98e31fda831a33916799a1a",
+            "content": {
+                "en": "The nWo."
+            }
+        },
+        {
+            "id": "w_f87368bf03f503899d1eb3cb6d3093b2e1dedcdd",
+            "content": {
+                "en": "The NXT Championship"
+            }
+        },
+        {
+            "id": "w_bba06f32ef80a257482e1eae25835d7af2818fa3",
+            "content": {
+                "en": "The one in 21-1"
+            }
+        },
+        {
+            "id": "w_121cf4e6d96bf27072228533dcd2b69e650a0b2d",
+            "content": {
+                "en": "The People&apos;s Strudel."
+            }
+        },
+        {
+            "id": "w_3cade4ba284cb70896b9aeffdd15f5510ab74b5e",
+            "content": {
+                "en": "The Rock."
+            }
+        },
+        {
+            "id": "w_4d7b4c34d3e150943a6a515ac762ae417e764be9",
+            "content": {
+                "en": "The Stinkface."
+            }
+        },
+        {
+            "id": "w_657b007c6f6fee3e260be2de389d3155715e0e72",
+            "content": {
+                "en": "The titty master himself"
+            }
+        },
+        {
+            "id": "w_375267a2b49a55ba4a076865986b44042ca1d006",
+            "content": {
+                "en": "The Undertaker."
+            }
+        },
+        {
+            "id": "w_0ceb4286ad06cb554691448ee6e562b469226976",
+            "content": {
+                "en": "The WWE Network"
+            }
+        },
+        {
+            "id": "w_37b8cb94602a530be3a5ffc955586932af78d036",
+            "content": {
+                "en": "The WWE."
+            }
+        },
+        {
+            "id": "w_da3b17c651696b5acb966c383d390e2d20505857",
+            "content": {
+                "en": "The WWF."
+            }
+        },
+        {
+            "id": "w_a494e447870f6004a1ccd6f3d6c6aea08129909c",
+            "content": {
+                "en": "Too many limes"
+            }
+        },
+        {
+            "id": "w_6b0b09b8a698b71592ca3b343dbb307dc3a83a6e",
+            "content": {
+                "en": "Tout"
+            }
+        },
+        {
+            "id": "w_54c02dc4aa9643046031ba92d1b5c10b1cbf3326",
+            "content": {
+                "en": "Triple H."
+            }
+        },
+        {
+            "id": "w_01621e2453e1f0990a55c4fc3c0e2500909325b9",
+            "content": {
+                "en": "Used-ta, the rooster from Brewster."
+            }
+        },
+        {
+            "id": "w_e135fc16dfdc66af773356424f3bf40eed28ee4b",
+            "content": {
+                "en": "Walking out on the company"
+            }
+        },
+        {
+            "id": "w_5045ff2558c4c4bcaeaad0c198d82fa6bcd19bdf",
+            "content": {
+                "en": "What The Rock was really cooking."
+            }
+        },
+        {
+            "id": "w_cf600029b9e9c10db86df572d1e9c239e9b46583",
+            "content": {
+                "en": "What the Rock was really cooking. Also works as a black card, what was he really cooking?"
+            }
+        },
+        {
+            "id": "w_70b80c8a2d4f768ca3b78acfcb0bd5602b8e9aa6",
+            "content": {
+                "en": "YES! YES! YES!"
+            }
+        },
+        {
+            "id": "b_0fed72ad176ec6b4b7ff57cb4e264aff41f4d06f",
+            "content": {
+                "en": "\"I hate this idea that you're the best. Because you're not. ______ is the best in the world.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01cf20be1d2a7aeb3ca2063d5c8bd3b7ab27c1ae",
+            "content": {
+                "en": "\"I&apos;m The Miz, and I&apos;m ______!\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1e5c7f63e38ac5b639deda2c3b8678d4a8f45240",
+            "content": {
+                "en": "\"Welcome to '______ is Jericho'!\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b508c029c528469c1c76597eba31fb209c5f780",
+            "content": {
+                "en": "#______ is now trending worldwide on Twitter, King!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75f3aef3df9ed5f290e26f83aef29a7db63794b3",
+            "content": {
+                "en": ", Because I&apos;m The Miz, and I&apos;m ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_00112014675750a4e4aa5dcf116138c15a203330",
+            "content": {
+                "en": "And if you're not down with that, we've got two words for ya! ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1dfc4dcbf96dee231d86826874ea15c7501f78a2",
+            "content": {
+                "en": "Chris Jericho&apos;s newest catchphrase is \"______\"."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee8f0d4f08d90647248877e37d0c3a766b76245d",
+            "content": {
+                "en": "From ______, weighing 220 lbs, ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_15a62e9cd895be57dddd3dbb1a3e2228155b1cef",
+            "content": {
+                "en": "I didn't screw Bret, ______ screwed Bret!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b294617c03fbd4b5402c657400325448db692ce",
+            "content": {
+                "en": "If ______ is the Shawn Michaels, then ______ is the Marty Jannetty."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_69e7e3608c2bbdfc8b6b9cd3294c0f72acb9ed38",
+            "content": {
+                "en": "In the event Hulkamania should run wild on you, what are you planning to do?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_263cc8d254bbf61f26c1327529b9ad9292f6d333",
+            "content": {
+                "en": "It was ______, Austin! It was ______ all along! (A play 2 or not)"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1de32cb96459d0c8a9a92036c8da751f305333b5",
+            "content": {
+                "en": "John Cena, while you're lying there, hopefully ______, I want you to listen to me..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6a707aa57fdaf9e5bdc889e27484b4e0f061f19",
+            "content": {
+                "en": "Look in my eyes, what do you see?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7a5795f8fae4e374e3536e4c04c35ef7571c25e8",
+            "content": {
+                "en": "LOOK OUT MAGGLE, IT'S A FLYING ______! I LOVE IT!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_148f9794ea653860a2bdf207280caae047c8b24d",
+            "content": {
+                "en": "May I have your attention, please. I have just received ______ from the Anonymous Raw General Manager"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d4517cf6772b49147c2d56f3a8989a17a4f40e56",
+            "content": {
+                "en": "Mike, you ______, what is ______ doing in the Impact Zone?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_c9401179b21a40b30a1e75bc7ad2318ee1d56efa",
+            "content": {
+                "en": "MY CLIENT, ______, CONQUERED THE UNDERTAKER'S STREAK AT WRESTLEMANIA!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_85475a6f05fb5d6bb5dec129ee78eba287b104d9",
+            "content": {
+                "en": "My client, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_67451dc896ac2c65b730a4402944e1a58d0c51a8",
+            "content": {
+                "en": "My name is ______, but 'chu already knew that!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_17b57be3fcc34a0a970a3c785ba3e7df9f0852af",
+            "content": {
+                "en": "On the next Total Divas, Brie gets in a fight with ______ about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_992e0c35ac90396f28721db8eb05d152795af92c",
+            "content": {
+                "en": "Quote the Raven, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f728909f6271f62cec72301e30c0f6aeac166d1",
+            "content": {
+                "en": "Randy Orton will go to ______ if he has to."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_92a7d4840e29965762f3cdc8d8358f0ff834f012",
+            "content": {
+                "en": "Someone in NXT has debuted with a ______ gimmick."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3755450cc618d67f7aa86aaa988efcd816bcc688",
+            "content": {
+                "en": "The best there is, the best there was, the best there ever will be, but at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0276dc956e0d684dca019e3c9e3ffa9d01ad93e2",
+            "content": {
+                "en": "The newest indie star: Mike \"______\" Michaels."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d6c4e625f46d75c9c60609e41c7e77936c37947c",
+            "content": {
+                "en": "The second most prestigious titles in the indies is the ______ Championship."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2451974387f7a51773f0114672be3ef8e348b1b9",
+            "content": {
+                "en": "This is vintage ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_82cb2474c2435a7a9daadf8810e2d97a70eb024c",
+            "content": {
+                "en": "VINTAGE ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a3024f99a1053bbd20fb78424c5c0770b350612f",
+            "content": {
+                "en": "Wasteland, Bullhammer, ______ - why can't Barrett settle on a finisher?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84c038583f3c5855cecd09b2a73fcf6660f82aa5",
+            "content": {
+                "en": "WCW jumped the shark when they booked ______ live on Nitro."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_27876f12c9464b797e36d53e857475ab8e90ebf0",
+            "content": {
+                "en": "WCW jumped the shark when Vince Russo booked a ______-on-a-pole match."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d3203edd5a01d6d19cfb823cfb113cd24f8ab8b2",
+            "content": {
+                "en": "We ______ on Friday Nights!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ebbfdfe45aeb404da62a5f6244a4e119cf7cd441",
+            "content": {
+                "en": "What has Vince McMahon only just discovered?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cff8f6272188fd997a4069c9e0e87b600a772d08",
+            "content": {
+                "en": "What is Damian Sandow&apos;s latest gimmick?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d8b0989e2169131aa3252ba5b096a89ab4775595",
+            "content": {
+                "en": "What is Dolph Ziggler here to show the world?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ae0c22d533051b573b3280063a9c847536b83a21",
+            "content": {
+                "en": "What is The Rock cooking?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0f12f3b26404e8e84c2311e114902cddd3e13a06",
+            "content": {
+                "en": "What is TNA now doing in the hope of gaining viewers?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d363728af08349332838be011de0d18b5da60a1c",
+            "content": {
+                "en": "What is Wade Barrett&apos;s bad news for Vince McMahon?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3cfabc63324d8f50b7cd1f4fb33ed2677b0a62dc",
+            "content": {
+                "en": "Who is the tag team champion?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cee3c89f53c368f5dd1005bf9a0d8fc6a99dfe30",
+            "content": {
+                "en": "Why did Shawn Michaels lose his smile?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_db31cb7362e84a15e52aa1b6a29cac2423ecb6b3",
+            "content": {
+                "en": "______ = RATINGS"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_82be9e1c0aed3a4908167239dbd18ea3086c0151",
+            "content": {
+                "en": "______ ain't enough, man, I need five!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_556a0782a15f4adadb1f11db08f4a4f970eba2ea",
+            "content": {
+                "en": "______ from Del Rio as ______ rolls on!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ff2282830929d1213e1ac3e963b8d3785a4fce6a",
+            "content": {
+                "en": "______ has Nuclear Heat with management and is in the doghouse."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8c897f6e90fbc1ff0edc3e2bc5213e368adb6f36",
+            "content": {
+                "en": "______ is a Paul Heyman Guy."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa3df887ddf2f5672d2a3ab3862ac4c222dc228d",
+            "content": {
+                "en": "______ is the face of the WWE"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b8eacdfcf495bdee7894d611f7537da661e5950",
+            "content": {
+                "en": "______ outta nowhere!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_43b718a9b1d2defaa408f3cd92441b0cf2c82840",
+            "content": {
+                "en": "______. Only 9.99!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_595d6a4cd98b41205805fe0c0aefdffae4f11f23",
+            "content": {
+                "en": "______. Then. Now. Forever."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8e018e0ca100db886d406394c122ef001802928f",
+            "content": {
+                "en": "______.... We're here!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ddf6e53556891dfbd68d6cc65c1a55f39236c9dc",
+            "content": {
+                "en": "______winslol"
+            },
+            "pick": 1
+        }
+    ]
+}

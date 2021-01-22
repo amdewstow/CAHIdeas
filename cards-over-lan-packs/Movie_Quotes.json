@@ -1,0 +1,1393 @@
+{
+    "id": "Movie_Quotes",
+    "name": "Movie Quotes",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_3d3183b9598cda36d0a6cfb63b87f1b313755b5a",
+            "content": {
+                "en": "Al Pacino"
+            }
+        },
+        {
+            "id": "w_75248158680d3917176c1cc4ec8f5cd2d5a726ea",
+            "content": {
+                "en": "Alan Arkin"
+            }
+        },
+        {
+            "id": "w_5694c65df1bacd86a1186e658cceaaef9b73be4b",
+            "content": {
+                "en": "Alec Guinness"
+            }
+        },
+        {
+            "id": "w_90b1b20be016e2f53e49230d5ae8a8d82c4158dd",
+            "content": {
+                "en": "Alllllllrighty then."
+            }
+        },
+        {
+            "id": "w_7a9c9e37dc15bad43b1a092b88a3f019dc250412",
+            "content": {
+                "en": "Alright, alright, alright."
+            }
+        },
+        {
+            "id": "w_81eb3a774bf5110d8ccb96de5bef2dfaefa6154e",
+            "content": {
+                "en": "AM I BEING DETAINED?!"
+            }
+        },
+        {
+            "id": "w_0dfe7bbfa810cc7837679ab04fe4696fe67afca3",
+            "content": {
+                "en": "Anthony Hopkins"
+            }
+        },
+        {
+            "id": "w_6360b95d5d6f4e4ec54900820282d582fbb637c2",
+            "content": {
+                "en": "Ben Kingsley"
+            }
+        },
+        {
+            "id": "w_2115f744843be92570164e3073b8c443a56db3c2",
+            "content": {
+                "en": "Benicio Del Toro"
+            }
+        },
+        {
+            "id": "w_9f8cafcdadf7232f1e7de8b2264f19b2f1181b3e",
+            "content": {
+                "en": "Bill Murray"
+            }
+        },
+        {
+            "id": "w_5bf0bda79bd689bc579a2b07b97504f3e9971510",
+            "content": {
+                "en": "Boo, you whore."
+            }
+        },
+        {
+            "id": "w_f8c4bb244ecc4bcb55620ac7e104460bfbfb2ead",
+            "content": {
+                "en": "Brad Pitt"
+            }
+        },
+        {
+            "id": "w_b244b0cb3579f011ca5bd75b11bbdd2ff3922e16",
+            "content": {
+                "en": "Burt Lancaster"
+            }
+        },
+        {
+            "id": "w_cc21fd7687d47b77ffb6ac78b15be58b2f4b944d",
+            "content": {
+                "en": "Buster Keaton"
+            }
+        },
+        {
+            "id": "w_968b17840d8f0fdf3a9205c93fcb784aad980996",
+            "content": {
+                "en": "Cary Grant"
+            }
+        },
+        {
+            "id": "w_8e90f7892415d34e8307239aecb523a6ec361cee",
+            "content": {
+                "en": "Charles Chaplin"
+            }
+        },
+        {
+            "id": "w_6c7916655576c9a0d831ed059335e582f6623bf1",
+            "content": {
+                "en": "Charlton Heston"
+            }
+        },
+        {
+            "id": "w_d557a9c75639ec85fb25e4b897ccd3ec6c08de9d",
+            "content": {
+                "en": "Chill Winston"
+            }
+        },
+        {
+            "id": "w_f9d44528f768847c29d794e9b83f8f3801a2eda3",
+            "content": {
+                "en": "Christoph Waltz"
+            }
+        },
+        {
+            "id": "w_5a66572d01ce685c79bc9f94ce16988c077702ae",
+            "content": {
+                "en": "Christopher Plummer"
+            }
+        },
+        {
+            "id": "w_c21c8b6ddbdc14bd16a1b8cc50d8b36b6aea0bb1",
+            "content": {
+                "en": "Clark Gable"
+            }
+        },
+        {
+            "id": "w_c25ec2e0507e3a63ed499de257e6dd833820cb6e",
+            "content": {
+                "en": "Clever girl"
+            }
+        },
+        {
+            "id": "w_67bce501a6fd186448902a8b7fbc01a730452b93",
+            "content": {
+                "en": "Clint Eastwood"
+            }
+        },
+        {
+            "id": "w_9fa8e08639e1606888c9be4709936b73744f2434",
+            "content": {
+                "en": "Colin Firth"
+            }
+        },
+        {
+            "id": "w_8c2bfad8af7342bad597d7d63e6456a162c04384",
+            "content": {
+                "en": "Daniel Day-Lewis"
+            }
+        },
+        {
+            "id": "w_3dfcd6d3f3a8ab480e41906b398ffaf61c340edb",
+            "content": {
+                "en": "Denzel Washington"
+            }
+        },
+        {
+            "id": "w_0d610255afbbda742d1653250ac644d4bcc49e6e",
+            "content": {
+                "en": "Did we just become best friends?"
+            }
+        },
+        {
+            "id": "w_4ddcf1e46f86ae4fbe977fd4da4ab6d7e37ce80a",
+            "content": {
+                "en": "Don Cheadle"
+            }
+        },
+        {
+            "id": "w_905ede6a9720820fbadc1f228285cd0ecf975676",
+            "content": {
+                "en": "Dustin Hoffman"
+            }
+        },
+        {
+            "id": "w_e1fbfb512f5da37b51b3735475f5f3f42f697727",
+            "content": {
+                "en": "Ed Harris"
+            }
+        },
+        {
+            "id": "w_d3cffc28a8def6436db573e62e8279f366aa824d",
+            "content": {
+                "en": "Edward Norton"
+            }
+        },
+        {
+            "id": "w_201ec250f0ccb282a494d08fcc529b381223e35f",
+            "content": {
+                "en": "English motherfucker, do you speak it?!"
+            }
+        },
+        {
+            "id": "w_3a27ad95462f2e8dd0857302d91f852a1233c7c6",
+            "content": {
+                "en": "F. Murray Abraham"
+            }
+        },
+        {
+            "id": "w_07d5a29e7544db634a15b8a9d40d9e3bcfd7d39b",
+            "content": {
+                "en": "Forest Whitaker"
+            }
+        },
+        {
+            "id": "w_6e54d6a0fc0333752d56f178895b0ad841c7221a",
+            "content": {
+                "en": "Game over man! Game over!"
+            }
+        },
+        {
+            "id": "w_b45b81a14bb4b71ff9ab2b08ce4731440f33b0ea",
+            "content": {
+                "en": "Gary Cooper"
+            }
+        },
+        {
+            "id": "w_c9097b29e26cc67334b9a4d041e75e244c50fed0",
+            "content": {
+                "en": "Gary Oldman"
+            }
+        },
+        {
+            "id": "w_9b367bd974ee0ed3060689130f038f0d2811c931",
+            "content": {
+                "en": "Gene Hackman"
+            }
+        },
+        {
+            "id": "w_5e664467324f4cde6193675b4f343cbbe9215bf7",
+            "content": {
+                "en": "Gene Kelly"
+            }
+        },
+        {
+            "id": "w_c220660e8e32e100157642e0a16802aa830c720d",
+            "content": {
+                "en": "Geoffrey Rush"
+            }
+        },
+        {
+            "id": "w_fa23ed63007468124b7f1ddd908606f4b78372fc",
+            "content": {
+                "en": "George C. Scott"
+            }
+        },
+        {
+            "id": "w_e7fab221e2327f25c8c125b7627c9e3865661f3b",
+            "content": {
+                "en": "Go back to your home on Whore Island!"
+            }
+        },
+        {
+            "id": "w_eb0f2057b44622a3b6f25a0b1b7c2bdf599c1250",
+            "content": {
+                "en": "Gregory Peck"
+            }
+        },
+        {
+            "id": "w_ed1e3d41ded0f456711706df0b2f579032cc9da8",
+            "content": {
+                "en": "Harrison Ford"
+            }
+        },
+        {
+            "id": "w_dcea67676b6ac96a74756c79782360aa3b1bbe0f",
+            "content": {
+                "en": "Henry Fonda"
+            }
+        },
+        {
+            "id": "w_be0b935800f0a4f993c4966a918e8b23a2ed59d2",
+            "content": {
+                "en": "Here&apos;s Johnny!"
+            }
+        },
+        {
+            "id": "w_1356aeb048ed2f891b2ee8b12d4942f0bcceb226",
+            "content": {
+                "en": "Hold on to your butts"
+            }
+        },
+        {
+            "id": "w_62a1d563a259f7f0a312b3047f141c5fc05cc69d",
+            "content": {
+                "en": "Humphrey Bogart"
+            }
+        },
+        {
+            "id": "w_66d0821f1c7a2686b0a036c83e5d68bdde915ebe",
+            "content": {
+                "en": "I DON'T REMEMBER ASKING YOU A GOD DAMN THING!"
+            }
+        },
+        {
+            "id": "w_60c14e21a34dde1b22db9718b5aa0853986a1bc0",
+            "content": {
+                "en": "I wasn't even supposed to be here today"
+            }
+        },
+        {
+            "id": "w_11dc3ceeece4ec604ad6687fb4a413c3a7a39300",
+            "content": {
+                "en": "Ian McKellen"
+            }
+        },
+        {
+            "id": "w_12834aae5e00c7986e63bb257b80f90fe0d0c7b5",
+            "content": {
+                "en": "Jack Lemmon"
+            }
+        },
+        {
+            "id": "w_f3ddd22841087544f9b08c6fd529bc3b2c7c339e",
+            "content": {
+                "en": "Jack Nicholson"
+            }
+        },
+        {
+            "id": "w_a8f4c8b85dd04cfb58a4f1bf82aef075d51eb370",
+            "content": {
+                "en": "James Cagney"
+            }
+        },
+        {
+            "id": "w_1c6c5be844b06cbe1eb649e1bf26668cce47599d",
+            "content": {
+                "en": "James Dean"
+            }
+        },
+        {
+            "id": "w_dba372d550796182b50fa6f6774975265bc563e9",
+            "content": {
+                "en": "James Stewart"
+            }
+        },
+        {
+            "id": "w_d752faa9d6ca5f6ce50d45b8031364624a168b75",
+            "content": {
+                "en": "Jamie Foxx"
+            }
+        },
+        {
+            "id": "w_7aaedec09a95a1bddf1e997ee33602c283c40bda",
+            "content": {
+                "en": "Jason Robards"
+            }
+        },
+        {
+            "id": "w_a8841fe0df5a258a02349609b0dd4d98b2544007",
+            "content": {
+                "en": "Javier Bardem"
+            }
+        },
+        {
+            "id": "w_b7326216bb107cd1dd35f6bcb644c0d9baf3ab63",
+            "content": {
+                "en": "Jeff Bridges"
+            }
+        },
+        {
+            "id": "w_7b7173af7ae68a12aef6921d6d5c3f20d70eef07",
+            "content": {
+                "en": "Jeremy Irons"
+            }
+        },
+        {
+            "id": "w_abbd8e2058fb7eee657c7321625561c41c4f911b",
+            "content": {
+                "en": "Joaquin Phoenix"
+            }
+        },
+        {
+            "id": "w_09ebc786c0bfc9513e636d0c4b45b23a6257fc95",
+            "content": {
+                "en": "Joe Pesci"
+            }
+        },
+        {
+            "id": "w_f8fac508c7b247ab2677d26e52ea40f28a602fbc",
+            "content": {
+                "en": "John Hurt"
+            }
+        },
+        {
+            "id": "w_19e04d0d7096d15b8b35bc1005e61a876c3e193d",
+            "content": {
+                "en": "John Huston"
+            }
+        },
+        {
+            "id": "w_a58549b9ebad26fbc5f286f1526bbe6384e26756",
+            "content": {
+                "en": "John Malkovich"
+            }
+        },
+        {
+            "id": "w_f4400c477494cd91cb8efa3c03206cdaa27bbc7e",
+            "content": {
+                "en": "Johnny Depp"
+            }
+        },
+        {
+            "id": "w_2124898a8b237b26f096e1ad8ed177d8422e39e3",
+            "content": {
+                "en": "Jon Voight"
+            }
+        },
+        {
+            "id": "w_958707fb5022de9593a8b1aaed858f4eb83625b2",
+            "content": {
+                "en": "Kevin Kline"
+            }
+        },
+        {
+            "id": "w_bb4ca112bfeeb21adf4e58a39e3abd9b578f3efe",
+            "content": {
+                "en": "Kevin Spacey"
+            }
+        },
+        {
+            "id": "w_a04d4f6dd8845bc456f44e7a9f2d2dc70156dfd0",
+            "content": {
+                "en": "Kevin, you are such a disease"
+            }
+        },
+        {
+            "id": "w_9e56ff25072a2bf5be701951efb3d44316291bee",
+            "content": {
+                "en": "Kirk Douglas"
+            }
+        },
+        {
+            "id": "w_4849fa229de97cddeaf57b4f88f6a70bfe0dbec1",
+            "content": {
+                "en": "La-dee-da, la-dee-da."
+            }
+        },
+        {
+            "id": "w_bcf78c3d900ead739c575dad257e5e62448f94bd",
+            "content": {
+                "en": "Laurence Olivier"
+            }
+        },
+        {
+            "id": "w_220d326f6f0dbb9612a689f5d901adbd4162b476",
+            "content": {
+                "en": "Leonardo DiCaprio"
+            }
+        },
+        {
+            "id": "w_0ad6f98eb6a01292ddaaf21e228824bb67cac0b9",
+            "content": {
+                "en": "Liam Neeson"
+            }
+        },
+        {
+            "id": "w_3a9f8f424220b30eebead2cf6cd61bb666abc6e1",
+            "content": {
+                "en": "Look at me. Look at me. I&apos;m the Captain now."
+            }
+        },
+        {
+            "id": "w_305335d0707651096d26bd731e422e10454a6f9e",
+            "content": {
+                "en": "Marlon Brando"
+            }
+        },
+        {
+            "id": "w_851c47cc7490f35cd1b6aeb3136a269d63c2d4e1",
+            "content": {
+                "en": "Martin Sheen"
+            }
+        },
+        {
+            "id": "w_4a868204967fcafcdb5e8406616f700b5be8bbdf",
+            "content": {
+                "en": "Matt Damon"
+            }
+        },
+        {
+            "id": "w_016b913d7d274d90b2ba711d3f8204b1965f396e",
+            "content": {
+                "en": "Merry Christmas ya filthy animal"
+            }
+        },
+        {
+            "id": "w_8231ddc703c23cbd0824bbc5a8470e5c2533903f",
+            "content": {
+                "en": "Michael Caine"
+            }
+        },
+        {
+            "id": "w_0ab1dd88d8deb978df982dd76fdd8349b9104ded",
+            "content": {
+                "en": "Michael Douglas"
+            }
+        },
+        {
+            "id": "w_7ea489e372987758806c97d00330d2c2d1899545",
+            "content": {
+                "en": "Negative Ghost Rider, the pattern is full"
+            }
+        },
+        {
+            "id": "w_0fb9f373de010e80cef3bf87020f8d694e5e7f61",
+            "content": {
+                "en": "Nobody makes me bleed my own blood...nobody!"
+            }
+        },
+        {
+            "id": "w_8b119499828ed0927328b296ae5958eeea1b8606",
+            "content": {
+                "en": "Nobody tells me nuffin'."
+            }
+        },
+        {
+            "id": "w_ea4bf26b49a54db4d1299539d8abca07a112bf16",
+            "content": {
+                "en": "Orson Welles"
+            }
+        },
+        {
+            "id": "w_83239eac29b33c605c0258b632c196baa8da5b77",
+            "content": {
+                "en": "Paul Newman"
+            }
+        },
+        {
+            "id": "w_88b477b3cec84d49168c739dbeab7ae3d11f2a58",
+            "content": {
+                "en": "Peter Finch"
+            }
+        },
+        {
+            "id": "w_d20ab55927d5435a21e114197c810fe48608811a",
+            "content": {
+                "en": "Peter O'Toole"
+            }
+        },
+        {
+            "id": "w_28a11cfcbae3329c0a75e81604d12b1e24482044",
+            "content": {
+                "en": "Peter Sellers"
+            }
+        },
+        {
+            "id": "w_5cb3e05f9dc669bc82e924fb317a11553f9716eb",
+            "content": {
+                "en": "Philip Seymour Hoffman"
+            }
+        },
+        {
+            "id": "w_8fdbf23bf45d45666098cd2316502907c158e11f",
+            "content": {
+                "en": "Plastics."
+            }
+        },
+        {
+            "id": "w_21487aaa551fa60ae9bcbfb42a04ccabbbc878bd",
+            "content": {
+                "en": "Ralph Fiennes"
+            }
+        },
+        {
+            "id": "w_8ac7ba623d2f1e57bbac6a8d1861ae56b0bbe730",
+            "content": {
+                "en": "Richard Burton"
+            }
+        },
+        {
+            "id": "w_bcf7ad2eeb75600f27e38af6ff95ddc25e8bfacd",
+            "content": {
+                "en": "Robert De Niro"
+            }
+        },
+        {
+            "id": "w_ec8f5ebf1aee47b4ea27393506fc0eff3b53bab1",
+            "content": {
+                "en": "Robert Duvall"
+            }
+        },
+        {
+            "id": "w_8eb6faec7f00dacf921f314f14f4231f27e8c712",
+            "content": {
+                "en": "Robert Mitchum"
+            }
+        },
+        {
+            "id": "w_713c8c5adc87881c7e2eb2ef6ac039ae3dd619fb",
+            "content": {
+                "en": "Robert Redford"
+            }
+        },
+        {
+            "id": "w_bafe0b9ceec2152e933386b7607e429e8d9067cf",
+            "content": {
+                "en": "Robin Williams"
+            }
+        },
+        {
+            "id": "w_f0ca6e69c939a854619fc01d14407e1880e33ca0",
+            "content": {
+                "en": "Rosebud."
+            }
+        },
+        {
+            "id": "w_f4f948a8b1b38f10cc8bc24a845fe5b766a97b57",
+            "content": {
+                "en": "Russell Crowe"
+            }
+        },
+        {
+            "id": "w_c0a7d848e4398fdc9cf1db94606f7cbc1b300099",
+            "content": {
+                "en": "Sidney Poitier"
+            }
+        },
+        {
+            "id": "w_6a92fe8e1c8d6a99b9736f752a357bd1baba2088",
+            "content": {
+                "en": "Sixty percent of the time it works every time"
+            }
+        },
+        {
+            "id": "w_cc00423d41876555d70ebc14658a72c704499fe9",
+            "content": {
+                "en": "So you're saying there&apos;s a chance"
+            }
+        },
+        {
+            "id": "w_e55c1a834ce4361365f9ac12d122c20b8e7ac71f",
+            "content": {
+                "en": "Spencer Tracy"
+            }
+        },
+        {
+            "id": "w_f60e5ecdb54635d424017cd94228d418645135f0",
+            "content": {
+                "en": "Steve McQueen"
+            }
+        },
+        {
+            "id": "w_a2fbc8bb6288b7f6f642cace6e53744067d50593",
+            "content": {
+                "en": "That&apos;s a bingo..."
+            }
+        },
+        {
+            "id": "w_5124d78a8c33305af5cc47163e0531588b3168d4",
+            "content": {
+                "en": "The difference between you and me, is that I make this look good"
+            }
+        },
+        {
+            "id": "w_ebe12958a4d274f43dddcc24912a1485289831bf",
+            "content": {
+                "en": "The Greater Good"
+            }
+        },
+        {
+            "id": "w_9ad0e26ce52c9d3b75be02f4f95a110667d5061a",
+            "content": {
+                "en": "They're here!"
+            }
+        },
+        {
+            "id": "w_f801309f745b6474926936c61eae27fba7d88ca7",
+            "content": {
+                "en": "This isn't where I parked my car."
+            }
+        },
+        {
+            "id": "w_6b013cb11bfd82df06db511c56c7556b7e4f90d5",
+            "content": {
+                "en": "Tim Robbins"
+            }
+        },
+        {
+            "id": "w_e3e85b12ec06fb8fc72a7506e0f569547f988316",
+            "content": {
+                "en": "Tom Hanks"
+            }
+        },
+        {
+            "id": "w_23fcb038c61a560f7b9b84032176a6910cb5ee88",
+            "content": {
+                "en": "Tommy Lee Jones"
+            }
+        },
+        {
+            "id": "w_fbbd6bd9259198f2bacfcd9eca5ebd9eb61dc030",
+            "content": {
+                "en": "What a dump."
+            }
+        },
+        {
+            "id": "w_563a0d60a222c145c26a29e123044caec0d71b07",
+            "content": {
+                "en": "What&apos;s your damage, Heather?"
+            }
+        },
+        {
+            "id": "w_eca8c3a19161cb0850ba17abc91c85e178336a41",
+            "content": {
+                "en": "William Holden"
+            }
+        },
+        {
+            "id": "w_e369dd1d165f87b6311efe52447565b84dfa9464",
+            "content": {
+                "en": "Woody Allen"
+            }
+        },
+        {
+            "id": "w_ecd6e5296611b11b676f4e98bc517e793cc8443f",
+            "content": {
+                "en": "You shut your whore mouth"
+            }
+        },
+        {
+            "id": "w_158516be74c4dce4c336453eeb6a6d3503c74a45",
+            "content": {
+                "en": "YOU'RE AN INANIMATE FUCKING OBJECT"
+            }
+        },
+        {
+            "id": "b_ccad9b57f44466666a9f6c8e20c9b2d0fd3915fd",
+            "content": {
+                "en": "A boy&apos;s best friend is his ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_628b2e0c818ae29024fc331978f3bc4db9751e3e",
+            "content": {
+                "en": "A census taker once tried to test me. I ate his liver with some fava beans and a nice ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4e68720f3188961632f379524304242ae070adc7",
+            "content": {
+                "en": "A martini. ______, not stirred."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b3b572a0961c2bbc78e0b82cc25ebc97260e655c",
+            "content": {
+                "en": "After all, tomorrow is another ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7be31a48981c8bce4239119551f4fc2de3293998",
+            "content": {
+                "en": "All right, Mr. DeMille, I&apos;m ready for my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a0bdd997595cc900d9da271f65bf3014a6ec8dc2",
+            "content": {
+                "en": "As God is my witness, I'll never be ______ again."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4243e2124522751d79a088eca508e4f8f913dc44",
+            "content": {
+                "en": "Attica! Attica! ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_125a249d49dc51083e6fe2510d5e0a25bb79ded4",
+            "content": {
+                "en": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_83de7ae9b6f7bd5973ad5b92a996edd77fa0efb9",
+            "content": {
+                "en": "Bond. James ______ Bond."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0df6e568912d3341af7954a414409c3dc287afcb",
+            "content": {
+                "en": "Carpe diem. Seize the day, boys. Make your lives ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01cac7a2dcd1202d47d6eccd1370cea0b5262373",
+            "content": {
+                "en": "E.T. phone ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eb04c31c755b55dcedee2d95a25f89082d927eb6",
+            "content": {
+                "en": "Fasten your seatbelts. It&apos;s going to be a bumpy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_79eff3fa2769fc0484f0f49f73d871ed95cf7d08",
+            "content": {
+                "en": "Forget it, Jake, it&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ba9087368edbedcfd1135915bb9d453fbed3f26",
+            "content": {
+                "en": "Frankly, my dear, I don't give a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18c58c6cc1b41c0604512750938c9378e605ca68",
+            "content": {
+                "en": "Gentlemen, you can't fight in here! This is the ______ Room!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3676cfd1021a31fc9961002d0a65740148e5db0e",
+            "content": {
+                "en": "Go ahead, make my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c79ee8be69e8174e5c429a4cca1dda2162ab1ea8",
+            "content": {
+                "en": "Hasta la ______, baby."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5aa13c7a81d79640c8e8d66033b802c98d27e735",
+            "content": {
+                "en": "Hello, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8621e2a6c55a7bf2fe705ccbaf77da469d6fde5",
+            "content": {
+                "en": "Here&apos;s looking at ______, kid."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0aa67e42d496699d47877d32eb83439e5ce97128",
+            "content": {
+                "en": "Houston, we have a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_21d51f8fcf6fa43c364a01c029890899bdf4b385",
+            "content": {
+                "en": "I am big! It&apos;s the pictures that got ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_09032fd776365d71f429e7fb8b1770673f6ff62c",
+            "content": {
+                "en": "I have always depended on the kindness of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e23c1602b0d3fadfc5bf8c7757785666e3da1b5c",
+            "content": {
+                "en": "I have had it with these motherfucking ______ on\/in this motherfucking ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8c575fa400c1f8f1bf8eb4fee32eb15196b724f0",
+            "content": {
+                "en": "I may be dumb, but I know what ______ is."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_761aba47172896d5b8aea5522588e90bc2262029",
+            "content": {
+                "en": "I see ______ people."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a141b43c56a1aef6d9b7034093b569cfc5397387",
+            "content": {
+                "en": "I want to be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a135db48921f7fc9484f6632c0a7d0dc8028c184",
+            "content": {
+                "en": "I&apos;m as mad as hell, and I&apos;m not going to take this ______ anymore!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8259dff6d167d113d90396743154740cf70a78d2",
+            "content": {
+                "en": "I&apos;m gonna make him an offer of ______ he can't refuse."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c4d8f2a990547ad48a2be0b28f35c19b53dfc928",
+            "content": {
+                "en": "I&apos;m not a smart man... but I know what ______ is."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bef54fa6effcb138afdc8e9519bae8c176da91b",
+            "content": {
+                "en": "I&apos;m the king of the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d1f87b0f27f54f4d8ef6ed6d0bbbece8a3c88b0",
+            "content": {
+                "en": "I&apos;m ______ here! I&apos;m ______ here!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_49fea051ef8490e85f9487d334462d887cbb2dcd",
+            "content": {
+                "en": "I'll be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3c8c906de05f2ef5767c6101771867d9c1220716",
+            "content": {
+                "en": "I'll get you, my pretty, and your little ______, too!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1aa5c462c51b5997fa77089006f39b9fdca20e4b",
+            "content": {
+                "en": "I'll have ______ if that&apos;s she&apos;s having."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8f129f8d8b49b6affc5027443dc40b144fdd9978",
+            "content": {
+                "en": "If you build ______, he will come."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6121e71bcaa9a50977ffde72e9574f7a7fea52f6",
+            "content": {
+                "en": "Is ______ safe?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dd766ad560ccb4168f0981a7c35e055c7bab842f",
+            "content": {
+                "en": "It&apos;s alive! It&apos;s alive! In the name of ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_408ed4d5f6fdb6425bc840e7e8030c691b86f81f",
+            "content": {
+                "en": "Life is a banquet, and most poor suckers are ______ to death!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01648a6ce6b5d4a446e3f8010c225e122562398a",
+            "content": {
+                "en": "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I&apos;m going to be right behind you, holding on tight, and away we're gonna ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5556d5f32f0bf9cc99ed562b77991a00a82fd5c4",
+            "content": {
+                "en": "Listen to them. Children of the ______. What music they make."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_469312758baa62fd894425618dfa86fca2b8d50d",
+            "content": {
+                "en": "Louis, I think this is the beginning of a beautiful ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a266c51b83fae7a564195c8798ca33cfb2fb4169",
+            "content": {
+                "en": "Love means never having to say you're ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b04d64231a96ffd0cefeb4ddb4fc4aa9add7ec1",
+            "content": {
+                "en": "Made it, Ma! Top of the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8248f2fbe0345114d3e493748d21d064cadae717",
+            "content": {
+                "en": "May the Force be with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bd1343f63941ccf9ef3bec8636de36ec02311ff",
+            "content": {
+                "en": "Mother of ______, is this the end of Rico?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_746412e9373c696ada25b27079229171935f3696",
+            "content": {
+                "en": "Mrs. Robinson, you're trying to seduce ______. Aren't you?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c4074902d47f31b0d297bd21f376ba13a956e5fd",
+            "content": {
+                "en": "My mama always said life was like a box of ______. You never know what you're gonna get."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dda99ee988a02d923b38ff650a4a64cf593f9eea",
+            "content": {
+                "en": "My mother ______ you. My father ______ you. My sister ______ you. And I ______ you."
+            },
+            "pick": 4
+        },
+        {
+            "id": "b_1f2492021686429633e74c9af08dc9ddea36d0cc",
+            "content": {
+                "en": "My precious ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_456e005e5b7fbcea25c44af149745931f523cfc4",
+            "content": {
+                "en": "No wire ______, ever!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ed5cef74ff11ee110cd8e02b245ca8dbc414812",
+            "content": {
+                "en": "Of all the gin joints in all the towns in all the world, she walks into ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e0e34b708fdba0a051874c63a6f2b18bb0f39fa",
+            "content": {
+                "en": "Oh, Jerry, don't let&apos;s ask for the moon. We have the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_24e23f2e27fda54002e3443d98954e1c7dabed96",
+            "content": {
+                "en": "Oh, no, it wasn't the airplanes. It was ______ killed the Beast."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b12b4d835b7fc74e3d4b9bb5910d37fb5f4b1fc8",
+            "content": {
+                "en": "One morning I shot an ______ in my pajamas. How he got in my pajamas, I don't know."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e05edd9e309795e1ec8e8948b8baf4275841e803",
+            "content": {
+                "en": "Open the ______ bay doors, HAL."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5cf41eddaf29d848eb269bdb6d5271be8a0c962c",
+            "content": {
+                "en": "Play it, Sam. Play '______.'"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84caabae9331defab3e1e8fc9d5eb269318604f4",
+            "content": {
+                "en": "Round up the usual ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3cc3aac85dc0cd102167ed7c51d6f0492610f41f",
+            "content": {
+                "en": "Sawyer, you're going out a youngster, but you've got to come back a ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c0db55b39bed063fb5acde630056b60101527d4",
+            "content": {
+                "en": "Say \"hello\" to my little ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_75c074e0da67d656c7c5d917ea0a62b2be90cf03",
+            "content": {
+                "en": "Say \"______\" again!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ce8bddb488ca9dae7316072455a5e588ed8eed2b",
+            "content": {
+                "en": "Shane. Shane. Come back you ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1dbc1a68f3111c4a17cf05cc4f06f17381491921",
+            "content": {
+                "en": "Show me the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3c5770a15942c297d1ca1ec0b7ce47da59854716",
+            "content": {
+                "en": "Snap out of ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_361523d542d8cdf9a6105f9a5f92784998b8cb89",
+            "content": {
+                "en": "Soylent Green is ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8e5dbfddea9b85658d801b5c8b313e868ff3f6f7",
+            "content": {
+                "en": "Stella! Hey, ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0230fa0e41c9d1d9be0a7fb360a294e49ab11c35",
+            "content": {
+                "en": "Striker: Surely you can't be ______. Rumack: I am serious...and don't call me Shirley."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f1099f265ff39b824f8d678e84dc9c438c9f212",
+            "content": {
+                "en": "Take your stinking paws off me, you damned dirty ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0175f3e53995a5bee744203ce81e936563560524",
+            "content": {
+                "en": "Tell 'em to go out there with all they got and win just one for the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c6ba73693cd374f7e76f1838c8685af197b51b4d",
+            "content": {
+                "en": "The stuff that ______are made of."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eff1a38294cf05efbde4a6a135b26870cb4bd176",
+            "content": {
+                "en": "There&apos;s no crying in ______ball!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8c0a83403a10bff120faa3adfc5faa82589a0f41",
+            "content": {
+                "en": "There&apos;s no place like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b3e195d980bac83e7cea521c02b100b78551ab7",
+            "content": {
+                "en": "They call me Mister ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da26094652c4c79b5b98e5d2c03b84cb170b776e",
+            "content": {
+                "en": "Today, I consider myself the ______ iest man on the face of the earth."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ec78172a7775e3288e85b930cbe8fa87777999fd",
+            "content": {
+                "en": "Toga! Toga! ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dded3dc856280c78d34a0bd5f5cefd8572179774",
+            "content": {
+                "en": "Toto, I've a feeling we're not in ______ anymore."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_742c46e1f8460bef9508868849c517003ebab99c",
+            "content": {
+                "en": "Wait a minute, wait a minute. You ain't heard ______ yet!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d36f9d7957d31c4c7374eaa18468b6ca8c016d6",
+            "content": {
+                "en": "We rob ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_53dc16add59498ec88995e8c890c7f2a88f36296",
+            "content": {
+                "en": "Well, here&apos;s another nice mess you've gotten me into ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9799146db5f8e5f898a26e5825b8113b27f34674",
+            "content": {
+                "en": "Well, nobody&apos;s a perfect ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_48892400db886be781cd5df2a46f6d7e549213a3",
+            "content": {
+                "en": "What we've got here is failure to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff873cde65fb0f7ea75873e4362d6ab95ae75982",
+            "content": {
+                "en": "Who&apos;s on first ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a246c0aed556a50004fee3ae1e253ab240b6a733",
+            "content": {
+                "en": "Why don't you come up sometime and see ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df98ae97cb6b2be06ab0fab2567706a59e2610ea",
+            "content": {
+                "en": "Yo, ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_85fe8cebb09cc81d3873fa4210e7a665191260ad",
+            "content": {
+                "en": "You can't handle the ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20722da258a55c5e602bcb7c06c31fcbefc5d9e5",
+            "content": {
+                "en": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a ______, which is what I am."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dfbb2d5aecec8c8a445583a0fa3276f1d21b58c3",
+            "content": {
+                "en": "You had me at \"______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_247c7dc1afedaa4f0019aa1c8b0a140a262d8e14",
+            "content": {
+                "en": "You know how to whistle, don't you, Steve? You just put your lips together and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_300a4bab91e4864e191aa6b50db9b2f80f060364",
+            "content": {
+                "en": "You talking to ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_694fefd11965f1213419b8dbc6353b36e0f2b0f8",
+            "content": {
+                "en": "You're gonna need a bigger ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_44b01afb75cb050adcea57dd24826e456649792a",
+            "content": {
+                "en": "You've got to ask yourself one question: 'Do I feel ______?' Well, do ya, punk?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed4e853f6de2ea9ab9c2dfb978265252b8673fbd",
+            "content": {
+                "en": "______ motherfucker, do you speak it?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e0fe9e21e50af0ca44454fc8804e7d33b861231b",
+            "content": {
+                "en": "______ story. Outta nowhere. A former ______, now, about to become the Masters champion. It looks like a mirac...It&apos;s in the hole! It&apos;s in the hole! It&apos;s in the hole!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fea529dc1d2fcc1b652619c45c502069c34d0ab8",
+            "content": {
+                "en": "______, for lack of a better word, is good."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_88908b599c6eaf3b7e4f74dcb430beb579561c97",
+            "content": {
+                "en": "______, my dear Watson."
+            },
+            "pick": 1
+        }
+    ]
+}

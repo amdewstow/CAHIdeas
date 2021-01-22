@@ -1,0 +1,149 @@
+{
+    "id": "Skyrim",
+    "name": "Skyrim",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "b_a0eb2d9cbf42758b4cf05475d370425e10a2cb05",
+            "content": {
+                "en": "A woman charges into battle with weapon drawn while the guards sit back and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bf849e2e78ba2f4f23dcc5d9a687e6a8cec64ce1",
+            "content": {
+                "en": "All the ______ shall fear the ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e71f067efa276918a1b90b12179218fb09526149",
+            "content": {
+                "en": "Another adventurer, here to lick my father&apos;s ______. Good job."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f374a84f6ef14961450382d07028690f2a45d19a",
+            "content": {
+                "en": "Boys, ______,______, ______. There&apos;s nobody I won't fight!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_094a2bebe586f45c8bfaeba5a453c6853df62386",
+            "content": {
+                "en": "Come to Dragonsreach to discuss the ______ like the rest of the great warriors?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_27331952c32ae670f1e13c6ab086bc799e9946bd",
+            "content": {
+                "en": "Dragon born huh? Was it your ______ or your ______that was the dragon?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4865612d5365524a5f5d8ae6517845845f87099b",
+            "content": {
+                "en": "Either you're ______ or I&apos;m ______. Maybe both."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_73755612572ba3ec620df9be572fab7d347bb132",
+            "content": {
+                "en": "Father says I&apos;m too young to train with a sword, so I practice with my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c049e66969ba517a7b5b28879ed5ad7890ea5d7c",
+            "content": {
+                "en": "I am sworn to carry your ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3df27f80d7916fa72cb08b3532b181b66193c3e7",
+            "content": {
+                "en": "I help my ______ in more ways than people realize."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_def52f3ed64258c88034d30e5f50470b73910d84",
+            "content": {
+                "en": "I hope you get ______ by a ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5751a1f53ce80022349dec4c0bdaa507580b1fd9",
+            "content": {
+                "en": "I used to be an adventurer like you until I took an arrow in the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c8fe394019380b7400f69e4d950e959b16947f0c",
+            "content": {
+                "en": "I would be honored if you would use the ______ on me."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4277e4ac1d9cb43747bbac07f97d8310e03fd565",
+            "content": {
+                "en": "Let me guess, someone stole your ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2092035f3bfa852b516890a14d41293394de9bc1",
+            "content": {
+                "en": "My cousins out fighting dragons and what do I get? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7cb763b96d00ec1d3e71f3813a1927d13decc0c",
+            "content": {
+                "en": "Nords' armor has lots of ______. This sometimes makes M'aiq nervous."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_133b890f4d9752240d53adf6b2f1a4ff47cd5ce6",
+            "content": {
+                "en": "You know what we call people who mess with us? ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_20d03621b78e97a4add2371e5eea46c8a85a1487",
+            "content": {
+                "en": "You started this ______ and plunged Skyrim into chaos, now the empire is going to ______ you down!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0d36c54d5d4179a6ae5d4aac44c2b31f2286916d",
+            "content": {
+                "en": "You want knives? You want them in your belly? No? Then you stop talking to ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f02519bbc6d0e65288a21cb3a08f1d9eb44ad6ba",
+            "content": {
+                "en": "You'll see, it was a dragon! It'll ______ us all and then you'll believe me!"
+            },
+            "pick": 1
+        }
+    ]
+}

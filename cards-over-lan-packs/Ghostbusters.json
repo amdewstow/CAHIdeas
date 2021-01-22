@@ -1,0 +1,457 @@
+{
+    "id": "Ghostbusters",
+    "name": "Ghostbusters",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_5977fc961f61ad80fe9670680ef65d9ae3e9ee3d",
+            "content": {
+                "en": "A bathtub full of pink slime that tries to eat you."
+            }
+        },
+        {
+            "id": "w_a67fb7a72d7eb1bf2d26126eef4cc93efdcf5359",
+            "content": {
+                "en": "A bigger, heavier Twinkie."
+            }
+        },
+        {
+            "id": "w_374d0ab52ee36305ade85ae5a49233d3916785d9",
+            "content": {
+                "en": "A Class Five full roaming vapor."
+            }
+        },
+        {
+            "id": "w_4d00dbe75af17b41def0eb6a37cce19127a0c436",
+            "content": {
+                "en": "A client who pays in advance before they turn into a dog."
+            }
+        },
+        {
+            "id": "w_55505ef20358107d010c934b8d269a355b393ccc",
+            "content": {
+                "en": "A corner penthouse in Spook Central."
+            }
+        },
+        {
+            "id": "w_6db55d7c7d792765df42baa3d125a6fa39ce07bb",
+            "content": {
+                "en": "A dancing toaster that might bite off your hand."
+            }
+        },
+        {
+            "id": "w_1e28451b6ca1c8e28611fbd7af9af5470d82b84d",
+            "content": {
+                "en": "A demonic dog bursting out of your closet and landing in a punch bowl."
+            }
+        },
+        {
+            "id": "w_701b012659a5c07463eba6f26ac9a6d8eb6ca11d",
+            "content": {
+                "en": "A ghost train scaring the shit out of you as it passes through your body."
+            }
+        },
+        {
+            "id": "w_9f5ecc46e41b8691207a8926c4f758d57241b793",
+            "content": {
+                "en": "A mountain of skulls."
+            }
+        },
+        {
+            "id": "w_99dc7ca6c657e7c8125bcbadb406902c6a8f383d",
+            "content": {
+                "en": "A movie poster that doesn't include the only black character."
+            }
+        },
+        {
+            "id": "w_c3371897ba36b71b40c9a18e0e963055f96bc5fd",
+            "content": {
+                "en": "A stool sample, for business or personal use."
+            }
+        },
+        {
+            "id": "w_97922561074bc05e5afae648a4dcdd06a4405950",
+            "content": {
+                "en": "A Twinkie that&apos;s 35 feet long and weighs approximately 600 pounds."
+            }
+        },
+        {
+            "id": "w_4064c8ffbe803d8dc6cda202c63ae5852434edd7",
+            "content": {
+                "en": "All life as you know it stopping instantaneously and every molecule in your body exploding at the speed of light."
+            }
+        },
+        {
+            "id": "w_28cf6668030fc69a078d1310488e8a919422ffa6",
+            "content": {
+                "en": "An underground river of living, aggressive, toxic slime."
+            }
+        },
+        {
+            "id": "w_021318300bae9d725b1ee5b0af83e800257bb5ad",
+            "content": {
+                "en": "An undersea, unexplained mass sponge migration."
+            }
+        },
+        {
+            "id": "w_4874fa88e206a229dd823fb79765f97c1daeb057",
+            "content": {
+                "en": "Behavior that&apos;s not generally seen in a major appliance."
+            }
+        },
+        {
+            "id": "w_a436a6b0dad0625220cbe2c5dec14304a702e823",
+            "content": {
+                "en": "Being flexible about getting involved with demon-possessed people, but only if they're really hot."
+            }
+        },
+        {
+            "id": "w_913bf161e8f609b8c1d2f5292995ac7eddcd9725",
+            "content": {
+                "en": "Crossing the streams."
+            }
+        },
+        {
+            "id": "w_757b10c7cd9a106d1721913cfda00e0870e97eee",
+            "content": {
+                "en": "Death by poisoning, gunshot, stabbing, hanging, stretching, disemboweling, and drawing and quartering."
+            }
+        },
+        {
+            "id": "w_a6e6d2c0bf26b2f718728afc938950c5fd309bc4",
+            "content": {
+                "en": "Dreaming about getting head from a ghost."
+            }
+        },
+        {
+            "id": "w_7cc8f0dc011156a621e5fb7053da30faced4cac9",
+            "content": {
+                "en": "Eggs that fry themselves on the countertop."
+            }
+        },
+        {
+            "id": "w_158851e5265ee3d7782ccef97f595b704ec63375",
+            "content": {
+                "en": "Finding a top-flight job in the food service or housekeeping industries."
+            }
+        },
+        {
+            "id": "w_5830c1884b60e3a8f081fabbd00aeb08448e164e",
+            "content": {
+                "en": "Getting a sample of your brain tissue."
+            }
+        },
+        {
+            "id": "w_68457dc1eff08b399d900412b776aba1cb8983d5",
+            "content": {
+                "en": "Gozer the Gozerian."
+            }
+        },
+        {
+            "id": "w_269f458a49fc7c89878bbdce0bdbd443d08affb0",
+            "content": {
+                "en": "Human sacrifice! Dogs and cats living together! Mass hysteria!"
+            }
+        },
+        {
+            "id": "w_312f76ea74eb04e8961e290905e99496a904aab3",
+            "content": {
+                "en": "Injecting your date with 300 cc&apos;s of Thorazine."
+            }
+        },
+        {
+            "id": "w_905e6aa3e068a31ec91ef90ebb0ae7da7069bf91",
+            "content": {
+                "en": "Not being afraid of no ghosts."
+            }
+        },
+        {
+            "id": "w_e6f7d2827d69d28fcab97673a2f8be26b8b32bac",
+            "content": {
+                "en": "Pissing off your superintendent by blowing up the roof of your apartment building."
+            }
+        },
+        {
+            "id": "w_d8039b87e5da7e6e55790bbd165bfc37e28d2a0c",
+            "content": {
+                "en": "Running gynecological tests on the mother."
+            }
+        },
+        {
+            "id": "w_acf68e479077d5cae3f7480603a9c80c0a5b9c8e",
+            "content": {
+                "en": "Saving the lives of millions of registered voters."
+            }
+        },
+        {
+            "id": "w_a54fce110d8ed5b30ebabb0122434b0512bf8265",
+            "content": {
+                "en": "Seeing shit that will turn you white."
+            }
+        },
+        {
+            "id": "w_c97fc5c2df3846daa2a3c53ad53b993857b66b8d",
+            "content": {
+                "en": "Showing that prehistoric bitch how we do things downtown."
+            }
+        },
+        {
+            "id": "w_6f44350d708e3e3fdcb65486bdf43795d2824086",
+            "content": {
+                "en": "Sleeping with your science experiment."
+            }
+        },
+        {
+            "id": "w_8ec8d39a03618440eae34dc1222704ba12df62ff",
+            "content": {
+                "en": "Some pencil-neck from the EPA trying to tell you how to do your job."
+            }
+        },
+        {
+            "id": "w_d1545c1d6f48aeb1cebecddc2c973ad5b3bf3327",
+            "content": {
+                "en": "Splitting up so you can do more damage."
+            }
+        },
+        {
+            "id": "w_b84dcc9a04636e3284f019da772ac59f1a697352",
+            "content": {
+                "en": "Straightening a Slinky&trade;."
+            }
+        },
+        {
+            "id": "w_9a989abca2264c9dd0620d0d4795ee1435aa1c44",
+            "content": {
+                "en": "Taking puppies away from children."
+            }
+        },
+        {
+            "id": "w_3e9f73a6ee64c7b7b9eac6f2f1635e6df6f63f56",
+            "content": {
+                "en": "The Ecto-mobile."
+            }
+        },
+        {
+            "id": "w_484720ad083f2297fec05b39d0d8d924099fde78",
+            "content": {
+                "en": "The fat, messy, endlessly eating ghost of John Belushi."
+            }
+        },
+        {
+            "id": "w_a65217c13099ec14eb5a86a1b472e6dfb6c3409e",
+            "content": {
+                "en": "The ghost of the Titanic rising from the ocean and sailing into New York."
+            }
+        },
+        {
+            "id": "w_28fe5adc89a78e8fc286f160f560fff8e2b08a77",
+            "content": {
+                "en": "The Ghostbusters, exposing themselves."
+            }
+        },
+        {
+            "id": "w_c4a21468bc030ff8eb91ab1f15842f7310d50ed0",
+            "content": {
+                "en": "The Keymaster and the Gatekeeper."
+            }
+        },
+        {
+            "id": "w_576eef6037c82d838100a52752264c6eea84eda7",
+            "content": {
+                "en": "The Statue of Liberty, being fucked by the Stay-Puft Marshmallow Man."
+            }
+        },
+        {
+            "id": "w_13c702521321418a0ad11a4a4f780da49246aab4",
+            "content": {
+                "en": "The world ending on Valentine&apos;s Day."
+            }
+        },
+        {
+            "id": "w_9b9894c5711ae093fcff6aae775fc38dae89e67c",
+            "content": {
+                "en": "Vandalizing a valuable, centuries-old painting by doodling a kitten onto it."
+            }
+        },
+        {
+            "id": "w_a890bd4f2c7c1a34cc6fa2fe64d622bd0ae0ed54",
+            "content": {
+                "en": "Vigo the Carpathian."
+            }
+        },
+        {
+            "id": "w_efa30b56e012e26a833d4577fb171d3ae08275f7",
+            "content": {
+                "en": "Wearing an unlicensed nuclear accelerator on your back."
+            }
+        },
+        {
+            "id": "w_c5e749b9cfd66073c521e57533f43114142374d5",
+            "content": {
+                "en": "Weird hairless cats."
+            }
+        },
+        {
+            "id": "w_37a22929bee0050fd55a404214f5c6aea4ff621f",
+            "content": {
+                "en": "Your mom moving to Florida, depriving you of a roommate."
+            }
+        },
+        {
+            "id": "b_451d430d7a149127b24327e5a3ec395d941d2642",
+            "content": {
+                "en": "Are you troubled by ______ in the middle of the night? Do you experience ______ in your basement or attic? Have you or any member of your family ever seen ______?"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_4ad181ee12c0428031514858f4be5545b1af5bf1",
+            "content": {
+                "en": "As a duly designated representative of the city, county, and state of New York, I order you to cease ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_31dba31bbe80c8564d9acf52019c330ddfe8cbc3",
+            "content": {
+                "en": "At first, the baby was fussy, but then we gave him ______ and he went right to sleep."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b20df455a3fe404d3e33cddbf455c868f3e60e08",
+            "content": {
+                "en": "Being ______ and treating other people like ______ is every New Yorker&apos;s God-given right."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_525d25dd2617d8fd01a257bfe5c53157a7629e00",
+            "content": {
+                "en": "Find me ______, that I might live again!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_109b50a56de80e88fe2df4597274b7321bcbbc01",
+            "content": {
+                "en": "I&apos;m studying the effects of ______ on psychic ability."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b966a07375adfadb5fa89d1e7f6393c5501fbea",
+            "content": {
+                "en": "If there&apos;s a steady paycheck in it, I'll believe ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bf9cff2eb9dfca3076118a9b3a489f7c9f1496e",
+            "content": {
+                "en": "It&apos;s the Scoleri Brothers! I tried them for ______, gave them ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8deb67928fdc95a4f72d27f14c2568b519d245a3",
+            "content": {
+                "en": "Okay, who brought the ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e1a22d2e572bd4a87d48d917f997fde6e621e51",
+            "content": {
+                "en": "On a mountain of ______, in a castle of ______, I sat upon a throne of ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_555737181cdb8bcf8c10e803c24192cd782044a7",
+            "content": {
+                "en": "That&apos;s the bedroom, but ______ happened in there."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_63421b901f96cdf49405e219957ea88ff36738e1",
+            "content": {
+                "en": "There is no ______, only Zuul."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_97de91bdf1ff9a3d80be7646a84de876c4872836",
+            "content": {
+                "en": "There seem to be six million completely miserable assholes ______ in the tri-state area."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d183f4a767c7df4f858e2f73b234530460cce23",
+            "content": {
+                "en": "This is Prince Vigo, ruler of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e0ed74433faaf75edb9863ece4e445758f4a8ae2",
+            "content": {
+                "en": "We're exterminators. Somebody saw ______ up on twelve."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12136d93cd3a50469932e2d24a3c759e7e22aa1e",
+            "content": {
+                "en": "Well, there are already so many holes in 1st Avenue, we didn't think anyone would notice ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8e6b09e9fbbbaea0c2e31917006a77a0d6eefbf9",
+            "content": {
+                "en": "What horrifying thing was lurking in the refrigerator?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d656d46f2d2f753987e0402a3840c3d7e9de2e9",
+            "content": {
+                "en": "When someone asks you if you're ______, you say YES!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ff2b7c8e4b9759f26c87984785620613dca3b82",
+            "content": {
+                "en": "When you started introducing me as ______. That&apos;s when I left."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_82060949df58ee133d33ef93faf2248e308381bf",
+            "content": {
+                "en": "Who you gonna call?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a4fe3825644517af85bca3656f11a37e30f69c2",
+            "content": {
+                "en": "Yes, it&apos;s true. This man has no ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4de92a8571107ac4cea0deba72922c7dabd23b38",
+            "content": {
+                "en": "______, and you want to keep it?"
+            },
+            "pick": 1
+        }
+    ]
+}

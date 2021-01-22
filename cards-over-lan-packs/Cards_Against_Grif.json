@@ -1,0 +1,348 @@
+{
+    "id": "Cards_Against_Grif",
+    "name": "Cards Against Grif",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_b4882a3054d1a08dbb655adeacc9825e00bc4b74",
+            "content": {
+                "en": "A betrayal from bs angel."
+            }
+        },
+        {
+            "id": "w_f1efd1a9ba666f02b3b17e23837529958ef2116a",
+            "content": {
+                "en": "A losing season."
+            }
+        },
+        {
+            "id": "w_8354709eb68b73c54e8eebcf17dfa951629932da",
+            "content": {
+                "en": "A pair of rock-hard Grifballs."
+            }
+        },
+        {
+            "id": "w_ff46cbe8d535dd87c404c9e8f3f452a4d1416b27",
+            "content": {
+                "en": "An Australian host."
+            }
+        },
+        {
+            "id": "w_37c098affc9bf9b12e596370e17a69a5c6b997ad",
+            "content": {
+                "en": "An Olympic gold medal in celebratory crouching."
+            }
+        },
+        {
+            "id": "w_49f5cecbc83f116cf4e14a570eee1c6c4a352013",
+            "content": {
+                "en": "An unstoppable host."
+            }
+        },
+        {
+            "id": "w_444743f86ba75edfebb3cc32618932f90342392b",
+            "content": {
+                "en": "Believing gaming skill is related to your sexual preferences."
+            }
+        },
+        {
+            "id": "w_69d50e43760457fbba67b6b922c062c8bc1f2db7",
+            "content": {
+                "en": "Bonk betrayals."
+            }
+        },
+        {
+            "id": "w_8ac4d37e9b5ad9713cdaae37837f7bba0c3816ca",
+            "content": {
+                "en": "Bridging for host."
+            }
+        },
+        {
+            "id": "w_4670c1ec06066563ef4b5948014c97cbdd8cd0c0",
+            "content": {
+                "en": "Burnie Burns."
+            }
+        },
+        {
+            "id": "w_da0de9d2feb156cc538c726b6e18850826d93d3d",
+            "content": {
+                "en": "Change of any kind."
+            }
+        },
+        {
+            "id": "w_809e7ae68ae0b5faabfba9da61069af73484a1f7",
+            "content": {
+                "en": "Convincing friends and family that Grifball is a legitimate sport."
+            }
+        },
+        {
+            "id": "w_479bbf28ede06b953048f59f24f4297973caae8c",
+            "content": {
+                "en": "Dedication and the lack of a social life."
+            }
+        },
+        {
+            "id": "w_064f522944b53a8bda750729f1473f934364c39f",
+            "content": {
+                "en": "Drunken teammates."
+            }
+        },
+        {
+            "id": "w_0cb72f863169f22d272fe8f79e3b24ab434cb4f8",
+            "content": {
+                "en": "Getting launched into the truck on Foundry."
+            }
+        },
+        {
+            "id": "w_105b61d2869001c6b4a69f8bea4ce0bf96d68cf6",
+            "content": {
+                "en": "Getting the other team banned."
+            }
+        },
+        {
+            "id": "w_b2d68142bbeaf3234d1b8c709954f941a28b0edf",
+            "content": {
+                "en": "God-punching three tanks while screaming \"LEROY JENKINS!\""
+            }
+        },
+        {
+            "id": "w_459fc154cf25cab09c2fd3e08ac6d71c0c9caa9b",
+            "content": {
+                "en": "Goddamn matchmaking randoms."
+            }
+        },
+        {
+            "id": "w_4e0e214742d88e0335faa4cd7714d8d6abfdd5da",
+            "content": {
+                "en": "Grifball plushies!"
+            }
+        },
+        {
+            "id": "w_3bec884e65613888aef04fca14343c7a9058a485",
+            "content": {
+                "en": "GRIFBALL!!!"
+            }
+        },
+        {
+            "id": "w_512634f0e6da9607c7f2391a34e89d5201fb5f37",
+            "content": {
+                "en": "Ill-timed hammer betrayals."
+            }
+        },
+        {
+            "id": "w_9a538803fe44fefc73cd8d8d6f96a8ed82c2f7a7",
+            "content": {
+                "en": "Kevin Franklin."
+            }
+        },
+        {
+            "id": "w_073317a34e1ea7bcceb8dcc7e5982db0bd6ae8a2",
+            "content": {
+                "en": "Lag."
+            }
+        },
+        {
+            "id": "w_d7b41fb16c03b8e8a98579d49a4fbf87f67c1295",
+            "content": {
+                "en": "Moonwalking to the plant...and missing."
+            }
+        },
+        {
+            "id": "w_b9f930cd689793c0648e4ecb973cc09a4c58dd2a",
+            "content": {
+                "en": "Passing the bomb like the Harlem Globetrotters."
+            }
+        },
+        {
+            "id": "w_b9f4e7d4fe4c7009994c11a17a1e30a9ba16b36f",
+            "content": {
+                "en": "Passive-aggressively posting in the chat box."
+            }
+        },
+        {
+            "id": "w_3fdec30d0a4f3d8cf47b911acf93d8b4c2e330d8",
+            "content": {
+                "en": "Pitching a tent in the enemy spawn."
+            }
+        },
+        {
+            "id": "w_31cb8f005b0bbd7fc5ef323b152a4f820b58e1f5",
+            "content": {
+                "en": "Playing Grifball while shitting in a bucket."
+            }
+        },
+        {
+            "id": "w_910a7f98a04003ad9ecf86672ae8cb28fa7714c4",
+            "content": {
+                "en": "Realizing that when you lose it&apos;s lag and when you win it&apos;s all skill."
+            }
+        },
+        {
+            "id": "w_93b575dbc91b8cea010eaec4773b44d2ed02f050",
+            "content": {
+                "en": "RTX."
+            }
+        },
+        {
+            "id": "w_fa20870544649843910a368eeddc41b9a4195afc",
+            "content": {
+                "en": "Running around while singing \"Grifball for the Win.\""
+            }
+        },
+        {
+            "id": "w_8a51ab2979dd3611c28d8b0f132abea1f64ca70f",
+            "content": {
+                "en": "Spending four hours looking for a neutral host and then not playing the game because someone has to go to bed."
+            }
+        },
+        {
+            "id": "w_302108940d82509fcd4073bf75c5486ad8fb0aef",
+            "content": {
+                "en": "Spending Friday nights watching live-streamed Grifball."
+            }
+        },
+        {
+            "id": "w_2ec044138d64bc9dbc7937a35c26e2b098cdb4e3",
+            "content": {
+                "en": "Sword tanking."
+            }
+        },
+        {
+            "id": "w_394e393d18eda42cd35688c9c8db2cd42bdd944b",
+            "content": {
+                "en": "The energy sword."
+            }
+        },
+        {
+            "id": "w_3214e5b4e99dc7ceda43b26b2cdb4c55d4f0003c",
+            "content": {
+                "en": "The gravity hammer."
+            }
+        },
+        {
+            "id": "w_97d431b3aa205066051310cae60df94a48b5bf45",
+            "content": {
+                "en": "Unexpected rocket shoes."
+            }
+        },
+        {
+            "id": "w_bb3e50d3d9892a36184e4bcb5a3c78ec73f98612",
+            "content": {
+                "en": "Using 13 alternate gamertags."
+            }
+        },
+        {
+            "id": "w_22bf224d769169bc916a5a3f654e8d826d016492",
+            "content": {
+                "en": "Wednesday Night Grifbrawl."
+            }
+        },
+        {
+            "id": "b_188853a61d60c58a34d0ea0cff5e2cb55f6ef0c2",
+            "content": {
+                "en": "Betrayals are like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2a1091490272f4e9f8a63074e13380145e962ab",
+            "content": {
+                "en": "Grifball! The best sport since ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_35e721f5a0c4eb3bc38e9b9526f096871a51aff1",
+            "content": {
+                "en": "GrifballHub at RTX will be sponsored by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e7de26a6e5f11d54434cefb2df80a3fa18c1ee68",
+            "content": {
+                "en": "I missed the pass because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bbcde68b354c32c844a1459efb576b2a4618143a",
+            "content": {
+                "en": "I quit! Have fun with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d91c4d6e1447d937b5e2d57c2c7701c706d6cb6a",
+            "content": {
+                "en": "In 50 years, what I'll remember most about Grifball is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e8a039450d5cd8a4aa8849a78fdeac66f78e1df",
+            "content": {
+                "en": "In Halo 5, ______ and ______ will replace hammers and swords."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d73f3fe34833636fb8963030dc4f024287a1a20f",
+            "content": {
+                "en": "My wishlist for the next Halo game includes dedicated servers, spectator mode, and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_de147acca1681f55fa8ee7a1c2c18fcb96006f2c",
+            "content": {
+                "en": "RIP ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f9f4f87d3eaa68fefcf17aa90b163e89da4ebb86",
+            "content": {
+                "en": "The key to winning a Grifball championship is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a8e1aa1b51fd581fc082f446f34360282f9f049c",
+            "content": {
+                "en": "What makes Grifballers rage?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b610aac041667929a9eb58ee6ff1ad0aeba8f91a",
+            "content": {
+                "en": "Why did we just get 9-0'd?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d2d399949cf62bbb97c907b9ee5fc3321879c3f",
+            "content": {
+                "en": "Why was I banned from GrifballHub?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bf89d861477b649a94e329e3a2952433642fb860",
+            "content": {
+                "en": "______ for league administrator!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4fe90178caa7b190afc386a63ac6611f3f52a3df",
+            "content": {
+                "en": "______: It&apos;s a legitimate strategy."
+            },
+            "pick": 1
+        }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "id": "Jurassic_Park",
+    "name": "Jurassic Park",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_20167dcedfc78d40ef862864503c6ba52a4b43f8",
+            "content": {
+                "en": "A Brachiosaurus that looks like it has a cold."
+            }
+        },
+        {
+            "id": "w_caec884ccf1cb04691343bbc03a14e7c929fd410",
+            "content": {
+                "en": "A Compsognathus that has no reason to fear man."
+            }
+        },
+        {
+            "id": "w_9f7ead9e67369ffea5b2686078b932f23c7ff612",
+            "content": {
+                "en": "A Dilophosaurus spitting venom at its prey, causing blindness, and eventually paralysis."
+            }
+        },
+        {
+            "id": "w_6da48ab9a150cdff93f78260582b0fab054fedf3",
+            "content": {
+                "en": "A flock of Galli.. Galli.. Galli.. GALLIMIMUS!"
+            }
+        },
+        {
+            "id": "w_44f2e3ed449c742584e865ccee4eeb133044c153",
+            "content": {
+                "en": "A Spinosaurus that&apos;s swallowed a satellite phone."
+            }
+        },
+        {
+            "id": "w_33fd236d19f302430a38b1a1058b5084ec62bd07",
+            "content": {
+                "en": "A Velociraptor calling for help."
+            }
+        },
+        {
+            "id": "w_72c272ad0fecd1d7d8d00a2b6a58b8dd2019adfc",
+            "content": {
+                "en": "Actually going into the long grass."
+            }
+        },
+        {
+            "id": "w_5ac224d7b007bab9d304423c6db7ee53d520c202",
+            "content": {
+                "en": "Butterfingers."
+            }
+        },
+        {
+            "id": "w_1dcd71853ce61f958c847a351fb81ace25e85062",
+            "content": {
+                "en": "Clocking a T. rex at 32 mile per hour."
+            }
+        },
+        {
+            "id": "w_fd0528d3f4d0c085c9935e9973c92bd5b2898e87",
+            "content": {
+                "en": "Jeff Goldblum&apos;s lusciously hairy chest."
+            }
+        },
+        {
+            "id": "w_6f42841d56b55799838fbaa91878eece0b2ca095",
+            "content": {
+                "en": "Looking like a secret agent."
+            }
+        },
+        {
+            "id": "w_766cd139f3f37c2251e06ee3228dd36df4aecedf",
+            "content": {
+                "en": "Reverse Darwinism."
+            }
+        },
+        {
+            "id": "w_d3b0c66d08785acf0a07f3818e01a61cdd427b38",
+            "content": {
+                "en": "Sparing no expense!"
+            }
+        },
+        {
+            "id": "w_9dcab9c8b81ed2586268f707a4dfb2de1d141ae9",
+            "content": {
+                "en": "Stealing dinosaur embryos."
+            }
+        },
+        {
+            "id": "w_0e6e849d98e8ec4401b5e03f4d777d4e406a5387",
+            "content": {
+                "en": "Taking dinosaurs off this island."
+            }
+        },
+        {
+            "id": "w_9bc13973100c38f81598b122d3e485341ed2f5c2",
+            "content": {
+                "en": "The idiot that lost Amphicoelias fragillimus."
+            }
+        },
+        {
+            "id": "w_056fa42f610ce3b9254c30dda7d07127f2b77bc1",
+            "content": {
+                "en": "The long grass!"
+            }
+        },
+        {
+            "id": "w_3452e235699ffd1172587f7e144e802001bad9b4",
+            "content": {
+                "en": "The Motherfucking Bear-o-dactyl."
+            }
+        },
+        {
+            "id": "w_3e648f5059af434533fa02807f72c1bd13885763",
+            "content": {
+                "en": "The Motherfucking Pterodactyl."
+            }
+        },
+        {
+            "id": "w_84a5596c7bcd77aa5b17080e7909a8a74e8f7402",
+            "content": {
+                "en": "The white rabbit object."
+            }
+        },
+        {
+            "id": "b_73773449a004f76a81337b28ee37c788da21af77",
+            "content": {
+                "en": "Are you saying you wouldn't want to get onto Isla Sorna and study ______, if you had the chance?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78478b4f9c719333d62dddd792a8acf9ceb6004d",
+            "content": {
+                "en": "Daddy, daddy, this is a herbivore and that&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_13efca489a236ad5332665b47ae2a098eb195570",
+            "content": {
+                "en": "Don't go into ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2f8cf0ede535e2415df5292374ac9c978df6d7a5",
+            "content": {
+                "en": "Dr Sattler, I refuse to believe that you aren't familiar with the concept of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d4f8450c1dc2500af3f8279daca4ed9b6cb86e9",
+            "content": {
+                "en": "Even Nedry knew better than to mess with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c2122d3dfdcacca56b8e3d2443cd10d58f0dc7f7",
+            "content": {
+                "en": "God creates dinosaurs. God destroys dinosaurs. God creates man. Man destroys god. Man creates ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dc0fd155c6e1f31e987deed9a08c81ea565a0be8",
+            "content": {
+                "en": "Hold on to your ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eeb3b7ff394608baab49bc2b87f825b1ee1e144b",
+            "content": {
+                "en": "Life Finds ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_421129ac172e822317480cae675982b38fe404e5",
+            "content": {
+                "en": "Our lives are in your hands and you have ______!?!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b40d58015a70eb9e7e9d69b5d4e08015fbb371dc",
+            "content": {
+                "en": "So much for our first tour; two no shows, one sick Triceratops and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c0cf05491b55ce59f3891666745925e4a5b71db",
+            "content": {
+                "en": "T. rex doesn't want to be fed, he wants ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_78b8fefcbe6c9f31bfd72d32048eca45a78f98e5",
+            "content": {
+                "en": "This week, Dave Peters released a new paper claiming pterosaurs evolved from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_315fac3dafba4696ce3fadf2c9580b545783197e",
+            "content": {
+                "en": "What you call ______, I call.. The rape of the natural world."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_133066ca810f59767cd613a1c86c34dd47dd9655",
+            "content": {
+                "en": "______ is the worst idea in the long, sad history of bad ideas, and I&apos;m going to be there when you learn that."
+            },
+            "pick": 1
+        }
+    ]
+}

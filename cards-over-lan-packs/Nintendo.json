@@ -1,0 +1,647 @@
+{
+    "id": "Nintendo",
+    "name": "Nintendo",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_0dbe2679377ff3239c365821c93b1dc4ffafc814",
+            "content": {
+                "en": "A game where Peach has to save Mario"
+            }
+        },
+        {
+            "id": "w_72c8490eb51895680255e17c8d098ee386e6cf7d",
+            "content": {
+                "en": "A Metroid being stuck to your face"
+            }
+        },
+        {
+            "id": "w_de3f2dfd259e31b0526d7f44d0a025328945c2f9",
+            "content": {
+                "en": "A new F-Zero game"
+            }
+        },
+        {
+            "id": "w_3f800d70bc0448d2eb206e7d07a30bb3397a526f",
+            "content": {
+                "en": "A rainbow Pikmin"
+            }
+        },
+        {
+            "id": "w_b5b65cce73258f41676f319c71e44e76c7374b85",
+            "content": {
+                "en": "Accidentally breaking your expensive TV with a Wii-mote"
+            }
+        },
+        {
+            "id": "w_7a1d976b67cd7d2cf386b6ed3fab53e63404e5da",
+            "content": {
+                "en": "Actually doing a barrel roll"
+            }
+        },
+        {
+            "id": "w_12a2c5c2c797e2168e3bf4e2f329242d7091843d",
+            "content": {
+                "en": "Allan &amp; Nicole: A Miiverse Romantic Tragedy"
+            }
+        },
+        {
+            "id": "w_81b60a34f04882845d8996df783219c080a704af",
+            "content": {
+                "en": "An alternate reality where Pok&#233;mon send out humans to fight each other"
+            }
+        },
+        {
+            "id": "w_d5786e09c089accf2ac64f9efcb01322d5098dcc",
+            "content": {
+                "en": "Being abusive to your Nintendog"
+            }
+        },
+        {
+            "id": "w_e8df8131c1b7455aee67b9417732cf4b37d2fe37",
+            "content": {
+                "en": "Being eaten by Yoshi and then turned into a Yoshi egg that Yoshi throws at your friends, killing you and them."
+            }
+        },
+        {
+            "id": "w_18e848831c83551cb03e16d685ef74e96d6bd95f",
+            "content": {
+                "en": "Being tongued by Yoshi"
+            }
+        },
+        {
+            "id": "w_0342ebcb14725a66bbdeb0fbb69acb0cf4211266",
+            "content": {
+                "en": "Blowing into it to make it work"
+            }
+        },
+        {
+            "id": "w_e3a5c4de033f827f9b0b3ca1150d075b19e36cac",
+            "content": {
+                "en": "Daddy screaming REEEEEEAL good before he DIED! - Pigma"
+            }
+        },
+        {
+            "id": "w_902cfa020fe299df5f15973cc6916bf48ef2d630",
+            "content": {
+                "en": "Daisy&apos;s third eye"
+            }
+        },
+        {
+            "id": "w_63b76ea94ac7ddac6fd11e0d4502931533f3e211",
+            "content": {
+                "en": "Donkey Kong going ape shit, ripping Diddy Kong&apos;s arms and legs off, and savagely beating his dead corpse with them"
+            }
+        },
+        {
+            "id": "w_601db0771f8af2e78a2d37a4e7e9de27610f929f",
+            "content": {
+                "en": "Falcon thrusting that ass"
+            }
+        },
+        {
+            "id": "w_e323d738f6faa79fc093978c1b97b300f72d1854",
+            "content": {
+                "en": "Fighting for your friends"
+            }
+        },
+        {
+            "id": "w_008471a981eda6f4329410bffdcb7f90271e2132",
+            "content": {
+                "en": "Final Destination, no items, and Fox only"
+            }
+        },
+        {
+            "id": "w_a01b069a1cfbaed45c81bf236db83a148481b4e9",
+            "content": {
+                "en": "Finding the Wii Fit Trainer extremely attractive"
+            }
+        },
+        {
+            "id": "w_7e752ed2b505a92ca6e8fd801aebce8cc2ee9c3e",
+            "content": {
+                "en": "Getting Eye Cancer because of the Virtual Boy"
+            }
+        },
+        {
+            "id": "w_2bd493af87de395c14d337d64467a59f35712886",
+            "content": {
+                "en": "Going into someone&apos;s house and smashing pots"
+            }
+        },
+        {
+            "id": "w_9263999e72707fbde6f8862ae7d1d3536a7273d7",
+            "content": {
+                "en": "Holding a cucco above your head so you can fly"
+            }
+        },
+        {
+            "id": "w_a4f848eade05d3f7b672aeabeae8829bb9d313be",
+            "content": {
+                "en": "Jerking it to upskirt snapshots of Princess Peach in Brawl."
+            }
+        },
+        {
+            "id": "w_74beb59278fc05275cc8883f3fb1d7392a40814c",
+            "content": {
+                "en": "Jerome \"Doc\" Louis"
+            }
+        },
+        {
+            "id": "w_da39b341fcadfe3b3be22535128e0b331c964326",
+            "content": {
+                "en": "Jimmy T. and Jimmy P. dancing you into oblivion"
+            }
+        },
+        {
+            "id": "w_5900b71c0de5ba95aba1318c0e69c93f27b2a983",
+            "content": {
+                "en": "Jumping on your enemies to kill them"
+            }
+        },
+        {
+            "id": "w_94ba9d367f9aabab30d9a0cd4b2ceda70de24ef6",
+            "content": {
+                "en": "Kirby eating every Nintendo character and gaining ultimate power thus destroying the universe"
+            }
+        },
+        {
+            "id": "w_bce7cb384a0038c4cec877f4df6f6dee70e93ace",
+            "content": {
+                "en": "Kirby giving the ultimate blowjob"
+            }
+        },
+        {
+            "id": "w_27a3cb419343caa985fa83261d42a6e0234044b9",
+            "content": {
+                "en": "Kirby violently eating everything"
+            }
+        },
+        {
+            "id": "w_18f4969d2cc3c300397866698691ee0b23f020f5",
+            "content": {
+                "en": "Lord Helix"
+            }
+        },
+        {
+            "id": "w_f1ab6008d9bbdf4172f1f9d97bbc79ea317be9af",
+            "content": {
+                "en": "Losing friends in Mario Party."
+            }
+        },
+        {
+            "id": "w_efeca9aec014e227cd17d5e98ed30224f8ae26e3",
+            "content": {
+                "en": "Mario Party 15"
+            }
+        },
+        {
+            "id": "w_d432318d25fe9c72bfc46535b6751244b866b4e0",
+            "content": {
+                "en": "Mario&apos;s secret furry fetish"
+            }
+        },
+        {
+            "id": "w_a48b863c4f800b7b96c3acdb7734cc767dd9998a",
+            "content": {
+                "en": "Meeting your Mii in real life"
+            }
+        },
+        {
+            "id": "w_92f7ef4f8e9992aa1005db6d466a91d74fab41ed",
+            "content": {
+                "en": "Misunderstood Bowser"
+            }
+        },
+        {
+            "id": "w_9073d0c891fa01de97cc81bf2e7420621600c1df",
+            "content": {
+                "en": "My latest fan fiction called, The Ladies of Nintendo &ndash; part 6 (the final)"
+            }
+        },
+        {
+            "id": "w_03ccdc6ddc0b98f60fce8b8e2cd072b7da498922",
+            "content": {
+                "en": "Naming your Pok&#233;mon after friends"
+            }
+        },
+        {
+            "id": "w_610d284b35f8e0cf7b06bae366b41fd2480993b1",
+            "content": {
+                "en": "Never playing a Metroid game because it&apos;s too scary"
+            }
+        },
+        {
+            "id": "w_277e99821e81a7d1617a5dee30469582213dc91b",
+            "content": {
+                "en": "People who like Waluigi"
+            }
+        },
+        {
+            "id": "w_43fdfff5da4f888ef25dfed1ebacdc8db594a224",
+            "content": {
+                "en": "PETA freaking out every time a Pok&#233;mon is game released."
+            }
+        },
+        {
+            "id": "w_1d21d6b4fe216f7cf3ac2993ae01dddef7ed6b5d",
+            "content": {
+                "en": "Playing as Ganondorf in Super Smash Bros. Melee."
+            }
+        },
+        {
+            "id": "w_afe562c957c4d18c06d9db310eea8cd609a996d5",
+            "content": {
+                "en": "Putting on white tights and calling yourself the hero of time"
+            }
+        },
+        {
+            "id": "w_40a51e924d80017b5285ed726ff1a4342e9e5c0e",
+            "content": {
+                "en": "Realizing that Samus is a girl"
+            }
+        },
+        {
+            "id": "w_e9966bfe8f91033e5a33d5e59e3470f6f46313a9",
+            "content": {
+                "en": "Reggie Fils-A-Mech"
+            }
+        },
+        {
+            "id": "w_096379f0cc0215ea730bb893ad05be75cf8d4fb6",
+            "content": {
+                "en": "Sega doing what Nintendon't"
+            }
+        },
+        {
+            "id": "w_a5f1bc406ce2efcd1d657b215a5ceff183a065c0",
+            "content": {
+                "en": "Sending Pikmin to their doom for your amusement"
+            }
+        },
+        {
+            "id": "w_b9d7587b273770fd0620af8f659f6a6bd10b2530",
+            "content": {
+                "en": "Shitty Club Nintendo rewards"
+            }
+        },
+        {
+            "id": "w_8c202510e7aa0817d8174288b5df9c1f01f166d3",
+            "content": {
+                "en": "Suggestive Wario Ware: Smooth Moves poses"
+            }
+        },
+        {
+            "id": "w_64b0be2e8c24eafc5937dcd5d86639673f0db057",
+            "content": {
+                "en": "Suicide moves in Smash Bros."
+            }
+        },
+        {
+            "id": "w_d14b3ed0e5f1d32bf25e45cd01066cd751374023",
+            "content": {
+                "en": "T. Yoshisaur Munchakoopas"
+            }
+        },
+        {
+            "id": "w_e59cf97a78a44f621123b6145f8afd09a8cb9011",
+            "content": {
+                "en": "Tearing holes into your hand because of Mario Party 1 spinning mini-games"
+            }
+        },
+        {
+            "id": "w_e276e26eb50c2f1d93a3614b2aeb44c676a772c5",
+            "content": {
+                "en": "That creepy mofo Mr. Mime"
+            }
+        },
+        {
+            "id": "w_364cf0a1b2e6c6fdfe6f4662381212ce0ee7d657",
+            "content": {
+                "en": "That friend who picks Meta Knight every round"
+            }
+        },
+        {
+            "id": "w_73936ccb35e9cc8994f386c84333483ba33a83c5",
+            "content": {
+                "en": "The acid trip known as Rainbow Road"
+            }
+        },
+        {
+            "id": "w_50b4f4457119472978e0ced578e6a7b653e4d7bf",
+            "content": {
+                "en": "The Baby"
+            }
+        },
+        {
+            "id": "w_2e338e77e52af242ee5389a166cb366b056ee308",
+            "content": {
+                "en": "The biggest fucking dick of them all, Resetti"
+            }
+        },
+        {
+            "id": "w_7e349cc887657289e8a2b49d28822903c4386926",
+            "content": {
+                "en": "The Blue Shell"
+            }
+        },
+        {
+            "id": "w_603683453872d1e0bdff030f55f05858a92ec072",
+            "content": {
+                "en": "The depression that ensues after catching them all"
+            }
+        },
+        {
+            "id": "w_104851ddfdce9c5eea7146a3a9b254dbd645b40e",
+            "content": {
+                "en": "The DS, also known as the money printing machine"
+            }
+        },
+        {
+            "id": "w_51d639c0338f3ed100364fe6086fda0232fbe2e0",
+            "content": {
+                "en": "The goddamn Donkey Kong rap!"
+            }
+        },
+        {
+            "id": "w_6a77cd3c54290dba8cccb6e6b87b84f608ed1727",
+            "content": {
+                "en": "The Luigi death stare"
+            }
+        },
+        {
+            "id": "w_7bbfba860b16487fb4ebe52cde70ddbf0d2c91c8",
+            "content": {
+                "en": "The reality that Princess Peach is married to, and has children with, Bowser and Mario keeps interrupting their relationship by kidnapping her endlessly making Bowser rescue her"
+            }
+        },
+        {
+            "id": "w_40408c89421fa36284d4eea76333426753a3f172",
+            "content": {
+                "en": "The realization that every power up in Mario games are drugs"
+            }
+        },
+        {
+            "id": "w_b49994f1057be9670e1ba82be1e01eeb00fae059",
+            "content": {
+                "en": "The Villagers soulless eyes"
+            }
+        },
+        {
+            "id": "w_c8fa9d70224e9b33f157694734287d0204150d74",
+            "content": {
+                "en": "The Wombo Combo"
+            }
+        },
+        {
+            "id": "w_e555346f84c6d783f75030485efe1277a06277ab",
+            "content": {
+                "en": "Tingle"
+            }
+        },
+        {
+            "id": "w_913c93cf0af4f89678a898f3fecd79866deea456",
+            "content": {
+                "en": "Tom Nook forcing you to take out loans"
+            }
+        },
+        {
+            "id": "w_5bb19986b59ce48baa7effe6c94a71f06222a3b7",
+            "content": {
+                "en": "Uncle Androooossss"
+            }
+        },
+        {
+            "id": "w_1cf407db1ca6e957567e2554e0b2cb2c4fb1644b",
+            "content": {
+                "en": "Wario laughing at every mistake you make"
+            }
+        },
+        {
+            "id": "b_052b48c904213aea942b549e0b945536a5d952a6",
+            "content": {
+                "en": "Bowser&apos;s new scheme to kidnap Princess Peach involves ______ and ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9bce7e60676b7451656c56d8eba63dc0a82015b6",
+            "content": {
+                "en": "Coming exclusively to Smash Bros 3DS, the newest and deadliest item ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_997ca01f2780d861fda9579ace484ad978600875",
+            "content": {
+                "en": "Footage of Nintendo Land 2 shows a park attraction based around ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_081eb6734d7e0b4748c4f5b3d047450c19232ecc",
+            "content": {
+                "en": "In an attempt to gain hype for the Wii U, Nintendo has created an ad campaign about ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a556fa6e15955fa7cdc2349750f81ffbb59edc5",
+            "content": {
+                "en": "In Mario Kart, I went from first place to last in a matter of seconds thanks to ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_847e43a204905a808224899b4e46ca90441ffeef",
+            "content": {
+                "en": "In order to save Nintendo, Shigeru Miyamoto while doing a lot of drugs, had an idea to put ______, ______, and ______ into a game."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_d73cd480898d15af2fa97ee6947ab1c9640f7ee3",
+            "content": {
+                "en": "In todays Smash Pic of the Day, Sakurai shows off ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f80353c5a186c0771102e49b63817435f1a218e6",
+            "content": {
+                "en": "Introducing a new Kong to the family, ______ Kong!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1041f55a354e7d1c4ba1d709bad3b6b770d68d96",
+            "content": {
+                "en": "It&apos;s on like ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b2d47ccd7ea5d744ae401d902ffcc5e24603b08",
+            "content": {
+                "en": "Kirby gained the power of ______ after eating ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_836ee99a339be6c8bb30e486e4f80e38729ff519",
+            "content": {
+                "en": "Kirby is making the ultimate soup and his secret ingredient is ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2cd1a84e90747d4ed6336e005aee9e7787613127",
+            "content": {
+                "en": "Little Mac uses ______ as free weights for his daily workout routine."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9be6831891563c855ce8fbc7bd92d5932bee45a1",
+            "content": {
+                "en": "My neighbor Flurry the mouse wanted me to deliver ______ to Elvis the lion and they gave me ______ in return"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4963ece679f38f3001dcc31ccf8a4025b16c6962",
+            "content": {
+                "en": "My Nintendog brought me back ______ from our walk"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a744fee743f72216d3665ba98c9ad9b2a6c08499",
+            "content": {
+                "en": "Star Fox and his crew, in their new adventure, must save the ______ system"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93184b21cbf6a45054de4ff0c925b83b64e427d1",
+            "content": {
+                "en": "Thank you Mario! But our ______ is in another castle!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_13bc81de1126804cf9b453861886f580d6c638a8",
+            "content": {
+                "en": "The latest Mario Party will have a mini-game based off of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4b3c7826f235875cde76c5a7974a64e37012fa4e",
+            "content": {
+                "en": "The new Pok&#233;mon game has changed everything. They made ______ a type..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e71f0fd13069a505cf181f373b8ce32f8b78e86d",
+            "content": {
+                "en": "The new Zelda game is going to be weird. It&apos;s called the Legend of Zelda: ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36bba085f69aca86638fe3dc79444fd1182c7a46",
+            "content": {
+                "en": "What did Nintendo add to Samus&apos;s Zero Suit to make her even hotter?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e32a855147184f0f2daa343980efc5ad6501910c",
+            "content": {
+                "en": "What did Wario eat that gave him bad gas?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fad6bb9c5765e5867b22d3079fc14b74b7ec82ca",
+            "content": {
+                "en": "What did your name your Nintendog?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7f998803685bb1e502c3ef3ac79244b54ae29531",
+            "content": {
+                "en": "What did Zelda reward Link with when he saved Hyrule for the umpteenth time?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_51099005a0b0f3d017d717c3dc48a658689633ae",
+            "content": {
+                "en": "What made Captain Falcon shed a single tear?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_206c32ea1f86333fa63c5cb808625d1737dc15e5",
+            "content": {
+                "en": "What needs to be a Mii?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da70bacf6e2d6e643c1e3a1c6fc8d181650549cd",
+            "content": {
+                "en": "What&apos;s worse than getting a star stolen from you on the very last turn?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9f4d8ef52c6bec34c22329622c7a628f77d950b2",
+            "content": {
+                "en": "Why are all of Donkey Kong&apos;s Bananas missing?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a357c5591dd232e03ddc96586fcf506c33aefd05",
+            "content": {
+                "en": "You need 40 Pikmin to carry ______ back to your ship, so you can sell it for profit"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0b253796fea787d939671aff9df41e58cad5ef10",
+            "content": {
+                "en": "______ 64"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_19b7be920eda937d497fa2a593bbb69d3f591132",
+            "content": {
+                "en": "______ a new challenger approaches"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5959dbf75c7d200753b96a77e411cd54eb63acc9",
+            "content": {
+                "en": "______ for an engine + ______ for wheels, + ______ for a glider = best Kart ever!"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_b0f13a8338601073f7a3143c802747d4f4ef2350",
+            "content": {
+                "en": "______! I choose you!"
+            },
+            "pick": 1
+        }
+    ]
+}

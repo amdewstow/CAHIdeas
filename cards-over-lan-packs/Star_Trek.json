@@ -1,0 +1,172 @@
+{
+    "id": "Star_Trek",
+    "name": "Star Trek",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_e8790cc0ef55f036b272d11e70b09d5fd622acdf",
+            "content": {
+                "en": "(something about a final exam that is impossible to pass)"
+            }
+        },
+        {
+            "id": "w_790145234f9d1b343b7bfe3b74260a6e6d42b663",
+            "content": {
+                "en": "A Klingon having his ass handed to him by an android."
+            }
+        },
+        {
+            "id": "w_5d8e00633ad2007fc4082d00df192f5a48ee375d",
+            "content": {
+                "en": "A password-protected Holodeck scenario"
+            }
+        },
+        {
+            "id": "w_03f1dcce617a2ace34caabc12588da53901169cb",
+            "content": {
+                "en": "Alexander Rozhenko"
+            }
+        },
+        {
+            "id": "w_8e1b51dfdded6262def15d0ddbb683ff03e8cb96",
+            "content": {
+                "en": "Being embarrassed by being genetically engineered."
+            }
+        },
+        {
+            "id": "w_cd99ae99bd7937000f5facc279e202056956b51e",
+            "content": {
+                "en": "Cleaning up Will Riker&apos;s spunk after one of his halodeck sexcapades."
+            }
+        },
+        {
+            "id": "w_c6ddd7cfa7e8cd877524152d71b6f36f4100ea2a",
+            "content": {
+                "en": "Gold-pressed latinum."
+            }
+        },
+        {
+            "id": "w_d1d10f46c3e6eac2bddee7996ccb31166ce85233",
+            "content": {
+                "en": "Having a five year mission wile only having three seasons."
+            }
+        },
+        {
+            "id": "w_c2b23a6db757bc1c9bdfd913c62253190c0235b7",
+            "content": {
+                "en": "Having two Spocks in one Universe."
+            }
+        },
+        {
+            "id": "w_c1006badf641cea8c4b4c8fc46dbd2c3d2d10416",
+            "content": {
+                "en": "Ignoring the Prime Directive"
+            }
+        },
+        {
+            "id": "w_a96889ec35db13630fa9f706946c4d545b0a2167",
+            "content": {
+                "en": "Klingon mating practices"
+            }
+        },
+        {
+            "id": "w_4d1579840497e7964b04142e18aba18110cfe5de",
+            "content": {
+                "en": "Locutus of Borg"
+            }
+        },
+        {
+            "id": "w_86dfa3a6baa5d660c41fbf3ba448fefdef78cd55",
+            "content": {
+                "en": "Professor Moriarty being trapped in a halodeck program."
+            }
+        },
+        {
+            "id": "w_da1f6e67600df0a4816c79fda581c5523f3f466a",
+            "content": {
+                "en": "Protecting the empire by pretending your father was a Romulan collaborator."
+            }
+        },
+        {
+            "id": "w_42725c20edce3d2f8396223f269502306b45f3dc",
+            "content": {
+                "en": "The Picard and Dr. Crusher hidden romance."
+            }
+        },
+        {
+            "id": "w_dbbff86622f389a984539ba26da6380e0f8cbb0e",
+            "content": {
+                "en": "Tribbles."
+            }
+        },
+        {
+            "id": "w_d4a18d767ffb641582fe699631599039a43f21c2",
+            "content": {
+                "en": "Warf, Son of Mogh"
+            }
+        },
+        {
+            "id": "w_8644ad7fa31292df6145aa4967c40ce833e635c6",
+            "content": {
+                "en": "Worf being to human for his fellow Klingon and to Klingon for Starfleet."
+            }
+        },
+        {
+            "id": "w_7a497a00d100a39dcc025c31293be21dd07d7826",
+            "content": {
+                "en": "Your out of your Vulcan mind."
+            }
+        },
+        {
+            "id": "b_68795eeb143aa487c0da21652276c65151856640",
+            "content": {
+                "en": "Beam me up, ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_825ee85f0cdee006848d2442d6252f42314dd08d",
+            "content": {
+                "en": "Darmok and Jalad at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_42b2840a8aeeba48c006d5e6d01294536d8e7996",
+            "content": {
+                "en": "I am ______ of Nine."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d2843a39d54d2261cac7eda989e66750a0f0c388",
+            "content": {
+                "en": "I suggest a new strategy, ______ : let the Klingon win."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_92fac73001ff8f24215d0748d84dd512e38d9e67",
+            "content": {
+                "en": "I&apos;m a ______, and not a ______, Jim."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_79533339c44e576a5edde4e90ef4399799b8d390",
+            "content": {
+                "en": "Space the final ______, these are the voyages of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a02583a8f91f10c3c362c92f58b8f06ba1b4a10e",
+            "content": {
+                "en": "______ is dead, Jim."
+            },
+            "pick": 1
+        }
+    ]
+}

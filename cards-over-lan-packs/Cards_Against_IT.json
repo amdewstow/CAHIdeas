@@ -1,0 +1,405 @@
+{
+    "id": "Cards_Against_IT",
+    "name": "Cards Against IT",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_95e6a1f623608fe8795a5f2fe7d69990f687eee2",
+            "content": {
+                "en": "0118 999 881 999 119 725...3"
+            }
+        },
+        {
+            "id": "w_16ae824f0e8dcbab4c5942c69289152108c87759",
+            "content": {
+                "en": "5000 free AOL CDs"
+            }
+        },
+        {
+            "id": "w_9f5a2677bfe716a7439d90f325ef8e8a2041883c",
+            "content": {
+                "en": "a bastion host"
+            }
+        },
+        {
+            "id": "w_dbb59234b4e391c24b8d30220d077fad3bdfc82b",
+            "content": {
+                "en": "a coffee stained mousepad"
+            }
+        },
+        {
+            "id": "w_0969177302c4f3db59eec7ce09a735573e84d151",
+            "content": {
+                "en": "a faulty crossover cable"
+            }
+        },
+        {
+            "id": "w_f0774f51f7ebc89b16167a6df62ef3349d46dc35",
+            "content": {
+                "en": "a fingerprint scanner"
+            }
+        },
+        {
+            "id": "w_6874d181e440709bbae704886aa8118c7b3977c5",
+            "content": {
+                "en": "a flaky VPN connection"
+            }
+        },
+        {
+            "id": "w_3813762491e4fffd0ad7d6b51fce5832a81c58de",
+            "content": {
+                "en": "a hard drive degaussing machine"
+            }
+        },
+        {
+            "id": "w_f251a9ec72fdfb1ec6d8eb8d241878162e4854f9",
+            "content": {
+                "en": "a helpdesk ticket to \"fix the cpu\""
+            }
+        },
+        {
+            "id": "w_beb206acb51eebe898a08fecada176daa38cc6e8",
+            "content": {
+                "en": "a KVM with a broken M"
+            }
+        },
+        {
+            "id": "w_274d978b848585b8624b7056d776c255fa47ea1c",
+            "content": {
+                "en": "a larger database connection pool"
+            }
+        },
+        {
+            "id": "w_9304e26db57a4dbde03fc48e5f4f7b95e37fe4e9",
+            "content": {
+                "en": "a laser pointer"
+            }
+        },
+        {
+            "id": "w_8638565138061b13d8859c25c041247d078749b8",
+            "content": {
+                "en": "a mouse connected serial -&gt; ps\/2 -&gt; usb"
+            }
+        },
+        {
+            "id": "w_c3478927b1f9d520e424faf57b6dec53035d1378",
+            "content": {
+                "en": "a multitool with a bottle opener"
+            }
+        },
+        {
+            "id": "w_c833693ff97a0820f7ec7e1f825205b795c1331f",
+            "content": {
+                "en": "a one button mouse"
+            }
+        },
+        {
+            "id": "w_88011acbf8a88461b2f40454c4b9e583e8bcd50a",
+            "content": {
+                "en": "a PEBCAK"
+            }
+        },
+        {
+            "id": "w_3784883489f9696b39ed762e8414363b91c26c80",
+            "content": {
+                "en": "a rainbow pack of 3.5\" floppy disks"
+            }
+        },
+        {
+            "id": "w_11ff8efeda4d5ab440bd5ad2e9876e796ee2d116",
+            "content": {
+                "en": "a razorsharp punchdown tool"
+            }
+        },
+        {
+            "id": "w_04e8b75898a23831615430bb63800cf8527b92bb",
+            "content": {
+                "en": "a salvaged motherboard with a parallel port"
+            }
+        },
+        {
+            "id": "w_c4b857114d8d13698a6e39099173a0a684189ea0",
+            "content": {
+                "en": "a scanning electron microscope"
+            }
+        },
+        {
+            "id": "w_bcaebaac934464eb138416e904ed17d376f6722b",
+            "content": {
+                "en": "a serial port mouse"
+            }
+        },
+        {
+            "id": "w_efd96f0f4440f175716b0133f32b974cb45bea20",
+            "content": {
+                "en": "a shell script written in OCaml"
+            }
+        },
+        {
+            "id": "w_ba111ccc1bd547ff9b430a41a70a705b00ee7221",
+            "content": {
+                "en": "a usb stick found in the parking lot"
+            }
+        },
+        {
+            "id": "w_78d9e0a8817323b8eaa6e461d52d25a4615a3793",
+            "content": {
+                "en": "a webcam pointed at the coffee maker"
+            }
+        },
+        {
+            "id": "w_8fc11fa701becc339af50782bb25b55d35f00fae",
+            "content": {
+                "en": "an Arduino running NetBSD"
+            }
+        },
+        {
+            "id": "w_0a0ba2f34c14694bbfe6d408702e8b1be3567103",
+            "content": {
+                "en": "an IP Webcam with a default password"
+            }
+        },
+        {
+            "id": "w_ae64e2258bcc4f779c1762811e933776e11d5a8f",
+            "content": {
+                "en": "An RJ-45 crimping tool"
+            }
+        },
+        {
+            "id": "w_779e7fb5103b1b0b7893736eb6a4adcc3c61cb0d",
+            "content": {
+                "en": "Angelina Jolie in Hackers"
+            }
+        },
+        {
+            "id": "w_f77b66aa27624e6d2cb8a5d7f680a3e3ac2455d9",
+            "content": {
+                "en": "Clippy"
+            }
+        },
+        {
+            "id": "w_e344367407cec5f8b7405d1597fc01067b79a2a0",
+            "content": {
+                "en": "CryptoLocker"
+            }
+        },
+        {
+            "id": "w_149b7f0fbc60c8192d2812b226db309c6ff034d4",
+            "content": {
+                "en": "Edward Snowden"
+            }
+        },
+        {
+            "id": "w_90b9f3dca87bb2deb8a750f65e3f11e7eb87cf36",
+            "content": {
+                "en": "Have you tried turning it off and on again"
+            }
+        },
+        {
+            "id": "w_3a82d6c6d58cae038c1f5670376b73c09ff52405",
+            "content": {
+                "en": "manually fixing 100\/1000 auto negotiation"
+            }
+        },
+        {
+            "id": "w_a2f8f7fa195a080a22a689041daa8f2044f9f336",
+            "content": {
+                "en": "my password"
+            }
+        },
+        {
+            "id": "w_b4bd83ab2218c1419dc5055d188cba155128f5c0",
+            "content": {
+                "en": "my rooted phone"
+            }
+        },
+        {
+            "id": "w_ea73724777391deadda488167c6cffec6882ba73",
+            "content": {
+                "en": "pinging 127.0.0.1"
+            }
+        },
+        {
+            "id": "w_6e47427e20392359d16901a1bc93e0b0c2666d3d",
+            "content": {
+                "en": "rebuilding a RAID array"
+            }
+        },
+        {
+            "id": "w_a1286d82fadb36fece709534bb574bd3e55b888b",
+            "content": {
+                "en": "rm -rf \/*.*"
+            }
+        },
+        {
+            "id": "w_6e3a0e0951193d35fe7cb4331810d09c444a8e9c",
+            "content": {
+                "en": "Rotating the Backup Tapes"
+            }
+        },
+        {
+            "id": "w_7c93c5ae54720139975306912dfb88ed32875e92",
+            "content": {
+                "en": "scanning a little too much with nmap"
+            }
+        },
+        {
+            "id": "w_7db4e11899f286fd6b2e33ad5604c3d0150fcd10",
+            "content": {
+                "en": "script kiddies"
+            }
+        },
+        {
+            "id": "w_2c1bad84552df754818928f43a54047f695c4fca",
+            "content": {
+                "en": "Stuxnet"
+            }
+        },
+        {
+            "id": "w_17194aa81955e51d272459e628737e341cc68969",
+            "content": {
+                "en": "the server is down"
+            }
+        },
+        {
+            "id": "w_1d0841513c668421610027a79323e4dc27094c4c",
+            "content": {
+                "en": "Two Factor Auth"
+            }
+        },
+        {
+            "id": "w_ad3da317808bf5503b60bba33525b86cf7422b7e",
+            "content": {
+                "en": "viewing web filter block logs"
+            }
+        },
+        {
+            "id": "b_083fe3ad4b083c454b085df01b88ee9b9c7f45a8",
+            "content": {
+                "en": "A helpdesk call to fix ______ with ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_160eb22ed51dd9d825d45309f22279f6fbaa244a",
+            "content": {
+                "en": "Forgetting ______ in the datacenter is a firing offense"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_692f0f12c93f7cfb910d8de050100178d9c0b5bf",
+            "content": {
+                "en": "Forgot my badge this morning and had to use ______ to get in"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b309381a771a762b00dbd0adac01e220b0748d2b",
+            "content": {
+                "en": "Had a user fall prey to a sophisticated ______ phishing attack"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8125c952497278fe4839a6808ce0a606684349e6",
+            "content": {
+                "en": "I got this coffee mug from a conference about ______ back in 1997"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_edf43e30b87479a5a5de87f906d36fc52ebd39ca",
+            "content": {
+                "en": "I just got a new certification in ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fc344f3ef40db7c36418f81bf53fa9e4f50dfe1e",
+            "content": {
+                "en": "In a pinch, ______ can be used to remotely reboot a server"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0b3c3b6c363f6ff39f27a8ac338c4fa980434ac4",
+            "content": {
+                "en": "Nothing transfers data faster than ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9226399d1a24f88c96336db34cd9e82e41dda104",
+            "content": {
+                "en": "That red plunger switch on the wall launches ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a8d299a915911ce45157b7c6c798645ef012f46",
+            "content": {
+                "en": "The hot new videogame this year is ______ Simulator!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_671af74e1a3253b913f84244c7f63ed1168088d0",
+            "content": {
+                "en": "The last consultant was fired over ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_418b8d4539b027fcafd0a12302d0de02a392c843",
+            "content": {
+                "en": "The new IT Director has a sick tattoo of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b085d33e7fc75704df1adabb5aa471ce97423f94",
+            "content": {
+                "en": "Two factor auth with ______ and ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_26eba187d03bf678f48e7b2b0dc6c82aa5e449a8",
+            "content": {
+                "en": "We're going to use ______ instead of updating to IPv6"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ae2b1d00f9c15db8f7670e1cea89b670ec26d96",
+            "content": {
+                "en": "______ is Layer 8 of the OSI Networking Model"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_00e28cd3bc45ee5d4fa2db62675b8f25515310d0",
+            "content": {
+                "en": "______ is now included for free with every OS Update"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f8b0103c8a40ccba5b8db493e5f80fe27c7530c9",
+            "content": {
+                "en": "______ is now required every time you restart ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5a0886a9fd77b6187e258d72427295386b537a4a",
+            "content": {
+                "en": "______ is the last stage of our ______ rollout"
+            },
+            "pick": 2
+        }
+    ]
+}

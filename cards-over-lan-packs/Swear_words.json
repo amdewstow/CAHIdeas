@@ -1,0 +1,636 @@
+{
+    "id": "Swear_words",
+    "name": "Swear words",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_f1f70f911517063b27d9c887a83dfcf7c9027172",
+            "content": {
+                "en": "Jockey"
+            }
+        },
+        {
+            "id": "w_1eaf6a124c31b5f21a080c24f9cae4723f7456df",
+            "content": {
+                "en": "Junkie"
+            }
+        },
+        {
+            "id": "w_27463dfc8eac3eaece9dac599eaac69725e1ef37",
+            "content": {
+                "en": "Licker"
+            }
+        },
+        {
+            "id": "w_85935e3b94522997f3901fce5be967ae2067d03b",
+            "content": {
+                "en": "Lips"
+            }
+        },
+        {
+            "id": "w_c68d7a92c1328dbfd4b78df4cd10ededb10b941e",
+            "content": {
+                "en": "Lover"
+            }
+        },
+        {
+            "id": "w_4bd0ec65b8f729d265faeba6fa933846d7c2d687",
+            "content": {
+                "en": "Monkey"
+            }
+        },
+        {
+            "id": "w_e63d88bd7bf3060458dceda03c30ccdbc80c037b",
+            "content": {
+                "en": "Monster"
+            }
+        },
+        {
+            "id": "w_fa38b61dec68f31c932739f9077f9cb724776bb5",
+            "content": {
+                "en": "Munch"
+            }
+        },
+        {
+            "id": "w_4cf0008e44515e16b04b678fb6b944f6f218ad8a",
+            "content": {
+                "en": "Muncher"
+            }
+        },
+        {
+            "id": "w_7509f5c34f04203b87fa4023ac65575dc0ca91d6",
+            "content": {
+                "en": "Nugget"
+            }
+        },
+        {
+            "id": "w_2eda078fdca9145ee71119fc787c2df12ad03a4f",
+            "content": {
+                "en": "Packer"
+            }
+        },
+        {
+            "id": "w_9bb884271851f31149863a7cfd0008dd7783070f",
+            "content": {
+                "en": "Pinhce"
+            }
+        },
+        {
+            "id": "w_dce109d49823084600b80720242d87140dd6592f",
+            "content": {
+                "en": "Plug"
+            }
+        },
+        {
+            "id": "w_07355ac89ef464ef700cd3369269e60b67eb6594",
+            "content": {
+                "en": "Pooper"
+            }
+        },
+        {
+            "id": "w_ea59bec0df3259b499ac32964e3967e0fa18e485",
+            "content": {
+                "en": "Rag"
+            }
+        },
+        {
+            "id": "w_bc9e9c20201c773596e1616f934c9f80b1b78a24",
+            "content": {
+                "en": "Rammer"
+            }
+        },
+        {
+            "id": "w_66342807bbcfcffcf3a39764b041c213214f6bd7",
+            "content": {
+                "en": "Sandwhich"
+            }
+        },
+        {
+            "id": "w_dd000041dd2b776c467321009380180359278180",
+            "content": {
+                "en": "Shitter"
+            }
+        },
+        {
+            "id": "w_a44324057bbdae8c00579d0e75b73e0e3a2fd7d9",
+            "content": {
+                "en": "Skank"
+            }
+        },
+        {
+            "id": "w_079e204887ecd92e82bc65b28bbd112e088cd11a",
+            "content": {
+                "en": "Slammer"
+            }
+        },
+        {
+            "id": "w_1d4b2499dc55fdfa274cdad9b6a178d674db1825",
+            "content": {
+                "en": "Slime"
+            }
+        },
+        {
+            "id": "w_9c7bb6580dd0e192c0995728042afdaa47231813",
+            "content": {
+                "en": "Sniffer"
+            }
+        },
+        {
+            "id": "w_0ae42b6fdac89df5642457145e7cab54a0374a4e",
+            "content": {
+                "en": "Stain"
+            }
+        },
+        {
+            "id": "w_ab806a189ef3c6644a0f779526ceeadb738db74e",
+            "content": {
+                "en": "Sucker"
+            }
+        },
+        {
+            "id": "w_3e5a65423261d74c8f83fb59e7f434d326804e7f",
+            "content": {
+                "en": "Tickler"
+            }
+        },
+        {
+            "id": "w_868bbfb04f81699a0a86d2d7613afba4446cc800",
+            "content": {
+                "en": "Twister"
+            }
+        },
+        {
+            "id": "w_197333545fd0ccd4608f57cdda6db4df8cea2185",
+            "content": {
+                "en": "Wad"
+            }
+        },
+        {
+            "id": "w_dcc4f1b8a4fe22577b02f3deed838106f8a24e87",
+            "content": {
+                "en": "Waffle"
+            }
+        },
+        {
+            "id": "w_6ab58a288094fe0cc6baeb90e2c785dc2d576f95",
+            "content": {
+                "en": "Wanker"
+            }
+        },
+        {
+            "id": "w_a0e0273a78ad5d7c45c05d7e90249bd1812d77df",
+            "content": {
+                "en": "Wipe"
+            }
+        },
+        {
+            "id": "w_9f9beafc3c876d886e75f5dec0b948cf22717195",
+            "content": {
+                "en": "Wrangler"
+            }
+        },
+        {
+            "id": "b_1626dec89b21e4b90c7031436232496ac720fb42",
+            "content": {
+                "en": "Anus ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_22da35a829b0848e15f7c8051761a3a2b5e5731c",
+            "content": {
+                "en": "Ass ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a7497425cacca7dbdff7c2d2ae0d842429d93d68",
+            "content": {
+                "en": "Ball ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ac801431ef0093725543a386c54754b1bc3029e3",
+            "content": {
+                "en": "Beef ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f3a9a4d93d6065d996d4515f65a6c8f09a01056f",
+            "content": {
+                "en": "Bitch ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_16542b8b326098a83f88f8b65b43df81bdc8b935",
+            "content": {
+                "en": "Butt ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6972a4efeab7aadb1331ae743e3dcdf5de941cef",
+            "content": {
+                "en": "Clit ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5a67f80c0b7523b9edb998b97d4f85425d81333a",
+            "content": {
+                "en": "Clown ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d9d1864e47be04d13f951e0b9c70a06fe9c6e160",
+            "content": {
+                "en": "Cock ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c2d603d367b7f8af5ab0d3ae9465949700659fef",
+            "content": {
+                "en": "Cooch ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2d707d725518f07bec9ef1f9682ea3822fc8882a",
+            "content": {
+                "en": "Crap ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_37a1b0abface3275e27d3838534645eb6d115855",
+            "content": {
+                "en": "Cum ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da9fd191ef604835d7077d029490e7689f8b729e",
+            "content": {
+                "en": "Cunt ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d5ad001df6750a66f1655a6fa9517aaf3cccc64",
+            "content": {
+                "en": "Diaper ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a395beaebf3504743aebcd0508a682785667e272",
+            "content": {
+                "en": "Dick ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6f18a26b5f4ab82475a8a3792f0f4c63cfa814c6",
+            "content": {
+                "en": "Dildo ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1f0f35fb9a3131e9b695ae4834fe4887faf41cc",
+            "content": {
+                "en": "Douche ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4248bfc8661209412eea3fe207da036bb38e8fe2",
+            "content": {
+                "en": "Fanny ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d95fc896ed16c6ef31f87d1cb0bfa56b31ee930d",
+            "content": {
+                "en": "Fart ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8f63c1b9b2d65fcb438b5bb37575b94ad1a541e1",
+            "content": {
+                "en": "Feces ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_aa1aafea4a0dee8fd8cf16e57388533cda0357c9",
+            "content": {
+                "en": "Fetus ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6733fdc469d83f8013a1558eab9950f8bc047486",
+            "content": {
+                "en": "Fuck ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36145eec47c5d219a7803107b95bebbc299e054e",
+            "content": {
+                "en": "Gina ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_32ab8f5a09226cd171e9f0c7da27f5fadc9c62a4",
+            "content": {
+                "en": "Granny ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4399b646d623ff033b90590c13e8faff42d3532a",
+            "content": {
+                "en": "Ho ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e89cc6837a5f68fa80e9509f82946cc3915956cc",
+            "content": {
+                "en": "Jerk ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5e69ed5e0a48166cc51b2f3da3b23d923940980b",
+            "content": {
+                "en": "Jizz ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18969155b040844a41079acd1528a81ef87c9282",
+            "content": {
+                "en": "Juice ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_224f8c0a2faa875d4b304849fb9da33bbc66d927",
+            "content": {
+                "en": "Meat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c54e267ab5f5b36dfec89c226c30de9602704342",
+            "content": {
+                "en": "Mother ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8363744b605c490538f18945a7ad0e061f6f6463",
+            "content": {
+                "en": "Mouth ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0175787e571c5fafa132f6a011c4c5073a5d0fc3",
+            "content": {
+                "en": "Muff ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_972caf15533079c71e1d5a1a15893b27ddbb3e7e",
+            "content": {
+                "en": "Nipple ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_285fcc61c265f6684d56354b7a2501ca871b9617",
+            "content": {
+                "en": "Nut ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c4ac09744a9bbdb81e480167e208768e3b1e2a3",
+            "content": {
+                "en": "Panty ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bbe0eca3ee998464da0e8919b9863882f634d3b",
+            "content": {
+                "en": "Pecker ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d6ed08ed766a9317123d4b93235fabe9dde2b1d3",
+            "content": {
+                "en": "Penis ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0059678e43e058ac9f4eb0b5678e10e3ded62f40",
+            "content": {
+                "en": "Piss ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e9e6b519ebc95bed12b57a81c3bab6869930d1cb",
+            "content": {
+                "en": "Poop ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6d764a1fefb1776d228cd6a0ff2ae023c12e66cd",
+            "content": {
+                "en": "Pork ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d2844cf6896231c7884ce74f1ea378fbc24f9771",
+            "content": {
+                "en": "Prick ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2c4397a0bbad53762ea4889ff2bd31dfb122e529",
+            "content": {
+                "en": "Pube ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9b060a74e569470307f51b62c2d8221214bb616f",
+            "content": {
+                "en": "Pussy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d864eb0b2d95b5329b330f6564aa6ad27e37eb38",
+            "content": {
+                "en": "Queef ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc5e54f6838382603bd1ac389b6eb0df9454bbd4",
+            "content": {
+                "en": "Rectum ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_30d59320497877a45d5a20816382cedb906e2be5",
+            "content": {
+                "en": "Retard ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f8ebc240ccdbe6bad26494ced778411d7e4b6f49",
+            "content": {
+                "en": "Sack ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0402114e79f8dd9ba749c77dc8ea9e21b09540d",
+            "content": {
+                "en": "Schlong ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_14e8aaadf347fae940dc5a2d72c9f5539dc8ee68",
+            "content": {
+                "en": "Scrotum ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_faf5c18bee5206063f6e60d711cf3eec770c5e6f",
+            "content": {
+                "en": "Scum ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_453b54fbc39d0f93f3dd75bed6d4a6e690f4cf0a",
+            "content": {
+                "en": "Shit ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d111b249c5b896c56fb057449dd5c7a5b98d011a",
+            "content": {
+                "en": "Sissy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa6615c288a812f513c4668910c0249d77323f38",
+            "content": {
+                "en": "Slut ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e5fca6642da7698e15f8fff30d97650b09ded19f",
+            "content": {
+                "en": "Snot ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5623bfb6315ff690d8ed2dcb095d279938991b26",
+            "content": {
+                "en": "Sperm ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_62ecb679b517d0ce213ce3c924f42a36784d4533",
+            "content": {
+                "en": "Tampon ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_abc728169f22bc04f02927dc9b5633d360899037",
+            "content": {
+                "en": "Testicle ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2b5083f66df522f8c02d05582413e1fa6d0e843b",
+            "content": {
+                "en": "Tit ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_670cf5e1e4a7aab73b426086315f522cd6e3b9a9",
+            "content": {
+                "en": "Trash ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_85a50ea7f5b0357dc386c9276b68de45fef36c91",
+            "content": {
+                "en": "Twat ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6230d329204aa030e05cb17ec87944eb4532f714",
+            "content": {
+                "en": "Weiner ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ff6faee4e6c5b8edd769db5076071980e906b271",
+            "content": {
+                "en": "Wench ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c369ac52f12fe1696837c9150970b2cfed27016",
+            "content": {
+                "en": "Whore ______."
+            },
+            "pick": 1
+        }
+    ]
+}

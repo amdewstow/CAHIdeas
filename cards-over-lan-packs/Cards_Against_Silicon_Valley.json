@@ -1,0 +1,2026 @@
+{
+    "id": "Cards_Against_Silicon_Valley",
+    "name": "Cards Against Silicon Valley",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_f4f7f7bc07ae95409badd2968a4348bc7c902d32",
+            "content": {
+                "en": "&ldquo;Culture fit&rdquo;"
+            }
+        },
+        {
+            "id": "w_dfa20998cf764cd6324739bcdca4d65b2a8091d4",
+            "content": {
+                "en": "&ldquo;Informational interviews&rdquo;"
+            }
+        },
+        {
+            "id": "w_5e49d715260af2094112ea5eae9da1b81c13637d",
+            "content": {
+                "en": "10X software devs"
+            }
+        },
+        {
+            "id": "w_487fea38551d9661c2876e5ff3eaea5d69b44018",
+            "content": {
+                "en": "3D-printed jewelry"
+            }
+        },
+        {
+            "id": "w_d1292c7dddead0b43788844b8bcad35487e2a86b",
+            "content": {
+                "en": "A backup plan"
+            }
+        },
+        {
+            "id": "w_fb88153f450aa61f16c27bde8f6ed315708413a6",
+            "content": {
+                "en": "A beta-test invite"
+            }
+        },
+        {
+            "id": "w_a7003de7dd2cf931a9a64c60a79e729af72c5899",
+            "content": {
+                "en": "A Director of Fun"
+            }
+        },
+        {
+            "id": "w_0e594ec2103e8f1d32e9a26cce0068b6c623cff3",
+            "content": {
+                "en": "A freemium business model"
+            }
+        },
+        {
+            "id": "w_f7bd9ed25d7838374bf6ccb85973de4557486ca1",
+            "content": {
+                "en": "A gesture recognition product gone horribly wrong"
+            }
+        },
+        {
+            "id": "w_26c3d59a144bc16982dd7ddff79ed953186ba1ad",
+            "content": {
+                "en": "A Harry Stebbings interview"
+            }
+        },
+        {
+            "id": "w_99be746f29860bf784e460ec1ed43b120cbdfbed",
+            "content": {
+                "en": "A hazy sense of right and wrong"
+            }
+        },
+        {
+            "id": "w_43f84379582ad0cd8e8d2819f114e4e38596a266",
+            "content": {
+                "en": "A head shape so conical, so shiny"
+            }
+        },
+        {
+            "id": "w_be2639b07e871bdd1bf6d7f1fb1daae848529750",
+            "content": {
+                "en": "A Lehman Brothers corner office"
+            }
+        },
+        {
+            "id": "w_1c5c4bd9ec8d3ba239e694577d190e883637af1b",
+            "content": {
+                "en": "A prepubescent founding team"
+            }
+        },
+        {
+            "id": "w_6615ef8ff52db206cfe268b0acf385f0985330c4",
+            "content": {
+                "en": "A quirky 404 page"
+            }
+        },
+        {
+            "id": "w_9b9706f5dbe7978ae3a77b5a1ea8d2e2e47ed32a",
+            "content": {
+                "en": "A rejection letter from the Thiel Fellowship"
+            }
+        },
+        {
+            "id": "w_5a662c1488363ab94ea873db4b997b221a423183",
+            "content": {
+                "en": "A scalable business model"
+            }
+        },
+        {
+            "id": "w_032da373b934f88e0155572df691f2bd753efbd6",
+            "content": {
+                "en": "A sick twitter handle"
+            }
+        },
+        {
+            "id": "w_f671e801be91e7c43cc5d1166da2d4ed9b2e953e",
+            "content": {
+                "en": "A sidechain for every blockchain"
+            }
+        },
+        {
+            "id": "w_3029b2fe3d340de39cd144867447361ff7bb88c5",
+            "content": {
+                "en": "A t-shirt of an early stage startup so everyone knows you took a pay cut"
+            }
+        },
+        {
+            "id": "w_c9aa7836836b425df0a704f91ad20c3e1898022a",
+            "content": {
+                "en": "A VIP pass to TechCrunch Disrupt"
+            }
+        },
+        {
+            "id": "w_a1602bb997a8ebd57f22654c179628b99decc437",
+            "content": {
+                "en": "A well-earned sabbatical"
+            }
+        },
+        {
+            "id": "w_27913055975933c3330a98197814f8e1edbaf81c",
+            "content": {
+                "en": "Accidentally pissing off the peasants"
+            }
+        },
+        {
+            "id": "w_1711df524c3dec4107797c1b0652651799752c79",
+            "content": {
+                "en": "Actually reading user agreements"
+            }
+        },
+        {
+            "id": "w_c705849b7f2f34d63d6a848814553bb49c008dec",
+            "content": {
+                "en": "Ageism lawsuits"
+            }
+        },
+        {
+            "id": "w_37310147b2ab35aaa93253ef11902044962c808c",
+            "content": {
+                "en": "Air guitar championships"
+            }
+        },
+        {
+            "id": "w_c413af1f75f725842b6fdf5db2adf0cbd67e4d9f",
+            "content": {
+                "en": "Alternative proteins"
+            }
+        },
+        {
+            "id": "w_1a0916e5921750f525c4723eed4c536ed8666b4e",
+            "content": {
+                "en": "Amazon\u2019s drone strategy"
+            }
+        },
+        {
+            "id": "w_873fd6b07623cf1f431ac094efcc5901fbd9e23c",
+            "content": {
+                "en": "An invite to Rothenberg Ventures' Founder Field Day"
+            }
+        },
+        {
+            "id": "w_82066e012ae1c47555183606078573eb725af132",
+            "content": {
+                "en": "An office ping pong table"
+            }
+        },
+        {
+            "id": "w_6ce1a640f1d9c895cf94be02df769d8e9a9e1ea8",
+            "content": {
+                "en": "An unexpected downround"
+            }
+        },
+        {
+            "id": "w_b8c4860f8374b0a047b0f6738acce81a7b8546b7",
+            "content": {
+                "en": "Andreessen\u2019s scalp polish"
+            }
+        },
+        {
+            "id": "w_bfa3d04abea84b81fd9b92d5cc5a03870446da43",
+            "content": {
+                "en": "Asking for forgiveness, not permission"
+            }
+        },
+        {
+            "id": "w_68bd7ba661378579ca7f1eb0e34799ff9bcd1dc3",
+            "content": {
+                "en": "Automated email responses"
+            }
+        },
+        {
+            "id": "w_7f5f746347535584ed9202dcf659626741407d65",
+            "content": {
+                "en": "Automating yourself out of a job"
+            }
+        },
+        {
+            "id": "w_c9299f72ffb3023e59b5af63cf1c229610794162",
+            "content": {
+                "en": "Ayn Rand references"
+            }
+        },
+        {
+            "id": "w_3005ab2555d9fccd6d6e677a380ba6c9f92c8ab6",
+            "content": {
+                "en": "Backing away slowly in a virtual reality headset, and realizing there\u2019s nowhere to run"
+            }
+        },
+        {
+            "id": "w_7dbdfd175f3d8a60343fcc13ebb8d1261d426de3",
+            "content": {
+                "en": "Bad optics"
+            }
+        },
+        {
+            "id": "w_c4de527ef21dfa1475e6d8a24d5608765f7f330d",
+            "content": {
+                "en": "Basic unit economics"
+            }
+        },
+        {
+            "id": "w_d5e028c3d17a728444d43106f7e34418c6d7dfa2",
+            "content": {
+                "en": "Becoming an angel investor"
+            }
+        },
+        {
+            "id": "w_51d3e3334de19f0d2639192f806b0dea8e3b8379",
+            "content": {
+                "en": "Being a little too enthusiastic about Facebook Marketplace"
+            }
+        },
+        {
+            "id": "w_64aca7ef711e24827072f943cb31d2a4a1e07835",
+            "content": {
+                "en": "Being in Kara Swisher\u2019s mayoral campaign"
+            }
+        },
+        {
+            "id": "w_f9dead4398f798f723f0c18dbbf8d52a14de9cfb",
+            "content": {
+                "en": "Being sued by your ex-co-founder"
+            }
+        },
+        {
+            "id": "w_f41681d1ca9cc552030b0c40972f097fef7f6a1b",
+            "content": {
+                "en": "Being unsure if you\u2019re in a cult"
+            }
+        },
+        {
+            "id": "w_c2fc98eef4d397afc8f7a4bba0b8763c8075fb65",
+            "content": {
+                "en": "Beta-testing your best friend\u2019s crappy iPhone app"
+            }
+        },
+        {
+            "id": "w_f9e9fbe226194dbccfa757acbb45a8fb665ac434",
+            "content": {
+                "en": "Birthday hats"
+            }
+        },
+        {
+            "id": "w_bdc75fbf4829576c8511e2d34a3bbff2c48c2471",
+            "content": {
+                "en": "Bootstrapped SaaS companies"
+            }
+        },
+        {
+            "id": "w_45059cbe3842caa3682b7c98bf1e0f7c707acacf",
+            "content": {
+                "en": "Bring your mom to work day"
+            }
+        },
+        {
+            "id": "w_b46ec224dba25f5fd89996c870d1e085b62bd646",
+            "content": {
+                "en": "Broken Kegerators"
+            }
+        },
+        {
+            "id": "w_6f0294e5ec7c28cc5a9f678ecf809033ca30cfe2",
+            "content": {
+                "en": "Burn rate"
+            }
+        },
+        {
+            "id": "w_22008e1f19211030bca2b25e279cd07aeacc2979",
+            "content": {
+                "en": "Burritos from the Mission District"
+            }
+        },
+        {
+            "id": "w_5435423b3e084d57f01632c489c8c55878de91ac",
+            "content": {
+                "en": "Business cards that say &ldquo;guru&rdquo;"
+            }
+        },
+        {
+            "id": "w_7921e0336af80f889163222408532e6c6810245a",
+            "content": {
+                "en": "Buying a sports team"
+            }
+        },
+        {
+            "id": "w_d2c4f7ce825ae111fb30424a33cce7b861c9ed67",
+            "content": {
+                "en": "Checking your privilege"
+            }
+        },
+        {
+            "id": "w_e1e1d611889990f04b53bbbcc982a650593a4b93",
+            "content": {
+                "en": "Chief Happiness Officers"
+            }
+        },
+        {
+            "id": "w_18a1e0152ace73492aa30774774e6341a7ef10bf",
+            "content": {
+                "en": "Class warfare"
+            }
+        },
+        {
+            "id": "w_4b01a0471a2a89a9a908af153e1883f5a0d3cdde",
+            "content": {
+                "en": "Co-living space problems"
+            }
+        },
+        {
+            "id": "w_15fb90043d35cb387d0c9dcf26ab24da9487e997",
+            "content": {
+                "en": "Co-working spaces"
+            }
+        },
+        {
+            "id": "w_c6d8f897fcf5d5374cb443a364064f4f950d6da9",
+            "content": {
+                "en": "Cold brew on tap"
+            }
+        },
+        {
+            "id": "w_61548e24eecb50e45830d28f15ee33c89d88630e",
+            "content": {
+                "en": "Community meal-sharing startups"
+            }
+        },
+        {
+            "id": "w_ce1d64772ac2098ae1a4ad67aa6951854d5e3b5a",
+            "content": {
+                "en": "Company dodgeball teams"
+            }
+        },
+        {
+            "id": "w_ca5cc2f5f60ac3bb02ac53319c553ca7d5580336",
+            "content": {
+                "en": "Comparing VCs to Jews in WWII"
+            }
+        },
+        {
+            "id": "w_14c16f97b87d34ef41a68cb57e6216a528b5e643",
+            "content": {
+                "en": "Competitive body-hacking"
+            }
+        },
+        {
+            "id": "w_423edbfb1a7eefe1f71a3b6b4ed38bceffc87105",
+            "content": {
+                "en": "Corporate innovation labs"
+            }
+        },
+        {
+            "id": "w_6dacda2ed604d84cad43d6a34f3a543dcebf44dd",
+            "content": {
+                "en": "Corporate Snapchat accounts"
+            }
+        },
+        {
+            "id": "w_f530c06eccd01139f961b3c3ae77d31e368d4ed6",
+            "content": {
+                "en": "Couchsurfing across Europe"
+            }
+        },
+        {
+            "id": "w_d5b32597d73726922c8738f3f2cd2fd9fb8b9ea4",
+            "content": {
+                "en": "Creating a time travel paradox"
+            }
+        },
+        {
+            "id": "w_ad828e7823954d5a338f73f6cee65db106476a58",
+            "content": {
+                "en": "Cricket-based protein powder"
+            }
+        },
+        {
+            "id": "w_67490f60eca9833fd7dbe58b205da0d5c0daa16b",
+            "content": {
+                "en": "Cryogenic therapy"
+            }
+        },
+        {
+            "id": "w_f50c58cb0e6c03567c39d8173dc7dddb2b60fceb",
+            "content": {
+                "en": "Daily active users"
+            }
+        },
+        {
+            "id": "w_68c3062a8792d33e1b8ff4d281d7db5bc56d718c",
+            "content": {
+                "en": "Dank memes"
+            }
+        },
+        {
+            "id": "w_c6d22b1653cac38f15c51b87a85524b885d62e81",
+            "content": {
+                "en": "Destroying the space-time continuum"
+            }
+        },
+        {
+            "id": "w_e967150caf1da60dcb30446076f8b1ad6c0fece8",
+            "content": {
+                "en": "Digital tattoos"
+            }
+        },
+        {
+            "id": "w_bf5d0bd1f3bc9278d0d7a2509d6386f8059117e9",
+            "content": {
+                "en": "Discovering a new type of waffle, and deciding to keep it to yourself for a while"
+            }
+        },
+        {
+            "id": "w_163f686b8f138fad4ce321d11bd8f832ffb1e5ee",
+            "content": {
+                "en": "Disrupting mortality"
+            }
+        },
+        {
+            "id": "w_21acc25e4c054dffec895dfb844f4faff5c3ea66",
+            "content": {
+                "en": "Distributing swag when it\u2019s swag o\u2019clock"
+            }
+        },
+        {
+            "id": "w_cb53ee92ad2bebfdb9a35c88ed37d153b76d148e",
+            "content": {
+                "en": "Diversity hires"
+            }
+        },
+        {
+            "id": "w_d7f04ffc7c156d7bb7204af250418305e91ce4bb",
+            "content": {
+                "en": "Dropping out of Stanford"
+            }
+        },
+        {
+            "id": "w_ff0d128186907986b7b8a08b073af29fde7ccd1c",
+            "content": {
+                "en": "Dropping the &ldquo;the&rdquo;"
+            }
+        },
+        {
+            "id": "w_6923aee5ea715c5be4ad8c6dd5831a9464792bd7",
+            "content": {
+                "en": "Early investment in Clinkle"
+            }
+        },
+        {
+            "id": "w_1cd7f0ffb9477b44be59a113c1c74fabadd691ea",
+            "content": {
+                "en": "Edible drones"
+            }
+        },
+        {
+            "id": "w_e606714ad71527d7405e77260b30621e6e0e5cf7",
+            "content": {
+                "en": "Egg freezing as a benefit"
+            }
+        },
+        {
+            "id": "w_e74ba437ed5103eb01734863e1ccb63cd959f7ea",
+            "content": {
+                "en": "Embracing your failure"
+            }
+        },
+        {
+            "id": "w_c7c6b6848bfb841eb94c96036a8cabb76edd16f2",
+            "content": {
+                "en": "Emotional intelligence"
+            }
+        },
+        {
+            "id": "w_77c1b4f3d36e3f36d886d27b7be401f188ac48c9",
+            "content": {
+                "en": "Eric Schmidt\u2019s tent at Burning Man"
+            }
+        },
+        {
+            "id": "w_83e76d66d83c6cb2d0565300ab20122111922455",
+            "content": {
+                "en": "Exploding hoverboards"
+            }
+        },
+        {
+            "id": "w_73167eab0805ee6784ae4ce4127148cd857a0bac",
+            "content": {
+                "en": "Failing a little too fast"
+            }
+        },
+        {
+            "id": "w_a11bd813c9ae500bbb1f6a8d31a7fe1099c728fa",
+            "content": {
+                "en": "Feeling embarrassed because you don\u2019t use enough lifehacks"
+            }
+        },
+        {
+            "id": "w_1b3c86c579f9bf8d661a1373d9f114b71b63cc6c",
+            "content": {
+                "en": "Feeling intimidated by thinkfluencers"
+            }
+        },
+        {
+            "id": "w_1f8df4d4a44114d9950c73b455ec7325adf70675",
+            "content": {
+                "en": "Feeling misunderstood"
+            }
+        },
+        {
+            "id": "w_55ffae4ab41fe83fdac2c855cec8854fa653558f",
+            "content": {
+                "en": "Fixed-gear bike salesmen"
+            }
+        },
+        {
+            "id": "w_0e03f6b8c8aafd47352eb25531153bc95c65ae88",
+            "content": {
+                "en": "Following In-n-Out on Facebook"
+            }
+        },
+        {
+            "id": "w_3e87590c4fb985d7921861366bbc10f1d98b2aa8",
+            "content": {
+                "en": "Food trucks in bad parts of town"
+            }
+        },
+        {
+            "id": "w_995e028188c4045ed7c657290c79af8d41be4894",
+            "content": {
+                "en": "Founder-first vs. shops"
+            }
+        },
+        {
+            "id": "w_4f571b8bee616f70160f31f656c9f2359d4ab0a5",
+            "content": {
+                "en": "Free hugs"
+            }
+        },
+        {
+            "id": "w_a1b175aad64e9c785136b2a6b6f243e669e7071a",
+            "content": {
+                "en": "Frothy valuations"
+            }
+        },
+        {
+            "id": "w_b734e74cd149c8f286291d2557b297f02203b72b",
+            "content": {
+                "en": "Getting acqui-hired by Google"
+            }
+        },
+        {
+            "id": "w_21c04a48f390e9c46488987614752c38bd473b5d",
+            "content": {
+                "en": "Getting caught in the Hyperloop"
+            }
+        },
+        {
+            "id": "w_805c1028d3213c36dfe76a7e8cb4a2b5fdff8b3d",
+            "content": {
+                "en": "Getting involved in a scandal that earns the suffix-gate"
+            }
+        },
+        {
+            "id": "w_40a402602ffb33d2cfec98cb89da59d58f1df039",
+            "content": {
+                "en": "Getting outed by Gawker"
+            }
+        },
+        {
+            "id": "w_5906953d50d326be519a8635c36b7668b8a4d69c",
+            "content": {
+                "en": "Getting really, really, really into house music"
+            }
+        },
+        {
+            "id": "w_3b68cb2bf8b44b8750d648f88cd363885e9a1a84",
+            "content": {
+                "en": "Getting rid of middle management"
+            }
+        },
+        {
+            "id": "w_15c46717c1c42bc73fb2f39c98e51493a3cf2a1b",
+            "content": {
+                "en": "Getting Zuckerberg-ed"
+            }
+        },
+        {
+            "id": "w_ea689ab754948a967c628302923bcb6acc8a8987",
+            "content": {
+                "en": "Glasses with clear frames"
+            }
+        },
+        {
+            "id": "w_524c448272fdb93a55314533b71a3f92cbd147e8",
+            "content": {
+                "en": "Glassholes"
+            }
+        },
+        {
+            "id": "w_1a4bbee1e4aa091ea93fac5b52bba1fc4bc12e75",
+            "content": {
+                "en": "Golden handcuffs"
+            }
+        },
+        {
+            "id": "w_998a519e8b9689e12a9f0b2b84fc45c42c10779c",
+            "content": {
+                "en": "Golden parachutes"
+            }
+        },
+        {
+            "id": "w_113adec634514af37e5424cdb5b1548b6843144c",
+            "content": {
+                "en": "Group fasting"
+            }
+        },
+        {
+            "id": "w_ade6a8eda5cf84cfa724e367d1574f13cce22607",
+            "content": {
+                "en": "Guest lecturing at HBS"
+            }
+        },
+        {
+            "id": "w_04a15b359b63e0a32630b0e9b4763f4d7507a1be",
+            "content": {
+                "en": "H1B Visas"
+            }
+        },
+        {
+            "id": "w_795d859e8acd872ec0c56d579641b01cf019ad38",
+            "content": {
+                "en": "Heading to Thailand to really get in touch with myself"
+            }
+        },
+        {
+            "id": "w_2ee2428f30ca7828476a35c12502344a8002e7e2",
+            "content": {
+                "en": "High schoolers on YouTube"
+            }
+        },
+        {
+            "id": "w_f6ea53a5f7d39b1034486be6bed1154c42251354",
+            "content": {
+                "en": "Hiring a magician for office parties"
+            }
+        },
+        {
+            "id": "w_1c54d6491ab4ca9f29a692bcdb971baf1b9d7af0",
+            "content": {
+                "en": "Hiring a Stanford dropout"
+            }
+        },
+        {
+            "id": "w_3bf617e6a5a69a731b217ca055268978a28eacfa",
+            "content": {
+                "en": "Incorporating in the British Virgin Islands"
+            }
+        },
+        {
+            "id": "w_b51baebc48145c806b1dd4d28719a57bc0bcb8ef",
+            "content": {
+                "en": "Innovative bike storage units"
+            }
+        },
+        {
+            "id": "w_c2dde6088b334d0fbbf650835a1260584ab6e936",
+            "content": {
+                "en": "Interactive video resumes"
+            }
+        },
+        {
+            "id": "w_8c7849e04af0ba6d6985a134fc77155a77316220",
+            "content": {
+                "en": "Ironic facial hair"
+            }
+        },
+        {
+            "id": "w_811da471d32f3dfdd97a8f6a3acd2047daa01202",
+            "content": {
+                "en": "Jack Dorsey\u2019s morning routine"
+            }
+        },
+        {
+            "id": "w_763202c0aa38e658464aef95df5b6b41260ac5fc",
+            "content": {
+                "en": "Jay-Z as a board member"
+            }
+        },
+        {
+            "id": "w_d8a3891825ce4911dfdfd326982df8505eb15da3",
+            "content": {
+                "en": "Just working on interesting problems for once"
+            }
+        },
+        {
+            "id": "w_d601f14b062bc1e051e1e7c740cda720958b7e99",
+            "content": {
+                "en": "Justin Bieber\u2019s Twitter followers"
+            }
+        },
+        {
+            "id": "w_9b81734902d1742283bcda098121d8dfe06298bd",
+            "content": {
+                "en": "Kanye West\u2019s debt load"
+            }
+        },
+        {
+            "id": "w_465ad6f37ebad1e181341a01881a64461c731770",
+            "content": {
+                "en": "Lack of follow-on investment"
+            }
+        },
+        {
+            "id": "w_085821b18272589ff1f09dfb407aa7390e8a2c2f",
+            "content": {
+                "en": "Larry Ellison\u2019s latest girlfriend"
+            }
+        },
+        {
+            "id": "w_4c553b57d22468b55f6239fd185a5e598e7ff4ce",
+            "content": {
+                "en": "Legos in the boardroom"
+            }
+        },
+        {
+            "id": "w_cbc2ae6119dc6f6f1f62fed4f2c68df601bfe672",
+            "content": {
+                "en": "Letting Hulk Hogan manage your lawsuits"
+            }
+        },
+        {
+            "id": "w_9f02ab82bd02d8258125a8c01e4213490466586c",
+            "content": {
+                "en": "Libertarian investment circles"
+            }
+        },
+        {
+            "id": "w_4e5334263318b54c3a2cedac71e70948e7cfb3ff",
+            "content": {
+                "en": "LinkedIn requests from one-night stands"
+            }
+        },
+        {
+            "id": "w_8eea0b4d284fd1047b406a8b085c6a0b2e2d431d",
+            "content": {
+                "en": "Listing beer pong as a skill on LinkedIn"
+            }
+        },
+        {
+            "id": "w_c2d6884ebe9db1579deba777d0ffdd7cba4b0f7d",
+            "content": {
+                "en": "Living on Sam Altman\u2019s basic income"
+            }
+        },
+        {
+            "id": "w_db3c8cc7dfa76296041b14ed2d39337cd3cc2ba8",
+            "content": {
+                "en": "Looking forward to the Singularity"
+            }
+        },
+        {
+            "id": "w_c52653cd0128692a110f59b9015cc0927cead07f",
+            "content": {
+                "en": "Losing office beer pong"
+            }
+        },
+        {
+            "id": "w_cc566a0a72fc2b0b6d11e7e64a0939be104974a3",
+            "content": {
+                "en": "Mark Suster\u2019s SnapChat"
+            }
+        },
+        {
+            "id": "w_79e997575aad328db700f30a81b58ad7f81bde5a",
+            "content": {
+                "en": "Massive exits. Seriously. Massive."
+            }
+        },
+        {
+            "id": "w_2d8720a8a2a5cbd9159858134c77f9a2d0986546",
+            "content": {
+                "en": "Meditation retreats"
+            }
+        },
+        {
+            "id": "w_70f5e62aa578cc14c7e4330fb651da68923d343f",
+            "content": {
+                "en": "Medium posts on &ldquo;How I Got Into VC&rdquo;"
+            }
+        },
+        {
+            "id": "w_a1b84ed51d03c3c20958ed80a18dab9970124378",
+            "content": {
+                "en": "Meme-based Halloween costumes"
+            }
+        },
+        {
+            "id": "w_117b57295ba4ada5848fa410aae90842584cb083",
+            "content": {
+                "en": "Microdosing mushrooms"
+            }
+        },
+        {
+            "id": "w_58e4422f7f77edc014f53137b7b5c7e38f4d6b2d",
+            "content": {
+                "en": "Minimalist business cards and maximum disruption"
+            }
+        },
+        {
+            "id": "w_c618e3d87073e2fde49d821d02d369849083b3c5",
+            "content": {
+                "en": "Misusing the word &ldquo;ironic&rdquo;"
+            }
+        },
+        {
+            "id": "w_341dd5b64cb7fa4f3a37e233f8cf1693ccbde08d",
+            "content": {
+                "en": "Moving to Oakland"
+            }
+        },
+        {
+            "id": "w_45444b8eb106931f15dd1191ceb7dd68ca2745c9",
+            "content": {
+                "en": "My first Tesla"
+            }
+        },
+        {
+            "id": "w_43cd23d8b8859d6343b2eae709d1485ddf1abe37",
+            "content": {
+                "en": "Nap pod design"
+            }
+        },
+        {
+            "id": "w_c20c56c060ba132d7d2655f29449071ae4e771c1",
+            "content": {
+                "en": "Nintendo-based drinking games"
+            }
+        },
+        {
+            "id": "w_09c821bf0dd3f2a25f9317587483b2bf3c10d194",
+            "content": {
+                "en": "Nostalgia for 90s cartoons"
+            }
+        },
+        {
+            "id": "w_0ca5f9b7c9926cca519057eafbbe90a6f989eda4",
+            "content": {
+                "en": "NSFW gifs"
+            }
+        },
+        {
+            "id": "w_35cdae75310225a8b6458cff8eb0ac4796c2494a",
+            "content": {
+                "en": "Obscure wifi passwords"
+            }
+        },
+        {
+            "id": "w_1b9bd43cccced42249bef9a473b73c27714ccaa8",
+            "content": {
+                "en": "Off-the-record comments with a TechCrunch writer"
+            }
+        },
+        {
+            "id": "w_a819df1d014b83b163b20de5f83b8cd0fb112280",
+            "content": {
+                "en": "Office dogs"
+            }
+        },
+        {
+            "id": "w_e52f178b9df3a186fa5801b01d0fadaa285370bd",
+            "content": {
+                "en": "Office gongs"
+            }
+        },
+        {
+            "id": "w_dafa962e58d36a5744cc1d85d13a766e6e2af95e",
+            "content": {
+                "en": "Office hours with Paul Graham"
+            }
+        },
+        {
+            "id": "w_28db4468188b792192a2a98761c97b5a28cd258b",
+            "content": {
+                "en": "Office Seamless accounts"
+            }
+        },
+        {
+            "id": "w_0007f18d71436588d81a04c2f338a0a4ab16cf67",
+            "content": {
+                "en": "On-demand laundry"
+            }
+        },
+        {
+            "id": "w_86d69910789d429b3a1d32575cda8ffc36b12edf",
+            "content": {
+                "en": "Open office plans"
+            }
+        },
+        {
+            "id": "w_73df963191fae4729adb0e6b19396b5642cb1a71",
+            "content": {
+                "en": "Outdated memes"
+            }
+        },
+        {
+            "id": "w_7d8c70426e5eb0d1c0231f3aff1aff12614c6b52",
+            "content": {
+                "en": "Overlooking copyright infringement"
+            }
+        },
+        {
+            "id": "w_bcdb82852881050b69622fa61b7e2020c54438bf",
+            "content": {
+                "en": "Overly friendly Roombas"
+            }
+        },
+        {
+            "id": "w_43298d57186d416eddfeefe3a55bfabfbce72826",
+            "content": {
+                "en": "Overreliance on Kickstarter campaigns"
+            }
+        },
+        {
+            "id": "w_412f47218cdc96e4f36562f8af221352e343c880",
+            "content": {
+                "en": "Overusing the word &ldquo;stoked&rdquo;"
+            }
+        },
+        {
+            "id": "w_0317b77ead80c1b916688bb426cb1e5f884fd475",
+            "content": {
+                "en": "Parody Twitter accounts"
+            }
+        },
+        {
+            "id": "w_b63506ea6baad4575e1926d28e35feeee1abd884",
+            "content": {
+                "en": "Passive aggressive Tweetstorms"
+            }
+        },
+        {
+            "id": "w_7ac56ffa28fe42af163c563dd69936a2a2a21bee",
+            "content": {
+                "en": "Passive aggressive use of hashtags"
+            }
+        },
+        {
+            "id": "w_a5f8368e12e0a8d855b360fc96849821926eaa9a",
+            "content": {
+                "en": "Periscoping political protests"
+            }
+        },
+        {
+            "id": "w_81f7cf45f95c9c9f32a1f1a0abe3d7ae89df5268",
+            "content": {
+                "en": "Personalized Jenga sets"
+            }
+        },
+        {
+            "id": "w_7a7c97b216102bcf2d13392f50e0de46d9de6b6c",
+            "content": {
+                "en": "Peter Thiel\u2019s freezer of millennial blood"
+            }
+        },
+        {
+            "id": "w_c6ee6543f84f107a58e7e11e3de26663c9de2e02",
+            "content": {
+                "en": "Picking a VC\u2019s brain over coffee"
+            }
+        },
+        {
+            "id": "w_af4bb574709f6ee7bfee28598cf5d144d48ab789",
+            "content": {
+                "en": "Planning to do stand-up comedy"
+            }
+        },
+        {
+            "id": "w_b3ce30b8471c66c4c2f4429a4df25aecbbd1bd2d",
+            "content": {
+                "en": "Plausible deniability"
+            }
+        },
+        {
+            "id": "w_49bd302dd1279f7e0269a5a35d76c45d9f1a6c94",
+            "content": {
+                "en": "Pogo sticks-asa-service"
+            }
+        },
+        {
+            "id": "w_f04e5befd976035146a59c4eecd2efd06bb6b6b9",
+            "content": {
+                "en": "Product evangelists"
+            }
+        },
+        {
+            "id": "w_d41236c3f1fa0a63967a57f8d972d2cb0b3de50e",
+            "content": {
+                "en": "Product-market fit"
+            }
+        },
+        {
+            "id": "w_75bd21e69021a5ac7802c3bd2068fe1aa93f349d",
+            "content": {
+                "en": "Products passing the \"turn around test"
+            }
+        },
+        {
+            "id": "w_6c3e759cc40cf3f3fa91c0aae503b8be76c4b629",
+            "content": {
+                "en": "Putting &ldquo;ninja&rdquo; in your job title"
+            }
+        },
+        {
+            "id": "w_b57598d91aa907a3140abf13a3a4eb568960c242",
+            "content": {
+                "en": "Questionable ethics"
+            }
+        },
+        {
+            "id": "w_3b929737c31c076754e95f81abec6bd20e28fefd",
+            "content": {
+                "en": "Quirky but relatable conference room names"
+            }
+        },
+        {
+            "id": "w_568aa32318f4a4a746ff16ec2070f465a6ee28a9",
+            "content": {
+                "en": "Racist Snapchat filters"
+            }
+        },
+        {
+            "id": "w_809ebc2ebbe1b44e29009d9e08fb35bc151f68dc",
+            "content": {
+                "en": "Radical transparency"
+            }
+        },
+        {
+            "id": "w_b65166a7af0e35a3572584a6ce7997883532014c",
+            "content": {
+                "en": "Re-assigning stock ownership based on late night beer pong games"
+            }
+        },
+        {
+            "id": "w_34b5105201cdf07fee2ed70a339b4c9d5fe98e1e",
+            "content": {
+                "en": "Reaching your Fitbit step quota"
+            }
+        },
+        {
+            "id": "w_5e6788400d6b5cf64b3959b80d2af31d15603df7",
+            "content": {
+                "en": "Realizing it\u2019s you being referenced on Silicon Valley"
+            }
+        },
+        {
+            "id": "w_341bcc061e037dc9401aba20520c08f31bd25a94",
+            "content": {
+                "en": "Realizing there\u2019s real people, with real stories, powering your legion of paid followers"
+            }
+        },
+        {
+            "id": "w_9c0f069ea911e33d00b1eb5568f6fe05081d8b2b",
+            "content": {
+                "en": "Realizing Will Alden is covering your startup"
+            }
+        },
+        {
+            "id": "w_ab77781a746b77a5f7272f35a81a9141618eccc2",
+            "content": {
+                "en": "Rejecting inertia"
+            }
+        },
+        {
+            "id": "w_fd170a1dac16d768119e6da6cb599b87fd74d881",
+            "content": {
+                "en": "Rent the Runway, but for pets"
+            }
+        },
+        {
+            "id": "w_0afc41f06ab20512c85f4bafcb5c308c63206c3f",
+            "content": {
+                "en": "Replying &ldquo;Steve Jobs&rdquo; as your name at Starbucks, just to see how it feels"
+            }
+        },
+        {
+            "id": "w_b2244a36edacbbe6dd18aea078a96e06119046e3",
+            "content": {
+                "en": "Rest n\u2019 vesting"
+            }
+        },
+        {
+            "id": "w_c423526c862427d00d5d601c24271f8cbcf53fe2",
+            "content": {
+                "en": "Revenue as a feature"
+            }
+        },
+        {
+            "id": "w_a40093a9a7261fd519c312fcfb6fa04eda5a37c4",
+            "content": {
+                "en": "Robots that anticipate your peanut butter preferences"
+            }
+        },
+        {
+            "id": "w_dd42898b82b5acc99058573991d484469e38fbaf",
+            "content": {
+                "en": "Saudi Arabia\u2019s sovereign wealth fund"
+            }
+        },
+        {
+            "id": "w_5b8670d91179656fae2221f38cdeac8841095616",
+            "content": {
+                "en": "Scootering to work"
+            }
+        },
+        {
+            "id": "w_1da422fd2586eeadbb73365cceefc7ba197c2e02",
+            "content": {
+                "en": "Seeing your college roommate in Forbes"
+            }
+        },
+        {
+            "id": "w_196db97aac01d1d44a96667409ab3fc9ad7bde45",
+            "content": {
+                "en": "Self-promotional Quora answers"
+            }
+        },
+        {
+            "id": "w_e680481e0d281e8cc1a1b31331468a3b6894b879",
+            "content": {
+                "en": "Selfempowerment"
+            }
+        },
+        {
+            "id": "w_05a2caf36068fe4f27452626eda038039266fbb8",
+            "content": {
+                "en": "Sharing an Uber Pool with a man in a clown costume"
+            }
+        },
+        {
+            "id": "w_923b8edc0c7304e256fa8b1358f3be77357e6091",
+            "content": {
+                "en": "Showing up 15 minutes late to meetings"
+            }
+        },
+        {
+            "id": "w_d7512e18a0a8b174b612cd4696a94cf239a2399e",
+            "content": {
+                "en": "Signs that say &ldquo;Judgementfree zone&rdquo;"
+            }
+        },
+        {
+            "id": "w_9cbd394302c243704bcfb653c0d0bda46a353313",
+            "content": {
+                "en": "Silent discos"
+            }
+        },
+        {
+            "id": "w_4fb7c995f102eb9855ed92cdc8aaf6b5e0b48b99",
+            "content": {
+                "en": "Skateboarding to work"
+            }
+        },
+        {
+            "id": "w_52a3c30b4cc82e2254979094d731b67cfa8ba4ad",
+            "content": {
+                "en": "Sleep-tracking"
+            }
+        },
+        {
+            "id": "w_0c24b2dc349779d95d4c6e4023047e6d0f28a5cb",
+            "content": {
+                "en": "Social media marketing interns"
+            }
+        },
+        {
+            "id": "w_4f5d419554b4343d5d1ebbf176c57aed7acbe35f",
+            "content": {
+                "en": "Sometimes, just a little bit, feeling like you might be the messiah"
+            }
+        },
+        {
+            "id": "w_d5046563bd598e939115511c3bfb05e01e94daa4",
+            "content": {
+                "en": "Soylent burps"
+            }
+        },
+        {
+            "id": "w_eb5e90e2986d20ac44a3cb155e2ccd5d0319f7eb",
+            "content": {
+                "en": "Sparkles. So many sparkles."
+            }
+        },
+        {
+            "id": "w_03dc10c08ee27f40597cdd250009463976c370ad",
+            "content": {
+                "en": "Speaking at the RNC"
+            }
+        },
+        {
+            "id": "w_27b4fd64e23f1c5f44b2257b9768ac038b96107e",
+            "content": {
+                "en": "Standing desks: a privilege, not a right"
+            }
+        },
+        {
+            "id": "w_d74f0528b8045a53ffb8a3ac340888c5f9185bc4",
+            "content": {
+                "en": "Starting up, cashing in, selling out, bro-ing down"
+            }
+        },
+        {
+            "id": "w_8db2e86e746eafca66f5f9003c9ddded5f6feb56",
+            "content": {
+                "en": "Starting your own sub-reddit"
+            }
+        },
+        {
+            "id": "w_bf884dfd33d3a17c7ecc0418e82c8f097527670b",
+            "content": {
+                "en": "Steampunk headgear"
+            }
+        },
+        {
+            "id": "w_7ea7c39959ff1a241478c0b9c6fe36b1f63ba047",
+            "content": {
+                "en": "Steve Job\u2019s missing license plate"
+            }
+        },
+        {
+            "id": "w_691c673c2229c79d093210d40fe5b98d31e0ef4c",
+            "content": {
+                "en": "Still feeling just a little unsure about vaccines"
+            }
+        },
+        {
+            "id": "w_8e97c3c0ec1d6c70c5a2f70c06fe54c75e077114",
+            "content": {
+                "en": "The 1%"
+            }
+        },
+        {
+            "id": "w_4a753f47301b7251419f2776ce02df3928a613db",
+            "content": {
+                "en": "the @pmarca retweet"
+            }
+        },
+        {
+            "id": "w_2814449e3eef2f00e051e4561c385d9dd03e71dd",
+            "content": {
+                "en": "The bi-coastal lifestyle"
+            }
+        },
+        {
+            "id": "w_262b19b66214258e05978da5d81b5fb846cf0d6e",
+            "content": {
+                "en": "The bloated bureaucracies of our traditional education system"
+            }
+        },
+        {
+            "id": "w_c06ddb55fd023a96fb375ddc7e37f0f606317f97",
+            "content": {
+                "en": "The California separatist movement"
+            }
+        },
+        {
+            "id": "w_a660ebe5e8565f87eb381a96be72dedc785d6097",
+            "content": {
+                "en": "The ever-present hustle"
+            }
+        },
+        {
+            "id": "w_a145367ca4700dac75aea7075df27d311423cd19",
+            "content": {
+                "en": "The growing influence of faceless corporations"
+            }
+        },
+        {
+            "id": "w_88ea98255a4f0c932c503ba611a8375d7ed4c5c7",
+            "content": {
+                "en": "The reason millennials don\u2019t buy cars"
+            }
+        },
+        {
+            "id": "w_e206277bdcb1a0317379ccf2f2adc0a74f733b6d",
+            "content": {
+                "en": "The reason millennials have less sex"
+            }
+        },
+        {
+            "id": "w_8627ce0191d48094c7db5790e44b1efc728d7640",
+            "content": {
+                "en": "The same medium-sized grey t-shirt, over and over and over"
+            }
+        },
+        {
+            "id": "w_c9650d50acdc7c5cf6aa27c3c1eb8b30a1bba7e2",
+            "content": {
+                "en": "The Series A crunch"
+            }
+        },
+        {
+            "id": "w_a598c72ca8eb2de7ec557a33ee286267c0afcb2a",
+            "content": {
+                "en": "The sharing economy"
+            }
+        },
+        {
+            "id": "w_6801359343cd140f05179bae0626e4cc6553085f",
+            "content": {
+                "en": "The smell in Zenefits\u2019 stairwell"
+            }
+        },
+        {
+            "id": "w_d5a173a1280c3bbb1d8b86b003a3ef9f969d6313",
+            "content": {
+                "en": "The three comma club"
+            }
+        },
+        {
+            "id": "w_f61018a3710dc401fdabf10e956f20066b60c0d9",
+            "content": {
+                "en": "The underprivileged"
+            }
+        },
+        {
+            "id": "w_6a0701d9ebc8ed1d47df96f8172fa18aa7a25c0c",
+            "content": {
+                "en": "Thinking about applying to Mars One"
+            }
+        },
+        {
+            "id": "w_40fb04eb3da795e0fdeeff727b9f2b71082aafbc",
+            "content": {
+                "en": "Top decile returns"
+            }
+        },
+        {
+            "id": "w_3729e9e0044f90dff44ff232f748ae4e832f82bd",
+            "content": {
+                "en": "Trader Joe\u2019s opening day"
+            }
+        },
+        {
+            "id": "w_fb0308db5a8d2943baac3ffd8ca0830e6c800a58",
+            "content": {
+                "en": "Trying out Adderall"
+            }
+        },
+        {
+            "id": "w_b1b824eb00d89ea8ac441f0aa15ae8cc8fafa6f1",
+            "content": {
+                "en": "Tuxedo t-shirts"
+            }
+        },
+        {
+            "id": "w_d292da3a45c92ee924a767d4d3c28128c6990ba3",
+            "content": {
+                "en": "UberJETing to Burning Man"
+            }
+        },
+        {
+            "id": "w_8021e7b738e4e71ffe6527896366573d2afdac9a",
+            "content": {
+                "en": "Unfavorable gender ratios"
+            }
+        },
+        {
+            "id": "w_13cb4c9702908ac2387bac03242d32b57629cd25",
+            "content": {
+                "en": "Unwashed hoodies"
+            }
+        },
+        {
+            "id": "w_25345a8426fca0771ada0fdf6b31f479ad692331",
+            "content": {
+                "en": "Using an AI-powered personal assistant"
+            }
+        },
+        {
+            "id": "w_0900d8def5f5b0bdb39547ff4fe261b26430c1a9",
+            "content": {
+                "en": "VC-subsidized free trials"
+            }
+        },
+        {
+            "id": "w_23f2d4b0e56bf2209e246ca6ee4f4d903d91362a",
+            "content": {
+                "en": "Viral rants against San Francisco&apos;s homeless population"
+            }
+        },
+        {
+            "id": "w_69880d543e1f78a55559b527069a8c555ce53d42",
+            "content": {
+                "en": "Waiting in line for new iPhone releases"
+            }
+        },
+        {
+            "id": "w_ffba1045e3049a0d2b729743621a15c39912432c",
+            "content": {
+                "en": "Wearing a sandwich board that says, &ldquo;Let\u2019s just talk.&rdquo;"
+            }
+        },
+        {
+            "id": "w_d0607b9997e68088cba6065a113c32ac38235f15",
+            "content": {
+                "en": "Winning the America\u2019s Cup"
+            }
+        },
+        {
+            "id": "w_d1901aef272aa4cd82ca19dbbd6ff1d4c11e5717",
+            "content": {
+                "en": "Wishing you lived near a record store"
+            }
+        },
+        {
+            "id": "w_f89c87b6cd1583cedd9f4cb6a465ab8c95555ea9",
+            "content": {
+                "en": "Working at MySpace"
+            }
+        },
+        {
+            "id": "w_866ec2c61510faa06cef8675fd4b780bdff5cc20",
+            "content": {
+                "en": "Worrying about muggings in the Tenderloin"
+            }
+        },
+        {
+            "id": "w_7503600ade89f4870020cc220f5b9022fd352741",
+            "content": {
+                "en": "Writing a Medium thinkpiece"
+            }
+        },
+        {
+            "id": "b_1ba106fcb068b73a1291d84aebd0ce9d61936f13",
+            "content": {
+                "en": "A million dollars isn\u2019t cool. You know what\u2019s cool?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6b3cc1ba3b01c97b6fbf3a7c9603af143d094611",
+            "content": {
+                "en": "A term sheet signing would be incomplete without ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3ce83030209f807d7c5cb89d0850c7d60f99e4a7",
+            "content": {
+                "en": "After outsourcing our engineers to Eastern Europe, we can finally afford ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_058c24f02dfa60c954ffb548f8157a277b6831fc",
+            "content": {
+                "en": "After the apocalypse I want ______ in my bunker."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab541f007497982986cceeffcce0122b5f9e6e81",
+            "content": {
+                "en": "After ______, I changed my relationship status to &ldquo;it\u2019s complicated.&rdquo;"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e9ed7391afc24dbe917f57704bab9d939f09cb8",
+            "content": {
+                "en": "At this point in our startup journey, I need ______ to get through the day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c03de8cae608984c5690f2364ce31f42f2fba01d",
+            "content": {
+                "en": "Burn rate? What burn rate? We\u2019re spending on necessities, like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4d27e7782bba37501cf5a7efa3ae8fb4a9602995",
+            "content": {
+                "en": "Credibility in this town comes from think pieces on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_deac9ef47019cd583d832ecda5a0c55d205445a7",
+            "content": {
+                "en": "Differences over ______ tore our founding team apart."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4932022375e3e42054d3367163a69dbfb1131360",
+            "content": {
+                "en": "Elon Musk&apos;s newest TeslaSolarCity plans rely on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2e38d32f7d974fe43ca3a2552bb6b3bc713a6da0",
+            "content": {
+                "en": "FiveSquare: it\u2019s like FourSquare but for ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8eb32d01e2f348f909e2b563cc6b4682e786cf85",
+            "content": {
+                "en": "Google Glass engineers forgot the importance of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01a145b148d21a42c7ba2ff0a75ac13d59c5fdf2",
+            "content": {
+                "en": "How are ed tech startups inspiring kids to succeed?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a47dc70926415d32543cacda70dc7e2478fb7f2c",
+            "content": {
+                "en": "How can we liven up our office party?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9c2bb4a16406eb2a2ff2c19380867a9fc0173dc3",
+            "content": {
+                "en": "I forgot to finish my business plan; too busy thinking about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b021a273ec74e64686b53322cd67c679d23549e0",
+            "content": {
+                "en": "I hear Facebook is heavily recruiting for ______ these days"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_137b16df0dc2f3f644fedd551a195d7d8509f2d8",
+            "content": {
+                "en": "I want my Wikipedia page to say I&apos;m the best at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a72ebb6b96db3d229694263323e07838528632ed",
+            "content": {
+                "en": "If we capture just 1% of the market for ______, we'll be a unicorn in no time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_225bba70e309015310bf0985754cba24240dde4a",
+            "content": {
+                "en": "In 500 years, school children will be studying ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_231b221a95a2b0a123b07670dfde99234e4f56c4",
+            "content": {
+                "en": "In Silicon Valley, Santa hands out ______ to the bad kids."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2cd78cf24e2a928581e6ccff2c446b32f690bbdd",
+            "content": {
+                "en": "It\u2019s hard being ______ in tech."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_88c6c47faf933a1378df1b6d5f2cecbe190d998f",
+            "content": {
+                "en": "It\u2019s like Blue Apron, but instead of meals you\u2019re building ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1128913b53d5adba3787fda3abb44dad462121fc",
+            "content": {
+                "en": "It\u2019s like Chatroulette for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d75dc14854cf8443ce92fc9c3b84724ed97ccd3c",
+            "content": {
+                "en": "Make a tech haiku with three cards:"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_68f2be4f970d39734f7e3a2fbd061d98c790046f",
+            "content": {
+                "en": "Marc Andreessen\u2019s greatest fear is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe1701b77a1b5791e5b98ccf25d156e42be93972",
+            "content": {
+                "en": "My biggest regret as a founder is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6ed79252885d30dab99038219bc3be2a52208131",
+            "content": {
+                "en": "No one cares about the product anymore; today&apos;s founders are just in it for the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4c52283646fb4d17fd9b52c4cae4a296a1f7bb2c",
+            "content": {
+                "en": "Our first day at Y Combinator! Based on ______ they suggested we pivot to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4324adb3362286bffd79ebc63db0cef72220ad65",
+            "content": {
+                "en": "Our profitability forecasts may have counted too heavily on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e1bb82871bea9b24df74f676254987be528b06b3",
+            "content": {
+                "en": "Peter Thiel will never die, now that he\u2019s ______ every morning."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b520e749dd4a015e4d2be9897cb75891000ce99a",
+            "content": {
+                "en": "Startups are essentially outsourced ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b7a5de7ff36dbac9398ccda03d2c469b9265f968",
+            "content": {
+                "en": "Step 1 ______ Step 2 ______ Step 3: Profit"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_27f8815122a0b8ad3db5d415d94d1568f1b8db09",
+            "content": {
+                "en": "Steve Wozniak wishes he took a stronger stand on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a4953723111c1b2765e4f77a6d4f5e606ae7815b",
+            "content": {
+                "en": "The Buzzfeed listicle on ______ pushed me to fulfill my idea of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_051a811abcae1f0cbbde4217551ac7f59df206ac",
+            "content": {
+                "en": "The hottest startups are handing out ______ at the Stanford career fair."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6125f25e21ef2eea4e084908ab2fc479c087581a",
+            "content": {
+                "en": "The key to a good pitch meeting is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_07b52b2dcfd77a65247cbd468e9ffcf083943cd4",
+            "content": {
+                "en": "The most common pick-up strategy in SF bars relies on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d443476895a491bb4ba78678eb8721da4544aad8",
+            "content": {
+                "en": "The new must-have startup intern perk is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a0ecbf7b01711354210a1533b87b1339da93010",
+            "content": {
+                "en": "The newest ingredient in Soylent is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_442e12aa0bd0fdc96a1a1f5f42efdd3c6f63c5a0",
+            "content": {
+                "en": "The only thing Big Data can't solve for is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_384a85d65e923bc073f12ff44939531cba0dd689",
+            "content": {
+                "en": "The topic of the next Mike Isaac and Manjoo Farhad show is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_63cda6914141e63e2718b4107400357cbf300dab",
+            "content": {
+                "en": "This founding team opened with ______ and followed with ______ and we knew we had to fund them."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_bdafd305ba5da57a8e6908700526fc167565659c",
+            "content": {
+                "en": "To all entrepreneursin-training, I recommend ______ if you want to be taken seriously"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c08b659c3c1fd8978b133a2c523947a10d700227",
+            "content": {
+                "en": "Try ______, it\u2019s the new kale."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0b9602e8d104f7816cc470cc95d5d141ade4a060",
+            "content": {
+                "en": "Unfortunately, the graffiti artist we hired for our office is a big fan of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_345c8f989f3b9e49eb1b43107a5189bf306c3075",
+            "content": {
+                "en": "VCs these days; too much ______, not enough ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e55378cc576e091aba7e3f19b1eb60970073dd04",
+            "content": {
+                "en": "We aim to solve unemployment by leveraging ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bd1247419b916e2a05fa5621cc04841ea212cd3c",
+            "content": {
+                "en": "We attract dumb money (corporate investors) by pretending to focus on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_108d7fd1dafc63d25e0d7f8e2361171d4d20a4ae",
+            "content": {
+                "en": "We have minimum viable product, so now we just need ______ to perfect our pitch."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9093dcb968990c9583d2db4df4b1b5cd08db35a9",
+            "content": {
+                "en": "We hired a whole bunch of interns just for ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_702cca0afe0f7ad49ac2e66168cdbb15207d504f",
+            "content": {
+                "en": "We make self-driving cars that make ______ part of the journey."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a200b9844dfdaa54e4a0b67bb8ffb3f54bcd4845",
+            "content": {
+                "en": "We were promised flying cars, and instead we got ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b06d8e87e6d56456598e4d985aa26298f21e8b10",
+            "content": {
+                "en": "We\u2019re a thesisdriven VC firm focused on the world-changing opportunity in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12057c5cc9de7ee92624bc3d7c89eb2c821a24fa",
+            "content": {
+                "en": "We\u2019re a vibrant community of ______ focused on revolutionizing ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_11a1300506a37af38c3f20f1df470dcddad0c53e",
+            "content": {
+                "en": "We\u2019re building an app that warns you about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1bbe1a005190995b15700780f69d1bcab59f97b7",
+            "content": {
+                "en": "We\u2019re getting a lot of traction in Brooklyn by offering ______ as a service."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_00a7f8e22db92574c9610f75aecfe25edbfec5d0",
+            "content": {
+                "en": "We\u2019re like TaskRabbit for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_862ed402b4f98c9d3b130b0a7b452b1342690a35",
+            "content": {
+                "en": "We\u2019ve built up a real following in Oakland providing ______ as a service."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_72da0fd1c16445e3138a94dab662439840cbf109",
+            "content": {
+                "en": "What convinced our founders to hire our first HR rep?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2fd54925cc44c2df53006a32b653d71e011df2dd",
+            "content": {
+                "en": "What exacerbates the Silicon Valley housing crunch?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ee99a73797a2ca92c961247200c0646c8c2a1fdf",
+            "content": {
+                "en": "What helps Peter Thiel unwind?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cccbf6057aa4ffa360d02cc4b82274a4f6d05969",
+            "content": {
+                "en": "What keeps Fred Wilson up at night?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9725d3f2ee046fef6dd6237d8375b0e1e549cc90",
+            "content": {
+                "en": "What killed our food delivery startup?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8261cce63d9b1f059a9e4195fa41dbe18403684e",
+            "content": {
+                "en": "What motivates me through night-long hacking sessions?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_285b16c30bc8bee2b86fbada01629aab537192f3",
+            "content": {
+                "en": "What will Elizabeth Holmes disrupt next?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_efe19e25c80f72f0d2ed55c02b3ef02058ef176f",
+            "content": {
+                "en": "What\u2019s Bill Gates\u2019 after dinner habit?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b6fc2cf3ab5daa5fb555f5cd50ae45e92a80a5cc",
+            "content": {
+                "en": "What\u2019s helping you make the world a better place?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_442069c4e0af5fa085ce36bf6ddbb79a17050eff",
+            "content": {
+                "en": "When we ask about ______ we\u2019re really discussing ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_06cc227eba5dd363c4b67e4ecb1ebf3c0edd8fa7",
+            "content": {
+                "en": "With ______ technology, North Korea will bring the U.S. to its knees."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5d9550a58e0e3524c08f9e476b4e2498536351e8",
+            "content": {
+                "en": "You don\u2019t get to 1 billion friends without ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4bdf5d7c03973e653bcc8517a173ed2bd173709c",
+            "content": {
+                "en": "You\u2019ll never get VC facetime these days unless you bring up ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a32ec135c1ebf28a5a9d53916cba2dfa3af21422",
+            "content": {
+                "en": "Zuckerberg never accounted for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_52682b179a81bac2227765fdd49f6bbd55decf21",
+            "content": {
+                "en": "______ at your company\u2019s booth at the startup fair is a sure win."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e329423b4f592c40fe845403d9461e04baace62b",
+            "content": {
+                "en": "______ gets more efficient every year; it\u2019s the new Moore\u2019s Law."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2424d0ca3befad5460dabb97b1c2dc174139b685",
+            "content": {
+                "en": "______ is a Silicon Valley rite of passage."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f3ce1551d3290b466c42295d29aba54261746a98",
+            "content": {
+                "en": "______ is not a bug, it\u2019s a feature."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f2472543d07fad88c8d77964f9d9fb396d3ead01",
+            "content": {
+                "en": "______ is the new ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_1eb1daa650c4650f69d34879630d663ce8b6f43d",
+            "content": {
+                "en": "______ will make virtual reality mainstream."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c0db7a4e92adc0d4f1585fc54eceb41ae6ece3f5",
+            "content": {
+                "en": "______ will motivate millennials to save money."
+            },
+            "pick": 1
+        }
+    ]
+}

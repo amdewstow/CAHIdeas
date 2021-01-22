@@ -1,0 +1,525 @@
+{
+    "id": "Derps_Against_Humanity",
+    "name": "Derps Against Humanity",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_47804943fb8d9cd1915868e38988de238b4fd73c",
+            "content": {
+                "en": "#TysLeftFoot"
+            }
+        },
+        {
+            "id": "w_ade39f85780934916372eec115d955cdf3dec4c6",
+            "content": {
+                "en": "A Big 'Ol Bowl of Fruit!"
+            }
+        },
+        {
+            "id": "w_a558fe5740aefda23c82cccef062a43aef373cea",
+            "content": {
+                "en": "A canoe with enough room for Phil."
+            }
+        },
+        {
+            "id": "w_329d4d4b746e2f775e6de04453404876c75fdc89",
+            "content": {
+                "en": "A Machinima contract."
+            }
+        },
+        {
+            "id": "w_2188cca9ffa6353afa736817a02417aab0d9f5b9",
+            "content": {
+                "en": "A robot bird."
+            }
+        },
+        {
+            "id": "w_d39dff4bb697e758e6a5ea3be5bf23584a1b149d",
+            "content": {
+                "en": "A smart joke."
+            }
+        },
+        {
+            "id": "w_0e19c00ef3a5116750fc27b73160c0c7130b4908",
+            "content": {
+                "en": "An LP Smarty finished."
+            }
+        },
+        {
+            "id": "w_baee9d1dee17d1a27c897029e1be77bcc58593dd",
+            "content": {
+                "en": "Bajan Canadian&apos;s fridge."
+            }
+        },
+        {
+            "id": "w_04cd81d4c631bed18b97df57051a79e08acf853e",
+            "content": {
+                "en": "BEARS!"
+            }
+        },
+        {
+            "id": "w_971bb54e1c29c6ef3b8f6e94a81fe2b6ceedae08",
+            "content": {
+                "en": "Bolshevik the wolf."
+            }
+        },
+        {
+            "id": "w_691cb9bcf84157048b84c8b87781122d8e7c5280",
+            "content": {
+                "en": "Chilled and Smarty&apos;s wedding."
+            }
+        },
+        {
+            "id": "w_a4f51acfbb837b704e92de115756c254ab6c2404",
+            "content": {
+                "en": "Chilledchaos' homosexual tendencies."
+            }
+        },
+        {
+            "id": "w_a328b291d97ad04eedfdbda65dcb65257d48f808",
+            "content": {
+                "en": "Criken&apos;s Fun House."
+            }
+        },
+        {
+            "id": "w_2b9b5f0d32fcbb70f1142a16b3a05a47a4afa6b8",
+            "content": {
+                "en": "DarkSydePhil playing Dark Souls."
+            }
+        },
+        {
+            "id": "w_3c07f4a8a65a75c2914de557104230ab3d9ca4aa",
+            "content": {
+                "en": "Diction watching a burly outdoorsman skin a bear while eating honey and crying."
+            }
+        },
+        {
+            "id": "w_8e20727daa7ea5839b9207ffb8feb9cd9db26e6e",
+            "content": {
+                "en": "GaLm&apos;s sunglasses."
+            }
+        },
+        {
+            "id": "w_8a9d8bcd2bf5cbcd3b250e6b4a61967f54c3cfb9",
+            "content": {
+                "en": "Getting anally violated by a silverback gorilla."
+            }
+        },
+        {
+            "id": "w_9407fc6a812ec956cdcb5e4b4d3162b5f70447d5",
+            "content": {
+                "en": "Hitler&apos;s Train!"
+            }
+        },
+        {
+            "id": "w_c452e6665b174428ae45f4f2802222fdafdfae47",
+            "content": {
+                "en": "Inside Shrek&apos;s asshole."
+            }
+        },
+        {
+            "id": "w_6eca04b92cb283a4ab3157593b7c6459ff180c11",
+            "content": {
+                "en": "Jah be dwarfin' it up!"
+            }
+        },
+        {
+            "id": "w_a03cec75d06a327f55dea5c1e9410341277082fa",
+            "content": {
+                "en": "One of Chuggaconroy&apos;s awful puns."
+            }
+        },
+        {
+            "id": "w_05f2da8fecd0f52353f3a64eb7a4cfe0e0902f36",
+            "content": {
+                "en": "Seananners joyously dropping \"presents\" on the African minority in GTA."
+            }
+        },
+        {
+            "id": "w_96e7f413b08191400d75bf32d035127884ebb5b9",
+            "content": {
+                "en": "Seananners' dolphin laugh."
+            }
+        },
+        {
+            "id": "w_f2b899e03b1be786295667824efd9216e7dca21a",
+            "content": {
+                "en": "Smash Fighter."
+            }
+        },
+        {
+            "id": "w_e02a95a355de90eb4333f1381e87531360e7f5ef",
+            "content": {
+                "en": "Solving a rubiks cube with your bare nipples."
+            }
+        },
+        {
+            "id": "w_e11bc2f5552085a3a7734607bd019adf9ffb6c3d",
+            "content": {
+                "en": "That time when Machinima played actual machinima videos."
+            }
+        },
+        {
+            "id": "w_13447fb592dfaa87684938444036e9dfd7592396",
+            "content": {
+                "en": "That video of EatMyDiction1 twerking."
+            }
+        },
+        {
+            "id": "w_e9e15202e3fb697776eff3a079241ad7461c8933",
+            "content": {
+                "en": "The Black Seed."
+            }
+        },
+        {
+            "id": "w_3e8c523139ad3adebf21fe4cfaee9a3c28ed074f",
+            "content": {
+                "en": "The Blue Yeti microphone."
+            }
+        },
+        {
+            "id": "w_f8d5f585fa1c7097e10af9c7cde98b40f3605588",
+            "content": {
+                "en": "The Card Czar."
+            }
+        },
+        {
+            "id": "w_c646f2a4de9ea5d1e8b7f130d1cbb9c28fd241d7",
+            "content": {
+                "en": "The Great Youtube Unsubbing of 2012."
+            }
+        },
+        {
+            "id": "w_2e8ffb9ef0dbc226f4287069a854c753075fddea",
+            "content": {
+                "en": "The league of being a big faggot."
+            }
+        },
+        {
+            "id": "w_47abe3045b182230ff364befb564ec22240267ec",
+            "content": {
+                "en": "The Sips Co. Dirt Factory."
+            }
+        },
+        {
+            "id": "w_af44c0a843f85ee78645b40204265a30b4a36938",
+            "content": {
+                "en": "The Tom Shark."
+            }
+        },
+        {
+            "id": "w_8f4c9f65674ffe43c91bb0b348abfb26177a6dee",
+            "content": {
+                "en": "Time to cancel Smash Fighter."
+            }
+        },
+        {
+            "id": "w_d19e10ecfc45fcfa564ef9d04567cceffb13f7e7",
+            "content": {
+                "en": "Tom drunk off his ass."
+            }
+        },
+        {
+            "id": "w_780ce48701a6a4fa1c6f4a01682fb7ca1a4f2572",
+            "content": {
+                "en": "Totalbiscuit and Angry Joe frolicking in a meadow."
+            }
+        },
+        {
+            "id": "b_5f7acb1b0b552176c2fbd815771e3760663c136f",
+            "content": {
+                "en": "And here we have ______. Strike it&apos;s weakness for MASSIVE damage!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_507d9b5049e3c59af4a3527bb158e990075fc167",
+            "content": {
+                "en": "Bro&apos;s Angels. We ______ hard."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_778b92767bffd73127faba55fa5354f798938b6c",
+            "content": {
+                "en": "But Beardman! Why do you think that ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f63bd294373b4ecd219438f60061cf5fd214ca9a",
+            "content": {
+                "en": "Come on and slam, and welcome to the ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d3ff9b798f14ac2fd78f15fb966f85084e803ae6",
+            "content": {
+                "en": "GaLmHD is so pro at almost every game he plays yet he can`t play______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7e410fd92acf6a18fdcbf1516be62079c11d1340",
+            "content": {
+                "en": "GTA shenanigans would not be GTA shenanigans without Seananners dropping ______ on ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_483b7846cd7bcd6ae46f465dd9b6bbc9666424ad",
+            "content": {
+                "en": "I AM THE ______ CZAR!!!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bfaf98092d48c15805b700bf735dc22f677dbcfd",
+            "content": {
+                "en": "I give this game a rating of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_35ad28018d7817a1987e9e23a9e53ddd73eafd18",
+            "content": {
+                "en": "I&apos;m sorry Timmy, but I must ______ you."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_da1113a26620907cadd2b65fb4add406eb505dae",
+            "content": {
+                "en": "In his new Co-op work SSoHPKC will be playing ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_99a3d61eb20b382d07df59544dac7752b11b4028",
+            "content": {
+                "en": "In the next episode of Press Heart to Continue: Dodger talks about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_41ed7309607388d94b963adc3b95eed29af05ede",
+            "content": {
+                "en": "In this week&apos;s gauntlet, ChilledChaos challenges Tehsmarty to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba99acf0eee54059e0c7a3b9e081ed048528a28b",
+            "content": {
+                "en": "In this week&apos;s gauntlet, Tehsmarty challenges ChilledChaos to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cbf068b98d53924635d93a3df0a04af87f70ac3",
+            "content": {
+                "en": "In today&apos;s Driftor in-depth episode we shall look at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c1fa9dd5c658d21e07d8fc933ece10ebb0214e6",
+            "content": {
+                "en": "In ______ We Trust."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea98015946f886fa436f927eb955771b57019ffa",
+            "content": {
+                "en": "It took hours to edit ______ into the video."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9cf5c0ed77299472f05e723e07d8e64a717e4d7d",
+            "content": {
+                "en": "Knowing Chilled&apos;s knowledge with Minecraft, he'll probably use ______ on ______ in his next video."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_44313d059437f01fe86ad849ccd6a29b127cca3b",
+            "content": {
+                "en": "Last Thursday, Riorach was identified in public and she proceeded to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b20eb38b3470e4380bf95e55ee49270b6a8b8cc5",
+            "content": {
+                "en": "My name is-a ______ and i likea da ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a8a09f50e0d74cac2daae193aa010f0c0fb3323f",
+            "content": {
+                "en": "Oh great, ______ is doing another ______ game LP."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b3d3c016c3df048b54f7741c18971d25019aa092",
+            "content": {
+                "en": "On this episode of PKA Woody and Wings talk about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7c612967c15559e7b0a763733d958ecaa7cf8b34",
+            "content": {
+                "en": "One of these days i&apos;m just gonna shit my ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d7548309480b68eb9fca5275ec0f748bcb3bd184",
+            "content": {
+                "en": "Only Totalbiscuit would spend an hour long video discussing ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9455c8fa38359f12aa983169a5c8aae12f3c10fe",
+            "content": {
+                "en": "Pewdiepie&apos;s going to play ______!?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2e46988e9b64f12e282a7747f467138cc2cb629",
+            "content": {
+                "en": "Smarty&apos;s darkest fear is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_35d879de5322fbffa4f043ae9644219173667d08",
+            "content": {
+                "en": "Tehsmarty loves the smell of ______ in the morning."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ad4d303116555627f439f02f3067e886f460c610",
+            "content": {
+                "en": "The comment section was nothing but ______ arguing about ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_8d60efbb83989f52119195aa241116e05922d96f",
+            "content": {
+                "en": "The Creatures' next member is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_00486007fae4f96fff942aa7b8d45707886fd3f9",
+            "content": {
+                "en": "The Xbox One&apos;s DRM policy isn't half as bad as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_94bbc5c2aa3447f6e722f5b650b15de5995734d0",
+            "content": {
+                "en": "This time on Brutalmoose&apos;s Top 10, his guest was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_682d3b591bdfae7648e5eb33eb980aa8b6024a04",
+            "content": {
+                "en": "TotalBiscuit&apos;s top hat is actually ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1161e4356df4dfa16fc9d50783a0ecb24c71b55e",
+            "content": {
+                "en": "Two Best Friends Play ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_710b5a1728f48aa7e5065b1af0c4bb72b98fdb42",
+            "content": {
+                "en": "What did Criken do this time to break ARMA III? ______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b27f654cf05c99bd89d795b3d791e8d63c248b21",
+            "content": {
+                "en": "What did Mitch or Bajan Canadian find in the fridge today?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_173140931b1164b591b33b4f4800af2b2a3d59f8",
+            "content": {
+                "en": "What did Pewdiepie overreact to on his channel today?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cb8d0dc1232c24baeb3170d2e1dc322f9c9978be",
+            "content": {
+                "en": "What was the big prize this time around at the Thrown Controllers panel?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_14bab296c13fe7ef98328607dd17d8d456215153",
+            "content": {
+                "en": "What will YouTube add in its next unneeded update?______, ______,"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_5cac84897f1432d4f274f1cc7c56a3bff0be7df5",
+            "content": {
+                "en": "What&apos;s a paladin?______,"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_55b8ebc420aeb2c7e862987574f910d9472d03bb",
+            "content": {
+                "en": "When Sp00n finally removed his horsemask on the livestream, we saw ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_68ee74c683b79eba357aeb948041867a1d69a33c",
+            "content": {
+                "en": "You need to ______ your asshole, it&apos;s vital to this operation."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_870ef2789e4869bcf86ece29cc2ece79d02d92e8",
+            "content": {
+                "en": "ZeRoyalViking&apos;s up and coming game company, \"ZEA\" accredits their success to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08696bf9b7d680b29889339fb142fe627248e5d5",
+            "content": {
+                "en": "______, the one you want to get DDoS'd"
+            },
+            "pick": 1
+        }
+    ]
+}

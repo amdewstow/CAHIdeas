@@ -1,0 +1,3277 @@
+{
+    "id": "The_Last_of_Us",
+    "name": "The Last of Us",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_ecc257946480db201ceb82d42db9cb95767dce84",
+            "content": {
+                "en": "&hellip; Pausing for dramatic effect."
+            }
+        },
+        {
+            "id": "w_d3af7eb784cc3c7620cd39319389c6cca1bd1b89",
+            "content": {
+                "en": "A 12-gauge slug to the balls."
+            }
+        },
+        {
+            "id": "w_65d6934abc37f0135dd99ee5d027b1466573cdb1",
+            "content": {
+                "en": "A basement full of weed."
+            }
+        },
+        {
+            "id": "w_b99789c869d63630018ce062f0d3284b8d40c9aa",
+            "content": {
+                "en": "A big hot fire that&apos;s burning everybody."
+            }
+        },
+        {
+            "id": "w_54cea9b0ff9c2983bdea6442c5038d093d0b168a",
+            "content": {
+                "en": "A big sewer full of so many skeletons."
+            }
+        },
+        {
+            "id": "w_f5e0bee336273bbd4d22c981d201e353e43fce70",
+            "content": {
+                "en": "A big, dangerous guy who wants to kill us."
+            }
+        },
+        {
+            "id": "w_694d5890b9171544257182d2b535710037c3bacf",
+            "content": {
+                "en": "A bigger, badder wolf."
+            }
+        },
+        {
+            "id": "w_da00d0632174ee1eea2f2b4630ce46f507cb41c8",
+            "content": {
+                "en": "A bit of fungus around the bumhole."
+            }
+        },
+        {
+            "id": "w_59d91d1e44e6364ad0daa86b532548c7a46eb27b",
+            "content": {
+                "en": "A bit of harmless brain alteration."
+            }
+        },
+        {
+            "id": "w_6e17bb48a6779af8271c2fbf735b4472d83d4a0a",
+            "content": {
+                "en": "A bond of friendship greater than any force in the universe."
+            }
+        },
+        {
+            "id": "w_2262dc9647bf549ee7e61a1090143670727b6e06",
+            "content": {
+                "en": "A brave, beautiful man who I am reliant on."
+            }
+        },
+        {
+            "id": "w_f1a1112f2db38d75f7af492c41306af042d837f3",
+            "content": {
+                "en": "A bunch of guys eating another guy."
+            }
+        },
+        {
+            "id": "w_e81f1f3ccf3b71eee57c22ba0bd4328f69b9428b",
+            "content": {
+                "en": "A charred corpse clawing its way out of the flames."
+            }
+        },
+        {
+            "id": "w_68d18538086d35b89086b8434bfce51ccaa116e4",
+            "content": {
+                "en": "A cheerfulness that belies a deep-seated self-loathing."
+            }
+        },
+        {
+            "id": "w_4540fbd320c6b78da836b700c75ac49eade3be7c",
+            "content": {
+                "en": "A Chelsea smile."
+            }
+        },
+        {
+            "id": "w_07c56642ab85ce0bb126e8b91e5f60529a676093",
+            "content": {
+                "en": "A child-sized grave."
+            }
+        },
+        {
+            "id": "w_808b42e068e42a8a9474b97520d5c3d809f4455a",
+            "content": {
+                "en": "A childless marriage."
+            }
+        },
+        {
+            "id": "w_fedc20c30d995d90915c98c2ce9c882fbe95cdc9",
+            "content": {
+                "en": "A chiseled jawline and piercing brown eyes."
+            }
+        },
+        {
+            "id": "w_197edabf8447b9d59ebe794041b34568f5e39a90",
+            "content": {
+                "en": "A complete inability to understand anyone else&apos;s perspective."
+            }
+        },
+        {
+            "id": "w_def96f36b7353879d8b3d354fe0632e11d835040",
+            "content": {
+                "en": "A complicated relationship with my father figure."
+            }
+        },
+        {
+            "id": "w_2a5ff0bbd3c429fbf9fbfe9dfae7a6f825d46e60",
+            "content": {
+                "en": "A constant need for validation."
+            }
+        },
+        {
+            "id": "w_fd9dd19114f04b3876b006e76578f2a00c02c5f5",
+            "content": {
+                "en": "A crossbow bolt straight to the heart."
+            }
+        },
+        {
+            "id": "w_5935f9b66d00c1c93550800aa6af62347e9ee33a",
+            "content": {
+                "en": "A dead guy."
+            }
+        },
+        {
+            "id": "w_91510db2b1864276ddd53724099cca57d23474bb",
+            "content": {
+                "en": "A deeply satisfying emotional experience."
+            }
+        },
+        {
+            "id": "w_f3a9365cd417b160f75f0e6ca104508db38d3339",
+            "content": {
+                "en": "A deserted factory somewhere in rural Colorado."
+            }
+        },
+        {
+            "id": "w_17bf96997ae3d7651381f98014b47bdf1e1076bd",
+            "content": {
+                "en": "A dinosaur in a cowboy hat."
+            }
+        },
+        {
+            "id": "w_04a8fefb31c7469a87e0830716cc813ab8f376d1",
+            "content": {
+                "en": "A diverse cast of likable characters."
+            }
+        },
+        {
+            "id": "w_2bb528be51b65e2057f437c062115328ed5f55bd",
+            "content": {
+                "en": "A dozen ravenous wild monkeys."
+            }
+        },
+        {
+            "id": "w_3132492d1f28da578cbbd1e7b93c939f23093811",
+            "content": {
+                "en": "A drug-induced coma."
+            }
+        },
+        {
+            "id": "w_4bd53c8741aa4993efd89e6de4419e8447b666df",
+            "content": {
+                "en": "A duel to the death."
+            }
+        },
+        {
+            "id": "w_c616b230294cb17b68fe91282bf50aa9f0042bdb",
+            "content": {
+                "en": "A faded polaroid of Leah\u2019s right tit."
+            }
+        },
+        {
+            "id": "w_89e6a28fec77c67068a8517968da362c4ca3ff89",
+            "content": {
+                "en": "A father&apos;s devotion."
+            }
+        },
+        {
+            "id": "w_64beab2a60e31f7896ca3c0787e51bfe14c3218d",
+            "content": {
+                "en": "A ferny grotto."
+            }
+        },
+        {
+            "id": "w_41b2eff0d9f69c9955e068a8f2a9ba2d4788084f",
+            "content": {
+                "en": "A fist-wide gunshot wound from a .44 magnum."
+            }
+        },
+        {
+            "id": "w_2ffddc0108c21f741c704e628c8288179fe7afb5",
+            "content": {
+                "en": "A fit of rage."
+            }
+        },
+        {
+            "id": "w_afc6f81e65e16d0740aad64648c5abfefe6fef03",
+            "content": {
+                "en": "A five-minute dance break."
+            }
+        },
+        {
+            "id": "w_8c118a0aa53a2ec26427024c887435c5e690ac95",
+            "content": {
+                "en": "A freezer full of mystery meat."
+            }
+        },
+        {
+            "id": "w_8b0eec88b7015a02e3aa1775ea4a09094e337e87",
+            "content": {
+                "en": "A fucking hatchet."
+            }
+        },
+        {
+            "id": "w_bdf51c8bab8df58df15f0663c3d28107fb9290fd",
+            "content": {
+                "en": "A fully-dressed female video game character."
+            }
+        },
+        {
+            "id": "w_89d2b24f8d84fe32c79888cc525be73719c9755c",
+            "content": {
+                "en": "A fungal beast that, when destroyed, explodes into more, tinier fungal beasts."
+            }
+        },
+        {
+            "id": "w_474f3d22672f5d9d055f36e8315a72ceb637b18b",
+            "content": {
+                "en": "A funkadelic bass rift."
+            }
+        },
+        {
+            "id": "w_6cbbd61fb56c8d2f63f016e617ecd9fe387a9fe3",
+            "content": {
+                "en": "A gay."
+            }
+        },
+        {
+            "id": "w_44722362558746fc6788dc341b2a2ca3a1f71a11",
+            "content": {
+                "en": "A genderless hole."
+            }
+        },
+        {
+            "id": "w_4208e8b516c5074109bcd619ffd39dfc1a4d828d",
+            "content": {
+                "en": "A giraffe, I think."
+            }
+        },
+        {
+            "id": "w_015809dc823c1c87e0a8c6c10aae9b13cb0a0c91",
+            "content": {
+                "en": "A gnawing sense of dread."
+            }
+        },
+        {
+            "id": "w_66f950fd8d13e0acefc8dfe4c5e08834cfde3b72",
+            "content": {
+                "en": "A good dog."
+            }
+        },
+        {
+            "id": "w_d512882adc5e13e463a243e80c75ee7612b0fca3",
+            "content": {
+                "en": "A gun."
+            }
+        },
+        {
+            "id": "w_3cf72b48abbb6d4ff54f64eaa29e06b6e055cff0",
+            "content": {
+                "en": "A hail of bullets."
+            }
+        },
+        {
+            "id": "w_45a085271e717738fc57c75437a17aae4b5ea8ae",
+            "content": {
+                "en": "A hatchet lobotomy."
+            }
+        },
+        {
+            "id": "w_21f62eb183608ef5e9f02d3f498af00e29fdf31a",
+            "content": {
+                "en": "A hellish cacophony of moaning."
+            }
+        },
+        {
+            "id": "w_80cbabd0879b9d4c9a2ecee8c13bc2bb01f32ad7",
+            "content": {
+                "en": "A hellish gauntlet of murder gangs who kill for sport."
+            }
+        },
+        {
+            "id": "w_e78efb37c428407021fb7f27b7205b3063b8499b",
+            "content": {
+                "en": "A homoerotic subplot."
+            }
+        },
+        {
+            "id": "w_dba2eb833a49cc129a2c2fef7a48c8fcdfb3c12b",
+            "content": {
+                "en": "A horsey!"
+            }
+        },
+        {
+            "id": "w_e90fb0bed4d424204b221c0307dbe96a82599329",
+            "content": {
+                "en": "A human corpse dangling from a meat hook."
+            }
+        },
+        {
+            "id": "w_7b7a5eff93d8023aaa59b7761aa0d068b33fd1b3",
+            "content": {
+                "en": "A kid who&apos;s never seen a pool, but knows what \"pool\" means anyway."
+            }
+        },
+        {
+            "id": "w_91233d5ad67179c7c37d15a40033665a355ea8e7",
+            "content": {
+                "en": "A kiss on the lips."
+            }
+        },
+        {
+            "id": "w_631184c11f9777702cf4838ccb8cac03cab997ba",
+            "content": {
+                "en": "A legitimate reason to commit suicide."
+            }
+        },
+        {
+            "id": "w_902e6cb1d8322eef0cc9589219f199620b3fdc03",
+            "content": {
+                "en": "A lesbian person."
+            }
+        },
+        {
+            "id": "w_1bb11614b9492c74506bdaa5cdc637089690d587",
+            "content": {
+                "en": "A lesbian who doesn\u2019t die."
+            }
+        },
+        {
+            "id": "w_e441a2c0fc93e7d79ec62784c7f52cdef8308103",
+            "content": {
+                "en": "A lifespan of three weeks."
+            }
+        },
+        {
+            "id": "w_0a5c61bf975c30d869ada9a3ff8337a8d134a3b7",
+            "content": {
+                "en": "A lifetime of internalized guilt."
+            }
+        },
+        {
+            "id": "w_b7f2aa9edef8c5c6a56bac2a6267cbd6fca703fc",
+            "content": {
+                "en": "A little girl with a switchblade."
+            }
+        },
+        {
+            "id": "w_3e8758114564566f064ec695d50a48f5c76c2514",
+            "content": {
+                "en": "A long, unforgiving winter."
+            }
+        },
+        {
+            "id": "w_ecee100f1b691c50c44ce15771bca46331e89000",
+            "content": {
+                "en": "A loose end."
+            }
+        },
+        {
+            "id": "w_c77b474982c19fb86c97b64868365857154be1af",
+            "content": {
+                "en": "A man so tall and strong, he can wallop anyone."
+            }
+        },
+        {
+            "id": "w_e7298933160e99881fcda02229f48ab5df4fbd1d",
+            "content": {
+                "en": "A man trying so hard to express an emotion."
+            }
+        },
+        {
+            "id": "w_2cc3aa0fab7a4fcbe329a971b02713600db7be3b",
+            "content": {
+                "en": "A man who hates fun."
+            }
+        },
+        {
+            "id": "w_03245079dc0fa6c4fb4fc45671f015d4334c452c",
+            "content": {
+                "en": "A man who kills with no qualms."
+            }
+        },
+        {
+            "id": "w_ccca13ec0aad3a09be2be13aee68b382a22ce607",
+            "content": {
+                "en": "A man with a beard who doesn't know shit about cars."
+            }
+        },
+        {
+            "id": "w_17c86901a023c3f8e775308599bb24f101df7e43",
+            "content": {
+                "en": "A mattress full of bed bugs."
+            }
+        },
+        {
+            "id": "w_ffa1390f6e98b72d3d6ce70bd0befeb0fa7ff5f7",
+            "content": {
+                "en": "A mean little drawer with nothing inside."
+            }
+        },
+        {
+            "id": "w_5c2bf887fee174dd13695b35154271ca2e56f432",
+            "content": {
+                "en": "A meat hook suspension fetish."
+            }
+        },
+        {
+            "id": "w_ec574d7d507044fe455daa5991c444dc6f7fb51a",
+            "content": {
+                "en": "A motherfucking crossbow."
+            }
+        },
+        {
+            "id": "w_4ac408b13f5a631feb4c1bd7088ca757d451df24",
+            "content": {
+                "en": "A motherfucking flamethrower."
+            }
+        },
+        {
+            "id": "w_2fb801801a037eea276d4bf0140996e819edd9a3",
+            "content": {
+                "en": "A passionate Latino lover."
+            }
+        },
+        {
+            "id": "w_77de8580bd835286923f5fa1f2fe58b6e6885250",
+            "content": {
+                "en": "A pattern of defensive wounds."
+            }
+        },
+        {
+            "id": "w_27283fc500708c111acedfe92a752f9a32c71e00",
+            "content": {
+                "en": "A perfectly secluded lake-side cabin where I can tend to my father in peace."
+            }
+        },
+        {
+            "id": "w_a763d9b686143c1b634d030e8e9abb27bcb28fc7",
+            "content": {
+                "en": "A person who used to have legs but no longer has legs because I exploded their legs."
+            }
+        },
+        {
+            "id": "w_4ecc72b6c47d2ad737764d9f46292dc9007a1594",
+            "content": {
+                "en": "A pile of squirming bodies."
+            }
+        },
+        {
+            "id": "w_57dcee5e9a37e188a8ba6e248cb048cdbc698321",
+            "content": {
+                "en": "A pipe bomb."
+            }
+        },
+        {
+            "id": "w_02611117808c8b07998d602bbe1c07d21fde98d6",
+            "content": {
+                "en": "A plague unto our people."
+            }
+        },
+        {
+            "id": "w_b443656f0b7d3cc045bac1d5387f6729c7c88cad",
+            "content": {
+                "en": "A plastic bag drifting through the wind wanting to start again."
+            }
+        },
+        {
+            "id": "w_e7a67a18fe70d8c33214a2ce5845fe44ac18e52c",
+            "content": {
+                "en": "A plot line that goes nowhere."
+            }
+        },
+        {
+            "id": "w_c215ee0c381383f54d1ba422966ea20800ed4eb7",
+            "content": {
+                "en": "A pound of shrapnel."
+            }
+        },
+        {
+            "id": "w_8bf85aae9a22b20a7e13a4edf28490b53bbb334d",
+            "content": {
+                "en": "A pregnant forest zebra."
+            }
+        },
+        {
+            "id": "w_b18fa5d964c38468f22248df644b4a68a808532b",
+            "content": {
+                "en": "A protein bar that&apos;s full of protein."
+            }
+        },
+        {
+            "id": "w_3e5f678260452a1d0b1611b0ce93a18bb0d85241",
+            "content": {
+                "en": "A real fucker."
+            }
+        },
+        {
+            "id": "w_d498f76f3f662c98a1a3e60503c2b588a116651a",
+            "content": {
+                "en": "A ruptured colon."
+            }
+        },
+        {
+            "id": "w_c6f8af51e7e7d525277165ee4e3b128ba7ebe03d",
+            "content": {
+                "en": "A severe breach of the Hippocratic oath."
+            }
+        },
+        {
+            "id": "w_836e0ddb6661a50992cb732fd6b475413aa752d4",
+            "content": {
+                "en": "A shallow grave."
+            }
+        },
+        {
+            "id": "w_2ceca52c5ec5f7fff14732620ae21069f7ecedd8",
+            "content": {
+                "en": "A shark!"
+            }
+        },
+        {
+            "id": "w_f0b4905a8e49d12fab7648260c096b08cce8da02",
+            "content": {
+                "en": "A shiv straight to the kidneys."
+            }
+        },
+        {
+            "id": "w_67a912dbfdcae029f67134d7010be8d7a168e15e",
+            "content": {
+                "en": "A shiv."
+            }
+        },
+        {
+            "id": "w_1abca92dbc7935668d88bbb6f543051c6339b557",
+            "content": {
+                "en": "A sick lute solo."
+            }
+        },
+        {
+            "id": "w_6c3528bc8a285a47fd5da28ae5edebff2af1a754",
+            "content": {
+                "en": "A sledgehammer to the elbow."
+            }
+        },
+        {
+            "id": "w_6b4a402fd88ba16ad4747668e80e51d924accd99",
+            "content": {
+                "en": "A slow death."
+            }
+        },
+        {
+            "id": "w_8857d0363d716ebdd93c43c43e35e86f0b0909e7",
+            "content": {
+                "en": "A slowly expanding puddle of blood."
+            }
+        },
+        {
+            "id": "w_c8335fc64bc9dd88d65846568a1a3b5398e8fe1f",
+            "content": {
+                "en": "A small mound of shoes."
+            }
+        },
+        {
+            "id": "w_eacdcbd33cf082e4df94c6452366f095545c0ab0",
+            "content": {
+                "en": "A solid punch to the spine."
+            }
+        },
+        {
+            "id": "w_6dc694bbb5f1cc39c6fb398852fd7364213f1e7c",
+            "content": {
+                "en": "A splash of hydrochloric acid."
+            }
+        },
+        {
+            "id": "w_c2937f7b60de965faead5c0d7b9aff60ba3afbff",
+            "content": {
+                "en": "A squirming ball of mushrooms and severed limbs."
+            }
+        },
+        {
+            "id": "w_d931014c177c0b6f2b37c9ac3de373db8ed04e22",
+            "content": {
+                "en": "A stab wound, an explosion, and a fall from a great height."
+            }
+        },
+        {
+            "id": "w_4e4cf638b91890d5632dfbee77c8dba6542ee53a",
+            "content": {
+                "en": "A stern, authoritative father."
+            }
+        },
+        {
+            "id": "w_1bea31774a48c4aa0d26fcd989f2ab8261ec32f7",
+            "content": {
+                "en": "A strong horse and enough rations for 30 days."
+            }
+        },
+        {
+            "id": "w_6b5a4c56f102dae2eb872d3880077abf74177cad",
+            "content": {
+                "en": "A suicide note that nobody cared enough to look for."
+            }
+        },
+        {
+            "id": "w_c94b0fce9c55f5db2f5bbf051e9a9fa74d5179ad",
+            "content": {
+                "en": "A swivel chair."
+            }
+        },
+        {
+            "id": "w_0fec19382807f65e2a84b1b1eee40d3db40d757b",
+            "content": {
+                "en": "A tall goat called a giraffe."
+            }
+        },
+        {
+            "id": "w_679707cf5bccf865e2c08a255d582338a320e691",
+            "content": {
+                "en": "A tank. A motherfucking tank. Can you believe that?"
+            }
+        },
+        {
+            "id": "w_4faf8d5af2f770756fb3dab908bb88f4dd839d35",
+            "content": {
+                "en": "A tearful confession."
+            }
+        },
+        {
+            "id": "w_22ffd0cfd754a31621dbee9adeddd0c496c85d2c",
+            "content": {
+                "en": "A teenage girl who won't shut the fuck up about dinosaurs."
+            }
+        },
+        {
+            "id": "w_3ca00521f3a875f63a4c2a33097cea5c1f1193e0",
+            "content": {
+                "en": "A traumatic childhood experience that forever ruins Halloween."
+            }
+        },
+        {
+            "id": "w_347c6dd95847ed2fc20dddbf42114977f07e552f",
+            "content": {
+                "en": "A very sharp knife that kills bodies."
+            }
+        },
+        {
+            "id": "w_1cf358754f6761de2d91c09b505eabe398597064",
+            "content": {
+                "en": "A very tense hoedown."
+            }
+        },
+        {
+            "id": "w_74347a2210d49aa8281af925dd13d6bf96fd5358",
+            "content": {
+                "en": "A way to explode someone."
+            }
+        },
+        {
+            "id": "w_93bebf7ab3cf1ef2c2a451b040b7a2ebfa8c3d69",
+            "content": {
+                "en": "A web of lies."
+            }
+        },
+        {
+            "id": "w_e2eedf4e977491b6d0eda59ede917681b310ec6e",
+            "content": {
+                "en": "A well-placed molotov cocktail."
+            }
+        },
+        {
+            "id": "w_f8f789bdcfc8be2b8cb2c9fd4d599cd432d2e4a4",
+            "content": {
+                "en": "A witty remark."
+            }
+        },
+        {
+            "id": "w_732510ec8fa8fed725e7563086caeba14ce83fca",
+            "content": {
+                "en": "A woman holding a gun to my head and telling me to relax."
+            }
+        },
+        {
+            "id": "w_2390a387c7574edae3c8d3149b05ea097756f805",
+            "content": {
+                "en": "A woman lead."
+            }
+        },
+        {
+            "id": "w_02f0fa1577f8856945652b29e567152eda6da68a",
+            "content": {
+                "en": "A woman who is both attractive and powerful."
+            }
+        },
+        {
+            "id": "w_0faecc18ce660171a7b259f3b967939102340b66",
+            "content": {
+                "en": "A woman who is loyal, smart, and funny."
+            }
+        },
+        {
+            "id": "w_c71971213890d2a7e4e85a50fa8987bf9952c841",
+            "content": {
+                "en": "A zombie with a tragic backstory."
+            }
+        },
+        {
+            "id": "w_8ea495e41c6683eecef53673e0487c09a157beff",
+            "content": {
+                "en": "Abandonment issues."
+            }
+        },
+        {
+            "id": "w_a9b9e7a2d2cd3781a8247f6a629a5e0667383ada",
+            "content": {
+                "en": "Abducting children."
+            }
+        },
+        {
+            "id": "w_b59e18f406ca535bcc52f86d4f607a0c542c633b",
+            "content": {
+                "en": "Abs for days."
+            }
+        },
+        {
+            "id": "w_b23407536bd7ffb0ac52f58155c4e12591a35106",
+            "content": {
+                "en": "Abs."
+            }
+        },
+        {
+            "id": "w_e514793090aa74a9b618de62b8836d6c201bddd4",
+            "content": {
+                "en": "Accidentally executing a hostage."
+            }
+        },
+        {
+            "id": "w_bd5445c96fa0563dd823d5040bcbd4e73c7c876c",
+            "content": {
+                "en": "Acquiring a gun very easily."
+            }
+        },
+        {
+            "id": "w_cb15830d0a0ddd90ebda3287eaa7b437979cd0cd",
+            "content": {
+                "en": "Actual mutants with medical conditions and no superpowers."
+            }
+        },
+        {
+            "id": "w_1ba5ffa28a2b3e0d526fa07bc7c0f110e4542fae",
+            "content": {
+                "en": "ADVENTURE!"
+            }
+        },
+        {
+            "id": "w_02a97ff0342314ca7a4881c1e09202c639f4ae7c",
+            "content": {
+                "en": "Aimlessly floating downriver."
+            }
+        },
+        {
+            "id": "w_7c84b214b464f2a7f8389c776b7055d9628a1b00",
+            "content": {
+                "en": "Aimlessly swimming hither and thither."
+            }
+        },
+        {
+            "id": "w_1e0ea9ddd03b1ff3d2137257273a6c5ba0d26641",
+            "content": {
+                "en": "All manner of horrors."
+            }
+        },
+        {
+            "id": "w_b62753506ede791289c25999523f7f9ac3be2b40",
+            "content": {
+                "en": "All my friends dying."
+            }
+        },
+        {
+            "id": "w_571cd1817926e8729cfc766a49e96b979b5919bf",
+            "content": {
+                "en": "All the people I've killed."
+            }
+        },
+        {
+            "id": "w_ac87f6f51823f6a7ff2fe09c0787b75a2c30a82e",
+            "content": {
+                "en": "All these body bags filled with the bodies."
+            }
+        },
+        {
+            "id": "w_ed382595ef34e65bfdda0b1c7534c8104cfca186",
+            "content": {
+                "en": "All this sexual tension."
+            }
+        },
+        {
+            "id": "w_efbc6be1b4d0b85cf387238f034114eb8d49b037",
+            "content": {
+                "en": "All-consuming guilt."
+            }
+        },
+        {
+            "id": "w_4911cd6aba4951c345e75171062b57faefd86874",
+            "content": {
+                "en": "Almost grasping the concept of compassion."
+            }
+        },
+        {
+            "id": "w_1e49aace6960a2b3c7e768d0b4e0677b99798bd2",
+            "content": {
+                "en": "Amateur lesbian teens."
+            }
+        },
+        {
+            "id": "w_abc206f734c595a3843dce1346a05255a6f7af31",
+            "content": {
+                "en": "America&apos;s crumbling infrastructure."
+            }
+        },
+        {
+            "id": "w_bede5a1054356511537a6b689e1e8f19412146b1",
+            "content": {
+                "en": "Amputees."
+            }
+        },
+        {
+            "id": "w_64af22da3d04c5ef8ff9a52ad54fa43903c1533a",
+            "content": {
+                "en": "An 80% mortality rate."
+            }
+        },
+        {
+            "id": "w_660ba76f204b4da658c91aa91493f49a476d9ef7",
+            "content": {
+                "en": "An act of terror."
+            }
+        },
+        {
+            "id": "w_10c3db0f0eb7ceb088e9fa30e305b3ff0152a21a",
+            "content": {
+                "en": "An emotional gravity that can only be created by a good book or the death of your firstborn."
+            }
+        },
+        {
+            "id": "w_0b5382e1be078241ab4daee4b008a5d3c7647189",
+            "content": {
+                "en": "An enormous blob of flesh."
+            }
+        },
+        {
+            "id": "w_a1ac941b741710b98e40ad72039ed0f61bd8c6fb",
+            "content": {
+                "en": "An extremely long elevator ride."
+            }
+        },
+        {
+            "id": "w_42cc10fde39bdec0dbac4d1efecc16d3019eb76f",
+            "content": {
+                "en": "An old hermit man who is definitely not a pedophile."
+            }
+        },
+        {
+            "id": "w_cdacc7d1676fbdee300b9c9336e98ec4db8d8299",
+            "content": {
+                "en": "An old, grumpy white guy who is just used to everything."
+            }
+        },
+        {
+            "id": "w_253ee8d84d51c348504e280d1ed364f01b0b0e19",
+            "content": {
+                "en": "An undiscovered body."
+            }
+        },
+        {
+            "id": "w_3b7e7b6e87a7befd367c0ffb9a2139241bb9820d",
+            "content": {
+                "en": "An unfortunate parade of misery."
+            }
+        },
+        {
+            "id": "w_32993ee6370fd9efc8d9661981e4017c159cda92",
+            "content": {
+                "en": "An unwanted pregnancy."
+            }
+        },
+        {
+            "id": "w_855f01dd829723c179ae711718add12cffee8842",
+            "content": {
+                "en": "Angst."
+            }
+        },
+        {
+            "id": "w_91aa8adfc9cdcd1375e55febc0229eea6641e5e3",
+            "content": {
+                "en": "Another unspeakable act of violence."
+            }
+        },
+        {
+            "id": "w_07d1e815860d691c01cfb96d7949d881076076e5",
+            "content": {
+                "en": "Another video game about a bland, frowning white man with stubble."
+            }
+        },
+        {
+            "id": "w_67773f780e58a43bb6b270ea6b4836f68559c32a",
+            "content": {
+                "en": "Any means necessary."
+            }
+        },
+        {
+            "id": "w_0e9e7f059d197f922c0e08212c40c039c69b40d3",
+            "content": {
+                "en": "Argentinian musician Gustavo Santaolalla."
+            }
+        },
+        {
+            "id": "w_b323dac1e1b8989e4ed06c22628bbf28890024be",
+            "content": {
+                "en": "Arms like these."
+            }
+        },
+        {
+            "id": "w_0bdad5d6449caf6eb23f0adc5e121aa349580156",
+            "content": {
+                "en": "Asking \"what the fuck?&rdquo;"
+            }
+        },
+        {
+            "id": "w_217ee711fe86fc882f3d04522763413d42eba65b",
+            "content": {
+                "en": "Bangin' it down, raw-dog."
+            }
+        },
+        {
+            "id": "w_aab23dccb8545e2072f70739cd13aa633ccf6a4c",
+            "content": {
+                "en": "Barely-concealed hostility."
+            }
+        },
+        {
+            "id": "w_8fb2c1661deb922a93d0d461c06114f981856700",
+            "content": {
+                "en": "Bashing Nora\u2019s head into a fine mist."
+            }
+        },
+        {
+            "id": "w_156610cf9011b1faf25af34f19a397fbd5d21c51",
+            "content": {
+                "en": "Becoming sad forever."
+            }
+        },
+        {
+            "id": "w_ed8f09489fc133e2369c7f5d7755cd029ebfd6d7",
+            "content": {
+                "en": "Being a burden to others."
+            }
+        },
+        {
+            "id": "w_5f9be31dbbd59111b78fdd8229f86857a084d709",
+            "content": {
+                "en": "Being a dick to children."
+            }
+        },
+        {
+            "id": "w_10a2a032bfe969e3f492770c884eb70af32aff44",
+            "content": {
+                "en": "Being a goddamn badass."
+            }
+        },
+        {
+            "id": "w_34aeaef88058d23650fb876a193d168c318fc871",
+            "content": {
+                "en": "Being adopted."
+            }
+        },
+        {
+            "id": "w_c1eb527cfc43a81e43e46b8d2e9a4b10c84912a0",
+            "content": {
+                "en": "Being all poetic and just losing our minds together."
+            }
+        },
+        {
+            "id": "w_5a4b9f1b9c0ac3dc74c7c0063f972d9936518520",
+            "content": {
+                "en": "Being eaten alive by the physical manifestation of my own poor choices."
+            }
+        },
+        {
+            "id": "w_8c462b52be6beacf2626ce84e03c96c5d7ce66b5",
+            "content": {
+                "en": "Being in a constant state of anxiety."
+            }
+        },
+        {
+            "id": "w_a942e4699b3ce8726d500cd869b603d458d08e28",
+            "content": {
+                "en": "Being knowledgeable in a narrow domain that nobody understands or cares about."
+            }
+        },
+        {
+            "id": "w_2cd6049963fdbdf74df677c351dded32ae3d2c68",
+            "content": {
+                "en": "Being locked in a dog cage for a couple of days."
+            }
+        },
+        {
+            "id": "w_71ccede986cc08b71f949e16d28b6340f30818bd",
+            "content": {
+                "en": "Being pummeled with bricks."
+            }
+        },
+        {
+            "id": "w_32a45fe542e1d4b39999b3f6bb6caad173a42c32",
+            "content": {
+                "en": "Being so sad all the time."
+            }
+        },
+        {
+            "id": "w_a78c74e7f5bf6221e2d250e1f6aaa0a0d3ea5e2a",
+            "content": {
+                "en": "Being speared and escaping from death by the sheer power of my own will to live."
+            }
+        },
+        {
+            "id": "w_c55d217c7e8cdb793b1de83d960ce1bdaed1d676",
+            "content": {
+                "en": "Being too old for this shit."
+            }
+        },
+        {
+            "id": "w_24d2a811e57ba43cce9fbcd7df961c1d39cdd962",
+            "content": {
+                "en": "Belting out the chorus of a popular song and mumbling through the rest."
+            }
+        },
+        {
+            "id": "w_dc499ac41791e08addc558a30402a354b48627ce",
+            "content": {
+                "en": "Bigotry."
+            }
+        },
+        {
+            "id": "w_f5d1abdf47ad7d82a1d1025add7f6ddc223f9659",
+            "content": {
+                "en": "Birthdays."
+            }
+        },
+        {
+            "id": "w_657b22a7beed254c0d1b7029f41867edb5778c1d",
+            "content": {
+                "en": "Biting a woman&apos;s ear clean off."
+            }
+        },
+        {
+            "id": "w_9af2b14eb38313774a15d2afff34c6caeb0fcffd",
+            "content": {
+                "en": "Bleeding and crying and stuff."
+            }
+        },
+        {
+            "id": "w_2ad5e92c24d61ff6c74acf6db5f8c43e9f495980",
+            "content": {
+                "en": "Bleeding everywhere."
+            }
+        },
+        {
+            "id": "w_849759e40063446cdb941e697d02be3a02d3f664",
+            "content": {
+                "en": "Blood and guts all over me."
+            }
+        },
+        {
+            "id": "w_bf063246dd02c561310326c19e4be055619e0b48",
+            "content": {
+                "en": "Bones."
+            }
+        },
+        {
+            "id": "w_3527548df126e98ef89efc1a1c5b8941d298ba35",
+            "content": {
+                "en": "Botching an execution."
+            }
+        },
+        {
+            "id": "w_93a7872f3170f4a1453b7be1af575d6e7be72ab1",
+            "content": {
+                "en": "Boxing up my feelings."
+            }
+        },
+        {
+            "id": "w_e70dee4f2a00b5978957a0398818e76b113eb64c",
+            "content": {
+                "en": "Bracing for impact."
+            }
+        },
+        {
+            "id": "w_aa6c2b46e1f7ed2bf23c1d8e7b7b82657a0c0c5f",
+            "content": {
+                "en": "Brandishing a gun."
+            }
+        },
+        {
+            "id": "w_75adefcbc01231143c0bad6a21e85085a53a55f2",
+            "content": {
+                "en": "Broken watches that don\u2019t do the tick-tock."
+            }
+        },
+        {
+            "id": "w_3a4e0d5d3a8d81f4c575108d5ee54b1057f1fb00",
+            "content": {
+                "en": "Bullets."
+            }
+        },
+        {
+            "id": "w_ccc0537e7053265d29c45dc3a68cb23438f91056",
+            "content": {
+                "en": "Burning people alive."
+            }
+        },
+        {
+            "id": "w_9227296e9fd514847654b562ee263a49379e2448",
+            "content": {
+                "en": "Burying my only daughter."
+            }
+        },
+        {
+            "id": "w_89729bcfb92127601f53d127ce63252cfbd36290",
+            "content": {
+                "en": "Cabinets."
+            }
+        },
+        {
+            "id": "w_599f1e8d915ab48a167bab37530c7262d7a5dc09",
+            "content": {
+                "en": "Carrying a handgun."
+            }
+        },
+        {
+            "id": "w_c3a8f546f6cca7011df1ecda5826d95c71dacf0f",
+            "content": {
+                "en": "Catching new and mysterious diseases from a South African wheat crop."
+            }
+        },
+        {
+            "id": "w_280d653dd56b772a47ca349df425db466e86ffa9",
+            "content": {
+                "en": "Ceasing to be funny."
+            }
+        },
+        {
+            "id": "w_01d7eb087c123ce4b8b8e577d199ee63cf660f1f",
+            "content": {
+                "en": "Chaos and bloodshed."
+            }
+        },
+        {
+            "id": "w_94de203c50ab51266876ba5c45b53eb8fe922930",
+            "content": {
+                "en": "Childhood friends and the dreams we had."
+            }
+        },
+        {
+            "id": "w_9d098917ece5b5c463e486dc623b87d81ba606c7",
+            "content": {
+                "en": "Childhood innocence."
+            }
+        },
+        {
+            "id": "w_a83008c8217728d6c65d6ab2971b493b5622651f",
+            "content": {
+                "en": "Chokeslamming a child&apos;s face into the wall."
+            }
+        },
+        {
+            "id": "w_822ab6c3f18943a61d012fad5b20dde4da7b5f61",
+            "content": {
+                "en": "Choking out a 19-year-old."
+            }
+        },
+        {
+            "id": "w_0d3cbb8b576a92c805f81870ecce36f1b2763a1b",
+            "content": {
+                "en": "Chucking a brick at his face."
+            }
+        },
+        {
+            "id": "w_08188b1d6efe0082ee66fbb3641778bbb440a14f",
+            "content": {
+                "en": "Civilian casualties."
+            }
+        },
+        {
+            "id": "w_5e0eb046601597af79df58dbfc6f8555715cc62a",
+            "content": {
+                "en": "Coffee."
+            }
+        },
+        {
+            "id": "w_aeabcccbd249bf373ade3f79730e5e2dcb767ab7",
+            "content": {
+                "en": "Collapsing in grief."
+            }
+        },
+        {
+            "id": "w_c3e00b3973edd7178aa28c4221bc486c7ba5705d",
+            "content": {
+                "en": "Coming out."
+            }
+        },
+        {
+            "id": "w_ccb7ad54565b99ccc4f28b45a55a9e651fd0f482",
+            "content": {
+                "en": "Compartment syndrome."
+            }
+        },
+        {
+            "id": "w_4942e39eab701c65b6016490daf8fbb538a39ec1",
+            "content": {
+                "en": "Complex transgender characters."
+            }
+        },
+        {
+            "id": "w_fb1966023b35d73384bf9d737f3fae5597fdb58d",
+            "content": {
+                "en": "Cordyceps."
+            }
+        },
+        {
+            "id": "w_53cfb99283287abcfabb3b064106196ad4b4af03",
+            "content": {
+                "en": "Cowering behind a tree as the hunting dogs close in."
+            }
+        },
+        {
+            "id": "w_9f531f9211647ebb80ecb8931a45aa707abdeaae",
+            "content": {
+                "en": "Cradling my daughter as she bleeds out."
+            }
+        },
+        {
+            "id": "w_ac15cc6ba1f4671eb04748cfdd847d096aebdd3e",
+            "content": {
+                "en": "Crouch-waddling everywhere like I\u2019m doing a poopie."
+            }
+        },
+        {
+            "id": "w_3f8c63078a27d15101fa9a0b018e11bf465d5aaa",
+            "content": {
+                "en": "Crushing the skulls of enemies underfoot like autumn leaves."
+            }
+        },
+        {
+            "id": "w_f88baaeb9503181b0a9faa5dc089813dd388ca36",
+            "content": {
+                "en": "Cum rag mushrooms."
+            }
+        },
+        {
+            "id": "w_edf816407ddc9e377bbad2a5c1fcab570d967e9a",
+            "content": {
+                "en": "Dancing bad."
+            }
+        },
+        {
+            "id": "w_76833a0e5db0d503ba47408c66ef07ff78dab1fd",
+            "content": {
+                "en": "Dangling from a noose."
+            }
+        },
+        {
+            "id": "w_30f55e80df6da4ee77b87499174efca164f43deb",
+            "content": {
+                "en": "Death."
+            }
+        },
+        {
+            "id": "w_4fb942b604555cfaf70d9e11f153c95c502afde5",
+            "content": {
+                "en": "Debilitating childhood trauma."
+            }
+        },
+        {
+            "id": "w_8e7098becf88c50c43d42f822075a440567fdb4e",
+            "content": {
+                "en": "Delighting in the pain of others."
+            }
+        },
+        {
+            "id": "w_04a8d8d100a10c25b1b2c597f222e0fdd69c8acd",
+            "content": {
+                "en": "Demanding that everyone lower their weapons right now so we can talk this out."
+            }
+        },
+        {
+            "id": "w_33efee20c3d80fab40a5f00a9890e55caec9807e",
+            "content": {
+                "en": "Dicking around on the guitar for an hour."
+            }
+        },
+        {
+            "id": "w_39edcd57c9f5d470808e9f47be7bcf81ddeb80d7",
+            "content": {
+                "en": "Dismantling the government."
+            }
+        },
+        {
+            "id": "w_dadccf6f66a72b32a3035203b85edf84384cba86",
+            "content": {
+                "en": "Dismemberment."
+            }
+        },
+        {
+            "id": "w_5adc7359709b6c4b806ad075c126ca3e4a1361ee",
+            "content": {
+                "en": "Doing some impressive stuff, then going into a deep depression."
+            }
+        },
+        {
+            "id": "w_091adb3d656d12c643e00ada533e7dc63feb8190",
+            "content": {
+                "en": "Drifting in and out of consciousness."
+            }
+        },
+        {
+            "id": "w_9ac89575860821fa205c013b564c5bdd334b2e16",
+            "content": {
+                "en": "Dry heaving."
+            }
+        },
+        {
+            "id": "w_5424573a5832c8e692cc0d2bcc0fb1ddd2ef964a",
+            "content": {
+                "en": "Dubious pseudoscientific nonsense."
+            }
+        },
+        {
+            "id": "w_262f52ace783b02ef35ef9aa33f35ac57c28f5bb",
+            "content": {
+                "en": "Dumpsters."
+            }
+        },
+        {
+            "id": "w_449ab02aff261559ce176dcc366df331b4dabf41",
+            "content": {
+                "en": "Dying cold, alone, and upside down."
+            }
+        },
+        {
+            "id": "w_8216cac9323213a51266456d78c4c475104ed25a",
+            "content": {
+                "en": "Eating people."
+            }
+        },
+        {
+            "id": "w_7822f88a835a61f4fdcd68ec84b99291e780f532",
+            "content": {
+                "en": "Emotional baggage."
+            }
+        },
+        {
+            "id": "w_ceeeba0f9d4357699628a3ed810b511fc50f7f12",
+            "content": {
+                "en": "Emotional unavailability."
+            }
+        },
+        {
+            "id": "w_f4c9dceebc9efe6bb6423efd4b454545186a78a8",
+            "content": {
+                "en": "Endless stress."
+            }
+        },
+        {
+            "id": "w_bae9b0455a02dad8062c8e0a1984722162ec8c9c",
+            "content": {
+                "en": "Enduring."
+            }
+        },
+        {
+            "id": "w_bc1a1f371ad42f1dc28c339e1bba99b13ee2a41e",
+            "content": {
+                "en": "Engine trouble."
+            }
+        },
+        {
+            "id": "w_2bcecae8dcef8a129ce24d9821b298f3e4e73df9",
+            "content": {
+                "en": "Exactly what you deserve."
+            }
+        },
+        {
+            "id": "w_a5e5810699f40ab1750af734ebaf2fffb50022c6",
+            "content": {
+                "en": "Extra ration cards for my little girl."
+            }
+        },
+        {
+            "id": "w_5016757c24b6d090f789131855ffe3b159a4b1c4",
+            "content": {
+                "en": "Extremely calloused fingers."
+            }
+        },
+        {
+            "id": "w_e2322d953d03180de5cbaba95f1dd40b08c08607",
+            "content": {
+                "en": "Falling down an elevator shaft."
+            }
+        },
+        {
+            "id": "w_015b1e3b9e9f90b12c1423370afdba2631975399",
+            "content": {
+                "en": "Falling in love with poetry."
+            }
+        },
+        {
+            "id": "w_c30d855b78ce489e121c095ea60436e4859abdca",
+            "content": {
+                "en": "Falling into a deathlike slumber for several months."
+            }
+        },
+        {
+            "id": "w_2196a56a0885308619f463a55274c24648f22c8f",
+            "content": {
+                "en": "Falling six stories onto a stake of rebar."
+            }
+        },
+        {
+            "id": "w_3c6681774be6c3198ad63c5104fcb849ae749326",
+            "content": {
+                "en": "False prophets."
+            }
+        },
+        {
+            "id": "w_6eead72dd848d54fa8e97de50b081992625e8b3f",
+            "content": {
+                "en": "Farm lesbians."
+            }
+        },
+        {
+            "id": "w_132c067cb5471e0baa45ae8eb0bc62135b565347",
+            "content": {
+                "en": "Feeling lots of feelings."
+            }
+        },
+        {
+            "id": "w_56a21e1ecb4a79c87cc855661060167d395bd67a",
+            "content": {
+                "en": "Feeling the emotion of anger."
+            }
+        },
+        {
+            "id": "w_2e1aa47b4b2f2051c6e1a30c7e65aac269bf21a8",
+            "content": {
+                "en": "Feeling what not having hope feels like."
+            }
+        },
+        {
+            "id": "w_2a6c6218bf603680d55be7d25c72b70062e81771",
+            "content": {
+                "en": "Feeling your body betraying you every time."
+            }
+        },
+        {
+            "id": "w_369c47f2af928b09f7c0d1169152526c7c8b28c8",
+            "content": {
+                "en": "Ferns."
+            }
+        },
+        {
+            "id": "w_4b6b490b567b96bde42cda5cbdf4e1aa4d2924c4",
+            "content": {
+                "en": "Finding out that friendship was the real treasure all along."
+            }
+        },
+        {
+            "id": "w_82ed470d5a40f27592a5c8b5df1a7462fe18df45",
+            "content": {
+                "en": "Finding the strength to go on."
+            }
+        },
+        {
+            "id": "w_86263629c2377c84613c74c486dc4d3b1d34571c",
+            "content": {
+                "en": "Flopping around for a while before dying."
+            }
+        },
+        {
+            "id": "w_02a34faa4121856923449051bd8774d5b22a0331",
+            "content": {
+                "en": "Full HD."
+            }
+        },
+        {
+            "id": "w_23bbe7e6e25bc78ad645c86d617120995f5514ed",
+            "content": {
+                "en": "Galloping around the University of Colorado."
+            }
+        },
+        {
+            "id": "w_1e2567f300eceb51cdfefccfa3ddaa2d62f49969",
+            "content": {
+                "en": "Gangrene, unfortunately."
+            }
+        },
+        {
+            "id": "w_23f05bf20c7ac348c8401fdb8744e8f1a8ef144c",
+            "content": {
+                "en": "Gargling blood as I lie dying on the floor."
+            }
+        },
+        {
+            "id": "w_34d6c991f5ea367b625873b095f7179462486a58",
+            "content": {
+                "en": "Gayness."
+            }
+        },
+        {
+            "id": "w_d785b2b056b6b4cb53f3e6b68717ab14a882e277",
+            "content": {
+                "en": "Gelatinous globules of human flesh."
+            }
+        },
+        {
+            "id": "w_50bd166d05408461cbc6a89c807d99e6b2f95b87",
+            "content": {
+                "en": "Gently smothering a middle-aged man."
+            }
+        },
+        {
+            "id": "w_b46ff96efbd177e6f0f38802ecdc201d443f94a7",
+            "content": {
+                "en": "Genuine human connection."
+            }
+        },
+        {
+            "id": "w_db3ad8f057511174bf577badfe37aa2efc3df14d",
+            "content": {
+                "en": "Getting a girlfriend."
+            }
+        },
+        {
+            "id": "w_c4d8a83ee81b28d75b9eefdb45318a6f5c862175",
+            "content": {
+                "en": "Getting all the way to Seattle somehow."
+            }
+        },
+        {
+            "id": "w_6cc93d61f251a94cd81d6df239b0144488f8266d",
+            "content": {
+                "en": "Getting bonked on the head and becoming unconscious."
+            }
+        },
+        {
+            "id": "w_0abe2e8a31612f64a9f55bb5f0dd1b58623e15b2",
+            "content": {
+                "en": "Getting called out."
+            }
+        },
+        {
+            "id": "w_09137ae58739eef2bc1fa3a535ef23f798afd3aa",
+            "content": {
+                "en": "Getting clubbed."
+            }
+        },
+        {
+            "id": "w_ef6582f11f2cca829a9e9b51f3dad5c7ad02b479",
+            "content": {
+                "en": "Getting everybody killed."
+            }
+        },
+        {
+            "id": "w_e8dd534e0610fe14656976b1f1698995266d61c0",
+            "content": {
+                "en": "Getting into a pretty bad car accident."
+            }
+        },
+        {
+            "id": "w_b35fca2597dd511c7318b416a9554ac282143de5",
+            "content": {
+                "en": "Getting off with a warning."
+            }
+        },
+        {
+            "id": "w_a2cb8f338afaa090957d0f4d9f3397d8f3771392",
+            "content": {
+                "en": "Getting sniped."
+            }
+        },
+        {
+            "id": "w_6e5a0db56735a1f5cf624e7b03f1ce543be8fe6f",
+            "content": {
+                "en": "Getting your arms ripped off."
+            }
+        },
+        {
+            "id": "w_2ab4e16f992ad64e954c1c11d6962ec431bcaf89",
+            "content": {
+                "en": "Gettin\u2019 ya killed."
+            }
+        },
+        {
+            "id": "w_4798c7bd295debc34a97a64d27b5b09504e212bb",
+            "content": {
+                "en": "Giving a woman a steak and sending her on her way."
+            }
+        },
+        {
+            "id": "w_f5a7c12a5b69128a676300db96ebdb01ec3970a2",
+            "content": {
+                "en": "Giving in to my dark impulses."
+            }
+        },
+        {
+            "id": "w_1e6fea612cc271dfaac9ac793c92c53ed50f999a",
+            "content": {
+                "en": "Giving it a good scrub to make sure all the blood is gone."
+            }
+        },
+        {
+            "id": "w_33084e9f85d74b7528b9b6f5bd3dc4eeb0ce872a",
+            "content": {
+                "en": "Glass shards everywhere."
+            }
+        },
+        {
+            "id": "w_9f0ee3adb2c952033e7546be11c6427a8df09966",
+            "content": {
+                "en": "Going around punching people."
+            }
+        },
+        {
+            "id": "w_7748709f5e13a70b71e9c69cc0f6bae60d6ce3bf",
+            "content": {
+                "en": "Going cannibal."
+            }
+        },
+        {
+            "id": "w_3d3640536e75a2fb49526da94b3d7e93c27e47f0",
+            "content": {
+                "en": "Going on an epic adventure and learning a valuable lesson about friendship."
+            }
+        },
+        {
+            "id": "w_0f4e52f7372f2ed666cf67db533d922ebb744105",
+            "content": {
+                "en": "Going out in a blaze of glory."
+            }
+        },
+        {
+            "id": "w_68f92ef5e85c424f56a909c49fa3499ce9c8805d",
+            "content": {
+                "en": "Graphic violence, adult language, and some sexual content."
+            }
+        },
+        {
+            "id": "w_4c8ec658e4c82fa77db3c0fa93e1ce2e313f09de",
+            "content": {
+                "en": "Grunting in dismissal."
+            }
+        },
+        {
+            "id": "w_4f24124eb65a75247b27dfe3e2f79e2fc74c3698",
+            "content": {
+                "en": "Grunting repeatedly, like a man."
+            }
+        },
+        {
+            "id": "w_54bceac1bab6d395eabd8c6972490c5c79fb7cc1",
+            "content": {
+                "en": "Gun shots to the head."
+            }
+        },
+        {
+            "id": "w_251cea3f05bce93977f726a0d345fcb87f599cbc",
+            "content": {
+                "en": "Guns."
+            }
+        },
+        {
+            "id": "w_52934f64692ad587f6d91620be25c4e21bd206c9",
+            "content": {
+                "en": "Gustavo."
+            }
+        },
+        {
+            "id": "w_7d0b0888230f04af7a390bc988bf563b9c6ec3fc",
+            "content": {
+                "en": "Guzzling pond water by the bucket."
+            }
+        },
+        {
+            "id": "w_dd5757ff279dd0427d26ac5e129958a7079f2c96",
+            "content": {
+                "en": "Half a puppy."
+            }
+        },
+        {
+            "id": "w_5d34e90e4ecf0de98ad4919a84851335bd2d4e04",
+            "content": {
+                "en": "Hammering on the door and saying \"open up!&rdquo;"
+            }
+        },
+        {
+            "id": "w_9a79f7355f1e28a08bbec7c3858dbcd18eeeef2a",
+            "content": {
+                "en": "Hauling ass."
+            }
+        },
+        {
+            "id": "w_9100698bead474160365d86c332a75a1ac317468",
+            "content": {
+                "en": "Having a full-on mental breakdown at an upscale Wyoming farmhouse."
+            }
+        },
+        {
+            "id": "w_40faeb63a2eda7a5b6ca39fd37b4c3f77d2a81b3",
+            "content": {
+                "en": "Having difficulty coping with the death of a loved one."
+            }
+        },
+        {
+            "id": "w_c8cf0a58c0e3d2fae58aec624d295dbdcfc53c16",
+            "content": {
+                "en": "Heartwarming orphans."
+            }
+        },
+        {
+            "id": "w_f9822aea5b3c80a46b48bdfc01060861c7540618",
+            "content": {
+                "en": "Hiding from border patrol."
+            }
+        },
+        {
+            "id": "w_65ecd159bb575b1e4e8713705dd7d3f244c5b837",
+            "content": {
+                "en": "Hiding in the shrubs."
+            }
+        },
+        {
+            "id": "w_6a624551768b0da497aa2f7967452b1f380aebc2",
+            "content": {
+                "en": "Holding me tight and telling me everything will be okay."
+            }
+        },
+        {
+            "id": "w_414829d461685be1794d2a5d89090a27828fe436",
+            "content": {
+                "en": "Horrible brain injuries."
+            }
+        },
+        {
+            "id": "w_a093630d895cadf49e51ed9016169e566486221f",
+            "content": {
+                "en": "How amazing it is to be a mushroom."
+            }
+        },
+        {
+            "id": "w_537a3a74ea09fcdbbb149ee8be7a536bd77b828f",
+            "content": {
+                "en": "How cool space is."
+            }
+        },
+        {
+            "id": "w_6a2b2d689f25324e94bea4e5fe9ba15a2f84bdf3",
+            "content": {
+                "en": "How easy it is to climb over a wall with a ladder."
+            }
+        },
+        {
+            "id": "w_a343902420c7091e9ce3eda5ba8dede896ec37ac",
+            "content": {
+                "en": "How easy it is to kill someone."
+            }
+        },
+        {
+            "id": "w_0b8ad881a9bdb33a831b0bdf0f4fcc23ff8c26d0",
+            "content": {
+                "en": "How quiet the forest is."
+            }
+        },
+        {
+            "id": "w_810b44bcc428c538ae0fd9fbd1fa8b15e3467aab",
+            "content": {
+                "en": "Huge biceps."
+            }
+        },
+        {
+            "id": "w_94e46e57330c1f58aff2c097f042833c6eebc8cd",
+            "content": {
+                "en": "Hurting those closest to me."
+            }
+        },
+        {
+            "id": "w_d7935f408ad916fc23cd41efd588cb1bf129fa7a",
+            "content": {
+                "en": "Improvised explosive devices."
+            }
+        },
+        {
+            "id": "w_ed190fd1bc85f3a69a563ca1eb2c614d88abc4e7",
+            "content": {
+                "en": "Incomprehensible cuteness."
+            }
+        },
+        {
+            "id": "w_ec038d856d673720b155521d51af2e0299cc08bf",
+            "content": {
+                "en": "Indescribable loneliness."
+            }
+        },
+        {
+            "id": "w_37bcaebcbe10dacc5d0bed631fece2d1c6266db7",
+            "content": {
+                "en": "Insatiable bloodlust."
+            }
+        },
+        {
+            "id": "w_2ad0828a6470058a53f08d998f33caa02ff611de",
+            "content": {
+                "en": "Ish, the cool man that lives in the sewers."
+            }
+        },
+        {
+            "id": "w_9539f2e2e812807f8e291659184f31333ad73db8",
+            "content": {
+                "en": "Jeffrey Wright roaming the battlefield slaughtering innocent civilians."
+            }
+        },
+        {
+            "id": "w_07150a11917c2ac4027f36aae86e0a033a06d4fd",
+            "content": {
+                "en": "Jiggle physics."
+            }
+        },
+        {
+            "id": "w_0e833bb850b9e7b7b229e81d61f71ff1219627e4",
+            "content": {
+                "en": "Jogging from place to place."
+            }
+        },
+        {
+            "id": "w_b83f8c27d5507fa40867bf1c2e12fdd332ae02ab",
+            "content": {
+                "en": "Joining a cult."
+            }
+        },
+        {
+            "id": "w_6d97f9b7f2dc48885205c624e25f79d748669ca1",
+            "content": {
+                "en": "Jumping out at people."
+            }
+        },
+        {
+            "id": "w_05dee4437fd4079b9696afd4a8f56615d74cc72a",
+            "content": {
+                "en": "Kicking a man while he&apos;s down."
+            }
+        },
+        {
+            "id": "w_a26b940d6570ea7419781b64840784b95fd9d062",
+            "content": {
+                "en": "Killing anyone who steps foot on my property."
+            }
+        },
+        {
+            "id": "w_e42b31244a4de67054d2c3e904154f622b248c57",
+            "content": {
+                "en": "Killing the sinners."
+            }
+        },
+        {
+            "id": "w_02d2a22e9198ec666e8e01dea38a501d003e2eda",
+            "content": {
+                "en": "Killing time."
+            }
+        },
+        {
+            "id": "w_a0e3c37a75c18dd9fe5c9c1e15898817d8928a8d",
+            "content": {
+                "en": "Killing without remorse."
+            }
+        },
+        {
+            "id": "w_2cf9c045f937bda957c86b841699920376d3c250",
+            "content": {
+                "en": "Knocking out a child with a single punch."
+            }
+        },
+        {
+            "id": "w_c38eaecebcd8bff9642e2dea7b111fa5487f5fea",
+            "content": {
+                "en": "Latching onto a man&apos;s throat and biting out his pulsing jugular."
+            }
+        },
+        {
+            "id": "w_ce63d7fd999f988cf3d291bbf3b3ec3fc25dd667",
+            "content": {
+                "en": "Leaping."
+            }
+        },
+        {
+            "id": "w_eb910d9bcef2c55c092d82247d4de35e2abd8727",
+            "content": {
+                "en": "Leaving a trail of grief wherever you go."
+            }
+        },
+        {
+            "id": "w_3ad5c9dceb85ce3be10ca69786548aa98c9ea41b",
+            "content": {
+                "en": "Letting everyone out of jail."
+            }
+        },
+        {
+            "id": "w_7e9c593ccbe1471fefca795cd3ed08d0e0e675b0",
+            "content": {
+                "en": "Lighting stuff on fire."
+            }
+        },
+        {
+            "id": "w_839fca871b86231fe708afaf81e28e439488fe16",
+            "content": {
+                "en": "Lining people up against a wall and shooting them."
+            }
+        },
+        {
+            "id": "w_1075d3bf73345c150aaf2bbd88b1823053ac0eef",
+            "content": {
+                "en": "Live disembowelment."
+            }
+        },
+        {
+            "id": "w_0fc05d7a110946819381ce83bee0a665abb50c13",
+            "content": {
+                "en": "Long, solemn silences."
+            }
+        },
+        {
+            "id": "w_a878c5b3e3d5cc42138352d7e14b6f11baf70315",
+            "content": {
+                "en": "Losing my daughter at 28."
+            }
+        },
+        {
+            "id": "w_4d17b8cbd43fb02eaf9747e18c5d08a60ad5eb23",
+            "content": {
+                "en": "Losing my favorite arm."
+            }
+        },
+        {
+            "id": "w_ec210cffac77324478f99564ce15978619411ed8",
+            "content": {
+                "en": "Losing my left arm in combat."
+            }
+        },
+        {
+            "id": "w_2d0c53c77acb681d12276c617e1e53053f5ea48e",
+            "content": {
+                "en": "Losing my leg to a roadside bomb."
+            }
+        },
+        {
+            "id": "w_ec6129e7dd38c70ffae045a17539476115532d15",
+            "content": {
+                "en": "Making a pouty face."
+            }
+        },
+        {
+            "id": "w_39285e1bb263678e3bc8f80843471b1cabafaa2f",
+            "content": {
+                "en": "Making out and stuff."
+            }
+        },
+        {
+            "id": "w_fbe95930931698e2b13a2b2b512681e5c6857f53",
+            "content": {
+                "en": "Massive arms."
+            }
+        },
+        {
+            "id": "w_8d9cad10b729d722db2d929010908a11158a78ee",
+            "content": {
+                "en": "Me and the other wolf boys."
+            }
+        },
+        {
+            "id": "w_a97247bd629751282c132ad08e461cdbecc75fb2",
+            "content": {
+                "en": "Men discussing their feelings in an emotionally healthy way."
+            }
+        },
+        {
+            "id": "w_923b9107e4419cce342428f176553c6b2c8c4474",
+            "content": {
+                "en": "Moral ambiguity."
+            }
+        },
+        {
+            "id": "w_e4d420345c7e9f1ef7f67eb89043850f049360a5",
+            "content": {
+                "en": "More than one brick."
+            }
+        },
+        {
+            "id": "w_4177e450fe9d829786c1d9e261261319ea58f626",
+            "content": {
+                "en": "Moss."
+            }
+        },
+        {
+            "id": "w_f0e7a94b98a9ca152f0a39dcd6aceeb87724f5ff",
+            "content": {
+                "en": "Most of a horse."
+            }
+        },
+        {
+            "id": "w_3cebb88c9167cfec55097d07147d46df3f2a9a6b",
+            "content": {
+                "en": "Moving to Wyoming."
+            }
+        },
+        {
+            "id": "w_954b230a2356fb7f73df5ea5a823ad0191ad349e",
+            "content": {
+                "en": "Multiple stab wounds."
+            }
+        },
+        {
+            "id": "w_9d521501019df8822854b1a179816b1934bf4c93",
+            "content": {
+                "en": "Murdering a trespasser."
+            }
+        },
+        {
+            "id": "w_2ad62c2512ce5537dc96f7e1929792ebfb40648f",
+            "content": {
+                "en": "Muscular Greta Thunberg."
+            }
+        },
+        {
+            "id": "w_50e693d17ef9e86e6b5c22fcc3fd1d54cb251da1",
+            "content": {
+                "en": "My arsenal of maladaptive coping mechanisms."
+            }
+        },
+        {
+            "id": "w_8199140a38e87fb1a09d785693243926b91870eb",
+            "content": {
+                "en": "My complicated backstory that you will soon learn about."
+            }
+        },
+        {
+            "id": "w_457d4d8ec768ec9d81d0d048d0906f736a1b0ae0",
+            "content": {
+                "en": "My dead baby daddy."
+            }
+        },
+        {
+            "id": "w_a4e6e6f46c472f6c1cdcce1f7daa99fc260ff899",
+            "content": {
+                "en": "My diamond-hard revenge boner."
+            }
+        },
+        {
+            "id": "w_4a76dc8f4da1760f00ff364c521f300ec97d02da",
+            "content": {
+                "en": "My finely curated collection of pornography."
+            }
+        },
+        {
+            "id": "w_7c9ebed11714b755ea1bc4d76429443984e651ce",
+            "content": {
+                "en": "My first kill."
+            }
+        },
+        {
+            "id": "w_c58d78fa36778551a65cf754cec3573e27266749",
+            "content": {
+                "en": "My long, long neck."
+            }
+        },
+        {
+            "id": "w_18ad8657c8b182c85e0f9ab04d5a9cb46e8f6646",
+            "content": {
+                "en": "My worst fear: ending up alone."
+            }
+        },
+        {
+            "id": "w_daacd799ee9148edd1b1466b3c3ce9be9c82d4e3",
+            "content": {
+                "en": "Nasty crawly things."
+            }
+        },
+        {
+            "id": "w_0867643fd6542d2672acbeb135957198400f7c43",
+            "content": {
+                "en": "Needless cruelty."
+            }
+        },
+        {
+            "id": "w_fff133e4827db213ebe07fae083fcd4be9dacfc5",
+            "content": {
+                "en": "Never showering."
+            }
+        },
+        {
+            "id": "w_8c358cbc55ddd696575f1321e9f504f327658e8e",
+            "content": {
+                "en": "Nine seconds of sexual tension, then some kissing."
+            }
+        },
+        {
+            "id": "w_7b65bf895f44f63e45b2471de0471d874eafcb53",
+            "content": {
+                "en": "Not knowing what an aquarium is."
+            }
+        },
+        {
+            "id": "w_aaef7a4b5c8b48883227b8c2bf28ca7c7fb814fe",
+            "content": {
+                "en": "Not my real dad!"
+            }
+        },
+        {
+            "id": "w_75b61b6056fd54949f18b1f169fa93559369f6a0",
+            "content": {
+                "en": "Not only having dry heaves but also wet ones."
+            }
+        },
+        {
+            "id": "w_87bdca6964a599ed58e887e6296f9527e98e8be2",
+            "content": {
+                "en": "Ominous background music."
+            }
+        },
+        {
+            "id": "w_90680ec3cd3db99f5db6eea1fb9f0a924ee1571e",
+            "content": {
+                "en": "One cool ass kid."
+            }
+        },
+        {
+            "id": "w_e3d979dda5b5a8eca098ed0e517f9b64aa8613ff",
+            "content": {
+                "en": "One titty hanging out."
+            }
+        },
+        {
+            "id": "w_2c7aee012b09ff62b221d9700cf1d21c303a2809",
+            "content": {
+                "en": "Only a very small number of survivors."
+            }
+        },
+        {
+            "id": "w_599051e18c725c61e7f68c3a72c65ff1929d2ee0",
+            "content": {
+                "en": "Open and honest communication."
+            }
+        },
+        {
+            "id": "w_0560dbbc389bdc60a4b0d70c6b4598fbd1627607",
+            "content": {
+                "en": "Our most basic primal instincts."
+            }
+        },
+        {
+            "id": "w_7eca6dae23d31fde602e2c24151bef99a71dc16e",
+            "content": {
+                "en": "Owing a lot of firearms to some very bad people."
+            }
+        },
+        {
+            "id": "w_718d33b722c5b0c83ea61b8f1372015429cdb70d",
+            "content": {
+                "en": "Pallets."
+            }
+        },
+        {
+            "id": "w_f9f17abdea4c332651e37469b3ef9a45ba4c435b",
+            "content": {
+                "en": "Panic in the streets."
+            }
+        },
+        {
+            "id": "w_71e1a42b80b4b6fe82218e89e91a80853290a43c",
+            "content": {
+                "en": "Pedophiles."
+            }
+        },
+        {
+            "id": "w_7e13a414e7cde7e986d7e225097f80e4a071352d",
+            "content": {
+                "en": "Perhaps the end of the human race."
+            }
+        },
+        {
+            "id": "w_f88c96bf482c911dd3b92dd5e557d47db453c817",
+            "content": {
+                "en": "Piles of baby shoes."
+            }
+        },
+        {
+            "id": "w_7f9a97df0ec01c1fd14300a25293a8466dd20858",
+            "content": {
+                "en": "Pill-popping."
+            }
+        },
+        {
+            "id": "w_da3a8fb7cd3e58ea866c7ca485c706adbfa5a22a",
+            "content": {
+                "en": "Pills."
+            }
+        },
+        {
+            "id": "w_dcf861313048afd9cd6b4a9514aa92e1506da62b",
+            "content": {
+                "en": "Planning my child&apos;s funeral."
+            }
+        },
+        {
+            "id": "w_f2300873c4e4f80b21b5e1f6425466b2a0bd4a3b",
+            "content": {
+                "en": "Plopping down in the corner and letting the fungus claim me."
+            }
+        },
+        {
+            "id": "w_3ad17cc2568cf15055188bfcb110d1ee53c4d4d5",
+            "content": {
+                "en": "Potato. Potato. My little buddy Potato. What a big boy."
+            }
+        },
+        {
+            "id": "w_3f2e96d3eeaf0986804800d2889b5dc879fc7793",
+            "content": {
+                "en": "Presenting your documents at the checkpoint."
+            }
+        },
+        {
+            "id": "w_8346aad85e71e4ad9f2632809d8b8baa5846edf3",
+            "content": {
+                "en": "Probably just the wind."
+            }
+        },
+        {
+            "id": "w_f663bf6db47ecdc2631df4b17c960432d65e0ce4",
+            "content": {
+                "en": "Proving that girls are people too."
+            }
+        },
+        {
+            "id": "w_d08bd5c5f9e5f7caf1229ec4966c4498caf999b5",
+            "content": {
+                "en": "PTSD."
+            }
+        },
+        {
+            "id": "w_220d27b55e5be69f879962d373904209a72563fb",
+            "content": {
+                "en": "Punching everyone."
+            }
+        },
+        {
+            "id": "w_614be11455c9ea3f7ed20ee9e38c23df63bc0729",
+            "content": {
+                "en": "Punching this wall till it caves."
+            }
+        },
+        {
+            "id": "w_6b08a0667ed73c14d9dc8def1b937abf30cc62ea",
+            "content": {
+                "en": "Puns."
+            }
+        },
+        {
+            "id": "w_739489261d55d1e476137fdf197e1002a9c20054",
+            "content": {
+                "en": "Pure muscle."
+            }
+        },
+        {
+            "id": "w_6a226cdc52f80850062af173a746b61748dcda8d",
+            "content": {
+                "en": "Pustules."
+            }
+        },
+        {
+            "id": "w_66f3cf39a649fd69d064e098396be768f090c339",
+            "content": {
+                "en": "Putting dirty dishes in the sink and hoping someone else deals with them."
+            }
+        },
+        {
+            "id": "w_4e8d125ccbcd6547d5c9eb12d19a3e0b4417693c",
+            "content": {
+                "en": "Rage."
+            }
+        },
+        {
+            "id": "w_ed3897e13959dc3e8930592556f3dcd5e34dd8a8",
+            "content": {
+                "en": "Rapidly-deteriorating peace talks."
+            }
+        },
+        {
+            "id": "w_cd1247cc676cbc56dbb47122ec065d424935ceb0",
+            "content": {
+                "en": "RAWR. Werewolf."
+            }
+        },
+        {
+            "id": "w_0e805e39606cd2ac5aacf6ce2699bd4aac00c39c",
+            "content": {
+                "en": "Realizing that I'm the asshole."
+            }
+        },
+        {
+            "id": "w_a7bdfd579c714af9af3495e7533f8febdf896665",
+            "content": {
+                "en": "Releasing a guttural shriek from my vocal sac."
+            }
+        },
+        {
+            "id": "w_268f676835b124db11fc741ad1a9aaa68037dc4c",
+            "content": {
+                "en": "Repopulating the earth."
+            }
+        },
+        {
+            "id": "w_007602083d23535e366a08bca33e57f1ea190862",
+            "content": {
+                "en": "Resorting to cannibalism."
+            }
+        },
+        {
+            "id": "w_395354e45c3519884d4bb421443dfa2d1bb72638",
+            "content": {
+                "en": "Revenge."
+            }
+        },
+        {
+            "id": "w_a1909476ed838a2700e83d118be29bb8bae043d2",
+            "content": {
+                "en": "Rinsing off all the blood."
+            }
+        },
+        {
+            "id": "w_c39a99ce3f5efc4b09fb030fbbadea44dec86f23",
+            "content": {
+                "en": "Roach-infested mattresses."
+            }
+        },
+        {
+            "id": "w_105b1a1365350a98142f5146070a0a1fdf831434",
+            "content": {
+                "en": "Rope skills."
+            }
+        },
+        {
+            "id": "w_274b4b4168b5acebae8640e2b85ca6f93bbfa225",
+            "content": {
+                "en": "Running out of fuel."
+            }
+        },
+        {
+            "id": "w_fea586d8e6a5b42c458c41799e9285d237b9f8a5",
+            "content": {
+                "en": "Safety in numbers and all that."
+            }
+        },
+        {
+            "id": "w_5ffeca93f55bb9185cd497e4f61e4f6c65c93a32",
+            "content": {
+                "en": "Sailing to the rescue."
+            }
+        },
+        {
+            "id": "w_1f9e2441168e37dab5982dd00191d21e89f8b679",
+            "content": {
+                "en": "Saying a bad word."
+            }
+        },
+        {
+            "id": "w_cb56d0f010db104a8cb1b99f9dbe4df8a6f73373",
+            "content": {
+                "en": "Scooting to the left a little."
+            }
+        },
+        {
+            "id": "w_aadbbba8b66f9234eaccb30f1a9e868463889572",
+            "content": {
+                "en": "Screaming the F-word."
+            }
+        },
+        {
+            "id": "w_bd8bf9af52e9795cd1619c97e4824a88d0a9f54b",
+            "content": {
+                "en": "Screaming... and then silence."
+            }
+        },
+        {
+            "id": "w_6524b5560fa8e0b11bd1218f9c120e3be4d75ab9",
+            "content": {
+                "en": "Scrotum wound fungus."
+            }
+        },
+        {
+            "id": "w_d5f4e34bb394fce40dec4ef1c399d5fa6ba7875d",
+            "content": {
+                "en": "Scuttling across the floor."
+            }
+        },
+        {
+            "id": "w_fef8baa194e30e26f574f3d9ebb29ac70e2963a0",
+            "content": {
+                "en": "Sea lion polkadots."
+            }
+        },
+        {
+            "id": "w_608acd91865089b2dd3479626b2d869cb5b1318c",
+            "content": {
+                "en": "Secreting a cloud of acidic spores from my pustules."
+            }
+        },
+        {
+            "id": "w_3c70409fe2133d748372009da53b612208f8a314",
+            "content": {
+                "en": "Seeing my village burned and my family slaughtered before my eyes."
+            }
+        },
+        {
+            "id": "w_bba3391d56b297b951b899221b93d9daa8cade0c",
+            "content": {
+                "en": "Self-defense."
+            }
+        },
+        {
+            "id": "w_92d3d656326eadd5ba11fe90207851e5d4157d07",
+            "content": {
+                "en": "Shaved white heads."
+            }
+        },
+        {
+            "id": "w_556d540313d13b2f458bf8e5ed003b85678a7fc0",
+            "content": {
+                "en": "Sheer force."
+            }
+        },
+        {
+            "id": "w_3cd64ccb5713c4277ccb7a585d823692e17605b2",
+            "content": {
+                "en": "Shitting your pants like a little bitch."
+            }
+        },
+        {
+            "id": "w_62cf5d425e06e829c5b921daaff7e1d9f57ca0f6",
+            "content": {
+                "en": "Shooting first and asking questions later."
+            }
+        },
+        {
+            "id": "w_769e89ca62e14e0657a64110cafc59ba0fbc83a9",
+            "content": {
+                "en": "Shooting on sight."
+            }
+        },
+        {
+            "id": "w_18a436379b0a9f77ea7462e0739cdbb7b0725f3e",
+            "content": {
+                "en": "Shooting people with guns like a big boy."
+            }
+        },
+        {
+            "id": "w_bc65ec6f0d9f2c427009e13eed16696a5c617be9",
+            "content": {
+                "en": "Shooting the hell out of a guy."
+            }
+        },
+        {
+            "id": "w_7059a2372c0aab5b233bc533b523ce3b682f9e31",
+            "content": {
+                "en": "Singing sad, soulful songs about my dead father figure."
+            }
+        },
+        {
+            "id": "w_63f3eb799050b44b6dd0ddc4ea4a883c39206e78",
+            "content": {
+                "en": "Six wretched months in the orphanage."
+            }
+        },
+        {
+            "id": "w_897292dc299cf40da84b6a9ec78de50ecc24c63f",
+            "content": {
+                "en": "Slamming into a table and perishing."
+            }
+        },
+        {
+            "id": "w_73562d232a52d9737b72da015e4738f27af07b49",
+            "content": {
+                "en": "Slamming through six inches of reinforced concrete."
+            }
+        },
+        {
+            "id": "w_3f617f421a6113e01b36abecb5081611697d053d",
+            "content": {
+                "en": "Sniffing my crush."
+            }
+        },
+        {
+            "id": "w_ca73318c501d8d68abf8eff38399bd61b93aba44",
+            "content": {
+                "en": "Sniper! Get down!"
+            }
+        },
+        {
+            "id": "w_07e7ba52a08ed4ffc5fcb73b946feaf9717e3963",
+            "content": {
+                "en": "Sobbing uncontrollably."
+            }
+        },
+        {
+            "id": "w_b56e7061adfba63de513536c861c2795431184e0",
+            "content": {
+                "en": "Solving problems with violence."
+            }
+        },
+        {
+            "id": "w_4a06ab104515bd8b6005dd190136966303ce4eef",
+            "content": {
+                "en": "Some douche with an acoustic guitar."
+            }
+        },
+        {
+            "id": "w_e90b7321ee6fa58506f44aef13db8c7cba1e5d83",
+            "content": {
+                "en": "Some really cool dinosaurs."
+            }
+        },
+        {
+            "id": "w_99cd3e09b9f7616fe290b4f53599384e34909eea",
+            "content": {
+                "en": "Something really funny but I can't remember."
+            }
+        },
+        {
+            "id": "w_9cd0c5f94c5dde2f3d26cd87717b0a8d23dca0af",
+            "content": {
+                "en": "Soul-crushing silence."
+            }
+        },
+        {
+            "id": "w_594689ab9f0fee16a2364e96339818c65978fb9e",
+            "content": {
+                "en": "Spluttering and convulsing."
+            }
+        },
+        {
+            "id": "w_51d58d8a2599137fe87de94c5585c8bc0753811e",
+            "content": {
+                "en": "Spooky scary skeletons."
+            }
+        },
+        {
+            "id": "w_6faf650255cea549e25145a0c8b13945e62c4717",
+            "content": {
+                "en": "Sprinting for my life."
+            }
+        },
+        {
+            "id": "w_72c68f97caabcde699356b0b042a020139246b43",
+            "content": {
+                "en": "Stalkers."
+            }
+        },
+        {
+            "id": "w_1be7f1664b54eab7c2093a0b5cd5644af8682f0f",
+            "content": {
+                "en": "Strong female characters."
+            }
+        },
+        {
+            "id": "w_b56d1d5ea8b64c8fb80332eff5c3d33b7f84cc6d",
+            "content": {
+                "en": "Stumbling around in the dark."
+            }
+        },
+        {
+            "id": "w_07fb9cfe64ea40090abeb8ee7a337369af5fcaf2",
+            "content": {
+                "en": "Sudden bursts of rage."
+            }
+        },
+        {
+            "id": "w_7c8f28879803f276ec10e97c4590129b5492664a",
+            "content": {
+                "en": "Suddenly being super supportive of gay people."
+            }
+        },
+        {
+            "id": "w_54d8735eb8e2d84c957bb1519e652d0aed963990",
+            "content": {
+                "en": "Suddenly-intensifying charango music."
+            }
+        },
+        {
+            "id": "w_e5b2e568a4c1eb1cd7dc34070e14d21d2ebff6f0",
+            "content": {
+                "en": "Survival of the fittest."
+            }
+        },
+        {
+            "id": "w_b0b136892293267880e7f7c8987310664ebb9cf3",
+            "content": {
+                "en": "Surviving."
+            }
+        },
+        {
+            "id": "w_3a6e1b65e3caf6c69e9080a75bf7140b6a56d010",
+            "content": {
+                "en": "Survivor&apos;s guilt."
+            }
+        },
+        {
+            "id": "w_b450909a76e6c242607294a835bd1a9b317f4443",
+            "content": {
+                "en": "Sweating and grunting."
+            }
+        },
+        {
+            "id": "w_506a2b8fa7a4c27e34a6d9fac68ed04793f3db7b",
+            "content": {
+                "en": "Sweet, sweet vengeance."
+            }
+        },
+        {
+            "id": "w_38e2a0c46e9e8068505195d95acac65106c4e39d",
+            "content": {
+                "en": "Taking off each other&apos;s clothes enthusiastically."
+            }
+        },
+        {
+            "id": "w_47b2b95fd79171cd205eda09419272ce5f986da7",
+            "content": {
+                "en": "Teenage pregnancy."
+            }
+        },
+        {
+            "id": "w_2b063f49164051bf46d55cccad7100db5c111220",
+            "content": {
+                "en": "Telling you my story, and then trying to kill you with a machete."
+            }
+        },
+        {
+            "id": "w_8b4ce1726eb723ebce0939cf952ea777d2296742",
+            "content": {
+                "en": "Texas."
+            }
+        },
+        {
+            "id": "w_3eafc8698a30afa5498bc021428a3e8c468f51f1",
+            "content": {
+                "en": "That little voice in the back of your head that tells you to jump when you stand by a cliff."
+            }
+        },
+        {
+            "id": "w_4f2ed1b8673ac434e6d50aa94030c83076e9f025",
+            "content": {
+                "en": "That smart son of a bitch, Robert."
+            }
+        },
+        {
+            "id": "w_736839bf56ab25a3013ec4b94dc2549474ddfc41",
+            "content": {
+                "en": "That time my mom died and I was adopted by the homeless guy."
+            }
+        },
+        {
+            "id": "w_9df9dc7ec4024e8fb60b8238f0260c8a8a2400dd",
+            "content": {
+                "en": "The 14+ swings it takes to kill a grown man with a golf club."
+            }
+        },
+        {
+            "id": "w_0ef5e345a0bd8142551027c197c188e1cdd80d26",
+            "content": {
+                "en": "The all-knowing sky whale."
+            }
+        },
+        {
+            "id": "w_0bc8580e93fa3212129bc44336d45e3f9c7feb35",
+            "content": {
+                "en": "The amount of human suffering I've caused."
+            }
+        },
+        {
+            "id": "w_21411f94c7727aa6a8a065828d9832469be04a70",
+            "content": {
+                "en": "The amount of money I've made selling hardcore drugs."
+            }
+        },
+        {
+            "id": "w_aaaf4468bdec192a27339f418aacb49ea746c472",
+            "content": {
+                "en": "The amount of pent-up hate and vitriol I can summon up at any given moment."
+            }
+        },
+        {
+            "id": "w_665351879e62b7c38fc2f181fe4cf93c22226038",
+            "content": {
+                "en": "The amount of people my slutty roommate can fuck."
+            }
+        },
+        {
+            "id": "w_6c3883213698fa70584f24afa085e2eb3d9d5236",
+            "content": {
+                "en": "The artful blood splatter of a perfectly-formed brick colliding with the lower jaw."
+            }
+        },
+        {
+            "id": "w_05fa960a30675db574d76a4998810e7e8c6cc4c1",
+            "content": {
+                "en": "The baby inside me."
+            }
+        },
+        {
+            "id": "w_46c1af9fa4dfe4f95cc0ee32119a4e1b5af56929",
+            "content": {
+                "en": "The big ol' horses that do the clip clop."
+            }
+        },
+        {
+            "id": "w_94da6e36f3809dcc6411bcf1e578128cc10b64f8",
+            "content": {
+                "en": "The bond between a woman and her horse."
+            }
+        },
+        {
+            "id": "w_820c7c82a575dbdb7bf2537e69ff58d693363334",
+            "content": {
+                "en": "The charred hole where my face used to be."
+            }
+        },
+        {
+            "id": "w_8cd52cbc2922061f0d587e6f6fc990c0aee407d8",
+            "content": {
+                "en": "The chick at the party playing &ldquo;Take on Me\" on an acoustic guitar."
+            }
+        },
+        {
+            "id": "w_c91b8e70c8d15e0343c18e19cbaac3d35fb1a761",
+            "content": {
+                "en": "The choke hold."
+            }
+        },
+        {
+            "id": "w_f855c2fba8742d6d90832648bff2deb921d28185",
+            "content": {
+                "en": "The cold hard truth that Daddy never loved you."
+            }
+        },
+        {
+            "id": "w_f2ea83b80bbb4b2f6819fb4c6e3cadd06a253bea",
+            "content": {
+                "en": "The Cordyceps growing out of my forehead."
+            }
+        },
+        {
+            "id": "w_4b39b4228098d06e74dbcf36756035e7be37d3ff",
+            "content": {
+                "en": "The cycle of violence."
+            }
+        },
+        {
+            "id": "w_dc4007f4d4dfca361d64559c18f7c9bb1adc311e",
+            "content": {
+                "en": "The damage a powder keg can do to the human groin."
+            }
+        },
+        {
+            "id": "w_40952d6017cb59f2e0e188cddd61ab99172eec07",
+            "content": {
+                "en": "The dark, sunken eyes of a Gamestop cashier."
+            }
+        },
+        {
+            "id": "w_432b363af6e80de351240f152834cb607331fb6a",
+            "content": {
+                "en": "The dull thud of a fallen child."
+            }
+        },
+        {
+            "id": "w_bc898930d3fc37d98b12bbf2630d5b4e19104dde",
+            "content": {
+                "en": "The eerie squelch that emanates from a grown man&apos;s head when you crush his temple with a golf club."
+            }
+        },
+        {
+            "id": "w_2c2fc9481153671daa1f510c001b6756ebeb24f2",
+            "content": {
+                "en": "The end of the fucking world."
+            }
+        },
+        {
+            "id": "w_bb028f1c38fb39be3aeec13faa85b2fc60786c97",
+            "content": {
+                "en": "The euphoric rush of strangling a drifter."
+            }
+        },
+        {
+            "id": "w_b377275c8070170c3c513eccc512fb29bcfec418",
+            "content": {
+                "en": "The ever-present fear of death."
+            }
+        },
+        {
+            "id": "w_559f5bb9e27b6ab8e2ad4db901cb27c1984d5e66",
+            "content": {
+                "en": "The fear and hatred in men&apos;s hearts."
+            }
+        },
+        {
+            "id": "w_6268fe3d561dc6c028243efc0231cc0639d287d0",
+            "content": {
+                "en": "The feds that are on their way right now."
+            }
+        },
+        {
+            "id": "w_1383768db7df343bf94ec113b9c1ad21a554dbcc",
+            "content": {
+                "en": "The guilt that pervades my very being."
+            }
+        },
+        {
+            "id": "w_d1661ec16d36b08cfdad3554bc77ea5ed54da376",
+            "content": {
+                "en": "The gun I keep on my person at all times."
+            }
+        },
+        {
+            "id": "w_37e18d769083e0656b75ed3593dc815d2cd21649",
+            "content": {
+                "en": "The hand that&apos;s crushing my windpipe."
+            }
+        },
+        {
+            "id": "w_2cbf51d35b1f776af2cefe7bfba731461eb0f6c5",
+            "content": {
+                "en": "The kind of mustache that makes a parent double check where their child is."
+            }
+        },
+        {
+            "id": "w_11b661e04ffc8da8cf85a2cf6d2ee99b0ecd60e5",
+            "content": {
+                "en": "The majesty of the brontosaurus."
+            }
+        },
+        {
+            "id": "w_847bb0085ea8ff10e5cd38c6821fd77f89414a4d",
+            "content": {
+                "en": "The manliest masculine man ever to man masculinely."
+            }
+        },
+        {
+            "id": "w_24c53371fe5e98d910a6cab10deb02983ed9ad26",
+            "content": {
+                "en": "The meaninglessness of life."
+            }
+        },
+        {
+            "id": "w_a6f5d0827bf7e8fc5ab86858c5452e175bed2179",
+            "content": {
+                "en": "The moral ambiguity of my violent actions."
+            }
+        },
+        {
+            "id": "w_690eebb889e3a84fd29b4137a92ba2b447f11e90",
+            "content": {
+                "en": "The morose marathon that is life."
+            }
+        },
+        {
+            "id": "w_97a7765125f8411117f7f4052f841aa5d42f7ace",
+            "content": {
+                "en": "The most fucked up thing you can imagine."
+            }
+        },
+        {
+            "id": "w_52a6a6d55defc44d087a5a08e0098265ae299415",
+            "content": {
+                "en": "The most powerful thing of all: friendship."
+            }
+        },
+        {
+            "id": "w_ed58bf06e5046004665ba63bb2ecb699ec78ea76",
+            "content": {
+                "en": "The muffled cries of the hostage."
+            }
+        },
+        {
+            "id": "w_92007e1726a55b33f1d383b523c06b892c1d9ef0",
+            "content": {
+                "en": "The muffled screams coming from the basement."
+            }
+        },
+        {
+            "id": "w_e8543868af967e6fbd64bd7b81ce37e86eff1d5a",
+            "content": {
+                "en": "The nail bombs that I hid all over town."
+            }
+        },
+        {
+            "id": "w_c66ffbaa470577249125c8bf9b2a0444486374bc",
+            "content": {
+                "en": "The physical imperfection of an old man."
+            }
+        },
+        {
+            "id": "w_ee0aad8af285ee8c0249d44420524f59d4f5b581",
+            "content": {
+                "en": "The quiet majesty of the giraffe."
+            }
+        },
+        {
+            "id": "w_f1332a9825dc9dd12ca72a725dd26b0bd5451097",
+            "content": {
+                "en": "The rash and emotionally driven impulses of a 14-year-old girl."
+            }
+        },
+        {
+            "id": "w_4a48e2d21cb11ea5dd323413515a958848875524",
+            "content": {
+                "en": "The raw anger of Joel."
+            }
+        },
+        {
+            "id": "w_c7f908254688db3b0bc685244a1f0bebb45a9cb0",
+            "content": {
+                "en": "The rich history of the Jewish people."
+            }
+        },
+        {
+            "id": "w_a9181116ecf7817c2bdc862b3a59bc732054c2a1",
+            "content": {
+                "en": "The sadness that I feel."
+            }
+        },
+        {
+            "id": "w_7f6496864e906318611077901f932700f7ea23ae",
+            "content": {
+                "en": "The screams of a person on fire."
+            }
+        },
+        {
+            "id": "w_dc9a37b01d1f8a1c85c430f534f18c7fa9888091",
+            "content": {
+                "en": "The screams&hellip; the terrible screams."
+            }
+        },
+        {
+            "id": "w_7a70cc7fff9aa1933b0ce53751609aaa7b652a7a",
+            "content": {
+                "en": "The sound of breaking bones."
+            }
+        },
+        {
+            "id": "w_345ade42a988f4db338099f9b62b5900050d4100",
+            "content": {
+                "en": "The spore cloud that&apos;s headed right for us."
+            }
+        },
+        {
+            "id": "w_de98e867e746b7619f86e8142fd7fac64d01df6b",
+            "content": {
+                "en": "The unbelievable world of mushrooms."
+            }
+        },
+        {
+            "id": "w_2a67f8afcee628178cc647083afd8c3816f639d9",
+            "content": {
+                "en": "The urge to kill."
+            }
+        },
+        {
+            "id": "w_d6f608b735cabb460e70c54ed8ff407f96fd45bf",
+            "content": {
+                "en": "The very real truth that kids can die."
+            }
+        },
+        {
+            "id": "w_5edb3903f82871955a23efbd8b1696f3525806c3",
+            "content": {
+                "en": "The visceral pleasure of revenge."
+            }
+        },
+        {
+            "id": "w_d35c3387e386a6f5346274d1f696528e0f271178",
+            "content": {
+                "en": "The way a sick man\u2019s head just pops when you stomp on it."
+            }
+        },
+        {
+            "id": "w_2103fc2a7ae44712527a6490a695e8c3911ed127",
+            "content": {
+                "en": "Thinking about all the horrible things that have happened to people."
+            }
+        },
+        {
+            "id": "w_508c7414f6eb502470df01d402216f75b2d2f14b",
+            "content": {
+                "en": "Thinking of you as family."
+            }
+        },
+        {
+            "id": "w_f7a1bf0ce919bef1e7dd89f1947737d1bdf007b9",
+            "content": {
+                "en": "This dead body I found."
+            }
+        },
+        {
+            "id": "w_17612852a3630c10e96de93c51539b869c711c68",
+            "content": {
+                "en": "This fucking weather."
+            }
+        },
+        {
+            "id": "w_6ec568c8c629f8a1fedfec174212b6cfc7e4c57e",
+            "content": {
+                "en": "This here hunt'n rifle."
+            }
+        },
+        {
+            "id": "w_e942d923d856dcdb6dc4f1ab1104692f2addf9e5",
+            "content": {
+                "en": "Throwing a tantrum and telling everyone not to touch you anymore."
+            }
+        },
+        {
+            "id": "w_7bae81463ccf2390407a4d8acc9b37f2c14ad815",
+            "content": {
+                "en": "Treating her like a princess by selling her off to forge an alliance."
+            }
+        },
+        {
+            "id": "w_c0fab45e8e58a7b4f8567b232d3f955af1404be4",
+            "content": {
+                "en": "Triceps for days."
+            }
+        },
+        {
+            "id": "w_da549d9a66607452072545971978504fb8360e97",
+            "content": {
+                "en": "Trying to pass the time by painting a picture."
+            }
+        },
+        {
+            "id": "w_b5f0ec585c75667fd279da30b2f55e263b35cc84",
+            "content": {
+                "en": "Turning into a 14-year-old girl."
+            }
+        },
+        {
+            "id": "w_4411e2d53f53186285c9a4ce7f63f697c6208d09",
+            "content": {
+                "en": "Two arms, one of them gangrenous."
+            }
+        },
+        {
+            "id": "w_ee58f4d03b3477ca608f58d1e02ea288405c751c",
+            "content": {
+                "en": "Two pounds of mix-n'-match nails and screws."
+            }
+        },
+        {
+            "id": "w_e6beee839a1b2a9c406b98225addce380e9bf8ed",
+            "content": {
+                "en": "Two young lovers with nothing better to do."
+            }
+        },
+        {
+            "id": "w_cdc31e115b0c6a7d8065d8d8e93fe597fa2c5d38",
+            "content": {
+                "en": "Unattended children."
+            }
+        },
+        {
+            "id": "w_b34e95d0143f8c30c5dcd4fd1d5242a724e2e413",
+            "content": {
+                "en": "Unnecessary profanity."
+            }
+        },
+        {
+            "id": "w_e90fb1216bfd99bc515bc91e7c4b0f77c248fdbe",
+            "content": {
+                "en": "Unspeakable acts of cruelty."
+            }
+        },
+        {
+            "id": "w_af85fb5ae81adfa39c3b2315faa810583f8115b3",
+            "content": {
+                "en": "Using anger to achieve your goals."
+            }
+        },
+        {
+            "id": "w_5539da6e69d38e418e7cbfeed03766cab973f7ab",
+            "content": {
+                "en": "Vengeance for my father."
+            }
+        },
+        {
+            "id": "w_39e1f7fb2c04bb3d954b38c08c5ea823e3b7fff4",
+            "content": {
+                "en": "Waiting for the perfect time to strike."
+            }
+        },
+        {
+            "id": "w_4c2a60c71e53cd2edc0e76680454494131d4e75d",
+            "content": {
+                "en": "Watching the life drain from the eyes of father\u2019s killer."
+            }
+        },
+        {
+            "id": "w_e7b072ad5d71a4703fb2a8541962222a14493203",
+            "content": {
+                "en": "When the big knife does the stabby stabby."
+            }
+        },
+        {
+            "id": "w_8daf06c9cee3671164a9791d05b122be91509fc0",
+            "content": {
+                "en": "When the flashlight isn\u2019t working so you wiggle it and it works just fine."
+            }
+        },
+        {
+            "id": "w_675ad0cb966a9a868800c20488b0715ce6f3c0b6",
+            "content": {
+                "en": "Wishing that dogs did not exist anymore so that I wouldn\u2019t have to murder them."
+            }
+        },
+        {
+            "id": "w_f421a320e1b388111a4e41f52cebab2943ff7f5a",
+            "content": {
+                "en": "Wishing we could all just get along."
+            }
+        },
+        {
+            "id": "w_f0fba7d6dc8c952479b223fde2a21611ef750975",
+            "content": {
+                "en": "Withholding affection."
+            }
+        },
+        {
+            "id": "w_6bdc6ee8ac476f4e150b5e63908cec5c908c9f2c",
+            "content": {
+                "en": "Wondering what that sound was."
+            }
+        },
+        {
+            "id": "w_ff35a6d83639f929f7f48c7c79ce73e163f267d0",
+            "content": {
+                "en": "Working so hard to have muscles and then having them."
+            }
+        },
+        {
+            "id": "w_05907cf881345cb3f792b16764db3dfe10463b5c",
+            "content": {
+                "en": "Young love."
+            }
+        },
+        {
+            "id": "w_cd7e2753ed984049657b9efe64b67c8d24d8c30c",
+            "content": {
+                "en": "Zoo animals."
+            }
+        },
+        {
+            "id": "b_a48ca1c3be0b6a57181fcaee32e0e50816406962",
+            "content": {
+                "en": "Halt! Any sudden moves and I put ______ right between your eyes!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8ed9ea57d4647895d5727dc140f0640d04d8193f",
+            "content": {
+                "en": "Here&apos;s how this thing&apos;s gonna play out. You don't bring up ______. Ever. Matter of fact, we can just keep ______ to ourselves. Secondly, don't tell anyone about ______. They\u2019ll either think you\u2019re crazy or they'll try to kill you. And lastly, you do what I say, when I say it. We clear?"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_6953f3d3e717db86c8b5ab6a568b0630ec33a228",
+            "content": {
+                "en": "Honey, please not right now. I do not have the energy for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f177df90a220233b3b17efc4da42d103b039acc9",
+            "content": {
+                "en": "If I ever were to lose ______, I\u2019d surely lose myself."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4e164f49265dc9f85c469281b0bcdece537505cf",
+            "content": {
+                "en": "One upon a time, I had somebody that I cared about. It was a partner. Somebody I had to look after. And in this world, that sort of shit is good for one thing: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6b4aa02e7dec67c045621981e28a188e0cf7c461",
+            "content": {
+                "en": "Really, Tommy? I bring you ______ and you wanna play the pissy little brother?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_40ea5e9fc6d5dfa0d5a324b2ce372d9d564433b6",
+            "content": {
+                "en": "The way I see it, we got two options. Option one: we take the easy way out. It\u2019s quick and painless. I\u2019m not a fan of option one. Option two: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b1b4e27c859799ca33d0a065e9213cedd42f81b0",
+            "content": {
+                "en": "There\u2019s a million ways we should\u2019ve died before today. And a million ways we can die before tomorrow. But we fight... we fight for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a329cbc7bcf5ac734a9b6485a1c528573d2b611",
+            "content": {
+                "en": "Why don't you say whatever speech you got rehearsed and get ______ over with."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_178dea5f537f6779c558033694500ed43f5e365b",
+            "content": {
+                "en": "You're right... you're not my daughter, and I sure as hell ain't ______."
+            },
+            "pick": 1
+        }
+    ]
+}

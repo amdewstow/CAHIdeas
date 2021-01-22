@@ -1,0 +1,432 @@
+{
+    "id": "Pirate_expansion",
+    "name": "Pirate expansion",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_c54596a154328236c0fbabdffd691091797e14fd",
+            "content": {
+                "en": "a buccaneer crew out of Tortuga"
+            }
+        },
+        {
+            "id": "w_01aa19d93f826dcba7ec1fce84fda320c005f174",
+            "content": {
+                "en": "a compass that points to the thing you want most"
+            }
+        },
+        {
+            "id": "w_7199cc40a750f0003ddc6f29944924211790e7d9",
+            "content": {
+                "en": "a deficit of rum"
+            }
+        },
+        {
+            "id": "w_5e512c0bacf7381f9fd2aa9e50401eda19f23938",
+            "content": {
+                "en": "a full pardon"
+            }
+        },
+        {
+            "id": "w_7df8cc712ba1c3235324e31187ed0a0c5e629123",
+            "content": {
+                "en": "a man with hooks for hands"
+            }
+        },
+        {
+            "id": "w_d902b48ab6b335ff0051fddaf6be355c83e6adf4",
+            "content": {
+                "en": "a perpetual and virulent lack of discipline"
+            }
+        },
+        {
+            "id": "w_37d71416f477cb30217d60488c952d69ed889e86",
+            "content": {
+                "en": "a pestilent, traitorous, cow-hearted, yeasty codpiece"
+            }
+        },
+        {
+            "id": "w_42aba39929cea44d045e21562679798f6745f889",
+            "content": {
+                "en": "a pistol with a single shot"
+            }
+        },
+        {
+            "id": "w_eb1076859b395974681e7bd1749e06189e097932",
+            "content": {
+                "en": "A Scurvy Bilge-Rat Hacker"
+            }
+        },
+        {
+            "id": "w_c769c29ef2770cd1989e0f221467836712c695f8",
+            "content": {
+                "en": "A ship with black sails that&apos;s crewed by the damned and captained by a man so evil that hell itself spat him back out"
+            }
+        },
+        {
+            "id": "w_f5ed54cf0aadc71cd89d1c40d56822190e7d9347",
+            "content": {
+                "en": "A short drop and a sudden stop"
+            }
+        },
+        {
+            "id": "w_278bef770e046fe01ee09ef52d1642aeae59d2b9",
+            "content": {
+                "en": "a tavern brawl"
+            }
+        },
+        {
+            "id": "w_a6fc94a342558c45d70db90f25232ad907e5b59b",
+            "content": {
+                "en": "a thousand thousand slimy things"
+            }
+        },
+        {
+            "id": "w_ad2a84ca4466baebce644820b7660912d3b59fa7",
+            "content": {
+                "en": "a vile drink that turns even the most respectable men into complete scoundrels"
+            }
+        },
+        {
+            "id": "w_a7f3217164eecf9ecc0b15a943f90b92fe480a96",
+            "content": {
+                "en": "all manner of sea creatures"
+            }
+        },
+        {
+            "id": "w_2b26b287606d9d6fb43dcbbc577141e3698255ec",
+            "content": {
+                "en": "an undead monkey"
+            }
+        },
+        {
+            "id": "w_4468bc1b69b8edf0b50ed03fb1bf99a682876678",
+            "content": {
+                "en": "attacking ships on the high seas, kidnapping and murdering the people on them"
+            }
+        },
+        {
+            "id": "w_1247a28ec2f14a208bef63138fbf01185f126537",
+            "content": {
+                "en": "bargains struck with eldritch creatures"
+            }
+        },
+        {
+            "id": "w_9719efa261be0a316a5698e231e5dbfa3c5a863b",
+            "content": {
+                "en": "being marooned on an island and left to die"
+            }
+        },
+        {
+            "id": "w_3ee3b2139d930302fd79494f811c9932b1f443cf",
+            "content": {
+                "en": "Blackbeard"
+            }
+        },
+        {
+            "id": "w_8a0042de0afc0e13588a1d6afdf24c8a8e8b8eca",
+            "content": {
+                "en": "blood sacrifice owed to the heathen gods"
+            }
+        },
+        {
+            "id": "w_227b3bd01109b9ff862a0b320cc848452c3fd611",
+            "content": {
+                "en": "bootlegging"
+            }
+        },
+        {
+            "id": "w_263c4410378ca5c1badaff0b50811df9ef9a16c8",
+            "content": {
+                "en": "cannonade and cutlass and all manner of remorseless pieces of metal"
+            }
+        },
+        {
+            "id": "w_4423bd4fdba311eba170d19b574874a6ecc6a4ee",
+            "content": {
+                "en": "Captain Morgan"
+            }
+        },
+        {
+            "id": "w_627ee0ce317a1a1899445736de3b01ee3fe8f25a",
+            "content": {
+                "en": "crabs"
+            }
+        },
+        {
+            "id": "w_80eb0cb2ed2b1422362e6f4701c692fba048f3b9",
+            "content": {
+                "en": "cursed Aztec gold"
+            }
+        },
+        {
+            "id": "w_9b31ef2cfec8793855b72400db0b1a1c0970e985",
+            "content": {
+                "en": "fish-people"
+            }
+        },
+        {
+            "id": "w_46d7122511824f93c10c1970ca1b0cac52f91fd2",
+            "content": {
+                "en": "general lawlessness"
+            }
+        },
+        {
+            "id": "w_7c2ee550a52c753b4cb0de853dd125b87c79708c",
+            "content": {
+                "en": "human hair, from my back"
+            }
+        },
+        {
+            "id": "w_fbb41f32ecda83f0b103a1a6b1f330c811824989",
+            "content": {
+                "en": "impersonating an officer of the British Royal Navy"
+            }
+        },
+        {
+            "id": "w_8b3c383587acc2293d2f7d5a2f9b43aa05de24fb",
+            "content": {
+                "en": "Keith Richards"
+            }
+        },
+        {
+            "id": "w_5415c648ae4274e2157cf4e82e2077e9b6097699",
+            "content": {
+                "en": "kidnapping the governor&apos;s daughter"
+            }
+        },
+        {
+            "id": "w_71bafc4a7213d62ac59061bdb6c31937b62d03b2",
+            "content": {
+                "en": "Long John Silver&apos;s"
+            }
+        },
+        {
+            "id": "w_9cfc1fc8f618720f20b46fd64dc739eb349cdaf1",
+            "content": {
+                "en": "Looting"
+            }
+        },
+        {
+            "id": "w_6fcecd7eb4ab3254a8e51276d12eee73d9fbccae",
+            "content": {
+                "en": "Mogadishu"
+            }
+        },
+        {
+            "id": "w_9e7eaebd55c6d5cccebbe7fd290e73c4683bbcdc",
+            "content": {
+                "en": "mortar fire"
+            }
+        },
+        {
+            "id": "w_f2e1adcbb9023eee63ed625abe828684c3cf9602",
+            "content": {
+                "en": "parlay"
+            }
+        },
+        {
+            "id": "w_7e5d0c194085ec8c31531c847a25c4905190c214",
+            "content": {
+                "en": "pretending to read the Bible"
+            }
+        },
+        {
+            "id": "w_38599186bd5c182e72225c798c561da7e2e05bc4",
+            "content": {
+                "en": "preying on ships and settlements for at least ten years"
+            }
+        },
+        {
+            "id": "w_3040a6d85818420c578ab834e2a558da8b0bb4dd",
+            "content": {
+                "en": "runnin&apos; down to Cuba"
+            }
+        },
+        {
+            "id": "w_a1ac6885b1640764bb068091dacf327dceb1c6f2",
+            "content": {
+                "en": "scurvy"
+            }
+        },
+        {
+            "id": "w_5537abfffe44a5e6f2ff05c0eff4da7745550caf",
+            "content": {
+                "en": "slander and calumny"
+            }
+        },
+        {
+            "id": "w_4a4c581612170eb6acb2971f91a364a86b24dc29",
+            "content": {
+                "en": "the crushing black oblivion of Davy Jones&apos; Locker"
+            }
+        },
+        {
+            "id": "w_1d71ca23dee6459998754ab87d8e9ad620bd4c5e",
+            "content": {
+                "en": "the Flying Dutchman"
+            }
+        },
+        {
+            "id": "w_90571f5dc08aafe79ca36004a9712caca49f76ab",
+            "content": {
+                "en": "the gallows"
+            }
+        },
+        {
+            "id": "w_e5b27452cf759841beeaf9420be53e8f44ded28b",
+            "content": {
+                "en": "the Isla del Muerta"
+            }
+        },
+        {
+            "id": "w_572cade4a7b1de8d2a1cd562fc8ed2e34e641e9e",
+            "content": {
+                "en": "the Netherlands"
+            }
+        },
+        {
+            "id": "w_bcbd29b50b82a7439b5c3ce2fef83032c3c60a83",
+            "content": {
+                "en": "the nine pirate lords"
+            }
+        },
+        {
+            "id": "w_446b2d116c5035f2a1e5ce7cb29883e4e02178e6",
+            "content": {
+                "en": "the pirate king"
+            }
+        },
+        {
+            "id": "w_79003939271ee4a6fac19248a4297a9234421b74",
+            "content": {
+                "en": "the weird and haunted shores at World&apos;s End"
+            }
+        },
+        {
+            "id": "w_09adf285f38aa5d52d9f9758a4599a156a5d5fd3",
+            "content": {
+                "en": "the worst pirate I've ever heard of"
+            }
+        },
+        {
+            "id": "w_62e7022b4057067a01c1f09b88de16d194f84ebd",
+            "content": {
+                "en": "two immortals locked in an epic battle until judgment day"
+            }
+        },
+        {
+            "id": "w_ba7dd84dc9331d3fb1da9b329a9064cf5c0888c2",
+            "content": {
+                "en": "what a man will do to forestall his final judgment"
+            }
+        },
+        {
+            "id": "b_b06113c813f237403b404df2a6c460945b2efbee",
+            "content": {
+                "en": "A dishonest man you can always trust to be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1d54c4a6b13c5dbd9ea03251dd6434a5f4bf97ed",
+            "content": {
+                "en": "Do what you want because a ______ is free, you are a ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_f09db8ab99c21f11166a9251d1393d8512ceca23",
+            "content": {
+                "en": "I make it a point of avoiding ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_33ec021844c4e3fedc62c5332c8babe20c52ada0",
+            "content": {
+                "en": "I think it&apos;s time we embrace that oldest and noblest of pirate traditions: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e28eb5edc53e43a48c0ee9f5b8eaa623f90bdbaf",
+            "content": {
+                "en": "I&apos;d rather see her ______ than in the hands of a pirate."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_59e5df838b92e152638c727ca1c591b53ee8c5cc",
+            "content": {
+                "en": "It had been strange, even in a dream, to see ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4cdd6eae4b099a7d2c3acfab05b3f67e98e434fa",
+            "content": {
+                "en": "Keep circulating the ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2004a8659428eefff187da5f5fc7a3d0763becc0",
+            "content": {
+                "en": "Perhaps on the rare occasion pursuing the right course demands ______, ______ can be the right course."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_230246d1daa6670080b65c1e266e5f2649ed1c43",
+            "content": {
+                "en": "the deepest circle of hell is reserved for ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2e42862a43c9a96c5b14becbe5b804b363d65876",
+            "content": {
+                "en": "The Pirate Party is currently hoping to win seats in the European Parliament with their support for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_86220a1ea038c964d4d67de2563344c7eb793f40",
+            "content": {
+                "en": "the secret, grand adventure of the infamous Jack Sparrow: ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6e31a7de7ee3f1fcd5838f2b66fdc1c81d6271ec",
+            "content": {
+                "en": "What vexes all men?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0bdaaa5d492fce5b50d6a0498e00ce4c962e5b0a",
+            "content": {
+                "en": "You wouldn't download a ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a30af24b6f0721a742fc6cd909cf3b07c699cb0b",
+            "content": {
+                "en": "You&apos;re off the edge of the map, mate. here there be ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1820f72e2fe052937993a528a68b20fdf5d5f93",
+            "content": {
+                "en": "______ is neither proper nor suitable, sir."
+            },
+            "pick": 1
+        }
+    ]
+}

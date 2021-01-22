@@ -1,0 +1,920 @@
+{
+    "id": "Cards_Against_Decency",
+    "name": "Cards Against Decency",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_2a1be232d3a1b5d34702234589f2c4696ac14f3d",
+            "content": {
+                "en": "\"Macho Man\" Randy Savage."
+            }
+        },
+        {
+            "id": "w_7451fcfdd612ceb950f6b41977f259e296ef4e1f",
+            "content": {
+                "en": "2 Girls 1 Cup."
+            }
+        },
+        {
+            "id": "w_1ec4210e36f36ccbeb69eb33a1f4d2174d38dc23",
+            "content": {
+                "en": "69'ing a 96-year-old."
+            }
+        },
+        {
+            "id": "w_0cada2dee61a7c52a508e905b90fe4b8df2dfacc",
+            "content": {
+                "en": "A 7-foot black man with a small penis who can't play basketball."
+            }
+        },
+        {
+            "id": "w_ef6b18af2d2dd983990cdcfae75cb798ca57106e",
+            "content": {
+                "en": "A baby desperately trying to eat his way out from under a pile of dead babies."
+            }
+        },
+        {
+            "id": "w_0502cf94b7c70f0343683d2f62caa8dd03c7b0ea",
+            "content": {
+                "en": "A balding man with encyclopedic knowledge of My Little Pony."
+            }
+        },
+        {
+            "id": "w_f2af4b508f142c5dfe86e471c47eaf2e5d144dbe",
+            "content": {
+                "en": "A bucket of AIDS."
+            }
+        },
+        {
+            "id": "w_64d68525400cb4b52482b10ef8bc2a325926c8c3",
+            "content": {
+                "en": "A cactus dildo surprise."
+            }
+        },
+        {
+            "id": "w_c7d208f1f41a012369f33133ffa977ff0eab2029",
+            "content": {
+                "en": "A Call of Duty player who has actually had sex with my mother."
+            }
+        },
+        {
+            "id": "w_c96d606f545a4ab17490b83256db58621f187bd0",
+            "content": {
+                "en": "A compelling argument for slavery."
+            }
+        },
+        {
+            "id": "w_7c19bbbb00b507d87cf8336d71d2d0c68ea775de",
+            "content": {
+                "en": "A dumpster fire."
+            }
+        },
+        {
+            "id": "w_bf91d3eab5d4b2fd34b18ee96d3b84be115a66ca",
+            "content": {
+                "en": "A fever whose only cure is more cowbell."
+            }
+        },
+        {
+            "id": "w_b967a9c052617b319d77feaba408ac74e3080ef7",
+            "content": {
+                "en": "A possible genetic clone of Adolf Hitler."
+            }
+        },
+        {
+            "id": "w_54506ba76125abb84807f811f35f6328030d4d7b",
+            "content": {
+                "en": "A sex doll that just wants to be friends."
+            }
+        },
+        {
+            "id": "w_dd1d0f1848f4f5e8a77561ba1dce8ab1a796babc",
+            "content": {
+                "en": "A stripper crying on stage."
+            }
+        },
+        {
+            "id": "w_3fb17c8289957132cb99f43bbe6199ebc4c3b4f5",
+            "content": {
+                "en": "Accidentally knocking over grandpa&apos;s ashes."
+            }
+        },
+        {
+            "id": "w_185def76a3494b1d3df1ed138ea3ab05084cc384",
+            "content": {
+                "en": "Accidentally sexting Mom."
+            }
+        },
+        {
+            "id": "w_f2656ce83b7f87af28fe9b9ef19f140d736fe428",
+            "content": {
+                "en": "All the good things Hitler did."
+            }
+        },
+        {
+            "id": "w_2d998c3a6f1207156fd9ddfb362ec14461cb6577",
+            "content": {
+                "en": "America, fuck yeah!"
+            }
+        },
+        {
+            "id": "w_6a5fba794cd3115bac8b7a66be797a865d74241d",
+            "content": {
+                "en": "Autoerotic asphyxiation."
+            }
+        },
+        {
+            "id": "w_2d181e6e5f665a143b7edf8e3fbce3bcc3701628",
+            "content": {
+                "en": "Beardsley McTurbanhead."
+            }
+        },
+        {
+            "id": "w_ae245fa2526c551bc9949d536839241ba5c92a7a",
+            "content": {
+                "en": "Beating my dick like it owes me money."
+            }
+        },
+        {
+            "id": "w_7efac4c038fdf72639e6e63abcc88d9263a11e2d",
+            "content": {
+                "en": "Being pitied by Mr. T."
+            }
+        },
+        {
+            "id": "w_526e05c6e31f1e6706bb0c0fd1d7e178e259d64d",
+            "content": {
+                "en": "Being so poor that you have to resort to shoplifting Ramen noodles."
+            }
+        },
+        {
+            "id": "w_be6c1cf3cf3303d467c475e253310f797d20436c",
+            "content": {
+                "en": "Buying coat hangers at Hobby Lobby."
+            }
+        },
+        {
+            "id": "w_38cd43357d791afd35709f88ec1df57fad5c32cb",
+            "content": {
+                "en": "Choke sex."
+            }
+        },
+        {
+            "id": "w_c9c42931c9d85b3fe3ed2abee3f60251b5eabc2e",
+            "content": {
+                "en": "Chuck Norris."
+            }
+        },
+        {
+            "id": "w_8fb468f00acf9360b7db0f25cfde380e66a04dbe",
+            "content": {
+                "en": "Crotch rot."
+            }
+        },
+        {
+            "id": "w_f2f3ef88226c346e9a2dcfda71e37267de88472f",
+            "content": {
+                "en": "Diabeetus."
+            }
+        },
+        {
+            "id": "w_9cf3540f8ae46e6884efab5747ec1e2215424626",
+            "content": {
+                "en": "Dick Butt."
+            }
+        },
+        {
+            "id": "w_82a51299675bb359a563536c94d29750c40d2580",
+            "content": {
+                "en": "Drawing penises on everything."
+            }
+        },
+        {
+            "id": "w_63c88124aacb351beea350d50fe4c716ffc71c4a",
+            "content": {
+                "en": "Eating a pizza that&apos;s lying in the street to gain health."
+            }
+        },
+        {
+            "id": "w_8801be1b1467915b72a243846c23c2661a48cc42",
+            "content": {
+                "en": "Eating yellow snow."
+            }
+        },
+        {
+            "id": "w_10e84996cb515162e23f52d188d639820822d46d",
+            "content": {
+                "en": "Ejaculating into your own eye."
+            }
+        },
+        {
+            "id": "w_99862344059f28f273abeec892962d1eeefb6a5d",
+            "content": {
+                "en": "Explaining \"safety in numbers\" to 6 million Jews."
+            }
+        },
+        {
+            "id": "w_1eb0baf145aac139fda5f2c1b6ee7f825f29b236",
+            "content": {
+                "en": "Flo from Progressive&apos;s dirty, unkempt bush."
+            }
+        },
+        {
+            "id": "w_a9a8a2a2b0e63cbc96d8ca0da2b606d0af2384ae",
+            "content": {
+                "en": "Forgetting the safe word."
+            }
+        },
+        {
+            "id": "w_2b828900871ce1313dad3b0159dbbeb47659ccfd",
+            "content": {
+                "en": "Forgetting to eat, and consequently dying."
+            }
+        },
+        {
+            "id": "w_b0fd3a9557148f2f85ea8d74f423437111d1fea1",
+            "content": {
+                "en": "Fuckles the Clown."
+            }
+        },
+        {
+            "id": "w_9046a9ae6b289e6e6112163dab1b5350c15318ae",
+            "content": {
+                "en": "Getting shit done with slavery."
+            }
+        },
+        {
+            "id": "w_4ab08e68d5a4235043f4953c85a8b0d909bf31cf",
+            "content": {
+                "en": "Going black, but then going back."
+            }
+        },
+        {
+            "id": "w_8fb3b7d7c111746a10b10cfb099f256cbf79f25e",
+            "content": {
+                "en": "Having a trap door on your front porch."
+            }
+        },
+        {
+            "id": "w_0dc4233ea1ac441f120197ef1c5ae6f805063a60",
+            "content": {
+                "en": "Having your hand fall asleep during masturbation."
+            }
+        },
+        {
+            "id": "w_6c02797d90b78710f300afcc281e12ab7788c07e",
+            "content": {
+                "en": "Hitler&apos;s gas bill."
+            }
+        },
+        {
+            "id": "w_bbcbb4257295d7db8ce8dcc7658e2204d3a066a5",
+            "content": {
+                "en": "Hitting a speed bump at 60mph while getting road head."
+            }
+        },
+        {
+            "id": "w_1e7332153ddb09d7f31d5183b9a87d9f7f5f51bb",
+            "content": {
+                "en": "Homo milk."
+            }
+        },
+        {
+            "id": "w_25180bbbeb0eab661079e4d2a5737c2872b8786c",
+            "content": {
+                "en": "Jesus letting a kid die because the photo only got 998 Likes."
+            }
+        },
+        {
+            "id": "w_07150a11917c2ac4027f36aae86e0a033a06d4fd",
+            "content": {
+                "en": "Jiggle physics."
+            }
+        },
+        {
+            "id": "w_f0cccb16a3b5ab23631722ce5503f4df188d2172",
+            "content": {
+                "en": "Kidnapping 24 middle schoolers in order to hold your own Hunger Games."
+            }
+        },
+        {
+            "id": "w_8f4879fedc4af7aa8cfea9d27818a0354682291d",
+            "content": {
+                "en": "LEEROYYYYY JENNNKINS!!!"
+            }
+        },
+        {
+            "id": "w_1179a96dad81f2673775e0c05e44fa9e0b3e987a",
+            "content": {
+                "en": "Liking big butts, and not being able to lie about it."
+            }
+        },
+        {
+            "id": "w_79edb5e5311eb3dd9b4552bc82a0c94fa68ca699",
+            "content": {
+                "en": "Locking your keys in your car outside of a Planned Parenthood, and going inside to ask for a coat hanger."
+            }
+        },
+        {
+            "id": "w_e6cd6a26bb54579a1b1a4423190b23934cb23665",
+            "content": {
+                "en": "Looting a corpse."
+            }
+        },
+        {
+            "id": "w_2f5e4b62ae217feb71a97ff7b58981d138e5ec0f",
+            "content": {
+                "en": "Making up for having a small penis with small fists."
+            }
+        },
+        {
+            "id": "w_747d54f0775b8b6f56e11cc694631997007285e3",
+            "content": {
+                "en": "Mom&apos;s spaghetti."
+            }
+        },
+        {
+            "id": "w_aa5f5628353322f0e1c5501da87890ba9f02df21",
+            "content": {
+                "en": "Morgan Freeman talking a teenage boy through masturbation."
+            }
+        },
+        {
+            "id": "w_3359d19e8cd78d5236a29c8b1378b807e5bc66be",
+            "content": {
+                "en": "My dick in a box!"
+            }
+        },
+        {
+            "id": "w_66c4c619441cee046ff5021e102b84f03395d1ce",
+            "content": {
+                "en": "My new cellmate, Bubba."
+            }
+        },
+        {
+            "id": "w_a693d3dd17f3269db07601f9d81b5af29a06b8b3",
+            "content": {
+                "en": "My so-called life."
+            }
+        },
+        {
+            "id": "w_ea4f5d5051eef94a23183bfee12911689a3752aa",
+            "content": {
+                "en": "Pedos in Speedos."
+            }
+        },
+        {
+            "id": "w_286a4d55f684dce8bd977937ba81abbb525463e9",
+            "content": {
+                "en": "Pooping in the shower, then stomping it down the drain."
+            }
+        },
+        {
+            "id": "w_e47911548435b8f039e4773286dc5847d397bb2f",
+            "content": {
+                "en": "Punching a tree to gather wood."
+            }
+        },
+        {
+            "id": "w_924e3028a3bcfdfe440f4823b62de4b3dfdb4ad9",
+            "content": {
+                "en": "Putting it where it doesn't belong."
+            }
+        },
+        {
+            "id": "w_89cbc96df9cdc473cc3c0599fb26c1cf28ec06a2",
+            "content": {
+                "en": "Putting the fun in funeral."
+            }
+        },
+        {
+            "id": "w_68423fcb3986f9a751d414948544ae561d49f328",
+            "content": {
+                "en": "Putting the laughter in manslaughter."
+            }
+        },
+        {
+            "id": "w_ea36363dc368e52ffd9e3e41daf6ba3d37d8f52c",
+            "content": {
+                "en": "Quietly sobbing around a mouthful of dick."
+            }
+        },
+        {
+            "id": "w_6485b0065b64b9ee00bc72bb1c197776e9d10012",
+            "content": {
+                "en": "Returning unused condoms to a store."
+            }
+        },
+        {
+            "id": "w_58f929962f9bddc20be0db6d4253f79ab6a0906a",
+            "content": {
+                "en": "Scouting for porn talent at a high school graduation."
+            }
+        },
+        {
+            "id": "w_4d7f7e53d7b5bfe01ef091540682fab1b9c78a0b",
+            "content": {
+                "en": "Sewing your eyes shut."
+            }
+        },
+        {
+            "id": "w_b2618326dd5688c18a06feea6a7009c3d4bb9a6c",
+            "content": {
+                "en": "Shitting on your boss&apos;s desk."
+            }
+        },
+        {
+            "id": "w_dc20a9bc1d01bdd29a69bb3e7961f82c3951ccf8",
+            "content": {
+                "en": "Shitting the bed and finding out that your partner is totally into that."
+            }
+        },
+        {
+            "id": "w_3b1b7c71754262f421d4aec06a80cf257025b5fc",
+            "content": {
+                "en": "Simply not giving a fuck about things."
+            }
+        },
+        {
+            "id": "w_436b12dc0c0400957dd247cc90960c3598571eb7",
+            "content": {
+                "en": "Snuff porn."
+            }
+        },
+        {
+            "id": "w_b56e7061adfba63de513536c861c2795431184e0",
+            "content": {
+                "en": "Solving problems with violence."
+            }
+        },
+        {
+            "id": "w_0e40da27e6e3cea9bc298abd4068f97d29b5eab1",
+            "content": {
+                "en": "Streaking."
+            }
+        },
+        {
+            "id": "w_69df05c505153f2fa7033930f44ae51882097b15",
+            "content": {
+                "en": "Talking about Fight Club."
+            }
+        },
+        {
+            "id": "w_fdd037e303be35ee09eca3239722775475ac4369",
+            "content": {
+                "en": "Teabagging a Teabagger."
+            }
+        },
+        {
+            "id": "w_de57d386fdd05044ad743ee61080464bc8ffd434",
+            "content": {
+                "en": "The Ambiguously Gay Duo."
+            }
+        },
+        {
+            "id": "w_bacaf5cddb615eabe300e29ed7d6a50a5bd030db",
+            "content": {
+                "en": "The blooper reel from Schindler&apos;s List."
+            }
+        },
+        {
+            "id": "w_a9fc3cfab924a7f271f50cb9e5edcec48f8b5770",
+            "content": {
+                "en": "The healing powers of my cock."
+            }
+        },
+        {
+            "id": "w_68838305934ad73250400ecc96b42551917f29bf",
+            "content": {
+                "en": "The Men&apos;s Rights community."
+            }
+        },
+        {
+            "id": "w_ee0d70b7ad475f41121ce6918a98bb23cf3934e5",
+            "content": {
+                "en": "The Pele of Anal. (The card generator can't do the accent over the E, unfortunately!)"
+            }
+        },
+        {
+            "id": "w_4fa7eeb058807c29b80c464f1721e864656ac950",
+            "content": {
+                "en": "Throwing a crying baby into a garbage can."
+            }
+        },
+        {
+            "id": "w_7956a4311df2e58e2a2f6fe07c427941e1ebdcfa",
+            "content": {
+                "en": "Un-vaccinated kids who end up autistic anyway."
+            }
+        },
+        {
+            "id": "w_2e371fd6a538edee65741d11a56dac814dc735a4",
+            "content": {
+                "en": "Using cocaine instead of flour."
+            }
+        },
+        {
+            "id": "w_ecbacc954105bcfb8a1ad7034b7fd86b7e506b76",
+            "content": {
+                "en": "Using tears as lube."
+            }
+        },
+        {
+            "id": "w_6a0efd7502c3c2229038053133e7c6f7878687b2",
+            "content": {
+                "en": "Using zebra cum as sunblock."
+            }
+        },
+        {
+            "id": "w_185e86f5818fd178428710d2b7b8f8d0e76d53b4",
+            "content": {
+                "en": "Wayne Brady having to choke a bitch."
+            }
+        },
+        {
+            "id": "w_ae343e08e7c3d10716af1a6face9ceba41c023e8",
+            "content": {
+                "en": "Whatever fits in my butt."
+            }
+        },
+        {
+            "id": "w_9b47834ebe898b4d74c87f9529f384746302f4ba",
+            "content": {
+                "en": "Yelling \"Jenga!\" while watching 9\/11 footage."
+            }
+        },
+        {
+            "id": "b_886faa0b32f8411f8f024270000cfd0905d5644d",
+            "content": {
+                "en": "All ______ and no ______ makes Jack a dull boy."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_e9ee1a73aa3c8e4c959f692bad6466b4bdd60743",
+            "content": {
+                "en": "Closed captioning for this PBS program was brought to you by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_920e778af3b2b654a2f82bfc2972e1c10a41646a",
+            "content": {
+                "en": "Don't forget to write down my new email address: ______ @ ______.com."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_b7db2a5ac0bb53e43486b786966cec1932f34754",
+            "content": {
+                "en": "Drink Powerthirst and you'll be good at everything forever! You'll be good at running, football, arson, weddings, even ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4e20364d3e93a9ef403c8bd7dd00ae038d639bcd",
+            "content": {
+                "en": "Earth! Fire! Wind! Water! ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ebf341ac3f85e889ae17fc4ca378a1b5348b5b8",
+            "content": {
+                "en": "For your crime of ______, I hereby sentence you to a lifetime of ______!"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7b20889613d82ed9f9a31ad82ad45e59cf26219d",
+            "content": {
+                "en": "Four out of five dentists recommend ______. The fifth recommends ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fd787551f6bc8d9be5a5869c0999ffdcd5f30dc4",
+            "content": {
+                "en": "Go-go Gadget ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1a3e7c79e3cbd1faa9b8632de002e8e563175516",
+            "content": {
+                "en": "Hi, we are from the Church of ______. Do you have a moment to talk about ______?"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_076fcb0ee4245877f842a65509fcb81d334fd778",
+            "content": {
+                "en": "I have three items in my box labeled, \"In Case of Emergency: ______, ______, and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_667c8d6ae7c2fa68f24f96e1ae90b7cdb8e87ac7",
+            "content": {
+                "en": "I only did ______ once. Never again."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e164f9c01c843e6e066465323e2571cc1d759274",
+            "content": {
+                "en": "I only got involved with ______ because I was young and needed the money."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3422585a6bf723d102b628930173b0aed71ba92c",
+            "content": {
+                "en": "I&apos;m all over it, like ______ on ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6d9611b039ebecdc2afc68eecfa7079e451ecc13",
+            "content": {
+                "en": "I&apos;m ashamed to admit that I've traded sexual favors for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f0584ba2b625299a87902a4146a8d9d0d18a1b1b",
+            "content": {
+                "en": "I&apos;m the CEO who transformed Reddit into ______. Ask Me Anything!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dce0f7eb8f9cb35652dbb9a8feeedf7b799867c3",
+            "content": {
+                "en": "If I&apos;m ever forced to do porn, my first movie HAS to be about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c0d4ec6cea96324165a913ec2c53a031b2e617e",
+            "content": {
+                "en": "If Jeopardy ever had a category for ______, I would totally own that shit!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_05753356d74c5369250045a02166c0e9597e5626",
+            "content": {
+                "en": "In his most ridiculous story to date, Tucker Max has managed to involve ______ in his sexual escapades."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_57ba71c88df6603dd743c402d40a584a30a13168",
+            "content": {
+                "en": "In Japan, you can buy ______ from vending machines."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_168c4f5145c7fc7e8c2f7f65e6549b1c0e66b8a6",
+            "content": {
+                "en": "Instructions unclear. Dick stuck in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fc649eedc01fcf6416e2f9bef8f733943b0cfe4f",
+            "content": {
+                "en": "It&apos;s 2015. We have to deal with ______? Thanks, Obama."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5a0a03bf7f9998e20d91f8a2121472bd24225a5d",
+            "content": {
+                "en": "Johnny, tell them what they've won!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b681d4085ad3f950d6145b1fb0c3da0a112a74d6",
+            "content": {
+                "en": "Kill ______. Fuck ______. Marry ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_fe07adde751a38597de584d533f6a7c636295cfc",
+            "content": {
+                "en": "My perfect night out includes ______, ______, and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_31325986612abe09c308e56ff541b22344ab1e45",
+            "content": {
+                "en": "Nothing says, \"I love you\" quite like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7d3137045c73d72b9438025db05cf71924ea48d5",
+            "content": {
+                "en": "Oh no! ______! My only weakness!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1a8cc2370d3b25de8fc40d910b67ec9d8b7a12a2",
+            "content": {
+                "en": "On a scale from 1 to 10, what do you think that I, the Card Czar, am a definite 10 at?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_747a342e76d5b590e9fabdd91e0af31d60942f4a",
+            "content": {
+                "en": "One nation, under ______, indivisible, with ______ and ______ for all."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_f4b6e3b077d89c0af8c0670525703d4cb4410baf",
+            "content": {
+                "en": "Only ______ can prevent forest fires."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_36e11cf07e00132cf77913eacdc9e3d623608738",
+            "content": {
+                "en": "Remember, ______ is NEVER funny. Unless it includes ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_38087654a4a87848e0fac51defcd8bb9cf64bc8b",
+            "content": {
+                "en": "Sorry Mario, but ______ is in another castle!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b206aba0fa76a7255a0534c878785d6c6a0740cb",
+            "content": {
+                "en": "Sorry we burned down your village. Here&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bc727d64bd46a115251087809da16b83d5ad3632",
+            "content": {
+                "en": "The autopsy results are in. The cause of death was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3c10bd8cb80eaec1df9abfddb5ed70c46d6b425d",
+            "content": {
+                "en": "The cashier gave me a weird look when he saw I was buying ______ and ______ together."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6dfe7123f83e763634dd8f0917beed462f62b0b2",
+            "content": {
+                "en": "Today&apos;s forecast calls for ______ with a chance of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_abad5fba90bc6224bd350ad490b9e7eb442af07a",
+            "content": {
+                "en": "Trust me, I&apos;m ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e8805d3d44690e4abfbc1dc2ee63aad91a8380f3",
+            "content": {
+                "en": "We asked 1000 women, \"What two things do you most want in a man?\" They said ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_003e54f729d4f12e23d2e3e4487d7298f8e104dd",
+            "content": {
+                "en": "What feels illegal, but isn't?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c9fc588af7f24cc1a4b8d3b04d7ad26ad20284f2",
+            "content": {
+                "en": "What is one thing every couple should do together?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cdf83b438218f078d4cbb9d52ec1dcc49a884afc",
+            "content": {
+                "en": "What is the best thing you can do for $20 or less?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2ea5dba6ccadede9665b95e7002cb56f56c7c4f",
+            "content": {
+                "en": "What is the most imminent threat to our nation&apos;s youth?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1e326220cbb9760b33564eb1ef4f93d7909dd592",
+            "content": {
+                "en": "What is the secret ingredient of your sauce?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6ec7029602f763e19e006ea6c67bb855f559dce8",
+            "content": {
+                "en": "What should be my weapon of choice in the next battle royale?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c9d297205eae357f11891e9935ce23861d4d7961",
+            "content": {
+                "en": "What was the last thing I Googled?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ed6978141340909b1eb1ad05a2a30ed2222d4b9",
+            "content": {
+                "en": "You. Me. ______. Now."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12dd6e2dc3161b5df3e14954bf805485793f670d",
+            "content": {
+                "en": "______ and ______ : still a better love story than Twilight."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7318ae461cabe159f826deffbbf82ec52262290e",
+            "content": {
+                "en": "______ goes in, ______ comes out. Can't explain that."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d5a91fce53af66cad26db7266fbfbf1c42006ecb",
+            "content": {
+                "en": "______ is a fad that needs to die already!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1aa1854641e867c61ca17cb358d184621ca50cf",
+            "content": {
+                "en": "______ is why we can't have nice things."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5b53bff0f9f064ac87831d5b977fe04bea36de8e",
+            "content": {
+                "en": "______, I choose you!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cecd5acc95084dfd6e5b84ca0cc8bb11134e8efc",
+            "content": {
+                "en": "______: a huge deal on the Internet, kind of a bummer in real life."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fe408ec1558b35f30813a8814ccfd7bdfa4d1e68",
+            "content": {
+                "en": "______: Achievement unlocked."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_74a6be86a39d03d3e5e75a57f2b895d33bbb6b2e",
+            "content": {
+                "en": "______: the other, OTHER white meat."
+            },
+            "pick": 1
+        }
+    ]
+}

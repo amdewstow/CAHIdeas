@@ -1,0 +1,2866 @@
+{
+    "id": "Cards_Against_Science",
+    "name": "Cards Against Science",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_8e3c73d17d1d59c75ec6f5e8057fd2c6067dce27",
+            "content": {
+                "en": "\"Field\" work."
+            }
+        },
+        {
+            "id": "w_a687f5b727d8f00689b527f79860f275120b2530",
+            "content": {
+                "en": "\"The Elements\" by Tom Lehrer."
+            }
+        },
+        {
+            "id": "w_adb3ed331a9b3af45d03cff3d8528944e798b50f",
+            "content": {
+                "en": "40-gallon drum of nuclear waste."
+            }
+        },
+        {
+            "id": "w_92cfceb39d57d914ed8b14d0e37643de0797ae56",
+            "content": {
+                "en": "42"
+            }
+        },
+        {
+            "id": "w_a9b19f104b5fae426b8d7fb0841e63f561c31cb4",
+            "content": {
+                "en": "A 3D printed heart."
+            }
+        },
+        {
+            "id": "w_0dc8b7d40092aaf172f5c42f03c1d2b81182228d",
+            "content": {
+                "en": "A back of the envelope calculation."
+            }
+        },
+        {
+            "id": "w_236f54687b127915d6ef0cd2c9d7127d9463a3f2",
+            "content": {
+                "en": "A Computer older than the combined ages of all the grad students."
+            }
+        },
+        {
+            "id": "w_cb9de677962f94dfd8483763d7628dc1fb656d90",
+            "content": {
+                "en": "A corkscrew duck penis."
+            }
+        },
+        {
+            "id": "w_9a04c4f39c58c315234d09a9070e66f962064ccd",
+            "content": {
+                "en": "A crescent moon."
+            }
+        },
+        {
+            "id": "w_5914426dca1fb3f56cc8cf63bfafb64a4053e395",
+            "content": {
+                "en": "A DNA ladder."
+            }
+        },
+        {
+            "id": "w_90bbf48f12d478e2e17ac1fa3a2d907ff61ab00d",
+            "content": {
+                "en": "A Floating brain."
+            }
+        },
+        {
+            "id": "w_f8710a991b13b81243e0c9583cf1fbcab8838694",
+            "content": {
+                "en": "A Grad student who has been in the department longer than all known faculty."
+            }
+        },
+        {
+            "id": "w_15dd8a9cd40104a22efb919b9396046fa6585271",
+            "content": {
+                "en": "A grad student with nothing to lose."
+            }
+        },
+        {
+            "id": "w_9966a533b86768f6f24aaad6d84ddeaad5e26f46",
+            "content": {
+                "en": "A gravitational constant string."
+            }
+        },
+        {
+            "id": "w_f19ab6af5d5f0bcbdad9e048a9bee707705be2c7",
+            "content": {
+                "en": "A gravitational lens."
+            }
+        },
+        {
+            "id": "w_da6036be18502a91c75223cf7b0cecfa379ca8e9",
+            "content": {
+                "en": "A hairless black hole."
+            }
+        },
+        {
+            "id": "w_2f748e0c95743c641d1be503428b619db5bddc3c",
+            "content": {
+                "en": "A horrifying cat that is both dead and alive."
+            }
+        },
+        {
+            "id": "w_f97cf643338c8847e77cc0224bcbf4a0e85372e8",
+            "content": {
+                "en": "A human subject (i.e. myself)."
+            }
+        },
+        {
+            "id": "w_75eaa6b7bec6147d0cd1390e2cb66d9e6d0f3c61",
+            "content": {
+                "en": "A jar of leeches."
+            }
+        },
+        {
+            "id": "w_dcc766b8d426a62ce93927591a0c352c48fa085f",
+            "content": {
+                "en": "A lab full of hot undergrad interns."
+            }
+        },
+        {
+            "id": "w_88cee9c62814697c5be761da98fff47d978807ad",
+            "content": {
+                "en": "A lab mouse that simply refuses to die."
+            }
+        },
+        {
+            "id": "w_9b0cff1cf83d2315187056d3cbc3fa5e4a63ab88",
+            "content": {
+                "en": "A learning opportunity."
+            }
+        },
+        {
+            "id": "w_777bcd11a0880892589db0919b668c32b3d0bb94",
+            "content": {
+                "en": "A mouse growing a human ear on its back."
+            }
+        },
+        {
+            "id": "w_f9927cdea2277dd1eab74dee392142c9254c0646",
+            "content": {
+                "en": "A new state of matter."
+            }
+        },
+        {
+            "id": "w_d8601151a7ded59f49d56338bfa44d48abd30a7b",
+            "content": {
+                "en": "A petri dish full of spermatozoa."
+            }
+        },
+        {
+            "id": "w_acb12661a732434e45c584b9b19524ea8a2a357e",
+            "content": {
+                "en": "A research monkey that is smarter than the lab assistant."
+            }
+        },
+        {
+            "id": "w_03ed9ed44abfd99545bf1857a092cd139ca0d719",
+            "content": {
+                "en": "A significant increase in entropy."
+            }
+        },
+        {
+            "id": "w_1922c02227c43b5e9141e8e3ae19bee3dc0484b2",
+            "content": {
+                "en": "A spider the size of your face."
+            }
+        },
+        {
+            "id": "w_af3657243d897a294f6f82266933581b667a8290",
+            "content": {
+                "en": "A spontaneous fission reaction."
+            }
+        },
+        {
+            "id": "w_08117468a1a8014ad7c5d3a4d71119e1cfcf320e",
+            "content": {
+                "en": "A supermassive black hole with a taste for human blood."
+            }
+        },
+        {
+            "id": "w_9bf0ee92e3fe01f619a2967f2bd078b6263db034",
+            "content": {
+                "en": "A Supermassive black hole."
+            }
+        },
+        {
+            "id": "w_afe05b2c5656f4c0e621601c863b3555e708a8ef",
+            "content": {
+                "en": "A temporal anomaly."
+            }
+        },
+        {
+            "id": "w_749e6d636d0441ac0ec0fce7863d869a316be775",
+            "content": {
+                "en": "A two-headed snake."
+            }
+        },
+        {
+            "id": "w_ef2020bce33eb1e6096ca80607f88e71e7ae58b1",
+            "content": {
+                "en": "A type 1a supernova."
+            }
+        },
+        {
+            "id": "w_de1c4fd3d976d777fc4d43a6cd285c78ad75ab38",
+            "content": {
+                "en": "A USB, some Red Bull knock-off, and the homeliest lab tech."
+            }
+        },
+        {
+            "id": "w_5b9b4ca8c5166d0d9e493f183d9c4c5738a80abd",
+            "content": {
+                "en": "Accidentally falling in a volcano."
+            }
+        },
+        {
+            "id": "w_2299c40c4902bc0ec3f337fed24d85a2cb2c4fdd",
+            "content": {
+                "en": "Agar shot."
+            }
+        },
+        {
+            "id": "w_8bb114121a2a91ec14c45cea7dfe0eafcd6a683d",
+            "content": {
+                "en": "Alan Turing&apos;s last blowjob."
+            }
+        },
+        {
+            "id": "w_1d2b3f54814e446a4780110462a103ebf4c25e3e",
+            "content": {
+                "en": "All the ethanol went missing."
+            }
+        },
+        {
+            "id": "w_2179a06228880bb016efdb59a8ba074e80902fc1",
+            "content": {
+                "en": "Amber-encased insects."
+            }
+        },
+        {
+            "id": "w_f0a67391b12a90577b966a6cf294c0b32d364744",
+            "content": {
+                "en": "Amphiphile."
+            }
+        },
+        {
+            "id": "w_caf28c46e07d46ad740637241c13b8740623d751",
+            "content": {
+                "en": "An analytic solution of the Navier-Stokes equation as applied to explosive diarrhea."
+            }
+        },
+        {
+            "id": "w_1701e00f84cd5e8b51889d4a34fc3a2403ff1d20",
+            "content": {
+                "en": "An empty pipette."
+            }
+        },
+        {
+            "id": "w_fa620454287f7802a95705dd7bd2c446346bbd03",
+            "content": {
+                "en": "An everted seastar stomach."
+            }
+        },
+        {
+            "id": "w_b79d4c6c68502cd8d229eae9cdec45a1834e4255",
+            "content": {
+                "en": "An illegibly labeled specimen."
+            }
+        },
+        {
+            "id": "w_d6d6c20e294a5780b794fad3679fae1d954f8117",
+            "content": {
+                "en": "An impact crater."
+            }
+        },
+        {
+            "id": "w_973e5f79ef7327b40496d9a40b9a1f6ca652a191",
+            "content": {
+                "en": "An inverse correlation between error bar size and penile length."
+            }
+        },
+        {
+            "id": "w_d6b1cdf44121c9408f1bfacf116b4288917caa81",
+            "content": {
+                "en": "Another goddamn postdoc."
+            }
+        },
+        {
+            "id": "w_b4b9e1116140db94b9b8689de8135d5fa7e97e0f",
+            "content": {
+                "en": "Answers in Genesis."
+            }
+        },
+        {
+            "id": "w_92267bd67ae4f76ef37b7c6ce502d1159a1901ad",
+            "content": {
+                "en": "Anthrax."
+            }
+        },
+        {
+            "id": "w_199926083b9fb21c6ffeb206bc7c6b68c7793a02",
+            "content": {
+                "en": "Antibiotic-resistant gonorrhea."
+            }
+        },
+        {
+            "id": "w_a1ecdd9e523bddffa991d3dfe680b362102a1327",
+            "content": {
+                "en": "Arachnophobic entomoligists."
+            }
+        },
+        {
+            "id": "w_76342f7004cbdc80d029e874d9f0bc273d50bfcb",
+            "content": {
+                "en": "Artificial insemination."
+            }
+        },
+        {
+            "id": "w_994295b8b434b33bd5155e709cab4338277bc4a7",
+            "content": {
+                "en": "Asbestos."
+            }
+        },
+        {
+            "id": "w_2560da30b65f4e331dc9654cd66600bc5a4516dd",
+            "content": {
+                "en": "Astral projection."
+            }
+        },
+        {
+            "id": "w_58b6288335115faae71e9311b3426951ea5d6401",
+            "content": {
+                "en": "Astronomers attempting to dance."
+            }
+        },
+        {
+            "id": "w_16964187cae1edac891ae97cd391352c8b2453c0",
+            "content": {
+                "en": "Asymmetrical body parts."
+            }
+        },
+        {
+            "id": "w_5ab0d4c60d2d5951181966a71ba504924167e3eb",
+            "content": {
+                "en": "Autism caused by vaccinations."
+            }
+        },
+        {
+            "id": "w_101841cab454da22b27c57ffc965156ee2c7901c",
+            "content": {
+                "en": "Autoclave."
+            }
+        },
+        {
+            "id": "w_73ae4e22d1a17858044bc4eb25b03f485e244777",
+            "content": {
+                "en": "Awkward advisor interaction."
+            }
+        },
+        {
+            "id": "w_066ab73324524708bea42247c623c3fb2ad771f1",
+            "content": {
+                "en": "Awkward lab parties."
+            }
+        },
+        {
+            "id": "w_b5a1f9da4f8919c07d105c10ffb3b2401dd3466b",
+            "content": {
+                "en": "Bayesian statistics."
+            }
+        },
+        {
+            "id": "w_e4ecb5e165d8d323e14491b2e7be6911696da3c5",
+            "content": {
+                "en": "Becasue the Bible says so."
+            }
+        },
+        {
+            "id": "w_266db44f656a3be49081160b7c30304a89c78169",
+            "content": {
+                "en": "Bigfoot&apos;s DNA sequence."
+            }
+        },
+        {
+            "id": "w_94b0d37a264450c81f5082982e50d62b47fa428b",
+            "content": {
+                "en": "Bilateral symmetry."
+            }
+        },
+        {
+            "id": "w_dc0f558aa4f843d3f0a6192f8debe51a4252208b",
+            "content": {
+                "en": "Bill Nye&apos;s bowtie."
+            }
+        },
+        {
+            "id": "w_86336a26cc460393067e4083b7ef707cbf429e3c",
+            "content": {
+                "en": "Birdemic."
+            }
+        },
+        {
+            "id": "w_daac88aa79a8874994fd804d7cf183a2f3def455",
+            "content": {
+                "en": "Black Hole."
+            }
+        },
+        {
+            "id": "w_f4b703dd8319a4f6dd781fe969d313b26a49e608",
+            "content": {
+                "en": "Blood-stained lab coat."
+            }
+        },
+        {
+            "id": "w_9df07e9cd87b402e87357aaa130a7a9694f1b4a9",
+            "content": {
+                "en": "Blowfish."
+            }
+        },
+        {
+            "id": "w_22ed8d34cd0ee3712e94bd8a6a3771a2390bd541",
+            "content": {
+                "en": "Blowing shit up."
+            }
+        },
+        {
+            "id": "w_86fa25585dfd646f72f63a6b4ca3b0e858c41ede",
+            "content": {
+                "en": "Bonobo sex."
+            }
+        },
+        {
+            "id": "w_819b2e40153639cfa3a2cf7955ad51114ab9a9e0",
+            "content": {
+                "en": "Brain parasites."
+            }
+        },
+        {
+            "id": "w_6187e93eff16ed263806828f3df6b0da5fc7dcda",
+            "content": {
+                "en": "Brain-eating proteins."
+            }
+        },
+        {
+            "id": "w_ac0a772eab32c1adbb94be1c4f3e4ad543123073",
+            "content": {
+                "en": "Brems-strahlung."
+            }
+        },
+        {
+            "id": "w_4ba30869e6adf795363ed5a2c67191d9c96f36b8",
+            "content": {
+                "en": "Brightly coloured liquids."
+            }
+        },
+        {
+            "id": "w_f544e178d1cbae8afbabde2f48ee3ab6335b9ed1",
+            "content": {
+                "en": "Carl Sagan&apos;s frustrated desire to become a tarot card reader."
+            }
+        },
+        {
+            "id": "w_67f58b4deba82b28d1bd0b15371bdb88661dc727",
+            "content": {
+                "en": "Carl Sagan&apos;s turtlenecks."
+            }
+        },
+        {
+            "id": "w_e1c64bf301fb230bbeb7378e1486b70fa6653de1",
+            "content": {
+                "en": "Centrifuge tubes."
+            }
+        },
+        {
+            "id": "w_d230ce46fcd8c0337cb604968b92c7c0c4e41cd0",
+            "content": {
+                "en": "Chlamydia."
+            }
+        },
+        {
+            "id": "w_74f1189cbf619aaa1bf65c964d1b2242d0542e4a",
+            "content": {
+                "en": "Church of Scientology."
+            }
+        },
+        {
+            "id": "w_f32d7bec026e418fb37a1b5f5eb14fc49a2dd04c",
+            "content": {
+                "en": "Cleaning up after sex on the Space Shuttle."
+            }
+        },
+        {
+            "id": "w_31261e7c848fec4d4ab5defac5a0eab4565731e5",
+            "content": {
+                "en": "Climate change denial."
+            }
+        },
+        {
+            "id": "w_054481b25d670b940b08d1c407d42cf5c170308e",
+            "content": {
+                "en": "Cloacal kiss."
+            }
+        },
+        {
+            "id": "w_2aa368cfe28b5ee919b514d4e6d13b3b221f4bac",
+            "content": {
+                "en": "Cloacal protuberance."
+            }
+        },
+        {
+            "id": "w_8a4a40ea668c7bc2195e2cd8001a07c97c993591",
+            "content": {
+                "en": "Cocaine ordered from Sigma Aldrich."
+            }
+        },
+        {
+            "id": "w_f4121b1ce8054a01259bfdfddaeba273d2bd5b85",
+            "content": {
+                "en": "Cold fusion."
+            }
+        },
+        {
+            "id": "w_269b83d0b64f63ef833b51fca6cabdee66a51930",
+            "content": {
+                "en": "Conference hookups."
+            }
+        },
+        {
+            "id": "w_f1db16f21423ec01ddfa5822f5446e99ef67af15",
+            "content": {
+                "en": "Confirmation bias."
+            }
+        },
+        {
+            "id": "w_579c93ef47a47cf65dccc5a30f9f1992ae3c1667",
+            "content": {
+                "en": "Contagious yawning."
+            }
+        },
+        {
+            "id": "w_82d9b252a315f173859d3b335f79b4c07645a0e7",
+            "content": {
+                "en": "Cosmic inflation."
+            }
+        },
+        {
+            "id": "w_0b4c4aa3217d1567d69c23b9ef7bc61f8f1541e1",
+            "content": {
+                "en": "Cosmic microwave background radiation."
+            }
+        },
+        {
+            "id": "w_78a6402b50a54e8c47d5204cb5cf28f6d3695c13",
+            "content": {
+                "en": "Cosmic strings."
+            }
+        },
+        {
+            "id": "w_34368f951fc4d116c695edae48d5f698f60e20cd",
+            "content": {
+                "en": "Coughing on your labmate&apos;s plate of primary cells."
+            }
+        },
+        {
+            "id": "w_a9b37f7ffb0470407f50561b2608733335f648a2",
+            "content": {
+                "en": "Crashing into the Sun."
+            }
+        },
+        {
+            "id": "w_335b1e2dda2e243a682a10441362162b88964f42",
+            "content": {
+                "en": "Creationists."
+            }
+        },
+        {
+            "id": "w_254fdbf53759e9556768052dd70915b029530b69",
+            "content": {
+                "en": "Crime scene DNA."
+            }
+        },
+        {
+            "id": "w_8aa8c0500b22b257136b2da4af955635df7db944",
+            "content": {
+                "en": "Darwin."
+            }
+        },
+        {
+            "id": "w_afd1fe32293c8f9c40bb997c76992fdb809a2c33",
+            "content": {
+                "en": "David Attenborough&apos;s vocal stylings."
+            }
+        },
+        {
+            "id": "w_ffa5f175f8d5aabaeb47beb890fe7f5ca5a8b087",
+            "content": {
+                "en": "Dihydrogen Monoxide."
+            }
+        },
+        {
+            "id": "w_cb8027538413f822bef04ddaf4c55bda04bb06f2",
+            "content": {
+                "en": "Dissolved in a vial of hydrochloric acid."
+            }
+        },
+        {
+            "id": "w_3d8896f83ad3c584c0f4c59050436a9ee8e1137d",
+            "content": {
+                "en": "Distracting grammatical errors."
+            }
+        },
+        {
+            "id": "w_4a2b97f5f7f5e2f40e5241f3ff0e3a6d2ef86ae9",
+            "content": {
+                "en": "Diuretic shellfish poisoning."
+            }
+        },
+        {
+            "id": "w_19c9cb46d0585264fec1804d0bdb3766e34ee48c",
+            "content": {
+                "en": "Donor organs."
+            }
+        },
+        {
+            "id": "w_3e2d3f1b086583349839b18323b089d54734fa4f",
+            "content": {
+                "en": "E.O. Wilson."
+            }
+        },
+        {
+            "id": "w_93e8a3cb9eeb29ec274647713403ef6793df609b",
+            "content": {
+                "en": "Eating your model organism."
+            }
+        },
+        {
+            "id": "w_4bdf46f45c6ce6253b752bd4fbc20a11b0655d4e",
+            "content": {
+                "en": "Eating your model system."
+            }
+        },
+        {
+            "id": "w_d29654e2721ea82e480913d310b0f55034a1eb2b",
+            "content": {
+                "en": "Ecologist chic."
+            }
+        },
+        {
+            "id": "w_8af6c4b3da7a040480a2ffdf8abef28b67ac75f6",
+            "content": {
+                "en": "Ed Witten practicing shibari with Leonard Susskind."
+            }
+        },
+        {
+            "id": "w_4f201d0f78907b324762ba6a793ed4d80f527cf5",
+            "content": {
+                "en": "Edwin Hubble&apos;s expanding shaft."
+            }
+        },
+        {
+            "id": "w_432a33442665e5f3e3e79f590b808c57fe323a88",
+            "content": {
+                "en": "Electrical fires."
+            }
+        },
+        {
+            "id": "w_959725c64d0e72f7d9a9bed183598016e7bda2a8",
+            "content": {
+                "en": "Electro-shocking earthworms."
+            }
+        },
+        {
+            "id": "w_bcef846a0750f7e990b23344c5c88bef17e28a01",
+            "content": {
+                "en": "Ernst haeckel."
+            }
+        },
+        {
+            "id": "w_67c8d6297c832fe36d28f37cdccb443213a1fb33",
+            "content": {
+                "en": "Evidence that there really is a God."
+            }
+        },
+        {
+            "id": "w_62212e33c6a761801e8e9ca469c56589cc7849c1",
+            "content": {
+                "en": "Evolution gone awry."
+            }
+        },
+        {
+            "id": "w_628ecc57c35ce405e351acdd4fa04df134f2a763",
+            "content": {
+                "en": "Excess production of methane."
+            }
+        },
+        {
+            "id": "w_86a209c56878f22ac0e6734ff1b861eaad2b4bfc",
+            "content": {
+                "en": "Experimenting on yourself."
+            }
+        },
+        {
+            "id": "w_91326b20f1258d7ac25269fbe71767b08634963d",
+            "content": {
+                "en": "Exploitative advisor."
+            }
+        },
+        {
+            "id": "w_253de16978162206270ecd8ef99902dafb2f9033",
+            "content": {
+                "en": "Explosive testes."
+            }
+        },
+        {
+            "id": "w_c9e5bd2fe356abb0c1f00a5ffbc8b058c22525c8",
+            "content": {
+                "en": "Falsifying data."
+            }
+        },
+        {
+            "id": "w_12d887a4690736319d30712185a16f237833a429",
+            "content": {
+                "en": "Fecal transplants."
+            }
+        },
+        {
+            "id": "w_c68fa34639f4e356a522821301048e5e91795ade",
+            "content": {
+                "en": "Fractured metatarsals."
+            }
+        },
+        {
+            "id": "w_6c0d19984901b9b539bf11f7b5f52d5022735996",
+            "content": {
+                "en": "Free radicals."
+            }
+        },
+        {
+            "id": "w_f95310edf16042c19a2bad65f6085c18fcdf55d1",
+            "content": {
+                "en": "Friggin black holes, man!"
+            }
+        },
+        {
+            "id": "w_bdc50ab4e5437c076585894b5311902d25ee5690",
+            "content": {
+                "en": "Fucking in zero gravity."
+            }
+        },
+        {
+            "id": "w_bfa6cb6345134c80379c219b5fec3b7e8c9c63e4",
+            "content": {
+                "en": "Fundamental discord between theory and experiment leading to a paradigm shift."
+            }
+        },
+        {
+            "id": "w_572e5da81566008b0199160338d6656c14aeac16",
+            "content": {
+                "en": "Gastro-intestinal worms."
+            }
+        },
+        {
+            "id": "w_4d2927c1a44cbb868a25d5553356417f321f2225",
+            "content": {
+                "en": "Genome."
+            }
+        },
+        {
+            "id": "w_a318c79e9733f2a0c227a0d277cbbe8eb45bc7ca",
+            "content": {
+                "en": "Getting scooped."
+            }
+        },
+        {
+            "id": "w_064f2fe5f3d01bd12ae6f58bb83cbd2e0269abf2",
+            "content": {
+                "en": "Getting stopped by airport security because of the chemicals on your shoes."
+            }
+        },
+        {
+            "id": "w_8b42c4ed005bec540a1f8da106e5f10a66730e8c",
+            "content": {
+                "en": "Gneiss cleavage."
+            }
+        },
+        {
+            "id": "w_8611f096b3c58e7bee14502169c108d8caf9162c",
+            "content": {
+                "en": "Going inside soap bubbles."
+            }
+        },
+        {
+            "id": "w_3955efbf5b69af701261922f425df773c0e26542",
+            "content": {
+                "en": "Golden boy."
+            }
+        },
+        {
+            "id": "w_4bcac84d01dd696bc95600bb95bd51d352409b99",
+            "content": {
+                "en": "Gonads."
+            }
+        },
+        {
+            "id": "w_e123de2a831dd882a779abab690ff800558d47d5",
+            "content": {
+                "en": "Gravity ripples."
+            }
+        },
+        {
+            "id": "w_c8d6d659e749add2ddb089f523ad9e1fb55b1563",
+            "content": {
+                "en": "Gravity, sponsored by Red Bull."
+            }
+        },
+        {
+            "id": "w_50201c3558e285ee0f273b20cd48147560daf4bc",
+            "content": {
+                "en": "Great tits."
+            }
+        },
+        {
+            "id": "w_f1c765f028873dad604825fa71abe7cb81a02a46",
+            "content": {
+                "en": "Grey goo."
+            }
+        },
+        {
+            "id": "w_5cf6a8a2beeed1a506046a530ca8c121ea66d6ff",
+            "content": {
+                "en": "Growing pot in the greenhouse."
+            }
+        },
+        {
+            "id": "w_a500a0b1869a15fbbceea2a9f493de3a8b99c10a",
+            "content": {
+                "en": "H5N1 pandemic avian flu."
+            }
+        },
+        {
+            "id": "w_721def3fea0a5617b57a0fa3697e573a180cce8a",
+            "content": {
+                "en": "Hearing a number such as 10,000 and wondering what it is in binary."
+            }
+        },
+        {
+            "id": "w_7c65b0562b38b7e1608dc2ff2a13f22d45f04a94",
+            "content": {
+                "en": "Herpes."
+            }
+        },
+        {
+            "id": "w_57e44618942e4bd47e7571770bb89383bc7b84d5",
+            "content": {
+                "en": "High-fiving a robot arm."
+            }
+        },
+        {
+            "id": "w_f976057fa287a8b6eeda87997b05d91dd6375628",
+            "content": {
+                "en": "Highly cited papers."
+            }
+        },
+        {
+            "id": "w_ec9c5a1af03c9bd6c82c760ddf488a329c30118b",
+            "content": {
+                "en": "Humpback whale song."
+            }
+        },
+        {
+            "id": "w_90c574e71085b6cf6a8a19f65bbaa3cecbeaee24",
+            "content": {
+                "en": "Hunger strike when I don't get tenure."
+            }
+        },
+        {
+            "id": "w_070dcbe59d506a542048d7f948064e7877afd950",
+            "content": {
+                "en": "Hypermatter annihilation reaction."
+            }
+        },
+        {
+            "id": "w_6c67627ac42f433a1ba6054dd2823b7078a2a9ad",
+            "content": {
+                "en": "I&apos;m Bill Nye, BIATCH!"
+            }
+        },
+        {
+            "id": "w_90b2eb0f1939a29019c98fcbf55437a638188a98",
+            "content": {
+                "en": "In precise terms, deady, deady, dead dead."
+            }
+        },
+        {
+            "id": "w_32a457171c1b30caff097ae9033c05f1604cca08",
+            "content": {
+                "en": "Indescribable frustration."
+            }
+        },
+        {
+            "id": "w_7d993221834b701629426c49905de033bb06cbae",
+            "content": {
+                "en": "Integral charts."
+            }
+        },
+        {
+            "id": "w_f70868c8411928aa1d2836a12e42ceeab085a5aa",
+            "content": {
+                "en": "Intermediate host."
+            }
+        },
+        {
+            "id": "w_52d0a960ace0a020d47cfaa4a3a0e0568cfc9183",
+            "content": {
+                "en": "Internet arguments about Richard Dawkins."
+            }
+        },
+        {
+            "id": "w_6dd940e22bd75f2933ec80f662c1738a029d69ae",
+            "content": {
+                "en": "Interstellar space."
+            }
+        },
+        {
+            "id": "w_b190c39b7df4c7a84d777a53fd4b1e5cf22b0c86",
+            "content": {
+                "en": "Invasive carp."
+            }
+        },
+        {
+            "id": "w_fffb47419d746fcb1d7db9aef682884555b49996",
+            "content": {
+                "en": "Irrefutable proof of life on Mars."
+            }
+        },
+        {
+            "id": "w_a01a6f9a71a28cab7c45f0b792bd4939015aca8a",
+            "content": {
+                "en": "isaac Newton&apos;s nocturnal emissions."
+            }
+        },
+        {
+            "id": "w_017f17c60e23d6dc65200554a0c33a3075717867",
+            "content": {
+                "en": "Isaac Newton&apos;s third law of first dates."
+            }
+        },
+        {
+            "id": "w_416324f3f57a375f9dd2439b179c9498dd390bb5",
+            "content": {
+                "en": "Island biogeography."
+            }
+        },
+        {
+            "id": "w_049cd592bbfe40b8157b3e13210eca947d288d0c",
+            "content": {
+                "en": "J.B.S. Haldane."
+            }
+        },
+        {
+            "id": "w_ac3b65c716842661e79f0b272c32fe977266f440",
+            "content": {
+                "en": "Jerk off in an MRI."
+            }
+        },
+        {
+            "id": "w_34fbc626988132856dc131203cca474f1a4ae313",
+            "content": {
+                "en": "Jizz in a tube."
+            }
+        },
+        {
+            "id": "w_69b6ce6e43ecd43cb622125ea9c39b374c16dcb4",
+            "content": {
+                "en": "John Gurdon&apos;s hair."
+            }
+        },
+        {
+            "id": "w_39bb0a21693e73cd58138b771bbda7841df6ff3d",
+            "content": {
+                "en": "Just some goddamn cells, ok?"
+            }
+        },
+        {
+            "id": "w_7a2c980ab6aabeb8f0ce3091899e54d21f5da32b",
+            "content": {
+                "en": "Kansas Dept. of Education."
+            }
+        },
+        {
+            "id": "w_9c41367fbb45ae6e7cfe14dbdde17d337b7ea694",
+            "content": {
+                "en": "Killer cells."
+            }
+        },
+        {
+            "id": "w_d03a82e047e267c616f41e7944b61caab74a7b92",
+            "content": {
+                "en": "Koko the gorilla&apos;s kittens."
+            }
+        },
+        {
+            "id": "w_ae6be2bc7737899e781902923df411247bdb9b2d",
+            "content": {
+                "en": "Lab coat stains."
+            }
+        },
+        {
+            "id": "w_0fd683f8feb82f7b5daa4803e39b26a960a4242c",
+            "content": {
+                "en": "Lab hazing."
+            }
+        },
+        {
+            "id": "w_f63603f290d70b59241f25c57bcb625cc149d23f",
+            "content": {
+                "en": "Lab rotation students."
+            }
+        },
+        {
+            "id": "w_a69af45a350db2174b6192372721f1fcbebfadf5",
+            "content": {
+                "en": "Labcest (lab incest)."
+            }
+        },
+        {
+            "id": "w_4fcb09d45a49e189d27648feeeb00a73d92b6909",
+            "content": {
+                "en": "Laser spot damage."
+            }
+        },
+        {
+            "id": "w_0bb9d9aefcc7c7060b14390b8d5e3f6f8a7b28fb",
+            "content": {
+                "en": "Leaky barrels of nuclear waste."
+            }
+        },
+        {
+            "id": "w_785701c933051cebe5c3269689689d35e26ca13b",
+            "content": {
+                "en": "Leftover pizza."
+            }
+        },
+        {
+            "id": "w_79b4f148db00cfd542d9d4c8657eaf9766d8222d",
+            "content": {
+                "en": "Legless lizards."
+            }
+        },
+        {
+            "id": "w_aedaf8699426b13cd7e5700cc8fca29ab394e0e8",
+            "content": {
+                "en": "LIGO."
+            }
+        },
+        {
+            "id": "w_1222aa43549b446581ef47ffcf08e1f393e50e83",
+            "content": {
+                "en": "Liquid nitrogen."
+            }
+        },
+        {
+            "id": "w_035b913431bddd17d3c38e7f2049c110c24c4fe9",
+            "content": {
+                "en": "Long, rambling questions after a conference talk."
+            }
+        },
+        {
+            "id": "w_a06eff4fff2a2a715a25f1dea8a5a58a2f5c84fa",
+            "content": {
+                "en": "Lotka-Volterra Equation."
+            }
+        },
+        {
+            "id": "w_e4e50ea76ae95e53422761800a9a03321df9316f",
+            "content": {
+                "en": "Machine learning buttressed Bayesian statistical inference."
+            }
+        },
+        {
+            "id": "w_d7b53277c9acfd8ceaa22721e3bf00194d99e6e7",
+            "content": {
+                "en": "Mad cow disease."
+            }
+        },
+        {
+            "id": "w_b9dd750fd02109343fa3d7fc16302415c1ee6381",
+            "content": {
+                "en": "Magnetic monopoles. That&apos;s right, plural!"
+            }
+        },
+        {
+            "id": "w_9b7824fde59d4c03f881e84e13dd9c63e38fd411",
+            "content": {
+                "en": "Making out with the lab hottie in the dark room."
+            }
+        },
+        {
+            "id": "w_97f9154b62595af1339e4a03286ebc0818ddd7aa",
+            "content": {
+                "en": "Maxwell&apos;s demon."
+            }
+        },
+        {
+            "id": "w_9ade020745ca56b16bf01a2f466c9edb159c52fa",
+            "content": {
+                "en": "Measuring the diameter of a penguin&apos;s anus and winning an Ignoble for the trouble."
+            }
+        },
+        {
+            "id": "w_92c90555e24028241234fe1a801d4330e69b1b0b",
+            "content": {
+                "en": "Melting sea ice."
+            }
+        },
+        {
+            "id": "w_9493be8611a0e161d1990425a92ce7416c02ae81",
+            "content": {
+                "en": "Mercury fulminate disguised as crystal meth."
+            }
+        },
+        {
+            "id": "w_0f19b13302e19556333a251f641239cf290b54e4",
+            "content": {
+                "en": "Methane from cows."
+            }
+        },
+        {
+            "id": "w_b2f2b04f76d161ec3e1fe83720028437e3f51eea",
+            "content": {
+                "en": "Mice sprouting tumors."
+            }
+        },
+        {
+            "id": "w_47d5f476fda21b58c1c3f7d0ee4e996bedf25d2b",
+            "content": {
+                "en": "Mice that eat their babies."
+            }
+        },
+        {
+            "id": "w_5ff616ae10624021358735075863044d12d805a8",
+            "content": {
+                "en": "Mice with tumors on their butts."
+            }
+        },
+        {
+            "id": "w_9cb4635eccee6734f1119255755daeeaab3728db",
+            "content": {
+                "en": "Microscopic black holes."
+            }
+        },
+        {
+            "id": "w_d8cfdf4f0eeafc6b1ff42618db4c22801d43d380",
+            "content": {
+                "en": "Mind-bending quantum paradoxes."
+            }
+        },
+        {
+            "id": "w_538d7439c9f092e83bb9f9890d04de8b29c2c3d6",
+            "content": {
+                "en": "Mosquitofish."
+            }
+        },
+        {
+            "id": "w_9d9c0b31067c5d66c99e4091e7811e92544fea47",
+            "content": {
+                "en": "Mouth Pipetting."
+            }
+        },
+        {
+            "id": "w_bb1b9a7011a9173ed6444d47a84b8953de1abb14",
+            "content": {
+                "en": "MRSA."
+            }
+        },
+        {
+            "id": "w_5d4553a4cd48b4c22b2f74bc8721d38afe89429b",
+            "content": {
+                "en": "My major professor."
+            }
+        },
+        {
+            "id": "w_cf07dc2ce8347add5dd85aa8fbb925fd3de7cee0",
+            "content": {
+                "en": "My messy lab."
+            }
+        },
+        {
+            "id": "w_4f16e5df66335c36e502f8c48a616bb0400d1931",
+            "content": {
+                "en": "Nads the size of Jupiter."
+            }
+        },
+        {
+            "id": "w_3cd37f7fb62149aa0f3cc435cae372656f3317df",
+            "content": {
+                "en": "Nano-technology."
+            }
+        },
+        {
+            "id": "w_25c7fb98a5ea7fd99189ea186a0ce78571a5d96a",
+            "content": {
+                "en": "National Science Foundation."
+            }
+        },
+        {
+            "id": "w_f9a5756d708d3a4f327af557f18c8b6d66dec7d1",
+            "content": {
+                "en": "Natural selection!"
+            }
+        },
+        {
+            "id": "w_c22068c49f94f11d59681438ee52e0bde8e58a9a",
+            "content": {
+                "en": "Nature cover."
+            }
+        },
+        {
+            "id": "w_52acd5e3e33c485033ca06881da1acb747cadb58",
+            "content": {
+                "en": "Neil DeGrasse Tyson."
+            }
+        },
+        {
+            "id": "w_171f2bf95589fdb13aab249b3fd6d18945236939",
+            "content": {
+                "en": "Newton&apos;s virginity."
+            }
+        },
+        {
+            "id": "w_8ceb75f65bd90e163cebabb6bd0514c453926f42",
+            "content": {
+                "en": "No-one knows."
+            }
+        },
+        {
+            "id": "w_46798264d0c6d15ab19bcd743a457d51ccba418c",
+            "content": {
+                "en": "Nonoparticle swarms."
+            }
+        },
+        {
+            "id": "w_0b5287b4c4af5e1cdce5690bcef161ef717a226f",
+            "content": {
+                "en": "Not enough replicates."
+            }
+        },
+        {
+            "id": "w_275236d995235282a19dfb9a4874952d7e7f78e2",
+            "content": {
+                "en": "Nuclear waste."
+            }
+        },
+        {
+            "id": "w_dffe98f617ddbf2ca7df0fab977d2b9af46894a0",
+            "content": {
+                "en": "Nudibranchs."
+            }
+        },
+        {
+            "id": "w_9a9c5007f2fcf119194692b7bd56b526d9801a52",
+            "content": {
+                "en": "Onions."
+            }
+        },
+        {
+            "id": "w_f474f154cd2f4d1e41d19cd00a803f4ac9083d5a",
+            "content": {
+                "en": "Opposable thumbs."
+            }
+        },
+        {
+            "id": "w_28a8b0c94e8caf1e0e1b6438965035e7f785c2eb",
+            "content": {
+                "en": "Overwhelming incomprehensible over-commitment."
+            }
+        },
+        {
+            "id": "w_bda1da2af57382d7986b7a85ae72f3034b91296e",
+            "content": {
+                "en": "P &lt; 0.05."
+            }
+        },
+        {
+            "id": "w_74ac42bb131c109daf2ab6ea191afb7ad119e8bf",
+            "content": {
+                "en": "P=0.06."
+            }
+        },
+        {
+            "id": "w_86af62a43b1469896f82912ea7cd6c8da4460ce8",
+            "content": {
+                "en": "Passing out on lab ethanol."
+            }
+        },
+        {
+            "id": "w_31e66eeb55666269a8aaccb64ce7b580766faa63",
+            "content": {
+                "en": "Pauli exclusion principle."
+            }
+        },
+        {
+            "id": "w_e41a36746e0ff0c552501399fb6e31b37358865e",
+            "content": {
+                "en": "Pavolov&apos;s doggy daycare."
+            }
+        },
+        {
+            "id": "w_2c681bfa5ad9c1f3f8ab127bcc97f94dae1964ce",
+            "content": {
+                "en": "Phalanges banging."
+            }
+        },
+        {
+            "id": "w_5de6d03c1942531324d21faa4a687561fa2d020c",
+            "content": {
+                "en": "Phylum Echinodermata."
+            }
+        },
+        {
+            "id": "w_c929ea8937d7352d1c4423c8e0ceec3ac988f7f3",
+            "content": {
+                "en": "Physics envy."
+            }
+        },
+        {
+            "id": "w_df31e2022f1e4959a122c22765c03e7821a0043c",
+            "content": {
+                "en": "Pickle juice."
+            }
+        },
+        {
+            "id": "w_d3eab287b3a909d8035fca2bc061936c02ff34f3",
+            "content": {
+                "en": "Pipette fatigue."
+            }
+        },
+        {
+            "id": "w_c82ab41bac1013f6058b8aa8b98cf4c3652e7382",
+            "content": {
+                "en": "Plasma surfing on solar flares."
+            }
+        },
+        {
+            "id": "w_a379bf4e2dd2abf4663e850bae03f1d3dd2837bd",
+            "content": {
+                "en": "Pornographic looking cloud."
+            }
+        },
+        {
+            "id": "w_d89e06068b12e970929590e6e1b99505e90305be",
+            "content": {
+                "en": "Positronic neural net. It&apos;s a real thing!"
+            }
+        },
+        {
+            "id": "w_5ccca3a2d7340ac8892127d640aad2257a24af48",
+            "content": {
+                "en": "Pouring liquid nitrogen down the back of someone&apos;s shirt."
+            }
+        },
+        {
+            "id": "w_7cda8330a937268dcef9bc772bd5013d99a740f5",
+            "content": {
+                "en": "Prancing about in a bunny suit in the BSL-3 lab."
+            }
+        },
+        {
+            "id": "w_afd7b1df9d552e35659d40caa4ee297602ba058c",
+            "content": {
+                "en": "Presenting yur data in Comic Sans."
+            }
+        },
+        {
+            "id": "w_4248181d3f5caf810fb53c133e33d6b6cefa09d1",
+            "content": {
+                "en": "Professor Richard Dawkins."
+            }
+        },
+        {
+            "id": "w_4a47ddd71ec7cfe542856cbb3aa872b65e8bcbae",
+            "content": {
+                "en": "Prostate dysfunction."
+            }
+        },
+        {
+            "id": "w_bd5d7f8b755a7f185005891f7920ff75970a4085",
+            "content": {
+                "en": "Protein injection."
+            }
+        },
+        {
+            "id": "w_6c82a00da43ca26b24cd1fe75458ecc8b54ee4ec",
+            "content": {
+                "en": "Putting dry ice in Eppendorf tubes."
+            }
+        },
+        {
+            "id": "w_5e514d056113cdf3ca1a5c172f3ff8c46fbf3f6e",
+            "content": {
+                "en": "Pythagoras&apos;s NEW theorem."
+            }
+        },
+        {
+            "id": "w_54e5ac05d89fbb6027038970e6b24b7a08e41d61",
+            "content": {
+                "en": "Quantum teleportation."
+            }
+        },
+        {
+            "id": "w_74adf1fdaa274607abad880a77cddccdb082f88c",
+            "content": {
+                "en": "Regression to the mean."
+            }
+        },
+        {
+            "id": "w_023d0ec6b1a4f8f8fb6fe4ed201caefe55b9de2f",
+            "content": {
+                "en": "Repetitive stress injury."
+            }
+        },
+        {
+            "id": "w_4cd9fbcc926a0f76a99bd77068031d59995ae84e",
+            "content": {
+                "en": "Replacing polymerase enzyme with rancid komodo dragon saliva."
+            }
+        },
+        {
+            "id": "w_93e0e186ac43d79ff657ff15e7652bab83ebfd1c",
+            "content": {
+                "en": "Reprogrammed stem cells."
+            }
+        },
+        {
+            "id": "w_fb71f8c5fe8406e659514412251f94b07853c678",
+            "content": {
+                "en": "Reviewer 3."
+            }
+        },
+        {
+            "id": "w_1c56434fb7ff32845ab442eafe98335ef496986d",
+            "content": {
+                "en": "Reviewers."
+            }
+        },
+        {
+            "id": "w_3146ecb6cc1a07eed79748ca7025caf739192536",
+            "content": {
+                "en": "Rinderpest."
+            }
+        },
+        {
+            "id": "w_50eb20cb1afbf52642a12a89f25ff7ffef5a35fa",
+            "content": {
+                "en": "RNAses."
+            }
+        },
+        {
+            "id": "w_2f99b72a4d506321995f2ba07f71745b61020d03",
+            "content": {
+                "en": "Robert Boyle&apos;s passed gas."
+            }
+        },
+        {
+            "id": "w_d68b08574b142a2ac9c82fda97694d6366eb9dc5",
+            "content": {
+                "en": "Robot overlords."
+            }
+        },
+        {
+            "id": "w_2b257440bf9960e48fe858795f85e444d5b36902",
+            "content": {
+                "en": "Robot sex."
+            }
+        },
+        {
+            "id": "w_62b7c6215ed15a61c77b37b04db5022a101272ca",
+            "content": {
+                "en": "Satellites."
+            }
+        },
+        {
+            "id": "w_e869c3b19ed5dd43909a7e3a05a43ec7410efd87",
+            "content": {
+                "en": "Schisto-somiasis."
+            }
+        },
+        {
+            "id": "w_899e7ef5f23b1c9c9446c6174f8b8388e715e9e5",
+            "content": {
+                "en": "Schrodinger&apos;s cat."
+            }
+        },
+        {
+            "id": "w_3fd7581e7adcd01a1a4009aba5eff577c91c98e7",
+            "content": {
+                "en": "Schrodinger&apos;s cattery."
+            }
+        },
+        {
+            "id": "w_a385cab6496b35b93458cab031f5709ea078dc04",
+            "content": {
+                "en": "Scientology."
+            }
+        },
+        {
+            "id": "w_c2a351356ec618f651da7bdd2b9e9d7f8ae5d1f4",
+            "content": {
+                "en": "Sea level rising... in my pants."
+            }
+        },
+        {
+            "id": "w_aff76c42c398dd7666068e25111185583de5fcb5",
+            "content": {
+                "en": "Sea squirts."
+            }
+        },
+        {
+            "id": "w_8d75e0157e3c469dd0db8a7dc426be17f0f3bafe",
+            "content": {
+                "en": "Self-replicating Mystery Meat."
+            }
+        },
+        {
+            "id": "w_71f7dd73cf9817c0114cd56bb7d875ea0ca8957f",
+            "content": {
+                "en": "Sequencing your own DNA."
+            }
+        },
+        {
+            "id": "w_2d561ec92e5f4bd7c8fe4e37991363c6b0e4e564",
+            "content": {
+                "en": "Sequential hermaphroditism."
+            }
+        },
+        {
+            "id": "w_a8a475840f361ffd5d4be47656e1d72ecde9d906",
+            "content": {
+                "en": "Serial monogamy."
+            }
+        },
+        {
+            "id": "w_61479396c99cf691bf007fd7e5adb6433cc02362",
+            "content": {
+                "en": "Shitty verbal on the GRE."
+            }
+        },
+        {
+            "id": "w_2ff40e50e93a062cea75e88a7d37431efe3bf97d",
+            "content": {
+                "en": "Soft money."
+            }
+        },
+        {
+            "id": "w_7470348695388162a3d929143e05fc09b74078d8",
+            "content": {
+                "en": "Solar flares."
+            }
+        },
+        {
+            "id": "w_8a07ed1c90de54b26385ca709490a71ace770382",
+            "content": {
+                "en": "Spaghettification."
+            }
+        },
+        {
+            "id": "w_40d7dbdbe82768725220dd85e5545f8cbea8370d",
+            "content": {
+                "en": "Speaking out loud in chemical formulas. To yourself."
+            }
+        },
+        {
+            "id": "w_c7dc41fdb1738b3d3cd1c9bbd741e972f5edb48d",
+            "content": {
+                "en": "Spit in a tube."
+            }
+        },
+        {
+            "id": "w_e860e07efd1fcc05d0bfebb226f0e658e9e5887e",
+            "content": {
+                "en": "Spontaneous combustion of fecal matter."
+            }
+        },
+        {
+            "id": "w_66f15cbe73905d53ba9d05782304d71683226b10",
+            "content": {
+                "en": "Sprinkling salt on sliced tomatoes and thinking, \"Osmosis at work!\""
+            }
+        },
+        {
+            "id": "w_bcdcb8fcd26279ebaa48261d0acc1d5ae41d8586",
+            "content": {
+                "en": "Stashing a six-pack in the lab fridge."
+            }
+        },
+        {
+            "id": "w_86a205a5ef8649efee64455cadd956b1bb0fbbf0",
+            "content": {
+                "en": "Static electricity."
+            }
+        },
+        {
+            "id": "w_565d461620702caf26180b6a92a69be4f861dd1b",
+            "content": {
+                "en": "Statisticians with haemorrhoids."
+            }
+        },
+        {
+            "id": "w_a1f806b29480561a47f8b843c7fa204cea6530e5",
+            "content": {
+                "en": "Stephen Pinker&apos;s hair."
+            }
+        },
+        {
+            "id": "w_e71ab48746452237bc29d5aac4e49da44d717314",
+            "content": {
+                "en": "Steven Hawking talking dirty."
+            }
+        },
+        {
+            "id": "w_788b61113a479fe9dcacf87ea6f7e74e72a93617",
+            "content": {
+                "en": "Stonehenge."
+            }
+        },
+        {
+            "id": "w_636814521928e443426c5071be16fdcc66bff2c0",
+            "content": {
+                "en": "Tachyons, bitch."
+            }
+        },
+        {
+            "id": "w_01b1eaf2e8b294c65e9ad3f6f65f2824ac93f2ad",
+            "content": {
+                "en": "Taking shots from the 70% ethanol."
+            }
+        },
+        {
+            "id": "w_d1efe1eca0e7acdb5cce06f0d7024eac35c4803b",
+            "content": {
+                "en": "Tardigrades."
+            }
+        },
+        {
+            "id": "w_72277507c02f20d733ba3e3b1c90c7b945aec4af",
+            "content": {
+                "en": "Testing bunnies with cosmetics."
+            }
+        },
+        {
+            "id": "w_b0f6bae07401eccadde5b0562818ae9357ba1c6a",
+            "content": {
+                "en": "Tetrahydro-cannibinol."
+            }
+        },
+        {
+            "id": "w_39940cdc98089d3bd897d67b48af99628fe2aaeb",
+            "content": {
+                "en": "Texas textbooks."
+            }
+        },
+        {
+            "id": "w_e19d53f711751b050e8846121af679ab80d418a0",
+            "content": {
+                "en": "That one female engineer everyone knows but is afraid to ask out."
+            }
+        },
+        {
+            "id": "w_248762dd62fea389d46737e382fa2c4f3bfbe59e",
+            "content": {
+                "en": "That one guy everyone in the field hates but who publishes way too damn often womehow."
+            }
+        },
+        {
+            "id": "w_0bca1c59069e97c3b48f421506f7239db41ba864",
+            "content": {
+                "en": "That&apos;s a big pipette."
+            }
+        },
+        {
+            "id": "w_b38851a5c232c921a9ffaf1d5333bff22f57c46e",
+            "content": {
+                "en": "The 10 Inuit words for sperm."
+            }
+        },
+        {
+            "id": "w_b7e5441c887898fb2e46a4280ac9ef7ededfce66",
+            "content": {
+                "en": "The Ablation Cascade."
+            }
+        },
+        {
+            "id": "w_01820094dbbf9501f2030b2a603c335bffedfd32",
+            "content": {
+                "en": "The Caspian Sea."
+            }
+        },
+        {
+            "id": "w_d4c0b076d207f84fa0114eda6c7bdcb12df218da",
+            "content": {
+                "en": "The control group."
+            }
+        },
+        {
+            "id": "w_50dfc0e5d97c06ac5b0aef004975c764d009473f",
+            "content": {
+                "en": "The Cosmological Constant."
+            }
+        },
+        {
+            "id": "w_4ce06ca5f10b5d6a3a72e442b5ca3b49c8f77069",
+            "content": {
+                "en": "The footnotes."
+            }
+        },
+        {
+            "id": "w_9d5cc55896b057c145cbdc1ba871e60507052b88",
+            "content": {
+                "en": "The God Delusion."
+            }
+        },
+        {
+            "id": "w_b7ff6659263b91d1fc94c45925cf9925918fe1bf",
+            "content": {
+                "en": "The Leidenfrost Effect."
+            }
+        },
+        {
+            "id": "w_b5e474c9cfe8ac56f5f38ad4acd3abf8627c747f",
+            "content": {
+                "en": "The Matrix."
+            }
+        },
+        {
+            "id": "w_244ba9a9457a1f2802e522dadac2c8ee237cb0f4",
+            "content": {
+                "en": "The metric system."
+            }
+        },
+        {
+            "id": "w_0caa58a62f2d1423837448beb2d1d4bba7032048",
+            "content": {
+                "en": "The moon."
+            }
+        },
+        {
+            "id": "w_e0c8feebffe8af918d9e8aa616b714e75c7ae940",
+            "content": {
+                "en": "The radioactive, undead corpse Marie Curie back from the grave, out for revenge."
+            }
+        },
+        {
+            "id": "w_ce64b5191540d6d377308476a62a3ddcc516cf1f",
+            "content": {
+                "en": "The scientific method."
+            }
+        },
+        {
+            "id": "w_04fa8a4b85826ac5f7dab7ce9810f2d2756b914b",
+            "content": {
+                "en": "The Scoville scale of pepper hottness."
+            }
+        },
+        {
+            "id": "w_3238b77e9321def0ae1196cfcff317dbc719196a",
+            "content": {
+                "en": "The TARDIS."
+            }
+        },
+        {
+            "id": "w_a0e8c9ae1d4dc394589e7f123f868f3e5d057d44",
+            "content": {
+                "en": "The token female professor."
+            }
+        },
+        {
+            "id": "w_605e7905023b9574240bd09198de11701d470406",
+            "content": {
+                "en": "The unparalleled genius of Albert Einstein&apos;s ball sack."
+            }
+        },
+        {
+            "id": "w_4453a24c4a780233f41e32733e8fba9921e6b239",
+            "content": {
+                "en": "Three gallons of pure ethanol."
+            }
+        },
+        {
+            "id": "w_8cbd6be745eba86dab2497802f86e7ec00eb4e44",
+            "content": {
+                "en": "TMNT ooze."
+            }
+        },
+        {
+            "id": "w_df064eec16a0417c19e2f61ca60b345e315bfa0e",
+            "content": {
+                "en": "Topological insulators."
+            }
+        },
+        {
+            "id": "w_e83fe223be91c3d96f3d2b0a21bef40b6f25d3c7",
+            "content": {
+                "en": "Total Maximum Daily Load."
+            }
+        },
+        {
+            "id": "w_2e7a883da0365e36962ffdac3fe10f58504419a0",
+            "content": {
+                "en": "Traumatic insemination."
+            }
+        },
+        {
+            "id": "w_e75276821c9690054204bbe8af6c4e1316c9ade6",
+            "content": {
+                "en": "Two-body problem."
+            }
+        },
+        {
+            "id": "w_aefee5e401202b83680f40dca4f2bbb0b03e4580",
+            "content": {
+                "en": "Undergrads."
+            }
+        },
+        {
+            "id": "w_399c1f6b121f4518320eaf8462b51db2fb57ae7c",
+            "content": {
+                "en": "Undifferentiated stem cells."
+            }
+        },
+        {
+            "id": "w_46073a6bd9c29ae8b7b26dcb44bfa3a04aacc146",
+            "content": {
+                "en": "Unethical bastardization of the scientific method."
+            }
+        },
+        {
+            "id": "w_69eb91949ca483fb94890f7f28c24d68ed4a3aeb",
+            "content": {
+                "en": "Unicorns."
+            }
+        },
+        {
+            "id": "w_3fb59e1ebc7a1faa42e26de548b1b0c9c2354365",
+            "content": {
+                "en": "Untethered spacewalk."
+            }
+        },
+        {
+            "id": "w_813cd5ae485cf115b33441eee7bf1fef6c015221",
+            "content": {
+                "en": "Uranus."
+            }
+        },
+        {
+            "id": "w_9cec446a4d83b136a2c71ce9559afeae2f9ebbd4",
+            "content": {
+                "en": "Utter and complete lack of faculty presence at social activities."
+            }
+        },
+        {
+            "id": "w_ca82512f398435f7aedf0c267a83ec576d7ae7b0",
+            "content": {
+                "en": "Vaginal secretions."
+            }
+        },
+        {
+            "id": "w_dd71590972f7e65ecbcba7f1ae164d6b80a11e12",
+            "content": {
+                "en": "Van Allen belt."
+            }
+        },
+        {
+            "id": "w_7e71bf89034ef373d2900546a85afce1c3da9884",
+            "content": {
+                "en": "Violent relaxation."
+            }
+        },
+        {
+            "id": "w_2efeca42bdc7a86359f894a1edb8bf74115e2fd6",
+            "content": {
+                "en": "Watching a baseball game and plotting trajectories in your head."
+            }
+        },
+        {
+            "id": "w_1d27b410294d74d9fd527fdf4163552d0a4ad4c4",
+            "content": {
+                "en": "Watching fruit flies having sex."
+            }
+        },
+        {
+            "id": "w_39f4b3d6f0096625039423dedabc966a7d5efe40",
+            "content": {
+                "en": "Watson and Crick slash\/fic."
+            }
+        },
+        {
+            "id": "w_96aadfc427957927ed66febfd8e076237cadca00",
+            "content": {
+                "en": "We're gonna need a bigger fulcrum."
+            }
+        },
+        {
+            "id": "w_52a183ba3eeb1a4713bc5a217d27313ec1dfffcf",
+            "content": {
+                "en": "Weigh mouse poop."
+            }
+        },
+        {
+            "id": "w_f9590b54484bf0c1549f97f10301a8e6f1086447",
+            "content": {
+                "en": "Wet mergers with dynamical friction."
+            }
+        },
+        {
+            "id": "w_48b7245accbd8312af556afb0c2c9d2440c0f359",
+            "content": {
+                "en": "Your advisor marrying one of his other graduate students, who started after you did."
+            }
+        },
+        {
+            "id": "w_da8c26ba15a7086e657eb18ff4be8e7dd502aebb",
+            "content": {
+                "en": "Your pervy advisor."
+            }
+        },
+        {
+            "id": "b_b8105fbc8ffebc7cbb5da14dfcea350396f9c37e",
+            "content": {
+                "en": "\"It&apos;s trivial!\"  said the Professor. \"It&apos;s obviously just a ______.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_136d542acf094c9cd59ab617b3ce202e0851c4f3",
+            "content": {
+                "en": "A hurricane named ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0e841fa14c90342a27dc5870f9aafbca1a33da4a",
+            "content": {
+                "en": "A parasite is an organism that takes ______ away from another organism while it is still living."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f11277cced72cc79b0262c03d700fb3798c031f3",
+            "content": {
+                "en": "After getting tenure the professor celebrated by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_edbdd96fff9a071ea80b0f70e2c0642dc1a47aa1",
+            "content": {
+                "en": "After I defended, my adviser gave me ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1c31d08f14ebf232c3fdd5429a861fc66401da46",
+            "content": {
+                "en": "After I mixed ______ and ______, it resulted in ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_bdad7b633ad2f7e9333a6d00201945d96149d7a5",
+            "content": {
+                "en": "After Joe forgot to put the ______ under the fume hood, all hell broke loose."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_853f73ccc4eb8efa8e4bebfa4a7ba62229aa11cc",
+            "content": {
+                "en": "After much deliberation, IUPAC decided to name the next element ______ium."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9a08c63612cc63fb7d2b6091dd1ed62a33f64d56",
+            "content": {
+                "en": "After pointing the Hubble space telescope at a blank patch of sky for 10 days astronomers were surprised to see ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8efb5fa5eb786442403c7242b717791e2cca366d",
+            "content": {
+                "en": "All models are wrong, but some are ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f1e4f3778ca139331cee4278e3bf310c3fa2658f",
+            "content": {
+                "en": "Applied for postdoc, all I got was this lousy ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_290557ded3887e027a5a1b09e704c210417c9989",
+            "content": {
+                "en": "As an experiment, I inserted ______ into ______ and discovered ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_f3e1a8a51874913155a07c415008c2d089995384",
+            "content": {
+                "en": "As Schrodinger stuffed the cat in the box, he had an awful thought: What if the cat is ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6ee8e6eebb3afcfec9adbbb08426ae28f6a8317b",
+            "content": {
+                "en": "Astronomers watched excitedly as ______ made its final descent into the black hole."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7bf1df90f0eae9cd487076ef15a357ec3d0391e2",
+            "content": {
+                "en": "Before centrifuging ______, never forget to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_d73593ff3b77be0e5eb3b63c7bbc924cca59f331",
+            "content": {
+                "en": "Best excuse for putting off writing a referee report."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9baa434579af51841d8070f2b92fced730f87e4c",
+            "content": {
+                "en": "Better living through ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6c3d3cb6024ccb81029db38e2ea93a90a6eeb474",
+            "content": {
+                "en": "Campus lab safety protocol requires you to always put on your ______ bafore doing ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_fb4f13e99f9aa77f0fb2ac10f094ad028e6440fe",
+            "content": {
+                "en": "Can you believe the new Texas textbooks said ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5f5e89b283415de56f990566eaec16dc478ba041",
+            "content": {
+                "en": "Carl Linnaeus would have named it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2a1a7a83264e2466e1f78ddd1866aa2719e07a2f",
+            "content": {
+                "en": "Chemical equilibrium was reached when ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_682c1134a9f8df5f2bfb8815306b03c756237092",
+            "content": {
+                "en": "Congratulations! Your fellowship includes a stipend and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b824721152c647915e2b3cc87d05dc927c5c0dfb",
+            "content": {
+                "en": "Creationists hate it when ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b4f811dc319c1911b76b9354631c485584f45bcf",
+            "content": {
+                "en": "Darwin&apos;s Theory of ______ was invalidated by ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_acaaac96f29337f7a3de594df6345832901bfd9e",
+            "content": {
+                "en": "Despite some recent progress, ______ are still struggling to understand ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a5c193f30e0d0b2ea595da59abed850643fea550",
+            "content": {
+                "en": "Dinosaur bones are really a test of our faith in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34f8c9e5d11bb0509b0e8ceb03d2b97f53928c84",
+            "content": {
+                "en": "Don't forget to include ______ in your dissertation acknowledgments."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_135c8ae6c57582ac5452a92a7a6dea5f3c3b84b5",
+            "content": {
+                "en": "Drinking in the lab on a Friday night is usually not a good idea, because ______ tends to be the result."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d5a62ff56b5bb7fbd2244a6188f4f327204317e7",
+            "content": {
+                "en": "Einstein described ______ as \"his biggest blunder.\""
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eabb7363e43a38fdd1abea8c1c6615d894156aac",
+            "content": {
+                "en": "Einstein was also well respected in the academic community for his studies on ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_414cc21ce3f53fd980b3fb3a037cb5bec237b8c9",
+            "content": {
+                "en": "Elon Musk&apos;s next company to tackle ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_35ef5ed154c682ff7cff51b6c432a9c80a57dbbb",
+            "content": {
+                "en": "Epigenetics: As easy to understand as ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_35a851a0483041256a8df5b5c69a77632c852a60",
+            "content": {
+                "en": "Everything I know about science I learned from ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_40c0c2b85af642c068037f72acfdec2a1b6a2985",
+            "content": {
+                "en": "Further study is required to establish a causal link between ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9d15bc3d4953ce9d34c5be740aacd09de693ff85",
+            "content": {
+                "en": "Grad school was going well until I came across ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4ece09ddecdf1a985f6b21a29d8a1c70cd4879ab",
+            "content": {
+                "en": "Have you considered the effect of ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3a36210af179562a4f4f45196263de112b70e03a",
+            "content": {
+                "en": "Her gravity well tasted surprisingly like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ea8f25ae78170aeb6c29e15bdb00d1acbc52aef5",
+            "content": {
+                "en": "Hey! We've discovered ______ on Mars!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e21df8c35e2f844f33b972cf5b125c811ea93759",
+            "content": {
+                "en": "How do you escape a black hole?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d9c036fecfb179ee7e230e59b48b8ab4bcf2e004",
+            "content": {
+                "en": "I can't believe I get paid to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e486d7d657a73caf1d9ca1fe65cb3ca532f4f3e4",
+            "content": {
+                "en": "I can't wait until I never have to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8cbd51e851f789979ccc784a645d938514c61c89",
+            "content": {
+                "en": "I couldn't finish my proposal because I was detained by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6e8d0de7c4fce78ffb67ffa60a7c26e2a099b6a3",
+            "content": {
+                "en": "I don't think the Large Hadron Collider was expecting to discover ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0f274a8d8dfc035c89425cd7f39779a5a0f1a6fd",
+            "content": {
+                "en": "I hate it when I get busted for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d441a1cf1d39f6c38fde63be1a6de99a679c96be",
+            "content": {
+                "en": "I just love doing ______ behind the lab bench !"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2d337a41127090082cf9af36fdfa318c277b0298",
+            "content": {
+                "en": "I knew I never should have added ______ to the chemical reaction."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84c9f489f4cd7707d03f7f318040315fb8ae1b8d",
+            "content": {
+                "en": "I knew I should not have used my twins for an experiment when I observed ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08c8af904f92496d9db0e115cefcbc1928aa0a3d",
+            "content": {
+                "en": "I knew my Ph.D. Defense wasn't going well when ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5c30bdc8cf001c0d28234e44c0b270f945fe1c53",
+            "content": {
+                "en": "I published my first paper in the journal of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f7aac471508bb606d354f081168cedaf20bff467",
+            "content": {
+                "en": "I was surprised to find that the wormhole led to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_108d9e981155baeeb2fcdb328ae7a0f71aed3301",
+            "content": {
+                "en": "I will be required to dissect 500 ______ to complete my thesis."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_32da6df7be4a4e2e01c74416c8b64a28f0bf12fe",
+            "content": {
+                "en": "In hindsight, I shouldn't have put ______ in the autoclave."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cd66e1862712f0b099e3e10eb3f9ded6c3cc70aa",
+            "content": {
+                "en": "In the darkness of the laser lab, Mary mistook the ______ for a polarimeter."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5fdc1a141117e7d240fa935b19b0983e91d2125e",
+            "content": {
+                "en": "In the lab, I dropped the ______ on the ______. That was a mess."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_00a8fdb2040acd960297288fdb21be24a0f6d45d",
+            "content": {
+                "en": "It&apos;s been said that ______ causes autism. Murderers!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7d5bf48c7d147510f02b1f2db84a739daf9b8bb",
+            "content": {
+                "en": "It&apos;s perfectly okay to pipette by mouth, except when using ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1668b301c769303da889d972f6c9791ef7df46d1",
+            "content": {
+                "en": "Josiah Willard Gibbs always thought ______ was pretty hot."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fb37efcefb5b995ad93985241895cdc29fca29de",
+            "content": {
+                "en": "Lady Ada often spent the evening at home with her ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1fc6a2a6a76905195b8c82fd61fc066db18a843e",
+            "content": {
+                "en": "My lab mates really hated it when I ______ while listening to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_9a7993be64368758555a2336c540a2720820ded3",
+            "content": {
+                "en": "My paper on ______ couldn't get published in a peer review journal, so I submitted it to ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_7fe18ed497a834afac9ffcaf2c08ca895e4a41e8",
+            "content": {
+                "en": "My PCR didn't work due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_72b5dbc981078399629cda27bd08fde19623c7de",
+            "content": {
+                "en": "My results may have been influenced by the ______ discovered in my ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_a65d2c94e62c743e9bdbb8f34646192bd7bf12e8",
+            "content": {
+                "en": "My thermodynamics class failed to mention the law of conservation of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b29b55696c4998fe43abc150267f60df0dbf2d12",
+            "content": {
+                "en": "Newton was led to the discovery of gravity when ______ hit him on the head."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9d71a83565240f68d53135c7c31ec4c86d8a348b",
+            "content": {
+                "en": "Nothing is denser than ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fbecc41f652efd297e3fe930587cb82a626630ae",
+            "content": {
+                "en": "Oh, those are just mice ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2aa36e430ba1d5cc0a880968fd067b0bf7e6ed29",
+            "content": {
+                "en": "On the next episode of The Big Bang Theory, Sheldon Cooper faces ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c880265dabb025c283886dfdd7a895371e8b3c54",
+            "content": {
+                "en": "On the Origin of ______ - Darwin&apos;s lesser-known tome."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_28219676cf8b6e05c53482fb6edcb560ce26e653",
+            "content": {
+                "en": "Organs are best grown in the lab with the addition of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c122ac553d3e50ca0caa4027116bcd2feb6c2278",
+            "content": {
+                "en": "Our hierarchical Bayesian analysis resulted in a high-confidence inference of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_28f15f727b8886a457615d7664a8257985cf2c94",
+            "content": {
+                "en": "Physicists will often simplify a system by modeling it as a ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2ada1eca733252cf46ceb59b8316c55cc8ae02d4",
+            "content": {
+                "en": "Quantum physicists have succeeded in entangling ______ and ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_4cbadb25b4d1e332551776dcec9c7b79efd059ed",
+            "content": {
+                "en": "Rutherford&apos;s ______ experiment helped determine the basic structure of ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_94ddae4f74e6da56767b71fd54d305d2d0c45c1f",
+            "content": {
+                "en": "Science. Where truth can be found in ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_dcd50a8b34ab917637c2f50a165392a64b488ab4",
+            "content": {
+                "en": "Science: A journey that begins with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_64620414f63313dfa7edca4f45a557367176e001",
+            "content": {
+                "en": "Science: Doing its part to help humanity, one ______ at a time."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fbc988b56735897f854c3c81f5f9ce91ea299be9",
+            "content": {
+                "en": "Science: I devoted my life to it because ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_acd56c979fe5f98da06d16478dc89546f65d2736",
+            "content": {
+                "en": "Science: The only endeavour in which studying ______ is respectable."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bd4cedb8e708c81e4daeee33a827127334e27d6f",
+            "content": {
+                "en": "Science: The perennial quest for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6cd48a239609f080d2a65ef5518f33aa54fc3c1a",
+            "content": {
+                "en": "Science: The ______ that keeps on giving."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_23971b944862cf7ce639fc50805ba6aa844c0cd7",
+            "content": {
+                "en": "That&apos;s not a hypothesis it&apos;s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6cb81c0e7a8af4983821c0b923cd52cfa9cbb043",
+            "content": {
+                "en": "The amazing lyrebird can imitate any sound, except that of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_84c32d044e81878fced799c3da17410883109777",
+            "content": {
+                "en": "The best endothermic reaction is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5bd793cde12c8d9334ca84859fd3f46d33e1a38f",
+            "content": {
+                "en": "The best way to obtain pulication-quality data is to use ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_93a49ff0e8a94a900fa1532e36fc9488b39f3a44",
+            "content": {
+                "en": "The experiment started working once the ______ was inserted in the ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_ba5632ba457f4d0bbff35322ed2da19d4a64024a",
+            "content": {
+                "en": "The gravitational pull of a ______ is so great that not even light can escape."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_88029ed3494b5e0c9d51431c6756dc8492dc8fd9",
+            "content": {
+                "en": "The last mass extinction event was caused by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7b6d72314ef7c06072d3dcb621b30ce69dd1a937",
+            "content": {
+                "en": "The mysterious residue on the lab counter was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1f697301b354cf71120d2b452ac3e9c593b7003c",
+            "content": {
+                "en": "The National Science Foundation recently started handing out grants to study ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_625a1d90fb496b4d1c4874d55f250768b5c4a946",
+            "content": {
+                "en": "The newly discovered species was so fat when it ______ it ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_3f699053b7f418e3fb834e6af551dfafa990bce1",
+            "content": {
+                "en": "The one thing Neil Degrasse Tyson doesn't want you to know about science is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fd5dd72763e57e9543e40d28428c19f0080a2748",
+            "content": {
+                "en": "The peer reviewer suggested ______ might help."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_704807b11bb0b2cb0f3759e4124e4227e322e385",
+            "content": {
+                "en": "The ______ can be distinguished from the ______ by ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_acc4cd83d683d88b556caf97ea981534bb755367",
+            "content": {
+                "en": "Things to do: 1. ______ 2. ______ 3. ______"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_ad445fd36c8135ba68c44cc20801d88676d6a1b4",
+            "content": {
+                "en": "To coax miceto mate, I like to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df9078145401276be0fd4752178bd056c3a8da5e",
+            "content": {
+                "en": "To increase its Impact Factor, Nature published a special issue about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8adcc338b6ae173038217a241740b99c7b8ced6c",
+            "content": {
+                "en": "Universities in the southern United States are beginning to hire ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_579beb7daa3a4e1403aad19fc41e8cf6f52a1c76",
+            "content": {
+                "en": "We knew our grant didn't get funded when ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_382554f8e136efa1f1170329cdb9d68c96f9ebdf",
+            "content": {
+                "en": "We regret to inform you that your investigation into the mating habits of ______ will not be funded."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_66af68a4a8c6bb502e8b5c1569c3c90d0aa62440",
+            "content": {
+                "en": "What aspects of STEM public outreach are audiences most clamoring for?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b2f49f413b835218b6a43ec20e4cbf99088376b1",
+            "content": {
+                "en": "What astronomers found lurking inside a black hole."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a11d6183e166159960d74e3c14a9c624dd4cbc41",
+            "content": {
+                "en": "What contaminated my cell cultures?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_06209aa81e7f5fcc798d6e6ac75f9abcf51dbdfb",
+            "content": {
+                "en": "What did Carl Sagan put in his bong water?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ba17a69d6ea2f3e4b05610d0981e96d6fae2b45a",
+            "content": {
+                "en": "What is the name given to an object so massive it deflects the paths of passing light rays?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed07b940ffe936376659257fb650371f881a9ba1",
+            "content": {
+                "en": "What is the source of the Ultra-High Energy Cosmic Rays?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c24a6fe2a0d680eef4eb59d6e3c461d5041afcdf",
+            "content": {
+                "en": "When alone during evenings in the laboratory, I like to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_cc682b1a604eb8ff276f80c8c60f6027aa049711",
+            "content": {
+                "en": "When I opened the incubator this morning, I found ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c960641877951d417fffbb4c8b3a60cfedeb1863",
+            "content": {
+                "en": "When I redced the Hubble Space Telescope images, I was ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_648a83e2520f371ac38cb06531eb8604fdd787bb",
+            "content": {
+                "en": "When I was out doing field work, I caught ______ in my trap."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8b1ca538081aee62c81c0c9fe4ad190a601b5168",
+            "content": {
+                "en": "When Schrodinger opened the box, he found ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_5ad4f72c060b2a5b0a3397db9b2056ee918d1b07",
+            "content": {
+                "en": "When the ice caps melted we were surprised to find unfrozen ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f378de3d349bf2f8755de728d8a448c87ed15d14",
+            "content": {
+                "en": "While mercifully rare, there is no known cure for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7aa09bc343f7a877e781be042bdfee0784dc485f",
+            "content": {
+                "en": "Who is the latest superstar professor to be hired?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_747e17e7ede7dda360392a7deaf82d812d9ebfdc",
+            "content": {
+                "en": "Why can't I get ______ to work?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1875b7e36cc68d0775ad9ba2314005bda61ae6ab",
+            "content": {
+                "en": "Why did the dinosaurs die?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_f57a33de5308397999060661e74a95039f41d2bd",
+            "content": {
+                "en": "Why I chose a career in science."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_01e2473392edd03a502d63183cabeff4727d770b",
+            "content": {
+                "en": "Why is my bench sticky?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6576015cc5b47e0246902204852e2917c4281840",
+            "content": {
+                "en": "You can use this to calculate the radius of the hydrogen atom."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8a8e0a7d54545caec55aaac691aa3a55ceccbda5",
+            "content": {
+                "en": "Your advisor&apos;s favorite side activity during group meetings."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_086bf0a7805bb0d20678c3da9f81fda62247ae69",
+            "content": {
+                "en": "Your conclusion is flawed bacause you failed to reconcile ______ with ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_0fc5bc439273147a1b2934c0446cc06525e4b711",
+            "content": {
+                "en": "Your gut microbiota can help you ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bc7485a539a3040e853d22cec46ec888e7563036",
+            "content": {
+                "en": "______ - results inconclusive."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c8b8502314b09c7728caae9b451c2dd3bb645bd9",
+            "content": {
+                "en": "______ can be thought of as a superposition of ______ and ______."
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_3bc819194d95478a6d73fa68f65d0e7723c705f9",
+            "content": {
+                "en": "______ caused the Pioneer anomaly."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a325dbd1627c786679452071afbb1a5a3fa44a15",
+            "content": {
+                "en": "______ is why there aren't enough women in the sciences."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_258dd6dbe13ef306d40b19d882a22dfd1e7430bb",
+            "content": {
+                "en": "______ or perish."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c71c43399c7855359dfb863d00771e94cdb99238",
+            "content": {
+                "en": "______ plus ______ resulted in science&apos;s biggest flop to date."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2a906b77722fd49cb132843197e6bef466f0f0e5",
+            "content": {
+                "en": "______ taught me all I know about science."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9741a08eaf53bc49e0206b35f027216793046e1",
+            "content": {
+                "en": "______. It&apos;s a bitch."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e302ba68aacde24d37f7807b3ff75dd3ce5e4087",
+            "content": {
+                "en": "______: A misunderstood lab hobby."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_3e03e5b034d7aaaf28289df23b145f155d0a1eb7",
+            "content": {
+                "en": "______: Don't go to a conference without it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_12acd619ada0c5f41236c0a4ee8910dea547e984",
+            "content": {
+                "en": "______is the study of herpetologists."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_acb56564566c17bc2df560291318778ba98e1ca4",
+            "content": {
+                "en": "______is why it always takes an extra five minutes to get the computer projector working."
+            },
+            "pick": 1
+        }
+    ]
+}

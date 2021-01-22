@@ -1,0 +1,1382 @@
+{
+    "id": "NASCAR",
+    "name": "NASCAR",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_ee5b75a2198905935990b4b1c2c07152ae87147b",
+            "content": {
+                "en": "\"Here, kitty kitty.\""
+            }
+        },
+        {
+            "id": "w_79def646864e678f1706a7716ccdbedff630b612",
+            "content": {
+                "en": "\"Loose is fast, and on the edge of out of control.\""
+            }
+        },
+        {
+            "id": "w_2216db15f0880beab2c9be6220931cfcf4fd8d8b",
+            "content": {
+                "en": "\"Stuck In The Middle With You\" by Steelers Wheel."
+            }
+        },
+        {
+            "id": "w_12f87e9a0e6e19695c15f292234f5502575897e5",
+            "content": {
+                "en": "\/r\/NASCAR"
+            }
+        },
+        {
+            "id": "w_fc5f805854b4048abad85c649d83db9ebd9da46c",
+            "content": {
+                "en": "2013 Husband of the Year, Travis Kvapil."
+            }
+        },
+        {
+            "id": "w_67d71c594a43aaad75b883d4d7954a5dcd46d0f8",
+            "content": {
+                "en": "50 Cent trying to kiss Erin Andrews"
+            }
+        },
+        {
+            "id": "w_fd401db6fb9b3f9af841671eb7fb0fd6952ba17b",
+            "content": {
+                "en": "A 55-year old Arkansas man nicknamed \"Epic Swag\""
+            }
+        },
+        {
+            "id": "w_a7affdf2f16ed1b718412216dd24bb012f42c671",
+            "content": {
+                "en": "A car flying into the catch fence"
+            }
+        },
+        {
+            "id": "w_df7f2027bde5453399f03f6ddbb62e7c85d9b0e9",
+            "content": {
+                "en": "A Darlington Stripe."
+            }
+        },
+        {
+            "id": "w_34b68628cca40b9b1f238a77d081a98f545c8c02",
+            "content": {
+                "en": "A penalty for running too fast on pit road."
+            }
+        },
+        {
+            "id": "w_e96e597ad10ccdbe4063a3ef2046ff4b9405ca89",
+            "content": {
+                "en": "A Polish Victory Lap."
+            }
+        },
+        {
+            "id": "w_1f468446b6258bd9cbb5e6d48df9d4ef25b6ff3f",
+            "content": {
+                "en": "A tire iron to the face"
+            }
+        },
+        {
+            "id": "w_d33e0f6577da83168595886d1f2b94d196e21654",
+            "content": {
+                "en": "Actions Detrimental to Stock Car Racing"
+            }
+        },
+        {
+            "id": "w_9677c0e2eaf993f5020436072861c41743a54fe5",
+            "content": {
+                "en": "Air TitanTM"
+            }
+        },
+        {
+            "id": "w_9bdb4964627ecb8e57379d021369974669c73d58",
+            "content": {
+                "en": "Alcohol sponsorships."
+            }
+        },
+        {
+            "id": "w_865388d0681cfa8556a80fbef0d79e21b6eca36a",
+            "content": {
+                "en": "Angrily pointing out that some Talladega scenes in Talladega Nights were actually shot at Rockingham."
+            }
+        },
+        {
+            "id": "w_533d67b4e773d30be33995be29c905394a072e5c",
+            "content": {
+                "en": "Angry fans throwing beer bottles."
+            }
+        },
+        {
+            "id": "w_d86c47b9921264477a4483e61d0fff649ed485b8",
+            "content": {
+                "en": "Another fucking left turn."
+            }
+        },
+        {
+            "id": "w_54a5b9123a92195fa83ad0b950ec9b77425a119a",
+            "content": {
+                "en": "ARCA&reg; Brakes."
+            }
+        },
+        {
+            "id": "w_052e41d9dc37bd95c56c3f32763e85f5c87e0d08",
+            "content": {
+                "en": "Atheists during the invocation."
+            }
+        },
+        {
+            "id": "w_8f7574a34d3b0e662c4b363a1f76caedb6ac5ff3",
+            "content": {
+                "en": "Beating a man to death with your helmet"
+            }
+        },
+        {
+            "id": "w_33387cd119e45b93ed4c99489aa78034aac33e17",
+            "content": {
+                "en": "Being marginally luckier than Trevor Bayne"
+            }
+        },
+        {
+            "id": "w_5854de7885a6d801f5d51574f8b30aa46dddc519",
+            "content": {
+                "en": "Bill Elliott&apos;s fastest lap at Talladega."
+            }
+        },
+        {
+            "id": "w_031a1ea2bc0089724065251489b6ff63c623e16d",
+            "content": {
+                "en": "Blowing your engine while doing a burnout"
+            }
+        },
+        {
+            "id": "w_4c7a33d803eb8228bb0cb99fc67680919809f572",
+            "content": {
+                "en": "Bobby Allison questioning your ancestry before beating you up."
+            }
+        },
+        {
+            "id": "w_8b06407b3877df8e51e96784e49a8ece99f69668",
+            "content": {
+                "en": "Bobby Labonte&apos;s slow, agonizing career decline."
+            }
+        },
+        {
+            "id": "w_4b032353b3b6ee8f120b4c6101af4290cb7fd952",
+            "content": {
+                "en": "Boogity, boogity, boogity"
+            }
+        },
+        {
+            "id": "w_d97eee6942c69d3c31496d1ef4e0c05ef1370773",
+            "content": {
+                "en": "Boudreaux&apos;s Butt Paste&trade;."
+            }
+        },
+        {
+            "id": "w_cf5c3d7e2ecdbb5608934975df10f9fba0f64744",
+            "content": {
+                "en": "Brad Keselowski&apos;s dumb horse teeth"
+            }
+        },
+        {
+            "id": "w_339f584db99acd1e65a443ac028c993ac0572e48",
+            "content": {
+                "en": "Buckshot Jones."
+            }
+        },
+        {
+            "id": "w_d11e8fe40ca782f08a0b93492112f6474e3c016f",
+            "content": {
+                "en": "Bump-drafting"
+            }
+        },
+        {
+            "id": "w_4250ed7f4d807e6c608144329c79299b4ccda78b",
+            "content": {
+                "en": "Cale Yarborough beating on Bobby Allison&apos;s fists with his nose."
+            }
+        },
+        {
+            "id": "w_551f1f74dd7cc300d0073390c0301e3fc74ad921",
+            "content": {
+                "en": "Carl Edwards gulping down a foot-long"
+            }
+        },
+        {
+            "id": "w_71373552e888521f8792f4480c6774757bfa6028",
+            "content": {
+                "en": "Carl Edwards performing a backflip."
+            }
+        },
+        {
+            "id": "w_07300ec2b0df7bc34d039c373dd0475da2d71adb",
+            "content": {
+                "en": "Carl Edwards shirtless."
+            }
+        },
+        {
+            "id": "w_b5e13cfaed18091c0db390d3767f47906fb14ea4",
+            "content": {
+                "en": "Cheating to make the Chase."
+            }
+        },
+        {
+            "id": "w_d08f842844a07fcf2f5d3beeed130d71678b427d",
+            "content": {
+                "en": "Chris Myers mispronouncing a name that everyone pretends not to notice"
+            }
+        },
+        {
+            "id": "w_d9cab53960e8e5798696cb6ff4e20ed7626b0460",
+            "content": {
+                "en": "Chucking a cooler at the officials because your driver lost"
+            }
+        },
+        {
+            "id": "w_8783e2a36b54894e1bde86a1e3a4c825d47c7a5d",
+            "content": {
+                "en": "Clint Bowyer running through the garage."
+            }
+        },
+        {
+            "id": "w_b83e9333ba441ff2fa73b314c51c5f991936bb24",
+            "content": {
+                "en": "Clint Bowyer&apos;s itchy arm"
+            }
+        },
+        {
+            "id": "w_5541ea39f3148fecc9995e165e22f1035fed9ca7",
+            "content": {
+                "en": "Confusing Kasey Kahne with a 14-year-old boy"
+            }
+        },
+        {
+            "id": "w_060435a9f3c6327cb502b5fd1d46e245e6996815",
+            "content": {
+                "en": "Crashing into the jet dryer"
+            }
+        },
+        {
+            "id": "w_b38e2d6307fb43f44a92672322c0cfb479334cc7",
+            "content": {
+                "en": "Cringe-inducing national anthems"
+            }
+        },
+        {
+            "id": "w_70950066c057afbd2da8a2529189c169792cd9b5",
+            "content": {
+                "en": "Dale Earnhardt Jr. accidentally tweeting dick pics to his followers."
+            }
+        },
+        {
+            "id": "w_dea6da6fcbd46300429ce621c919e384ee27ca70",
+            "content": {
+                "en": "Dale Earnhardt Jr.&apos;s relationship status."
+            }
+        },
+        {
+            "id": "w_1a6de50902d755c835e013acecd981aa896960b7",
+            "content": {
+                "en": "Danica Patrick and Ricky Stenhouse Jr. crashing together."
+            }
+        },
+        {
+            "id": "w_3e3277c2999d69c66529c74f2a50e87acc7e9526",
+            "content": {
+                "en": "Danica Patrick&apos;s former love of older men"
+            }
+        },
+        {
+            "id": "w_e95a4971b13dd58ae2dd9d1ee8733c89329f51fa",
+            "content": {
+                "en": "Danica Patrick&apos;s tampons"
+            }
+        },
+        {
+            "id": "w_96888b4e9b044926a67e0a6c46a1f3b243c3aae0",
+            "content": {
+                "en": "Darlington stripes"
+            }
+        },
+        {
+            "id": "w_157df4bb6010e607884e26d1c7d81d396f0ed2a8",
+            "content": {
+                "en": "Debris Cautions"
+            }
+        },
+        {
+            "id": "w_b964bc228e0e79d8728087f53118bbaf031257c7",
+            "content": {
+                "en": "Deciphering the garbled mush that escapes Ward Burton&apos;s lips"
+            }
+        },
+        {
+            "id": "w_c10ce46657de44023845f5a426eb55179ba070fa",
+            "content": {
+                "en": "Delana Harvick&apos;s firesuit."
+            }
+        },
+        {
+            "id": "w_d80a8fc7af596edaafa9cd767aaa76edaf013631",
+            "content": {
+                "en": "DEPLOY THE ROOF FLAPS."
+            }
+        },
+        {
+            "id": "w_b6808a449ba4e68aff5ac00673ca14c8658bef83",
+            "content": {
+                "en": "Derrike Cope."
+            }
+        },
+        {
+            "id": "w_c844f4bf9b45177e103a1b4f03f4d18b7306971e",
+            "content": {
+                "en": "Dick Berggren&apos;s annoying London taxi driver hat"
+            }
+        },
+        {
+            "id": "w_c240b78476aba75b2a55205b916e80e918dd3717",
+            "content": {
+                "en": "Dick Trickle"
+            }
+        },
+        {
+            "id": "w_780cbb568799dc703eb770bd3d20684e98c4974d",
+            "content": {
+                "en": "Disney Pixar&apos;s Cars&trade; ."
+            }
+        },
+        {
+            "id": "w_3db6844fdf1e6ca2043d5de2d192ef61f4eb3318",
+            "content": {
+                "en": "Doing a polish victory lap"
+            }
+        },
+        {
+            "id": "w_31aff7a77a3a81b21619949581133c1faeb97837",
+            "content": {
+                "en": "Donuts."
+            }
+        },
+        {
+            "id": "w_f308d1e39226342b240c5a5b5fff06cfc9ac0695",
+            "content": {
+                "en": "Eating hot dogs at Martinsville until you vomit"
+            }
+        },
+        {
+            "id": "w_75e2b6a83a22849d4463b62543c5b13f12300737",
+            "content": {
+                "en": "Eating the bones."
+            }
+        },
+        {
+            "id": "w_196e5e2b23aa5b35dd314904f3398dc378e4acd1",
+            "content": {
+                "en": "Elliot Sadler flipping."
+            }
+        },
+        {
+            "id": "w_284ddee0ef92de2db88262a2f0ad485719024fce",
+            "content": {
+                "en": "ESPN Films' \"3\", starring Barry Pepper."
+            }
+        },
+        {
+            "id": "w_7df28b226bed3838c81f1b77ebc7ba2e1c756df3",
+            "content": {
+                "en": "Failing a drug test because you took Adderall"
+            }
+        },
+        {
+            "id": "w_fd6fe268f2d3579b6d1ffc5091a5b584190e71f5",
+            "content": {
+                "en": "Fighting Juan Pablo Montoya with your helmet on"
+            }
+        },
+        {
+            "id": "w_6df056ec3341e7c76dff6dced951746b76df6b9a",
+            "content": {
+                "en": "Getting accused of theft after dating Jennifer Jo Cobb"
+            }
+        },
+        {
+            "id": "w_ef52f6e7f9383de27d1adb164339884126322253",
+            "content": {
+                "en": "Getting an engineering degree only to end up driving cars for a living"
+            }
+        },
+        {
+            "id": "w_23537ac9d0e4c1a9e4b6a52a7615ffd4a272fc4b",
+            "content": {
+                "en": "Giant beer pong at Phoenix Motor Speedway"
+            }
+        },
+        {
+            "id": "w_d7aa972919c180fc572c72e1ead8553a0b4e87eb",
+            "content": {
+                "en": "Giving birth in the infield"
+            }
+        },
+        {
+            "id": "w_55ba38e52acb93be1ae897062dd5e338c8a05167",
+            "content": {
+                "en": "Green-white-checkered finishes"
+            }
+        },
+        {
+            "id": "w_b722ddba9bb4a6b302b16cbf43580ad8945eaeb0",
+            "content": {
+                "en": "Guessing Kyle Larson&apos;s ethnicity"
+            }
+        },
+        {
+            "id": "w_f4fb45dde14a9078612367a4f561c89daef5cf94",
+            "content": {
+                "en": "Having your commercials interrupted by a racing break"
+            }
+        },
+        {
+            "id": "w_04f3add6a28c83c156f9ef8dd7f19ba632acdded",
+            "content": {
+                "en": "Hoping Darrell Waltrip shuts the fuck up"
+            }
+        },
+        {
+            "id": "w_32bbeb81d7b7d69b356ccfe30711a0e4fe5fd5c0",
+            "content": {
+                "en": "Horrifying NSFW Stenica fan art."
+            }
+        },
+        {
+            "id": "w_c61207b24098abe3918b194cfe57890b1059dfce",
+            "content": {
+                "en": "Hundreds of thousands of drunk, angry rednecks"
+            }
+        },
+        {
+            "id": "w_8c473f270a614146abaff4b19136e0bd195f2773",
+            "content": {
+                "en": "Jacques Villeneuve dumping another championship contender at Watkins Glen"
+            }
+        },
+        {
+            "id": "w_8042fbf8adfe9cc24d7e6833fdd001fd441d9632",
+            "content": {
+                "en": "Jamie McMurray&apos;s workout routine"
+            }
+        },
+        {
+            "id": "w_26396b3724af7d562c193615b8316258a6cd4c9b",
+            "content": {
+                "en": "Jeff Gordon&apos;s sexuality."
+            }
+        },
+        {
+            "id": "w_7c04b48c458bf2ee3213d162f54f9cbe54de04db",
+            "content": {
+                "en": "Jeremy Mayfield&apos;s attorney"
+            }
+        },
+        {
+            "id": "w_2192385b97ddbb273663429c0ccec83ad773a3df",
+            "content": {
+                "en": "Jeremy Mayfield&apos;s legal defense team"
+            }
+        },
+        {
+            "id": "w_93114cad0de186b767c0aca5d2b7a32eeda0417b",
+            "content": {
+                "en": "Jimmie Johnson&apos;s seventh championship."
+            }
+        },
+        {
+            "id": "w_298b24d6a5b376384505f7147822f6638e4efa09",
+            "content": {
+                "en": "Jocko Flocko."
+            }
+        },
+        {
+            "id": "w_b206837292f93cf0cd7f4c581a1adf8b890271c7",
+            "content": {
+                "en": "Joey Logano&apos;s rich dad"
+            }
+        },
+        {
+            "id": "w_48ddcde3a230100ceca7525d10100a3f50e0d8f1",
+            "content": {
+                "en": "Juan Montoya out having a taco."
+            }
+        },
+        {
+            "id": "w_5e6b190d9e769c9f50f5029978481c7197e9aeb9",
+            "content": {
+                "en": "Juan Pablo Montoya on the Bachelor."
+            }
+        },
+        {
+            "id": "w_680d922060c35bd1ec024eb48d7ca75ed65cfa34",
+            "content": {
+                "en": "Junior&apos;s twitter account"
+            }
+        },
+        {
+            "id": "w_997cd6494cb1edd1fdf430223360f3d368b245db",
+            "content": {
+                "en": "Ken Squier&apos;s Daytona 500 Starting Grid run-downs."
+            }
+        },
+        {
+            "id": "w_b93c0c44ecb9c70ad830684878e0d218d30598c7",
+            "content": {
+                "en": "Kenny Wallace trying to whisper"
+            }
+        },
+        {
+            "id": "w_e42daae23227c3fe3015dc5056b42a7c717b208b",
+            "content": {
+                "en": "Kevin Lepage."
+            }
+        },
+        {
+            "id": "w_e5e7acdb2c34fc8c8406b98a263ac5eb58fb7f61",
+            "content": {
+                "en": "Kurt Busch, radio sweetheart"
+            }
+        },
+        {
+            "id": "w_f76e26b3b429efeee8acc9d55714f2be46de8c43",
+            "content": {
+                "en": "Kyle Busch telling you to fucking drive your shit, you little bitch"
+            }
+        },
+        {
+            "id": "w_7d749dedaf5441afc0e20efbfcb7c76144154e41",
+            "content": {
+                "en": "Kyle Petty almost winning the 1992 Winston 500."
+            }
+        },
+        {
+            "id": "w_c4aa25ebc25bfca37cb9165f884a5f20ec6339a8",
+            "content": {
+                "en": "Kyle Petty&apos;s barber"
+            }
+        },
+        {
+            "id": "w_aa64470e4bb22606023458c5f2a7d56b5bc71680",
+            "content": {
+                "en": "Kyle Petty."
+            }
+        },
+        {
+            "id": "w_df197f185d518aadc6cba706f0591afef0572758",
+            "content": {
+                "en": "Letting Jack Roush fly your airplane"
+            }
+        },
+        {
+            "id": "w_1fa800473447450ca7bbcead9e9e25db83e3baa9",
+            "content": {
+                "en": "Lynyrd Skynyrd."
+            }
+        },
+        {
+            "id": "w_62c9f18fbfef95f17472717577bcaed86c505277",
+            "content": {
+                "en": "Martinsville Hot Dogs."
+            }
+        },
+        {
+            "id": "w_7d5ee64f9c633b8ab90dde0dbae211e7a70b404d",
+            "content": {
+                "en": "Michael Waltrip&apos;s dignity"
+            }
+        },
+        {
+            "id": "w_e7513e7b3cb8b8f1d11830bd326459c68383d5fb",
+            "content": {
+                "en": "Michael Waltrip&apos;s questionable sexuality"
+            }
+        },
+        {
+            "id": "w_d70e11ef3c3d1552e25fb1904e28dc548c3430ed",
+            "content": {
+                "en": "Miles the Monster"
+            }
+        },
+        {
+            "id": "w_e4e5758a6c842dd7e37de832fbd89bfb27f66221",
+            "content": {
+                "en": "Morgan Shepherd."
+            }
+        },
+        {
+            "id": "w_275fde2b4c77ed378d7e22a8c626bd361500009e",
+            "content": {
+                "en": "N-N-N-N-NAPA&trade; Know How."
+            }
+        },
+        {
+            "id": "w_9368edb24ffc4c30b3f2a9c466650b79ea5fb551",
+            "content": {
+                "en": "Naming your son \"Dale Darrell Waltrip Richard Petty Rusty Awesome Bill Irvin Gordon Earnhardt Smith...Johnson, Jr\""
+            }
+        },
+        {
+            "id": "w_885ed494618551133097d8eca2f614336f481ca4",
+            "content": {
+                "en": "Painting the side of your RV with Stars and Bars."
+            }
+        },
+        {
+            "id": "w_1e0b922708de54fb949f987652dab8edc99333f2",
+            "content": {
+                "en": "Passing 'em on the HAAH SAAD."
+            }
+        },
+        {
+            "id": "w_bd96c7f938cab5b2688630b7035722ce4146b164",
+            "content": {
+                "en": "Paul Menard&apos;s self-sponsored racecar"
+            }
+        },
+        {
+            "id": "w_9f39746acde8322ecd1028641e500789bd103b36",
+            "content": {
+                "en": "Pinching Delena Harvick&apos;s butt"
+            }
+        },
+        {
+            "id": "w_5f172424b3c84ac667028f99b05f46f766f043b8",
+            "content": {
+                "en": "Punching Joey Logano"
+            }
+        },
+        {
+            "id": "w_94800afb02f1c95a33e715a76f0e5f465900ac73",
+            "content": {
+                "en": "Racing the UPS&trade; Truck."
+            }
+        },
+        {
+            "id": "w_63101b304dff555c4d8935a6f0fca732fa45d0e8",
+            "content": {
+                "en": "Rain delays"
+            }
+        },
+        {
+            "id": "w_bdde18723bbad8fbf9a4a9793d71eca01d7d19c4",
+            "content": {
+                "en": "Rain Tires."
+            }
+        },
+        {
+            "id": "w_592803d6ae9ddc1b38867303afb28cc475801eda",
+            "content": {
+                "en": "Reaching back there and pulling those belts tight one more time."
+            }
+        },
+        {
+            "id": "w_10b4cd4a46df2e0f413aa098dd85e5f6459f1829",
+            "content": {
+                "en": "Richard Petty getting his teeth whitened"
+            }
+        },
+        {
+            "id": "w_34d55a5565e7b9c9f13835e800aea5fed385d26a",
+            "content": {
+                "en": "Ricky Bobby."
+            }
+        },
+        {
+            "id": "w_0f4796d221c38cf84efbb324e2cc1fc01002197b",
+            "content": {
+                "en": "Ricky Stenhouse awkwardly plugging Nationwide insurance after every crash"
+            }
+        },
+        {
+            "id": "w_3ed6eca6d5ab3a0ad4b9a185446575c069a1cd85",
+            "content": {
+                "en": "Road Course Ringers."
+            }
+        },
+        {
+            "id": "w_5a3b1e4ad5b738b9c5bfcfcea79c8835647e05f7",
+            "content": {
+                "en": "Robert E. Lee."
+            }
+        },
+        {
+            "id": "w_9ae86ed97f65625fd4689c80ff1a769ae23a9c90",
+            "content": {
+                "en": "Running out of fuel on the last lap."
+            }
+        },
+        {
+            "id": "w_53d6fb155ed71d7e6814710315d71e58d6a1ed0f",
+            "content": {
+                "en": "Running out of gas and wrecking the field"
+            }
+        },
+        {
+            "id": "w_22e22010d31f1001a43342153c124cf50ec5091c",
+            "content": {
+                "en": "Ryan Newman&apos;s inexplicably square body"
+            }
+        },
+        {
+            "id": "w_8321ebbf4579774a6b79f228b62169135a66ff90",
+            "content": {
+                "en": "Said Heads."
+            }
+        },
+        {
+            "id": "w_7b0f4d49e7b8cf8d84fc50f7fdf1412537c94cb6",
+            "content": {
+                "en": "Shotgunning 22 gallons of Sunoco Race Fuel"
+            }
+        },
+        {
+            "id": "w_c5b254ce4779a408606bb9227c8163a64176c789",
+            "content": {
+                "en": "Side Drafting."
+            }
+        },
+        {
+            "id": "w_98996c8998954f2002a1ff095bc93c5b81798cf9",
+            "content": {
+                "en": "Sitting in detention with Chase Elliott"
+            }
+        },
+        {
+            "id": "w_0e99592a11de80fd27dd4f64e046a7bee27baf87",
+            "content": {
+                "en": "Soda Cookies"
+            }
+        },
+        {
+            "id": "w_c972b061db35bfa9e7778d08acaffeba6933234c",
+            "content": {
+                "en": "Speeding on pit road"
+            }
+        },
+        {
+            "id": "w_36284d15f41119200bbf0d4a47b97126d528e543",
+            "content": {
+                "en": "Strategery."
+            }
+        },
+        {
+            "id": "w_a5ad2b036c5ba2a98cc9e8a4b1cb2e2b7dae6f74",
+            "content": {
+                "en": "Sudden steering-wheel-in-the-face syndrome"
+            }
+        },
+        {
+            "id": "w_5444cb9a29d6817b0f2bf47484c7033a5180aa77",
+            "content": {
+                "en": "Suggestively running your fingers through Boris Said&apos;s afro"
+            }
+        },
+        {
+            "id": "w_c1a466595524c85bd7efddfc5c1f18036b60c041",
+            "content": {
+                "en": "That time Dale Earnhardt shaved his mustache"
+            }
+        },
+        {
+            "id": "w_69b50d0752d899e46f40acc740cb64bc56e85dd0",
+            "content": {
+                "en": "The 1979 Daytona 500"
+            }
+        },
+        {
+            "id": "w_82dfc710313c625dbf154fe76c57682f5983e681",
+            "content": {
+                "en": "The Alabama Gang"
+            }
+        },
+        {
+            "id": "w_f261ff1b07b22fc8df7016096cf6f742bea9bda7",
+            "content": {
+                "en": "The awkward moment when the infield care center doctor realizes \"Dick Trickle\" is the patient name, not condition."
+            }
+        },
+        {
+            "id": "w_2faf3eed8c579fd5a3ecc00a25ec1ebf58ceb72b",
+            "content": {
+                "en": "The Car of Tomorrow."
+            }
+        },
+        {
+            "id": "w_4875b32ca76bc44ec09975e73955c546eb919139",
+            "content": {
+                "en": "The Coca Cola Racing Family"
+            }
+        },
+        {
+            "id": "w_4917a11a0ae242faa4ae44dfa24b92d10a867dac",
+            "content": {
+                "en": "The Confederate Flag."
+            }
+        },
+        {
+            "id": "w_64a95b401fda611dea19c50d2a15d550776c82db",
+            "content": {
+                "en": "The Confederate States of America."
+            }
+        },
+        {
+            "id": "w_1b4173c6c2ca814f5826f901fde2033ede19283a",
+            "content": {
+                "en": "The Dale and Dale Show."
+            }
+        },
+        {
+            "id": "w_e95e5db6cb9c69e7054e04185120801bacf0e137",
+            "content": {
+                "en": "The Drive For Five."
+            }
+        },
+        {
+            "id": "w_9155f48d30864326c73227b7d5e17f68cd938225",
+            "content": {
+                "en": "The Dupont Pepsi KFC Quaker State Nicorette Cialis Autism Speaks National Guard Drive to End Hunger NAPA Goodyear AARP Depends Target Chevrolet SS"
+            }
+        },
+        {
+            "id": "w_da1a0cb92943bbc2acb6862801a0a0958438faad",
+            "content": {
+                "en": "The first black NASCAR Champion."
+            }
+        },
+        {
+            "id": "w_d9469dd4c95e6e2300160a03562b2eaf197d91ad",
+            "content": {
+                "en": "The Framily PlanTM"
+            }
+        },
+        {
+            "id": "w_65518af279debe347214c383368853e003f0782a",
+            "content": {
+                "en": "The HANS Device."
+            }
+        },
+        {
+            "id": "w_8a17541177707e08b6804f29a438c31c684f2ead",
+            "content": {
+                "en": "The Indy 500."
+            }
+        },
+        {
+            "id": "w_d30a6b65f466e4716deabfc33dcb711016a52f90",
+            "content": {
+                "en": "The inevitable release of a Danica Patrick sex-tape"
+            }
+        },
+        {
+            "id": "w_c6da2c72d15d0ab60e3da3b68f572538f45d0162",
+            "content": {
+                "en": "The mere concept of BK Racing."
+            }
+        },
+        {
+            "id": "w_a19061b801a4df8467e16639a28e8dd70340d30a",
+            "content": {
+                "en": "The mere mention of Casey Atwood"
+            }
+        },
+        {
+            "id": "w_7acfcc0ca5bd1d586f58b8949fb847cf478bddde",
+            "content": {
+                "en": "The mysterious orange sheen that is Jeff Hammond&apos;s skin tone"
+            }
+        },
+        {
+            "id": "w_26a78593017b506d9b0b2b7b27c0cbe6fe60ad6d",
+            "content": {
+                "en": "The North Wilkesboro Speedway renovations."
+            }
+        },
+        {
+            "id": "w_cb32733c985a119f95cebbe575944e2a51c19a94",
+            "content": {
+                "en": "The Official Card Game of NASCAR"
+            }
+        },
+        {
+            "id": "w_ea118229be0ac842e86b23d98c0ce8427d4b422d",
+            "content": {
+                "en": "The old start-and-park routine."
+            }
+        },
+        {
+            "id": "w_02c904acf74315790e34814cd891c27819ae6eb9",
+            "content": {
+                "en": "The pace car catching on fire"
+            }
+        },
+        {
+            "id": "w_74596ea1a1c756962fa0ae7f61c48c4100666b5d",
+            "content": {
+                "en": "The Pass in the Grass"
+            }
+        },
+        {
+            "id": "w_a3d71a5dcba1ec73eeab311efadc5820117cc875",
+            "content": {
+                "en": "The phantom tick that bit Trevor Bayne"
+            }
+        },
+        {
+            "id": "w_4e1e2a75ca23136fef2f8a6cafb306090681207c",
+            "content": {
+                "en": "The Piston Cup."
+            }
+        },
+        {
+            "id": "w_d556906252819c0d13ee40cd4cdc356178f1a3db",
+            "content": {
+                "en": "The Pothole."
+            }
+        },
+        {
+            "id": "w_6b95a24edb62dbad903dad1199035b860e24e1ae",
+            "content": {
+                "en": "The Rainbow Warriors."
+            }
+        },
+        {
+            "id": "w_9c873f62bf099dd59a273ceaba962ed41a629b7d",
+            "content": {
+                "en": "The Tale of the Tape. (How I've been referring to the last laps of the 2014 Daytona 500)"
+            }
+        },
+        {
+            "id": "w_a8b366eb062aa4268010a045a6009c66e8101585",
+            "content": {
+                "en": "The unrelenting boredom of watching races at Pocono"
+            }
+        },
+        {
+            "id": "w_1ac931ade463c3aa1782b0a4487e2ec4c919d6c5",
+            "content": {
+                "en": "The vast expanse of continental landmass that is Jimmy Spencer."
+            }
+        },
+        {
+            "id": "w_3456edec1ba4285b8c835184cbfca01a662d39ae",
+            "content": {
+                "en": "The Watkins Glen Chicane."
+            }
+        },
+        {
+            "id": "w_ae94f8c11656fdc6fb94dde371703864ab81dea2",
+            "content": {
+                "en": "The Winston Million."
+            }
+        },
+        {
+            "id": "w_030da559bf0553d4f7504f4c13dc11ac4e6e4195",
+            "content": {
+                "en": "Tim Richmond locked in a room with your mother"
+            }
+        },
+        {
+            "id": "w_c85f6486bc6898431b4dc687574b16d739329d44",
+            "content": {
+                "en": "Tim Richmond&apos;s immune system"
+            }
+        },
+        {
+            "id": "w_9d5e3578a49cdaacae208dc577f1c9f93ba1407b",
+            "content": {
+                "en": "Tony Stewart trying to climb the catch fence"
+            }
+        },
+        {
+            "id": "w_dacae2103dcde1dad3f0bfb46672646bf9ad38b8",
+            "content": {
+                "en": "Trevor Bayne&apos;s second victory."
+            }
+        },
+        {
+            "id": "w_a682198f60160279d948728d8ab77e689c4b79ea",
+            "content": {
+                "en": "Trying to race the Indy 500 and the Coca Cola 600 in the same day"
+            }
+        },
+        {
+            "id": "w_ba743c492cdf81565836830f992faa481eac737b",
+            "content": {
+                "en": "Turning right just once"
+            }
+        },
+        {
+            "id": "w_3f18c2406a150bddec4a540a400a0ed1186e217d",
+            "content": {
+                "en": "Two-time Daytona 500 champion Michael Waltrip."
+            }
+        },
+        {
+            "id": "w_944b221ad769d94794a67cbf479989e221ffa9f2",
+            "content": {
+                "en": "Unexpected equipment explosions"
+            }
+        },
+        {
+            "id": "w_a71553f44716a099edbd639e05d8e5b90ee0affa",
+            "content": {
+                "en": "Unexplained attachment to the number three"
+            }
+        },
+        {
+            "id": "w_ca42beb629b4c6d3762594f0142859d5cd9ef4da",
+            "content": {
+                "en": "Unexplained hatred for Kyle Busch"
+            }
+        },
+        {
+            "id": "w_99549a5dc53d2bcdbf2a21bf30bf80dcad1fa6fb",
+            "content": {
+                "en": "Unnecessary cowboy hats"
+            }
+        },
+        {
+            "id": "w_a594bc1b1aa7592552a3c3ed127d6050167af1be",
+            "content": {
+                "en": "Using Ryan Newman&apos;s shoulders as a carpenter&apos;s square"
+            }
+        },
+        {
+            "id": "w_c66f465bf281b64e143eacad68e66136df3aa44d",
+            "content": {
+                "en": "Vortex theory"
+            }
+        },
+        {
+            "id": "w_ebc2e6e7858fba7d1f8826f36e0f85e14db814ea",
+            "content": {
+                "en": "Waiting to give Wendell Scott his trophy."
+            }
+        },
+        {
+            "id": "w_c592530d6fcdd40260bf98253b8e80526b3cb297",
+            "content": {
+                "en": "Ward Burton&apos;s accent."
+            }
+        },
+        {
+            "id": "w_8f00c5e3e313cf85bc142515778e8fed446ae47e",
+            "content": {
+                "en": "Wearing sunglasses at 11:30 at night"
+            }
+        },
+        {
+            "id": "w_97bad5a9941c70ca1648d9abbdcca98175a6a0c6",
+            "content": {
+                "en": "What&apos;s left of Jerry Nadeau&apos;s brain"
+            }
+        },
+        {
+            "id": "w_496e792b7e62f30548c368903830ba93e951ffaf",
+            "content": {
+                "en": "Wrecking on the last lap and running across the finish line."
+            }
+        },
+        {
+            "id": "w_64cc605ac1e20869b3e17fc26a0a2e6e4808e878",
+            "content": {
+                "en": "Your stupid kid trying to eat your NASCAR Hot Wheels cars"
+            }
+        },
+        {
+            "id": "b_61fa49f82a52b52c0d63429bed3d45b78df32a59",
+            "content": {
+                "en": "All right guys, here&apos;s what we're going to do to win the race: first we're going to ______, then we ______, and finally we ______"
+            },
+            "pick": 3
+        },
+        {
+            "id": "b_90f116ca75fdd1f5ff07cc54861f90317154386a",
+            "content": {
+                "en": "Before being known as \"The Intimidator\", Dale Earnhardt was known as ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_df723563ce02e330d7dfe8288e178e3c77b64d5a",
+            "content": {
+                "en": "Before it referred to a multi-car crash, \"The Big One\" was used to describe ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_d6abb50896d18cd782266c4f59239abe57765ea7",
+            "content": {
+                "en": "Before Sprint took over, the Winston Cup series was going to be called the ______ Cup Series."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e6b1204ae4188f0af1b43065ce06db2adc9ebdae",
+            "content": {
+                "en": "Before they changed sponsorship, the Sprint Cup was called the ______ Cup."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_743d917f02a04d74e261f3ad6b406542243ba296",
+            "content": {
+                "en": "Brian France announced a new wave of changes to NASCAR, telling drivers that to win the championship, they would have to ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_809a77df8f9f54af85fd0b502377ad04b0a5ae58",
+            "content": {
+                "en": "Cars were overheating when ______ got stuck over their grill openings."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_798f4958a350bf1ec18558ad26fcb97b6051b65c",
+            "content": {
+                "en": "Chad Knaus was suspended for four weeks for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ed045fe286d8caa9182ab9696c91bd9ab191cb16",
+            "content": {
+                "en": "Dale Earnhardt Jr.&apos;s favorite Lynyrd Skynyrd song is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9aef5dd84607e7e7f9459ab3b03f33d076a26e52",
+            "content": {
+                "en": "Dale Earnhardt lost this year&apos;s Daytona 500 because of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a8346861a09b958ee715bdcb7fd2615717fea4fb",
+            "content": {
+                "en": "Dating Miss Sprint Cup has its perks; after every race, we sneak into Victory Lane and start ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bef87465631acc3225bf98ef261aad23e93041fc",
+            "content": {
+                "en": "Fans were shocked when Jeff Gordon announced that ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_872784fb715ce72bed1b800d152f0e911076e470",
+            "content": {
+                "en": "Glen \"Fireball\" Roberts wasn't the only unfortunate nickname; let&apos;s not forget about John \"______\" Smith."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_34eccd6df5a09e72b37bb28ffa98916eef61d1c4",
+            "content": {
+                "en": "How does Carl Edwards stay in shape?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1832f6171552eacf2996681b193ef38f0658a2dc",
+            "content": {
+                "en": "Instead of \"The Chase\", NASCAR fans have started calling the championship ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e4a2b660371bbe9aa4fb9097d414400e250561f8",
+            "content": {
+                "en": "Instead of a trophy, the Sprint Cup Champion will now receive ______ and ______"
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_6f9307b24292dfe62f321c82a42a242999997c40",
+            "content": {
+                "en": "It came as a huge surprise when Dale Earnhardt Junior announced that he was a passionate follower of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_08316a801bac748fda4bfebeee642fd580086c6b",
+            "content": {
+                "en": "Jeremy Mayfield drove last Sunday&apos;s race under the influence of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fa566ede36309f03f339803ea3268d83a4819a65",
+            "content": {
+                "en": "Kurt Busch was caught on camera swearing at ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_19ec79e7c5a6615d189c4dcf1e33aae12e1ddb17",
+            "content": {
+                "en": "NASCAR announced that the new broadcast team will consist solely of commentary by ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_a096675f2fda832f700dedfc365528ef0d9d9ada",
+            "content": {
+                "en": "NASCAR has decided to replace the COT&apos;s wing with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_8d73da25839fdce7c1733a37ba9980f4a2ec086f",
+            "content": {
+                "en": "Nobody knew about Dale Jarrett&apos;s secret double life as ______ until now."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_eeb485b351c3ee5851b59a72a0ab73453a757259",
+            "content": {
+                "en": "Performing today&apos;s invocation is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6dfa04dbbb84bb5bde836feee44f7e6f46a41f66",
+            "content": {
+                "en": "Richard Petty recently challenged Danica Patrick to a 1 on 1 competition involving ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c1a07c66afab445c7dc9ef155972e1a8b3190723",
+            "content": {
+                "en": "Several drivers are considering running the Coca Cola 600 and ______ on the same day."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_32d501d54d57c953f0103dbabc1a186ce8d2fbd1",
+            "content": {
+                "en": "The last thing I expected to see in the garage area was ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ab750e678be61df175146f35f720e5042983919a",
+            "content": {
+                "en": "The latest NASCAR champion drove the ______ Chevrolet"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_04644d8fa9ee0e25d98fe081fa6b0ce23cdc839c",
+            "content": {
+                "en": "The opening ceremony for this year&apos;s Daytona 500 now includes ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_2871aa3f5029cfa41a0f7e534504f384d3ec2f11",
+            "content": {
+                "en": "The ______ 500 Presented by ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_2bb991937f2a28e96768960c33539a3ef625c6f4",
+            "content": {
+                "en": "Today&apos;s National Anthem will be performed by ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b8888e13413eb1cce1a26f5393bbea7cc8a694c0",
+            "content": {
+                "en": "Welcome back to the ______ 400, presented by ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_342e0d551c39a0a4d9615f68d34d761d9101a3d7",
+            "content": {
+                "en": "What happened to Jeff Gordon this week?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4132af69d6793a4ef699706110b768944a5168b6",
+            "content": {
+                "en": "What is Tony Stewart&apos;s favorite snack?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_c7a766a4f3c26d39db589f4171874973da677f91",
+            "content": {
+                "en": "What makes a true NASCAR fan?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_e950e2f5d1d223cf3e0e23aa1306314abb9663f9",
+            "content": {
+                "en": "What&apos;s missing from every NASCAR race?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1aafcfb97fb3e1fbb3846edefac1f1d049998813",
+            "content": {
+                "en": "What&apos;s worse than losing the Daytona 500?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_52de39fbed04c3bea4794c19711215330510ba90",
+            "content": {
+                "en": "When he dies, NASCAR plans to honor Richard Petty with a tribute consisting primarily of ______"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7abb9301e7494235be82b7cf1665bc2d5c14d86a",
+            "content": {
+                "en": "Why are most of the drivers white men?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_daddcb0be6ca649a5b49aa17465a1f98f0ea83c8",
+            "content": {
+                "en": "Why did NASCAR ban beach balls from the grandstands?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_142fd68907bbd6eb8f7132f5598883f982998a12",
+            "content": {
+                "en": "Why was Jeremy Mayfield suspended this time?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_b9f880c1f19401f4a60d41acaabd1e047cac1ebf",
+            "content": {
+                "en": "______ + ______ with a touch of ______ = the only way to stop Jimmie Johnson"
+            },
+            "pick": 3
+        }
+    ]
+}
