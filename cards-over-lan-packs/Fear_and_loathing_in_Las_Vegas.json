@@ -1,0 +1,114 @@
+{
+    "id": null,
+    "name": "Fear and loathing in Las Vegas",
+    "accent_background": "#865FC5",
+    "accent_color": "white",
+    "author": "-",
+    "cards": [
+        {
+            "id": "w_ac446a20a4d1c715f0e4baa2309dab17c72ebec1",
+            "content": {
+                "en": "&ldquo;Many fine books have been written in prison.&rdquo;"
+            }
+        },
+        {
+            "id": "w_704b16b5765639fd900ddb3d50452d5bec63d938",
+            "content": {
+                "en": "A natural street freak, just eating whatever came by.&rdquo;"
+            }
+        },
+        {
+            "id": "w_dc8c9483d8b52e9e4c179f99bc97aea74e98eca7",
+            "content": {
+                "en": "A waitress with the appearance of a very old hooker who has finally found her place in life"
+            }
+        },
+        {
+            "id": "w_7a77380a0a6be882b41d0b7352c157dd9e18180b",
+            "content": {
+                "en": "An ominous assignment -- with overtones of extreme personal danger."
+            }
+        },
+        {
+            "id": "w_f52c2d06998d455af6859619179730637c846540",
+            "content": {
+                "en": "Ignoring that nightmare in the bathroom."
+            }
+        },
+        {
+            "id": "w_5d5926ea5cb88aa7214f1b0d16058be77e0874d5",
+            "content": {
+                "en": "The hazy line between masochism and madness."
+            }
+        },
+        {
+            "id": "w_e068dc25da4fee196b68e976ed2777dfdb05ee1c",
+            "content": {
+                "en": "Two women fucking a polar bear"
+            }
+        },
+        {
+            "id": "b_7843b9cfabbaca60bc1ac207f42cbe6a88ad34db",
+            "content": {
+                "en": "Be quiet, be calm... name, rank, and ______, nothing else..."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_1e0ed44dbe6c7093545ae56abfdec31bbc9da866",
+            "content": {
+                "en": "But our trip was different. It was a classic affirmation of everything right and true and decent in the national character. A gross, physical salute to the fantastic possibilities of ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_0c57e9b83e4bcd4bb22da6272af94b3ca17b6ab8",
+            "content": {
+                "en": "Consciousness Expansion&rdquo; went out with LBJ &hellip; and it is worth noting, historically, that ______ came in with Nixon.&rdquo;"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_96acd1b4cbb0096557e0890064153a2f909737f4",
+            "content": {
+                "en": "Every now and then when your life gets complicated and the weasels start closing in, the only real cure is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_7ce390bd42d68028efbdb84df4edc9234f192f37",
+            "content": {
+                "en": "In a closed society where everybody&apos;s guilty, the only crime is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_18a351363788a2a559eb79b310e4e8d1420ee52a",
+            "content": {
+                "en": "In a world of thieves, the only final sin is ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_04d53f653c532272e89d40cdcc652eb14741b31a",
+            "content": {
+                "en": "Journalism is not a profession or a trade. It is a cheap catch-all for fuckoffs and misfits&mdash;a false doorway to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_6062597d138afb1d054cb1eaabb67bdf6a9cf622",
+            "content": {
+                "en": "Shortly before my murder, I was still vaguely haunted by our hitchhiker\u2019s remark about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_9c955f1d461b48148e698562b977ebcdcd681c8e",
+            "content": {
+                "en": "______ is what the whole hep world would be doing on Saturday night if the Nazis had won the war."
+            },
+            "pick": 1
+        }
+    ]
+}
