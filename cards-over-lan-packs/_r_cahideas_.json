@@ -2586,6 +2586,12 @@
             }
         },
         {
+            "id": "w_2a49b2dfde74efae81ab06b6c60bfdd35d21c263",
+            "content": {
+                "en": "A beautiful day in sunny Reykjav&iacute;k, at twenty minutes past three o'clock!"
+            }
+        },
+        {
             "id": "w_672ad47a4b0301d7010ca173836cdaa55fd48aca",
             "content": {
                 "en": "A beautiful man with a beautiful beard"
@@ -7473,6 +7479,12 @@
             "id": "w_977972dce76384292faa643655e454d239b2afd7",
             "content": {
                 "en": "A dude who looks like a lady."
+            }
+        },
+        {
+            "id": "w_9b0c72b64335977f664a146fdcb81c2abe2848ab",
+            "content": {
+                "en": "A duffel bag filled to the brim with spaghetti."
             }
         },
         {
@@ -48714,6 +48726,12 @@
             }
         },
         {
+            "id": "w_385883654a9888013126ef559d24c08c1bd2f39a",
+            "content": {
+                "en": "Doing 6-7 to someone\u2019s boobies"
+            }
+        },
+        {
             "id": "w_e3b44ea5cfd0869f1452c9e95b316b528e1d1433",
             "content": {
                 "en": "doing a face plant with a fork in my mouth"
@@ -59157,6 +59175,12 @@
             "id": "w_663cd727a4b721dcbea8b858823b6b064a9d56f1",
             "content": {
                 "en": "Fran&ccedil;ois Duvalier"
+            }
+        },
+        {
+            "id": "w_ec673d2b77d957b5d06d9813ecada24fd91efcd7",
+            "content": {
+                "en": "Francis Ford Crappola\u2019s Shart of Darkness"
             }
         },
         {
@@ -86292,6 +86316,12 @@
             }
         },
         {
+            "id": "w_5b26b08476e2abe694ba89e0b2adafa3f7699667",
+            "content": {
+                "en": "Muppet porn."
+            }
+        },
+        {
             "id": "w_d1b437dfac70631f64ad42574aa9c5f3330ef382",
             "content": {
                 "en": "Muppets Burlesque"
@@ -94242,6 +94272,12 @@
             }
         },
         {
+            "id": "w_bd26d7502810eb80f9cd9e9d571da9be42599acd",
+            "content": {
+                "en": "Placing a tips jar near the workplace coffee machine for passive income"
+            }
+        },
+        {
             "id": "w_8203496af282309f987116d737891c94e749c00a",
             "content": {
                 "en": "Placing a toothpick under your toe nail and kicking a wall."
@@ -98499,6 +98535,12 @@
             "id": "w_ce19ca1d9305179fc2747c56ecbfa5224935702f",
             "content": {
                 "en": "Putting on a mask and gagging from the stink of your own breath"
+            }
+        },
+        {
+            "id": "w_5b9ac95da0a4488c6cb2bc6dff0e877486fdebf3",
+            "content": {
+                "en": "putting on my dead grandmas socks"
             }
         },
         {
@@ -118164,6 +118206,12 @@
             }
         },
         {
+            "id": "w_d71e65fe0e2d26802932928cff16818e4ede2fb2",
+            "content": {
+                "en": "The 46th presidency a\/k\/a the Trump Vengeance Tour"
+            }
+        },
+        {
             "id": "w_0363c7d4f818042785e690a1ece582fe8fa4a2e0",
             "content": {
                 "en": "The 46th President of the United States of America, Bernie Sanders"
@@ -118473,6 +118521,12 @@
             "id": "w_4ab01e6638c6c4d95228621fadf932a08d344a91",
             "content": {
                 "en": "The Amazon poop bags"
+            }
+        },
+        {
+            "id": "w_39304b1347cc215e35ecdf631b4350f5364bd28a",
+            "content": {
+                "en": "The American devolution"
             }
         },
         {
@@ -120687,6 +120741,18 @@
             "id": "w_e6240a13add9ce80eae6764e15da1b4f936c3cff",
             "content": {
                 "en": "the dancing queen, young and sweet, only seventeen"
+            }
+        },
+        {
+            "id": "w_6401dd6e41707aba07fe7321bc82735eb664f347",
+            "content": {
+                "en": "The Dark Side"
+            }
+        },
+        {
+            "id": "w_6401dd6e41707aba07fe7321bc82735eb664f347",
+            "content": {
+                "en": "The Dark Side"
             }
         },
         {
@@ -130113,6 +130179,12 @@
             "id": "w_ce0ea3391f4d24dfb899bb8866d60d6b4a898466",
             "content": {
                 "en": "The Trump crime family"
+            }
+        },
+        {
+            "id": "w_0a6a67664c4862a5d40ded7cf655dd08c3761dc4",
+            "content": {
+                "en": "the Trump government shut down"
             }
         },
         {
@@ -150359,6 +150431,13 @@
             "pick": 1
         },
         {
+            "id": "b_a52561fc68a8d89e4193464e40a4c9906d98e382",
+            "content": {
+                "en": "Be careful, Anakin. ______ is a path to the Dark Side."
+            },
+            "pick": 1
+        },
+        {
             "id": "b_961f5d52acb473f52d10077b6aaaf0aa6dfbcef2",
             "content": {
                 "en": "Be very careful. If you mix ______ and ______, it makes ______. And that would be bad."
@@ -152567,6 +152646,13 @@
             "id": "b_b88677c06b85b4575147616b4f89b08e4851801b",
             "content": {
                 "en": "Democrats... At least we're not ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_4c8bebee7263c953073b07da807310b088dafd6f",
+            "content": {
+                "en": "Denial, Anger, Bargaining, Depression, and Acceptance are the 5 stages of ______."
             },
             "pick": 1
         },
@@ -172010,6 +172096,13 @@
             "pick": 2
         },
         {
+            "id": "b_01dd26b56d1578e77eb905e4eccace07df69fe17",
+            "content": {
+                "en": "my rapper name would be lil______."
+            },
+            "pick": 1
+        },
+        {
             "id": "b_4d968f95e86047539ba5270e6cf3f8867201b770",
             "content": {
                 "en": "My Reddit post got highly downvoted because it was about ______."
@@ -182975,6 +183068,13 @@
             "id": "b_32fa50a9954757c22a5ecc5cda4621f15909b131",
             "content": {
                 "en": "To arms! To arms! ye soldiers, The trumpet call obey! Arise from dreary slumbers To watch, and fight, and ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_891ad26ab2d720092ad78ce02f4e09de996d10e2",
+            "content": {
+                "en": "To assist with DUI investigations, the state of Florida has introduced ______ into the list of field sobriety tests."
             },
             "pick": 1
         },
